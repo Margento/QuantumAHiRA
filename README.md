@@ -3,7 +3,7 @@ IntermediaPoetry ; IntermediaComputation ; Creative AI ; NLP ; NLPPoetry ; Machi
 
 “Quantum AHiRA” forms part of a broader project that maps the rhetoric of foundational quantum mechanics ('quantum_foundations_txt') onto large literary and cultural periodical corpora for analytical and creative purposes.
 
-Metaphors, paradoxes, and argumentation flows from early quantum physics texts were computationally paired with analogous tropes and reasoning patterns in journals from AHiRA and CMoLA (the Argentine Historical Journal Archives and Cultural Magazines of Latin America, 1896–1959; https://recerca.uoc.edu/documentos/67bc32b7478fbf5d29390dc6?lang=en).
+Metaphors, paradoxes, and argumentation flows from early quantum physics texts were computationally paired with analogous tropes and reasoning patterns in journals from AHiRA and CMoLA (the Argentine Historical Journal Archives and Cultural Magazines of Latin America, 1896–1959; https://recerca.uoc.edu/documentos/67bc32b7478fbf5d29390dc6?lang=en, Tanasescu & Roig-Sanz 2025).
 
 Using LLMs, metaphors were first identified in the physics corpus (via GPT-4) and then classified (via Mixtral) as common-speech or field-specific. Automated searches then located passages in the Latin American journals where the semantic contrasts between terms mirrored those in the physics corpus—particularly where both were similarly incongruent within their contexts.
 
