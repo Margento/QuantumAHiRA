@@ -1,0 +1,1810 @@
+
+--- Page 1 ---
+1926. M 6.
+
+ANNALEN DER PHYSIK.
+
+VIERTE FOLGE. BAND 79.
+
+1. Quantisierung als Eigenwertiproblem;
+von E. Schrödinger.
+
+(Zweite Mitteilung.)‘)
+
+$1. Die Hamiltonsche Analogie zwischen Mechanik und Optik,
+
+Bevor wir daran gehen, das Eigenwertproblem der Quanten-
+theorie für weitere spezielle Systeme zu behandeln, wollen wir
+den allgemeinen Zusammenhang näher beleuchten, welcher
+zwischen der Hamiltonschen partiellen Differentialgleichung
+(H.P.) eines mechanischen Problems und der „zugehörigen“
+Wellengleichung, d. i. im Falle des Keplerproblems der Glei-
+chung (5) der ersten Mitteilung, besteht, Wir hatten diesen
+Zusammenhang vorläufig nur kurz seiner äußeren analytischen
+Struktur nach beschrieben durch die an sich unverständliche
+Transformation (2) und den ebenso unverständlichen Übergang
+von der Nullsetzung eines Ausdrucks zu der Forderung, daß
+das Raumintegral des nämlichen Äusdruckes stationär sein. soll.?)
+
+Der innere Zusammenhang der Hamiltonschen Theorie
+mit dem Vorgang der Wellenausbreitung ist nichts weniger
+als neu. Er war Hamilton selbst nicht nur wohlbekannt,
+sondern bildete für ihn den Ausgangspunkt seiner Theorie der
+Mechanik, die aus seiner Optik inhomogener Medien hervor-
+gewachsen ist.) Das Hamiltonsche Variationsprinzip kann
+
+1) Siehe diese Annalen 79. 8.361. 1926. Es ist zum Verständnis
+nicht unbedingt nötig, die erste Mitteilung vor der zweiten zu lesen.
+
+2) Dieser Rechenvorgang wird in der vorliegenden Mitteilung nicht
+weiter verfolgt. Er sollte nur zur vorläufigen raschen Orientierung über
+den äußerliehen Zusammenhang zwischen der Wellengleichung und der
+H.P. dienen. steht nicht wirklich zur Wirkungsfunktion einer be-
+stimmten Bewegung in der von der Gleichung (2) der ersten Mitteilung
+behaupteten Beziehung. — Hingegen ist der Zusammenhang der Wellen-
+gleichung und der Variationsaufgabe selbstverständlich höchst real: der
+Integrand des stationären Integrals ist die Lagrange-Funktion für den
+Wellenvorgang. -
+
+8) Vgl. z.B. E. T. Whittaker, Analytische Dynamik (Deutsche
+Ausgabe bei Springer 1924). Kap. 11. $. 306.
+
+Annalen der Physik. IV. Folge. 79. 32
+
+--- Page 2 ---
+490 B. Schrödinger.
+
+als Fermatsches Prinzip für eine Wellenausbreitung im Kon-
+figurationenraum (g-Raum) aufgefaßt werden, die H.P. spricht
+das Huygenssche Prinzip für diese Wellenausbreitung aus
+Leider ist dieser kraftvolle und folgenschwere Ideenkreis Ha-
+miltons in den meisten modernen Wiedergaben seines schönen
+anschaulichen Gewandes als eines überflüssigen Beiwerks be-
+raubt worden zugunsten einer mehr farblosen Darstellung der
+analytischen Zusammenhänge.!)
+
+Betrachten wir das allgemeine Problem der klassischen
+Mechanik konservativer Systeme. Die H.P, lautet vollständig
+
+a + Pla, SE) + Fa) =.
+
+W ist die Wirkungsfunktion, d. h, das Zeitintegral der La-
+grangefunktion 7—7 entlang einer Systembahn als Funktion
+der Endlage und der Zeit. g, steht als Repräsentant der
+Lagekoordinaten, 7 ist die kinetische Energie als Funktion
+der Lage- und Impulskoordinaten, eine quadratische Form
+der letzteren, für welche nach Vorschrift die partiellen Diffe-
+rentialquotienten von 7’ nach den g, eingetragen sind. 7 ist
+die potentielle Energie. Zur Lösung der Gleichung macht man
+den Ansatz
+
+(2) W=— Et+8(q),
+wodurch dieselbe übergeht in
+(6b) 27(M, Zr) -2(E- vr).
+
+E ist eine erste willkürliche Integrationskonstante und be-
+deutet bekanntlich die Systemenergie. Entgegen der üblichen
+
+1) Felix Klein hat seit dem Sommer 1891 in seinen Vorlesungen
+über Mechanik wiederholt die Jacobische Theorie aus quasi-optischen
+Betrachtungen in niechteuklidischen höheren Räumen entwickelt, Vgl.
+F. Klein, Jahresber. d. Deutsch. Math, Ver. 1. 1891 und Zischr. f.
+Math. u. Phys. 46. 1901. (Ges.-Abh. If, $. 601 u. 608}. In der zweiten
+Note stellt Klein mit leiehtem Vorwurf fest, daß sein Vortrag vor der
+Naturforscherversammlung in Halle, worin er zehn Jahre vorher diese
+Zusammenhänge dargelegt und die große Bedeutung der Hamilton-
+schen optischen Abhandlungen betont hatte, „nicht die allgemeine Beach-
+tung gefunden hat, die ich für ihn in Aussicht nahm“. — Ich verdanke
+den Hinweis auf F. Klein einer freundlichen brieflichen Mitteilung Hrn,
+Prof, Sommerfelds. $. a. „Atombau‘ 4, Aufl, 8. 808.
+
+--- Page 3 ---
+Quantisierung als Eigenwertproblem. 491
+
+Gepflogenheit haben wir in (1’) die Funktion W selbst stehen
+lassen, anstatt wie üblich, die zeitfreie Koordinatenfunktion $
+hineinzuschreiben. Das ist eine reine Äußerlichkeit.
+
+Die Aussage der Gleichung (1’) 1äßt sich nun höchst ein-
+fach aussprechen, wenn man sich der Ausdrucksweise von
+Heinrich Hertz bedient. Sie wird, wie alle geometrischen
+Aussagen im Konfigurationenraum (Raum der Variablen g,)
+besonders einfach und anschaulich, wenn man in diesem Raum
+mittels der kinetischen Energie des Systems eine nichteuklidi-
+sche Maßbestimmung einführt. Sei 7 die kinetische Energie
+als Funktion der Geschwindigkeiten g,, nicht wie oben der Im-
+Pulse, so setze man für das Linienelement
+
+(8) 4’ = 2T7lq, GAR.
+
+Die rechte Seite enthält dt nur äußerlich, sie meint (mittels
+g,dt= dq,) eine quadratische Form der qg,.
+
+Nach dieser Festsetzung darf man bekanntlich von Be-
+griffen wie: Winkel zweier Linienelemente, Senkrechtstehen,
+Divergenz und Rotation eines Vektors, Gradient eines Skalars,
+Laplacesche Operation (= div grad) eines Skalars u, ä. ganz
+denselben einfachen Gebrauch machen, wie im dreidimensio-
+nalen euklidischen Raum, man darf sich zum Denken un-
+gestraft der euklidischen dreidimensionalen Vorstellung be-
+dienen, nur die analytischen Ausdrücke für diese Begriffe
+werden ein ganz klein wenig komplizierter, indem durchwegs
+an Stelle des euklidischen Linienelements das Linienelement (3)
+zu treten hat. Wir setzen fest, daß im folgenden alle geome-
+trischen Aussagen im g-Raum in diesem nichteuklidischen Sinn zu
+verstehen sind.
+
+Für die Rechnung ist eine der wichtigsten Abänderungen,
+daß man sorgfältig zwischen kovarianten und kontravarianten
+Komponenten eines Vektors oder Tensors zu unterscheiden hat.
+Aber diese Komplikation ist nicht größer als schon im Falle
+eines schiefwinkeligen Kartesischen Axenkreuzes.
+
+Die dg, sind das Prototyp eines kontravarianten Vektors.
+Die von den g, abhängigen Koeffizienten der Form 27 haben
+daher kovarianten Charakter, sie bilden den kovarianten Fun-
+damentaltensor. 27 ist die zu 27 gehörige kontravariante
+Form, denn die Impulskoordinaten bilden bekanntlich den zum
+
+32*
+
+--- Page 4 ---
+"493 E, Schrödinger.
+
+Geschwindigkeitsvektor g, gehörigen kovarianten Vektor, der
+Impuls ist der Geschwindigkeitsvektor in kovarianter Gestalt.
+Die linke Seite von (1) ist nun nichts weiter als die kontra-
+variante Fundamentalform, in welche als Variable die 0 W/ög,
+eingetragen sind. Letztere bilden die Komponenten des seiner
+Natur nach kovarianten Vektors
+
+grad W.
+
+(Diesen Sinn also hat die Umrechnung der kinetischen Energie .
+von den Geschwindigkeiten auf die Impulse, daß man kovariante
+Vektorkomponenten nur in eine kontravariante Form eintragen
+darf, wenn etwas Sinnvolles, d. h. Invariantes resultieren soll.)
+
+Gleichung (1’) deckt sich daher mit der einfachen Aussage
+
+9) (grad W = EN)
+oder
+1”) Igrad 7 | = YE—P).
+Diese Forderung ist leicht zu analysieren. Gesetzt, es sei eine
+Funktion W [von der Gestalt (2)] gefunden, die dieser Forderung
+genügt. Dann kann man diese Funktion für ein: bestimmtes t
+jedenfalls anschaulich darstellen, indem man im g-Raum die
+Flüchenschar 9 = const, einzeichnet und zu einer jeden ihren
+W-Wert hinzuschreibt. |
+
+Nun gibt einerseits, wie wir sogleich zeigen werden, die
+Gleichung (1”) eine genaue Konstruktionsvorschrift, um aus
+irgendeiner Fläche dieser Schar, wenn sie und ihr W-Wert be-
+kannt ist, sukzessive alle übrigen und ihre W-Werte zu kon-
+struieren. Andererseits läßt sich das einzige zu dieser Kon-
+struktion benötigte Datum, nämlich die eine Fläche und ihr
+W-Wert, völlig willkürlich vorgeben und alsdann nach der Kon-
+struktionsvorschrift genau zweideutig zu einer der Forderung
+genügenden Funktion W ergänzen. Bei alledem denken wir
+vorläufig. die Zeit konstant. — Die Konsiruktionsvorschrift
+erschöpft also den Inhalt der Differentialgleichung, man kann
+jede ihrer Lösungen aus einer passend angenommenen Fläche
+plus X-Wert erhalten.
+
+Nun zur Konstruktionsvorschrift. Sei also, Fig. 1, auf
+einer willkürlichen Fläche der Wert 7, vorgeschrieben. Um
+die Fläche zu finden, welcher der Wert W, +dJP, zugehört,
+
+--- Page 5 ---
+Quantisierung als Eigenweriproblem. 493
+
+bezeichne man ein Ufer der vorgegebenen Fläche willkürlich
+als das positive, errichte in jedem Flächenpunkt das Lot und
+trage auf ihm (unter Rücksicht auf das Vorzeichen von dP,)
+die Strecke
+ _1M
+
+(4) ds= ar
+ab. Die Endpunkte der Lote erfüllen die Fläche #, +d#W,.
+So fortfahrend kann man sukzessive die Flächenschar nach
+beiden Ufern hin konstruieren.
+
+Die Konstruktion ist zweideutig, denn man hätte vor dem
+ersten Schritt auch das andere Ufer als das positive bezeichnen
+
+Fig. 1.
+
+können. Für die späteren Schritte besteht diese Zweideutig-
+keit aber nicht mehr, d. h. man kann nicht in irgendeinem
+späteren Stadium des Prozesses die Uferbezeichnung der Fläche,
+zu der man just gelangt ist, willkürlich wechseln, denn das
+würde im allgemeinen eine Unstetigkeit der ersten Differential-
+quotienten von 7 involvieren. Übrigens sind die zwei Flächen-
+scharen, zu denen man in den beiden Fällen gelangt, offenbar
+identisch, nur die hinzugeschriebenen W-Werte laufen in um-
+gekehrter Richtung.
+
+Betrachten wir nun die höchst einfache Abhängigkeit von
+der Zeit, so zeigt Gleichung (2), daß auch zu irgendeinem
+späteren (oder früheren) Zeitpunkt ? +? die nämliche Flächen-
+schar die F-Verteilung veranschaulicht, nur sind zu den ein-
+zelnen Flächen andere 77-Werte hinzuzuschreiben, u. zwar ist
+von jedem der zur Zeit £ angeschriebenen W-Werte BE?’ zu
+subtrahieren. Die W-Werte wandern sozusagen nach einem
+
+--- Page 6 ---
+494 E. Schrödinger.
+
+bestimmten einfachen Gesetz von Fläche zu Fläche, und zwar
+bei positivem Z in Richtung der wachsenden 7-Werte. Statt
+dessen kann man sich vorstellen, daß die Flächen fortwandern,
+indem jede die Gestalt und Lage der nächstfolgenden annimmt,
+und dabei ihren W-Wert mit sich führt. Das Wanderungs-
+gesetz der Flächen ist dadurch gegeben, daß z. B. die Fläche
+W, zur Zeit t-+- dt die Lage erreicht haben muß, welche zur
+Zeit die Fläche W, + Pdt innehatte. Das wird nach (4) er-
+zielt, indem man jeden Punkt der Fläche 7, in der Richtung
+des positiven Lotes um
+
+(5) ds it
+
+yaß-vj
+fortwandern läßt. D.h. die Flächen verschieben sich mit einer
+Normalengeschwindigkeit
+(&) ud
+de” Var-m’.
+
+die nach Vorgabe der Konstante Z eine reine Ortsfunktion ist.
+
+Jetzt erkennt man, daß unser Flächensystem W = const.
+aufgefaßt werden kann als das System der Wellenflächen einer
+fortschreitenden, aber stationären Wellenbewegung im g-Raum,
+für welche der Betrag der Phasengeschwindigkeit in jedem
+Punkt des Raumes durch (6) gegeben ist. Denn die Lotkon-
+struktion läßt sich offenbar ersetzen durch die Konstruktion
+der Huygensschen Elementarwellen [mit dem Radius (5)]
+und ihrer Enveloppe. Der „Brechungsindex“ ist dem Rezi-
+prokwert von (6) proportional, er ist abhängig vom Ort, aber
+nicht von der Richtung. Der g-Raum ist also optisch in-
+homogen aber isotrop. Die Elementarwellen sind Kugeln, aller-
+dings — wie hier wieder einmal ausdrücklich gesagt sei —
+Kugeln im Sinne des Linienelements (3).
+
+Die Wirkungsfunktion 7 spielt für unser Wellensystem
+die Rolle der Phase. Die H.P. ist der Ausdruck des Huy-
+gensschen Prinzips. Formuliert man das Fermatsche Prinzip
+
+P Ps & jr
+
+s[is _,faRE-N)_,far,,_i
+
+@) 0, ee ar zoforas
+1 z\ > [3
+
+so wird man direkt auf das Hamiltonsche Prinzip in der
+Maupertuisschen Form geführt (wo die Zeitintegrale mit dem
+
+--- Page 7 ---
+Quantisierung als Bigenwertproblem. 495
+
+üblichen grano salis zu verstehen sind, d.h. 7+ 7 = H=const,,
+auch bei der Variation.) Die „Strahlen“, d. h. die Orthogonal-
+trajektorien der Wellenflächen sind also Bahnen des Systems
+für den Energiewert 7, in Übereinstimmung mit dem wohl-
+bekannten Gleichungssystem
+
+ö
+& P,= Im’
+welches aussagt, daß aus jeder speziellen Wirkungsfunktion
+eine Schar von Systembahnen abgeleitet werden kann wie eine
+Strömung aus ihrem Geschwindigkeitspotential‘) (Die Im-
+pulse p, bilden ja einfach den kovarianten Geschwindigkeits-
+vektor, die Gleichungen (8) sagen aus, daß er dem Gradienten
+der Wirkungsfunktion gleich ist)
+
+Trotzdem in den vorstehenden Überlegungen von Wellen-
+flächen, Fortpflanzungsgeschwindigkeit, Huygensschem Prin-
+zip die Rede ist, hat man dieselben doch eigentlich nicht als
+eine Analogie der Mechanik mit der Wellenoptik, sondern mit
+‘der geometrischen Optik anzusehen. Denn der Begriff der
+Strahlen, auf den es für die Mechanik dann hauptsächlich an-
+kommt, gehört der geometrischen Optik an, er ist nur ihr ein
+scharfer Begriff. Auch das Fermatsche Prinzip 1äBt sich rein
+geometrisch-optisch fassen mit alleiniger Benützung des Be-
+griffes Brechungsindex. Und das System der W.Flächen, als
+Wellenflächen aufgefaßt, steht zur mechanischen Bewegung vor-
+erst in einer etwas loseren Beziehung insofern, als der Bild-
+punkt des mechanischen Systems auf dem Strahl keineswegs
+etwa mit der Wellengeschwindigkeit = fortrückt, sondern im
+Gegenteil, seine Geschwindigkeit ist (bei konstantem E) pro-
+portional I/x. Sie ergibt sich ja direkt aus (3) als
+
+0) 0 = 54 = VaR = YaB-=P),
+
+Diese Nichtübereinstimmung ist einleuchtend. Erstens nach (8);
+die Systempunktgeschwindigkeit ist groß, wo grad 7 groß ist,
+d.h. wo die 7-Flächen sich dicht zusammendrängen, d.h. wo
+
+1) Vgl. besonders A. Einstein, Verh. d.D. Physik. Ges. 19. 8. 77,
+82. 1917. Die an dieser Stelle gegebene Fassung der Quantenbedingungen
+steht unter allen älteren Fassungen der vorliegenden am nächsten.
+Auch de Broglie hat auf sie zurückgegriffen.
+
+--- Page 8 ---
+496 E. Schrödinger.
+
+u klein ist. Zweitens aus der Bedeutung von 77 als Zeitintegral
+der Lagrangefunktion: dieses verändert natürlich während der
+Bewegung [während dt um (7— di], daher kann der Bild-
+punkt nicht beständig mit derselben 7-Fläche in Kontakt
+bleiben. " ö
+
+Und so treten denn auch wichtige Begriffe der Wellen-
+lehre, wie Amplitude, Wellenlänge, Frequenz — oder all-
+gemeiner gesprochen die Wellenform — in der Analogie gar’
+nicht auf, es fehlt zu ihnen eine mechanische Parallele; von
+der Wellenfunktion selbst wird gar nicht gesprochen, 77 hat
+für die Wellen nur die — bei der Unbestimmtheit der Wellen-
+form eigentlich etwas verschwommene — Bedeutung der Phase.
+
+Erblickt man in der ganzen Parallele nicht mehr als ein
+erfreuliches Anschauungsmittel, dann ist dieser Mangel in keiner
+Weise störend und man wird den Versuch, ihn zu beheben, als
+müßige Spielerei empfinden: die Analogie besteht eben wit der
+geometrischen, oder, wenn man durchaus will, mit einer sehr
+primitiven Wellenoptik, und nicht mit der vollausgebauten
+Wellenoptik. Daß die geometrische Optik für das Zicht nur
+eine grobe Näherung ist, ändert daran nichts. Beim weiteren
+Ausbau der g-Raumoptik in wellentheoretischem Sinn müßte
+man, um die Analogie zu erhalten, geradezu dafür sorgen, daß
+man sich nicht merklich vom geometrisch-optischen Grenzfall
+entfernt; etwa indem man die Fellenlänge hinreichend klein
+wählt!), klein gegen alle Bahndimensionen. Dann lehrt aber
+die Zutat nichts neues, sie behängt das Bild nur mit Über-
+Hüssigem.
+
+So könnte man zunächst meinen. Aber schon der erste
+Versuch einer wellentheoretischen Ausgestaltung führt auf so
+frappante Dinge, daß. ein ganz anderer Verdacht aufsteigt:
+wir wissen doch heute, daß unsere klassische Mechanik bei sehr
+hleinen Bahndimensionen und sehr starken Bahnkrümmungen ver-
+
+1) Vgl. für den optischen Fall A. Sommerfeld und Iris Runge,
+Ann. d. Phys, 85. $. 290. 1911. Dort wird (in Ausführung einer münd-
+lichen Bemerkung P. Debyes) gezeigt, wie sich die Gleichung erster
+Ordnung und aweiien Grades für die Phase („Hamiltonsche Gleichung‘)
+aus der Gleichung zweiter Ordnung und ersten Grades für die Wellen-
+Funktion („Wellengleichung“) im Grenzfall verschwindender Wellenlänge
+exakt ableiten läßt. .
+
+--- Page 9 ---
+Quantisierung als Bigenwertproblem. 497
+
+sagt. Vielleicht ist dieses Versagen eine volle Analogie zum
+Versagen der geometrischen Optik, d. h. der „Optik mit un-
+endlich kleiner Wellenlänge“, das bekanntlich eintritt, sobald
+die „Hindernisse* oder „Öffnungen“ nicht mehr groß sind gegen
+die wirkliche, endliche Wellenlänge. Vielleicht ist unsere
+klassische Mechanik das volle Analogon der geometrischen Optik
+und als solches falsch, nicht in Übereinstimmung mit der Wirk-
+lichkeit, sie versagt, sobald die Krümmungsradien und Dimen-
+sionen der Bahn nicht mehr groß sind gegen eine gewisse
+Wellenlänge, der im g-Raum reale Bedeutung zukommt. Dann
+gilt es, eine „undulatorische Mechanik“ zu suchen!) — und der
+nächstliegende Weg dazu ist: wohl die wellentheoretische Aus-
+gestaltung des Hamiltonschen Bildes.
+
+82. „Geometrische“ und „undulatorische“ Mechanik.
+
+Wir machen zunächst die Annahme, daß es ein zutreffen-
+der Ausbau der Analogie ist, die oben betrachteten Wellen-
+systeme als Sinuswellen aufzufassen. Das ist das einfachste
+und naheliegendste, doch muß die Pilkür, die darin liegt,
+wegen der grundlegenden Bedeutung dieser Annahme unter-
+strichen werden. Es soll also die Wellenfunktion die Zeit nur
+in Form eines Faktors sin(.....) enthalten, dessen Argument
+eine lineare Funktion von /# ist. Der Koeffizient von W muß,
+da # eine Wirkung, die Phase eines Sinus aber eine un-
+benannte Zahl ist, die Dimension einer reziproken Wirkung
+haben. Wir nehmen an, daß er universell sei, d. h. nicht bloß
+von Z, sondern auch von der Natur des mechanischen Systems
+unabhängig. Wir dürfen ihn wohl sogleich mit 2m/h be-
+zeichnen. Der Zeitfaktor lautet also
+
+(10) sin Fr + const) = sin (- em + Eur + const) .
+Damit ergibt sich die Frequenz » der Wellen zu
+
+E
+(1) -..
+
+Es ergibt sich also die Frequenz der g-Raumwellen ohne merk-
+liche Künstelei der Systemenergie proportional?) Das hat
+
+1) Vgl. a. A. Einstein, Berl. Ber. 8. yff, 1925.
+2) In der ersten Mitteilung war diese Beziehung im Rahmen einer
+bloßen Spekulation lediglich als Näherungsgleichung aufgetreten.
+
+--- Page 10 ---
+498 B. Schrödinger.
+
+freilich erst Sinn, wenn Z absolut, nicht, wie in der klassischen
+Mechanik, nur bis auf eine additive Konstante festgelegt ist,
+Von dieser additiven Konstante unabhängig ist die Wellenlänge
+nach (6) und (11)
+(12) Reli —&_,
+»  VaB-P)
+denn der Radikand ist die doppelte kinetische Energie. Machen
+wir einen ganz vorläufigen rohen Vergleich dieser Wellenlänge
+mit den Bahndimensionen eines Wasserstoffelektrons, wie die
+klassische Mechanik sie ergibt, so ist zu beachten, daß zu-
+folge (8) eine „Strecke“ in unserem g-Raum nicht die Dimension
+einer Länge, sondern Länge mal Masse hat. Dieselbe Dimen-
+sion hat 4. Wir haben also (wie man leicht überlegt) A zu
+dividieren durch die Bahndimension, sagen wir a (cm), mal
+Quadratwurzel aus der Elektronenmasse m. Der Quotient ist
+größenordnungsmäßig
+h
+\ ma’
+
+wo v für den Augenblick die Elektronengeschwindigkeit (em/sec"!).
+Der Nenner mva hat die Größenordnung des mechanischen
+Impulsmomentes. Daß dieses für Keplerbahnen von atomaren
+Dimensionen mindestens die Größenordnung 10°?” erreicht,
+folgt vor aller Quantentheorie aus den bekannten Werten der
+Elektronenladung und -masse. Wir erhalten also für die
+Grenze des üngenäherten Geltungsbereiches der klassischen Me-
+chanik tatsächlich die richtige Größenordnung, wenn wir unsere
+Konstante 3 mit dem Planckschen Wirkungsquantum identi-
+fizieren. — Dies nur zur vorläufigen Orientierung.
+
+Drückt man in (6) 3 nach (11) durch » aus, so erhält nian
+
+hv
+
+% "men
+Die Akhängigkeit der Wellengeschwindigkeit von der System-
+energie wird also zu einer eigenartigen Abhängigkeit von der
+Frequenz, d. h. zu einem Dispersionsgesetz für die Wellen.
+Dieses Dispersionsgesetz bietet großes Interesse. Wir haben
+im & 1 darauf hingewiesen, daß die wandernden Wellenflächen
+mit der Bewegung des Systempunktes insofern nur in einem
+loseren Zusammenhang stehen, als ihre Geschwindigkeiten nicht
+
+--- Page 11 ---
+Quantisierung als Bigenwertproblem. 499
+
+gleich sind und nicht gleich sein können. Nach (9), (11) und (6')
+hat nun die Systemgeschwindigkeit v» doch auch für die Wellen
+eine sehr konkrete Bedeutung. Man bestätigt sofort, daß
+
+dv
+v ’
+
+()
+
+d. h. die Geschwindigkeit des Systempunktes ist die einer
+Wellengruppe, die einen kleinen Frequenzbereich erfüllt (Signal-
+geschwindigkeit). Man findet hier einen ‘Satz wieder, den Hr.
+de Broglie in den schönen Untersuchungen‘), welchen ich
+die Anregung zu dieser Arbeit verdanke, abgeleitet hatte für
+die „Phasenwellen“ des Elektrons, und zwar unter wesentlicher
+Bezugnahme auf die Relativitätstheorie. Man sieht, daß es
+sich um ein Theorem von großer Allgemeinheit handelt, das
+nicht aus der Relativitätstheorie entspringt, sondern auch für
+jedes konservative System der gewöhnlichen Mechanik Gel-
+tung hat.
+
+Diese Tatsache läßt sich nun dazu benützen, um eine viel
+innigere Verbindung zwischen Wellenausbreitung und Bild-
+punktbewegung herzustellen als bisher geschehen. Man kann
+versuchen, eine Wellengruppe aufzubauen, welche in allen
+Richtungen relativ kleine Abmessungen hat. Eine solche
+Wellengruppe wird dann voraussichtlich dieselben Bewegungs-
+gesetze befolgen wie ein einzelner Bildpunkt des mechanischen
+Systems. Sie wird sozusagen einen Zrsatz des Bildpunkts ab-
+geben können, solange man sie als angenähert punktförmig
+ansehen kann, d. h. solange man ihre Ausdehnung vernach-
+lässigen darf gegenüber den Dimensionen der Systembahn.
+Das wird allerdings nur dann der Fall sein, wenn die Bahn-
+dimensionen, insbesondere die Krümmungsradien der Bahn,
+sehr groß sind gegen die Wellenlänge. Denn nach Analogie
+mit der gewöhnlichen Optik leuchtet es von vornherein ein,
+daß sich die Dimensionen der Wellengruppe nicht nur nicht
+unter die Größenordnung der Wellenlänge herabdrücken lassen,
+sondern daß im Gegenteil die Gruppe sich nach allen Rich-
+tungen über eine große Anzahl von Wellenlängen erstrecken
+
+(13) v-
+
+1) L. de Broglie, Annales de Physique (10) 8. 8.22. 1925. (Thöses,
+Paris 1924.)
+
+--- Page 12 ---
+500 B. Schrödinger.
+
+muß, wenn sie annähernd monochromatisch sein soll. Das aber
+müssen wir fordern, da .die Wellengruppe ja als Ganzes mit
+einer bestimmten Gruppengeschwindigkeit fortwandern und einem
+mechanischen System von. bestimmter Energie entsprechen soll
+(siehe Gleichung 11).
+
+Soweit ich sehe, lassen sich solche Wellengruppen auf-
+bauen und zwar ganz nach demselben Konstruktionsprinzip, nach
+welchem Debye!) und von Laue?) in der gewöhnlichen Optik
+die Aufgabe gelöst haben, die exakte analytische Darstellung
+eines Strahlenkegels oder eines Strahlenbündels anzugeben.
+Dabei ergibt sich eine sehr interessante Beziehung zu dem in
+81 noch nicht besprochenen Teil der Jacobi-Hamilton-
+schen Theorie, nämlich der wohlbekannten Herleitung der Be-
+wegungsgleichungen in integrierter Form durch Differentiation
+eines vollständigen Integrals der H.P. nach den Integrations-
+konstanten. Wie wir sogleich sehen werden, deckt sich das
+eben genannnte Jacobische Gleichungssystem mit der Aus-
+sage: der Bildpunkt des mechanischen Systems fällt dauernd
+zusammen mit demjenigen Punkt, wo ein gewisses Kontinuum
+von Wellenzügen in gleicher Phase zusammentrifft.
+
+In der Optik erhält man die strenge wellentheoretische
+Darstellung eines „Strahlenbündels“ von „scharf“begrenztem
+endlichem Querschnitt, das gegen einen Brennpunkt und dann
+wieder auseinander läuft, nach Debye auf folgendem Wege:
+man superponiert ebene Wellen, deren jede einzelne für sich
+den ganzen Raum erfüllen würde, und zwar superponiert man
+ein Kontinuum solcher Wellenzüge, indem die Wellennormale
+innerhalb des vorgegebenen Raumwinkels variiert wird. Die
+Wellen zerstören sich dann außerhalb eines gewissen Doppel-
+kegels fast vollständig durch Interferenz, sie stellen wellen-
+theoretisch exakt das gewünschte begrenzte Strahlenbündel dar
+mit allen durch die Begrenzung notwendig bedingten Beugungs-
+erscheinungen. — Ebensogut wie einen endlichen kann man
+auf diese Weise auch einen infinitesimalen Strahlenkegel dar-
+stellen, indem man die Wellennormale der Schar nur inner-
+halb eines infinitesimalen Raumwinkels variieren läßt. Dies
+hat v. Laue in seiner berühmten Abhandlung über die Frei-
+
+1) P. Debye, Ann. d. Phys. 30. 8. 755. 1909.
+2) M. v. Laue, ebendort 44. 8. 1197 (8 2). 1914.
+
+--- Page 13 ---
+Quantisierung als Bigenwertproblem. > 501
+
+heitsgrade von Strahlenbündeln‘) benützt. Endlich kann man
+anstatt, wie bisher stillschweigend angenommen, mit rein mono-
+chromatischen Wellen zu arbeiten, auch die Frequenz inner-
+halb eines infinitesimalen Bereiches variieren lassen und durch
+passende Verteilung der Amplituden und Phasen die Erregung
+auf einen Bereich beschränken, der auch in lorgidutinaler
+Richtung verhältnismäßig klein ist, So gewinnt man die ana-
+lytische Darstellung eines „Energiepakets“ von verhältnismäßig
+kleinen Abmessungen, das mit Lichtgeschwindigkeit oder, wenn
+Dispersion vorhanden ist, mit der Gruppengeschwindigkeit fort-
+wandert. Dabei ist der jeweilige Ort des Energiepakets —
+wenn es einem auf dessen Detailstruktur nicht ankommt —
+in sehr plausibler Weise gegeben als derjenige Raumpunkt,
+wo alle die superponierten ebenen Wellen in genau überein-
+stimmender Phase zusammentreffen.
+
+Wir wollen diese Überlegung nun auf die g-Raumwellen
+übertragen. Wir wählen zu einer bestimmten Zeit £ einen be-
+stimmten Punkt P des g-Raums aus, den das Wellenpaket zur
+Zeit z in vorgegebener Richtung 2 passieren soll. Ferner sei
+vorgeschrieben die mittlere Frequenz v oder der mittlere D-
+Wert für das Wellenpaket. Diese Vorgaben entsprechen für
+das mechanische System genau dem, daß es zu gegebener Zeit
+aus einer gegebenen Konfiguration mit gegebenen Geschwindig-
+keitskomponenten starten soll (Energie plus Richtung gleich
+Geschwindigkeitskomponenten).
+
+Um nun die optische Konstruktion zu übertragen, benötigen
+wir zunächst eine Schar von Wellenflächen zu der verlangten
+Frequenz, d.h. eine Lösung der H.P. (1) für den vorgegebenen
+B-Wert, nennen wir sie W, welche folgende Eigenschaft hat:
+die zur Zeit £ durch den Punkt P gehende Scharfläche, sagen
+wir
+(14) K=W,
+soll im Punkte P ihr Lot in der vorgeschriebenen Richtung
+haben. Damit ist es aber noch nicht genug. Sondern wir
+müssen nun die Wellenschar W noch in n-facher Weise (r =
+Zahl der Freiheitsgrade) unendlich wenig variieren können der-
+art, daß die Wellennormale im Punkte ? ein (n — 1)-dimensio-
+
+Da. 0.
+
+--- Page 14 ---
+502 “ E. Schrödinger.
+
+nales unendlich kleines Raumwinkelgebiet bestreicht und die
+Frequenz E/h ein eindimensionales unendlich kleines Gebiet,
+wobei dafür Sorge zu tragen ist, daß alle Mitglieder dieses
+unendlich kleinen n-dimensionalen Wellenscharenkontinuums
+zur Zeit € im Punkte P in genau übereinstimmender Phase
+zusammentreffen. Alsdann wird nachzuweisen sein, wo zu
+irgendeiner anderen Zeit derjenige Punkt liegt, für den diese
+Übereinstimmung aller Phasen statthat.
+
+Um dies zu leisten, wird es genügen, wenn wir über eine
+Lösung # der H.P. verfügen, die außer von der Konstante Z,
+die wir vorübergehend mit «, bezeichnen wollen, noch von
+n—1 weiteren Konstanten «,, &, ...a, in solcher Weise ab-
+hängt, daß sie nicht als eine Funktion von weniger als
+nr Kombinationen dieser » Konstanten geschrieben werden kann.
+Denn dann können wir erstens dem «, den für 3 vorgeschriebenen
+Wert erteilen; und wir können zweitens @,, @, ...e, so be-
+stimmen, daß die durch den Punkt ? gehende Scharfläche im
+Punkte P die vorgegebene Lotrichtung R hat. Wir verstehen
+unter &, &, ...w, fortan diese Werte und es sei (14) die zur
+Zeit t durch den Punkt P gehende Fläche dieser Schar. Als-
+dann betrachten wir das Scharenkontinuum, welches zu den
+@,-Werten eines angrenzenden infinitesimalen @’Bereiches ge-
+hört. Ein Mitglied dieses Kontinuums, d.h. also eine Schar,
+wird van sein durch
+
+a) m +2 ne Fam +? ee T day +... +37 da, = Const.
+
+&n
+
+für einen festen Wertesatz da, de,...de, und varlierende
+Const. Dasjenige Mitglied dieser Schar, Fi h. also diejenige
+einzelne Fläche, die zur Zeit 2 durch den Punkt ? geht, wird
+durch folgende Wahl der Const. bestimmt:
+
+re Yin +.. +52 de,
+as) \..
+4) date. + (9) da
+
+wobei (9W/d «,), usw. diejenigen Konstanten sind, die man: er-
+hält, wenn man in die betreffenden Differentialguotienten die
+Kooräinsten des Punktes P und den Zeitwert 2 einträgt (welch
+letzterer übrigens nur in 67/ö«, wirklich vorkommt).
+
+--- Page 15 ---
+Quantisierung als Bigenwertproblem. 508
+
+Die Flächen (15’) für alle möglichen Wertesätze da, de,
+... de, bilden ihrerseits eine Schar. Sie gehen zur Zeit £ alle
+durch den Punkt P, ihre Wellennormalen erfüllen stetig einen
+kleinen räumlichen (n — 1-dimensionalen) Winkel, außerdem
+variiert ihr Z-Parameter in einem kleinen Bereich. Die Flächen-
+schar (15') ist so entstanden, daß jede der Flächenscharen (15)
+zu (15’) einen Vertreter stellt, nämlich dasjenige Mitglied, das
+zur Zeit ? durch den Punkt P geht.
+
+Wir wollen nun annehmen, die Phasenwinkel der Wellen-
+funktionen, die zu den Scharen (15) gehören, stimmen gerade
+auf diesen nach (15’) entsendeten Vertretern überein. Sie stimmen
+also zur Zeit 2 im Punkte P überein.
+
+Wir fragen nun: gibt es auch zu einer beliebigen Zeit einen
+Punkt, in welchem alle Flächen der Schar (15’) sich schneiden
+und in welchem daher alle Wellenfunktionen, die zu den Scharen
+(15) gehören, in der Phase übereinstimmen? Die Antwort lautet:
+den Punkt übereinstimmender Phase gibt es, aber es ist nicht
+der gemeinsame Schnittpunkt der Scharflächen (15/), denn einen
+solchen gibt es zu einer beliebigen Zeit nicht mehr. Vielmehr
+kommt der Punkt übereinstimmender Phase so zustande, daß
+die Scharen (15) ihre in (15) entsandten Vertreter kontinwier-
+lich auswechseln.
+
+Man erkennt das so. Für den gemeinsamen Schnittpunkt
+aller Mitglieder von (15’) zu irgendeiner Zeit müßte gleich-
+zeitig gelten
+
+8eW oW CH/4 or
+a De a EZ
+(16)
+3w_(g7
+de de’
+
+weil ja die de, innerhalb eines kleinen Bereiches beliebig sind.
+In diesen » + 1 Gleichungen sind die rechten Seiten Konstante,
+die linken Seiten Funktionen von denn -+1 Größen 9,,95-.- u
+Die Gleichungen werden befriedigt für das System der Aus-
+gangswerte, d.h. für die Koordinaten des Punktes P und den
+Ausgangszeitpunkt &. Für einen willkürlichen anderen Wert
+von 2 werden sie in q, ...q, keine Lösungen haben, sondern das
+System dieser n Größen überbestimmen.
+
+Man kann aber folgendermaßen vorgehen. Man läßt die
+erste Gleichung, 7 = W,, zunächst beiseite und bestimmt die q,
+
+--- Page 16 ---
+504 B. Schrödinger.
+
+als Funktionen der Zeit und der Konstanten gemäß den
+n übrigen Gleichungen. Dieser Punkt heiße 9. Für ihn wird
+die erste Gleichung nun natürlich nicht erfüllt sein, sondern
+ihre linke Seite wird sich von der rechten um einen gewissen
+Betrag unterscheiden. Gehtman auf die Genesis des Gleichungs-
+systems (16) aus (15) zurück, so bedeutet das eben Gesagte,
+daß Q zwar nicht ein gemeinsamer Punkt für die Flächen-
+schar (15) ist, wohl aber für eine Flächenschar, die aus (15)
+dadurch hervorgeht, daß man die rechte Seite der Gleichung (15°)
+um einen für alle Scharflächen konstanten Betrag ändert. Die
+so erhaltene Schar heiße (15”, Für sie also ist Q gemein-
+samer Punkt. ‚Sie geht, wie oben vorausgreifend behauptet,
+aus der Schar (15) dadurch hervor, daß jede der Scharen (15)
+ihren nach (15) entsandten Vertreter auswechselt. Dieses Aus-
+wechseln geschieht durch Abändern der Const. in (15) um
+den gleichen Betrag für alle Vertreter. Dadurch wird aber
+der Phasenwinkel für alle Vertreter um den gleichen Betrag
+abgeändert. Wie die alten, so stimmen also auch die neuen
+Vertreter, d. h. die Mitglieder der Schar, die wir (15°) nannten,
+und die sich im Punkt Q schneiden, im Phasenwinkel überein.
+Das heißt also:
+
+Der durch die z Gleichungen
+
+CRi4 omw oW 0W
+
+u) d, (), Er 2),
+als Funktion der Zeit bestimmte Punkt 9 ist dauernd ein
+Punkt übereinstimmender Phase für die ganze Schar von
+‚Wellenscharen (15).
+
+Von den » Flächen, als deren Schnittpunkt Q nach (17)
+erscheint, ist nur die erste beweglich, die übrigen stehen fest
+[nur die erste der Gleichungen (17) enthält die Zeit], Dien — 1
+feststehenden Flächen bestimmen die Bahn des Punktes Q als
+ihre Schnittlinie. Es läßt sich leicht zeigen, daß diese Schnitt-
+linie Orthogonaltrajektorie der Schar 9 = Const. ist. W ge-
+nügt nämlich nach Voraussetzung der HP. (1’) identisch in «,,
+&y... 0%, Differentiert man nun die HP. nach «, (k=2,
+8,...n), so erhält man die Aussage, daß das Flächenlot
+einer Fläche OW/d«, = Const. in jedem Punkt dieser Fläche
+auf dem Flächenlot der durch denselben Punkt gehenden
+Fläche W = Const. senkrecht steht, d. h. daß jede der beiden
+
+
+--- Page 17 ---
+Quantisierung als Bigenwertproblem. 505
+
+Flächen das Lot der anderen entkält. Ist die Schnittlinie der
+n— 1 feststehenden Flächen (17) unverzweigt, was sicherlich
+im allgemeinen der Fall ist, so muß also jedes Linienelement
+der Schnittlinie, als einziges gemeinsames Linienelement der
+n— 1 Flächen, mit dem Lot der durch denselben Punkt
+gehenden F-Fläche zusammenfallen, d.h. die Schnittlinie ist
+Orthogonaltrajektorie der W-Flächen, w. z. b. w.
+
+Sehr viel kürzer, sozusagen stenographisch, kann man die
+etwas umständlichen Überlegungen, dieuns zuden Gleichungen (17)
+geführt haben, auch folgendermaßen zusammenfassen: W be-
+deutet, von einer universellen Konstante (1/%) abgesehen, den
+Phasenwinkel der Wellenfunktion. Liegt nun nicht bloß ein,
+sondern eine stetige Mannigfaltigkeit von Wellensystemen vor
+und sei dieselbe durch irgendwelche stetige Parameter «, stetig
+geordnet, so bringen die Gleichungen 9W/d«, = Const. zum
+Ausdruck, daß alle unendlich benachbarten Individuen (Wellen-
+systeme) dieser Mannigfaltigkeit übereinstimmende Phase haben.
+Diese Gleichungen bestimmen also den geometrischen Ort der
+Punkte übereinstimmender Phase. Sind der Gleichungen genug,
+so schrumpft dieser Ort auf einen Punkt zusammen, die
+Gleichungen bestimmen dann den Punkt übereinstimmender Phase
+als Funktion der Zeit.
+
+Da das Gleichungssystem (17) mit dem bekannten zweiten
+Gleichungssystem von Jacobi übereinstimmt, so haben wir
+also gezeigt:
+
+Der Punkt übereinstimmender Phase für gewisse n-para-
+metrige infinitesimale Mannigfaltigkeiten von Wellensystemen be-
+wegt sich nach denselben Gesetzen wie der Bildpunkt des mecha-
+nischen Systems.
+
+Daß nun die Superposition dieser Wellensysteme wirklich
+nur in einer verhältnismäßig kleinen Umgebung des Punktes
+übereinstimmender Phase eine merkliche Erregung gibt, während
+sie sich überall sonst merklich durch Interferenz zerstören;
+oder daß das eben Gesagte mindestens bei passender Wahl der
+Amplituden und eventuell bei spezieller Wahl der Form der
+Wellenflächen zutrifft; dies exakt zu beweisen, halte ich für
+eins sehr schwierige Aufgabe. Ich werde die physikalische
+Hypothese, die ich an das zu Beweisende knüpfen will, auf-
+stellen, ohne an diese Aufgabe heranzutreten. Das wird erst
+
+Annalen der Physik. IV. Folge, 79. 33
+
+--- Page 18 ---
+506 E. Schrödinger.
+
+der Mühe lohnen, wenn die Hypothese sich bewährt und wenn
+ihre Anwendung jene Analyse erfordern würde,
+
+Hingegen darf man sicher sein, daß der Bereich, auf den
+sich die Erregung beschränken läßt, noch mindestens eine
+größere ‚Anzahl von Wellenlängen in jeder Richtung mißt,
+Das ist erstens unmittelbar evident, denn solange man sich .
+vom Punkt übereinstimmender Phase nur um wenige Wellen-
+längen entfernt, wird die Phasenübereinstimmung kaum tangiert,
+die Interferenz ist noch fast ebenso günstig, wie in jenem
+Punkte selbst. Zweitens genügt der Hinweis auf den drei-
+dimensionalen euklidischen Fall der gewöhnlichen Optik, um
+sicher zu sein, daß es sich wenigstens im allgemeinen so
+verhält. -
+
+Was ich nun mit großer Bestimmtheit ‘vermute, ist
+folgendes:
+
+Das wirkliche mechanische Geschehen wird in zutreffender
+Weise erfaßt oder abgebildet durch die Wellenvorgänge im
+g-Raum und nicht durch die Bewegung von Bildpunkten in
+diesem Raum. Das Studium der Bildpunktbewegung, welches
+den Gegenstand der klassischen Mechanik bildet, ist nur ein
+Näherungsverfahren und hat als solches genau dieselbe Be-
+rechtigung wie die geometrische oder Strahlenoptik den wirk-
+lichen optischen Vorgängen gegenüber. Ein makroskopischer
+mechanischer Vorgang wird abzubilden sein als Wellensignal
+von der oben beschriebenen Art, das mit hinreichender
+Näherung als punktförmig angesehen werden kann im Vergleich
+mit der geometrischen Struktur der Bahnkurve. Wir haben
+gesehen, daß dann für ein solches Signal oder Wellengruppe
+wirklich genau dieselben Bewegungsgesetze gelten, die die
+klassische Mechanik für den Bildpunkt aufstellt. Diese Be-
+handlungsweise verliert aber jeden Sinn, wenn die Bahnstruktur
+nicht mehr sehr grob gegen die Wellenlänge oder gar mit ihr
+vergleichbar ist. Alsdann muß die strenge wellentheoretische
+Behandlung eintreten, d.h. man muß, um sich von der Mannig-
+faltigkeit der möglichen Vorgänge ein Bild zu machen, von
+der Wellengleichung ausgehen und nicht von den Grundgleichungen
+der Mechanik, Letztere sind zur Erklärung der_Mikrostruktur
+des mechanischen Geschehens ebenso unbrauchbar, wie die
+geometrische Optik zur Erklärung der Beugungserscheinungen.
+
+--- Page 19 ---
+Quantisierung als Eigenwertproblem. 507
+
+Wenn eine gewisse Deutung dieser Mikrostruktur im An-
+schluß an die klassische Mechanik, freilich unter sehr künst-
+lichen Zusatzannahmen, überhaupt gelungen ist und praktische
+Erfolge von höchster Bedeutung aufzuweisen hat, so scheint
+es mir sehr bezeichnend, daß diese Theorie — ich meine die
+Quantentheorie in der von Sommerfeld, Schwarzschild,
+Epstein u. a. bevorzugten Form — gerade mit der H.P. und
+mit der Hamilton-Jacobischen Lösungstheorie im intimsten
+Zusammenhang steht, d. h. mit derjenigen Form der klassischen
+Mechanik, welche schon den deutlichsten Hinweis auf den
+wahren undulatorischen Charakter des mechanischen Ge-
+schehens enthält. Die H.P, entspricht ja dem Huygens-
+schen Prinzip (in seiner alten naiven, nicht in der strengen
+Kirchhoffschen Form), Und wie dieses, ergänzt durch einige
+dem geometrischen Optiker ganz unverständliche Vorschriften
+(Fresnelsche Zonenkonstruktion), schon in weitgehendem Maß
+den Beugungserscheinungen gerecht wird, so konnte von der
+Theorie der Wirkungsfunktion aus Licht auf die Vorgänge im
+Atom fallen. Dagegen mußte man sich in unauflösliche Wider-
+sprüche verwickeln, als man — was freilich sehr natürlich
+war — auch für diese Atomvorgänge den Begriff der System-
+bahnen aufrecht zu erhalten versuchte; ebenso wie man sich
+in Unverständlichkeiten verliert, wenn man im Bereich einer
+Beugungserscheinung dem Verlauf der Lichtstrahlen nachzugehen
+versucht.
+
+Man denke sich einmal folgendes. Ich will damit noch
+kein zutreffendes Bild des wirklichen Geschehens geben, das
+von dieser Seite her schlechterdings nicht zu gewinnen ist,
+sondern nur zu gewinnen ist durch Untersuchung der Wellen-
+gleichung; ich will bloß die Sachlage rein qualitativ illustrieren.
+Also man denke sich, eine Wellengruppe von der oben be-
+schriebenen Beschaffenheit gerate irgendwie auf eine kleine,
+etwa geschlossene „Bahn“, deren Dimensionen nur von der
+Größenordnung der Wellenlänge sind, also Alein gegen die Ab-
+messungen der Wellengruppe selbst. Es ist klar, daß dann
+die „Systembahn“ im Sinne der klassischen Mechanik, das ist
+die Bahn des Punktes genau übereinstimmender Phase, ihre
+ausgezeichnete Rolle vollkommen einbüßen wird, weil vor,
+hinter und neben diesem Punkt ein ganzes Kontinuum von
+
+33*
+
+--- Page 20 ---
+508 B. Schrödinger.
+
+Punkten ausgebreitet ist, in denen noch fast ebenso voll-
+kommene Phasenübereinstimmung besteht und die. gänzlich
+andere „Bahnen“ beschreiben. Anders gesprochen: die Wellen-
+gruppe erfüllt nicht nur den ganzen Bahnbereich auf einmal,
+sondern reicht nach allen Richtungen noch weit über ihn
+hinaus, .
+
+In diesem Sinne deute ich mir die nach Hın. de Broglie
+die Bahn des Elektrons begleitenden „Phasenwellen“, in dem
+Sinne also, daß, jedenfalls im Atomverband, der Elektronen-
+bahn selbst keinerlei ausgezeichnete Bedeutung zukommt und
+noch weniger dem Ort des Elektrons auf seiner Bahn, Und
+in diesem Sinne deute ich die heute mehr und mehr zum
+Durchbruch kommende Überzeugung erstens: daß der Phase
+der Elektronenbewegungen im Atom die reale Bedeutung ab-
+zusprechen sei; zweitens: daß man nicht einmal behaupten
+könne, das Elektron befinde sich in einem bestimmten Zeit- _
+moment auf’ einer bestimmten von den durch die Quanten-
+bedingungen ausgesonderten Quantenbahnen; drütens: die
+wahren Gesetze der Quantenmechanik bestünden nicht in be-
+stimmten Vorschriften für die einzelne Bahn, sondern in diesen
+wahren Gesetzen seien die Elemente der ganzen Bahnen-
+mannigfaltigkeit eines Systems durch Gleichungen verbunden,
+so daß scheinbar eine gewisse Wechselwirkung zwischen den
+verschiedenen Bahnen bestehe.)
+
+Es ist nicht unverständlich, daß eine sorgfältige Analyse
+des experimentell Gegebenen zu Behauptungen dieser Art
+führen muß, wenn das experimentell Gegebene der Ausfluß
+einer solehen Struktur des wirklichen Geschehens ist, wie wir
+sie hier vertreten. Alle diese Behauptungen steuern ja syste-
+matisch der Auflösung des Begriffes „Elektronenort“ und
+„Elektronenbahn“ zu, entschließt man sich zu dieser Auf-
+lösung nicht, so bleiben sie widerspruchsvoll. Dieser Wider-
+spruch ist so stark empfunden worden, daß man daran ge-
+zweifelt hat, ob das Geschehen im Atom sich überhaupt
+der räumlich-zeitlichen Form des Denkens werde eingliedern
+lassen. Vom philosophischen Standpunkt aus würde ich eine
+
+1) Vgl. besonders die an späterer Stelle zitierten Arbeiten von
+.Heisenberg, Born, Jordan, Dirae, ferner N. Bohr, Die Natur-
+wissenschaften, Januar 1926.
+
+--- Page 21 ---
+Quantisierung als Eigenwertproblem. 509
+
+endgültige Entscheidung in diesem Sinne einer vollständigen
+Waffenstreckung gleich erachten. Denn wir können die Denk-
+formen nicht wirklich ändern und was wir innerhalb derselben
+nicht verstehen können, das können wir überhaupt nicht ver-
+stehen. Es gibt solche Dinge — aber ich glaube nicht, daß
+die Atomstruktur zu ihnen gehört. — Von unserem Stand-
+punkte aus besteht aber zu solchem Zweifel gar kein Grund,
+obwohl oder besser gesagt, weil sein Auftauchen außerordent-
+lich verständlich ist. So könnte ja auch ein geometrischer
+Optiker, der bei seinen fortgesetzten Versuchen, den Beugungs-
+erscheinungen mittels des in der makroskopischen Optik be-
+währten Strahlbegriffes beizukommen, beständig scheitert, ein
+solcher könnte, sage ich, zu guterletzt vielleicht auf den Ge-
+danken kommen, daß die Gesetze der Geometrie auf die Beugungs-
+erscheinungen nicht anwendbar sind, da er beständig darauf
+geführt wird, daß die ihm als geradlinig und voneinander
+unabhängig bekannten Lichtstrablen nun auf einmal auch im
+homogenen Medium die merkwürdigsten Krümmungen auf-
+weisen und sich sichtlich gegenseitig beeinflussen. Ich halte
+diese Analogie für sehr eng. Sogar zu den unmotivierten
+Krümmungen fehlt das Analogon im Atom nicht — man denke
+an den zur Deutung der anomalen Zeemaneffekte ersonnenen
+„unmechanischen Zwang“.
+
+In welcher Weise wird man nun bei der undulatorischen
+Ausgestaltung der Mechanik in den Fällen, wo sie sich als
+notwendig erweist, vorzugehen haben? Man muß statt von den
+Grundgleichungen der Mechanik von einer Wellengleichung
+für den g-Raum ausgehen und die Mannigfaltigkeit der nach
+
+ihr möglichen Vorgänge betrachten. Die Wellengleichung
+wurde in dieser Mitteilung noch nicht explizite benützt und
+
+“überhaupt noch nicht: aufgestellt. Das einzige Datum zu ihrer
+Aufstellung ist die durch (6) oder (6') als Funktion des mecha-
+nischen Energieparameters bzw. der Frequenz gegebene Wellen-
+geschwindigkeit und durch dieses Datum ist die Wellengleichung
+selbstverständlich nicht eindeutig festgelegt. Eis ist gar nicht
+ausgemacht, daß sie gerade von der zweiten Ordnung sein
+muß, nur das Bestreben nach Einfachheit veranlaßt dazu, es
+zunächst einmal damit zu versuchen, Man wird dann für die
+Wellenfunktion y ansetzen
+
+--- Page 22 ---
+510 . BE. Schrödinger.
+
+ds) dir end y— = 0
+
+gültig für Vorgänge, welche von der Zeit nur durch einen
+Faktor e?='r! abhängen. Das heißt also, mit Beachtung von
+(6), (6°) und (11)
+
+(18‘) div grad y + = v-Nu=0,
+bzw.
+(18”) div grad y+ FB Ny=0.
+
+Die Differentialoperationen sind selbstverständlich mit Be-
+ziehung auf das Linienelement (8) zu verstehen. — Aber selbst
+unter den Ansätzen zweiter Ordnung ist dieser nicht der
+einzige mit (6) verträgliche, es wäre die Verallgemeinerung
+möglich, daß man div grad y durch
+
+119) Fla)dir (7.5 grad 4)
+
+ersetzt, wo f eine beliebige Funktion der g, sein kann, die
+freilich plausibler Weise irgendwie von EZ, 7(g,) und den
+Koeffizienten des Linienelements (8) abhängen müßte (man
+könnte z.B. an = « denken). Unser Ansatz ist wieder von
+dem Bestreben nach Einfachheit diktiert, doch halte ich dies-
+falls eine Irreleitung nicht für ausgeschlossen. !)
+
+Die Unterschiebung einer parziellen Differentialgleichung
+als Ersatz der Grundgleichungen der Dynamik für die Atom-
+probleme erscheint nun im ersten Augenblick äußerst mißlich
+wegen der ungeheuren Mannigfaltigkeit von Lösungen, die
+einer solchen Gleichung eignet. Schon die klassische Dynamik
+hatte nicht etwa auf eine zu beschränkte, sondern auf eine
+viel zu umfangreiche Mannigfaltigkeit von Lösungen geführt,
+nämlich auf eine kontinuierliche Schar, während nach aller
+Erfahrung nur eine diskontinuierliche Menge dieser Lösungen
+verwirklicht zu sein scheint. Die Aufgabe der Quantentheorie
+ist nach der herrschenden Auffassung gerade die, aus der
+kontinuierlichen Schar der nach der klassischen Mechanik
+möglichen Bahnen, die diskrete Schar der wirklich auftretenden
+
+1) Die Einführung von f(q,) bedeutet, daß nicht bloß die „Dichte“
+sondern auch die „Elastizität“ mit dem Orte variiert.
+
+--- Page 23 ---
+Quantisierung als Bigenwertproblem. 5il
+
+auszusondern durch die „Quantenbedingungen“. Es scheint
+ein übler Anfang für einen neuen Versuch in dieser Richtung,
+wenn er damit beginnt, die Zahl der Lösungen, ihrer trans-
+zendenten Größenordnung nach, zu steigern, statt zu ver-
+mindern.
+
+Zwar läßt sich auch das Problem der klassischen Dynamik
+in das Gewand einer partiellen Gleichung kleiden, nämlich
+eben in die H.P. Aber die Mannigfaltigkeit der Problem-
+lösungen entspricht nicht der Mannigfaltigkeit der Lösungen
+der H.P. Eine beliebige „vollständige“ Lösung der H.P. löst
+das mechanische Problem restlos, irgendeine andere vollständige
+Lösung liefert dieselben Bahnen, nur in anderer Zusammen--
+fassung zu Bahnmannigfaltigkeiten.
+
+Was nun die gegenüber der Gleichung (18), als Grund-
+lage der Atomdynamik, geäußerte Befürchtung anlangt, so will
+ich zwar durchaus nicht behaupten, daß nicht weitere Zusatz-
+bestimmungen zu dieser Gleichung werden hinzutreten müssen.
+Sie werden aber vermutlich nicht mehr einen so gänzlich
+fremdartigen und unverstandenen Charakter haben wie die bis-
+herigen „Quantenbedingungen“, sondern von demjenigen Typus
+sein, den wir in der Physik bei einer partiellen Differential-
+gleichung gewohnt sind: als Anfangs- oder Randbedingungen,
+Sie werden auch in keiner Weise den Quantenbedingungen
+analog sein. Denn es zeigt sich in allen Fällen der klassischen
+Dynamik, die ich bisher untersucht habe, daß die Gleichung (18)
+die Quantenbedingungen in sich trägt, Sie sondert in gewissen
+Fällen, und zwar in denjenigen, in denen die Erfahrung dafür
+spricht, selbsttätig gewisse Frequenzen oder Energieniveaus als
+die für stationäre Vorgänge allein möglichen aus, ohne irgend-
+eine weitere Zusatzannahme als die für eine physikalische
+Größe beinahe selbstverständliche Anforderung an die
+Funktion w: dieselbe soll im ganzen Konfigurationenraum
+eindeutig endlich und stetig sein.
+
+Die geäußerte Befürchtung verwandelt sich also in ihr
+Gegenteil, jedenfalls was die Energieniveaus oder sagen wir
+vorsichtiger, die Frequenzen betrifft. (Denn was es mit der
+„Einergie der Schwingungen“ auf sich hat, ist eine Frage für
+sich, man darf nicht vergessen, daß es sich ja nur gerade
+beim Einkörperproblem um etwas handelt, das die Deutung
+
+--- Page 24 ---
+512 B. Schrödinger.
+
+als Schwingungen im wirklichen dreidimensionalen Raum un-
+mittelbar gestattet‘) Die Bestimmung der Quantenniveaus
+erfolgt nicht mehr in zwei innerlich getrennten Etappen: 1. Be-
+stimmung aller dynamisch möglichen Bahnen. 2. Perwerfung
+des übergroßen Teiles der sub 1. gewonnenen Lösungen und
+Aussonderung einiger weniger durch spezielle Forderungen;
+vielmehr sind die Quantenniveaus auf einmal als die Bigenwerte
+der Gleichung (18) bestimmt, welche ihre natürlichen Rand-
+bedingungen in sich. trägt.
+
+Inwieweit dadurch in komplizierteren Fällen auch eine
+analytische Erleichterung erzielt werden wird, entzieht sich
+derzeit noch meiner Beurteilung. _Ich möchte das aber ver-
+muten. Es haben wohl die meisten Analytiker das Gefühl,
+daß bei dem oben beschriebenen etappenweisen Vorgehen sub I)
+die Lösung eines komplizierteren Problems geleistet werden
+muß, als für das Endergebnis: Energie als, meist sehr einfache
+rationale, Funktion der Quantenzahlen — eigentlich erfordert
+würde. Schon die Verwendung der Hamilton-Jacobischen
+Methode bringt bekanntlich eine große Vereinfachung, indem
+die wirkliche Durchrechnung der mechanischen Lösung um-
+gangen wird. Es ‚genügt, die Integrale, welche die Impulse
+darstellen, anstatt für variable obere Grenze bloß für einen im
+Komplexen geschlossenen Integrationsweg auszuwerten, was
+viel weniger Mühe macht, Immerhin muß die vollständige
+Lösung der H.P, wirklich bekannt, d.h. durch Quadraturen
+dargestellt, es muß also die Integration des mechanischen
+Problems prinzipiell für beliebige Anfangswerte geleistet sein.
+— Bei der Aufsuchung der Eigenwerte einer ' Differential-
+gleichung geht man nun allerdings in praxi auch meistens so
+vor, daß man zuerst die Lösung ohne Rücksicht auf die Rand-
+oder Stetigkeitsbedingungen aufsucht und aus der.Gestalt der
+Lösung diejenigen Parameterwerte abliest, für welche die
+Lösung den genannten Bedingungen genügt. Ein Bei-
+spiel dafür gibt unsere erste Mitteilung. Man erkennt an
+diesem Beispiel aber auch — was für Eigenwertprobleme
+typisch ist —, daß die Lösung, die allgemein nur in recht
+schwer zugänglicher analytischer Form gegeben war [&lei-
+chung (12) a.a.0.], sich für die zu der „natürlichen Rand-
+bedingung“ gehörigen Eigenwerte ganz außerordentlich ver-
+
+--- Page 25 ---
+Quantisierung als Eigenwertproblem. 513
+
+einfacht. Ich bin nicht genügend orientiert darüber, ob schon
+jetzt direkte Methoden zur Berechnung der Eigenwerte aus-
+gearbeitet sind. Für die Verteilung der Eigenwerte hoher
+Ordnumgszahl ist das bekanntlich der Fall. Aber dieser Grenz-
+fall interessiert hier gerade nicht, er entspricht der klassischen,
+makroskopischen Mechanik. Für die Spektroskopie und Atom-
+physik überhaupt werden gerade die ersten 5 oder 10 Eigen-
+werte von Interesse sein, schon der erste allein wäre ein großer
+Erfolg, er bestimmt die Ionsierungsspannung. Bei der scharf-
+umrissenen Fassung, die sich jeder Eigenwertaufgabe als
+Maximum-Minimumaufgabe ohne jede direkte Beziehung auf
+die Differentialgleichung geben läßt, erscheint es mir sehr
+wahrscheinlich, daß direkte Methoden zur wenigstens an-
+genäherten Berechnung der Eigenwerte sich werden auffinden
+lassen, sobald das dringende Bedürfnis dazu besteht. Zum
+mindesten sollte es möglich sein, in einzelnen Fällen zu unter-
+suchen, ob die numerisch durch die Spektroskopie mit aller
+wünschenswerten Genauigkeit bekannten Eigenwerte der Auf-
+gabe genügen oder nicht. —
+
+Ich möchte an dieser Stelle die Tatsache nicht mit Still-
+schweigen übergehen, daß gegenwärtig von seiten Heisenbergs,
+Borns, Jordans und einiger anderer hervorragender Forscher")
+ein Versuch zur Beseitigung der Quantenschwierigkeit im Gange
+ist, der schon auf s0 beachtenswerte Erfolge hinzuweisen hat, daß
+es schwer wird, daran zu zweifeln, er enthalte jedenfalls einen
+Teil der Wahrheit. In der Tendenz steht der Heisenbergsche
+Versuch dem vorliegenden außerordentlich nahe, davon haben wir
+schon oben gesprochen. In der Methode ist er so toto genere ver-
+schieden, daß es mir bisher nicht gelungen ist, das Verbindungs-
+glied zu finden. Ich hege die ganz bestimmte Hoffnung, daß diese
+beiden Vorstöße einander nicht bekämpfen, vielmehr, gerade
+wegen der außerordentlichen Verschiedenheit des Ausgangs-
+punktes und der Methode, einander ergänzen werden, indem
+der eine weiterhilft, wo der andere versagt. Die Stärke des
+
+1) W. Heisenberg, Zischr. f. Phys. 33. 8.879. 1925; M.Born
+u. P. Jordan, ibid. 84. 8.858. 1925: M.Born, W.Heisenberg u.
+PB. Jordan, ebendoxt 85. 8. 557. 1926; P, Dirae, Proe, Roy. Soe. London
+109. 642. 1925.
+
+--- Page 26 ---
+514 B. Schrödinger.
+
+Heisenbergschen Programms liegt darin, daß es die Zinien-
+intensitüten zu geben verspricht, eine Frage, von der wir uns hier
+bisher ganz ferngehalten haben. Die Stärke des vorliegenden
+Versuches — wenn es mir erlaubt ist, darüber ein Urteil zu
+sagen — liegt in dem leitenden physikalischen Gesichtspunkt,
+welcher die Brücke schlägt zwischen dem makroskopischen und
+dem mikroskopischen mechanischen Geschehen, und welcher
+die äußerlich verschiedene Behandlungsweise, die sie erfordern,
+verständlich macht. Für mich persönlich liegt ein besonderer
+Reiz in der am Ende der vorigen Mitteilung erwähnten Auf-
+fassung der emittierten Frequenzen als „Schwebungen“, von
+der ich auch glaube, daß sie ein anschauliches Verständnis
+der Intensitätsformeln vermitteln wird.
+
+83. Anwendungsbeispiele.
+
+Wir wollen nun dem in der ersten Mitteilung behandelten
+Keplerproblem noch einige weitere Beispiele hinzufügen. Es
+sind nur die allereinfachsten, da wir vorläufig auf die Klassische
+Mechanik ohne Magnetfeld beschränkt sind.!)
+
+1. Der Planeksche Oszillator. Die Entartungsfrage.
+
+Wir behandeln zunächst den eindimensionalen Oszillator.
+Die Koordinate g sei die Elongation multipliziert mit der
+Quadratwurzel aus der Masse. Die beiden Formen der kine-
+tischen Energie sind dann
+
+(20) T='1,09, Tethıp.
+Die potentielle Energie sei
+ei) Pa=2mn?g,
+
+wo », die Eigenfrequenz im Sinne der Mechanik, Dan lautet
+Gleichung (18) a diesen Fall:
+
+(22) + 22 n- 2 NU=td.
+
+1) In der Relativitätsmechanik und mit Berücksichtigung eines
+Magnetfeldes wird die Aussage der H.P. komplizierter. Im Falle eines
+einzigen Elektrons sagt sie aus, daB der vierdimensionale Gradient der
+Wirkungsfunktion, vermindert um einen vorgegebenen Vektor (das Vierer-
+potential), konstanten Betrag hat. Die wellentheoretische: Übersetzung
+dieser Aussage bietet ziemliche Schwierigkeiten,
+
+--- Page 27 ---
+Quantisierung als Bigenwertproblem. 515
+
+Sei zur Abkürzung
+
+8m? E 16nt2,2
+” u Z
+o
+a
+22) a ta-v=0.
+Wir führen als unabhängige Variable ein
+es) 2= 4/6
+und erhalten
+" Sy. _ Ay
+er) a ui
+
+Die Eigenwerte und Eigenfunktionen dieser Gleichung sind
+bekannt.!) Die Eigenwerte sind in den hier benützten Zeichen
+
+(25) yet 5 nal...
+Die Eigenfunktionen sind die. Hermiteschen Orthogonalfunktionen
+(26) e TH, .
+
+H,(«) bedeutet das nte Hermitesche Polynom, welches definiert
+werden kann als
+
+en Hl) (ter FE
+oder explizite
+A, = (22 POT @ap-2
+@7) .
+udn RI onen...
+
+Die ersten dieser Polynome lauten
+
+Ha-1 H,@= 2:
+e7”) | H,(«) = 42? — 2 H, (a) = 82° — 12
+B,@=162—-482?+12 ...... ..
+
+Betrachten wir zunächst die Eigenwerte, so ergibt sich nach
+(25) und (23)
+
+en Han: n=012 3%...
+
+1) Vgl. Courant-Hilbert, Methoden der mathematischen Physik I
+(Berlin, bei Springer 1924) V, $ 9, S. 261, Gl. 48, ferner II, $ 10, 4, 8, 76.
+
+--- Page 28 ---
+516 EB. Schrödinger.
+
+Als Quantenniveaus erscheinen also sogenannte „halbzahlige“
+Multipla des dem Oszillator eigentümlichen „Energieguants“,
+d.h. die ungeraden Vielfachen von h»,/2. Die Abstände der
+Niveaus, die allein für die Strahlung maßgebend sind, sind
+dieselben wie in der bisherigen Theorie. Merkwürdigerweise
+sind unsere Quantenniveaus genaz dieselben wie in der Heisen-
+bergschen Theorie! — Für die Theorie der spezifischen Wärme
+ist diese Abweichung von der bisherigen Theorie nicht ohne
+Bedeutung, sie. kommt allerdings erst dann ins Spiel, wenn,
+als Folge der Wärmeausdehnung, die Eigenfrequenz », varüert.
+Formal handelt es sich um die alte Frage der „Nullpunkt-
+energie“, die schon im Zusammenhang mit dem Dilemma:
+erste oder zweite Fassung der Planckschen Theorie auf-
+getreten war. — Auch auf das Gesetz der Bandenkanten hat
+das Zusatzglied A»,/2 Einfluß.
+
+Die Bigenfunktionen (26) lauten, wenn man nach (24) und
+(23) wieder die ursprüngliche Größe q, einführt:
+
+Er
+
+e%) = Bene).
+‘Die Betrachtung von (27”) lehrt, daß die erste Eigenfunktion
+eine „Gausssche Fehlerkurve“ ist, die zweite verschwindet im
+Nullpunkt und entspricht für positive x einer „Maxwellschen
+Geschwindigkeitsverteilung“ in zwei Dimensionen, die nach
+negativen x ungerade fortgesetzt ist. Die dritte Eigenfunktion
+ist wieder gerade, im.Nullpunkt negativ, und hat zwei sym-
+metrische Nullstellen + 1//2; usw. Man kann den qualitativen
+Verlauf leicht überblicken und skizzieren, wobei darauf zu
+achten ist, daß die Wurzeln aufeinanderfolgender Polynome
+einander zZrennen. .Aus (26’) erkennt man, daß die charak-
+teristischen Punkte der Eigenfanktionen, wie Halbwertsbreite
+(für n = 0), Nullstellen, Maxima, größenordnungsmäßig im Be-
+reich der klassischen Oszillatorschwingung liegen. Denn für
+die klassische Amplitude der nten Schwingung findet man leicht
+
+_VE_1 y: Ya
+28) In 277, FL2 7 2 “
+
+Doch kommt, soviel ich sehe, im allgemeinen dem genazen
+Abszissenwert der klassischen Umkehrpunkte keine bestimmte
+Bedeutung im Verlauf der Eigenfanktion zu, Man könnte der-
+
+
+--- Page 29 ---
+Quantisierung als Higenwertproblem. 517
+
+gleichen vermuten, denn die Umkehrpunkte haben für die
+Phasenraumwelle die Bedeutung, daß dort das Quadrat der
+Fortpflanzungsgeschwindigkeit unendlich und in größerer Ent-
+fernung negativ wird. In der Differentialgleichung (22) bedeutet
+das aber nur das Verschwinden des Koeffizienten von und
+gibt zu gar keiner Singularität Anlaß.
+
+Ich möchte hier die Bemerkung nicht unterdrücken, die
+ganz allgemein, nicht bloß für den Oszillator, gilt: daß gleich-
+wohl dieses Verschwinden und Imaginärwerden der Fort-
+pflanzungsgeschwindigkeit etwas sehr Charakteristisches ist, Es
+ist der analytische Grund für die Aussonderung scharfer Eigen-
+werte durch die bloße Bedingung des Endlichbleibens der
+Funktion. Ich möchte das näher erläutern. Eine Wellen-
+gleichung mit reeller Fortpflanzungsgeschwindigkeit bedeutet
+bekanntlich dies: der Funktionswert nimmt zeitlich beschleunigt
+zu in dem Maße, als er unter dem Durchschnittswert der
+Funktion in der räumlichen Umgebung der betrachteten Stelle
+liegt; und vice-versä. Eine solche Gleichung hat daher, wenn
+auch nicht augenblicklich und andauernd, wie die Wärmeleitungs-
+gleichung, so doch im Laufe der Zeit einen Wiederausgleich der
+extremen Ausschläge zur Folge und gestattet in keinem Punkte
+ein übermäßiges Anwachsen der Funktion. — Eine Wellen-
+gleichung mit imaginärer Fortpflanzungsgeschwindigkeit bedeutet
+nun das genaue Gegenteil: Funktionswerte, die über dem Durch-
+schnitt der Umgebung liegen, nehmen beschleunigt zu (oder doch
+verzögert ab) und viee-versä. Man begreifi daher, daß eine
+Funktion, die einer solchen Gleichung ausgesetzt ist, in die
+allergrößte Gefahr gerät, über alle Grenzen anzuwachsen. Man
+muß es schon sehr geschickt einrichten, um sie vor dieser
+Gefahr zu bewahren, und die Institution, welche das ermöglicht,
+sind eben die scharfbestimmten Eigenwerte. In der Tat kann
+man auch an dem in der ersten Mitteilung behandelten Bei-
+spiel sehen, daß die Forderung nach scharfen Eigenwerten mit
+dem Augenblick erlischt, wo man die dortige Größe B positiv
+wählt, wodurch die Wellengeschwindigkeit im ganzen Raum
+xeell wird,
+
+Nach dieser Abschweifung kehren wir zum Oszillator zurück
+und fragen uns, ob sich etwas ändert, wenn wir dem Oszillator
+zwei oder mehrere Freiheitsgrade geben (räumlicher Oszillator,
+
+--- Page 30 ---
+518 B. Schrödinger.
+
+fester Körper), Gehören zu den einzelnen Koordinaten” ver-
+schiedene mechanische Eigenfrequenzen (v,-Werte), so ändert
+sich nichts. Man setzt „u als Produkt von Funktionen je einer
+Koordinate an und das Problem zerfällt in soviel Einzel-
+probleme vom oben behandelten Typus als Koordinaten vor-
+handen sind, Die Eigenfunktionen sind Produkte Hermite-
+scher Orthogonalfunktionen, die Eigenwerte des Gesamtproblems
+stellen sich dar je als Summe der Eigenwerte der Einzel-
+probleme, in allen möglichen Kombinationen. Kein Eigenwert
+(des Gesamtsystems) wird mehrfach, wenn man voraussetzt, daß
+zwischen den »,-Werten keine rationale Beziehung besteht.
+Ist hingegen letzteres der Fall, dann ist zwar auch die-
+selbe Behandlungsweise noch möglich, aber sie ist sicher nicht
+die einzige. Es treten mehrfache Eigenwerte auf, und die
+„Separation“ läßt sich sicher noch in anderen Koordinaten
+ausführen, z.B. beim isotropen räumlichen Oszillator in räum-
+lichen Polarkoordinaten.!) Die Eigenwerte, die man erhält,
+sind aber sicher in jedem Falle genau dieselben, wenigstens
+sofern man im Besitze des „Vollständigkeitsbeweises“ für das
+auf eine Art gewonnene System von Eigenfunktionen ist. Man
+erkennt in alledem die vollkommene Parallele zu den wohl-
+bekannten Verhältnissen, denen die bisherige Quantisierungs-
+methode im Falle der Zntartung begegnet ist. Nür in einem
+Punkt besteht ein nicht unerfreulicher formaler Unter-
+schied. Wenn man die Sommerfeld-Epsteinschen Quanten-
+bedingungen ohne Rücksicht auf eine eventuelle Entartung
+anwandte, so erhielt man zwar bekanntlich stets die nämlichen
+Energieniveaus, kam aber zu verschiedenen Aussagen hinsicht-
+lich der zugelassenen Bahnen je nach der Koordinatenwahl.
+Das ist hier nun nicht der Fall, Allerdings kommt man zu
+
+3) Man wird dabei in r auf eine Gleichung geführt, die ganz nach
+derselben Methode zu behandeln ist, welche in der ersten Mitteilung auf
+das Keplerproblem angewendet wurde, Auch der eöndimensionaleOszillator
+führt übrigens auf dieselbe Gleichung, wenn man g? als Variable einführt.
+Ich hatte die Aufgabe ursprünglich in dieser Weise direkt gelöst. Den
+Hinweis, daß es sich um die Differentialgleichung der Hermiteschen
+Polynome handelt, verdanke ich Herm E. Fues. — Das beim Kepler-
+problem auftretende Polynom (Gl. 18 der ersten Mitteilung) ist der
+2n + 1te Differentialquotient des » + Iten Laguerreschen Polynoms,
+wie ich nachträglich erkannte.
+
+--- Page 31 ---
+Quantisierung als Bigenwertproblem. 519
+
+einem ganz abweichenden System von Zigenfunktionen, wenn
+man beispielsweise das der ungestörten Keplerbewegung ent-
+sprechende Schwingungsproblem in parabolischen Koordinaten
+behandelt anstatt in Polarkoordinaten, wie wir es in der
+I. Mitteilung taten. Aber als möglicher Schwingungszustand hat
+ja nicht gerade die einzelne Figenschwingung zu gelten, sondern
+ein beliebiges, endliches oder unendliches Zineares Aggregat von
+solchen. Und als solche lassen sich die auf einem zweiten
+Weg gefundenen Eigenfunktionen stets darstellen, nämlich als
+lineare Aggregate der auf einem beliebigen Weg gefundenen
+Eigenfunktionen, wenn diese nur ein vollständiges System bilden.
+Man wird freilich um die bisher hier noch gar nicht in
+Angriff genommene Frage, wie sich denn in einem bestimmten
+Fall die Energie in Wirklichkeit auf die Eigenschwingungen
+verteilt, nicht dauernd herumkommen. In Anlehnung an die
+bisherige Quantentheorie wird man geneigt sein, anzunehmen,
+daß im entarteten Fall nur die Energie der Gesamtheit von
+Eigenschwingungen, die zu einem bestimmten Eigenwert gehört,
+einen gewissen vorgeschriebenen Betrag haben muß, der im
+nichtentarteten Fall schon einer einzigen Eigenschwingung
+zugehört, Ich möchte diese Frage vorläufig noch gänzlich
+offen lassen — auch in dem Punkt, ob überhaupt die gefun-
+denen „Energieniveaus“ wirklich Energiestufen des Schwingungs-
+worganges sind oder für ihn nur die Bedeutung der Frequenz
+haben. Für das Zustandekommen der scharfen Emissions-
+frequenzen ist, wenn man die Schwebungstheorie annimmt, die
+Deutung als Energieniveaus ja nicht mehr erforderlich.
+
+2. Der Rotator mit raumfester Achse.
+
+Wegen des Fehlens der potentiellen Energie bei gleich-
+zeitig euklidischem Linienelement bildet dieser das einfachste
+überhaupt denkbare Beispiel für die Schwingungstheorie. Sei
+A das Trägheitsmoment, @ der Drehwinkel, so erhält man als
+Schwingungsgleichung offenbar:
+
+1 8m? E
+(29) z a + y=0.
+
+Sie hat die Lösung
+
+®o rl en
+
+
+--- Page 32 ---
+520 E. Schrödinger.
+
+Hier muß nun das Argument ein ganzzahliges Vielfaches von
+$ sein einfach aus dem Grund, weil 4, sonst im Bereich der
+Koordinate 9 entweder nicht eindeutig oder nicht stetig sein
+würde, denn p +2 bedeutet ja dasselbe wie p. Diese Be-
+dingung ergibt das wohlbekannte Resultat
+
+a8
+e1) B,= 51
+in vollkommener Übereinstimmung mit der bisherigen Quanti-
+sierung.
+
+Dem Ergebnis kommt jedoch für die Anwendung auf die
+Bandenspektren Aeine Bedeutung zu. Denn wir werden so-
+gleich mit der eigenartigen Tatsache bekannt werden, daß
+unsere Theori® für den Rotator mit freier Achse ein anderes
+Resultat ergibt. Und das gilt allgemein. Es ist bei der An-
+wendung der Undulationsmechanik nicht ‚gestattet, zur Verein-
+fachung der Rechnung die Bewegungsfreiheit des Systems
+stärker beschränkt zu denken, als sie wirklich beschränkt ist,
+selbst wenn man auf Grund der Integrale der mechanischen
+Gleichungen weiß, daß das System bei der einzelnen Bewegung
+von bestimmten Freiheiten nicht Gebrauch macht. Für die
+Mikromechanik ist eben das System der mechanischen Grund-
+gleichungen ganz und gar nicht mehr zuständig, die einzelnen
+Bahnkurven, von denen es spricht, haben dort keine Sonder-
+ezistenz mehr. Ein Wellenvorgang erfüllt den ganzen Phasen-
+raum. Daß für einen Wellenvorgang sogar schon die Anzahl
+der Dimensionen, in denen or sich abspielt, etwas sehr wesent-
+liches ist, ist wohlbekannt.
+
+3. Der starre Rotator mit freier Achse.
+Führt man als Koordinaten ein die Polarwinkel der Kern-
+verbindungslinie, 3, 9, so lautet die kinetische Energie als
+Funktion der Impulse
+
+2 1 2
+(82) 7
+Der Form nach ist das die kinetische Energie eines Massen-
+punktes, der auf eine Kugelfläche gezwungen ist. Die La-
+
+placesche Operation ist daher einfach der von den Polar-
+winkeln abhängige Teil des räumlichen Laplaceschen Ope-
+
+--- Page 33 ---
+Quantisierung als Bigenwertproblem. 521
+rators und die Schwingungsgleichung (18”) erhält folgende
+
+Gestalt v
+18/009 1 &y , SmAB _
+
+8) RE (sin 955) tms tra rt
+
+Die Forderung, das auf der Kugelfläche eindeutig und stetig
+
+sein soll, führt bekanntlich auf die Bigenwertbedingung
+
+(84) Te H=enatl; n=0,12 8...
+Eigenfunktionen sind bekanntlich die Kugelflächenfunktionen.
+— Die Energieniveaus sind also
+
+“ 2
+(34) DEE n=0,1, 2,8...
+
+Diese Bestimmung weicht von allen bisherigen (außer
+vielleicht von der Heisenbergschen?) ab. Doch war man
+vom Experiment her dazu geführt worden, in der Formel (81)
+für n „halbzahlige® Werte zu setzen, unter verschiedenen Be-
+gründungen. Man erkennt, daß Formel (84°) praktisch dasselbe
+leistet, wie (81) mit halbzahligem n. Denn es ist ja
+
+2» 1
+aa+l)= (R+5) 4.
+Der Unterschied liegt also bloß in einer kleinen additiven Kon-
+stante, die Niveaudifferenzen in (84) sind dieselben wie bei
+„halbzahliger Quantelung“. Das gilt auch noch für die An-
+wendung auf die kurzwelligen Banden, bei denen das Träg-
+heitsmoment infolge des „Elektronensprunges“ im Anfangs- und
+Endzustand verschieden ist. Denn es tritt ja höchstens zu
+allen Linien einer Bande ein kleines konstantes Zusatzglied
+hinzu, das im großen „Elektronenterm““ oder auch im „Kern-
+schwingungsterm“ untergeht. Übrigens erlaubt unsere bis-
+herige Analyse durchaus nicht, von diesem kleinen Zusatzglied
+
+etwa als
+
+ıi® (4 _ 7)
+
+4 8m \A 4
+in wohldefinierter Weise zu sprechen. Die Vorstellung des
+durch „Quantenbedingungen“ für die HElektronenbewegungen
+und Kernschwingungen festgelegten Trägheitsmomentes fällt
+aus dem ganzen hier verfolgten Ideenkreis heraus. Wir werden
+in der nächsten Ziffer zeigen, wie man näherungsweise wenig-
+
+Annalen der Physik. IV. Folge. 79. 34
+
+
+--- Page 34 ---
+522 EB. Schrödinger.
+
+‚stens die Kernschwingungen und die Rotationen des zwei-
+‚atomigen Moleküls gleichzeitig behandeln kann durch Synthese
+der unter 1. und 3. behandelten Fälle‘) — Erwähnen möchte
+ich noch, daß der Wert 2a=0 nicht dem Perschwinden der
+Wellenfunktion , sondern einem konstanten Wert derselben
+entspricht, mithin einer Schwingung mit konstanter Amplitude
+auf der ganzen Kugelfläche.
+
+4. Der unstarre Rotator (zweiatomiges Molekül).
+
+Nach der am Ende von Ziff. 2. gemachten Bemerkung
+müssen wir das Problem von Haus aus mit allen seinen sechs
+Freiheitsgraden ansetzen, die es wirklich besitzt. Wir wählen
+zunächst die kartesischen Koordinaten z,, Yy 2 Zy Yg 2, der
+beiden Moleküle, deren Massen m,, m, seien. r sei ihr Abstand.
+Die potentielle Energie sei
+
+F = 2ntv2u(r — r,)%
+
+= Ya - tn ra.
+Hier möge on
+es) am
+
+mM, my
+die „resultierende Masse“ sein. Dann ist », die mechanische
+Eigenfrequenz der Kernschwingung bei festgehaltener Kern-
+verbindungslinie. r, ist der Abstand, in dem die potentielle
+Energie ein Minimum ist. AIl dies ist im Sinne der gewöhn-
+lichen Mechanik gemeint.
+Für die Schwingungsgleichung (18”) erhält man folgendes
+
+ö2 2 2 Li 2 2
+| GEN EEE
++21 2er —r)]y=0.
+Wir führen als neue unabhängige Variable ein z, 9,2, &, 1, £&:
+=, m+m)iö-met+m,z,
+(88) |
+
+yaeyn-n m tm)n=mytmy
+:=241-3 mMtm)i=mztmz,
+1) Vgl. A. Sommerfeld, Atombau und Spektrallinien, 4. Aufl.
+
+8.833. Die aubarmonischen Zusatzglieder in der potentiellen Energie
+ziehen wir hier noch nicht in Betracht.
+
+--- Page 35 ---
+Quantisierung als Bigenwertproblem. 523
+Die Umrechnung ergibt
+ı/&y " y öy 1 y u y
+(87) ji + öy® + =) t m +; (5 + on + =)
+
+He’ Be nPlw=0,
+
+wobei zur Abkürzung
+(89) a3 y_iunin
+
+RT OR
+Nun können wir für » ansetzen das Produkt einer Funktion
+der relativen Koordinaten 2, y, z und einer Funktion der
+
+Schwerpunktskoordinaten &, 7, &:
+
+(40) v=-f@y JE mL)
+Für g erhält man die Bestimmungsgleichung
+
+1 eg, ög , dg -
+(al) . hm (5 } it 2) + Const.g=0.
+
+Sie ist von derselben Gestalt wie diejenige, die sich für die
+kräftefreie Bewegung eines Massenpunktes von der Masse
+m, -- m, ergeben würde. Der Konstante würde in diesem Fall
+die Bedeutung
+
+(42) Const, — I,
+
+zukommen, wo Z, die Translationsenergie des genannten Massen-
+punktes. Wir denken diesen Wert in (41) eingetragen. Welche
+Werte für B, als Eigenwerte zulässig sind, hängt nun davon
+ab, ob den ursprünglichen Koordinaten und damit auch den
+Schwerpunktskoordinaten der ganze unendliche Raum zur Ver-
+fügung steht, ohne daß neue potentielle Energien auftreten
+oder nicht. Im ersten Fall ist jeder nichtnegative Wert zu-
+lässig, jeder negative unzulässig. Denn wenn .#, nicht negativ
+ist, und wur dann, besitzt (41) Lösungen, die nicht identisch
+verschwinden und doch im ganzen Raum endlich bleiben. Be-
+findet sich aber das Molekül in einem „Kasten“, so ist dieser
+als Randbedingung für die Funktion g aufzufassen, oder konse-
+quenter gesprochen: die Gleichung (41) wird an der Kasten-
+wand infolge des Auftretens weiterer potentieller Energien sehr
+abrupt ihre Gestalt ändern. Dadurch wird eine diskrete Menge
+von #,-Werten als Eigenwerte ausgesondert. Es handelt sich
+um die „Quantelung der Translationsbewegung‘‘, von der ich
+34*
+
+--- Page 36 ---
+524 B. Schrödinger.
+
+schon neulich die Hauptzüge besprochen und gezeigt habe, daß
+‚sie zur Einsteinschen Gastheorie führt!)
+Für den von den relativen Koordinaten x, y, = abhängigen
+Faktor f der Schwingungsfunktion y ergibt sich nun die Be-
+stimmungsgleichung:
+
+0? 6° 6° 1 ,
+u) rer tere n/=0,
+wobei zur Abkürzung .
+(8%) «um,
+Wir führen nun für x, y, z Polarkoordinaten r, $, yp ein (was
+
+mit der bisherigen Verwendung des Zeichens r im Einklang
+ist, Nach Multiplikation mit ü erhält man:
+
+1 8/[,0f 151 a f(. 0öf ı ef
+en! 7 EG a) + = mr 35 (n05%) + ans Tel
++a uf 0.
+
+Neuerliche Aufspaltung von f. Der von den Polarwinkeln ab-
+hängige Faktor ist eine Kugelflächenfunktion. Ordnung n. Die
+geschweifte Klammer ist — (nr + 1)f. Wir denken dies ein-
+getragen, lassen einfachheitshalber das Zeichen f stehen für
+den von r abhängigen‘ Faktor. Sodann wird als neue ab-
+hängige Variable eingeführt
+«as z=1f
+und sodann als neue unabhängige Variable
+(45) e=-r_n.
+Die Umrechnung ergibt:
+
+Rx "uber Rd], —
+us) öe® [r« ube rer |t =.
+
+Bis hierher ließ sich die Rechnung streng führen. Jetzt
+machen wir eine Annäherung, die, ich weiß es wohl, einer
+strengeren Begründung bedürfte, als ich hier dafür geben werde.
+Wir vergleichen (46) mit der früher behandelten Gleichung (22'),
+mit welcher sie im Bau übereinstimmt, sich nur im Koeffi-
+zienten der unbekannten Funktion um Glieder von der rela-
+tiven Größenordnung o/r, unterscheidet. Man sieht das, wenn.
+man entwickelt:
+
+1) Physik. Ztschr. 27, 8. 95. 1926.
+
+--- Page 37 ---
+Quantisierung als Eigenwertproblem. 525
+nn +1) _ ra +1) _ 20 3 _
+en ED ee),
+in (46) einsetzt, nach Potenzen von g/r, ordnet und für g die
+nur um eine kleine Konstante verschiedene Variable einführt:
+
+r (n +1)
+a8) ee
+le )
+Gleichung (46) erhält dann die Gestalt:
+x 502 E _
+u
+mit den Abkürzungen
+_ R nm +11 z.. na +1) \
+(48) | .—_ua— Tg (1 an)
+
+(B=uas+
+
+Das Zeichen [g’/»,] in (46) meint Glieder, welche gegen das
+kleinste noch berücksichtigte Glied von der Ordnung g’/r,
+klein sind.
+
+Nun wissen wir von der Gleichung (22'), mit der wir (46)
+jetzt vergleichen, daß deren erste Eigenfunktionen nur in einem
+kleinen Bereich beiderseits des Nullpunktes merklich von Null
+verschieden sind. Erst für höhere Ordnungszahl dehnen sie
+sich allmählich weiter aus. Bei mäßiger Ordnungszahl ist der
+Bereich für die Gleichung (46), wenn man darin das Glied
+[o’/r,] fortläßt und die Größenordnung der Molekülkonstanten
+einsetzt, tatsächlich klein gegen r,. Wir ziehen daraus den,
+ich wiederhole es, unstrengen Schluß, daß man auf diese "Weise
+für die ersten Eigenfunktionen innerhalb des Bereichs, wo sie
+überhaupt merklich von Null verschieden sind, und auch für
+die ersten igenwerte eine brauchbare Näherung erhält. Aus
+der damaligen Eigenwertbedingung (25) leitet man nun in
+leichter Rechnung, indem man die Abkürzungen (49), (89) und
+(39) wieder auflöst und die kleine Größe
+= nn + 1)h? nn + 1)ht
+(50) e- non Tg: - er
+als neue Abkürzung einführt, folgende Energiestufen ab:
+
+a
+B= m 4 MBEDE (1) + VIre
+n=0,1,2...; T=0,1, 2...)
+
+Inn +),
+For
+
+(51)
+
+--- Page 38 ---
+526 B. Schrödinger.
+
+worin noch
+(52) 4= ur
+für das Zrägheitsmoment geschrieben ist.
+
+s ist, in der Sprache der klassischen Mechanik, das Qua-
+drat des Verhältnisses der Rotationsfrequenz zur Schwingungs-
+frequenz »,; es ist demnach, bei der Anwendung auf das Mole-
+kül, wirklich eine kleine Größe und die Formel (51) hat, von
+dieser kleinen Korrektion und von den schon früher besprochenen
+Abweichungen abgesehen, den gewohnten Bau. Sie ist die
+
+“ Synthese von (257) und (84), wobei noch Z, als Repräsentant
+der Translationsenergie hinzukommt. Hervorzuheben ist, daß
+die Güte der Näherung nicht allein nach der Kleinheit von
+& zu beurteilen ist, es darf auch / nicht zu groß sein. Doch
+kommen für 7 ja prahtisch nur kleine Zahlen in Betracht.
+
+Die s-Korrektionen in (51) berücksichtigen noch nicht die
+Abweichung der Kernschwingungen vom reinharmonischen
+Typus. Daher ist ein Vergleich mit der Kratzerschen Formel
+(«. Sommerfeld, 1. c.) und mit der Erfahrung noch untunlich.
+Ich wollte den Fall vorläufig nur als Beispiel dafür bringen,
+daß und in welcher Weise der anschauliche Begriff der @leich- -
+gewichtskonfiguration des Kernsystems auch in der Undulations-
+mechanik seine Bedeutung beibehält, indem die Wellenampli-
+tude u praktisch nur in einer kleinen Umgebung der Gleich-
+gewichtskonfiguration von Null verschieden ist. Die unmittel-
+bare Interpretation dieser von sechs Variablen abhängigen
+Wellenfunktion im dreidimensionalen Raum stößt allerdings
+zunächst auf Schwierigkeiten begrifflicher Natur.
+
+Auf das Rotationsschwingungsproblem der zweiatomigen
+Molekel unter Berücksichtigung der anharmonischen Glieder
+in der Bindungsenergie wird demnächst zurückzukommen sein.
+Der von Kratzer mit großem Geschick für die klassisch-
+mechanische Behandlung ausgewählte Ansatz ist auch für die
+Undulationsmechanik der geeignete. Man muß aber, um die
+Rechnung so weit zu treiben, als es für die Feinheiten der
+Bandenstruktur nötig ist, von der Theorie der Störung der
+Eigenwerte und Bigenfunktionen Gebrauch machen, d. i. der
+Änderung, die ein. bestimmter Eigenwert und die zugehörigen
+Eigenfunktionen einer Differentialgleichung erfahren, wenn man
+dem Koeffizienten der unbekannten Funktion in der Differen-
+
+--- Page 39 ---
+Quantisierung als Eigenwertproblem. 527
+
+tialgleichung ein kleines „Störungsglied“ hinzufügt. Diese „Stö-
+rungstheorie“ ist das vollkommene Gegenstück zu derjenigen
+der klassischen Mechanik, nur ist sie einfacher aus dem Grunde,
+weil wir uns in der Undulationsmechanik durchweg im Gebiet
+linearer Relationen bewegen. In erster Näherung ergibt sich
+die Aussage, daß die Eigenwertstörung gleich ist dem „über
+die ungestörte Bewegung“ gemittelten Störungsglied.
+
+Die Störungstheorie erweitert die analytische Greifweite
+der neuen Theorie außerordentlich. Als praktisch wichtiges
+Ergebnis möchte ich schon hier anführen, daß der Starkeffekt
+erster Ordnung mit der durch die Erfahrungsbestätigung un-
+antastbar gewordenen Epsteinschen Formel wirklich voll-
+kommen übereinstimmend gefunden wird.
+
+Zürich, Physikslisches Institut der Universität.
+
+(Eivgegangen 23. Februar 1926.)

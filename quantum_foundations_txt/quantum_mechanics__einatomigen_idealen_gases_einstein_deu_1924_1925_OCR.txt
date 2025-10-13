@@ -1,0 +1,1135 @@
+
+--- Page 1 ---
+Quantentheorie des einatomigen idealen Gases.
+
+Von A. Einstein.
+
+Eine von willkürlichen Ansätzen freie Quantentheorie des einatomigen idealen
+Gases existiert bis heute noch nicht. Diese Lücke soll im folgenden ausge-
+füllt werden auf Grund einer neuen, von Hın. D. Bose erdachten Betrachtungs-
+weise, auf welche dieser Autor eine höchst beachtenswerte Ableitung der
+Pranckschen Strahlungsformel gegründet hat!.
+
+Der im folgenden im Anschluß an Bose einzuschlagende Weg läßt sich
+so charakterisieren. Der Phasenraum eines Elementargebildes (hier eines ein-
+atomigen Moleküls) in bezug auf ein gegebenes (dreidimensionales) Volumen
+wird in »Zellen« von der Ausdehnung 4? eingeteilt. Sind viele Elementar-
+gebilde vorhanden, so ist deren für die Thermodynamik in Betracht kom-
+mende (mikroskopische) Verteilung durch die Art und Weise charakterisiert,
+wie die Elementargebilde über diese Zellen verteilt sind. Die » Wahrschein-
+lichkeit« eines makroskopisch definierten Zustandes (im Pranckschen Sinne)
+ist gleich der Anzahl der verschiedenen mikroskopischen Zustände, durch
+welche der makroskopische Zustand realisiert gedacht werden kann. Die En-
+tropie des makroskopischen Zustandes und damit das statistische und ther-
+modynamische Verhalten des Systems wird dann durch den Borrzuannschen
+Satz bestimmt.
+
+$1. Die Zellen.
+
+Das Phasenvolum, welches zu einem gewissen Bereich der Koordinaten
+x,y, 2 und zugehörigen Momente p,, ?,, P; eines einatomigen Moleküls ge-
+hört, wird durch das Integral
+
+= [dadydzap,ap,ap. (1)
+ausgedrückt. Ist V das dem Molekül zur Verfügung stehende Volumen, so
+ist das Phasenvolumen aller Zustände, deren Energie E = En (p+P,+P:)
+
+kleiner ist als ein bestimmter Wert E, gegeben durch
+
+4 &
+Si 2) ; (1a)
+
+ı Erscheint nächstens in der »Zeitschr. für Physik «.
+Sitzungsber. phys.-math. Kl. 1924. ()
+
+--- Page 2 ---
+Gesamtsitzung vom 10. Juli 1924
+
+Die Zahl As der Zellen, welche zu einem bestimmten Elementargebiet AE
+der Energie gehört, ist folglich
+
+v EWR:
+As=2r,,(2m)’E’AE. (2)
+
+E
+Bei beliebig klein gegebenen En kann man V stets so groß wählen, daß As
+
+eine sehr große Zahl ist.
+
+$2. Zustands-Wahrscheinlichkeit und Entropie.
+Wir definieren nun den makroskopischen Zustand des Gases.
+Es seien nun im Volumen Vn Moleküle von der Masse m vorhanden.
+An derselben mögen Energiewerte zwischen E und E+AE besitzen. Die-
+selben verteilen sich unter die As Zellen. Unter den As Zellen sollen ent-
+
+—— p.As kein Molekül,
+
+p,As ı Molekül,
+p,As 2 Moleküle
+usw. .
+Die zur sten Zelle gehörigen Wahrscheinlichkeiten p, sind dann offenbar Funk-
+tionen der Zellenzahl s und des ganzzahligen Index r, und sie sollen daher
+im folgenden ausführlicher mit p/ bezeichnet werden. Es ist offenbar für
+
+alle s R
+Lp=1. (3)
+
+Bei gegebenen p} und gegebenem An ist die Anzahl der möglichen Vertei-
+lungen der An Moleküle über das betrachtete Energiegebiet gleich
+
+As!
+
+Llis9!
+
+was nach dem Srıerıneschen Satze und der Gleichung (3) durch
+
+’
+
+I
+
+ersetzt werden kann, wofür man auch das über alle r und s laufende Produkt
+
+I
+Ib* (4)
+
+setzen kann. Erstreckt man die Produktbildung über alle Werte von s von
+ı bis oo, so stellt (4) offenbar die Gesamtzahl der Komplexionen bzw. die
+Wahrscheinlichkeit im Pranoxschen Sinne eines durch die p/ definierten (ma-
+kroskopischen) Zustandes des Gases dar. Für die Entropie $ dieses Zustandes
+liefert der Borrzmannsche Satz den Ausdruck
+
+S=—-ıBY lem): (5)
+
+--- Page 3 ---
+Einsseın: Quantentheorie des einatomigen idealen Gases
+
+83. Thermodynamisches Gleichgewicht.
+Beim thermodynamischen Gleichgewicht ist S ein Maximum, wobei außer
+(3) den Nebenbedingungen zu genügen ist, daß die Gesamtzahl n der Atome
+sowie deren Gesamtenergie E gegebene Werte besitzen. Diese Bedingungen
+drücken sich offenbar in den beiden Gleichungen aus'
+
+n=Y%rp, (6)
+E=YE'rp, (N
+
+wobei E° die Energie eines Moleküls bedeutet, welches zur sten Phasenzelle
+gehört. Aus (1a) folgert man leicht, daß
+
+2
+
+E=cs
+
+en (8)
+ce = (zm)"'h° (dev) ’
+
+Durch Ausführung der Variation nach den p/ als Variabeln findet man, daß
+bei passender Wahl der Konstanten 8, A und B
+
+n=Bbe“
+nel a)
+sein muß. Gemäß (3) muß hierbei sein
+
+B=ı-—e*. (10)
+
+Hieraus ergibt sich zunächst für die mittlere Zahl der Moleküle pro Zelle
+Sr 5 ar _ 5 d a) _ s d Z en 1
+
+= InB Ent Er) Aloe)
+Die Gleichungen (6) und (7) nehmen also die Form an
+
+DI Zur (6a)
+
+E=c),z
+
+welche Gleichungen zusammen mit
+
+(78)
+
+«= A+Bs’
+die Konstanten A und B bestimmen. Damit ist das Gesetz der makroskopi-
+schen Zustandsverteilung für das thermodynamische Gleichgewicht vollständig
+bestimmt.
+
+! n'=%rp! ist nämlich die im Mittel auf die ste Zelle entfallende Zahl von Molekülen.
+
+a*)
+
+--- Page 4 ---
+Gesamtsitzung vom 10. Juli 1924
+
+Durch Einsetzen der Ergebnisse dieses Paragraphen in (5) ergibt sich
+für die Gleichgewichtsentropie der Ausdruck
+
+s= [Isa em An EN. (12)
+
+Wir haben nun die 'Temperatur des Systems zu berechnen. Zu dem Zweck
+wenden wir die Definitionsgleichung der Entropie auf eine unendlich kleine
+isopyknische Erwärmung an und erhalten
+
+dE= TiSs= «72 nd - 2%).
+
+was mit Rücksicht auf (9), (6) und (7) ergibt
+en E B,-
+dE= 2) — »T—-dE
+oder
+1 B
+Era \)
+Damit ist auch die Temperatur indirekt durch die Energie und die übrigen
+gegebenen Größen ausgedrückt. Aus (12) und (13) folgt noch, daß die freie
+Energie F des Systems gegeben ist durch
+
+F= E-TS=xT{1g Yıı—e)— An}. (14)
+Für den Druck p des Gases ergibt sich hieraus
+oF E dB -olge 2 E
+PS -ylg Ei=i7 00
+
+Es ergibt sich also das merkwürdige Resultat, daß die Beziehung zwischen
+der kinetischen Energie und dem Druck genau gleich herauskommt wie in
+der klassischen Theorie, wo sie aus dem Virialsatz abgeleitet wird.
+
+$4. Die klassische Theorie als Grenzfall.
+
+Vernachlässigt man die Einheit gegenüber e“‘, so erhält man die Er-
+gebnisse der klassischen Theorie; aus dem folgenden wird sich bald ergeben,
+unter was für Bedingungen diese Vernachlässigung berechtigt ist. Gemäß
+(11), (9), (13) ist dann die mittlere Zahl n° der Moleküle pro Zelle gegeben
+durch
+
+Es
+=eA.e Wr. (11a)
+
+Die Zahl der Moleküle, deren Energie in dem Elementarbereich dE® liegt,
+ist also gemäß (8) gegeben durch
+
+So=terdemirErdE, (1b)
+
+--- Page 5 ---
+Einstein: Quantentheorie des einatomigen idealen Gases
+
+im Einklang mit der klassischen Theorie. Gleichung (6) liefert demnach bei
+Anwendung derselben Vernachlässigung
+3
+
+3
+ed=nm:h” Y om: . (16)
+
+Für Wasserstoffgas von Atmosphärendruck ist diese Größe etwa gleich 6- 10%,
+also sehr groß gegen ı. Hier liefert also die klassische Theorie noch eine
+recht gute Näherung. Der Fehler nimmt aber mit wachsender Dichte und
+mit sinkender Temperatur erheblich zu und ist für Helium in der Gegend
+des kritischen Zustandes recht beträchtlich; allerdings kann dann von einem
+idealen Gase durchaus nicht mehr die Rede sein.
+
+Wir berechnen nun aus (12) die Entropie für unseren Grenzfall. Indem
+I
+
+man in (12) lg (1—e”*‘) durch —e”*" und dies durch — ersetzt, erhält
+
+ee —ı
+
+man unter Berücksichtigung von (6a)
+
+an
+en
+wobei v die Anzahl der Mole, R die Konstante der Zustandsgleichung der
+idealen Gase bedeutet. Dies Ergebnis über den Absolutwert der Entropie
+steht im Einklang mit wohlbekannten Ergebnissen der Quantenstatistik.
+
+Nach der hier gegebenen Theorie ist das Nerustsche Theorem für ideale
+Gase erfüllt. Zwar lassen sich unsere Formeln auf extrem tiefe Tempera-
+turen nieht unmittelbar anwenden, weil wir bei ihrer Ableitung vorausgesetzt
+haben, daß die p‘ sich nur relativ unendlich wenig ändern, wenn s sich um
+ı ändert. Indessen erkennt man unmittelbar, daß die Entropie beim abso-
+luten Nullpunkt verschwinden muß. Denn dann befinden sich alle Moleküle
+in der ersten Zelle; für diesen Zustand gibt es aber nur eine einzige Ver-
+teilung der Moleküle im Sinne unserer Zählung. ITieraus folgt unmittelbar
+die Richtigkeit der Behauptung.
+
+v &
+s= Ri] em) |, (17)
+
+85. Die Abweichung von der Gasgleichung der klassischen Theorie.
+
+Unsere Ergebnisse bezüglich der Zustandsgleichung sind in folgenden
+Gleichungen, enthalten:
+
+I
+n= Ir (18) (el. (6a)
+E=2p77/=c$% Fr (19) _ (vgl.(7a) und (15)
+ir 1. (9) und (13))
+«= «T (20) wel. 3
+E » =
+cd— — (4=v) ” (21) (vgl. (8))
+= 2m\3
+
+--- Page 6 ---
+Gesamtsitzung vom 10. Juli 1924
+
+Diese Ergebnisse wollen wir nun umformen und diskutieren. Aus den Über-
+legungen des $ 4 geht hervor, daß die Größe e=“, welche wir mit A be-
+zeichnen wollen, kleiner als ı ist. Sie ist ein Maß für die »Entartung« des
+Gases. Wir können nun (18) und (19) in Form von Doppelsummen so schreiben
+
+es3r
+
+n=Yxe- „7 (18a)
+sr
+
+_ = 083 +
+
+E=e),sXeir, (198)
+er
+
+wobei über r für alle « von ı bis oo zu summieren ist.
+
+Wir können die Summation über s ausführen, indem wir sie durch eine
+Integration von o bis oo ersetzen. Dies ist gestattet wegen der langsamen
+Veränderlichkeit der Exponentialfunktion mit ©. Wir erhalten so:
+
+3Yr (xT = a
+n= ri (2) 2:7 aA (18b)
+
+E= (2) zen. (19b)
+
+(18b) bestimmt den Entartungsparameter A als Funktion von V, T und n,
+(19b) hieraus die Energie und damit auch den Druck des Gases.
+
+Die allgemeine Diskussion dieser Gleichungen kann so geschehen, daß
+man die Funktion aufsucht, welche die Summe in (19b) durch die Summe
+in (18b) ausdrückt. Allgemein erhält man durch Division
+
+I, —. (22)
+
+Die mittlere Energie des Gasmoleküls bei der Temperatur (sowie der Druck)
+ist also stets geringer als der klassische Wert, und zwar ist der die Reduktion
+ausdrückende Faktor desto kleiner, je größer der Entartungsparameter A ist.
+
+Dieser selbst ist gemäß (18b) und (21) eine bestimmte Funktion von (2) "MT.
+n
+
+Ist A so klein, daß A’ gegen ı vernachlässigt werden darf, so erhält man
+
+2 = Ser|ı-o0sr gaormen-2]. (22a)
+Wir überlegen nun noch, in welcher Weise die Maxweıısche Zustands-
+
+verteilung durch die Quanten beeinflußt wird. Entwickelt man (11) unter
+
+Berücksichtigung von (20) nach Potenzen von A, so erhält man
+
+Es Es
+nm = konst er (li trennt). (23)
+
+--- Page 7 ---
+Einstein: Quantentheorie des einatomigen idealen Gases
+
+Die Klammer drückt den Quanteneinfluß auf das Maxwerzsche Verteilungs-
+gesetz aus. Man sieht, daß die langsamen Moleküle gegenüber den raschen
+häufiger sind, als es gemäß Maxweııs Gesetz der Fall wäre.
+
+Zum Schluß möchte ich auf ein Paradoxon aufmerksam machen, dessen
+Auflösung mir nicht gelingen will. Es hat keine Schwierigkeit, nach der
+hier angegebenen Methode auch den Fall der Mischung zweier verschiedener
+Gase zu behandeln. In diesem Falle hat jede Molekülsorte ihre besonderen
+»Zellen«: Daraus ergibt sich dann die Additivität der Entropien der Kompo-
+nenten des Gemisches. Jede Komponente verhält sich also bezüglich Molekül-
+energie, Druck und statistischer Verteilung, wie wenn sie allein vorhanden
+wäre. Ein Gemisch von den Molekülzahlen N,,N,, dessen Moleküle erster
+und zweiter Art sich beliebig wenig (im besonderen bezüglich der Molekül-
+masse m,, m,) voneinander unterscheiden, liefert also bei gegebener Tempe-
+ratur einen anderen Druck und eine andere Zustandsverteilung als ein einheit-
+liches Gas von der Molekülzahl n,+n, von praktisch derselben Molekülmasse
+und demselben Volumen. Dies erscheint aber so gut wie unmöglich.
+
+--- Page 8 ---
+Überreicht vom Verfasser.
+
+1925.
+SITZUNGSBERICHTE
+
+DER PREUSSISCHEN
+
+AKADEMIE DER WISSENSCHAFTEN.
+
+Sitzung der physikalisch-mathematischen Klasse vom 8. Januar.
+
+Quantentheorie des einatomigen idealen Gases.
+Zweite Abhandlung.
+
+Von A. EInsTEin.
+
+2
+paper_1925_00
+
+© Instituut-Lorentz, Leiden University
+
+en
+
+index
+
+--- Page 9 ---
+index
+
+Quantentheorie des einatomigen idealen Gases.
+Zweite Abhandlung.
+
+Von A. Einstein.
+
+I einer neulich in diesen Berichten (XXI 1924, 8. 261) erschienenen Ab-
+handlung wurde unter Anwendung einer von Hrn. D. Bosr zur Ableitung der
+Pranozschen Strahlungsformel erdachten Methode eine Theorie der »Entartung«
+idealer Gase angegeben. Das Interesse dieser Theorie liegt darin, daß sie auf
+die Hypothese einer weitgehenden formalen Verwandtschaft zwischen Strah-
+lung und Gas gegründet ist. Nach dieser "Theorie weicht das entartete Gas
+von dem Gas der mechanischen Statistik in analoger Weise ab wie die Strah-
+lung gemäß dem Praxexschen Gesetze von der Strahlung gemäß dem Wırn-
+schen Gesetze. Wenn die Bosesche Ableitung der Praxexschen Strahlungs-
+formel ernst genommen wird, so wird man auch an dieser Theorie des idealen
+Gases nicht vorbeigehen dürfen; denn wenn es gerechtfertigt ist, die Strah-
+lung als Quantengas aufzufassen, so muß die Analogie zwischen (Quantengas
+und Molekülgas eine vollständige sein. Im folgenden sollen die früheren Über-
+legungen durch einige neue ergänzt werden, die mir das Interesse an dem
+Gegenstande zu steigern scheinen. Der Bequemlichkeit halber schreibe ich das
+Folgende formal als Fortsetzung der zitierten Abhandlung.
+
+$ 6. Das gesättigte ideale Gas.
+
+Bei der Theorie des idealen Gases scheint es eine selbstverständliche
+Forderung, daß Volumen und Temperatur einer Gasmenge willkürlich gegeben
+werden können. Die 'Theorie bestimmt dann die Energie bzw. den Druck
+des Gases. Das Studium der in den Gleichungen (18), (19), (20), {2t)
+enthaltenen Zustandsgleichung zeigt aber, daß bei gegebener Molekülzahl r
+und gegebener Temperatur 7 das Volumen nicht beliebig klein gemacht werden
+kann. Gleichung (18) verlangt nämlich, daß für alle s «=o sei, was gemäß
+(20) bedeutet, daß A>o sein muß. Dies bedeutet, daß in der in diesem Falle
+gültigen Gleichung (18b) 3 (= e”“) zwischen 0 und ı liegen muß. Aus (185)
+folgt demnach, daß die Zahl der Moleküle in einem solehen Gas bei gege-
+benem Volumen V nieht. größer sein kann als
+
+=
+(rmT) VS _-:
+n= RP ern Br .
+
+(24)
+
+Sitzungsber. phys.-nath. Kl. 1925 19)
+
+paper_1925_01
+
+--- Page 10 ---
+wm
+
+index
+
+4 Sitzung der pbysikalisch-mathematischen Klasse vom 8. Januar 1925
+
+N a
+Was geschieht nun aber, wenn ich bei dieser Temperatur v (z. B. durch iso-
+
+thermische Kompression) die Dichte der Substanz noeh mehr wachsen lasse?
+
+Ich behaupte, daß in diesem Falle eine mit der Gesamtdichte stets wach-
+sende Zahl von Molekülen in den ı. Quantenzustand (Zustand ohne kinetische
+Energie) übergeht, während die übrigen Moleküle sich gemäß dem Parameter-
+wert A= ı verteilen. Die Behauptung geht also dahin, daß etwas Ähnliches
+eintritt wie beim isothermen Komprimieren eines Dampfes über das Sättigungs-
+volumen. Es tritt eine Scheidung ein; ein Teil »kondensiert«, der Rest
+bleibt ein »gesättigtes ideales Gas« (A=or=1).
+
+Daß die beiden Teile in der Tat ein thermodynamisches Gleichgewicht
+bilden, sieht man ein, indem man zeigt, daß die »kondensierte« Substanz und
+das gesättigte ideale (ras pro Mol dieselbe Prancxsche Funktion # = S— gu r
+haben. Für die »kondensierte« Substanz verschwindet #, weil 85, E und V
+einzeln verschwinden', Für das » gesättigte Gas« hat man nach (12) und (13)
+für A= 0 zunächst
+
+x
+
+Sry N+z- (25)
+
+Die Summe kann man als Integral schreiben und durch partielle Integration
+umformen. Man erhält so zunächst
+
+f es B
+P et 208 >
+ger Sr rn aa
+Y ee,
+oder gemäß (8) und (11) und (15)
+y=- . 7 BEE. ——. (26)
+ı, 3 x1 »T
+Aus (25) und (26) folgt also für das »gesättigte ideale Gas«
+._ E+pV
+Ss T
+
+oder —- wie es für die Koexistenz des gesättigien idealen Gases mit der kon-
+densierten Substanz erforderlich ist —
+
+=o. (27)
+
+Wir gewinnen also den Satz:
+Nach der entwickelten Zustandsgleichuug des idealen Gases gibt es bei
+jeder Temperatur eine maximale Dichte in Agitation befindlicher Moleküle.
+
+! Der »kondensiertes Teil der Substanz beansprucht kein besonderes Volumen, da er
+zum Druck nichts beiträgt.
+
+paper_1925_02
+
+index
+
+
+--- Page 11 ---
+Erstes; Quantentheorie des einatomigen idealen Gases, 1 a
+
+Bei Überschreitung dieser Dichte fallen die überzähligen Moleküle als unbe-
+wegt aus (»kondensieren« ohne Anziehungskräfte). Das Merkwürlige liegt
+darin, daß das »gesättigte ideale Gas« sowohl den Zustand maximaler mög-
+licher Dichte bewegter Gasmoleküle als auch diejenige Dichte repräsentiert,
+bei welcher das Gas mit dem »Kondensat« im thermodynamischen Gleich-
+gewicht ist. Ein Analogon zum »übersättigten Dampf« existiert also beim
+idealen Gas nicht.
+
+$ 7. Vergleich der entwiekelten Gastheorie mit derjenigen, welehe aus der
+Hypothese von der gegenseitigen statistischen Unabhängigkeit der Gas-
+moleküle folgt.
+
+Von Hrn. Enrexrest und anderen Kollegen ist an Boses Theorie der
+Strahlung und an meiner analogen der idealen Gase gerügt worden, daß in
+diesen Theorien die Quanten bzw. Moleküle nicht als voneinander statistisch
+unabhängige Gebilde behandelt werden, ohne daß in unseren Abhandlungen
+| auf diesen Umstand besonders hingewiesen worden sei. Dies ist völlig rich-
+tig. Wenn man die Quanten als voneinander statistisch unabhängig in ihrer
+Lokalisierung behandelt, gelangt man zum Wienxschen Strahlungsgesetz; wenn
+man die Gasmolcküle analog behandelt, gelangt man zur klassischen Zustands-
+gleichung der idealen Gase, auch wenn man im übrigen genau so vorgeht,
+wie Bos£ und ich es getan haben. Ich will die beiden Betrachtungen für
+Gase einander hier gegenüberstellen, um den Unterschied reeht deutlich zu
+machen, und um unsere Resultate mit denen der Theorie von unabhängigen
+Molekülen bequem vergleichen zu können.
+
+Gemäß beiden Theorien ist die Zahl z, ler »Zellen«, welche zu dem
+infinitesimalen Gebiet AE der Molekülenergie (im folgenden » Elementargebiet «
+genannt) gehören, gegeben durch
+
+ı
++ 3
+
+v Eu
+— 2R .„ (zm) E SE. (za)
+
+Der Zustand des Gases sei (makroskopisch) dadurch definiert, daß angegeben
+- wird, wie viele Moleküle z, in einem jeden solchen infinitesimalen Bereich
+
+liegen. Man soll die Zahl W der Realisierungsmöglichkeiten (Praxexsche
+
+Wahrscheinlichkeit) des so definierten Zustandes berechnen,
+
+a) nach Bose:
+
+Ein Zustand ist mikroskopisch dadurch definiert, daß angegeben wird,
+wie viele Moleküle in jeder Zelle sitzen (Komplexion). Die Zahl der Kom-
+plexionen für das v-te infinitesimale Gebiet ist dann
+
+n,+2,—ı)!
+
+2,12,— 1)! {a8
+
+Dureh Produktbildung über alle infinitesimalen Gebiete erhält man die Ge-
+samtzahl der Komplexionen eines Zustandes und daraus nach dem Borrz-
+“mansschen Satze die Entropie
+
+Se «3 [in +2) lg (9, +2)—n, lg n,—z, lg Ale (29a)
+
+(®)
+
+es ee ee
+
+paper_1925_03
+
+Fe
+
+index
+
+--- Page 12 ---
+G Sitzung der physikalisch-mathematischen Klasse vom 8. Januar 1925
+
+Daß bei dieser Rechnungsweise die Verteilung der Moleküle unter die Zellen
+nieht als eine statistisch unabhängige behandelt ist, ist leicht einzusehen. Es
+hängt dies damit zusammen, daß die Fälle, welehe hier »Komplexionen« heißen,
+nach der Hypothese der unabhängigen Verteilung der einzelnen Moleküle unter
+die Zellen, nicht als Fälle gleicher Wahrscheinlielikeit anzusehen wären, Die
+Abzählung dieser »Komplexionen« verschiedener Wahrscheinlichkeit würde
+dann bei tatsächlicher statistischer Unabhängigkeit der Moleküle die Entropie
+nieht richtig ergeben. Die Formel drückt also indirekt eine gewisse Hypo-
+these über eine gegenseitige Beeinflussung der Moleküle von vorläufig ganz
+rätselhafter Art aus, welche eben die gleiche statistische Wahrscheinlichkeit.
+der hier als »Komplexionen« definierten -Fälle bedingt.
+
+b) nach der IIypothese der statistischen Unabhängigkeit der Moleküle:
+
+Ein Zustand ist mikroskopisch dadurch definiert, daß von jedem Molekül
+angegeben wird, in welcher Zelle es sitzt (Komplexion). Wie viele Kom-
+plexionen gehören zu einem makroskopisch definierten Zustand? Ich kann
+zn, bestimmte Moleküle auf
+
+Fi
+”
+
+verschiedene Weisen auf die 2, Zellen des v-ten Elementargebietes verteilen. Ist
+die Zuteilung der Moleküle auf die Flementargebiete schon in bestimmter
+Weise vorgenommen, so gibt es also im ganzen
+
+Ile"
+verschiedene Verteilungen der Moleküle über alle Zellen. Um die Zahl der
+Komplexionen im definierten Sinne zu erhalten, muß nun dieser Betrag noch
+multipliziert werden mit der Anzahl
+
+n!
+
+Ilr.!
+der möglichen Zuordnungen aller Moleküle an die Elementargebiete bei ge-
+gebenen n,. Das Borrzmanssche Prinzip ergibt dann für die Entropie den
+Ausdruck
+
+S= »{n lg n+) (n, lg 2, —n,ig “)}- (29b)
+
+Das erste Glied dieses Ausdruckes hängt nicht von der Wahl der makroskopi-
+schen Verteilung ab, sondern nur von der Gesamtzahl der Moleküle. Bei
+der Vergleichung der Entropien verschiedener makroskopischer Zustände des-
+selben Gases spielt dies Glied die Rolle einer belanglosen Konstante, welche
+wir weglassen können. Wir müssen sic weglassen, wenn wir — wie es in
+der Thermodynamik üblich ist — erreichen wollen, daß die Entropie bei ge-
+gebenem innerem Zustand des Gases der Anzahl der Moleküle proportional
+sei. Wir haben also
+
+So x%,n, (lg ,—1g n,) (29e)
+
+zu setzen. Man pflegt dies Weglassen des Faktors 2! in W bei Gasen ge-
+wöhnlich dadurch zu begründen, daß man Komplexionen, die aus einander
+
+ee VEREEn
+
+paper_1925_04
+Pe
+
+index
+
+
+--- Page 13 ---
+index
+
+Einstein: Quantentheorie des einatommigen idenlen Gases. II fi
+durch bloßes Vertauschen gleichartigen Molekülen entstehen, nicht als verschie-
+den betrachtet und deshalb nur einmal reehnet.
+
+Nun haben wir für beide Fälle das Maximum von 5 aufzusuchen unter
+den Nebenbedingungen
+
+E=\ E,n, = konst.
+n=N3n = konst.
+Im Falle a) ergibt sich:
+
+Eu" zur)
+
+(30a)
+
+was abgesehen von der Bezeiehnungsweise mit: (13) übereinstimmt. Im Falle b)
+ergibt sieh |
+u, 2,e"#H, (30b)
+
+In beiden Fällen ist hierbei 8x7 =
+
+Man sicht ferner, daß im Falle b) das Maxwerısche Verteilungsgesetz her-
+auskommt. Die Quantenstruktur macht sich hier nieht bemerkbar (wenigstens
+nicht bei unendlich großem Gesamtvolumen Jes Gases). Man sieht nun leicht,
+daß Fall b) mit dem Nersstschen Theorem unvereinbar ist. Um nämlich den
+Wert der Entropie beim absoluten Nullpunkt der Temperatur für diesen Fall
+zu berechnen, hat man (29e) für den absoluten Nullpunkt zu bereehnen. Bei
+diesem werden sich alle Moleküle im ersten Quantenzustand befinden. Wir
+haben also
+
+2,=0fürv$#$ 1
+n—n
+z=ı
+
+zu setzen. (29e) liefert also für != 0
+S=—nlga. (a1)
+
+Es ist also bei der Berechnungsweise b) ein Widerspruch gegen die Aussage
+des Nersstschen Theorems vorhanden. Dagegen steht. die Berechnungsweise a)
+mit dem Nersstschen Theorem im Einklang, wie man sofort sieht, wenn man
+bedenkt, daß beim absoluten Nullpunkt im Sinne der Bereehnungsweise a)
+nur eine einzige Komplexion vorhanden ist (W = ı). Die Betrachtungsweise b)
+führt nach dem Dargelegten entweder zu einem Verstoß gegen das Nerxstsche
+Theorem oder zu einem Verstoß gegen die Forderung, daß die Entropie bei
+gegebenem innerem Zustand der Molekülzahl proportional sein muß. Aus
+diesen Gründen glaube ich, daß der Bereehnungsweise a) (d.h. Bosss stati-
+stischem Ansatz) der Vorzug gegeben werden muß, wenn sich die Bevor-
+zugung dieser Berechnungsweise anderen gegenüber auch nicht a priori er-
+weisen läßt. Dies Ergebnis bildet seinerseits eine Stütze für die Auffassung
+von der tiefen Wesensverwandtschaft zwischen Strahlung und Gas, indem
+dieselbe statistische Betrachtungsweise, welche zur Prasexschen Formel führt,
+in ihrer Anwendung auf ideale Gase die Übereinstimmung der Gastheorie
+mit dem Nersstschen Theorem herstellt.
+
+ıper_1925_05
+
+5
+FE
+®
+*
+
+--- Page 14 ---
+index
+
+8 Sitzung der physikalisch-mathematischen Klasse vom 8. Januar 1925
+
+$ 8 Die Schwankungseigenschaften des idealen Gases.
+
+Ein Gas vom Volumen V kommuniziere mit einem solehen gleicher Natur
+von unendlich großem Volumen. Beide Volumina seien durch eine Wand
+getrennt, welche nur Moleküle vom infinitesimalen Energiegebiet AK durch-
+lassen, Moleküle von anderer kinetischer Energie aber reflektiert. Die Fiktion
+einer solehen Wand ist der der quasi-monochromatisch durehlässigen Wand auf
+dem Gebiete der Strahlungstlieorie analog. Es wird nach der Schwankung A,
+der Molekülzahl r, gefragt, welche zu dem Energiegebiet AE gehört. Dabei
+wird angenommen, daß ein Energieaustausch zwischen Molekülen verschiedener
+Energiegebiete innerhalb V nicht stattfinde, so daß Schwankungen von Molekül-
+zahlen, «die zu Energien außerhalb AK gehören, nicht stattfinden mögen.
+
+Sei z, der Mittelwert der zu AR gehörigen Moleküle, 2,+4A, der Mo-
+mentanwert. Dann liefert (29a) den Wert der Entropie in Funktion von A,,
+indem man in diese Gleichung z,-+&A, statt n, einsetzt. Geht man bis zu
+quadratischen Gliedern, so erhält ınan
+
+es 1 08
+S=S+,; Ss = A;
+ET
+Eine ähnliche Relation gilt für das unendlich große Restsystem, nämlich
+Du 8 Le
+GN
+
+v
+
+Das quadratische Glied ist hier relativ unendlich klein wegen der relativ un-
+
+endlichen Größe (les Restsystems. Bezeiehnet man die Gesamtentropie mit.
+> m on a
+
+> (= S+S°), so ist an o, weil im Mittel Gleichgewicht besteht. Man
+
+v
+
+erhält also für die Gesamtentropie dureh Addition dieser Gleichungen die
+Relation
+
+ı »8
+
+3-3 Arnd 2)
+Pr Pi | Re (3
+Naeh dem Borrzuaxsschen Prinzip erhält man hieraus für die Wahrscheinlich-
+keit: der A, das Gesetz
+
+5 w®8 ,
+
+dW = konst ?" da, = konst e" "da.
+
+Hieraus folgt für das mittlere Schwankungsquadrat
+
+Z
+
+[ re) . (33)
+RN
+
+Hieraus ergibt sich mit Rücksicht auf (29a)
+
+Pi
+
+2en-+ (34)
+
+paper_1925_06
+En
+
+index
+
+--- Page 15 ---
+De}
+
+index
+
+Einstein: Quantentheorie des einatomigen idealen. Gases. 11 3
+
+Dies Schwankungsgesetz ist dem der quasi-monochromatischen Pranexschen
+Strahlung vollkommen analog. Wir schreiben es in der Form
+
+AN 1 1
+(*) ar (342)
+
+Das Quadrat der mittleren relativen Schwankung der Moleküle der hervor-
+gehobenen Art setzt sich aus zwei Summanden zusammen. Der erste wäre
+allein vorhanden, wenn die Moleküle voneinander unabhängig wären. Dazu
+kommt ein Anteil des mittleren Schwankungsquadrates, der von der mittleren
+Moleküldichte gänzlich unabhängig ist und nur durch das Elementargebiet A
+und das Volumen bestimmt ist. Er entspricht bei der Strahlung den Iuter-
+ferenzschwankungen. Man kann ihn auch beim Gase in entsprechender Weise
+deuten, indem man dem Gase in passender Weise einen Strahlungsvorgang
+zuordnet und dessen Interferenz-Schwankungen berechnet. Ich gehe näher
+auf diese Deutung ein, weil ich glaube, daß es sich dabei um mehr als um
+eine bloße Analogie handelt.
+
+Wie einem materiellen Teilehen bzw. einem System von materiellen Teil-
+chen ein (skalares) Wellenfeld zugeordnet werden kann, hat Hr. E. pe BrosLız
+in einer sehr beachtenswerten Schrift! dargetan. Einem materiellen Teilchen
+von der Masse m wird zunächst eine Frequenz v, zugeordnet gemäß der Gleichung
+
+me — hv,. (35)
+
+Das Teilchen ruhe nun in bezug ein galileisches System Ä’, in welchem wir
+eine überall synehrone Schwingung von der Frequenz v, denken. Relativ zu
+einem System X, in bezug auf welches K’ mit der Masse m mit der Ge-
+schwindigkeit v längs der (positiven) X-Achse bewegt ist, existiert dann ein
+wellenartiger Vorgang von der Art
+
+sin| 2”, ——
+
+Frequenz v und Phasengeschwindigkeit V dieses Vorgangs sind also gegeben
+durch
+
+(36)
+
+’v= (37)
+
+* Lovis pw BroeLie. Theses. Paris. (Edit. Musson & Co.), 1924. In dieser Dissertation
+findet sich auch eine sehr bemerkenswerte geometrische Interpretation der Borr-SostuerreLpschen
+Quantenregel. .
+
+paper_1925_07
+
+re
+
+index
+
+&
+
+--- Page 16 ---
+index
+
+10 Sitzung der physikalisch-nathematischen Klasse vom 8. Januar 1925
+v ist dann — wie Hr. nz BrosLie gezeigt hat — zugleich die Gruppengeschwindig-
+me
+keit. dieser Welle. Es ist ferner interessant, daß die Energie —- > des
+Di)
+
+oa
+
+Teilchens gemäß (35) und (36) gerade gleich k v ist, im Einklang mit der Grund-
+relation der Quantentheorie.
+
+Man sieht nun, daß so einem Gase ein skalares Wellenfell zugeordnet
+1
+2.
+das mittlere Schwankungsquadrat dieses Wellenfeldes ist, soweit es dem von
+uns oben untersuchten Energiebereich A E entspricht.
+
+Diese Überlegungen werfen Licht auf das Paradoxon, auf welches am
+Ende meiner ersten Abhandlung hingewiesen ist. Damit zwei Wellenzüge merk-
+bar interferieren können, müssen sie bezüglich V und v nahezu übereinstimmen.
+Dazu ist gemäß (35), (36), (37) nötig, daß v sowie m für beide Gase nahezu
+übereinstimmen. Die zwei Gasen von merklich verschiedener Molekülmasse zu-
+geordneten Wellenfelder können daher nieht merklich miteinander interferieren.
+Daraus kann man (olgern, daß sich gemäß der hier vorliegenden Theorie die
+Entropie eines Gasgemisches genau so additiv aus derjenigen der Gemisch-
+bestandteile zusammensetzt wie gemäß der klassischen Theorie, wenigstens
+solange die Molekulargewichte der Komponenten einigermaßen voneinander
+abweichen.
+
+werden kann, und ich habe mich durch Reehnung davon überzeugt, daß
+
+$ 9. Bemerkung über die Viskosität der Gase bei tiefen Temperaturen,
+
+Nach den Betrachtungen des vorigen Paragraphen scheint es, daß mit jedem
+Bewegungsvorgang ein undulatorisches Feld verknüpft sei, ebenso wie mit der
+Bewegung der Lichtquanten das optische undulatorische Feld verknüpft ist.
+Dies undulatorische Feld — dessen physikalische Natur einstweilen noch dunkel
+ist, ınuß sich im Prinzip nachweisen lassen durch die ihm entsprechenden Be-
+wegungserscheinungen. So müßte ein Strahl von Gasmolekülen, der durch
+eine Öffnung bindurchgeht, eine Beugung erfahren, die der eines Lichtstrahles
+analog ist. Damit ein derartiges Phänomen beobaehtbar sei, muß die Wellen-
+länge A einigermaßen vergleichbar sein mit den Dimensionen der Öffnung. Aus
+(35). (36) und (37) folgt nun für gegen « kleine Geschwindigkeiten
+
+v h
+u u ° (38)
+Dies A ist für Gasmoleküle, die sich mit thermischen Geschwindigkeiten be-
+wegen, stets außerordentlich klein, sogar meist erheblich kleiner als der Mole-
+küldurechmesser «. Daraus folgt zunächst, daß an die Beobachtung dieser Beu-
+gung an herstellbaren Öffnungen bzw. Sehirmen gar nicht zu denken ist.
+
+Es zeigt sich aber, daß bei tiefen 'Temperaturen für die Gase Wasser-
+stoff und Helium A von der Größenordnung von c wird, und es scheint in der
+Tat, daß sich beim Reibungskoeffizienten der Einfluß geltend mache, den wir
+nach «ler 'Theorie erwarten müssen.
+
+
+--- Page 17 ---
+Eiysreis: Quantentheorie des einatomigen idealen Gases. 11 11
+
+Trifft nämlich ein Schwarm mit der Geschwindigkeit vo bewegter Mole-
+küle ein anderes Molekül, das wir uns der Bequemlichkeit halber als unbewegt
+vorstellen, so ist dies vergleichbar mit dem Fall, daß ein Wellenzug von ge-
+wisser Wellenlänge A ein Blättehen von dem Durchmesser 2 e triflt. Es tritt
+dabei eine (Fraunhofersche) Beugungserscheinung ein, welche gleich ist jener, die
+von einer gleich großen Öffnung geliefert würde. Große Beugungswinkel treten
+dann auf, wenn A von der Größenordnung s oder größer ist. Es werden also
+außer der nach der Mechanik auftretenden Stoßablenkung dann auch noch
+mechanisch nicht begreifbare Ablenkungen der Moleküle von ähnlicher Häufig-
+keit wie erstere auftreten, welche die freie Weglänge verkleinern. Es wird
+also in der Nähe jener Temperatur ziemlich plötzlich ein beschleunigtes Sinken
+der Viskosität mit sinkender Temperatur einsetzen. Eine Abschätzung jener
+Temperatur gemäß der Beziehung A = o liefert für H, 56°, für He 40°. Natür-
+lich sind dies ganz rohe Schätzungen; dieselben können aber durch exaktere
+Rechnungen ersetzt werden. Es handelt sich hier um eine neue Deutung der
+von P. Günther auf Nerssts Veranlassung bei Wasserstoff gewonnenen experi-
+mentellen Ergebnisse über die Abhängigkeit des Viskositätskoeffizienten von
+der Temperatur, zu deren Erklärung Nersst bereits eine quantentheoretische
+Betrachtung ersonnen hat!,
+
+$ 10. Zustandsgleichung des gesättigten idealen Gases. Bemerkungen zur
+Theorie der Zustandsgleiehung der Gase und zur Elektronentheorie der Metalle.
+
+Im $ 6 wurde gezeigt, daß für ein mit »kondensierter Substanz« im Gleich-
+gewicht befindliches ideales Gas der Entartungsparameter A gleich ı ist. Kon-
+zentration, Energie und Druck des mit Bewegung ausgestatteten Teiles der
+Moleküle sind dann gemäß (18b), (22) und {15) durch T allein bestimmt. Es
+gelten also die Gleiehungen
+
+3
+
+n 2.615 : zT
+y= NV = 7. (2#mxT) = 1.12-10""(MRT) (39)
+E _ 1348 ,g
+n 2.615 u 140)
+FINE ©:
+Ps ur: ya
+
+Dabei bedeutet: x die Konzentration in Molen,
+N die Zahl der Moleküle im Mol,
+M die Molmasse (Molekulargewicht).
+
+Man findet mit Hilfe von (39), daß die wirklichen Gase keine solchen Werte
+der Dichte erreichen, daß das entsprechende ideale Gas gesättigt wäre. Jedoch
+ist die kritische Diehte des Heliums nur etwa fünfmal kleiner als die Sättigungs-
+dichte n des idealen Gases von gleicher Temperatur und gleiehem Molekular-
+gewicht. Bei Wasserstoff ist das entsprechende Verhältnis etwa 26. Da die
+
+® Vgl. W. Neassr, Sitzungsber. org, VIEL 8.178. — P, Güxreer, Sitzungsber. 1920.
+XXXVI, S. 720.
+
+Sitzungsber. phys.-math. Ki. 1925. u [6))
+
+paper_1925_09
+Ge
+
+index
+
+
+--- Page 18 ---
+index
+
+12 Sitzung der physikalisch-mathematischen Klasse vom 8. Januar 1925
+
+wirklichen Gase also bei Dichten existieren, welche der Größenordnung nach
+der Sättigungsdichte nahekommen und gemäß (41) die Entartung den Druck
+erheblich beeinflußt, so wird sich, wenn die vorliegende T’heorie richtig ist,
+ein nicht unerheblicher Quanteneinfluß auf die Zustandsgleichung bemerkbar
+machen ; insbesondere wird man untersuchen müssen, ob so die Abweichungen
+von dem Vans per Vaarschen Gesetz der übereinstimmenden Zustände erklärt
+werden können'.
+
+Übrigens wird man auch erwarten müssen, daß das im vorigen Para- |
+graphen genannte Beugungsphänomen, welches ja bei tiefen Temperaturen eine |
+scheinbare Vergrößerung des wahren Molekülvolumens erzeugt, die Zustands-
+gleichung beeinilusse. |
+
+Es gibt einen Fall, in welchem die Natur das, gesättigte ideale Gas |
+möglicherweise im wesentlichen realisiert hat, nämlich bei den Leitungs-
+elektronen im Innern der Metalle. Die Elektronentheorie der Metalle hat
+bekanntlich das Verhältnis zwischen elektrischer und thermischer Leitfähig-
+
+keit mit bemerkenswerter Näherung quantitativ erklärt (Drune-Lorenzzsche
+Formel) unter der Annahme, daß im Innern der Metalle freie Elektronen
+vorhanden seien, welche sowohl die Elektrizität als die Wärme leiten, Trotz
+dieses großen Erfolges wird aber jene Theorie gegenwärtig nicht für zutreffend
+gehalten, unter anderem deshalb, weil sie der Tatsache nicht gerecht werden
+konnte, daß die freien Elektronen zur spezifischen Wärme des Metalles keinen
+merklichen Beitrag liefern. Diese Schwierigkeit verschwindet aber, wenn man
+die vorliegende Theorie der Gase zugrunde legt. Aus (39) folgt nämlich,
+daß die Sättigungskonzentration der (bewegten) Elektronen bei gewöhnlicher
+Temperatur etwa gleich 5.5-10”* ist, so daß nur ein verschwindend kleiner
+Teil der Elektronen zur thermischen Energie einen Beitrag liefern könnte.
+Die mittlere thermische Energie pro an der thermischen Bewegung teilneh-
+mendem Elektron ist dabei etwa halb so groß wie gemäß der klassischen
+Molekulartheorie. Wenn nur sehr kleine Kräfte vorhanden sind, welehe die
+nicht bewegten Elektronen in ihrer Ruhelage festhalten, so ist auch begreiflich, \
+daß diese an der elektrischen Leitung sich nicht beteiligen. Möglicherweise
+könnte sogar Wegfall dieser schwachen Bindungskräfte bei ganz tiefen Tem-
+peraturen die Supraleitfähigkeit bedingen. Die Tihermokräfte würden auf
+Grund dieser Theorie überhaupt nicht begreiflich sein, solange man das Elek-
+tronengas als ideales Gas behandelt. Natürlich wäre einer solehen Elektronen- r
+theorie der Metalle nieht die Maxweıssche Geschwindigkeitsverteilung zu-
+grunde zu legen, sondern diejenige des gesättigten idealen Gases nach vor-
+liegender Theorie; aus (8), (9), {11) ergibt sich für diesen speziellen Fall:
+
+ı
+
+E’dE
+
+dW = konst E - N (42)
+"7
+e—1
+
+' Dies ist nicht. der Fall, wie ich nachträglich durch Vergleich mit der Erfahrung gefunden
+habe. Der gesuchte Einfluß wird durch moleknlare Wechselwirknngen anderer Art verdeckt.
+
+ad 0000011111122. III
+paper 1925 10
+
+index
+
+
+--- Page 19 ---
+Einsrrin: Quantentheorie des einatomigen idealen (rases» II 13
+
+Beim Durehdenken dieser theoretischen Möglichkeit kommt man zu der
+Schwierigkeit, daß man zur Erklärung des gemessenen Leitvermögens der
+Metalle für Wärme und Elektrizität wegen ‘der sehr geringen Volumdichte
+der Elektronen, die sich nach unseren Ergebnissen an der thermischen Agi-
+tation beteiligen, sehr große freie Weglängen annehmen muß (Größenordnung
+107° em). Auch scheint es nieht möglich zu sein, auf Grund dieser Theorie
+das Verhalten der Metalle gegenüber ultraroter Strahlung (Reflexion, Emission)
+zu begreifen.
+
+$ 11. Zustandsgleichung des ungesättigten Gases.
+
+Wir wollen nun die Abweichung der Zustandsgleiehung des idealen
+Gases von der klassischen Zustandsgleichung im ungesättigten Gebiet genauer
+betrachten. Wir knüpfen hierfür wieder an die Gleichungen (15), (18b) und
+(19b) an.
+
+Wir setzen zur Abkürzung
+
+uw _3
+Ir ray
+
+x
+
+und stellen uns die Aufgabe, > als Funktion von y auszudrücken (2 = # (y)).
+Die Lösung dieser Aufgabe. welche ich Hrn. J. Gromwer verdanke, beruht
+auf folgendem allgemeinen Satz (Laeraxee):
+
+Unter der in unserem Falle erfüllten Bedingung, daß y und » für =o
+verschwinden, und daß y und z in einem gewissen Bereich um den Nullpunkt
+reguläre Funktionen von A sind, besteht für hinreichend kleine y die Tayıor-
+
+sche Entwicklung .
+ ee\y (43)
+Nayyan "
+
+ı=0
+
+wobei die Koeffizienten aus den Funktionen y{A) und z(2) vermöge der Re-
+kursionsformel dargestellt werden können
+
+d (d
+d"(2) dr \dy
+
+Fpr da (44)
+
+Man erhält so in unserem Falle die bis A= ı konvergente und zur Aus-
+rechnung bequeme Entwicklung
+
+2 = y—0.1768 y’— 0.0034 4y’— 0.0005 4* .
+
+Wir führen nun die Bezeichnungen ein
+
+a7 = F(y).
+
+paper_1925_ 11
+RER
+
+index
+
+
+--- Page 20 ---
+index
+
+14 Sitzung der physikalisch-maihematischen Klasse vom 8. Januar 1925
+
+Dann gelten für das ungesättigte ideale Gas, d. h. zwischen y= © und y= 2.615
+die Beziehungen
+
+-— Sara (i9e)
+p=RT«F(y: (22e) 4
+wobei gesetzt. ist
+vw E = n. == ie, ze (18e)
+(2#mxT)’ (2MRT)*
+
+Aus (ı9b) erhält man für die auf das Mol bezogene spezifische Wärme bei
+konstantem Volumen e,: |
+
+an Bi 53 2 um n |
+«= in(rw Ir) = Inu.
+
+Wir geben zur leichteren Übersicht eine graphische Darstellung der Fuık-
+tionen F(y) und ((y)
+
+74
+
+13
+
+En
+
+12
+
+11+-
+
+20
+
+09
+
+Tı1
+
+ji
+
+08 N
+
+!
+
+07 '
+
+ı
+
+66 -
+
+’
+
+PE] I | 1
+
+[7] 25 10 15 20 2 3
+y” zes
+
+Berücksichtigt man den annähernd linearen Verlauf von F(y), so ergibt sich
+für p die gute Näherungsgleichung
+
+n . WNr
+p= KTn|ı—0.186 . -— sı- (224)
+(2#HRT)'
+Dezember 1924.
+
+Ausgegeben am 9. Fehruar.
+
+Berlin. gedraekt in der Rechsdruekerei.
+
+paper_1925_12
+Fe
+
+index

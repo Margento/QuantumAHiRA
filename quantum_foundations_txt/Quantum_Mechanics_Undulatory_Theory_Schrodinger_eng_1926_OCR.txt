@@ -1,0 +1,1081 @@
+
+--- Page 1 ---
+Second Series December, 1926 Vol. 28, No. 6
+
+THE
+
+PHYSICAL REVIEW
+
+AN UNDULATORY THEORY OF THE MECHANICS
+OF ATOMS AND MOLECULES
+
+By E. Scurdpincer
+ABSTRACT
+
+The paper gives an account of the author's work on a new form of quantum
+theory. §1. The Hamiltonian analogy between mechanics and optics. §2. The:
+analogy is to be extended to include real ‘‘physical” or “undulatory” mechanics
+instead of mere geometrical mechanics. §3. The significance of wave-length;
+macro-mechanical and micro-mechanical problems. §4. The wave-equation
+and its application to the hydrogen atom. §5. The intrinsic reason for the
+appearance of discrete characteristic frequencies. §6. Other problems; intensity
+of emitted light. §7. The wave-equation derived from a Hamiltonian variation-
+principle; generalization to an arbitrary conservative system. §8. The wave-
+function physically means and determines a continuous distribution of electric-
+ity in space, the fluctuations of which determine the radiation by the laws of
+ordinary electrodynamics. §9. Non-conservative systems. Theory of dispersion
+and scattering and of the ‘transitions’ between the ‘‘stationary states."
+$10. The question of relativity and the action of a magnetic field. Incomplete-
+ness of that part of the theory.
+
+1. The theory which is reported in the following pages is based on
+the very interesting and fundamental researches of L. de Broglie! on
+what he called “‘phase-waves” (‘‘ondes de phase’’) and thought to be
+associated with the motion of material points, especially with the motion
+of an electron or proton. The point of view taken here, which was first
+published in a series of German papers,? is rather that material points
+consist of, or are nothing but, wave-systems. This extreme conception
+may be wrong, indeed it does not offer as yet the slightest explanation
+of why only such wave-systems seem to be realized in nature as corre-
+spond to mass-points of definite mass and charge. On the other hand
+the opposite point of view, which neglects altogether the waves dis-
+covered by L. de Broglie and treats only the.motion of material
+points, has led to such grave difficulties in the theory of atomic mechanics
+
+1L, de Broglie, Ann. de Physique 3, 22 (1925).
+
+2 E. Schrédinger, Ann, d. Physik 79, 361, 489, 734; 80, 437 81, 109 (1926); Dic
+Naturwissenschaften 14, 664 (1926).
+
+1049
+
+--- Page 2 ---
+1050 E. SCH RODINGER
+
+—and this after century-long development and refinement—that it
+seems not only not dangerous but even desirable, for a- time at least,
+to lay an exaggerated stress on its counterpart. In doing this we must of
+course realize that a thorough correlation of all features of physical
+phenomena can probably be afforded only by a harmonic union of these
+two extremes.
+
+The chief advantages of the present wave-theory are the following.
+
+a. The laws of motion and the quantum conditions are deduced
+simultaneously from one simple Hamiltonian principle.
+
+b. The discrepancy hitherto existing in quantum theory between the
+frequency of motion and the frequency of emission disappears in so far
+as the latter frequencies coincide with the differences of the former.
+A definite localization of the electric charge in space and time can be
+associated with the wave-system and this with the aid of ordinary
+electrodynamics accounts for the frequencies, intensities and polariza-
+tions of the emitted light and makes superfluous all sorts of correspond-
+ence and selection principles.
+
+c. It seems possible by the new theory to pursue in all detail the
+so-called ‘‘transitions,” which up to date have been wholly mysterious.
+
+d. There are several instances of disagreement between the new theory
+and the older one as to the particular values of the energy or frequency
+levels. In these cases it is the new theory that is better supported by
+experiment.
+
+To explain the main lines of thought, 1 will take as an example of a
+mechanical system a material point, mass m, moving in a conservative
+field of force V(x,'y, 2). All the following treatment may very easily
+be extended to the motion of the “image-point,” picturing the motion
+of a wholly arbitrary conservative system in its ‘‘configuration-space”’
+(g-space, not pg-space). We shall effect this generalization in a somewhat
+different manner in Section 7, Using the usual notations the kinetic
+energy 7’ is
+
+T= gn(stt p18") = (1/2m)(p2 + pe + P?). (1)
+
+The well-known Hamiltonian function of action W’,
+
+w= fr-var, (2)
+
+taken as a function of the upper limit ¢ and of the final values of the
+coordinates x, y, z satisfies the Hamiltonian partial differential equation,
+
+OW /att+(1/2m) (AW /dx)?-+ (OW/dy)?+ (OW/d2)/? | + V(x, y,z,) =0. (3)
+
+--- Page 3 ---
+UNDULATORY DYNAMICS 1051
+
+To solve this equation, we put as usual
+W=—Et+S(x,y,2), (4)
+
+E being an integration constant, viz., the total energy, and S a function
+of x, ¥, z only, Eq. (3) may then be written
+
+| gradW’| = [20(Z—V)]*, (5)
+
+In this form it lends itself to a very simple geometrical interpretation.
+Assume ¢ constant for the moment. Any function W of space alone can
+be described by giving geometrically the system of surfaces on which
+W is constant and by writing down on each one of these surfaces the
+constant value, say W, which the function W takes on it. On the other
+hand, we can easily construct a solution of Eq. (5) starting from an
+arbitrary surface and an arbitrarily chosen value Wo, which we ascribe
+to it. For after having chosen starting surface and starting value and
+after—still arbitrarily—having designated one of its two sides or “shores”
+as the positive one, we simply have to extend the normal at every point of
+the chosen surface to the length, say
+
+dn=dWo/ [2m(E-V)]}.
+
+The totality of points arrived at in this way will fill a surface to which
+we obviously have to ascribe the value Wo+dW. The continuation of
+this procedure will supply us the whole system of surfaces and values
+of constants belonging to them, i.e. the whole distribution in space of
+the function W, at first for ¢ constant.
+
+Now let the time vary, Eq. (4) shows that the system of surfaces
+will not vary, but that the values of the constants will travel along the
+normals from surface to surface with a certain speed w, given by
+
+u=E/[2m(B-V)]}, (6)
+
+The velocity # is a function of the energy-constant E and besides, since
+it contains V(w,¥,2) is a function of the coordinates.
+
+Instead of thinking of the surfaces as fixed in space and letting the
+values of the constant wander from surface to surface, we may equally
+well think of a certain numerical value of W as attached to a certain
+individual surface and let the surfaces wander in such a way that each
+of them continually takes the place and exact form of the following
+one. Then the quantity uw, given by Eq. (6) will denote the normal-
+velocity of any surface at any one of its points. Adopting this view
+we arrive at a picture which exactly coincides with the propagation of a
+stationary wave-system in an optically non-homogeneous (but isotropic)
+
+--- Page 4 ---
+1052 E, SCHRODINGER
+
+medium, W being proportional to the phase and « being the phase-
+velocity. (The index of refraction would have to be taken proportional
+to u-.) The above-mentioned construction of normals dn is obviously
+equivalent to Huygens’ principle. The orthogonal curves of our system
+of W-surfaces form a system of rays in our optical picture; they are
+possible orbits of the material point in the mechanical problem. Indeed
+it is well known that
+
+po=mt= dW /dx (7)
+
+(with, two analogous equations for y and z). It may be useful, to remark,
+that the phase-velocity « is not the velocity of the material point.
+The latter is, by (7) and (5)
+
+v= (22+ 52482) [2(E-V)/m]!, (8)
+
+Comparing (6) and (8) we see, that « and v vary even inversely to each
+other. The well-known mechanical principle due to and named after
+Hamilton can very easily be shown to correspond to the equally well-
+known optical principle of Fermat.
+
+2. Nothing of what has hitherto been said isin any way new. All
+this was very much better known to Hamilton himself than it is in our
+day to a good many physicists. Indeed, the theory of the propagation
+of light in a non-homogeneous medium, which Hamilton had developed
+about ten years earlier, became, by the striking analogy which occurred
+to him, the starting-point for his famous theories in pure mechanics.
+Notwithstanding the great popularity reached by the latter, the way
+which had led to them was nearly forgotten.’ Stress must now be laid
+on the fact, that though in our above-stated reasoning such conceptions
+as “wave-surfaces,” “Huygens’ principle,” ““Fermat’s principle” come
+into play, nevertheless the whole established analogy deals rather with
+geometrical optics than with real physical or undulatory optics. Indeed
+the chief and fundamental mechanical conception is that of the path or
+orbit of the material particle, and it corresponds to the conception of rays
+in the optical analogy. Now the conception of rays is thoroughly well-
+defined only in pure abstract geometrical optics. It loses nearly all
+significance in real physical optics as soon as the dimensions of the beam
+or of material obstacles in iis path become comparable with the wave-
+length. And even when this is not the case, the notion of rays is, in
+
+3See F. Klein, Jahresber. d. Deutsch. Math. Ver. 1 (1891); Zeits. f. Math. u. Phys.
+46 (1901); (Ges. Abh; II, 601, 603); E. T. Whittaker, Analytical Dynamics, Chap, 11.
+A. Sommerfeld, Atombau, German ed., p. 803. The analogy has been rediscovered in
+relativistic mechanics in the paper of L. de Broglie, quoted above.
+
+--- Page 5 ---
+UNDULATORY DYNAMICS. 1053
+
+physica! optics, merely an approximate one. It is wholly incapable of
+being applied to the fine structure of real optical phenomena, i.e. to the
+phenomena of diffraction. Even in extending geometrical optics some-
+what by adding the notion of Huygens’ principle (in the simple form,
+used above) one is not able to account for the most simple phenomena of
+diffraction without adding some further very strange rules concerning
+the circumstances under which Huygens’ envelope-surface is or is not
+physically significant.. (I mean the construction of “Fresnel’s zones.’)
+These rules would be wholly incomprehensible to one versed in geometri-
+cal optics alone. Furthermore it may be observed that the notions which
+are fundamental to real physical optics, ie. the wave-function itself
+(W is merely the phase), the equation of wave-propagation, the wave-
+length and frequency of. the waves, do not enter at all into the above
+stated analogy. The phase-velocity ~ does enter but we have seen that
+it is not very intimately connected’ with the mechanical velocity v.
+
+At first sight it does not seem at all tempting, to work out in detail
+the Hamiltonian analogy as in real undulatory optics. By giving the
+wave-length a proper well-defined meaning, the well-defined meaning
+of rays is lost at least in some cases, and by this the analogy would seem
+to be weakened or even to be wholly destroyed for those cases in which
+the dimensions of the mechanical orbits or their radii of curvature be-
+come comparable with the wave-length. To save the analogy it would
+seem tlecessary to attribute an exceedingly small value to the wave-
+length, small in comparison with all dimensions that may ever become
+of any interest in the mechanical problem. But then again the working
+out of an undulatory picture would seem superfluous, for geometrical
+optics is the real limiting case of undulatory optics for vanishing wave-
+length.
+
+Now compare with these considerations the very striking fact, of
+which we have today irrefutable knowledge, that ordinary mechanics
+is really not applicable to mechanical systems of very small, viz. of
+atomic dimensions. Taking into account this fact, which impresses its
+stamp upon all modern physical reasoning, is one not greatly tempted to
+investigate whether the non-applicability of ordinary mechanics to
+micro-mechanical problems is perhaps of exactly the same kind as the
+non-applicability of geometrical optics to the phenomena of diffraction
+or interference and may, perhaps, be overcome in an exactly similar
+way? The conception is: the Hamiltonian analogy has really to be
+worked out towards undulatory optics and a definite size is to be at-
+
+4A, Sommerfeld and I, Runge, Ann. d. Physik 35, 290 (1911).
+
+--- Page 6 ---
+1054 E, SCHRODINGER
+
+tributed to the wave-length in every special case. This quantity has a
+real meaning for the mechanical problem, viz. that ordinary mechanics
+with its conception of a moving point and its linear path (or more
+generally of an “image-point” moving in the coordinate space) is only
+approximately applicable so long as they supply a path, which is (and
+whose radii of curvature are) large in comparison with the wave-length.
+If this is not the case, it is a phenomenon of wave-propagation that
+has to be studied. In the simple case of one material point moving in an
+external field of force the wave-phenomenon may be thought of as taking
+place in the ordinary three-dimensional space; in the case of a more
+general mechanical system it will primarily be located in the coordinate
+space (q-space, not pq-space) and will have to be projected somehow into
+ordinary space. At any rate the equations of ordinary mechanics will
+be of no more use for the study of these micro-mechanical wave-phe-
+nomena than the rules of geometrical optics are for the study of diffrac-
+tion phenomena, Well known methods of wave-theory, somewhat
+generalized, lend themselves readily. The conceptions, roughly sketched
+in the preceding are fully justified by the success which has attended
+their development.
+
+3. Let us return to the system of W-surfaces, dealt with in Section 1
+and let us associate with them the idea of stationary sinusoidal waves
+whose phase is given by the quantity WW, Eq. (4). The wave-function,
+say y, will be of the form
+
+V=A(x, y,8sin(IP/K)
+=A(x,9,2)sin[—Ei/K+S(x,y,2)/K], (9)
+
+A being an “amplitude” function. The constant K must be introduced
+and must have the physical dimension of action (energy X time), since the
+argument of a sine must always be a pure number. Now, since the fre-
+quency of the wave (9) is obviously
+
+v= E/ieK (10)
+
+one cannot resist the temptation of supposing K to be a universal con-
+stant, independent of E and independent of the nature of the mechanical
+system, because if this be done and K be given the value h/2z, then the
+frequency v will be given by
+
+v=E/h, (11)
+
+h being Planck’s constant. Thus the well known universal relation be-
+tween energy and frequency is arrived at in a rather simple and unforced
+way.
+
+--- Page 7 ---
+UNDULATORY ‘DYNAMICS 1055
+
+In ordinary mechanics the absolute value of the energy has no definite
+meaning, only energy-differences have. This difficulty can be met and
+a zero-level of energy can be defined in an entirely satisfactory way by
+using relativistic mechanics and:the conception of equivalence of mass
+and energy.) But it is unnecessary to dwell on this subject here. While
+the frequency v of our waves by Eq. (10) or (11) is indeed dependent
+on the zero-level of energy, their wave-length is not. And after what has
+been said above, it is the wave-length that is of greatest interest. The
+comparison of this quantity with the dimensions of the path or orbit
+of the material particle, calculated according to ordinary mechanics, will
+tell us whether the latter calculation is or is not of physical significance,
+whether the methods of ordinary mechanics are approximately applicable
+to the special problem or not. The wave-length \ by (11) and (6) is
+
+r=u/v=h/ [2m(E-V)]} (12)
+
+Here E—V is the kinetic energy $mv? which indeed is independent of the
+zero-level of the total energy. Inserting its value we have
+
+N= h/mo. (13)
+
+To test the question whether an electron, moving in a Keplerian orbit of
+atomic dimensions may, following our hypotheses, still be dealt with by
+
+ordinary mechanics, let,a be a length of atomic dimensions and compare
+A with a,
+
+a= h/mva (14)
+
+The denominator on the right is certainly of the order of magnitude of
+the moment of momentum of the electron, and the latter is well known
+to be of the order of magnitude of Planck’s constant for a Keplerian
+orbit of atomic dimensions. So \/a becomes of the order of unity and,
+following our conceptions, ordinary mechanics will be no more applicable
+to such an orbit than geometrical! optics is to the diffraction of light by
+a disk of diameter equal to the wave-length. Were a physicist to try to
+understand the latter phenomenon by the conception of rays, with
+which he is acquainted from macroscopic geometrical optics, he would
+meet with most serious difficulties and apparent contradictions. The
+“rays” (stream lines of the flow of energy) would no longer be rectilinear
+and would influence one another in a most curious way, in full contradic-
+tion with the most fundamental laws of geometrical optics. In the same
+way the conception of orbits of material points seems to be inapplicable
+to orbits of atomic dimensions. It is very satisfactory, that the limit
+of applicability of ordinary mechanics is, by equating K (essentially)
+
+--- Page 8 ---
+1056 E, SCHRODINGER
+
+to Planck’s constant (Eq. 11), determined to an order of magnitude,
+which is exactly the one to be postulated, if the new conception is to
+help us in our quantum difficulties. We may add, that by Eq. (13) for
+a Keplerian electronic orbit of the order of magnitude of a high quantum
+orbit, the relation of wave-length to orbital dimensions becomes of the
+order of magnitude of the reciprocal of the quantum number. Hence
+ordinary mechanics will offer a better and better approximation in the
+limit of increasing quantum number (or orbital dimensions), and this
+is just what is to be expected from any reasonable theory.
+
+By the fundamental equation y= E/h (Eq. 11) the phase velocity x,
+given by Eq. (6) proves to be dependent on the frequency ». Therefore.
+Eq. (6) is an equation of dispersion. By this a very interesting light is
+thrown on the relation of the two velocities (1) velocity v of the moving
+particle, Eq. (8); (2) phase-velocity 2, Eq. (6). »v is easily proved to be
+exactly the so-called group velocity belonging to the dispersion formula
+(6). By using this interesting result it is possible to form an idea how
+ordinary mechanics is capable of giving an approximate description of
+our wave motion. By superposing waves of frequencies in a small interval
+v; v-+dy it is possible to construct a “‘parcel of waves,” the dimensions
+of which are in all directions rather small, though they must be rather
+large in comparison to the wave-length. Now it can be proved, that the
+motion of—let us say—the ‘‘center of gravity’? of such a parcel will,
+by the laws of wave propagation, follow exactly the same orbit as the
+material point would by the laws of ordinary mechanics. This equivalence
+is always maintained, even if the dimensions of the orbit are not large
+in comparison with the wave-length. But in the latter case it will have
+no significance, the wave parcel being spread out in all directions far over
+the range of the orbit. On the contrary, if the dimensions of the orbit
+are comparatively large, the motion of the wave parcel as a whole may
+afford a sufficient idea of what really happens, if we are not interested
+in its intrinsic constitution. As stated above this ‘motion as a whole”
+is governed by the laws of ordinary mechanics.
+
+4. We shall not dwell on this question further, but proceed to the far
+more interesting applications of the theory to micro-mechanical problems.
+As stated above, the wave-phenomena must in this case be studied in
+detail. This can only be done by using an ‘“‘equation of wave propaga-
+tion.”’ Which one is this to be? In the case of asingle material point,
+moving in an external field of force, the simplest way is to try to use the
+ordinary wave-equation
+
+5 This important theorem is due to L. de Broglie, lc. The relation is: vy =dv/d(y/)
+
+--- Page 9 ---
+UNDULATORY DYNAMICS 1057
+Ay—y¥/1?=0 (15)
+
+and to insert for # the quantity given by Eq. (6), which depends on the
+space coordinates (through the potential energy V) and on the frequency
+E/h, The latter dependence restricts the use of (15) to such functions
+y as depend on the time only through the factor et?#2/4, (A similar
+
+restriction is always imposed on the wave equation, as soon as we have
+dispersion.) So we shall have
+
+b= — 42 Ey /h?
+Inserting this and Eq. (6) in Eq. (15) we get
+Av+8r2n(E—V)y/h?=0, (16)
+
+where y may be assumed to depend on x, y, z only. (We omit changing
+the notation of the dependent variable,’ which we really ought to do.)
+
+Now what are we to do with Eq. (16)? At first sight this equation
+seems to offer ill means of solving atomic problems, e.g. of defining
+discrete energy-levels in the hydrogen atom. Being a partial differential
+equation, it offers a vast multitude of solutions, a multitude of even a
+higher transcendent order of magnitude than the system of solutions of
+the ordinary differential equations of ordinary mechanics. But the
+deficiency of the latter in atomic problems consisted, as is well known,
+by no means in that they supplied too small a number of possible orbits,
+but quite on the contrary, much too many. To select a discrete number
+of them as the “‘real” or “stationary” ones is, according to the view hither-
+to adopted, the task of the “quantum-conditions.”” Our wave equation
+(16), by augmenting the possibilities indefinitely, instead of restricting
+them, seems to lead us from bad to worse.
+
+Happily because of the very interesting character which Eq. (16)
+
+takes in actual atomic problems, this fear proves to be erroneous. Putting
+for instance
+
+V=—e?/r, (17)
+
+(e=electronic charge, r= (x?-+-?-+2")}, we get for the simplified hydrogen
+atom or one body problem:
+
+Av-+8r2n( E+ e2/r)y/h?=0. (18)
+
+Now this equation for a great part of the possible values of the energy
+or frequency constant E, proves to offer no solution at all which is con-
+tinuous, finite and single-valued throughout the whole space; for the
+E-values in question, every solution y, that satisfies the two other
+conditions (viz. continuity and single-valuedness) grows beyond all
+
+--- Page 10 ---
+1058 E, SCHRODINGER
+
+limits either in approaching infinity or in approaching the origin of co-
+ordinates. The only Z-values, for which this is not the case i.e. for which
+solutions exist, that are continuous, finite and single-valued throughout
+the whole space are the following ones
+
+(1) E>0
+
+19
+(2) = — 2% mnes/ 2? (#=1,2,3,4-+-) (19)
+
+The first set corresponds to the hyperbolic orbits in ordinary mechanics.
+It is the general view, that according to ordinary quantum theory the
+hyperbolic orbits are not submitted to quantization. In our treatment
+this turns out quite spontaneously from the fact that every positive
+value of & leads to finite solutions. The second set corresponds exactly
+to Bohr’s stationary energy levels of the elliptic orbits.
+
+Though I cannot enter here upon the exact and rather tiresome proof
+of the foregoing statements, it may be interesting to describe in rough
+feature the solutions belonging to the second series of E-levels. The
+solution may be performed in three-dimensional® polar coordinates, by
+assuming y to be a product of a function of the polar angles and a function
+of the radius r only. The former is a spherical surface harmonic whose
+order, increased by unity, corresponds to the azimuthal quantum num-
+ber. The functions of r, which come into play, somewhat resemble (in
+rough feature) the Bessel functions, though with the difference that they
+have but a finite number of positive roots, and this number exactly
+corresponds to the radial quantum number. These roots lie within a
+region from the origin of about the same order of magnitude as the
+corresponding Bohr orbit. After having passed the last root with in-
+creasing ry and a maximum or minimum not far away from it, the function
+tends to diminish exponentially as r approaches infinity. So the whole
+of the wave-phenomenon, though mathematically spreading throughout
+all space, is essentially restricted to a small sphere of a few Angstroms
+diameter which may be called “the atom” according to undulatory
+mechanics. Any one of the above mentioned solutions (consisting of a
+product of a spherical surface-harmonic and a function of r only) greatly
+resembles a fundamental vibration of an elastic sphere, with a finite
+number of (1) spheres, (2) cones, (3) planes as “‘node surfaces.” But
+it is surely not permissible to think that the wave-motion constituting
+the atom is, in general, restricted to one of these solutions, the special
+selection and separation of which is very much influenced by the choice
+
+¢ It is of course not allowed to restrict the problem to two dimensions as in ordinary
+mechanics since the wave-phenomenon is essentially three-dimensional.
+
+--- Page 11 ---
+UNDULATORY DYNAMICS 1059
+
+of coordinates. To every one of the discrete values of EZ belongs a finite
+number of special solutions. In forming a linear aggregate of them with
+arbitrary constant multipliers we get the most.general solution of Eq.
+(18) for the particular value of EZ, The number of arbitrary constants
+entering into this aggregate is exactly equal to what is called the “‘sta-
+tistical weight” of this energy-level, or in other words, to the number of
+separate levels into which it is split up according to Bohr’s theory (and,
+by the way, also according to the present theory) by the addition of
+perturbing forces, that do away with the so-called ‘‘degeneration’”’ of
+the problem. It will perhaps be remembered, that in ordinary quantum
+theory the number of states that is supplied by the method alluded to,
+is not exactly correct. Definite experimental evidence compels us to
+exclude by additional reasoning, more or less convincing from the
+theoretical point of view, a definite number of states, viz. those which
+have the equatorial quantum number zéro. It is gratifying to be able to
+state, that according to the present theory the above mentioned number
+of arbitrary constants or, in other words, the number of separate levels
+or frequencies into which a degenerated E-level is split up by a per-
+turbing potential is quite correct from the beginning. The theory needs
+no supplementation since it precludes a vibrational state corresponding
+to a Bohr-orbit with equatorial quantum number zero.
+
+To complete this description we may add, that to the lowest E-level,
+or from the’ wave-motion point of view its “fundamental tone’ which
+corresponds to the normal state of the atom, there belongs but one mode
+of vibration, and this is a very simple one; the function y shows complete
+spherical symmetry and there are no node surfaces at all. Both the radial
+quantum number as well as the order of the spherical surface harmonic
+vanish.
+
+5. I should like to discuss in a few words the question, why Eq. (18)
+possesses finite solutions only for certain selected values of the constant
+E. The whole behavior described on the foregoing pages would be quite
+familiar to every physicist, if the problem were a so-called “boundary-
+condition problem,” i.e. if the function w were required only in the
+interior of a given surface, let us say a sphere of given radius and had to
+fulfill certain conditions on the boundary of this sphere, e.g. to vanish.
+Now though this is not the case, the problem is indeed equivalent to a
+boundary-condition problem, the boundary being the infinite sphere.
+Thus the selected values (19) are quite properly to be named “‘char-
+acteristic values” and the solutions, that belong to them, ‘‘characteristic
+functions” of the problem connected with Eq. (18). The mathematical
+
+--- Page 12 ---
+1060 E, SCH RODINGER
+
+reason,’ why no boundary conditions in the proper sense of the word are
+neither needed nor allowed at the infinite boundary, is that a sihgular
+point of Eq. (18) is approached when we recede in any direction in space
+toward infinity. This can easily be seen by splitting up the equation
+in the way described above, using polar coordinates. The resulting ordi-
+nary differential equation with the variable r has two singularities, at
+r=0 and at r=co. It offers (for negative values of E) but one solution
+that remains finite at r=0, and but one that remains finite at r=.
+These two solutions are in general not identical, but they are for the
+selected values of E given by (19).
+
+But instead of dwelling on this purely mathematical side of the
+subject, I should like to present an idea why Eq. (18) shows such a
+queer behavior so as to make the matter clear to anyone who is ac-
+quainted only with the most general principles of wave theory. If.
+#2 is negative the bracket in Eq.-(18) will be negative outside a certain
+sphere. Now remembering the way in which Eq. (18) was derived from
+Eq. (15), we see that a negative value of the bracket in (18) clearly means
+a negative value of the square of wave-velocity, or an imaginary value of
+wave-velocity. What does this imply? The Laplacian operator is well
+known to be intimately connected with the average excess of the neigh-
+boring values over the value of the function at the point considered.
+Thus the ordinary wave-equation (15) with a positive value of u? provides
+an accelerated increase (or a retarded decrease) of the function at all
+those points, where its value is lower than the average of the neighboring
+values; and, vice versa, a retarded increase (or an accelerated decrease)
+at those points where the function exceeds the average of its neighbor-
+hood. Thus the ordinary wave-equation represents a certain tendency
+to smeoth out again all differences between the values of the function
+at different points, though not at the very moment they appear and not
+indefinitely—as in the case of the equation for heat conduction. It will
+however certainly prevent the function from increasing or decreasing
+beyond all limit.
+
+If the quantity #?, instead of being positive, is negative which we have
+seen to be sometimes the case with Eq. (18), then all the foregoing
+reasoning is just reversed. There is in the course of time a tendency to
+exaggerate infinitely all ‘“chumy.” of the function and even spontaneously
+to form humps out of quite insignificant traces. Evidently a function
+which is subject to such a revolutionary sort of equation, is continually
+
+7 See e.g. R. Courant and D. Hilbert, Methoden der mathematischen Physik I
+(Berlin, Springer 1924), Chap. 5, §9, p. 1.
+
+--- Page 13 ---
+UNDULATORY DYNAMICS 1061
+
+exposed to the very highest danger of increasing or decreasing beyond
+all limit. At any rate it is no longer astonishing, that special conditions
+must be fulfilled to prevent such an occurrence. The. mathematical
+treatment shows that these conditions consist exactly in EZ having one
+of the second set of characteristic values given by (19), whereas the first
+set obviously prevents all accidents by making the square of the phase-
+velocity positive throughout the space.
+
+6. I will now give an account of some of the results that have hitherto
+been obtained with this new mechanics. Rather simple problems are
+offered by the harmonic oscillator and the rotator. The E-levels of the
+former prove to be
+
+(24-4) vo 5 #=0,1,2,3:°°
+
+instead of nhvp according to the ordinary quantum theory. The £-levels
+of the rotator are
+
+n(n-+ 1) h2/8e2T
+
+(I=moment of inertia), the well known n? being replaced by #(n-+1).
+If we are interested only in the differences of levels—as is actually the
+case—this amounts to the same as replacing n? by (n-+-4)?, for
+
+(n-+-4)?@—n(n+1) =4,
+
+independent of #. It is well known that so-called half-quantum numbers
+are actually supported by the experimental evidence on most of the
+simple band spectra, and are probably contradicted by none of them.
+Mr. Fues, whose valuable help I owe to the Rockefeller Institution
+(International Education Board), has worked out® the band theory of
+diatomic molecules in detail, taking into account the mutual influence of
+rotation and oscillation and the fact, that the latter is not of the simple
+harmonic type. The result is in exact agreement with the ordinary
+treatment except that the quantum-numbers become half-integer also
+in all correction-terms. It would hardly have been possible to attack the
+problem just mentioned, as well as many similar ones, by direct methods,
+since the differential equation (16) is in general of a very difficult type.
+In many cases, however, this difficulty is overcome by the theory of
+perturbations which the writer has developed together with Mr. Fues.
+This theory, though much simpler, yet shows an interesting parallelism
+to the well known theory of perturbations in ordinary mechanics. It
+allows the calculation by mere quadratures of the small modification
+of characteristic values and characteristic functions, that are caused by
+
+8 E. Fues, Ann, d. Physik 80, 367 (1926); another paper in press.
+
+--- Page 14 ---
+1062 E, SCHRODINGER
+
+introducing an additional small term (function of the independent vari-.
+ables) in the coefficients of an equation whose characteristic values and
+characteristic functions are known.
+
+An interesting example of the application of this mathematical theory is
+afforded by the perturbation of the hydrogen-atom caused by an external
+homogeneous electric field (Stark-effect). The discrete Balmer levels,
+shown in Eq.(19-2) are, as characteristic values, not simple but many
+fold. Each of them corresponds to 7? characteristic values that coincide
+by chance or, more properly speaking, because of the high symmetry or
+simplicity of the coefficients of Eq. (18). The addition of an external
+electric field, small in comparison with the atomic field, does away with
+this symmetry and splits up every one of the Balmer-levels into a set of
+near neighboring levels, though not into as many as 2?, because the
+splitting up in. this case is not thorough. The writer has been able to
+show that these levels exactly coincide with those given by the well
+known formula of Epstein, a rather severe test of our undulatory me-
+chanics, since experimentally no deviation whatever, at least in the limit
+of a weak field, would have been allowed from this famous formula.
+
+But not only the levels, i.e. the frequencies, but also the intensities
+and polarizations of the emitted lines in the Stark effect can be calculated
+from undulatory mechanics in very fair agreement with experiment.
+Hitherto we ‘have not attached a definite physical meaning to the wave-
+function y. It is possible, however, to give it a certain electrodynamical
+meaning, which will be discussed in detail in Section 8 and which con-
+verts our atom into a system of fluctuating charges, spread out con-
+tinuously in space and generating a resultant electric moment, that
+changes with time with a superposition of frequencies, which exactly
+coincide with the differences of the vibration-frequencies E/h, i.e.
+coincide with the frequencies of the emitted light. This in itself is highly
+satisfactory. But in addition it is possible to calculate the amplitudes of
+the harmonic components of the electric moment for any direction in
+space, e.g., in the case of the Stark effect, parallel to the electric field
+or perpendicular to the field. If the theory is correct. the squares of these
+amplitudes ought to be proportional to the intensities of the several line
+components, polarized in either direction. The rather laborious cal-
+culations have been performed and the result is shown in Fig. 1.° In
+comparing theory with experiment it must be born in mind that the
+calculations have been performed only in the limit of a very weak external
+
+* The experimental data were taken from I. Stark, Ann. d. Physik 48, 193 (1915).
+
+In these figures theoretical intensities that are too small to be indicated by a line of the
+proper length are marked by a dot.
+
+--- Page 15 ---
+UNDULATORY DYNAMICS 1063
+
+field and that in the region of field-strength used in experiments (about
+100,000 volts/cm) a very marked influence on the intensities is found
+both by experiment and by theory. In particular the very weak or
+vanishing components are enhanced with increasing field. The sum
+of the intensities of all the perpendicular components of one Balmer
+line turns out exactly equal to the sum of the parallel components of the
+same line. This is in full agreement with Stark’s statement that no
+polarization of the emitted light as a whole is produced by the field.
+
+T ought to emphasize here, that I was Jed to the foregoing nearly
+classical calculation of intensities by noticing @ posteriori, ie. after the
+main features of undulatory mechanics had been developed, its complete
+mathematical agreement with the theory of matrices put forward by
+Heisenberg, Born and Jordan.!? The results shown in Fig. 1 may
+as well be called the results of the latter theory though they have not
+yet been calculated by its direct application. The connection of the
+two theories is a rather intricate one and is by no means to be observed
+at first sight.
+
+7. Te was stated in the beginning of this paper that in the present
+theory both the laws of motion and the quantum conditions can be
+deduced from one Hamiltonian principle. To prove this it must be shown
+that the wave-equation (16) can be derived from an integral-variation
+principle; for this equation is indeed the only fundamental equation of
+the theory (in the case of a single material point, moving in a conserva-
+tive field of force, the only one considered in detail on the foregoing
+pages).
+
+The connection of Eq. (16) with a Hamiltonian principle is very simple
+and almost exactly the same as in ordinary vibration problems. Further-
+more this connection affords the simplest means of almost cogently
+extending the theory to a wholly arbitrary conservative system.
+
+Suppose, the extreme values of the following integral extending over
+all space were required.
+
+i= f f f { 12[(ov/dx)?+(ap/dy)?-+(dy/de)?]/8r2m+Vy*} dadyds,
+
+(20)
+
+all single-valued, finite and continuously differentiable functions y
+
+being ‘admitted to concurrence” that give the following “normalizing”
+integral a constant value, say 1:
+
+19 W, Heisenberg, Zeits. f. Physik 33, 879 (1925); M. Born and P. Jordan, ibid. 34,
+
+858 (1925); M. Born, P. Jordan and W. Heisenberg, ibid. 35, 587 (1926); M. Born and
+
+N. Wiener, ibid. 36, 174 (1926); W. Heisenberg and P. Jordan, ibid. 37, 263 (1926);
+
+W. Pauli, Jr., ibid. 36, 336 (1926); P. A. M. Dirac, Proc, Roy. Soc. 109, 642 (1925);
+110, 561 (1925); AL1, 281, 405 (1926).
+
+--- Page 16 ---
+1064 E, SCHRODINGER
+
+I= f f f Wdadyde= 1 (21)
+
+In carrying out the variation under this ‘‘accessory condition”’ in the
+well known manner, Eq. (16) is found as the well known necessary
+condition for an extreme value of (20) the constant —Z being the
+Lagrangian multiplier with which the variation of the second integral
+has to be multiplied and added to the first, so as to take care of the
+accessory condition. Thus the normalized characteristic functions of
+Eq. (16) are exactly the so-called extremals of the integral (20) under
+the normalizing condition (21), whereas the characteristic values i.e.
+the values, that are admissible for the constant Z are nothing else than
+the extreme values of integral (20). (This property of the Langrangian
+multiplier is well known and is easily recognized by observing, that the
+non-conditioned, extreme value of J,—J; can be but zero, any other
+value being capable as well of augmentation as of diminution by simply
+multiplying yY by a constant.)
+
+Now the integrand of (20) proves on closer inspection to have a very
+simple relation to the ordinary Hamiltonian function of our mechanical
+problem—in the sense of ordinary mechanics. The said function is,
+
+(cf. Section 1): :
+(1/2m)(p2 +p3 +62) +V (2,953). (22)
+Take this function to be a homogeneous quadratic function of the
+momenta #,; etc. and of unity and replace therein pz, py, Pr, 1 by (h/27)
+(0¢/dx), (h/2r) (84/8), (h/2r) (OY/d2), Y, respectively. There results
+the integrand of (20). This immediately suggests extending our varia-
+tion problem and hereby our wave-equation (16) to a wholly arbitrary
+conservative mechanical system. The Hamiltonian function of such will
+be of the form
+N N
+D> p> aiupipr+V (23)
+jae _
+with au=ax1, the ay, and V being some functions of the N generalized
+coordinates g:--+gw. Take (23) to be a homogencous quadratic function
+of p+ ++ px, 1 and replace these quantities by (4/27) (@¥/da:), ++ -
+(h/2r) (@b/dqn), v respectively. Writing A, for the determinant
+
+4,= | DLean|
+
+we form the integral
+
+he f a f [(#/8x*) 5 Daulov/aay(o¥/2a0)
+
+24
+VY As tds «+ daw o)
+
+--- Page 17 ---
+UNDULATORY DYNAMICS 1065
+
+taken over the whole space of coordinates and seek its extreme values
+under the accessory condition
+
+he f tad f WA pMdgy ++ dqv= 4 (25)
+
+This leads to the generalization of Eq. (16), viz.
+a
+Apt Do ros 22ud¥/dqe )+ (802/W)(E—V)y=0, (26)
+t t k
+
+—£E being, as before, the Lagrangian multiplier of (25). The double
+sum appearing in (26) is a sort of generalized Laplacian in the N-dimen-
+sional, non-cuclidean space of coordinates. The necessary appearance of
+4,71 in an integral like (24) or (25) is weil known from Gibbs’ statistical
+mechanics; 4,-* dg: +--+ dgy is simply the non-euclidean element of
+volume, e.g. 7? sin Od0d¢dr in the case of one material point of unit mass,
+whose position is fixed by three polar coordinates r, 0, d. (In omitting
+the determinant the integrals would not be invariant relative to point
+transformations; they would depend on the choice of generalized co-
+ordinates.) It is Eq. (26) that has been used in all problems mentioned
+in Section 6.
+
+8. The question of the real physical meaning of the wave-function
+y has been delayed (see Section 6) until now for the sake of discussing
+it but once in full generality for a wholly arbitrary system. Eq. (16)
+or in the more general case, Eq. (26) gives the dependence of the wave-
+function y on the coordinates only, the dependence on time being given
+for every one particular solution, corresponding to a particular char-
+acteristic value E=E, by the real part of
+
+exp [(Qr2id/h + api], i=J—T
+
+the 6; being phase constants. So if w: (/=1, 2, 3+ ++) be the char-
+
+acteristic functions the most general solution of the wave-problem will
+be (the real part of)
+
+V= D> egtuexp[(QrEu/h + 67). (27)
+me.
+
+(For simplicity’s sake we suppose the characteristic values to be all single
+and discrete.) The c: are real constants. Now form the square of the
+absolute value of the complex function ¥. Denoting a conjugate complex
+value by a bar, this is
+
+W=2 >> cxeyttnycos[2r(Li— Ep)t/h-+01--6r). (28)
+Le
+
+--- Page 18 ---
+1066 &, SCHRODINGER
+
+This of course, like itself, is in the general case a function of the gener-
+alized coordinates q. +++ gy and the time,—not a function of ordinary
+space and time as in ordinary wave-problems. This raises some difficulty
+in attaching a physical meaning to the wave-function. In the case of the
+hydrogen atom (taken as a one-body problem) the difficulty disappears.
+In this case it has been possible to compute fairly correct values for the
+intensities e.g. of the Stark effect components (see Section 6, Fig. 1)
+by the following hypothesis: the charge of the electron is not con-
+centrated in a point, but is spread out through the whole space, pro-
+portional to the quantity p yp.
+
+observed
+
+wi kha tlie shes ola
+
+a AL dagll ty
+
+il.
+
+yt
+
+| observed |
+THartae sete dl? tllithltthe
+
+| theoretical
+
+renal Abby
+Fic. 1
+
+It has to be born in mind, that by this hypothesis the charge is never-
+theless restricted to a domain of, say, a few Angstroms, the wave-
+function practically vanishing at greater distance from the nucleus
+(see Section 4). The fluctuation of the charge will be governed by Eq.
+(28), applied to the special case of the hydrogen atom, To find the
+radiation, that by ordinary electrodynamics will originate from these
+fluctuating charges, we have simply to calculate the rectangular com-
+ponents of the total electrical moment"! by multiplying (28) by x, 9, 5
+respectively, and integrating over the space, e.g.”
+
+f f f abfdxdyds=2 >. ccvcos[2m(E:— Ev)t/h+0.-01|
+ba
+
+1 This procedure is legitimate only because and as long as the domain to which the
+charge is practically restricted remains small in comparison with the optical wave-length
+that corresponds to the frequencies (Z,—2,’)/yh.
+
+2 In the sum 21,1’ each pair of values of /,!’ is to be taken but once and the terms
+with J’ =] are to be halved.
+
+--- Page 19 ---
+UNDULATORY DYNAMICS 1067
+
+ff f auydad yde (29)
+
+Thus the total electric moment is seen to be a superposition of dipoles,
+which are associated with the pairs of characteristic functions which
+vibrate harmonically with the frequencies (E;—Ey)/h, well known from
+N. Bohr’s famous frequency-condition. The intensity of emitted radia-
+tion of a particular frequency is to be expected proportional to the
+
+square of
+Gir f f f sttupdxdyds,
+
+The supposition made on the ¢, in calculating the intensities of the
+Stark effect components, Fig. 1, is, that the c: be equal for every set
+of characteristic values derived from one Balmer level (Eq. 19-2) by the
+action of the electrical field. The relative intensities of the fine structure
+components will then be proportional to the square of the triple integral.
+This is found to be in fair agreement with experiment.
+
+The triple integral may be shown to be equal to what in Heisenberg’s
+theory would be called the “element of matrix 2(2, 1’). This constitutes
+the intimate connection between the two theories. But the important
+achievementof the present theory—imperfectas it mayin many respects be
+—seems to me to be that by a definite localization of the charge in space
+and time we are able from ordinary electrodynamics really to derive
+both the frequencies and the intensities and polarizations of the emitted
+light. All so-called selection principles automatically result from the
+vanishing of the triple integral in the particular case.
+
+Now how are these conceptions to be generalized to the case of more
+than one, say of N, electrons? Here Heisenberg’s formal theory has
+proved most valuable. It tells us though less by physical reasoning than
+by its compact formal structure that Eq. (29) giving a rectangular com-
+ponent of total electric moment has to be maintained with the only
+differences that (1) the integrals are 3N-fold instead of three fold, extend-
+ing over the whole coordinate space; (2) z has to be replaced by the sum
+Dew i.e. by the z-component of the total electrical moment which the
+point-charge model would have in the configuration (x1, Y1, 21} Xa, Yay 823
+
+- ++ tw, yy, 2v) that relates to the element dx, ++ + day of the integra-
+tion.
+
+But this amounts to making the following hypothesis as to the physical
+meaning of w which of course reduces to our former hypothesis in the
+case of one electron only: the real continuous partition of the charge is
+a sort of mean of the continuous multitude of all possible configurations
+
+--- Page 20 ---
+1068 E, SCHRODINGER
+
+of the corresponding point-charge model, the mean being taken with
+the quantity ¥ W as a sort of weight-function in the configuration space.
+
+No very definite experimental! results can be brought forward at present
+in favor of this generalized hypothesis. But some very general theoretical
+results on the quantity wy ~ persuade me that the hypothesis is right.
+For example the value of the integral of y ~, taken over the whole co-
+ordinate space proves absolutely constant (as it should, if y W is a reason-
+able weight function) not only with a conservative, but also with a
+non-conservative system. The treatment of the latter will be roughly
+sketched in the following section.
+
+9. Eq. (16) or more generally (26) which is fundamental to all our
+reasoning has been arrived at under the supposition that y depends on
+the time only through the factor
+
+ehteiBtsh (30)
+
+But this amounts to saying, that
+p= + Weil /h. (31)
+
+From this equation and from Eq. (26) the quantity Z may be eliminated
+and so an equation be formed that must hold in any case, whatever be
+the dependence of the wave-function y on time:
+
+A,! > -- 4,73 Dandy/dqn —S8r2Vy/h? + (4rif hoy /at =0 (32)
+1 qt k
+
+The ambiguous sign of the last term presents no grave difficulty. Since
+physical meaning is attached to the product y p only, we may postulate
+for y either of the two equations (32); then p will satisfy the other and
+their product will remain unaltered.
+
+Eq. (32) lends itself to generalization to an arbitrary non-conservative
+system by simply supposing the potential function V to contain the time
+explicitly. A case of greatest interest is obtained by adding to the
+potential energy of a conservative system a small term; viz., the non-
+conservative potential energy, produced ‘in the system by an incident
+light wave. We cannot enter here into the details, but shall only present
+the main features of the solution. The effect of the incident light wave is,
+that with each free vibration of the undisturbed system, frequency
+E,/h, there are associated two forced vibrations with, in general, very
+small amplitudes and with the two frequencies Z,/h-:», v being the
+frequency of the incident beam of light. Following the same principles
+as in the foregoing section we find every free vibration, cooperating with
+
+--- Page 21 ---
+UNDULATORY DYNAMICS 1069
+
+its associated forced vibrations to give rise to a forced light emission
+with the difference frequency
+
+Ef h—(Ey/htv) = Fy
+
+ice. with exactly the frequency of the incident beam of light. This forced
+emission is of course to be identified with the secondary wavelets that
+are necessary to account for absorption, dispersion and scattering. In
+calculating their amplitudes one finds them, indeed, to increase very
+markedly as soon as the incident frequency » approaches any one of the
+emission frequencies (Z,—Ey)/h, The final formula is almost identical
+with the well known Helmholtz dispersion formula in the form presented
+by Kramers.'
+
+The case of resonance cannot yet be treated quite satisfactorily, since
+a damping-term seems to be missing in our fundamental equation, even
+in the case of a free conservative system. (The radiation, which accord-
+ing to the assumptions of Section 8 is emitted by the cooperation of
+every pair of free vibrations, must of course in some way alter their
+amplitudes. This it does not do according to the assumptions hitherto
+made.) Butit is quite interesting to observe that also with that damping
+term still missing, we do not encounter the accident of infinite ampli-
+tudes in the case of resonance, well known from the classical treatment
+of the subject. The only thing that happens is that an incident light
+wave of ever so small an amplitude will raise the forced vibration of the
+system toa finite amplitude. And furthermore if, for example, from the
+beginning only one free vibration was set up, say that belonging to
+Ev and if
+
+Iw=Ky—E1,
+
+then the forced vibration, raised to finite amplitude, is in shape and
+frequency identical with the free vibration belonging to Ey. At the same
+time the amplitude of the vibration Z; is markedly diminished. The
+sum of squares of all amplitudes remains constant under all circum-
+stances, This behavior seems to afford an insight (though incomplete)
+into the so-called transition from one stationary state to another which
+hitherto has been wholly inaccessible to computation.
+
+10. In the foregoing report the undulatory theory of mechanics has
+been developed without reference to two very important things, viz. (1)
+the relativity modifications of classical mechanics, (2) the action of a
+magnetic field on the atom. This may be thought rather peculiar since
+L. de Broglie, whose fundamental researches gave origin to the present
+
+WH, A, Kramers, Nature, May 10 (1924), Aug, 30 (1924); H. A. Kramers and
+W. Heisenberg, Zeits, f. Physik 31, 681 (1925).
+
+--- Page 22 ---
+1070 E, SCHRODINGER
+
+theory, even started from the relativistic theory of electronic motion
+and from the beginning took into account a magnetic field as well as an
+electric one,
+
+It is of course possible to take the same starting point also for the
+present theory and to carry it on fairly far in using relativistic mechanics
+instead of classical and including the action of a magnetic field. Some
+very interesting results are obtained in this way on the wave-length
+displacement, intensity and polarization of the fine structure components
+and of the Zeeman components of the hydrogen atom.'4 There are
+two reasons why I did not think it very important to enter here into
+this form of the theory. First, it has until now not been possible to extend
+the relativistic theory to a system of more than one electron, But there
+is the region in which the solution of new problems is to be hoped from
+the new theory, problems that were inaccessible to the older theory.
+
+Second, the relativistic theory of the hydrogen atom is apparently
+incomplete; the results are in grave contradiction with experiment, since
+in Sommerfeld’s well known formula for the displacement of the natural
+fine structure components the so-called azimuthal quantum number
+(as well as the radial quantum number) turns out as “half-integer,”’ ie.
+half of an odd number, instead of integer. So the fine structure turns
+out entirely wrong.
+
+The deficiency must be intimately connected with Uhlenbeck-Goud-
+smit’s¥ theory of the spinning electron. But in what way the electron
+spin has to be taken into account in the present theory is yet unknown.
+
+ZOrich, SWITZERLAND,
+September 3, 1926.
+
+WV, Fock, Zeits. f. Physik 38, 242 (1926).
+%G.E. Uhlenteck and S, Goudsmit, Physica (1925); Nature, Feb, 20 (1926).

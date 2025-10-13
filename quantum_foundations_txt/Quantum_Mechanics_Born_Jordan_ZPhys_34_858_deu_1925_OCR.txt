@@ -1,0 +1,1638 @@
+
+--- Page 1 ---
+858
+
+Zur Quantenmechanik.
+Von M. Born und P, Jordan in Göttingen.
+(Eingegangen am 27. September 1925.)
+
+Die kürzlich von Heisenberg gegebenen Ansätze werden (zunächst für Systeme
+von einem Freiheitsgrad) zu einer systematischen Theorie der Quantenmechanik
+entwickelt. Das mathematische Hilfsmittel ist die Matrizenrechnung. Nachdem
+diese kurz dargestellt ist, werden die mechanischen Bewegungsgleichungen aus
+einem Variationsprinzip abgeleitet und der Beweis geführt, daß auf Grund der
+Heisenbergschen Quantenbedingung der Energiesatz und die Bohrsche Frequenz-
+bedingung aus den mechanischen Gleichungen folgen. Am Beispiel des an-
+harmonischen Oszillators wird die Frage der Eindeutigkeit der Lösung und die
+Bedeutung der Phasen in den Partialschwingungen erörtert. Den Schluß bildet
+ein Versuch, die Gesetze des elektromagnetischen Feldes der neuen Theorie ein-
+zufügen.
+
+Einleitung. Die kürzlich von Heisenberg?) in dieser Zeitschrift
+mitgeteilten Ansätze zu einer neuen Kinematik und Mechanik, die den
+Grundforderungen der Quantentheorie entsprechen, scheinen uns von
+großer Tragweite zu sein. Sie bedeuten einen Versuch, den nenen Tat-
+sachen — statt durch mehr oder weniger künstliche und gezwungene
+Anpassung der alten gewohnten Begriffe — durch die Schaffung eines
+neuen, wirklich angemessenen Begrifissystems gerecht zu werden. Heisen-
+berg hat die physikalischen Gedanken, die ihn dabei geleitet haben,
+in so klarer Weise ausgesprochen, daß jede ergänzende Bemerkung
+überflüssig erscheint. Aber in formaler, mathematischer Hinsicht sind
+seine Betrachtungen, wie er selbst betont, erst im Anfangsstadium. Er
+hat seine Hypothesen nur an einfachen Beispielen erläutert und ist nicht
+za einer allgemeinen Theorie vorgedrungen. Begünstigt durch den Um-
+stand, daß wir seine Überlegungen schon in statu nascendi kennenlernen
+durften, haben wir uns nach Abschluß seiner Untersuchungen bemüht,
+den mathematisch-formalen Gehalt seiner Ansätze zu klären, und legen
+hier einige unserer Ergebnisse vor. Sie zeigen, daß es tatsächlich mög-
+lich ist, auf der von Heisenberg gegebenen Grundlage das Gebäude
+einer geschlossenen mathematischen Theorie der Quantenmechanik in
+merkwürdig enger Analogie zur klassischen Mechanik, doch unter Wah-
+rung der für die Quantenerscheinungen kennzeichnenden Züge zu errichten.
+
+Wir beschränken nns dabei zunächst mit Heisenberg auf Systeme
+von einem Freiheitsgrad, von denen wir annehmen, daß sie —
+klassisch gesprochen — periodisch sind. Die Verallgemeinerung der
+
+2) W. Heisenberg, ZS. f. Phys. 83, 879, 1925.
+
+--- Page 2 ---
+M. Born und P. Jordan, Zur Quanienmechanik. 859
+
+mathematischen Theorie auf Systeme von beliebig vielen Freiheitsgraden
+sowie auf aperiodische Bewegungen wird uns in der Fortsetzung dieser
+Abhandlung beschäftigen. In wesentlicher Verallgemeinerung der Heisen-
+bergschen Ansätze werden wir uns weder auf die Behandlung der nicht-
+relativistischen Mechanik, noch auf das Rechnen mit kartesischen Ko-
+ordinaten beschränken. Die einzige Beschränkung, die wir uns hinsichtlich
+der Koordinaten auferlegen, liegt darin, daß sich unsere Betrachtungen
+auf Librationskoordinaten beziehen, die in der klassischen Theorie
+periodische Funktionen der Zeit sind. Allerdings scheint es in manchen
+Fällen naheliegend, andere Koordinaten zu benutzen, beispielsweise beim.
+Rotator den Drehwinkel @, der eine lineare Funktion der Zeit wird. So
+ist auch Heisenberg bei seiner Behandlung des Rotators vorgegangen ;
+es muß jedoch dahingestellt bleiben, ob das dabei angewandte Verfahren
+vom Standpunkt einer folgerichtigen Quantenmechanik aus gerechtfertigt
+werden kann.
+
+Die mathematische Grundlage der Heisenbergschen Betrachtung
+ist das Multiplikationsgesetz der quantentheoretischen Größen, das
+er durch eine geistreiche Korrespondenzbetrachtung erschlossen hat. Die
+Ausgestaltung seines Formalismus, die wir hier geben, beruht auf der
+Bemerkung, daß diese Regel nichts ist, als das den Mathematikern wohl-
+bekannte Gesetz der Multiplikation von Matrizen. Das nach zwei
+Seiten unendliche, quadratische Schema (mit diskreten oder kontinuierlich
+laufenden Indizes), die sogenannte Matrix, ist der Repräsentant einer
+physikalischen Größe, die in der klassischen Theorie als Funktion der
+Zeit angegeben wird. Die mathematische Methode der neuen Quanten-
+mechanik ist daher gekennzeichnet durch Benutzung einer Matrizen-
+analysis an Stelle der gewöhnlichen Zahlenanalysis.
+
+Mit dieser ‘Methode haben wir hier die einfachsten Fragen der
+Mechanik und Elektrodynamik anzufassen versucht. Ein durch Korre-
+spondenzbetrachtungen nahegelegtes Variationsprinzip liefert für die
+allgemeinste Hamiltonsche Funktion Bewegungsgleichungen in
+engster Analogie zu den klassischen kanonischen Gleichungen. Die
+Quantenbedingung zusammengefaßt mit einer aus den Bewegungs-
+gleichungen fließenden Relation erlaubt eine einfache Matrizenschreib-
+weise. Mit ihrer Hilfe gelingt der Beweis der Allgemeingültigkeit
+des Energiesatzes und der Bohrschen Frequenzbedingung in
+dem von Heisenberg vermuteten Sinne, ein Beweis, den er auch für
+die einfachen, von ihm behandelten Beispiele nicht vollständig führen
+
+konnte. Auf eines dieser Beispiele kommen wir dann ausführlicher
+Zeitschrift für Physik. Bd, XXXIV. 57
+
+--- Page 3 ---
+860 M. Born und P. Jordan,
+
+zurück, um einen Anhalt zu gewinnen über die Rolle, die die Phasen
+der Partialschwingungen in der neuen Theorie spielen. Zum Schluß
+zeigen wir, daß auch die Grundgesetze des elektromagnetischen Feldes
+im Vakuum sich der neuen Methode zwangslos einfügen, und geben eine
+Begründung der von Heisenberg gemachten Annahme, daß die Quadrate
+der Beträge der Elemente der das elektrische Moment eines Atoms dar-
+stellenden Matrix ein Maß sind für die Übergangswahrscheinlichkeiten.
+
+Kapitel L Matrizenrechnung.
+
+8 1. Elementare Operationen. Funktionen. Wir rechnen
+mit quadratischen unendlichen Matrizen '), die wir hier mit fetten Buch-
+staben bezeichnen wollen, während schwache Buchstaben stets gewöhn-
+liche Zahlen bedeuten sollen:
+
+(00) a(0l) (02)...
+_ _..[e(10) al) a(2)...
+a=aem)=| 0) all) «9
+
+Gleichheit zweier Matrizen bedeutet Gleichheit entsprechender Kom-
+
+ponenten:
+
+a b heißt a(nm) = b(nm). da)
+Addition wird definiert durch Addition entsprechender Komponenten
+a=b+c heißt alım) = binm) +e(mm). (2)
+
+Die Multiplikation wird definiert durch die aus der Determinanten-
+theorie bekannte Regel „Zeilen mal Kolonnen*:
+
+a — bc heißt ann) = Zdmh)eckn). 6)
+k=0
+
+Potenzen sind durch wiederholte Multiplikation zu definieren. Es
+gilt das assoziative Gesetz für die Multiplikation und das distributive für
+die Verbindung von Addition und Multiplikation:
+
+wbe = abo): &
+ab+0o=abrac. 8)
+
+Dagegen gilt nicht das kommutative Gesetz für die Multiplikation:
+
+Die Gleichng ab — ba ist nicht allgemein richtig. Wenn sie gilt,
+
+2) Man findet Näheres über Matrizenrechnung etwa bei M. Böcher, Ein-
+führung in die höhere Algebra; aus dem Englischen von Hans Beck, Leipzig,
+Teubner, 1910, 3 22 bis 25; ferner bei R. Courant und D. Hilbert, Methoden
+der mathematischen Physik I. Berlin, Springer, 1924, 1.Kap.
+
+--- Page 4 ---
+Zur Quantenmechanik. 861
+
+werden 4 und 5 vertauschbar genannt. Die durch
+
+1= (un), (gr = ’ für nm, (6)
+definierte Einheitsmatrix hat die Eigenschaft
+al=la=a. (ba)
+Die zu a reziproke Matrix a! ist definiert durch?)
+ala=aa'!=1. (9)
+
+Als „Mittelwert“ einer Matrix & bezeichnen wir diejenige Matrix,
+deren Diagonalelemente mit denen von 4 übereinstimmen, während alle
+übrigen Elemente Null sind:
+
+z = (6nma(nn)). (8)
+
+Die Summe dieser Diagonalelemente soll „Diagonalsumme der
+Matrix @ heißen und mit D(a) bezeichnet werden:
+
+D(a) = Dann). (9)
+
+Nach (3) beweist man leicht: Wenn die Diagonalsumme eines Pru-
+. dukts y==x,%::- Xm endlich ist, so bleibt sie unverändert bei zyklischer
+Vertauschung der Faktoren:
+
+D(XX2 : Xm) = D(KXr 41 An Ka Kr)» (10)
+Es genügt offenbar, sich von der Richtigkeit des Satzes für zwei
+Faktoren zu überzeugen.
+Sind die Komponenten der Matrizen a, b Funktionen eines Para-
+meters ti, so wird
+d
+
+rn S an) b(km) =>) lä(nk)b(km) + u (ah) b (km)!
+k
+
+k
+
+Er
+
+oder nach der Definition (3):
+Kab) =ab+ab. a
+Wiederholte Anwendung von (11) gibt
+Im eK) = KK Kun + Krk Kt X (ID)
+
+Durch die Rechenprozesse (2), (3) können Funktionen von Na-
+trizen definiert werden. Als allgemeinste Funktion f(x,xz.-.x%) soll
+hier zunächst eine solche in Betracht gezogen werden, welche durch eine
+
+1) Bekanntlich ist bei endlichen quadratischen Matrizen a”! durch diese
+
+Definition stets eindeutig festgelegt, wenn die Determinante A von a von Null
+verschieden ist. Ist 4 = 0, so gibt es keine zu a reziproke Matrix.
+
+--- Page 5 ---
+862 M. Born und P. Jordan,
+
+Summe von endlich oder unendlich vielen Potenzprodukten in den Ar-
+gumenten x, mit Zahlen als Koeffizienten formal dargestellt werden
+kann. Es können dann auch durch Gleichungen
+
+f, Yır---Yn5 Ar An) = 0,
+nee (19)
+
+Funktionen yı (X --- x.) definiert werden. Um nämlich Funktionen y,
+der oben beschriebenen Form zu erhalten, welche den Gleichungen (12)
+genügt, hat man nur die y, als Reihen, die nack Potenzprodukten der x,
+fortschreiten, anzusetzen und durch Einsetzen in (12) die Koffizienten der
+Reihe nach zu bestimmen. Man erkennt, daß sich stets ebenso viele
+Gleichungen wie Unbekannte ergeben. Die Anzahl der Gleichungen und
+Unbekannten ist freilich größer, als bei der Anwendung der Methode der
+unbestimmten Koeffizienten in der gewöhnlichen, mit kommutativer
+Multiplikation rechnenden Analysis. Man erhält in jeder der Glei-
+chungen (12) nach Einsetzen der Reihen für die y, und Zusammen-
+fassung der zusammengehörigen Glieder außer einem Summanden €’ XXX
+auch einen Summanden Ü”’x,x, und hat sowohl C’ als auch €’ (nicht
+nur C’ -+ C”) zum Verschwinden zu bringen. Dafür treten jedoch auch
+in der Entwicklung eines jeden yı zwei Glieder x,x, und x,x, mit zwei
+verfügbaren Koeffizienten auf.
+
+82. Symbolische Differentiation. Ein später viel benutzter
+Rechenprozeß, den wir hier näher betrachten wollen, soll als Diffe-
+rentiation einer Matrizenfunktion bezeichnet werden. Es ist jedoch
+zu beachten, daß dieser Prozeß nur in einigen Punkten ähnliche Eigen-
+schaften besitzt, wie die Differentiation der gewöhnlichen Analysis. Zum
+Beispiel sind hier die Produktregel der Differentiation oder die Regel.
+für die Differentiation einer Funktion von einer Funktion uicht mehr
+allgemein in Gültigkeit. Nur dann, wenn alle vorkommenden Matrizen
+miteinander vertauschbar sind, gelten für diese Differentiation alle
+Regeln der gewöhnlichen Analysis.
+
+Es sei s
+
+y= Il. = x A. At; (13)
+
+. . m=1
+Wir Fa
+
+® m=r—1 Du ra
+I, = (für) h
+ö x x ! Ik E ’ 14)
+= -2 a u, Im’ Vu. (
+In W ırten lautet diese Regel: Man denke in dem gegebenen Produkt
+
+alle Faktoren einzeln angeschrieben (also z. B. nicht x’ x}, sondern
+
+--- Page 6 ---
+Zur (uantenmechanik. 363
+
+X,X,X,X9X,); man greife irgend einen Faktor x, heraus und bilde das
+Produkt aller ihm folgenden Faktoren und aller ihm voraufgehenden
+Faktoren (in dieser Reihenfolge), Die Summe aller so gebildeten Glieder
+int der Differentialquotient des Produkts nach- diesem x.
+
+Einige Beispiele mögen das Verfahren erläutern:
+
+ay_
+
+ya, Fr na!
+9 nl ym n—2 ym Lo ym ya!
+yzxXzyı Fr apa ee aa,
+ı
+2 [27 yy:
+YA Xykı Kg Ey KıXaXıX T XaKıXyXı T Kar Kr
+ı
+Fordern wir ferner
+as) _ 9 U as)
+Ä ı
+0X ex. 0x
+
+so ist die Ableitung y für allgemeinste analytische Funktionen y
+efiniert.
+Mit diesen Definitionen und der der Diagonalsumme (9) gilt die
+Beziehung
+9D(y) __0y
+
+darum) == Ox an), (16)
+
+wobei rechts die u #w-Komponente der Matrix 7 steht. Diese Beziehung
+
+OXr
+kann auch zur Definition der Ableitung Fr benutzt werden. Zum Be-
+Ar
+weis von (16) genügt es offenbar, eine Funktion y der Form (18) zu
+betrachten. Nach und (8) wird
+
+s v1
+BA Bi
+ALOE —= S 8... D II 2, pty+n) u ya (17)
+v1 7 part
+nm, = r.—n.
+
+Andererseits ist aus (3) und (9) zu entnehmen:
+
+aD(y ZZ _,
+Om) -3 Ö,,: >1% (ip +1) Bi tn (pr4n: (AT)
+y=%ın von, Tr4ı = Mm.
+
+Vergleich von (17) und (17') gibt (16).
+Hervorgehoben sei gleich hier eine für später wichtige Tatsache,
+die aus der Definition (14) abzulesen ist: Die partiellen Ableitungen
+
+--- Page 7 ---
+864 M. Born und P. Jordan,
+
+eines Produkts sind invariant gegen zyklische Vertauschungen
+der Faktoren. Wegen (16) ist dieser Satz auch aus (10) zu folgern.
+
+Zum Schluß dieser Vorbereitungen sollen den Funktionen g(pg)
+von zwei Variablen noch einige Worte gewidmet werden. Für
+
+y-Pg (18)
+wird nach (14)
+öy s—1 1a , dy v1 123 . ,
+BL 1 not . 18
+ee rer |
+
+Die allgemeinste zu betrachtende Funktion g(pg) ist nach $ 1
+darzustellen durch ein lineares Aggregat von Gliedern
+
+k
+z=Tlpgi) 19)
+j=1
+Mit der Abkürzung ’
+k 1-1
+P= I (rer) TI Pr) (20)
+je141 je
+können die Ableitungen geschrieben werden:
+d k am
+12.5 Ipıtongıpmn
+P- iZım=0 eu
+2 Ko n-t
+er =D Dimmimmpptg”.
+I izım=0
+
+Ans diesen Gleichungen ist eine wichtige Folgerung zu ziehen. Wir
+betrachten die Matrizen
+ug _% ap? _%
+1 95 ga Öög : ı—=Pp5 Fa) pP
+Nach (21) wird
+
+'k
+dı = ZRpr— Pıptan),
+
+(22)
+
+k
+d = > (pri ge Pip®),
+und daraus folgt
+k
+di +, = > (pi Pı— Pıptanı).
+
+Hier hebt sich immer das zweite Glied eines Terms gegen das erste
+des folgenden, und auch das erste und letzte Glied der ganzen Summe
+zerstören sich. Also wird |
+
+d+d—0. (@3)
+
+--- Page 8 ---
+Zur (Juantenmechanik. 865
+
+Diese Beziehung gilt wegen ihres linearen Charakters in z nicht
+nur für Ausdrücke z der Form (19), sondern zugleich auch für beliebige
+analytische Funktionen g(pg))).
+
+Zum Schluß dieser kurzen Darstellung der Matrizenanalysis wollen
+wir noch den Satz beweisen: Jede Matrizengleichung
+
+Fix: X: X) = 0
+bleibt richtig, wenn man in allen Argumentmatrizen x; ein
+und dieselbe Permutation aller Zeilen und Kolonnen vornimmt.
+Hierzu genügt es offenbar zu zeigen, daß für zwei Matrizen a, 5, die durch
+diese Operation in a’, b’ übergehen. die Invarianzen
+a-+-b=(a+b). ab = (ab)
+
+gelten, wo die rechten Seiten diejenigen Matrizen bedeuten, die aus 2-+- 5
+und ab durch jene Vertauschungen entstehen.
+
+Wir führen diesen Beweis, indem wir die Operation des Permu-
+tierens durch Multiplikation mit einer geeigneten Matrix ersetzen ?).
+
+Eine Permutation schreiben wir
+
+ne)
+
+Dieser ordnen wir die Permutationsmatrix
+
+1 für m = kn,
+
+p = (p (nm); P(am) = !
+
+zu. Die zu p transponierte Matrix sei
+
+OÖ sonst
+
+= om)
+
+0 sonst.
+Durch Multiplikation beider folgt
+
+pPB= Zirampem) (Me,
+
+da beide Faktoren p(nA) und p (km) nur dann gleichzeitig von Null ver-
+
+1) Allgemeiner wird für Funktionen von r Variabeln
+29 __29
+mt —ı0.
+
+?) Dieses hier gewählte Beweisverfahren besitzt den Vorzug, daß es den
+engen Zusammenhang der Permutationen mit einer wichtigen Klasse allgemeiner
+Transformationen der Matrizen erkennen läßt. Die Richtigkeit des fraglichen
+Satzes kann jedoch auch unmittelbar aus der Bemerkung gefolgert werden, daß
+in den Definitionen der Gleichheit sowie der Addition und Multiplikation
+
+von Matrizen kein Gebrauch von Ordnungsbeziehungen zwischen den Zeilen bzw.
+Spalten gemacht wird.
+
+--- Page 9 ---
+866 M. Born und P. Jordan,
+
+schieden sind, wenn k = k, — ki, also n = m ist. Mithin ist 5 die
+
+Reziproke von p: = _
+B=Pp.
+
+Sei nun a eine beliebige Matrix, so ist
+
+pa= (Zr (ak) a(km)) — (a (k,, m)
+
+n
+
+eine Matrix, die aus a durch die Permutation ( ) der Zeilen entsteht.
+
+Rn,
+und ebenso ist
+
+ap'= 6> anl)p(k m)) == (a (n, k,))
+
+die durch Permutieren der Kolonnen entstehende Matrix. Ein und die-
+selbe Permutation auf Zeilen und Kolonnen angewandt, liefert also die
+
+Matrix a=pap-.
+
+Hieraus folgt ohne weiteres:
+a+b=püa+bp'=(-+b)
+ab=pabp"! = (ab),
+
+womit unsere Behauptung bewiesen ist.
+
+Man sieht also, daß durch Matrizengleichungen irgend eine Reihen-
+folge oder Rangordnung der Elemente niemals bestimmt werden kann.
+
+Übrigens gilt offenbar der viel allgemeinere Satz, daß jede Matrizen-
+gleichung invariant ist gegen Transformationen der Form
+
+a = bab),
+wo b eine beliebige Matrix bedeutet. Wir werden freilich später sehen.
+daß dies für Matrizen-Differentialgleichungen nicht mehr ohne weiteres
+richtig ist.
+Kapitel IL Dynamik.
+
+$3. Die Grundgesetze. Das dynamische System ist zu
+beschreiben durch die Koordinate g und den Impuls p. Sie sollen
+als Matrizen
+
+g= (aanm)erramd, p — (p(nm) 2 rirmi) (24)
+
+angesetzt werden. Darin bedeuten die v(nm) die quantentheoretischen
+Frequenzen, welche den Übergängen zwischen den Zuständen mit den
+Quantenzahlen » und m zugehören. Die Matrizen (24) sollen
+Hermitesche sein, d. h. bei Transposition der Matrizen soll jede
+Komponente in ihren konjugierten Wert übergehen, und zwar soll das
+für alle reellen t gelten. Wir haben also
+
+am) ann) = |anm)]? (23)
+
+und vlnm) = — vimn). (26)
+
+--- Page 10 ---
+Zur Quantenmechanik. 867
+
+Ist g eine kartesische Koordinate, so ist die Größe (25) maßgebend
+für die Wahrscheinlichkeiten!) der Übergänge n z. m.
+Wir wollen weiter fordern, daß
+va + vd + vQ) = 0 [er))
+ist. Mit (26) zusammen kann das so ausgedrückt werden: Es gibt
+Größen W,, so daß
+hvkam) = Wu — Win (28)
+wird.
+Daraus folgt, mit (2), (3), daß eine Funktion g(pg) stets wieder
+die Form
+g = (g(nm) rim) (29)
+erhält, und zwar geht dabei die Matrix (g(mm)) durch eben denselben
+Prozeß aus den Matrizen (g(nm)), (p(nm)) hervor, durch den g aus g; p
+erhalten wurde. Wir können deshalb statt der von nun an aufzugebenden
+Darstellung (24) die kürzere Schreibweise
+q = (yuam)), p = (pnm)) (30)
+wählen.
+Als zeitliche Ableitung der Matrix g — (y(nm)) erhalten
+wir, indem wir uns noch einmal an (24) bzw. (29) erinnern, die Matrix
+g = 2rilv(nm)g(am)). (s1)
+Wenn, wie wir annehmen wollen, v(nm) =&0 für n tm ist, so
+bedeutet g = 0, daß g eine Diagonalmatrix mit g(nın) = d,my{nn) ist.
+Eine Differentialgleichung 9 — a ist invariant gegen den Prozeß,
+bei dem Zeilen und Kolonnen aller Matrizen sowie die Zahlen W, derselben
+Permutation unterworfen werden. Um dies einzusehen, betrachten wir
+«die Diagonalmatrix
+
+W= (um Wa);
+dann ist
+
+wg — > 9: W,9km)) = (Wıglam)),
+
+g9gW = e> Ink) dm Wr) = (Wug(am)),
+also nach (31)
+
+MM 2mi
+Jg-= — (On — Wa)gam)) = wg — gW).
+
+Ist nun » eine Permutationsmatrix, so ist die Transformierte
+
+W — pWp-1— (dm Wi)
+
+1) Siehe hierzu &8.
+
+--- Page 11 ---
+868 M. Born und P. Jordan,
+
+die Diagonalmatrix mit den permutierten W, in der Diagenale Man
+hat: daher
+
+pgp' = img -gW)=g)
+wo g = pgp”! ist und g’ die nach der Regel (31) mit permutierten W,
+gebildete zeitliche Ableitung von g’ bedeutet.
+
+Die Zeilen und Kolonnen von g erleiden also dieselbe Permutation
+wie die von g, und daraus folgt unsere Behauptung.
+
+Zu beachten ist, daß ein entsprechender Satz für beliebige Trans-
+formation der Form a’ = bab”! nicht gilt; denn bei solchen ist W’
+nicht mehr Diagonalmatrix. "Trotz dieser Schwierigkeit scheint uns ein
+genaues Studium dieser allgemeinen Transformationen unerläßlich, weil es
+Einbliek in die tieferen Zusammenhänge der neuen Theorie verspricht; wir
+werden später darauf zurückkommen ').
+
+Für den Fall einer Hamiltonschen Funktion der Gestalt
+
+1
+H = 3 ? Ug
+werden wir mit Heisenberg annehmen, daß die Bewegungs-
+gleichungen ebenso wie die klassischen lauten. so daß wir mit der
+Symbolik von $2 schreiben können:
+
+; oH 1 p
+
+Ip mr
+
+. oh ou 82)
+P 04 9q
+
+Es soll versucht werden, durch eine korrespondenzmäßige Betrachtung
+auch für den allgemeinen Fall einer beliebigen Hamiltonschen Funktion
+H(pg) zugehörige Bewegungsgleichungen zu bestimmen. Das ist er-
+forderlich in Rücksicht auf die’ relativistische Mechanik und besonders
+auf die Behandlung der Bewegung von Rlektronen unter Mitwirkung
+magnetischer Felder. Denn in letzterem Falle kann die Funktion #7 bei
+kartesischen Koordinaten nicht mehr dargestellt werden als Summe
+zweier Funktionen, deren eine nur von den Impulsen und deren andere
+nur von den Koordinaten abhängt.
+
+Klassisch sind die Bewegungsgleichungen abzuleiten aus (dem
+Wirkungsprinzip
+
+Ei tı
+[za — Fra H@o)at — Extremum. (33)
+do do
+
+1) Vgl. die demnächst erscheinende Fortsetzung dieser Arbeit.
+
+--- Page 12 ---
+Zur Quantenmechanik. 869
+
+Denken wir uns darin die Fourierentwicklung von Z eingesetzt und
+nehmen wir den Zeitabschnitt £, — £, hinreichend groß, so wird nur das
+konstante Glied von Z einen Beitrag zum Integral liefern. Die Form,
+welche das Wirkungsprinzip damit erhält, legt folgende Übertragung
+in die Quantenmechanik nahe:
+
+Die Diagonalsumme D(L) — DIL(kk) soll zum Extremum
+
+E
+gemacht werden:
+
+DIL) =D (pqg _ H(pg) — Extremum, (34)
+und zwar durch geeignete Wahl von p und g bei festgehaltenen
+vnm).
+
+Man erhält also, indem man die Ableitungen von D(L) nach den
+Elementen von p und q gleich Null setzt, die Bewegungsgleichungen
+
+2riv(nm)q(nm) — Ri
+. D
+2niv(mn)p (mn) = [.
+
+Nach (26), (31) und (16) erkennt man, daß diese Bewegungsgleichungen
+allgemein in der kanonischen Gestalt
+
+pP ög
+
+geschrieben werden können.
+Als Quantenbedingung verwendet Heisenberg eine von Thomas?)
+und Kuhn?) aufgestellte Beziehung. Die Gleichung
+1v
+
+J= Prau —= [paar
+0
+
+der ..klassischen” Quantentheorie kann, wenn man die Fourierentwicklung
+von p und g
+e e3
+iv Driv
+= Dperon ya Dart,
+=
+
+=—o _
+
+heranzieht. umgeformt werden in
+
+1=2zaidr 2, (ed) (36)
+
+To
+
+1) W, Thomas, Naturw. 13, 627, 1925.
+2) W. Kuhn, Z8. f, Phys. 38, 408, 1925.
+
+--- Page 13 ---
+870 M. Born und P. Jordan,
+
+Ist dabei p —— mg, so können die p, durch die g, ausgedrückt
+werden, und man erhält so diejenige klassische Gleichung, deren korre-
+spondenzmäßige Umformung in eine Differenzengleichung die Beziehung
+von Thomas und Kuhn ergibt. Da hier die Voraussetzung p = mg
+nicht gemacht werden soll, müssen wir die Gleichung (36) unmittelbar
+in eine Differenzengleichung übersetzen.
+
+Es soll korrespondieren
+
+>> 7) mit R I, (arm pnn +7) — una -D)pR-un)):
+1=—o 12-0
+dabei sind rechts diejenigen q(nm), p (nm), die einen negativen Index
+erhalten, gleich Null zu setzen. Dadurch erhalten wir als korrespondenz-
+mäßige Umformung von (36) die Quantenbedingung
+
+I Ponan -anhrEn) = 5: en
+k
+
+Das sind unendlich viele Gleichungen, nämlich je eine für jedes n.
+Für p = mg ergibt das insbesondere
+
+1
+>> »(kn)|anm)] — am
+
+was, wie leicht festzustellen, mit der Heisenbergschen Form der
+Quantenbedingung bzw. der Thomas-Kuhnschen Gleichung überein-
+stimmt. (37) muß als die sachgemäße Verallgemeinerung dieser Gleichung
+angesehen werden.
+
+Übrigens erkennt man aus (37), daß die Diagonalsumme D( pP)
+notwendig unendlich wird. Denn sonst würde aus (10) folgen D(pg)
+— D(gp) = 0, während (37) zu D(p)— D(gp) = © führt. Die
+betrachteten Matrizen sind also niemals endlich }).
+
+&4. Folgerungen. Energie- und Frequenzsatz. Mit den
+Aufstellungen des vorigen Paragraphen sind die Grundgesetze der neuen
+Mechanik vollständig gegeben. Alle sonstigen Gesetze der Quanten-
+mechanik, denen Allgemeingültigkeit zugesprochen werden soll, müssen
+aus ihnen heraus zu beweisen sein. Als solche zu beweisende Sätze
+kommen in erster Linie in Betracht der Energiesatz und die Bohrsche
+Frequenzbedingung. Der Energiesatz besagt, daß, wenn A die Energie
+ist, #—= 0 wird, oder daß # eine Diagonalmatrix ist. Die Diagonal-
+
+1) Auch gehören sie nicht zu der von den Mathematikern bislang fast aus-.
+schließlich betrachteten Klasse der „beschränkten“ unendlichen Matrizen.
+
+--- Page 14 ---
+Zur Quantenmechanik. 87
+
+glieder (nn) von f/ werden dann nach Heisenberg als Energieen der
+verschiedenen Zustände des Systems gedeutet, und die Bohrsche
+Frequenzbedingung fordert
+hv(nm) = H({nn) — H(mn),
+oder
+W, = Hf{nn) + konst.
+Wir betrachten die Größe
+d=pq—gp
+Nach (11), (85) wird
+=pqa+Ppg-dP—gp
+oH OH OH OH
+Tg og Pop pP
+Nach (22), (23) ist also d= 0 und d eine Diagonalmatrix. Die
+Diagonalglieder von d sind aber gerade durch die Quantenbedingung (37)
+festgelegt. Zusammenfassend erhalten wir unter Benutzung der durch
+(6) definierten Einheitsmatrix 7 die Gleichung
+
+h .
+PI-gp= zz (88)
+
+die wir die „verschärfte Quantenbedingung“ nennen und auf der
+alle weitereu Schlüsse beruhen.
+
+Aus der Form dieser Gleichung ist zu entnehmen: Wird aus (38)
+eine Gleichung (A) abgeleitet, so bleibt (A) richtig, wenn man p mit g
+vertauscht und gleichzeitig I durch —h ersetzt. Deshalb braucht z. B.
+
+von den Gleichungen
+h
+
+Page: 89)
+h ,
+PPzpEng.;gT 89)
+
+nur eine aus (38) bewiesen zu werden, was durch Induktion leicht aus-
+zuführen ist.
+
+Wir wollen jetzt Energie- und Frequenzsatz, wie sie oben aus-
+gesprochen wurden, zunächst beweisen für den Fall
+
+H=HA(p + Hg).
+
+Nach den Ausführungen von $1 können hierin #7, (p) und A,(gQ)
+formal durch Potenzsummen
+
+H=Bap, H= Sg
+
+--- Page 15 ---
+872 M. Born und P. Jordan,
+
+ersetzt werden. Die Formeln (39), (39”) lassen dann erkennen, daß
+
+_ hk oH
+Hqa- gn Ti öp' |
+(40)
+Ken 0H |
+PEPITT gig
+wird, und der Vergleich mit den Bewegungsgleichungen (35) liefert
+. -
+= 7 Hg-gM)
+(41)
+. „
+B= Big, pH).
+
+Wird nun die Matrix Hg 9 H kurz mit A bezeichnet, so gilt
+
+H H
+42
+1a aleral); Du
+daraus ist aber allgemein fürg = g(pg)
+== gm) (43)
+
+zu folgern. Denn man braucht zum Beweise nur g vermittelst (11),
+
+A| vermittelst (42) als
+
+(11) als Funktion von p, q und p, g, sowie
+
+Funktion von p, g uud F R ausgerechnet und dann (41) angewandt
+
+zu denken. Setzt man in (43) ‘insbesondere g = H, so erhält man
+
+A=%0. (44)
+Nachdem somit der Energiesatz bewiesen und # als Diagonalmatrix
+erkannt ist, erhält (41) die Gestalt
+kv(am)g(nm) — (H({nn) — H (mm))g (min),
+hv(nm)p (nm) = (H (nn) — H(mm))p (nm),
+woraus die Frequenzbedingung folgt.
+Gehen wir nun zu allgemeineren Hamiltonschen Funktionen
+H# = H#(pg) über, so erkennt man leicht an Beispielen, wie etwa
+H* = p?g. daß im allgemeinen nicht mehr H* —= 0 wird. Man sieht
+jedoch, daß die Hamiltonsche Funktion H = 3(p’g + gp?) dieselben
+Bewegungsgleichungen wie H* liefert und daß H wieder gleich Null
+wird. Wir sprechen danach Energie- und Frequenzsatz folgender-
+maßen aus: Zu jeder Funktion H* == H*(pgq) gibt es eine
+Funktion H= Hip): so daß #* und H als Hamiltonsche
+
+--- Page 16 ---
+Zur Quantenmechanik. 873
+
+Funktionen dieselben Bewegungsgleichungen liefern und
+daß # für diese Bewegungsgleichungen die Rolle der
+zeitlich konstanten, die Frequenzbedingung erfüllenden
+Energie übernimmt.
+Nach den oben durchgeführten Überlegungen genügt es, zu zeigen,
+daß die anzugebende Funktion #/ außer
+öH _OdH* OH _ dH*
+9p Op gg og
+noch die (Hleichungen (40) befriedigt. Nach $ 1 ist #* formal als Summe
+von Potenzprodukten in p und q darzustellen, und wegen der Linearität
+der Gleichungen (40), (45) in #4, H* werden wir einfach für jeden
+einzelnen Summanden in #/* den entsprechenden Sunımanden in A au-
+zugeben haben. Wir brauchen also nur den Fall
+
+(45)
+
+k
+H* = Il(pig”) se
+R=
+
+zu betrachten. Nach den Bemerkungen von $2 sind die Gleiehungen (45)
+zu erfüllen, indem # als Linearform derjenigen Potenzprodukte in p,g
+angesetzt wird, welche aus A* durch zyklische Vertauschungen der
+Faktoren entstehen; dabei muß nur die Summe der Koeffizienten gleich
+1 gehalten werden. Weniger leicht beantwortet sich die Frage, wie
+diese Koeffizienten zu wählen sind, damit auch die Gleichungen (40)
+erfüllt werden. Es möge genügen, hier den Fall k = 1, also
+. HE=pig (47)
+zu erledigen.
+Die Formel (39) kann verallgemeinert werden zu!)
+p"— pr — m >3 I gm-igl. (48)
+
+i=0
+Für » = 1 ist das wieder (39); allgemein folgt (48) daraus, daß
+wegen (39)
+
+PH getipm — (pr! — gtp")g tm
+
+n—1
+
+h
+2ari
+
+gr pr" +1
+1) Eine andere Verallgemeinerung wird gegeben durch die Formeln
+
+en
+
+rpm Mn ”) (' ( min
+or PAR FE
+©
+
+worin 5 bis zur kleineren der Zahlen m, » wächst.
+
+--- Page 17 ---
+874 M. Born und P. Jordan.
+
+wird. Vertauschung von p und g mit Vorzeichenwechsel von h ergibt
+die neue Formel
+
+m—1
+h . j r
+Pig pn; DI pr gt ipl. (48)
+j=0
+Vergleich mit (48) liefert
+1 x 1 < ar
+Rn >3 pigp= Fa >> pe. (49)
+1=0 j=0
+Wir behaupten nun: Zu #* nach (47) gehört
+1 < -
+He apen (50)
+
+Beweisen müssen wir nur (40), wobei wir uns an Formel (18°) aus
+$2 zu erinnern haben.
+Nun wird nach (50)
+
+1
+Hp—-pH = _— @pt!—-p*',
+
+und nach (48) ist das gleichbedeutend mit der unteren Gleichung (40).
+Unter Benutzung von (49) erbalten wir ferner
+
+N
+Ha-gH =, Pe t!—a*'p).
+
+was nach (48') mit der oberen Gleichung (40) gleichwertig ist. Damit
+ist der verlangte Beweis vollständig geführt.
+
+Während in der klassischen Mechanik die Energiekonstanz H — 0
+unmittelbar aus den kanonischen Gleichungen abgelesen werden kann,
+liegt der Energiesatz H = 0 der. Quantenmechanik, wie man sieht, viel
+weniger an der Oberlläche.
+
+Wie weit seine Beweisbarkeit aus den gemachten Voraussetzungen
+davon entfernt ist, trivial zu sein, erkennt man, wenn man in engerer
+Anlehnung an das klassische Beweisverfahren die Konstanz von # einfach
+durch Ausrechnen von H zu beweisen sucht. Man hat zu diesem Zweck
+zunächst vermittelst (11), (11') # als Funktion von p, q und p: g dar-
+zustellen, worauf für 5, g die Werte — a Fr einzuführen sind. Das
+ergibt H als Funktion von p wd g. Die Gleichung (38) bzw. die dar-
+aus abgeleiteten, in der Fußnote Seite 873 mitgeteilten Formeln erlauben,
+diese Funktion in eine Summe von Gliedern @p°g” umzurechnen, und zu
+beweisen ist, daß der Koeffizient a jedes solchen Gliedes verschwindet.
+Diese Rechnung wird für den allgemeinsten oben in anderer Weise
+
+
+--- Page 18 ---
+Zur Quantenmechanik. 875
+
+erledigten Fall so überaus verwickelt), daß sie kaum durchführbar
+scheint. Wenn trotzdem Energie- und Frequenzsatz in so allgemeinem
+Umfange bewiesen werden konnten, so scheint uns das eine starke Stütze
+für die Hoffnung zu bieten, daß diese Theorie wirklich tiefe physikalische
+Gesetze erfaßt.
+
+Zum Schluß sei hier noch ein Ergebnis verzeichnet, das aus den
+Formeln dieses Paragraphen leicht zu entnehmen ist: Die Glei-
+chungen (35), (87) können ersetzt werden durch (88) und (44)
+(wo H die Energie bedeutet); die Frequenzen sind dabei aus der
+Frequenzbedingung zu bestimmen.
+
+Auf die wichtigen Anwendungen, welche dieser Satz gestattet,
+gehen wir in der Fortsetzung dieser Arbeit ein.
+
+Kapitel IH. Untersuchung des anharmonischen ÖOszillators.
+
+Der anharmonische Oszillator mit
+1 o; 1 =
+H=ezpftzetzi 6
+
+ist bereits von Heisenberg eingehend betrachtet worden. Trotzdem
+soll ihm hier eine erneute Untersuchung gewidmet werden, und zwar mit
+dem Ziel, die allgemeinste Lösung der Grundgleichungen für diesen
+Fall festzustellen. Wenn die Grundgleichungen der Theorie wirklich
+vollständig sind und keiner Ergänzung mehr bedürfen, so werden die
+Absolutwerte |g (nm) |, |p(nm)| der Komponenten von g und p durch
+sie eindeutig festgelegt sein müssen, und es wird wichtig sein, dies am
+Beispiel (51) zu prüfen. Dagegen ist zu erwarten, daß bezüglich der
+Phasen gnm Ynm iu
+
+amm) = |anm) je rm,
+
+Pam) — |p (n m) | e* Ynm
+noch eine Unbestimmtheit besteben bleibt. Für die Statistik z. B. der
+Wechselwirkung von Quantenatomen mit äußeren Strahlungsfeldern wird
+es von grundlegender Bedeutung sein, den Grad dieser Unbestimmtheit
+genau festzulegen.
+
+$5. Harmonischer Oszillator. Der Ausgangspunkt unserer
+Überlegungen ist die Theorie des harmonischen Oszillators; für kleine A
+
+U Für den Fall H= + U(gq) kann sie mit Hilfe von (39) sofort
+ausgeführt werden.
+Zeitschrift für Physik, Bd. XXXIV. 58
+
+--- Page 19 ---
+876 M. Born und P. Jordan,
+
+kann man die Bewegung nach Gleichung (51) als Störung der harmo-
+nischen Schwingung mit der Energie
+
+EJ
+H=5p +4 (82)
+auffassen.
+
+Auch bei diesem einfachen Problem ist eine Ergänzung der Heisen-
+bergschen Betrachtungen notwendig. Dieser entnimmt einer Korre-
+spondenzüberlegung eine wesentliche Aussage über die Form der Lösung;
+da nämlich klassisch nur eine harmonische Komponente vorhanden ist,
+setzt Heisenberg eine Matrix an, die nur Übergänge zwischen Nachbar-
+zuständen darstellt, also die Form hat
+
+0 mO0 00...
+«90 go oO...
+0 gm 0O ga O...
+
+(53)
+
+Unser Bestreben ist, die ganze Theorie selbständig aufzubauen, ohne aus
+der klassischen Theorie Hilfe auf Grund des Korrespondenzprinzips her-
+anzuholen. Daher werden wir untersuchen, ob sich nicht die Form (58)
+der Matrix aus den Grundgleichungen selbst ableiten läßt, bzw., wenn
+das nicht geht, welche Zusatzforderungen zu stellen sind.
+
+Man sieht ohne weiteres aus dem in $ 3 über die Invarianz gegen
+Permutationen von Zeilen und Kolonnen Gesagten, daß die exakte Form
+der Matrix (53) niemals aus den Grundgleichungen erschlossen werden
+kann; denn vertauscht man Zeilen und Kolonnen in gleicher Weise, so
+bleiben die kanonischen Gleichungen und die Quantenbedingung invariant,
+also hat man damit eine neue, scheinbar verschiedene Lösung gefunden.
+Aber alle diese Lösungen sind natürlich nur der Schreibweise, d. bh. der
+Numerierung der Elemente nach verschieden. Wir wollen beweisen, daß
+durch eine bloße Umnumerierung der Elemente die Lösung stets auf die
+Form (53) gebracht werden kann. Die Bewegungsgleichung
+
+dgtrag—d (54)
+lautet für die Elemente:
+(" (nm) — vi)anm) = 0, (55)
+
+wo
+o’ = 2rzv, hvkam) = W,— Wu.
+Aus der verschärften Quantenbedingung
+
+k
+P9I=-g = z;,,! (86)
+
+--- Page 20 ---
+Zur Quantenmechanik. 877
+
+folgt, daß zu jedem n ein n’ existieren muß, so daß g(nn‘) & 0 ist;
+denn gäbe es ein n, für das alle g(nn’) = 0 wären, so wäre das nte
+Diagonalglied von og —gp gleich Null, was der Quantenbedingung
+widerspricht. Danach ergibt (55), daß stets ein »’ existiert, für das
+
+| Wr| = ln,
+ist. Da wir aber in unseren Grundprinzipien angenommen haben, daß
+für n#$m immer W, & W,„ ist, so können höchstens zwei solche
+Indizes, n’ und n”, existieren; denn die zugehörigen W,, Wr sind
+Lösungen der quadratischen Gleichung
+
+M-)—=lWv;
+wenn wirklich zwei solche Indizes n‘, n” existieren, folgt für die zuge-
+hörigen Frequenzen
+
+von) = —v(nn”). (57)
+Nunmehr wird aus (56)
+
+Zranlaant raw tlanmP ann) gi 68
+
+und die Energie (52) wird:
+
+Ham) = 142° SD (—v(alv (km) g(nk)g(km) + r}gnk)g(km)|
+%
+—= 27° Dq(nk)g(km) {vE — v (nk) v (km)).
+E
+Insbesondere gilt für m — n:
+H(an) = W, = An: (lan) + |g(nn”)P). (59)
+Es sind nun weiter drei Fälle möglich:
+a) Es gibt kein n” und es ist W„> W,;
+b) es gibt kein n” und es ist W, < W,;
+ec) es gibt m”.
+Im Falle b) betrachten wir statt » jetzt n’; zu diesem gehören
+höchstens zwei Indizes (n’)’ und (n‘)”, und von diesen muß einer gleich n
+
+sein. Damit kommen wir auf einen der Fälle a) oder c) zurück und
+können deshalb b) fortlassen.
+Im Falle a) wird v(n'n) = 4 v, und aus (58) folgt:
+van)? = En (60)
+also nach (59):
+W, = H@on) = Arv lan)! = 4ryh.
+Wegen der Voraussetzung W, = W,„ für n m gibt es also höchstens
+einen Index n — n,, für den der Fall a) vorliegt.
+
+58*
+
+--- Page 21 ---
+878 M. Born und P. Jordan,
+
+Wenn ein solches n, existiert, können wir eine Reihe von Zahlen
+NN My Mg...
+angeben derart, daß
+nd) = my md W+1> W.
+Dann ist jedesmal
+4)" = m
+Also wird für k>> 0 aus (58) und (59):
+Han) = En vn {a0 m HD + an md} (61)
+zh = Ann, (|a(m, m 4 — | m}: (62)
+Aus (60) und (62) folgt
+la m +) (63)
+und dann aus (61)
+Wr, = Hin, 9) = voh(k + 3). (64)
+
+Nun wollen wir noch sehen, ob es möglich ist, daß es kein n gibt,
+für das der Fall a) gilt. Wir können dann, mit beliebigem n, anfangend,
+2 —n, und ny — n_ı bilden; zu jedem von diesen wieder m) — n,
+rn} =, und n_ı = N, nlı — n_2 usw. Auf diese Weise erhalten
+wir eine Zahlenreihe
+
+2 NM N No (65)
+und es gelten die Gleichungen (61), (62) für jedes k zwischen — oo
+und + oo. Das ist aber unmöglich; denn nach (62) bilden die Größen
+% = | (R+ 1%)? eine äquidistante Zahlenreihe, und da sie positiv
+sind, muß es eine kleinste geben. Den entsprechenden Index können wir
+wieder mit », bezeichnen und kommen damit auf den vorigen Fall zu-
+rück; es gelten also auch hier die Formeln (63), (64).
+
+Man sieht ferner: jede Zahl » muß unter den Zahlen n, enthalten
+sein; denn sonst könnte man mit n als Ausgangsgliede eine neue Reihe (65)
+bilden, wobei wieder die Formel (60) gilt. Die Ausgangsglieder beider
+Reihen hätten also dieselben Werte W, — H(nn), was unmöglich ist.
+
+Damit ist der Beweis geführt, daß die Indizes 0,1,2,3... so in
+eine neue Reihenfolge n,, N, ng, n,... umgeordnet werden können, daß
+die Formeln (63), (64) gelten; in diesen neuen Indizes hat dann die
+Lösung die Heisenbergsche Form (58). Diese erscheint also als
+„Normalform® der allgemeinen Lösung. Sie hat nach (64) die Eigen-
+schaft, daß
+
+Wayyı> War
+Fordert man umgekehrt, daß W, — H(nn) mit n stets wachsen soll,
+so wird notwendig n, = %k; dieses Prinzip legt also die Normalform
+
+--- Page 22 ---
+Zur Quantenmechanik. 879
+
+eindeutig fest. Aber hierdurch wird nur die Schreibweise fixiert und die
+Rechnung übersichtlicher gestaltet; physikalisch ist nichts Neues da-
+durch gegeben.
+
+Darin liegt ein tiefer Unterschied gegenüber der bisher gebräuch-
+lichen halbklassischen Bestimmung der stationären Zustände. Die
+klassisch berechneten Bahnen schließen sich kontinuierlich aneinander,
+wodurch auch in die nachträglich ausgesonderten Quantenbahnen von
+vornherein eine bestimmte Reihenfolge kommt. Die neue Mechanik stellt
+sich als wahre Diskontinuumstheorie dar, indem hier von solcher durch
+den physikalischen Vorgang definierten Reihenfolge der Quantenzustände
+keine Rede ist, sondern die Quantenzahlen wirklich nichts sind als unter-
+scheidende Indizes, die man nach irgendwelchen praktischen Gesichts-
+punkten (z. B. nach wachsender Energie W,) ordnen und normieren kann.
+
+86. Anharmonischer Oszillator. Die Bewegungsgleichungen
+
+dHoigtig=0 (66)
+geben zusammen mit der Quantenbedingung folgendes Gleichungssystem
+
+für die Elemente:
+(0 — a’ (nm))anm) +4 > a(nk)q(km) = 0, |
+h ( (67)
+-5 |
+
+Somhawhaln) —
+
+Wir suchen es durch Reihenentwicklungen
+
+o(nm) = @° (nm) +1 (nm) -- 2a (nm) --... | (68
+g(nm) = 2 (nm) +Ag® (mm) +2 a9 (nm) +... j
+zu lösen.
+Für A —= 0 hat man den im vorigen Paragraphen behandelten Fall
+des harmonischen Oszillators; wir schreiben die Lösung (858) in der Form
+
+g’ (nm) = mim + ba im (69)
+wo das Überstreichen die konjugiert-komplexe Größe bezeichnen soll.
+Bildet man das Quadrat und höhere Potenzen der Matrix g° — (g’(nm)),
+so treten Matrizen von ähnlicher Form auf, nämlich Summen von Gliedern
+
+om, = &n Ön, m-p+ Ei In—n, mı (70)
+Daher liegt es nahe, die Lösung in der Form
+2m) = (Aum, |
+
+9) am) = Yan + Wen
+
+1D (nm) = (am + (en, | ey
+
+--- Page 23 ---
+8830 M. Born und P. Jordan,
+
+anzusetzen, wobei immer ungerade und gerade Werte des Index p ab
+wechseln.
+In der Tat, setzt man das in die Näherungsgleichungen
+
+(0, — 0° (nm)?) gW (nm) — 20° (nm) a) (nm) g° (nm)
++ Dgq,(nk)g’(km) = 0, |
+j (2)
+I (0° (ak) (g’ (nk) g kn) + 4’ (ak) g°(kn))
+K
++oD(nk)g’(al)g’(kn)) = 0,
+(0; — 0° (nm)?) 9 (nm) — 20° (nm) a0) (nm) gi) (nm)
+— (00 (um)? + 20° (um) 02 (nm)) @° (nm)
++ D,(a’ (nk) U (km) + gO (nk) g’ (km)) — 0,
+E
+o (nk) (g (ni) g®) (km) + qU) (nk) gD (km)
++ 99 (nk) g’ (km)) + (nk) (g" (nk) gU) (km)
++4 (ni) 4’ (km)) + 0% (nl) (nk)g’(km)} — 0
+ein und beachtet die Multiplikationsregel
+Di Sonim om a, = Anntpntp+gbn mtr Ömm-p—u
+E
+
+a: (73)
+
+>
+
+k
+
+1
+
++ Mnntpon+p—g En Mint ya dnmentı (74)
++ Snn-pn—ptg&n—p Nn—p Ömmtp-g
++ Rnn-n.n 0 &n-pM—n-adnm+nt+n
+so sieht man, indem man die Faktoren von 6,,m—, einzeln Null setzt,
+daß sich durch den Ansatz (71) alle Bedingungen gerade erfüllen lassen
+und daß höhere Glieder in (71) identisch verschwinden würden.
+Im einzelnen gibt die Rechnung folgendes:
+Die erste der Gleichungen (72) liefert nach Einsetzen der Aus-
+drücke (71):
+20, im + Ian]? + Im-ı) od, |
+30 00 + m +1 0, | (75)
+
+1
+a 1 0,
+
+l
+
+die zweite ist identisch erfüllt. Man hat also:
+_ I? + la, _ıl?
+20)
+
+m Im +1,
+m 3
+3
+
+=
+
+(76)
+
+m
+
+--- Page 24 ---
+Zur Quantenmechanik. 881
+
+Die erste der Gleichungen (73) liefert:
+
+2m @henrı + Rama + 2m + Ana + ann — 0,
+— 8ER Un + min +ı + m+2m— 0, (77)
+a, 20,
+die zweite Gleichung ist nicht identisch erfüllt, sondern liefert eine Be-
+stimmungsgleichung für y,:
+
+Amt Gy Yn — mn—19n—1 — m _1Yn 1 +2|"® — 2len 2?
+
+2 2
+Bet Ban, pn, “
+a“ ©, “
+Die Lösung lautet:
+1
+= 5 lets), |
+° 79
+1 | 9)
+In = Ra: @n Om +1 @n +2
+0
+Setzt man ferner zur Abkürzung
+Nn = Ay Yn + An Yn, (80)
+
+so bestimmt sich 7 aus der Gleichung
+
+1 1 .
+N — Nn—1 = la |r 1? 4 zahl |
+
+° | ey)
+
+1
+— gl lan 2.
+
+Die Ausdrücke (76) und (79) zeigen, daß die Größen x, &, 9, sich
+durch die Lösung der nullten Näherung a, ausdrücken. Ihre Phasen sind
+also durch die des harmonischen Oszillators festgelegt. Anders scheint
+es bei der Größe y„ zu liegen; denn zwar ist 7, aus (81) eindeutig zu
+bestiumen, aber dann läßt sich y, aus (80) nicht völlig festlegen. Es ist
+wahrscheinlich, daß bei der folgenden Näherung eine ergänzende Be-
+stimmungsgleichung für y, entsteht; wir müssen diese Frage hier offen
+lassen, möchten aber auf ihre prinzipielle Bedeutung für die Geschlossen-
+heit der ganzen Theorie hinweisen. Denn es kommt für alle statistischen
+Fragen durchaus darauf an, ob unsere Vermutung richtig ist, daß von den
+Phasen der g(nm) eine in jeder Zeile (oder in jeder Kolonne) der Matrix
+unbestimmt bleibt.
+
+Zum Schluß wollen wir die expliziten Formeln angeben, die man
+erhält, wenn man die vorher ($ 5) gefundene Lösung des harmonischen
+
+--- Page 25 ---
+882 M. Born und P, Jordan,
+
+Oszillators einsetzt. Diese lautet im der Normalform nach (63):
+
+a —— h h
+= 9 = =:
+= Yon+Dem, 0 Im, — Bein, (2)
+Damit erhält man nach (76), (79), (81):
+[%
+= ET D,
+= lo + DR +DEMmtMmıD, (83)
+a
+m ve Va + FDRFd m Be lmtm+ıtm42);
+, 0. De, = |
+a __5e (84)
+DM n-1ı7 g Fr |
+also
+. 11 0?
+-1=-—-(@r+4)
+Na An 9 Fri rd
+_ - 11.0?
+An = In Yn + Am Yn = 9 Pral 132.
+°
+Setzt man y, —= |m|®Yn, so wird
+Nm 11 Er 85
+EBENE DEE Es ee Eee
+
+Mehr läßt sich in dieser Näherung über 4, nicht aussagen.
+
+Wir wollen aber die Schlußformeln unter der Annahme %, = @n
+ausschreiben. Dann lauten sie (bis auf Glieder von höherer als zweiter
+Ordnung in A):
+
+oma —-D—=o,—i nt
+
+(&%)
+ann — aD —2m,+..;;
+qm, a) —= -inantD+..
+aan —1) = Vene m- (1 +7 1 10. Bu
+(co)
+
+u(nn —?2) — 2 Demi d +.
+
+(nn —3) = „1 ri Yn@-Dn-2eilm-ı+m—2+n-3) +...
+120;
+
+--- Page 26 ---
+Zur Quantenmechanik. 883
+
+Wir haben auch die Energie direkt ausgerechnet und gefunden:
+, i 5.0? 17
+— —-\— 4: — — un.
+w= hn(n+5) A le)+ (88)
+
+Die Frequenzbedingung ist in der Tat erfüllt, denn man hat mit Rück-
+sicht auf (82):
+
+20? h.
+Mm — M-ı =hw—# vatees BrcH 1),
+h j
+mM—- M-2=2ln, +: = mn).
+
+An die Formel (88) kann man mit Heisenberg die Bemerkung knüpfen,
+daß schon in den Gliedern niederster Ordnung eine Abweichung von der
+klassischen Theorie vorhanden ist, die man durch Einführung einer „halb-
+zahligen“ Quantenzahl n’ — n-+t formal beheben kann. Übrigens
+stimmen unsere Ausdrücke &(n, » — 1) nach (86) und die klassischen
+Frequenzen genau überein. Denn die klassische Energie ist’):
+
+ww — Dr 4,
+also die klassische Frequenz:
+
+10w®
+Dir Pe
+
+1
+— Dunn y =; (m’® wen).
+
+5.02
+
+30,
+
+2
+
+On = nt:
+
+Wir haben schließlich geprüft, daß der Ausdruck (88) auch aus der
+Kramers-Bornschen Störungsformel erhalten werden kann (bis auf die
+
+additive Konstante).
+
+Kapitel IV. Bemerkungen zur Elektrodynamik.
+
+Nach Heisenberg sollen die Quadrate der Absolutwerte |q.(n m) |?
+der Elemente von q für den Fall, daß g kartesische Koordinate ist, maß-
+gebend für die Sprungwahrscheinlichkeiten sein. Wir möchten
+hier zum Schluß noch ausführen, in welcher Weise diese Annahme aus
+allgemeineren Überlegungen heraus eine Begründung erhalten kann. Not-
+wendig ist dazu ein Eingehen auf die Frage, wie die Grundgleichungen
+der Elektrodynamik im Sinne der neuen Theorie umzudeuten sind. Wir
+möchten aber betonen, daß die hier mitgeteilten Überlegungen nur vor-
+läufigen Charakter haben ; sie sollen unsere grundsätzliche Stellungnahme
+zu der Aufgabe erkennen lassen. Eine ausführliche Behandlung der hier
+
+1) S.M. Born, Atommechanik (Berlin 1925), 4. Kapitel, $42, 8. 294; in der
+
+Formel (6) ist a — / zu setzen, um mit unserem Ansatz in Übereinstimmung
+zu kommen.
+
+--- Page 27 ---
+884 M. Born und P, Jordan,
+
+auftretenden Fragen soll später gegeben werden, wobei vor allem das
+Verhältnis der dargelegten Theorie zur Theorie der Lichtquanten erörtert
+werden wird.
+
+Wir wollen hier nur solche Punkte zur Sprache bringen, die ohne
+Eingehen auf die exakte Form der Quantenbedingung für Systeme von
+mehreren Freiheitsgraden gewonnen werden können. Daß man dabei in
+der Elektrodynamik bereits ziemlich weit kommt, kann man durch fol-
+gende Überlegung einsehen. Der elektromagnetisch schwingende Hohl-
+raum stellt ein System von unendlich vielen Freiheitsgraden dar.
+Trotzdem reichen die in den vorangehenden Kapiteln entwickelten Grund-
+sätze, die sich ja nur auf Systeme von einem Freiheitsgrad beziehen, zu
+seiner Behandlung aus, weil er, nach Eigenschwingungen analysiert, in ein
+System ungekoppelter Oszillatoren übergeht. Es ist kaum ein Zweifel
+möglich, wie man dieses System zu behandeln hat. Dabei erweist sich
+der Umstand, daß die elektromagnetischen Grundgleichungen linear sind
+(Superpositionsprinzip), von besonderer Bedeutung; denn daraus folgt,
+‚daß die Ersatz-Öszillatoren harmonisch sind, und gerade beim har-
+monischen Oszillator besteht — im Gegensatz zum Verhalten anderer
+Systeme — die Gültigkeit des Energiesatzes unabhängig von der Quanten-
+
+bedingung: Aus H= ip! + 0!g)
+
+tolgt .
+H=31@p+pp+twdggtwgg
+3m(-g4P—-pga+Ppg+gP
+—U.
+
+Man wird daher erwarten, daß in entsprechender Weise die Integralsätze
+der Elektrodynamik des Vakuums (Energie- und Impulssatz) ganz all-
+gemein aus den matrizenmäßig umgedeuteten Max wellschen Gleichungen
+allein ohne Eingehen auf die Quantenbedingung zu gewinnen sind. Indem
+wir dies zeigen, gewinnen wir zugleich das Mittel, die Heisenbergsche
+Behauptung von der Bedeutung der |g(nm)|? zu begründen.
+
+87. Maxwellsche Gleichungen, Energie- und Impulssatz.
+Wir wollen verabreden, daß Vektoren; wie üblich, stets durch deutsche
+Buchstaben bezeichnet werden, während die Unterscheidung von Zahlen
+und Matrizen durch Schwach- uud Fettdruck beibehalten wird. Die
+Maßeinheiten wählen wir im Anschluß an das Lehrbuch von Abraham).
+
+Die elektromagnetischen Vorgänge im Vakuum wird man darstellen
+können als Superposition ebener Wellen. In einer solchen ebenen Welle
+
+I
+
+1) M. Abraham, Theorie der Elektrizität, I. Leipzig 1914.
+
+--- Page 28 ---
+Zur Quantenmechanik. 885
+
+werden wir die elektrische und die magnetische Feldstärke &, 9 als
+Matrizen ansehen, deren Elemente harmonisch schwingende ebene Wellen
+sind, also z. B. bei geeigneter Lage des Koordinatensystems
+
+€E= (& (nm) e? airam(e4)), (89)
+
+Freilich muß damit gerechnet werden, daß n, m sich im allgemeinen
+
+nicht mehr auf eine diskrete Menge von Werten beschränken und auch
+
+nicht mehr einzelne Zahlen, sondern Zahlensysteme (Vektoren) bezeichnen.
+
+Die Maxwellschen Gleichungen wird man als Matrizengleichungen
+beibehalten:
+
+2-6 rt El. (90)
+
+Die Difierentiationen nach x, %, 2, # sind dabei in jedem einzelnen Element
+der Matrix ausgeführt zu denken?).
+
+Wir wollen nun den Energie-Impulssatz ableiten; dazu ist es not-
+wendig, einige Bemerkungen über die Multiplikation von Matrizenvektoren
+vorauszuschicken.
+
+Wir definieren das skalare Produkt durch
+
+WB = AB = WB, 4 U,B, + U. 8, 1)
+das Vektorprodukt durch
+AB: = A,B. _— A.B,- (92)
+
+Da die Matrizenmultiplikation nicht kommutativ ist, gelten die Be-
+AB — BA, AB = (84
+
+im allgemeinen nicht.
+
+ziehungen
+
+Dagegen behaupten wir:
+
+div [AB] = (rot WB) — (U, rotB). (93)
+Wir definieren nun die Enerdichte W (als skalare Matrix) durch
+1
+W = pe (& m 9). (94)
+
+Dann wird nach (11)
+SW =EEHEE+HH+HH
+
+und nach (90):
+8r W = (&, 10: 9) + (rot 9, E) — (9, rot ©) — (rot E, 9),
+
+€
+
+1) Unter Umständen ist eine andere Auffassung des elektromagnetischen
+Feldes erforderlich, bei der die räumlichen Koordinaten nicht als Zahlen, sondern
+selbst wieder als Matrizen erscheinen; das hat eine entsprechende Änderung der
+Bedeutung der räumlichen Differenzialguotienten in den Maxwellschen Glei-
+chungen zur Folge. Wir kommen hierauf in der Fortsetzung der Arbeit zurück.
+
+--- Page 29 ---
+886 M. Born und P. Jordan,
+
+also nach (98) W+dvS = 0, (95)
+
+wo S=,_(EH-1HE). 8)
+
+Das ist der Poyntingsche Satz für die Matrizenelektrodynamik ;
+© bedeutet den Strahlvektor.
+
+In ähnlicher Weise Jäßt sich der Impulssatz ableiten: Man defi-
+niert die Maxwellschen Spannungen durch:
+
+T. = @-E-&9+9H-9—-9,
+
+(97)
+1
+Tu 5 &E. + &,6, + 9,9. + 9:9)
+und die Impulsdichte der Strahlung durch
+1 1
+g= „6= ,_,1E9- HE). (98)
+
+Dann erhält man durch ähnliche Rechnung:
+
+— _ Tor |, May, Max
+
+Gr Era ur de (99)
+
+Natürlich gewinnen diese Beziehungen an Übersichtlichkeit, wenn
+man die vierdimensionale Darstellungsweise der Relativitätstheorie benutzt.
+Eine systematische Behandlung der vierdimensionalen Vektoranalysis und
+der Relativitätstheorie auf der Basis der Matrizentheorie mit ihrer nicht-
+kommutativen Multiplikation soll an anderer Stelle gegeben werden.
+
+88. Kugelwellen. Strahlung eines Dipols. Indem wir
+unser Zäel, die Strahlung eines Oszillators zu berechnen, verfolgen, müssen
+wir jetzt Kugelwellen ins Auge fassen.
+
+Hierzu werden wir den Hertzschen Vektor 3 als Matrizenvektor
+einführen ; aus 3 gewinnt man & und $ vermöge der Gleichungen :
+
+EG= graddiv 3,3, 9= a r0t 3. (100)
+In der klassischen Theorie ist für eine Kugelwelle 3 proportional mit
+2 2Rrr(u-7),
+r
+
+Nun läßt sich bekanntlich dieser Ausdruck als Superposition ebener
+Wellen schreiben !), auf Grund der Identität
+
+er ÄRl ed ;..
+- = [ do; 103)
+
+1) Siehe etwa P.Debye, Ann.d, Phys. 30, 755, 1909; Formel (7"), S. 758.
+
+--- Page 30 ---
+Zur Quantenmechanik. 887
+
+dabei ist r der Zahlenvektor vom Zentrum der Kugelwelle zum Auf-
+punkt, 8 ein Einheitsvektor, do = d8,d6,d®, Mithin läßt sich auch
+in unserer Theorie aus ebenen Wellen, dargestellt durch Matrizen der
+Form (89), mittels Integration über die Richtung der Wellennormale
+die Darstellung einer Kugelwelle gewinnen:
+
+2rirtam)(t—
+3 (me)
+
+dabei stellt die Matrix eq — (eq(nm)) das elektrische Moment dar, das
+die Welle erregt.
+
+Die Rechnungen, die von hier zur Bestimmung des elektromagne-
+tischen Feldes und der Ausstrahlung führen, sind dieselben wie in der
+klassischen Theorie, da x als Zahlenvektor mit jeder Matrix vertauschbar
+
+; (102)
+
+ist. Man erhält el.
+= |
+(103)
+1 on
+= 55 an)
+und daraus e te
+S-,.,,6ä (104)
+
+Die Integration über alle Raumrichtungen erfolgt in derselben Weise
+wie in der klassischen Theorie. Das Resultat für die pro Sekunde aus-
+
+gestrahlte Energie lautet: 28,
+[sa = 5 @. (105)
+
+Um die mittlere Ausstrahlung zu erhalten, hat man diesen Ausdruck
+über die Zeit zu mitteln; dadurch entsteht die Diagonalmatrix :
+2 R
+38 . (106)
+Schwingt der Oszillator in einer festen Richtung, so können wir den
+Matrizenvektor q durch den Matrizenskalar g = (q(nm)) ersetzen; dann
+wird die Ausstrahlung
+Ze 32nte
+En a (Zreniaann). (107)
+Wir können hier noch keine vollständige Theorie der Ausstrahlung
+geben, aus der man zwangsläufig auf die Zuordnung der einzelnen Glieder
+dieser Reihe zu den stationären Zuständen schließen könnte; denn dazu
+wäre eine genaue Untersuchung der Rückwirkung der Strahlung auf den
+Oszillator nötig, also eine Theorie der Dämpfung. Darauf werden wir
+später zurückkommen. Hier wollen wir nur prüfen, ob die Ausstrahlung
+wirklich durch die Größen |q(rk)|? bestimmt wird; der Ausdruck (107)
+
+
+--- Page 31 ---
+888 M. Born und P. Jordan, Zur Quantenmechanik.
+
+zeigt, daß das der Fall ist, aber zugleich sehen wir, daß die hingeschriebene
+Größe nicht die gesamte, von einem stationären Zustand ausgehende
+spontane Strahlung ist. Denn die spontanen Übergänge erfolgen immer
+nur nach Zuständen kleinerer Energie, oder bei geeigneter Numerierung
+nach Zuständen kleinerer Quantenzahl. Wir können nun in ganz formaler
+Weise angeben, wie sich dieser Umstand in unserer Theorie ausdrücken
+wird; dazu bilden wir nicht den Mittelwert, sondern die Diagonal-
+summe der Strahlungsmatrix (105); das gibt
+
+28. 32 nte
+2558) —= I, Dvaht|gak)]. 108
+= Zrontlaon| (108)
+Hier können wir rechter Hand umsummieren und schreiben:
+64 nte®
+5 I(Zren.luon]‘). (109)
+n \kzn
+
+Damit ist die gewünschte Zuordnung erreicht: Zu jedem Zustand n
+gehört die Strahlung, die den Übergängen zu allen Zuständen k <n ent-
+spricht, jede mit der aus der klassischen Theorie bekannten Intensität.
+Das stimmt mit der Erfahrung überein, wenn man voraussetzt, daß die
+Indizes n nach wachsenden Energien W,, geordnet sind.
+
+Damit ist Heisenbergs Annahme in dem oben gekennzeichneten,
+beschränkten Sinne gerechtfertigt.
+
+Es sei gleich hier betont, daß diese Feststellung bezüglich der
+Sprungwahrscheinlichkeiten unabhängig ist von der Voraussetzung der
+Nichtentartung des Systems, d. h. der Verschiedenheit aller W,. Zum
+Schluß heben wir noch hervor, daß mit den Übergangswahrscheinlich- -
+keiten auch die statistischen Gewichte der Zustände festgelegt
+sind, und zwar muß jedem der durch eine Zeile und Spalte bzw. ein
+Diagonalglied von W gekennzeichneten Zustände das gleiche statistische
+Gewicht zugeschrieben werden. Daß dieses Ergebnis (in seiner Ver-
+allgemeinerung auf Systeme von mehreren Freiheitsgraden) von selbst
+auf das Grundprinzip der Bose-Einsteinschen Lichtquantenstatistik
+führt, soll später erläutert werden.
+
+Anmerkung bei der Korrektur. Die angekündigte Ver-
+allgemeinerung der Theorie auf mehrere Freiheitsgrade ist inzwischen.
+gemeinsam mit Herrn W. Heisenberg ausgearbeitet worden und wird
+in der Fortsetzung dieser Arbeit dargestellt werden. Dort werden auch
+verschiedene schon hier berührte Punkte ausführlicher erörtert werden,
+die inzwischen weiter geklärt werden konnten.

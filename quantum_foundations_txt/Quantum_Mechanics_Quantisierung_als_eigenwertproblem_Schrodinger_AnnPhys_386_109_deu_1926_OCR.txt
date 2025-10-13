@@ -1,0 +1,1482 @@
+
+--- Page 1 ---
+1926 M 18
+
+ANNALEN DER PHYSIK
+
+VIERTE FOLGE. BAND 81
+
+1. Quantisierung als Eigenwertproblem;
+von E. Schrödinger
+
+(Vierte Mitteilung)
+
+Inhaltsübersicht: $ 1. Elimination des Energieparameters aus
+der Schwingungsgleichung. Die eigentliche Wellengleichung. Nicht-
+konservative Systeme. — $ 2. Ausdehnung der Störungstheorie auf Stö-
+rungen, welche explizite die Zeit enthalten. Dispersionstheorie. —
+$ 3. Ergänzungen zu $ 2: Angeregte Atome, entartete Systeme,
+Streckenspektrum. — $ 4. Erörterung des Resonanzfalles. — 8 5. Ver-
+allgemeinerung für eine beliebige Störung. — $ 6. Relativistisch-magne-
+tische Verallgemeinerung der Grundgleichungen. — $ 7. Über die physi-
+kalische Bedeutung des Feldskalars.
+
+$ 1. Elimination des Energieparameters aus der
+Schwingungsgleichung. Die eigentliche Wellengleichung.
+Nichtkonservative Systeme
+
+Die Wellengleichung (18) bzw. (18°) von S. 510 der zweiten
+Mitteilung
+ME-P My
+
+16)) 4v— E: dr =0
+bzw.
+6) vr Ny=0,
+
+welche das Fundament der in dieser Abhandlungsreihe ver-
+suchten Neubegründung der Mechanik bildet, leidet an dem
+Übelstand, daß sie das Veränderungsgesetz für den „mechani-
+schen Feldskalar“ ıy nicht einheitiich und nicht allgemein aus-
+spricht. Gleichung (1) enthält nämlich den Energie- oder
+Frequenzparameter E und ist, wie a. a. O. ausdrücklich be-
+tont, mit einem bestimmten E-Wert gültig für Vorgänge, welche
+
+1) Vgl. Ann. d. Phys. 79. 8. 361. 489; 80. 8. 437. 1926; ferner über
+den Zusammenhang mit der Heisenbergschen Theorie: ebendort
+79. 8. 734.
+
+Annalen der Physik. IV. Folge. Bl. 8
+
+--- Page 2 ---
+110 E. Schrödinger
+
+von der Zeit ausschließlich durch einen bestimmten periodischen
+Faktor abhängen
+
+&) ymP-R. (.
+Gleichung (1) ist daher in Wirklichkeit um nichts allgemeiner
+als die Gleichung (1’), welche dem eben genannten Umstand
+Rechnung trägt und die Zeit gar nicht mehr enthält.
+
+Wenn wir also Gleichung (1) oder (1) gelegentlich als
+„Wellengleichung“ bezeichnet haben, so geschah das eigentlich
+zu Unrecht, sie wäre richtiger als „Schwingungs-“ oder „Ampli-
+tuden“gleichung zu bezeichnen. Wir fanden aber mit ihr das
+Auslangen, weil ja an diese das Sturm-Liouvillesche Eigen-
+wertproblem sich knüpft — ganz ebenso wie bei dem mathe-
+matisch völlig analogen Problem der freien Schwingungen von
+Saiten und Membranen — und nicht an die eigentliche Wellen-
+gleichung.
+
+Dabei hatten wir bisher stets vorausgesetzt, daB die po-
+tentielle Energie 7 eine reine Koordinatenfunktion ist und
+nicht explizite von der Zeit abhängt. Es besteht aber das
+dringende Bedürfnis, die Theorie auf nichtkonservative Systeme
+auszudehnen, weil sich nur auf diese Weise das Verhalten des
+Systems unter der Einwirkung vorgegebener äußerer Kräfte,
+z. B. einer Lichtwelle oder eines vorüberfliegenden fremden
+Atoms, studieren läßt. Sobald nun aber 7 die Zeit explizite
+enthält, ist es offenbar unmöglich, der Gleichung (1) bzw. (1’)
+zu genügen durch eine Funktion y, welche nur nach (2) von
+der Zeit abhängt. Man findet also dann mit der Amplituden-
+gleichung nicht mehr das Auslangen, sondern muß auf die
+eigentliche Wellengleichung greifen.
+
+Für konservative Systeme läßt sich dieselbe leicht angeben.
+(2) ist ja gleichbedeutend mit
+
+r3 2 m?
+®) a
+Aus (1’)und (3) kann man # durch Differentiationen eliminieren
+und erhält in leichtverständlicher symbolischer Schreibweise
+3 2 2
+(a (ru HE 5E 0:
+Dieser Gleichung hat jedes zu genügen, welches nach (2),
+jedoch mit beliebigem E, von der Zeit abhängt; folglich auch
+
++
+
+2rı Et
+h
+
+
+--- Page 3 ---
+Quantisierung als Eigenwertproblem 111
+
+jedes , das sich durch eine Fourierreihe nach der Zeit ent-
+wickeln läßt (natürlich mit Koordinatenfunktionen als Koeffhi-
+zienten). Gleichung (4) ist daher offenbar die einheitliche und
+allgemeine Wellengleichung für den Feldskalar ıy.
+
+Sie ist, wie man sieht, nicht mehr von dem ganz einfachen
+Typus der schwingenden Membran, vielmehr in den Koordinaten
+von der vierten Ordnung und von sehr ähnlichem Typus, wie
+er bei vielen Problemen der Hlastizitätstheorie vorkommt.!)
+Man braucht davon jedoch keine übermäßige Komplikation der
+Theorie zu befürchten oder gar die Notwendigkeit einer
+Revision der bisher angegebenen, an Gleichung(1’) anknüpfenden
+Methoden. Enthält 7 die Zeit nicht, so kann man, von (4)
+ausgehend, den Ansatz (2) machen und darnach den Operator
+in (4) folgendermaßen aufspalten:
+
+21 2 a
+on (Serra
+Diese Gleichung kann man versuchsweise aufspalten in zwei
+durch „entweder — oder“ verbundene Gleichungen, nämlich
+in Gleichung (1) und eine andere, die sich von (1’) nur da-
+durch unterscheidet, daß in ihr der Eigenwertparameter
+minus Z heißt, statt plus Z, was nach (2) nicht zu neuen Lö-
+sungen führt. Die Aufspaltung von (4') ist nicht zwangläufig,
+weil für Operatoren nicht der Satz gilt, daß „ein Produkt nur
+verschwinden kann, wenn mindestens ein Faktor verschwindet“.
+Dieser Mangel an Zwangläufigkeit haftet ja aber den Methoden
+zur Lösung partieller Differentialgleichungen auf Schritt und
+Tritt an. Seine nachträgliche Rechtfertigung findet das Ver-
+fahren durch den Nachweis der Voliständigkeit der auf-
+gefundenen Eigenfunktionen als Funktionen der Koordinaten.
+Sie gestattet, in Verbindung mit der Tatsache, daß nicht
+nur der Realteil, sondern auch der Imaginärteil von (2) der
+Gleichung (4) genügt, beliebige Anfangsbedingungen für » und
+örylöt zu erfüllen.
+
+Wir sehen also, daß die Wellengleichung (4), welche das
+Dispersionsgesetz schon in sich trägt, wirklich als Grundlage
+
+2) ,=0.
+
+ou
+?
+
+1) 2.B. bei der schwingenden Platte: 44u + Er
+
+Courant-Hilbert, Kap. V. 8 8. S. 256.
+
+=0. Vgl.
+
+8*
+
+--- Page 4 ---
+112 E. Schrödinger
+
+der bisher entwickelten Theorie konservativer Systeme gelten
+kann. Ihre Verallgemeinerung für den Fall einer zeitlich
+variablen Potentialfunktion erfordert immerhin einige Vorsicht,
+weil dabei Glieder mit zeitlichen Ableitungen von 7 auftreten
+können, über die uns die Gleichung (4) nach der Art ihrer
+Gewinnung natürlich keinen Aufschluß geben kann. In der
+Tat stößt man nun bei dem Versuch, die Gleichung (4), wie
+sig dasteht, auf nichtkonservative Systeme zu übertragen, auf
+Komplikationen, die von einem Glied mit 6 7/7 herzurühren
+scheinen. Ich habe daher im folgenden einen etwas anderen
+Weg betreten, der rechnerisch außerordentlich viel einfacher
+ist und den ich für prinzipiell richtig halte.
+
+Man muß die Ordnung der Wellengleichung nicht auf vier
+hinaufdrücken, um den Energieparameter aus ihr zu entfernen.
+Die für die Gültigkeit von (1’) erforderliche Zeitabhängigkeit
+von »» läßt zich statt durch (8) auch durch
+
+n e 2ni
+@ ehe
+ausdrücken. Man kommt dann zu einer der beiden Gleichungen
+
+In! Ani Oy
+
+e) Ivy Fur gen
+
+Wir werden verlangen, daß die komplexe Wellenfunktion ıy einer
+dieser beiden Gleichungen genüge. Da alsdann die konjugiert
+komplexe Funktion «5 der anderen Gleichung genügt, wird man
+als reelle Wellenfunktion (wenn man sie benötigt) den Realteil
+von » ansehen dürfen. — Im Fall eines konservativen Systems
+ist (4”) mit (4) wesentlich äquivalent, da sich, wenn 7 die Zeit
+nicht enthält, der reelle Operator in das Produkt der zwei
+konjugiert komplexen zerlegen läßt.
+
+$ 2. Ausdehnung der Störungstheorie auf Störungen, welche
+explizite die Zeit enthalten. Dispersionstheorie
+Das Hauptinteresse richtet sich nicht auf Systeme, bei
+denen die zeitlichen Schwankungen der potentiellen Energie 7
+von derselben Größenordnung sind, wie die räumlichen,
+sondern auf Systeme, die, an sich konservativ, durch Hinzu-
+tritt kleiner vorgegebener Funktionen der Zeit (und der
+
+--- Page 5 ---
+Quantisierung als Eigenwertproblem 118
+
+Koordinaten) zur potentiellen Energie gestört werden. Wir
+machen also den Ansatz:
+
+(5) V=rk)+rd),
+
+wo z, wie schon früher öfters, als Vertreter der Gesamtheit
+der Konfigurationskoordinaten steht. Das ungestörte Eigen-
+wertproblem (r = 0) sehen wir als gelöst an. Dann läßt sich
+das Störungsproblem durch Quadraturen lösen.
+
+Wir wollen jedoch nicht sogleich das allgemeine Problem
+behandeln, sondern greifen aus der großen Zahl wichtiger An-
+wendungen, die unter die obige Fragestellung fallen, wegen
+seiner hervorstechenden Bedeutung, die eine getrennte Behand-
+lung wohl auf alle Fälle rechtfertigt, das Problem der Dis-
+persionstheorie heraus. Hier rühren die störenden „Kräfte her
+von einem im Bereich des Atoms homogenen und synchron
+schwingenden elektrischen Wechselfeld, wir haben also, wenn
+es sich um linear polarisiertes monochromatisches Licht von
+der Frequenz v handelt, für das Störungspotential den Ansatz
+zu machen:
+
+(6) rl) = Alr)cos2nvt
+also
+(5) V=P,(X) + Als)cos?nvt.
+
+Hier ist A(x) das negative Produkt der Lichtamplitude in die-
+jenige Koordinatenfunktion, welche nach der gewöhnlichen
+Meehanik die Komponente des elektrischen Moments des Atoms
+in Richtung des elektrischen Lichtvektors bedeutet (etwa
+— Fde,z, wenn F die Lichtamplitude, e,, z, die Ladungen
+und z-Koordinaten der Massenpunkte, und das Licht in der
+z-Richtung polarisiert ist (wir entnehmen den zeitlich variablen
+Teil der Potentialfunktion mit ebensoviel oder ebensowenig
+Recht der gewöhnlichen Mechanik, wie früher, z. B. beim
+Keplerproblem, den konstanten).
+Mit dem Ansatz (5’) lautet Gleichung (4”):
+
+mw EP, + Austargyr tt demo.
+
+Für 4=0 verwandeln sich diese Gleichungen durch den
+Ansatz:
+2riEt
+
+8 van ® ,
+
+
+--- Page 6 ---
+114 E. Schrödinger
+
+(der jetzt zunächst nicht als „pars realis“, sondern im eigent-
+lichen Sinn gemeint ist), in die Amplitudengleichung (1’) des
+ungestörten Problems, und man weiß, (vgl. $ 1), daß auf diese
+Weise die Gesamtheit der Lösungen des ungestörten Problems
+gefunden wird. Es seien
+
+E und u); h=1,2,3...
+
+die Eigenwerte und normierten Eigenfunktionen des ungestörten
+Problems, die wir als Bekannt ansehen und, um uns nicht an
+Nebenfragen zu verlieren, die besonders zu überlegen sein
+werden, als diskret und untereinander verschieden aunehmen
+wollen (nichtentartetes System ohne Streckenspektrum).
+
+Lösungen des gestörten Problems werden wir dann, ganz
+genau wie im Falle eines von der Zeit unabhängigen Störungs-
+potentials, in der Nachbarschaft jeder möglichen Lösung des
+ungestörten Problems zu suchen haben, also in der Nachbar-
+schaft einer beliebigen Linearkombination mit konstanten
+Koeffizienten der [nach (8) mit den gehörigen Zeitfaktoren
+
+AriB,t
+
+iz beheftenden] x,(z). Die in der Nachbarschaft
+einer bestimmten Linearkombination gelegene Lösung des ge-
+störten Problems wird physikalisch die Bedeutung haben, daß
+sie es ist, welche sich zunächst einstellt, wenn beim Eintreffen
+der Lichtwelle gerade diese bestimmte Linearkombination von
+freien Eigenschwingungen vorlag (vielleicht mit geringfügigen
+Änderungen beim Vorgang des „Aufschaukelns“),
+
+Da nun aber die Gleichung auch des gestörten Problems
+
+homogen ist — dieser Mangel an Analogie mit den „er-
+zwungenen Schwingungen“ der Akustik sei nachdrücklich
+hervorgehoben! — so genügt es offenbar, die gestörte Lösung
+in der Nachbarschaft jedes einzelnen
+
+2rik,t
+©) ua
+
+aufzusuchen, welche man alsdann ad libitum linear kombinieren
+kann, ganz ebenso wie die ungestörten Lösungen.
+Wir machen also jetzt zur Lösung der ersten Gleichung {7)
+den Ansatz:
+Laiz,t
+
+(10) v=nlße " +wwß).
+
+
+--- Page 7 ---
+Quantisierung als Eigenwertproblem 115
+
+[Das untere Vorzeichen, d.h. die zweite Gleichung (7), lassen
+wir fortan beiseite, sie würde nichts Neues liefern.] Das Zu-
+satzglied w(x, ) darf als klein angesehen, sein Produkt mit
+dem Störungspotential darf vernachlässigt werden. Berück-
+sichtigt man das beim Einsetzen von (10) in (7) und berück-
+sichtigt man, daß u,(z) und Z, Eigenfunktion und Eigenwert
+des ungestörten Problems sind, so kommt:
+
+Aw — In: r ani dw _ 8m? AcosInvt ae
+cin) w EIrU-T 7, feos2nvtu,e
+Amt Brit m+an) Brit (B-hn)
+rl ywele no +e ).
+
+Dieser Gleichung ist leicht und wesentlich zur durch den
+Ansatz zu genügen:
+
+Brillen + Een an
+
+wenn man die zwei Funktionen w; bzw. den zwei Gleichungen
+unterwirft
+
+1) Au + Eh Pu = HA.
+
+Dieser Schritt ist wesentlich eindeutig. Zwar scheint es zu-
+nächst, daß man zu (12) noch ein beliebiges Aggregat un-
+gestörter Eigenschwingungen hinzufügen kann. Allein dieses
+Aggregat müßte klein von erster Ordnung angenommen werden
+(da diese Annahme über w gemacht ist) und bietet dann vor-
+läufig kein Interesse, da es höchstens Störungen von der
+zweiten Ordnung hervorruft.
+
+In den Gleichungen (13) haben wir nun endlich jene in-
+homogenen Gleichungen vor uns, auf die zu stoßen wir füglich
+erwarten durften — trotz des oben betonten Mangels an
+Analogie mit eigentlichen erzwungenen Schwingungen. Dieser
+Mangel an Analogie ist außerordentlich wichtig und gibt sich
+in den Gleichungen (18) in folgenden zwei Umständen kund.
+Erstens tritt als „zweites Glied“ („erregende Kraft‘) nicht die
+Störungsfunktion A(x) allein auf, sondern ihr Produkt mit der
+schon vorhandenen freien Schwingungsamplitude. Das ist un-
+erläßlich, um den physikalischen Tatsachen gerecht zu werden,
+denn die Reaktion des Atoms auf eine einfallende Lichtwelle
+
+(12) w=w,(z)e
+
+--- Page 8 ---
+116 E. Schrödinger
+
+hängt in eminentem Maße von dem Zustand ab, in welchem
+das Atom sich gerade befindet, während die erzwungenen
+Schwingungen einer Membran, Platte usw. bekanntlich ganz
+unabhängig sind von den eventuell übergelagerten Eigen-
+schwingungen, mithin ein ganz unbrauchbares Bild liefern
+würden, Zweitens tritt auf der linken Seite von (13) an der
+Stelle des Eigenwertes, d. h. als „erregende Frequenz“ nicht
+die Frequenz v der Störungskraft allein auf, vielmehr das eine
+Mal ihre Summe, das andere Mal ihre Differenz gegen die der
+schon vorhandenen freien Schwingung. Das ist gleichfalls eine
+unerläßliche Forderung, denn sonst würden die Eigenfrequenzen
+selbst, die doch den Termfrequenzen entsprechen, als Resonanz-
+stellen fungieren, und nicht wie zu fordern ist, und wie
+Gleichung (13) wirklich ergibt, die Differenzen der Eigen-
+frequenzen und zwar wie man mit Befriedigung erkennt: nur
+die Differenzen einer Eigenfrequenz, die wirklich angeregt ist,
+gegen alle übrigen, nicht die Differenzen von Eigenfrequenz-
+paaren, von denen keine angeregt ist.
+
+Um dies genauer zu überblicken, führen wir das Lösungs-
+verfahren bis zu Ende. Nach wohlbekannter Methode!) finden
+wir als eindeutige Lösungen von (18):
+
+1 ST _a ml
+us ED nz
+mit u
+(15) a, = [A@utelu, (e(ddr.
+
+e(z) ist die „Dichtefunktion“, d. h. diejenige Funktion der
+Lagekoordinaten, mit der Gleichung (1) multipliziert werden
+muß, um sie zu einer selbstadjungierten zu machen. Die u, (r)
+sind als normiert vorausgesetzt. Ferner ist vorausgesetzt, daß
+hv mit keiner der Eigenwertdifferenzen E,— E, genau über-
+einstimmt. Von diesem „Resonanzfall® wird später die Rede
+sein (vgl. $ 4).
+
+Bilden wir nun aus (14) nach (12) und (10) die gesamte
+gestörte Schwingung, so ergibt sich:
+
+1) Vgl. 3. Mitteilung 8$ 1 u. 2, Text bei Gleichungen (8) u. (24).
+
+--- Page 9 ---
+Quantisierung als Eigenwertproblem 117
+
+Brit
+| vanlge
+(16) a Zul atns) Zeit hm,
++ + Ian) arte Dh
+
+Es schwingen also im Störungsfalle mit jeder freien Schwingung
+u,(z) alle jene Schwingungen z, (z) in kleiner Amplitude mit,
+für welche a, +0. Es sind das genau diejenigen, welche,
+wenn sie mit «, als freie Schwingungen zusammenbestehen, zu
+einer Ausstrahlung Anlaß geben, die (ganz oder teilweise) in
+der Polarisationsrichtung der einfallenden Welle polarisiert ist.
+Denn a,,' ist ja, von einem Faktor abgesehen, nichts anderes
+als die in diese Polarisationsrichtung fallende Amplituden-
+komponente des mit der Frequenz (Z, — E,)/h oszillierenden
+elektrischen Moments des Atoms nach der Undulationsmechanik,
+welches beim Zusammenbestehen von z, und z, auftritt.!) —
+DasMitschwingen findet jedoch nicht mit der diesenSchwingungen
+eigentümlichen Eigenfrequenz E,/h, auch nicht mit der Fre-
+quenz » der Lichtwelle statt, vielmehr mit der Summe und
+mit der Differenz von E,/h (d. i. die Frequenz der einen be-
+stehenden freien Schwingung) und ».
+
+Als reelle Lösung kann der Realteil oder der Imaginärteil
+von (16) betrachtet werden. — Wir operieren aber im folgenden
+mit der komplexen Lösung selbst.
+
+Um die Bedeutung unseres Ergebnisses für die Dispersions-
+theorie zu erkennen, hat man die Ausstrahlung zu untersuchen,
+die aus dem Zusammenbestehen der erregten Zwangsschwingungen
+mit der ursprünglich schon vorhandenen freien Schwingung
+entspringt. Bilden wir zu dem Zweck nach dem bisher stets
+benutzten Verfahren?) — eine Kritik folgt im 87 — das
+Produkt der komplexen Wellenfunktion (16) in den konjugiert
+komplexen Wert, d.h. also die Norm der komplexen Wellen-
+funktion . Dabei beachten wir, daß die Störungsglieder klein
+
+1) Vgl. das Folgende und 8 7.
+
+2) Vgl. Ann. d. Phys. 79. S. 755. 1926; ferner die Berechnung der
+Starkeffektintensitäten in der dritten Mitteilung. An der erstgenannten
+
+Stelle wurde statt y 9% der Realteil von yır vorgeschlagen. Das war ein
+Fehlgriff, der schon in der 3. Mitt, verbessert wurde.
+
+--- Page 10 ---
+118 E. Schrödinger
+
+sind, so daß ihre Quadrate und Produkte untereinander bei-
+seite zu lassen sind. Man erhält nach leichter Reduktion}:
+
+un vo=ular+ a
+
+Nach der heuristischen Hypothese über die elektrodynamische
+Bedeutung des Feldskalars , die uns beim Starkeffekt des
+Wasserstofis zu den richtigen Auswahl- und Polarisationsregeln
+und zu einer recht befriedigenden Darstellung der Intensitäts-
+verhältnisse geführt hat, stellt die vorstehende Größe — von
+einer multiplikativen Konstante abgesehen — die Dichte der
+Elektrizität als Funktion der Raumkoordinaten und der Zeit
+dar, wenn x nur drei Raumkoordinaten vertritt, d.h. wenn es
+sich um das Zinelektronenproblem handelt. In sinngemäßer
+Verallgemeinerung dieser Hypothese — worüber Näheres im
+87 — sehen wir jetzt, im allgemeinen Fall, als Dichte der
+Elektrizität, die mit einem der klassisch-mechanischen Massen-
+punkte „verknüpft“ ist, oder „von ihm herrührt“ oder „ihm
+wellenmechanisch entspricht“, folgendes an: das mit einer ge-
+wissen Konstante, der klassischen „Ladung“ des betreffenden
+Massenpunktes, multiplizierte Integral von y über alle die-
+jenigen Systemkoordinaten, welche klassisch-mechanisch die
+Lage der übrigen Massenpunkte festlegen. Die gesamte La-
+dungsdichte in einem Raumpunkt wird dann dargestellt durch
+die über alle Massenpunkte erstreckte Summe der genannten
+Integrale.
+
+Um dann irgendeine Raumkomponente des gesamten
+wellenmechanischen Dipolmomentes als Funktion der Zeit zu
+finden, hat man nach dieser Hypothese den Ausdruck (17)
+mit derjenigen Koordinatenfunktion zu multiplizieren, welche
+hlassisch-mechanisch die betreffende Dipolkomponente als Funktion
+der Konfiguration des Punktsystems gibt, also z.B. mit
+
+(18) M,= Day: ;
+
+1) Wir nehmen einfachheitshalber, wie bisher stets, die Eigen-
+funktionen %, (x) als reell an, bemerken aber, daß es unter Umständen
+sehr viel bequemer ja geradezu geboten ist, mit komplexen Aggregaten
+der reellen Eigenfunktionen zu arbeiten, z.B. bei den Eigenfunktionen
+
+des Keplerproblems mit e#”*° statt mit nm p.
+
+--- Page 11 ---
+Quantisierung als Bigenwertproblem 119
+
+wenn es sich um das Dipolmoment in der y-Richtung handelt.
+Sodann hat man über alle Konfigurationskoordinaten zu inte-
+grieren.
+
+Führen wir das aus. Setzen wir zur Abkürzung
+
+19) eg BAOTAOUBOTIOLE
+
+Verdeutlichen wir ferner die Definition der a,,' nach (15),
+indem wir uns erinnern, daß, wenn der einfallende elektrische
+Lichtvektor. durch
+
+(20) E, = Feos2nvt
+gegeben ist, A(x) die Bedeutung hat
+
+eine,
+| wobei 4, (a) = Dez.
+
+Setzt man dann, analog mit 1
+
+ai)
+
+(22) = [M, ()u,(@)u,(r)o()dz ,
+
+so ist a, =— Fa,, und man findet durch Ausführung der
+geplanten Integration:
+
+[ws odr=a,
+
+o
+
+(En — Ei) Qpn Örn
+
++2Fcos2nvt > Bam
+a=1
+
+(23)
+
+für das resultierende elektrische Moment, dem die Sekundärstrahlung
+zuzuschreiben ist, zu der die einfallende Welle (20) Anlaß gibt.
+
+Für die Ausstrahlung kommt es natürlich nur auf den
+zweiten, zeitlich variablen Teil an, während der erste das zeit-
+lich konstante Dipolmoment darstellt, das mit der usprünglich
+bestehenden freien Schwingung eventuell verknüpft ist. Dieser
+variable Teil sieht ziemlich vernünftig aus und dürfte allen
+Anforderungen entsprechen, die man an eine „Dispersions-
+formel“ zu stellen gewohnt ist. Man beachte vor allem das Auf.
+treten auch derjenigen, sogenannten „negativen“ Glieder, welche
+— in der üblichen Ausdrucksweise — der Übergangsmöglichkeit
+auf ein tieferes Niveau (Z, < E,) entsprechen und auf welche
+
+--- Page 12 ---
+120 E. Schrödinger
+
+zuerst Kramers!) auf Grund korrespondenzmäßiger Über-
+legungen die Aufmerksamkeit gelenkt hat. Überhaupt ist unsere
+Formel — trotz der sehr verschiedenen Bezeichnungs- und
+Denkweise — wohl als formal identisch mit der Kramerschen
+Sekundärstrahlungsformel zu bezeichnen. Der wichtige Zu-
+sammenhang der Sekundärstrahlungskoeffizienten mit den spon-
+tanen Strahlungskoeffizienten a,,, d,, ist in Evidenz gesetzt
+und zwar wird die Sekuudärstrahlung auch hinsichtlich ihres
+Polarisationszustandes genau beschrieben.?)
+
+Was den Absolutbetrag der gestreuten Strahlung bzw. der
+induzierten Dipolmoments anlangt, so möchte ich glauben, daß
+auch er durch Formel (23) richtig wiedergegeben wird, obwohl
+ein Fehlgriff im Zahlenfaktor beim Ansetzen der oben ein-
+geführten heuristischen Hypothese selbstverständlich im Bereich
+der Möglichkeit liegt. Die physikalische Dimension ist jeden-
+falls die richtige, denn da die Quadratintegrale der Eigen-
+funktionen auf Eins normiert sind, sind die a,,, d,, nach (18),
+(19), (21), (22) elektrische Momente. Das Verhältnis des in-
+duzierten Dipolmoments zum spontanen ist, wenn » von der
+betreffenden Emissionsfrequenz weit ab liegt, größenordnungs-
+mäßig gleich dem Verhältnis der potentiellen Zusatzenergie Fa, ,
+zur „Energiestufe“ &,— E,.
+
+83. Ergänzungen zu $2: Angeregte Atome, entartete Systeme,
+Streckenspektrum
+
+Der Übersichtlichkeit wegen wurden im vorigen Paragraph
+einige spezielle Annahmen gemacht und manche Fragen bei-
+seite gesetzt, die nun nachträglich zu überlegen sind.
+
+Zunächst: was geschieht, wenn die Lichtwelle das Atom
+
+1) H.A. Kramers, Nature 10. Mai 1924; ebendort 30. August 1294;
+H. A. Kramers u. W. Heisenberg, Ztschr. f. Phys. 31. S. 681. 1925.
+Die am letzteren Ort gegebene korrespondenzmäßige Beschreibung der
+Polarisation des Streulichts (Gl. 27) ist mit der unseren formal fast
+identisch.
+
+2) Es ist wohl kaum nötig, zu sagen, daß die beiden Richtungen,
+die wir einfachheitshalber als „x-Richtung‘“ und „y-Richtung‘ bezeichnet
+haben, nicht gerade zueinander senkrecht zu sein brauchen. Das eine
+ist die Polarisationsrichtung der einfallenden Welle, das andere ist die-
+jenige Polarisationskomponente der Sekundärwelle, für die man sich
+gerade interessiert.
+
+--- Page 13 ---
+Quantisierung als Bigenwertproblem 121
+
+in einem Zustand antrifft, in welchem nicht, wie bisher an-
+genommen, nur die eine freie Schwingung u, angeregt ist,
+sondern mehrere, sagen wir einmal zwei, z, und =? Wie
+schon oben bemerkt, sind dann im Störungsfalle einfach die
+zwei dem Index % und dem Index ! entsprechenden Störungs-
+lösungen (16) additiv zu verknüpfen, nachdem man sie mit
+konstanten (eventuell komplexen) Koeffizienten beheftet hat,
+die der für die freien Schwingungen vorausgesetzten Stärke
+und dem Phasenverhältnis ihrer Anregung entspricht. Man
+überblickt wohl, ohne die Rechnung wirklich durchzuführen,
+daß dann in dem Ausdruck für w« und ebenso in dem Aus-
+druck (23) für das resultierende elektrische Moment nicht bloß
+das entsprechende lineare Aggregat der früher erhaltenen
+Glieder auftritt, d.h. der Ausdrücke (17) bzw. (23), einmal mit A,
+das andere Mal mit 2 geschrieben; sondern es treten außerdem
+noch „Kombinationsglieder“ auf, und zwar erstens, von höchster
+Größenordnung, ein Glied mit
+
+2zi
+
+24) w@ule*
+
+(E,-Eyt
+
+welches die spontane Ausstrahlung wiedergibt, die mit dem
+Zusammenbestehen der beiden freien Schwingungen verbunden
+ist; zweitens Störungsglieder erster Ordnung, die mit der
+störenden Feldamplitude proportional sind und dem Zusammen-
+wirken der zu u, gehörigen Zwangsschwingungen mit der freien
+Schwingung u, — und der zu x, gehörigen Zwangsschwingungen
+mit z, entsprechen, Die Frequenz dieser in (17) bzw. (23) neu-
+auftretenden Glieder ist, wie man wohl auch noch ohne Durch-
+führung der Rechnung überblickt, nicht v, sondern
+
+(25) v3 Zifhl.
+
+(Neue „Resonanznenner“ treten jedoch in diesen Gliedern nicht
+auf) Man hat es also hier mit einer Sekundärstrahlung zu
+tun, deren Frequenz weder mit der erregenden Lichtfrequenz,
+noch mit einer Spontanfrequenz des Systems zusammenfällt,
+sondern eine Kombinationsfrequenz beider ist.
+
+Das Vorhandensein dieser merkwürdigen Art von Sekundär-
+strahlung wurde zuerst von Kramers und Heisenberga.a.0.
+auf Grund korrespondenzmäßiger Überlegungen postuliert, dann
+von Born, Heisenberg und Jordan auf Grund der Heisen-
+
+--- Page 14 ---
+122 E. Schrödinger
+
+bergschen Quantenmechanik.!) Experimentell nachgewiesen
+wurde sie, soviel mir bekannt, noch in keinem Falle. Die
+vorliegende Theorie läßt nun auch sehr deutlich erkennen, daß
+das Auftreten dieser Streustrahlung an besondere Bedingungen
+geknüpft ist, welche wohl eigens zu dem Zweck anzustellende
+Versuche erheischen. Erstens müssen zwei Eigenschwingungen
+w, und u, kräftig erregt sein, so daß alle Versuche ausscheiden,
+die an Atomen im Normalzustand angestellt sind — und das
+ist die überwiegende Mehrzahl. Zweitens muß mindestens ein
+dritter Eigenschwingungszustand u, existieren (d.h. möglich, er
+braucht nicht erregt zu sein), welcher sowohl mit x, alsauch mit =,
+kombiniert zu kräftiger Spontanemission führt. Denn mit dem
+Produkt der betreffenden Spontanemissionskoeffizienten (a,, b,,
+und a,,, 5,,) ist die aufzufindende außergewöhnliche Streustrahlung
+proportional. Die Kombination (w,, w) brauchte an und für
+sich nicht kräftig zu emittieren, es würde nichts schaden, wenn
+selbst — in der Sprache der älteren Theorie — dieser „Über-
+gang verboten“ wäre. Dennoch wird man praktisch auch diese
+Forderung hinzufügen müssen, und zwar die Forderung, daß
+die Linie (z, w,) während des Versuches wirklich kräftig aus-
+gesandt wird, weil das eigentlich das einzige Mittel ist, um
+sich zu vergewissern, daB wirklich Beide Eigenschwingungen,
+und zwar in denselben Atomindividuen und in einer hin-
+reichenden Zahl solcher, kräftig erregt sind. Bedenkt man
+nun, daß in den kräftigen und am meisten untersuchten Term-
+reihen, d.i. in den gewöhnlichen s-, p-, d-, f-Reihen, die Ver-
+hältnisse meistens so liegen, daß zwei Terme, die mit einem
+dritten kräftig kombinieren, dies untereinander nicht tun, so
+erscheint wirklich eine besondere Auswahl des Versuchsobjektes
+und der Versuchsbedingungen nötig, um die in Rede stehende
+Streustrahlung mit Sicherheit erwarten zu dürfen, besonders
+da sie von anderer Frequenz ist als das einfallende Licht und
+daher nicht zu Dispersion oder Rotationspolarisation Anlaß
+geben, sondern nur als allseitiges Streulicht bemerkt werden
+kann.
+
+Die oben zitierte quantenmechanische Dispersionstheorie
+
+1) Born, Heisenberg und Jordan, Ztschr. f. Phys. 35. 8.572. 1926.
+
+
+--- Page 15 ---
+Quantiserung als Eigenwertproblem 123
+
+übersehe, trotz ihrer großen formalen Ähnlichkeit mit der vor-
+liegenden, dennoch keine Überlegungen von der eben durch-
+geführten Art. Denn sie spricht nur von einer Reaktionsweise
+des Atoms gegen einfallende Strahlung. Sie faßt das Atom
+als ein zeitloses Ganzes und vermag bisher nicht zu sagen,
+wie sich in ihrer Sprache die unbezweifelbare Tatsache aus-
+drücken läßt, daß das Atom sich zu verschiedenen Zeiten in
+verschiedenen Zuständen befinden kann und dann erwiesener-
+maßen in verschiedener Weise auf einfallende Strahlung reagiert.!)
+
+Wir wenden uns jetzt einer anderen Frage zu. Im $2
+wurden die sämtlichen Eigenwerte als diskret und unter-
+einander verschieden vorausgesetzt. Wir lassen zunächst die
+zweite Voraussetzung fallen und fragen: was ändert sich, wenn
+mehrfache Eigenwerte vorkommen, d.h. wenn ‚Entartung vor-
+liegt? Vielleicht erwartet man, daß dann ähnliche Kom-
+plikationen auftreten, wie wir ihnen im Falle einer zeitlich
+konstanten Störung (dritte Mitteilung, $ 2) begegnet sind, d.h.
+daß erst durch Auflösen einer „Säkulargleichung“ ein der
+speziellen Störung angepaßtes System von Eigenfunktionen des
+ungestörten Atoms bestimmt und zur Durchführung der Stö-
+rungsrechnung verwendet werden muß. Das trifft im Falle
+einer beliebigen Störung 7 (z, £), wie wir sie in Gl. (5) angesetzt
+hatten, in der Tat zu, aber gerade im Falle der Störung durch
+eine Lichtwelle, Gl. (6) trifft es nicht zu, jedenfalls in der
+bisher verfolgten ersten Näherung und solange an der Voraus-
+setzung festgehalten wird, daß die Lichtfrequenz » mit keiner
+der in Betracht kommenden spontanen Emissionsfrequenzen
+zusammenfällt. Dann ist nämlich der Parameterwert in der
+für die Amplituden der Störungsschwingungen aufgestellten
+Doppelgleichung (13) kein Eigenwert und das Gleichungspaar
+hat stets das eindeutige Lösungspaar (14), in welchem keine
+verschwindenden Nenner auftreten, auch wenn Z, ein mehr-
+facher Eigenwert ist. Dabei sind nicht etwa die Summen-
+glieder, für welche E, = E, ist, zu unterdrücken, ebensowenig
+wie das Summenglied n = k selbst. Bemerkenswert ist, daß
+durch diese Glieder — wenn eines davon wirklich, d.h. mit
+
+1) Zu dieser Schwierigkeit, den zeitlichen Ablauf eines Ereignisses
+zu erfassen, vergleiche man besonders die Schlußworte in Heisenberga
+jüngster Darstellung seiner Theorie, Math. Ann. 95. S. 683, 1926.
+
+--- Page 16 ---
+124 E. Schrödinger
+
+nichtverschwindendem a,,, auftritt — auch die Frequenz v = 0
+unter den Resonanzfrequenzen erscheint. Zu der „gewöhnlichen“
+Streustrahlung liefern diese Glieder freilich, wie man aus (23)
+erkennt, wegen B,— E, = 0 keinen Beitrag.
+
+Die Vereinfachung, daß man auf eine eventuell vorhandene
+Entartung wenigstens in erster Näherung nicht besonders Rück-
+sicht zu nehmen braucht, tritt, wie wir weiter unten über-
+legen werden (vgl. $ 5), immer dann auf, wenn, wie es bei der
+Lichtwelle der Fall ist, der zeitliche Mittelwert der Störungs-
+funktion verschwindet oder, was dasselbe ist, wenn deren zeit-
+liche Fourierentwicklung kein konstantes, d.h. von der Zeit
+unabhängiges Glied enthält.
+
+Während also unsere erste Voraussetzung über die Eigen-
+werte — daß sie einfach sein sollen — sich eigentlich als eine
+überflüssige Vorsicht erwiesen hat, führt ein Abgehen von der
+zweiten — daß sie durchaus diskret sein sollen — zwar auch
+keine prinzipiellen Änderungen herbei, aber doch recht erheb-
+liche Änderungen im äußeren Habitus der Rechnung, so ferne
+nämlich zu den diskreten Summen in (14), (16), (17), (23) Inte-
+grale über das Streckenspektrum der Gleichung (1’) hinzutreten.
+Die Theorie solcher Integraldarstellungen ist von H. Weyl!),
+allerdings nur für gewöhnliche Differentialgleichungen ent-
+wickelt worden, doch dürfte die Übertragung auf partielle wohl
+gestattet sein. Der Sachverhalt ist in aller Kürze dieser.)
+Wenn die zu den inhomogenen Gleichungen (13) gehörige
+homogene Gleichung, d.i. die Schwingungsgleichung (1’) des
+ungestörten Systems, neben einem Punktspektrum auch ein
+Streckenspektrum besitzt, das von #=a bis E=5 reichen
+möge, dann läßt sich eine willkürliche Funktion f(x) natürlich
+nicht mehr nach den normierten diskreten Eigenfunktionen x,(z)
+allein entwickeln:
+
+eo) = Dyue) mit 9,= [Ten,@eindz.
+
+n=l
+
+1) H. Weyl, Math. Ann. 68. S. 220. 1910; Gött. Nachr. 1910.
+Vgl. auch E. Hilb, Sitz.-Ber. d. Physik. Mediz. Soc. Erlangen 48. S. 68.
+1911; Math. Ann. 71. 8. 76. 1911. — Hrn. H. Weyi verdanke ich nicht
+nur diese Literaturangaben, sondern auch sehr wertvolle mündliche
+Unterweisung in diesen nicht ganz einfachen Dingen.
+
+2) Die hier gegebene Darstellung verdanke ich Hrn. E. Fues.
+
+--- Page 17 ---
+Quantisierung als Eigenwertproblem 125
+
+sondern es muß eine Integralentwicklung nach den Eigen-
+lösungen z(z, Z), welche zu den Eigenwerten a«xE#<b ge-
+hören, hinzutreten;
+
+en y> Pu‘ %n are um E)p(B)d
+n=1
+wobei wir zur Betonung der Analogie für die „Koeffizienten-
+funktion“ @(E) absichtlich denselben Buchstaben wählen, wie
+für die diskreten Koeffizienten g,. Hat man nun die Eigen-
+lösung u(z, #) ein für allemal durch Beheftung mit einer
+passenden Funktion von # derart normiert, daß
+E+4
+
+(28) Sarea fee Eauß,E)dE=1
+
+bzw.=0,
+je nachdem Z dem Intervall 2, E -+ A angehört oder nicht,
+dann ist in der Entwicklung (27) unter dem Integralzeichen
+
+zu setzen:
+Erd
+
+2) gn-imzfeare- [uEmar-as,
+E
+
+wobei das erste Integralzeichen sich wie immer auf das Grund-
+gebiet der Variablengruppe x bezieht.!) Die Erfüllbarkeit von
+(28) und die Existenz der Entwicklung (27) vorausgesetzt —
+welch beides, wie gesagt von Weyl für gewöhnliche Differential-
+gleichungen bewiesen ist — leuchtet die Bestimmung der
+„Koeffizientenfunktion“ nach (29) fast ebenso unmittelbar ein,
+wie die wohlbekannte Bestimmung von Fourierkoeffizienten.
+
+Die wichtigste und schwierigste Aufgabe im konkreten
+Einzelfsll ist dabei die Durchführung der Normierung von
+u(z,E), d.h. ‘die Aufsuchung derjenigen Funktion von # mit
+welcher die zunächst nichtnormiert vorliegende Eigenlösung
+des Streckenspektrums zu multiplizieren ist, um darnach der
+Bedingung (28) genüge zu tun. Auch für diese praktische
+Aufgabe enthalten Hrn. Weyls obenzitierte Arbeiten sehr
+
+1) Wie mir Br. E, Fues mitteilt, darf man in praxi sehr häufig
+‚den Grenzprozeß unterdrücken und für das innere Integral #(&,.E
+schreiben; nämlich immer dann, wenn S ef) uld, E)dE existiert.
+
+Annalen der Physik, IV. Folge. 81, k]
+
+--- Page 18 ---
+126 E. Schrödinger
+
+wertvolle Anleitung und einige durchgerechnete Beispiele. Ein
+Beispiel aus der Atomdynamik ist in einer gleichzeitig in
+diesen Annalen erscheinenden Abhandlung des Hrn. Fues über
+die Intensitäten der Bandensprektren durchgeführt.
+
+Wir wenden das jetzt auf unser Problem, d.h. auf die
+Auflösung des Gleichungspaares (13) für die Amplituden w;
+der Störungsschwingungen an, wobei wir jedoch nach wie vor
+voraussetzen, daB die eine erregte freie Schwingung u, dem
+diskreten Punktspektrum angehöre. Wir entwickeln die rechte
+Seite von (13) nach dem Schema (27)
+
+An?
+
+L.} b
+2 2
+A Dana) + Sun De MaE,
+
+n=1 a
+
+(80)
+
+wo a’,, durch (15) und «’‘,(Z) nach (29) durch
+
+E+4
+
+u einen [uk mar-as
+u E
+
+gegeben ist. Denkt man sich die Entwicklung (30) in (13)
+eingesetzt, entwickelt dann auch die gesuchte Lösung w. (x)
+in ganz analoger Weise nach den Eigenlösungen u,(z) und
+u(x, E) und berücksichtigt, daß für die letztgenannten Funktionen
+die linke Seite von (13) den Wert
+
+SUB + hr Eu)
+bzw.
+
+7 (+ hv— Du
+
+annimmt, dann erhält man durch „Koeffizientenvergleichung“
+als Verallgemeinerung von (14)
+
+< a rn Un (&) «',(Pyute, E)
+14) wile) = 3. Ko + +4 fa eras.
+
+Die weitere Durchführung ist völlig analog mit der in 82.
+Man erhält schließlich als Zusatzglied zu (23)
+
+(23) + 2oos2uve [agodM,(E) “B ERENEEEE) dB.
+
+--- Page 19 ---
+Quantisierung als Eigenwertproblem 127
+
+Hier darf man die Integrationsfolge vielleicht nicht immer ohne
+
+weiteres vertauschen, weil das Integral nach & eventuell nicht
+
+konvergiert. Man kann jedoch -—- ein anschauliches Surrogat
+
+eines exakten Grenzüberganges, der hier übergangen werden
+b
+
+möge — das Integral f in viele kleine Stücke, sagen wir von
+
+der Länge A zerlegen, hinreichend klein, um alle auftretenden
+Funktionen von Z auf einem solchen Stück als konstant an-
+zusehen, mit Ausnahme von x(z, Z), für welches sich das, wie
+aus der allgemeinen Theorie folgt, nicht durch eine feste, von £
+unabhängige Intervallteilung erreichen läßt. Dann kann man
+die übrigen Funktionen aus den Teilstreckenintegralen heraus-
+heben und erhält schließlich exakt als Zusatzglied zu dem
+sekundärstrahlenden Dipolmoment (23) folgendes:
+
+um P@- En) a.(E) ß, (E)
+(23”) 2 Fcos2nvt Im mim dE
+mit
+
+Er4
+
+er) Eu us ar as
+
+a9) Am limz [eo uE: f Mar a2
+
+(ich bitte, die volle Analogie zu den mit gleicher Nummer,
+ohne Striche, versehenen Formeln von $ 2 zu beachten).
+
+Die vorstehende Rechenskizze kann natürlich nicht mehr
+sein als ein allgemeiner Rahmen, sie soll bloß zeigen, daß
+der vielerörterte EinfluB des kontinuierlichen Spektrums
+auf die Dispersion, der erfahrungsgemäß vorhanden zu sein
+scheint!), von der vorliegenden Theorie genau in der erwarteten
+Form gefordert wird, und sie sollte den Weg umreißen, auf
+dem das Problem rechnerisch in Angriff zu nehmen sein wird.
+
+84. Erörterung des Resonanzfalles
+Wir haben bisher stets vorausgesetzt, daß die Frequenz »
+der auftreffenden Lichtwelle mit keiner der in Betracht
+
+ı) K. F. Herzfeld u. K. L. Wolf, Ann. d. Phys. 76. 8. 71.
+667. 1925; H.Rollmann u. H.Mark, Die NW. 14. S. 648. 1926.
+9*
+
+--- Page 20 ---
+128 E. Schrödinger
+
+kommenden Emissionsfrequenzen übereinstimmt. Wir nehmen
+nun an, es sei etwa
+
+(81) kv=B,—5,>0,
+
+wobei wir im übrigen, der einfacheren Sprechweise wegen, zu
+den beschränkenden Annahmen von 8 2 zurückkehren (einfache,
+diskrete Eigenwerte, eine einzige freie Schwingung x, erregt).
+Im Gleichungspaar (13) erhält dann der Eigenwertparameter
+die Werte
+
+” EB,
+83) KEEFB=-(,_n.
+D. h. für das obere Zeichen liegt ein Zigenwert, nämlich E,,
+vor. — Dann sind zwei Fälle möglich. Entweder die mit eo (x)
+
+multiplizierte rechte Seite dieser Gleichung steht senkrecht auf
+der zugehörigen Eigenfunktion u,(z), d.h. es ist
+
+(83) [emo n@e@de=«,,=0
+
+oder physikalisch: «, und v, würden, wenn sie als freie
+Schwingungen nebeneinander bestehen, entweder zu gar keiner
+oder zu einer Spontanemission Anlaß geben, die senkrecht zur
+Polarisationsrichtung des einfallenden Lichtes polarisiert ist.
+In diesem Falle besitzt auch die kritische Gleichung (13) nach
+wie vor eine Lösung, welche nach wie vor durch (14) gegeben
+ist, worin das Katastrophenglied verschwindet. Physikalisch be-
+deutet dies — in der alten Sprechweise — daß ein „verbotener
+Übergang“ durch Resonanz nicht angeregt werden kann, bzw.
+daß ein „Übergang“, auch wenn er nicht verboten ist, nicht
+durch Licht angeregt werden kann, das senkrecht zur Polari-
+sationsrichtung desjenigen Lichtes schwingt, welches beim
+„spontanen Übergang“ emittiert werden würde.
+
+Oder zweitens, (83) ist nicht erfüllt. Dann besitzt die
+kritische Gleichung keine Lösung. Der Ansatz (10), der eine
+Schwingung annimmt, welche sich nur wenig — um Größen
+von der Ordnung der Lichtamplitude # — von der ursprüng-
+lich bestehenden freien Schwingung unterscheidet, und unter
+dieser Annahme der allgemeinste ist, führt dann also nicht zum
+Ziel. Es existiert dann also keine Lösung, welche sich nur
+um Größen von der Ordnung F von der ursprünglich be-
+stehenden freien Schwingung unterscheidet, das einfallende
+
+--- Page 21 ---
+Quantisierung als Eigenwertproblem 129
+
+Licht hat also auf den Zustand des Systems einen ändernden
+Einfluß, der in heinem Verhältnis zur Größe der Lichtamplitude
+sieht. Welchen? Auch dies läßt sich noch ohne neue
+Rechnung beurteilen, indem wir von dem Fall ausgehen,
+daB die Resonanzbedingung (31) nicht exakt, sondern nur an-
+genähert erfüllt ist. Dann sieht man aus (16), daB z, (x) wegen
+des kleinen Nenners zu ungewöhnlich starken Zwangs-
+schwingungen angeregt wird und daß — was nicht minder
+wichtig ist, — die Frequenz dieser Zwangsschwingungen sich
+der natürlichen Eigenfrequenz B,/h der Eigenschwingung x,
+nähert. (All das ist zwar sehr ähnlich, aber doch in eigen-
+artiger Weise anders als bei anderweitig bekannten Resonanz-
+phänomenen, sonst würde ich es nicht so ausführlich be-
+sprechen.)
+
+Bei allmählicher Annäherung an die kritische Frequenz
+wird also die früher nicht erregte Eigenschwingung «,, deren
+Möglichkeit für die Krisis verantwortlich ist, immer stärker
+angeregt und zugleich immer angenäherter und angenäherter
+mit der ihr eigentümlichen Eigenfregquenz. Im Unterschied
+von gewöhnlichen Resonanzphänomenen kommt aber, und
+zwar noch vor dem Erreichen der kritischen Frequenz, ein
+Augenblick, wo unsere Lösung den Sachverhalt nicht mehr
+richtig erfaßt, selbst unter der Annahme, daß unser, offenbar
+„dämpfungsfreier“ Wellenansatz exakt richtig se. Denn wir
+haben ja die Zwangsschwingung w als klein angesehen gegen
+die vorhandene freie Schwingung und [in Gleichung (11)] ein
+quadratisches Glied fortgelassen.
+
+Ich glaube, die vorstehenden Überlegungen lassen bereits
+mit hinlänglicher Deutlichkeit durchblicken, daß die Theorie
+im Resonanzfalle wirklich dasjenige Resultat ergeben wird, das
+sie geben muß, um mit dem Woodschen Resonanzphänomen
+in Übereinstimmung zu sein: ein Aufschaukeln der zur Krisis
+Anlaß gebenden Eigenschwingung , zu endlicher, mit der der
+ursprünglich vorhandenen x, vergleichbarer Größe, woraus
+dann natürlich „Spontanemission“ der Spektrallinie (u,, «,) folgt.
+Ich möchte aber an dieser Stelle noch nicht versuchen, die
+Rechnung für den Resonanzfall wirklich durchzuführen, weil
+das Ergebnis doch nur von geringem Wert sein würde, solange
+die Rückwirkung der emittierten Strahlung auf das emittierende
+
+--- Page 22 ---
+130 E. Schrödinger
+
+System nicht in Rechnung gestellt ist. Eine solche Rück-
+wirkung muß bestehen, nicht nur weil gar kein Grund vor-
+liegt, zwischen der von außen einfallenden Lichtwelle und der
+vom System selbst emittierten Lichtwelle einen prinzipiellen
+Unterschied zu machen, sondern auch weil sonst bei einem sich
+selbst überlassenen System, wenn mehrere Eigenschwingungen
+gleichzeitig erregt sind, die Spontanemission unbegrenzt fort-
+dauern würde. Die zu fordernde Rückkoppelung muß be-
+wirken, daß in diesem Falle, Hand in Hand mit der Licht-
+emission, die höheren Eigenschwingungen allmählich abklingen
+und zuletzt die Grundschwingung allein übrig bleibt, die dem’
+Normalzustand des Systems entspricht. Die Rückkoppelung
+ist offenbar das genaue Analogon zu der Reaktionskraft der
+
+Strahlung (> 5) beim klassischen Elektron. Diese Analogie
+
+beschwichtigt auch die aufsteigende Besorgnis wegen der bis-
+herigen Nichtberücksichtigung der Rückkoppelung. Der Einfluß
+des betreffenden (wahrscheinlich nicht mehr linearen) Gliedes
+in der Wellengleichung wird im allgemeinen gering sein, genau
+wie beim Elektron die Reaktionskraft der Strahlung im all-
+gemeinen sehr gering ist gegen die Trägheitskraft und gegen
+die äußere Feldkraft. Im Resovanzfall jedoch wird — genau
+wie in der Elektronentbeorie — die Koppelung mit der Eigen-
+lichtwelle von derselben Größenordnung werden wie die mit
+der einfallenden und wird berücksichtigt werden müssen, wenn
+man das „Gleichgewicht“ zwischen den verschiedenen Eigen-
+schwingungen, das sich bei gegebener Bestrahlung einstellt,
+richtig berechnen will.
+
+Ausdrücklich sei jedoch bemerkt: zur Vermeidung einer
+Resonanzkatastrophe wäre das Rückkoppelungsglied nicht er-
+forderlich! Eine solche kann unter gar keinen Umständen
+eintreten, weil nach dem unten im $ 7 bewiesenen Satz von
+der Persistenz der Normierung das Konfigurationenraumintegral
+von ya auch bei Einwirkung beliebiger äußerer Kräfte stets
+auf denselben Wert normiert bleibt — und zwar ganz auto-
+matisch, als Folge der Wellengleichungen (4”), Die Amplituden
+der -Schwingungen können daher nicht unbegrenzt wachsen,
+sie haben „durchschnittlich“ immer denselben Wert. Wenn
+eine Figenschwingung aufgeschaukelt wird, so muß eine andere
+dafür abnehmen.
+
+
+--- Page 23 ---
+Quantisierung als Eigenwertproblem 131
+
+8 5. Verallgemeinerung für eine beliebige Störung
+
+Liegt eine Beliebige Störung vor, wie in Gl. (5) am Anfang
+von 8 2 zunächst vorausgesetzt war, so wird man die Störungs-
+energie r(z, i) in eine Fourierreihe oder in ein Fourierintegral
+nach der Zeit entwickeln. Die Glieder dieser Entwicklung
+baben dann die Gestalt (6) des Störungspotentials einer Licht-
+welle.e Man übersieht ohne weiteres, daß man dann einfach
+nur in der Gl. (11) auf der rechten Seite zwei Reihen (oder
+eventuell Integrale) von imaginären e-Potenzen erhält, anstatt
+bloß zwei Stück. Fällt keine der erregenden Frequenzen mit
+einer kritischen Frequenz zusammen, so erhält man die Lösung
+genau auf dem in $2 angegebenen Weg, und zwar als Fourier-
+reihen (oder eventuell Fourierintegrale) der Zeit. Es hat wohl
+keinen Zweck, die formalen Entwicklungen hier hinzuschreiben
+und eine genauere Verfolgung einzelner Probleme liegt außer-
+halb des Rahmens der vorliegenden Mitteilung. Doch muB
+ein wichtiger Umstand, der schon im 8 3 gestreift wurde,
+erwähnt werden,
+
+Unter den kritischen Frequenzen der Gleichung (13) figuriert
+im allgemeinen auch die Frequenz v= %,— E,=0. Denn
+auch für sie tritt als Eigenwertparameter auf der linken Seite
+ein Eigenwert auf, nämlich Z,. Kommt also in der Fourier-
+entwicklung der Störungsfunktion r(z, 2) die Frequenz 0, d.h.
+ein von der Zeit unabhängiges Glied vor, so kommt man nicht
+genau auf dem früheren Weg zum Ziel. Man erkennt aber
+leicht, wie er abzuändern ist, denn der Fall einer zeitlich kon-
+stanten Störung ist uns ja von früher her bekannt (vgl. dritte
+Mitteilung). Man hat dann eine kleine Verlagerung und eventuell
+Aufspaltung des Eigenwertes oder der Eigenwerte der erregten
+freien Schwingungen mit in Betracht zu ziehen, d.h. man hat
+im Exponenten der e-Potenz des ersten Gliedes rechter Hand
+der Gl. (10) statt Z, zu schreiben: Z, plus einer kleinen Kon-
+stante, der Eigenwertstörung. Diese Eigenwertstörung wird,
+genau wie in der dritten Mitteilung $ 1 und $ 2 beschrieben,
+aus der Forderung bestimmt, daß die rechte Seite der kritischen
+Fourierkomponente der hiesigen @l. (13) auf x, (oder eventuell:
+auf allen zu E, gehörigen Eigenfunktionen) senkrecht stehen soll.
+
+Die Zahl der speziellen Probleme, welche unter die Frage-
+stellung des vorliegenden Paragraphen fallen, ist außerordentlich
+
+--- Page 24 ---
+132 E. Schrödinger
+
+groß. Durch Superposition der Störung durch ein konstantes
+elektrisches oder magnetisches Feld und durch eine Lichtwelle
+kommt man zur magnetischen und elektrischen Doppelbrechung
+und zur magnetischen Rotationspolarisation. Auch die Resonanz-
+strahlung im Magnetfeld gehört hierher, doch muß zu dem
+Zweck erst der im $4 erörterte Resonanzfall einer exakten
+Lösung zugeführt werden. Ferner wird man die Wirkung
+eines am Atom vorüberfliegenden «-Partikels oder Elektrons
+in der angegebenen Weise behandeln können?), wenn die Be-
+gegnung nicht zu eng ist, um die Störung jedes der beiden
+Systeme aus der ungestörten Bewegung des anderen berechnen
+zu können. Alle diese Fragen sind eine bloße Sache der Aus-
+rechnung, sobald die Eigenwerte und Eigenfunktionen der
+ungestörten Systeme bekannt sind. Es ist darum sehr zu hoffen,
+das es gelinge, diese Funktionen wenigstens näherungsweise
+auch für höhere Atome zu bestimmen, in Analogie zur nähe-
+rungsweisen Bestimmung der Bohrschen Elektronenbahnen,
+welche zu den verschiedenen Termtypen gehören.
+
+8 6. Relativistisch-magnetische Verallgemeinerung der
+Grundgleichungen
+
+Im Anschluß an die zuletzt erwähnten physikalischen
+Probleme, bei denen das in dieser Mitteilungsreihe bisher
+gänzlich beiseite gelassene Magnetfeld eine wichtige Rolle spielt,
+möchte ich nun doch die vermutliche relativistisch-magnetische
+Verallgemeinerung der Grundgleichungen (4”) hier ganz kurz
+mitteilen, wenn ich es auch vorerst nur für das Einelektronen-
+problem und nur mit der allergrößten Reserve tun kann.
+Letzteres aus zwei Gründen. Erstens beruht die Verallgemei-
+nerung vorläufig auf rein formaler Analogie. Zweitens führt
+sie, wie schon in der ersten Mitteilung‘) erwähnt wurde, im
+Falle des Keplerproblems zwar formal auf die Sommerfeld-
+sche Feinstrukturformel und zwar mit „halbzahligem“ Azimutal-
+
+1) Einen sehr interessanten und erfolgreichen Versuch, die Wirkung
+vorbeifliegender geladener Teilchen durch Fourierzerlegung ihres Feldes
+mit derWirkung von Lichtwellen zu vergleichen, findet man bei E. Fermi,
+Ztschr. f. Phys. 29. 8. 315. 1924.
+
+1) Ann. d. Phys., 79. 8. 372. 1926.
+
+--- Page 25 ---
+Quantisierung als Eigenwertproblem 133
+
+und Radialquant, was heute allgemein als korrekt angesehen
+wird; allein es fehl? noch die zur Herstellung numerisch rich-
+tiger Aufspaltungsbilder der Wasserstofflinien notwendige Er-
+gänzung, die im Bohrschen Bilde durch den Goudsmit-
+Uhlenbeckschen Elektronendrall geliefert wird.
+
+Die Hamiltonsche partielle Differentialgleichung für das
+Lorentzsche Elektron läßt sich leicht in folgende Gestalt
+setzen
+
+DE ze
+e (8-2) -mMe=0.
+
+0% [3
+
+Hier sind e, m, ce Ladung, Masse des Elektrons und Licht-
+geschwindigkeit; 7, X sind die elektromagnetischen Potentiale
+des äußeren elektromagnetischen Feldes am Elektronenort.
+W ist die Wirkungsfunktion.
+
+Aus der klassischen (relativistischen) Gleichung (34) suche
+ich nun die Wellengleichung für das Elektron abzuleiten durch
+folgendes rein formale Verfahren, welches, wie man leicht über-
+legt, auf die Gleichungen (4”) führen würde, wenn es auf die
+Hamiltonsche Gleichung eines in beliebigem Kraftfeld be-
+wegten Massenpunktes der gewöhnlichen (nichtrelativistischen
+Mechanik angewendet wird. — Ich ersetze in (34) nach dem
+Ausquadrieren die Größen
+
+oW W eW oW
+tt’ Dr’
+(35) | bezw. durch die Operatoren
+h8 h® h—& h&
+mia Eimiinr Eimidy! Eine
+
+Den so erhaltenen linearen Doppeloperator, ausgeübt an einer
+Wellenfunktion ı, setze ich gleich Null:
+
+ı Hy Anie (V öy
+he 235 Y + Ygrad y)
+4 2
++ (Pr -W- =) v0.
+‘(Die Zeichen A und grad haben hier die elementare drei-
+
+dimensionaleuklidische Bedeutung.) Das Gleichungspaar (36)
+wäre die vermutete relativistisch-magnetische Verallgemeinerung
+
+
+--- Page 26 ---
+134 EB. Schrödinger
+
+von (4”) für den Fall eines einzigen Elektrons und zwar wäre
+es ebenfalls in dem Sinne zu verstehen, daß die komplexe
+Wellenfunktion entweder der einen oder der anderen Gleichung
+zu genügen hat,
+
+Für das Wasserstoffatom läßt sich aus (36) die Sommer-
+feldsche Feinstrukturformel genau nach der in der ersten
+Mitteilung beschriebenen Methode gewinnen und ebenso läßt
+sich (unter Vernachlässigung des Gliedes mit A?) der normale
+Zeemaneffekt ableiten, sowie auch die wohlbekannten Auswahl-
+und Polarisationsregeln nebst Intensitätsformeln; sie folgen
+aus den am Ende der dritten Mitteilung angeführten Integral-
+relationen zwischen den Kugelfunktionen.
+
+Aus den im ersten Absatz dieses Paragraphen genannten
+Gründen verzichte ich vorläufig auf die ausführliche Wieder-
+gabe dieser Rechnungen und beziehe mich auch im folgenden
+Schlußparagraphen auf die „klassische“ und nicht auf die noch
+unvollkommene relativistisch-magnetische Fassung der Theorie.
+
+8 7. Über die physikalische Bedeutung des Feldskalars
+
+Im $2 wurde die früher für das Zinelektronenproblem
+verwendete heuristische Hypothese über die elektrodynamische
+Bedeutung des Feldskalars w kurzerhand auf ein beliebiges
+System geladener Massenpunkte verallgemeinert und eine ein-
+gehendere Besprechung dieses Vorgehens in Aussicht gestellt.
+Wir hatten dort die Dichte der Elektrizität in einem belie-
+bigen Raumpunkt folgendermaßen berechnet: man greift einen
+Massenpunkt heraus, hält das Koordinatentripel, welches nach
+der gewöhnlichen Mechanik seine Lage beschreibt, fest, inte-
+griert y% über alle übrigen Systemkoordinaten und mul-
+tipliziert das Ergebnis mit einer gewissen Konstante, der
+„Ladung“ des herausgegriffenen Massenpunktes; in der näm-
+lichen Weise verfährt man mit jedem Massenpunkt (Koordinaten-
+tripel), wobei dem jeweils herausgegriffenen Massenpunkt jedes
+Mal dieselbe Lage erteilt wird, nämlich die Lage desjenigen
+Raumpunktes, in welchem man die Elektrizitätsdichte kennen
+zu lernen wünscht. Letztere ist gleich der algebraischen Summe
+der Teilresultate.
+
+Diese Vorschrift ist nun gleichbedeutend mit der folgenden
+Auffassung, welche die eigentliche Bedeutung von besser
+
+--- Page 27 ---
+Quantisierung als Eigenwertproblem 135
+
+hervortreten läßt. u ist eine Art Gewichtsfunktion im Kon-
+figurationenraum des Systems. Die wellenmechanische Kon-
+figuration des Systems ist eine Superposition vieler, streng ge-
+nommen aller, kinematisch möglichen punktmechanischen Kon-
+figurationen. Dabei steuert jede punktmechanische Konfiguration
+mit einem gewissen Gewicht zur wahren wellenmechanischen
+Konfiguration bei, welches Gewicht eben durch 7 gegeben
+ist. Wenn man Paradoxien liebt, kann man sagen, das System
+befindet sich gleichsam in allen kinematisch denkbaren Lagen
+gleichzeitig, aber nicht in allen „gleich stark“. Bei makro-
+skopischen Bewegungen zieht sich die Gewichtsfunktion praktisch
+auf ein kleines Gebiet von praktisch nicht unterscheidbaren
+Lagen zusammen, dessen Schwerpunkt im Konfigurationenraum
+makroskopisch wahrnehmbare Strecken zurücklegt. Bei mikro-
+skopischen Bewegungsproblemen interessiert jedenfalls auch, und
+für gewisse Fragen sogar in erster Linie, die wechselnde Ver-
+teilung über das Gebiet.
+
+Diese Umdeutung mag im ersten Augenblick choquieren,
+nachdem wir bisher oft in so anschaulich konkreter Form von
+den „w-Schwingungen“ als von etwas ganz Realem gesprochen
+haben. Etwas greifbar Reales liegt ihnen ja aber auch nach
+der jetzigen Auffassung zugrunde, nämlich die höchst realen,
+elektrodynamisch wirksamen Fluktuationen der elektrischen
+Raumdichte. Die „-Funktion soll nicht mehr und nicht weniger
+sein bzw. leisten, als daß sie gestattet, die Gesamtheit dieser
+Fluktuationen durch eine einzige partielle Differentialgleichung
+mathematisch zu beherrschen und zu übersehen. Daß die
+y-Funktion selbst im allgemeinen nicht direkt dreidimensional
+räumlich interpretiert werden kann und darf, so sehr das Ein-
+elektronenproblem dazu verleitet, weil sie eben im allgemeinen
+eine Funktion im Konfigurationenraum, nicht im wirklichen
+Raum ist, ist zu wiederholten Malen hervorgehoben worden.!)
+
+Von einer Gewichtsfunktion im oben dargelegten Sinne
+wird man wünschen, daß ihr Integral über den ganzen Kon-
+figurationenraum beständig auf ein und denselben unverän-
+derlichen Wert, am liebsten auf Eins, normiert bleibe. In der
+Tat überzeugt man sich leicht, daß dies notwendig ist, damit
+
+1) Ann.d. Phys. 79. 8. 526. 754. 1926.
+
+--- Page 28 ---
+136 E. Schrödinger
+
+nach den obigen Definitionen die Gesamtladung des Systems
+konstant bleibe. Und zwar ist diese Forderung selbstverständlich
+auch für nichtkonservative Systeme zu stellen. Denn es darf
+natürlich die Ladung eines Systems sich nicht ändern, wenn
+z.B. eine Lichtwelle einfällt, eine Zeitlang andauert, dann
+wieder aufhört. (NB.: Das gilt auch für Ionisationsprozesse.
+Ein abgetrenntes Teilchen ist zunächst weiter mit zum System
+zu rechnen, bis die Abtrennung auch logisch — durch Auf-
+spaltung des Konfigurationenraums — vollzogen wird.)
+
+Es fragt sich nun, ob diese zu fordernde Persistenz der
+Normierung durch die Änderungsgleichungen (4”) von 8. 112,
+denen unterworfen ist, auch wirklich garantiert wird. Wäre
+es nicht der Fall, so wäre das für unsere ganze Auffassung
+ziemlich katastrophal. Glücklicherweise ist es der Fall. Bilden wir
+
+en ef wrede- (v4 +94) oaz.
+
+Nun genügt der einen von den beiden Gleichungen (4”),
+J) also der anderen. Daher wird vorstehendes Integral, von
+einer multiplikativen Konstante abgesehen:
+
+(88) [WA BAy)odz=2i [TAR— RAd)odz,
+
+wobei für den Augenblick
+
+gesetzt ist. Das Integral (38) verschwindet nach dem Green-
+schen Satz identisch; die einzige Bedingung, welcher die Funk-
+tionen R und J dafür zu genügen haben — hinreichend stark
+im Unendlichen zu verschwinden — bedeutet physikalisch nichts
+anderes, als daß das betrachtete System praktisch auf einen
+endlichen Bereich beschränkt sei.
+
+Man kann das Vorstehende noch etwas anders wenden,
+indem man nicht gleich über den ganzen Konfigurationenraum
+integriert, sondern bloß den zeitlichen Differentialquotienten
+der Gewichtsfunktion durch die Greensche Umformung in eine
+Divergenz verwandelt. Man erhält dadurch Einblick in die
+Strömungsverhältnisse, zunächst der Gewichtsfunktion und durch
+sie: der Elektrizität. Die beiden Gleichungen
+
+--- Page 29 ---
+Quantisierung als Eigenwertproblem 137
+
+9u__ (4-55 r\w
+
+dt amd ET
+co : ;
+® h 87 -
+ET Ze u (A [2 rn
+multipliziere man mit 9% bzw. go und addiere sie:
+ö - h — -
+89) euer Ady-ywAM.
+
+Um die Umformung der rechten Seite in extenso durchzuführen,
+muß man sich an die explizite Gestalt unseres mehrdimen-
+sionalen nichteuklidischen Laplaceschen Operators erinnern'):
+
+we Taken
+
+Man findet dann leicht durch eine kleine Umformung:
+
+Fe) = N sn |erz, (n: ) _
+(al) #
+
+- evz, (a =) .
+
+Die rechte Seite erscheint als Divergenz eines mehrdimensionalen
+reellen Vektors, welcher offenbar als die Sfromdichte der Ge-
+wichtsfunktion im Konfigurationenraum zu interpretieren ist.
+Gl. (41) ist die Kontinuitätsgleichung der Gewichtsfunktion.
+Aus ihr kann man die Kontinwitätsgleichung der Elektrizität
+gewinnen, und zwar gilt eine solche einzeln für die „von jedem
+einzelnen Massenpunkt herrührende“ Ladungsdichte Fassen
+wir etwa den «-ten Massenpunkt ins Auge, seine „Ladung“
+sei e,, seine Masse m_, sein Koordinatenraum sei einfachheits-
+halber durch kartesische Koordinaten beschrieben, z,, y,, 2,-
+Wir bezeichnen das Produkt der Differentiale der übrigen
+Koordinaten abkürzend mit ds’. Über sie integriere man die
+
+1) Ann. d. Phys. 79. 8. 748. 1926, Gleichung (31). Die dort mit
+4-3 bezeichnete Größe ist unsere „Dichtefunktion“ g(@) (z.B. r?sin$
+für ein Polarkoordinatentripel). 7 ist die kinetische Energie als Funktion
+der Lagekoordinaten und Impulse, der Index bei 7 meint die Ableitung
+nach einer Impulskoordinate. — In Gleichung (31) und (82) a.a. O. wurde
+leider versehentlich der Index k zweimal verwendet, einmal als Sum-
+mationsindex, dann aber auch als repräsentativer Index im Argument
+der Funktionen,
+
+--- Page 30 ---
+138 E. Schrödinger
+
+Gl. (41), bei festem x,, y,, z,. Bei dieser Integration fallen
+rechter Hand alle Glieder fort bis auf drei, und man erhält:
+
+[aeleforer] ar toe.| iäleh
+(2) | tal lvan v2] +:
+- = ge div, | [grad, vv el
+
+In dieser Gleichung haben div und grad die gewöhnliche drei-
+dimensional-euklidische Bedeutung und es sind x,, y,, z, als
+kartesische Koordinaten des wirklichen Raumes aufzufassen.
+Die Gleichung ist die Kontinuitätsgleichung der Ladungsdichte
+die „vom «-ten Massenpunkt herrührt“. Bildet man die übrigen
+analog und addiert alle, so erhält man die pauschale Kon-
+tinuitätsgleichung. Es ist natürlich zu betonen, daß, wie stets
+in solchen Fällen, die Auffassung der Integrale rechter Hand
+als Komponenten der Stromdichte nicht absolut zwangläufig ist,
+weil ein divergenzfreier Vektor hinzutreten könnte.
+
+Um ein Beispiel zu geben, erhält man für das konservative
+Einelektronenproblem, wenn durch
+
+(43) vo Dewernttid (ec, ©, reelle Konstante)
+k
+gegeben ist als Stromdichte J
+h
+| J= EEZR » e,c,(u, grad u, — u, grad a,)
+
+(44) (c7)
+| -sin[?2rw, — v)i+9,—%]-
+
+Man sieht, und das gilt allgemein für konservative Systeme —
+daß, wenn nur eine einzige Eigenschwingung erregt ist, die
+Stromkomponenten verschwinden und die Verteilung der Elek-
+trizität zeitlich konstant wird; welch letzteres man ja auch
+unmittelbar übersieht, da ., zeitlich konstant wird. Das
+trifft auch dann noch zu, wenn zwar mehrere Eigenschwingungen
+erregt sind, aber alle zum selben Eigenwert gehören. Dagegen
+braucht die Stromdichte dann nicht mehr zu verschwinden,
+sondern es kann und wird im allgemeinen eine stationäre Strom-
+verteilung vorliegen. Da im ungestörten Normalzustand das
+eine oder das andere jedenfalls zutrifit, kann man in gewissem
+Sinne von einer Rückkehr zu elektrostatischen und magneto-
+
+--- Page 31 ---
+Quantisierung als Bigenwertproblem 139
+
+statischen Atommodellen sprechen. Damit findet die Strahlungs-
+losigkeit des Normalzustandes allerdings eine verblüffend ein-
+fache Lösung.
+
+Ich hoffe und glaube, daß die vorstehenden Ansätze sich
+zur Erklärung der magnetischen Eigenschaften der Atome und
+Moleküle und weiterhin auch zur Erklärung der Elektrizitäts-
+strömung in festen Körpern als nützlich erweisen werden.
+
+Eine gewisse Härte liegt ohne Zweifel zurzeit noch in
+der Verwendung einer komplexen Wellenfunktion. Würde sie
+grundsätzlich unvermeidlich und nicht eine bloße Rechen-
+erleichterung sein, so würde das heißen, daß grundsätzlich zwei
+Wellenfunktionen existieren, die erst zusammen Aufschluß über
+den Zustand des Systems geben. Diese etwas unsympathische
+Folgerung läßt, wie ich glaube, die sehr viel sympathischere Deu-
+tung zu, daß der Zustand des Systems durch eine reelle Funk-
+tion und ihre Ableitung nach der Zeit gegeben ist. Daß wir
+hierüber noch keinen genaueren Aufschluß geben können, hängt
+damit zusammen, daß wir in dem Gleichungspaar (4”) nur
+das — für die Rechnung allerdings außerordentlich bequeme —
+Surrogat einer reellen Wellengleichung von wahrscheinlich der
+vierten Ordnung vor uns haben, deren Aufstellung mir jedoch
+im nichtkonservativen Fall nicht gelingen wollte.
+
+Zürich, Physikalischen Institut der Universität.
+
+(Eingegangen 21. Juni 1926)

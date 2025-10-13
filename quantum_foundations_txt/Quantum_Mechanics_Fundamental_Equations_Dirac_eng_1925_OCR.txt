@@ -1,0 +1,645 @@
+
+--- Page 1 ---
+THE
+
+ROYAL
+SOCIETY
+
+PUBLISHING
+
+The Fundamental Equations of Quantum Mechanics
+
+Author(s): P. A. M. Dirae
+
+Source: Proceedings of the Royal Society of London. Series A, Containing Papers of a
+Mathematical and Physical Character, Vol. 109, No. 752 (Dec. 1, 1925), pp. 642-653
+Published by: Royal Society
+
+Stable URL: http://www.jstor.org/stable/94441
+
+Accessed: 18-12-2017 18:24 UTC
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+
+http://about.jstor.org/terms
+
+CF Royal Society is collaborating with JSTOR to digitize, preserve and extend access to
+~Es bY Proceedings of the Royal Society of London. Series A, Containing Papers of a
+e& joi Mathematical and Physical Character
+
+IIx
+
+JSTOR
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 2 ---
+642
+
+The Fundamental Equations of Quantum Mechanics.
+
+By P. A. M. Drrac, 1851 Exhibition Senior Research Student, St. John’s
+College, Cambridge.
+
+(Communicated by R. H. Fowler, F.R.S.—Received November 7th, 1925.)
+
+§ 1. Introduction.
+
+It is well known that the experimental facts of atomic physics necessitate
+a departure from the classical theory of electrodynamics in the description of
+atomic phenomena. This departure takes the form, in Bohr’s theory, of the
+special assumptions of the existence of stationary states of an atom, in which it
+does not radiate, and of certain rules, called quantum conditions, which fix
+the stationary states and the frequencies of the radiation emitted during tran-
+sitions between them. These assumptions are quite foreign to the classical
+theory, but have been very successful in the interpretation of a restricted region
+of atomic phenomena. The only way in which the classical theory is used is
+through the assumption that the classical laws hold for the description of the
+motion in the stationary states, although they fail completely during transitions,
+and the assumption, called the Correspondence Principle, that the classical
+theory gives the right results in the limiting case when the action per cycle of
+the system is large compared to Planck’s constant h, and in certain other special
+cases.
+
+In a recent paper* Heisenberg puts forward a new theory, which suggests
+that it is not the equations of classical mechanics that are in any way at fault,
+but that the mathematical operations by which physical results are deduced
+from them require modification. All the information supplied by the classical
+theory can thus be made use of in the new theory.
+
+§2. Quantum Algebra.
+
+Consider a multiply periodic non-degenerate dynamical system of w degrees
+of freedom, defined by equations connecting the co-ordinates and their time
+differential coefficients. We may solve the problem on the classical theory in
+the following way. Assume that each of the co-ordinates 2 can be expanded
+in the form of a multiple Fourier series in the time ¢, thus,
+
+B= Day anh (rhe «6+ Oy) EXP. 4 (1 + oe +... + ayy)
+= Lx, exp. 1 (aw) t,
+* Heisenberg, ‘Zeits. f. Phys.,’ vol. 33, p. 879 (1925).
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 3 ---
+Fundamental Equations of Quantum Mechanics. 643
+
+say, for brevity. Substitute these values in the equations of motion, and equate
+the coefficients on either side of each harmonic term. The equations obtained
+in this way (which we shall call the A equations) will determine each of the
+amplitudes x, and frequencies (xw), (the frequencies being measured in radians
+per unit time). The solution will not be unique. There will be a u-fold
+infinity of solutions, which may be labelled by taking the amplitudes and
+frequencies to be functions of uw constants x,... ty, Each #, and (aw) is
+now a function of two sets of numbers, the «’s and the «’s, and may be written
+Lany (KW).
+
+In the quantum solution of the problem, according to Heisenberg, we still
+assume that each co-ordinate can be represented by harmonic components
+of the form exp. twé, the amplitude and frequency of each depending on two
+sets of numbers n,... 7%, and m,...m,, in this case all integers, and being
+written (nm), (nm). The differences n, — m, correspond to the previous
+%,, but neither the n’s nor any functions of the n’s and m’s play the part of the
+previous «’s in pointing out to which solution each particular harmonic
+component belongs. We cannot, for instance, take together all the components
+for which the n’s have a given set of values, and say that these by themselves
+form a single complete solution of the equations of motion. The quantum
+solutions are all interlocked, and must be considered as a single whole. The
+effect of this mathematically is that, while on the classical theory each of the
+A equations is a relation between amplitudes and frequencies having one
+particular set of «’s, the amplitudes and frequencies occurring in a quantum
+A equation do not have one particular set of values for the n’s, or for any
+functions of the n’s and m’s, but have their n’s and m’s related in a special way,
+which will appear later.
+
+On the classical theory we have the obvious relation
+
+(x0)« + (BO). = (% +B, Oe
+
+Following Heisenberg, we assume that the corresponding relation on the
+quantum theory is
+
+@ (n,n — 4) + @(n — a, mM —a—B) = w(n, n— a — B)
+or
+
+@ (nm) -+ @ (mk) = w (nk). (1)
+
+This means that w (nm) is of the form Q (n) — Q (m), the 0’s being frequency
+levels. On Bohr’s theory these would be 27/h times the energy levels, but we
+do not need to assume this.
+
+2x2
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 4 ---
+644 P. A. M. Dirac.
+
+On the classical theory we can multiply two harmonic components related to
+the same set of «’s, as follows :—
+
+Gag EXP. % (HOD), E. Dee EXP. 7 (BO). = (Ab) ate CXP-t(% + B, O)eb
+where
+(ab) a+.6,6 = FaxDpee
+In a corresponding manner on the quantum theory we can multiply an (nm)
+and an (mk) component
+
+a (nm) exp. t@ (nm) t.b (mk) exp. iw (mk) t = ab (nk) exp. iw (nk) t
+where ab (nk) = a (nm) b (mk).
+
+We are thus led to consider the product of the amplitudes of an (nm) and
+an (mk) component as an (vk) amplitude. This, together with the rule that
+only amplitudes related to the same pair of sets of numbers can occur added
+together in an A equation, replaces the classical rule that all amplitudes
+occurring in an A equation have the same set of «’s.
+
+We are now in a position to perform the ordinary algebraic operations on
+quantum variables. The sum of and y is determined by the equations
+
+{e+ y} (am) = a (nm) + y (nm)
+and the product by
+ay (nm). Ly, a(n) y (km) (2)
+similar to the classical product
+(ty) ax = DirYar, ws
+
+An important difference now occurs between the two algebras. In general
+ay (nm) = yx (nm)
+
+and quantum multiplication is not commutative, although, as is easily verified,
+it is associative and distributive. The quantity with components zy (nm)
+defined by (2) we shall call the Heisenberg product of « and y, and shall write
+simply as zy. Whenever two quantum quantities occur multiplied together,
+the Heisenberg product will be understood. Ordinary multiplication is, of
+course, implied in the products of amplitudes and frequencies and other
+quantities that are related. to sets of n’s which are explicitly stated.
+
+The reciprocal of a quantum quantity « may be defined by either of the
+
+relations
+Ifje.n=1 or w.lfo=l, (3)
+
+These two equations are equivalent, since if we multiply both sides of the
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 5 ---
+Fundamental Equations of Quantum Mechanics. 645
+
+former by « in front and divide by x behind we get the latter. In a similar
+way the square root of « may be defined by
+
+Ve .ra/u= o. (4)
+
+It is not obvious that there always should be solutions to (3) and (4). In
+particular, one may have to introduce sub-harmonics, 7.e., new intermediate
+frequency levels, in order to express4/z. One may evade these difficulties by
+rationalising and multiplying up each equation before interpreting it on the
+quantum theory and obtaining the A equations from it.
+
+We are now able to take over each of the equations of motion of the system
+into the quantum theory provided we can decide the correct order of the
+quantities in each of the products. Any equation deducible from the equations
+of motion by algebraic processes not involving the interchange of the factors
+of a product, and by differentiation and integration with respect to ¢, may
+also be taken over into the quantum theory. In particular, the energy
+equation may be thus taken over.
+
+The equations of motion do not suffice to solve the quantum problem. On
+the classical theory the equations of motion do not determine the x,, (2),
+as functions of the «’s until we assume something about the «’s which serves
+to define them. We could, if we liked, complete the solution by choosing
+the «’s such that 0E/0«, = «,/2nx, where E is the energy of the system,
+which would make the «, equal the action variables J,. There must be corre:
+sponding equations on the quantum theory, and these constitute the quantum
+conditions.
+
+§3. Quantum Differentiation.
+
+Up to the present the only differentiation that we have considered on the
+quantum theory is that with respect to the time ¢. We shall now determine
+the form of the most general quantum operation d/dv that satisfies the laws
+
+@ gt yy =egt ft
+dy OT N= et Ah ®
+and
+d d ad
+DOG yt say. (II)
+
+(Note that the order of « and y is preserved in the last equation.)
+The first of these laws requires that the amplitudes of the components of
+dx/dv shall be linear functions of those of a, 7.e.,
+
+da|dv (nm) = Xam a (nm; n'm’) x (n'm’). (5)
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 6 ---
+646 P. A. M. Dirac.
+
+There is one coefficient a (nm; n’m’) for any four sets of integral values for
+the n’s, m’s, n”s and m'’s. The second law imposes conditions on the a’s.
+Substitute for the differential coefficients in II their values according to (5)
+and equate the (nm) components on either side. The result is
+
+Lame &(nm 3 n'm’) x (n’k) y (kim’) = Xp a (nk 5 nk’) x (n'k’) y (km)
++ Zim & (nk) a (km; k'm’) y (k'm’).
+This must be true for all values of the amplitudes of # and y, so that we can
+equate the coefficients of a (n’k) y(k'm’) on either side. Using the symbol
+
+Sn to have the value unity when m= (i.e., when each m, = m,) and zero
+when m#n, we get
+
+Say @ (nm 3 n'm’) = Simm @ (nk; n'k) + Says @ (km; k’m’).
+To proceed further, we have to consider separately the various cases of equality
+and inequality between the kk’, mm’ and nn’.
+Take first the case when k =k’, mm’, nn’. This gives
+a(nm; n'm’) = 0.
+
+Hence all the a (nm; n'm’) vanish except those for which either » =n’ or
+m= m’ (or both). The cases k 4k’, m=m', n#~n' andk#Ak', mAm,
+n=n' do not give us anything new. Now take the case k= hk’, m= wm’,
+n#n'. This gives
+
+a (nm; n'm) = a(nk; n’k).
+
+Hence a (nm ; n’m) is independent of m provided n # n’. Similarly, the case
+k=k',m A m’,n =n’ tells us that a (nm; nm’) is independent of n provided
+m#m'. The casek £k', m=m', n =n’ now gives
+a(nk'; nk) +-a(km; k'm) = 0.
+We can sum up these results by putting
+a (nk! ; nk) = a (kk) == — a (km; k’m), (6)
+
+provided k 4k’. The two-index symbol a (kk’) depends, of course, only on
+the two sets of integers k and k’. The only remaining case is k = kh’, m =m’,
+n =n’, which gives
+a(nm; nm) = a (nk; nk) + a (km; km).
+This means we can put
+a (nm; nm) = a(mm) — a (nn). (7)
+
+Equation (7) completes equation (6) by defining a (kk’) when k = kh’.
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 7 ---
+Fundamental Equations of Quantum Mechanics. 647
+
+Equation (5) now reduces to
+
+dx|dv (nm) = Xin ~ma (nm; nm’) « (nm) + Ly en a (nm; n'm) x (n'm)
+-+ a{nm ; nm) x (nm)
+= Za xm @ (m'm) x (nm) — Xn an a(n’) & (n'm)
++ {a (mm) — a (nn)}x (nm)
+== Li, {x (nk) a (km) — a (nk) x (km)}.
+Hence
+dafdv = xa — az. (8)
+
+Thus the most general operation satisfying the laws I and II that one can
+perform upon a quantum variable is that of taking the difference of its Heisen-
+berg products with some other quantum variable. It is easily seen that one
+cannot in general change the order of differentiations, 7.¢.,
+
+Px Px
+dudv ” dvdu"
+
+As an example in quantum differentiation we may take the case when (a)
+is a constant, so that a (nm) == 0 except when n =m. We get
+
+dx|dv (nm) = x (nm) a (mm) — a (nn) x (nm).
+
+In particular, if 1a (mm) = Q (m), the frequency level previously introduced,
+we have
+
+dx|dv (nm) == tw (nm) x (nm),
+and our differentiation with respect to v becomes ordinary differentiation with
+respect to ¢.
+
+§4. The Quantum Conditions.
+
+We shall now consider to what the expression (zy — yx) corresponds on the
+classical theory. To do this we suppose that 2 (2,Q—2) varies only slowly
+with the n’s, the n’s being large numbers and the «’s small ones, so that we
+can put
+
+L(N, M— 0) = Cox
+where «, = n,h or (n,-+ «,) h, these being practically equivalent. We now have
+&(n, n—a) y (n—a, N—a—f) — y(n, n—B) a (n—B, n—a—B)
+{a (n, n—a)—x (n—B, n—B—a)} y (n—a«, n—a—B)
+{y (n,n —B)—y (n—a, n—a—B)} # (n—B, m—a—B).
+_ O@an, Yen |
+= 13, {8 SE Yn Sy an f+ (9)
+
+e
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 8 ---
+648 P. A. M. Dirac.
+
+Now
+2718 yp exp. i (Ba) t = a {yp exp. + (Bo) t
+
+where the w, are the angle variables, equal to o,t/2. Hence the (nm)
+component of (ay — yx) corresponds on the classical theory to
+
+th fa] . 3 .
+Fe Pappa nmB{ (ae exp. i (00) 1} 5 yp exp. (Ba)
+
+_ et exp. 4 (Bo) ¢} se {a, exp. i (ao) i
+
+or (zy — yx) itself corresponds to
+th (32 oy oy ge
+In" (Ox, Ow, Ox, Ow,S”
+If we make the «, equal the action variables J,, this becomes ih/2x times
+the Poisson (or Jacobi) bracket expression
+toa) = 256, ah bora ~ "log dn otek
+where the p’s and q’s are any set of canonical variables of the system.
+The elementary Poisson bracket expressions for various combinations of
+
+the p’s and q’s are
+[4G] = 9, [pp pel = 0,
+
+[ges Pal = Sy = 0 (#8) (10)
+=l. (r= s))
+The general bracket expressions satisfy the laws I and II, which now read
+(x, 2] + [yz] =[e+y, 2], Ia
+(ay, z] = [#, z]y + &[y, 2]. Ila
+By means of these laws, together with [#,y] = — [y, x], if # and y are
+
+given as algebraic functions of the p, and q,, [x,y] can be expressed in terms
+of the [q,, ds], [p» pe] and [q,,p,], and thus evaluated, without using the
+commutative law of multiplication (except in so far as it is used implicitly on
+account of the proof of Ila requiring it). The bracket expression [w, y] thus
+has a meaning on the quantum theory when x and y are quantum variables,
+if we take the elementary bracket expressions to be still given by (10).
+
+We make the fundamental assumption that the difference between the Heisen-
+berg products of two quantum quantities is equal to th/2m times their Poisson
+bracket expression. In symbols,
+
+ay — yx = th/In . [a, y]. (11)
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 9 ---
+Fundamental Equations of Quantum Mechanics. 649
+
+We have seen that this is equivalent, in the limiting case of the classical
+theory, to taking the arbitrary quantities x, that label a solution equal to
+the J,, and it seems reasonable to take (11) as constituting the general quantum
+conditions.
+
+lt is not obvious that all the information supplied by equation (11) is con-
+sistent. Owing to the fact that the quantities on either side of (11) satisfy
+the same laws I and IT or Ia and Ia, the only independent conditions given by
+(11) are those for which x and y are p’s or q’s, namely
+
+TAs — 4r = 9 }
+
+PDs — PsPp = 0 fae (12)
+VPs — Pdr = Sis th [2 J
+
+If the only grounds for believing that the equations (12) were consistent with
+each other and with the equations of motion were that they are known to be
+consistent in the limit when 4-> 0, the case would not be very strong, since
+one might be able to deduce from them the inconsistency that h = 0, which
+would not be an inconsistency in the limit. There is much stronger evidence
+than this, however, owing to the fact that the classical operations obey the
+same laws as the quantum ones, so that if, by applying the quantum operations,
+one can get an inconsistency, by applying the classical operations in the same
+way one must also get an inconsistency. If a series of classical operations
+leads to the equation 0 = 0, the corresponding series of quantum operations
+must also lead to the equation 0 = 0, and not to h = 0, since there is no way
+of obtaining a quantity that does not vanish by a quantum operation with
+quantum variables such that, the corresponding classical operation with the
+corresponding classical variables gives a quantity that does vanish. The
+possibility mentioned above of deducing by quantum operations the incon-
+sistency h = 0 thus cannot occur. The correspondence between the quantum
+and classical theories lies not so much in the limiting agreement when h->0 as
+in the fact that the mathematical operations on the two theories obey in many cases
+the same laws. :
+
+For a system of one degree of freedom, if we take p = mq, the only quantum
+
+condition is
+2rm (9G — Gq) = th.
+
+Equating the constant part of the left-hand side to 7h, we get
+drm &y, q (nk) ¢ (kn) w (kn) = h,
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 10 ---
+650 P. A. M. Dirac.
+
+This is equivalent to Heisenberg’s quantum condition.* By equating the
+remaining components of the left-hand side to zero we get further relations
+not given by Heisenberg’s theory.
+
+The quantum conditions (12) get over, in many cases, the difficulties concern-
+ing the order in which quantities occurring in products in the equations of
+motion are to be taken. The order does not matter except when a p, and q,
+are multiplied together, and this never occurs in a system describable by a
+potential energy function that depends only on the q’s, and a kinetic energy
+function that depends only on the p’s.
+
+It may be pointed out that the classical theory quantity occurring in Kramers’
+and Heisenberg’s theory of scattering by atomst has components which are
+of the form (8) (with «,=J,), and which are interpreted on the quantum
+theory in a manner in agreement with the present theory. No classical expres-
+sion involving differential coefficients can be interpreted on the quantum
+theory unless it can be put into this form.
+
+§5. Properties of the Quantum Poisson Bracket Expressions.
+In this section we shall deduce certain results that are independent of the
+assumption of the quantum conditions (11) or (12).
+The Poisson bracket expressions satisfy on the classical theory the identity
+
+(x, y, 2] = [le yk 2] + [ly 2] #] + [lz #] y] =0. (13)
+On the quantum theory this result is obviously true when «, y and z are
+p’s or gs. Also, from Ia and IIa
+
+[y+ %a y, 2] =[%, y, zZ] + [%2, y, 2]
+
+and
+[®1, Vg, Y, 2] = © [Z, y, 2] + [%, Y, Z] Vp.
+
+Hence the result must still be true on the quantum theory when 2, y and z
+
+are expressible in any way as sums and products of p’s and q’s, so that it must
+be generally true. Note that the identity corresponding to (13) when the
+Poisson bracket expressions are replaced by the differences of the Heisenberg
+products (ay — yx) is obviously true, so that there is no inconsistency with
+equation (11).
+
+If H is the Hamiltonian function of the system, the equations of motion
+may be written classically :
+
+Pr = [Pry H] Ge = [Gr HH].
+
+* Heisenberg, loc. cit. equation (16).
++ Kramers and Heisenberg, ‘Zeits. f. Phys.,’ vol. 31, p. 681, equation (18), (1925).
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 11 ---
+Fundamental Equations of Quantum Mechanics. 651
+
+These equations will be true on the quantum theory for systems for which
+the orders of the factors of products occurring in the equations of motion are
+unimportant. They may be taken to be true for systems for which these
+orders are important if one can decide upon the orders of the factors in H.
+From laws Ia and IIa it follows that
+
+& = [#, H] (14)
+on the quantum theory for any «.
+
+If A is an integral of the equations of motion on the quantum theory,
+then.
+[A, H] =0.
+
+The action variables J, must, of course, satisfy this condition. If A, and A,
+are two such integrals, then, by a simple application of (13), it follows that
+
+[A,, Ag] = const.
+as on the classical theory.
+
+The conditions on the classical theory that a set of variables P,, Q, shall be
+canonical are
+
+[Q, Q]=0  [P,, PJ] =9
+[Qys Pl = Sree
+
+These equations may be taken over into the quantum theory as the conditions
+for the quantum variables P,, Q, to be canonical.
+
+On the classical theory we can introduce the set of canonical variables
+E,, 4, related to the uniformising variables J,, w,, by
+
+€, = (2x)? Ip exp. 2niw, yy = — 1 Qn) exp. — 2niw,.
+
+Presumably there will be a corresponding set of canonical variables on the
+quantum theory, each containing only one kind of component, so that
+2, (nm) =0 except when m,=n,— 1 and m, =n, (s #7), and yy (nm) = 0
+except when m,=m,+1 and m,=n,(s #7). One may consider the
+existence of such variables as the condition for the system to be multiply periodic
+on the quantum theory. The components of the Heisenberg products of
+&, and », satisfy the relation
+
+En, (nn) = &, (nm) np (mn) = hy (mn) &, (mm) = npb, (mm) (15)
+
+where the m’s are related to the ”’s by the formule m, = n,—1, m, = 7, (8 #1).
+The classical &’s and 7’s satisfy n= — 7/2x.J,. This relation does not
+necessarily hold between the quantum &’s and y’s. The quantum relation
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 12 ---
+652 P. A. M. Dirac.
+
+may, for instance, be 1,€,= —7/2r.J,, or 4 (Ene mb,) = — t/2n. J,
+A detailed investigation of any particular dynamical system is necessary in
+order to decide what it is. In the event of the last relation being true, we
+can introduce the set of canonical variables ¢,’, n,’ defined by
+
+Eyl = (Ent tne) 2, ae = (Ue tt) V2
+and shall then have
+Span 2+ ay).
+This is the case that actually occurs for the harmonic oscillator. In general
+J, is not necessarily even a rational function of the &, and y,, an example
+of this being the rigid rotator considered by Heisenberg.
+
+§6. The Stationary States.
+
+A quantity C, that does not vary with the time, has all its (nm) components
+zero, except those for which x =m. It thus becomes convenient to suppose
+each set of n’s to be associated with a definite state of the atom, as on Bohr’s
+theory, so that each C (nn) belongs to a certain state in precisely the same way
+in which every quantity occurring in the classical theory belongs to a certain
+configuration. The components of a varying quantum quantity are so inter-
+locked, however, that it is impossible to associate the sum of certain of them with
+a given state.
+
+A relation between quantum quantities reduces, when all the quantities are
+constants, to a relation between C(nm)’s belonging to a definite stationary state n.
+This relation will be the same as the classical theory relation, on the assumption
+that the classical laws hold for the description of the stationary states ; in
+particular, the energy will be the same function of the J’s as on the classical
+
+theory. We have here a justification for Bohr’s assumption of the mechanical
+nature of the stationary states. It should be noted though, that the variable
+quantities associated with a stationary state on Bohr’s theory, the amplitudes
+and frequencies of orbital motion, have no physical meaning and are of no
+mathematical importance.
+
+If we apply the fundamental equation (11) to the quantities « and H we get,
+with the help of (14),
+
+a (nm) H (mm) — H (nn) « (nm) = th/2n . & (nm) = — h/2x . w (nm) x (nm),
+or H (nn) — H (mm) = h/2n . w (nm).
+
+This is just Bohr’s relation connecting the frequencies with the energy
+differences.
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms
+
+--- Page 13 ---
+Fundamental Hquations of Quantum Mechames. 653
+
+The quantum condition (11) applied to the previously introduced canonical
+variables &,, jp gives
+Eqn (nm) — heb, (nm) == th [27 . [Ep No] = th/2re.
+This equation combined with (15) shows that
+E,ny» (nn) = — 1, th/27m + const.
+
+It is known physically that an atom has a normal state in which it does not
+radiate. This is taken account of in the theory by Heisenberg’s assumption
+that all the amplitudes C (mm) having a negative n, or m, vanish, or rather do
+not exist, if we take the normal state to be the one for which every n, is zero.
+This makes &,n, (nn) = 0 when n, = 0 on account of equation (15). Hence in
+general
+
+Ejty (tin) = — n, sh] Ire.
+
+If Eq, = — 1/20. J,, then J, = 2,h. This is just the ordinary rule for quan-
+tising the stationary states, so that in this case the frequencies of the system
+are the same as those given by Bohr’s theory. If 4 (En, + 8) = — /2n.J,,
+then J, = (n,-+4)h. Hence in general in this case, half quantum numbers
+would have to be used to give the correct frequencies by Bohr’s theory.*
+
+Up to the present we have considered only multiply periodic systems. There
+does not seem to be any reason, however, why the fundamental equations (11)
+and (12) should not apply as well to non-periodic systems, of which none of
+the constituent particles go off to infinity, such as a general atom. One would
+not expect the stationary states of such a system to classify, except perhaps
+when there are pronounced periodic motions, and so one would have to assign
+a single number n to each stationary state according to an arbitrary plan. Our
+quantum variables would still have harmonic components, each related to
+two n’s, and Heisenberg multiplication could be carried out exactly as before,
+There would thus be no ambiguity in the interpretation of equations (12) or
+of the equations of motion.
+
+I would like to express my thanks to Mr. R. H. Fowler, F.R.S., for many
+valuable suggestions in the writing of this paper.
+
+* In the special case of the Planck oscillator, since the energy is a linear function of J,
+the frequency would come right in any case.
+
+This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC
+All use subject to http://about jstor.org/terms

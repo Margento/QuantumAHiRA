@@ -1,0 +1,364 @@
+
+--- Page 1 ---
+2. Ueber die Energievertheilung
+im Bmissionsspectrum eines schwarzen Körpers;
+von Willy Wien.
+
+Während die Veränderung der Wärmestrahlung eines
+schwarzen Körpers und ihrer Vertheilung auf die einzelnen
+Wellenlängen mit der Temperatur sich auf Grund der electro-
+magnetischen Lichttheorie auf rein thermodynamischem Wege
+ohne Zuhülfenahme besonderer Hypothesen ableiten lässt, ist
+dies für die Energievertheilung selbst bisher nicht gelungen.
+Und doch liegt es in der Natur der Sache, dass durch die
+Eigenschaften der Strahlung selbst auch die Abhängigkeit der
+Intensität von der Wellenlänge vollkommen bestimmbar sein
+müsste, weil sie nur von der Temperatur, nicht aber von
+speciellen Eigenschaften einzelner Körper abhängt.
+
+Die Strahlung eines schwarzen Körpers entspricht dem
+Zustande des Wärmegleichgewichts und infolge dessen einem
+Maximum der Entropie. Wäre z. B. irgend ein Vorgang be-
+
+- kannt, durch den eine Veränderung der Wellenlängen ohne
+Arbeitsaufwand und ohne Absorption in bekannter Weise im
+Sinne einer Zunahme der Entropie vorgenommen werden könnte,
+so würde sich die Energievertheilung im Spectrum eines schwar-
+zen Körpers aus der Bedingung des Maximums der Entropie
+vollständig bestimmen. Es lässt sich zwar, wie ich in einer
+früheren Arbeit gezeigt habe, immer die Entropie der Strahlung
+von bekannter Intensität und Farbe angeben, aber es zeigen
+sich vorläufig keine physikalischen Processe, durch die eine
+Verwandlung der Farbe, wie die verlangte, in übersehbarer
+Weise vor sich geht. Es ist daher eine Bestimmung der
+Energievertheilung ohne Hypothesen nicht 'möglich.
+
+Der Versuch, ein vollständiges Strahlungsgesetz auf gewisse
+Annahmen zu gründen, ist von E. v. Lommel!) und W. Michel-
+son?) gemacht worden. Letzterer macht dabei folgende Voraus-
+setzungen:
+
+1) Ev. Lommel, Wied. Ann. 3. p. 251. 1877.
+2) W. Michelson, Journ. de phys. (2) 6. 1887.
+
+--- Page 2 ---
+Emissionsspectrum. 663
+
+1. Das Maxwell’sche Gesetz der Vertheilung der Ge-
+schwindigkeiten unter einer grossen Anzahl von Molecülen ist
+auch für feste Körper gültig.
+
+2. Die Schwingungsperiode r, die von einem Molecül er-
+regt wird, hängt mit der fortschreitenden Geschwindigkeit v
+desselben durch die Gleichung
+
+se
+v
+
+=
+
+zusammen, wo oe eine Constante bezeichnet. (Diese Annahme
+wird durch eine bestimmte Vorstellung über die Art der Er-
+regung der Strahlung gewonnen.)
+
+3. Die Intensität der von einem Molecül ausgesandten
+Strahlung ist der Anzahl der Molecüle von derselben Schwin-
+gungsperiode proportional, ferner einer unbestimmten Function
+der Temperatur und einer ebenfalls unbekannten Function der
+lebendigen Kraft, die dann durch eine weitere Annahme auf
+eine Potenz von v? beschränkt wird.
+
+Das Gesetz, welches Michelson aus diesen Annahmen
+erhält, ergiebt für die Wellenlänge A, des Maximums der
+Energie
+
+= const.
+
+"vs
+wenn © die absolute Temperatur bezeichnet. Im übrigen lässt
+dies Gesetz die Gesammtemission als Function der Temperatur
+unbestimmt.
+
+Ich habe mich nun bemüht, den glücklichen Gedanken
+Michelson’s, das Maxwell’sche Gesetz der Vertheilung der
+Geschwindigkeiten als Grundlage des Strahlungsgesetzes zu
+benutzen, ebenfalls zu verwerthen, die Anzahl der Hypothesen
+aber, die auf diesem Gebiete wegen unserer gänzlichen Un-
+kenntniss der Erregung der Strahlung besonders unsicher sind,
+durch Heranziehung der von Boltzmann und mir auf rein
+thermodynamischem Wege gewonnenen Ergebnisse zu ver-
+ringern.
+
+Die noch übrig bleibenden Hypothesen lassen immer noch
+Unsicherheit in der theoretischen Begründung zurück, bieten
+aber doch den Vortheil, dass die Ergebnisse unmittelbar und
+in sehr ausgedehntem Maasse mit der Erfahrung verglichen
+
+
+--- Page 3 ---
+664 W. Wien.
+
+werden können. Die Bestätigung oder Widerlegung durch die
+Erfahrung wird daher auch umgekehrt über die Richtigkeit
+oder Unrichtigkeit der Hypothesen entscheiden und insofern
+für einen weiteren Ausbau der Moleculartheorie nützlich sein.
+
+Der Satz, dass in einem leeren Raum, der von gleich-
+temperirten Wänden umgeben ist, die Strahlung eines schwarzen
+Körpers vorhanden ist, gilt auch, wenn die Strahlung von
+Gasen ausgeht, die von dem Hohlraum vermittelst durch-
+sichtiger, von aussen durch spiegelnde Wände abgeschlossen
+sind. Nur müssen die Gase ein endliches Absorptionsvermögen
+für alle Wellenlängen haben. Es unterliegt keinem Zweifel,
+dass es Gase gibt, die durch blosse Tremperaturerhöhung
+Wärmestrahlen aussenden, wie die Kohlensäure und der Wasser-
+dampf.?) Stark überhitzte Dämpfe können als Gase behandelt
+werden und durch passende Mischung verschiedener Substanzen
+wird man sich immer eine Gasmischung hergestellt denken
+können, die für alle Wellenlängen ein endliches Absorptions-
+vermögen besitzt. Man darf aber hierbei nicht an die Strahlung
+denken, welche die Gase unter dem Einfluss electrischer oder
+chemischer Vorgänge aussenden.
+
+Nimmt man also als strahlenden Körper ein Gas an, so
+wird das Maxwell’sche Gesetz der Vertheilung der Geschwindig-
+keiten gelten, wenn man sich auf den Boden der kinetischen
+Gastheorie stellt. Die absolute Temperatur wird der mittleren
+lebendigen Kraft der Gasmolecüle proportional sein. Diese
+Annahme hat durch die Arbeiten von Clausius?) und Boltz-
+mann?) einen hohen Grad von Wahrscheinlichkeit erlangt und
+wird durch die Untersuchungen von Helmholtz‘) über mono-
+eyklische Systeme, nach der sowohl die lebendige Kraft als
+auch die absolute Temperatur die Eigenschaft haben, inte-
+grirender Nenner des Differentials der zugeführten Energie zu
+sein, noch weiter gestützt.
+
+Um die unnöthige Weitläufigkeit zu vermeiden, welche
+durch. die Einführung der verschiedenen Bestandtheile des
+Gasgemisches entstehen würde, denken wir uns die Mischung '
+
+1) Paschen, Wied. Ann. 50. p. 409. 1893.
+
+2) Clausius, Pogg. Ann. 142. p. 433. 1871.
+
+3) Boltzmann, Wien. Ber. (2) 53. p. 195. 1366.
+-4) Helmholtz, Ges. Abh. 3. p. 119.
+
+--- Page 4 ---
+Emissionsspectrum. 665
+
+derartig, dass die betrachtete homogene Strahlung vorzugs-
+weise von einem Bestandtheil der Gasmischung ausgesandt
+werde.
+
+Die Anzahl der Molecüle, deren Geschwindigkeit zwischen
+v und v + dv liegt, ist proportional der Grösse
+
+u
+vie @ do,
+wo « eine Constante bezeichnet, die sich durch die mittlere
+Geschwindigkeit # vermittelst der Gleichung
+" wie
+ausdrücken lässt. Die absolute Temperatur ist also «? Ppro-
+portional.
+
+Die Schwingungen nun, die ein Molecül, dessen Geschwindig-
+keit v ist, aussendet, sind in ihrer Abhängigkeit vom Zustande
+desselben vollkommen unbekannt. Allgemein angenommen ist
+jetzt wohl die Anschauung, dass die electrischen Ladungen
+der Molecüle electromagnetische Wellen erregen können.
+
+Wir machen die Hypothese, dass jedes Molecül Schwin-
+gungen einer Wellenlänge aussendet, die nur von der Ge-
+schwindigkeit des bewegten Molecüls abhängt und deren Inten-
+sität eine Function dieser Geschwindigkeit ist.
+
+Man kann durch mancherlei specielle Annahmen über den
+Vorgang der Strahlung zu dieser Folgerung gelangen, da aber
+solche Voraussetzungen hier vorläufig vollkommen willkürlich
+sind, so scheint es mir zunächst am sichersten, die noth-
+wendige Hypothese so einfach und allgemein als möglich zu
+machen.
+
+Da die Wellenlänge 2 der von einem Molecül ausgesandten
+Strahlung eine Function von » ist, so ist auch v eine Function
+von 4.
+
+Die Intensität 9, der Strahlung, deren Wellenlänge zwi-
+schen 4 und A + di liegt, ist also proportional
+
+1. der Anzahl der Molecüle, die Schwingungen dieser
+Periode aussenden,
+
+2. einer Function der Geschwindigkeit v, also auch einer
+Function von 4.
+
+“ Demnach ist Pr
+p=Fld)e ®,
+
+
+--- Page 5 ---
+666 W. Wien.
+
+wo F und f zwei unbekannte Functionen und # die absolute
+Temperatur bezeichnen.
+
+Nun setzt sich die Veränderung der Strahlung mit der
+Temperatur nach der von Boltzmann!) und mir?) gegebenen
+Theorie zusammen aus einer Steigerung der Gesammtenergie
+im Verhältniss der vierten Potenz der absoluten Temperatur
+und .einer Veränderung der Wellenlänge jedes zwischen A und
+7. + di eingeschlossenen Energiequantums in dem Sinne, dass
+sich die zugehörende Wellenlänge umgekehrt proportional der
+absoluten T’emperatur ändert. Denkt man sich also die Energie
+bei einer Temperatur als Function der Wellenlänge aufgetragen,
+so würde diese Curve bei geänderter Temperatur ungeändert
+bleiben, wenn der Maassstab der Zeichnung so geändert würde,
+dass die Ordinaten im Verhältniss 1/#* verkleinert und die
+Abseissen im Verhältniss 9 vergrössert würden. Das letztere
+ist bei unserem Werthe von g; nur möglich, wenn im Ex-
+ponenten A und ® nur als Product 4% vorkommen. Be-
+zeichnet c eine Constante, so ist
+
+ra) __ €
+#738
+zu setzen.
+Die Steigerung der Gesammtenergie bestimmt den Werth
+
+von F({i). Es muss nämlich sein
+[r® e #4 dh = const. 9,
+v
+
+FQ@) kann man nach der Methode der unbestimmten
+Coefficienten bestimmen. Wir denken uns F(A) in einer Reihe
+entwickelt und setzen A=c/y'#, so wird
+
+_ e\_ 97 Kar Kar
+Fo) #5) IE 2 Fee) Pe Ze ea ec En
+e e@ try
+Hang tagt
+
+1) Boltzmann, Wied. Ann. 22. p. 291. 1884.
+2) W. Wien, Ber. d. Berl. Akad. 9. Febr. 1893.
+
+--- Page 6 ---
+‚Emissionsspectrum. 667
+
+Bei der Integration ergiebt sich
+
+E E3
+
+Pr - Er =: [rl&N\e-r dy ge © ,
+Me Hdi=z 3) ee 2a, er dy.
+ö 0
+
+0°
+
+Es soll also
+get
+cn. - Da, —— In—1)
+n e
+sein.
+
+Es sind also alle Coefücienten Null bis auf einen, und
+es ergiebt sich für das Glied
+
+Geld,
+also n=5.
+Hiernach ist also
+const.
+ray = et.
+
+Die Gleichung für g; wird hiernach
+
+les.
+#
+Hieraus folgt
+e
+dp 0e * 5__
+da" 28)”
+ee
+ep Ce ** 12e e@ \,
+ar 77 (30 — 15 + Fr)
+für
+»=—_- wird 4720
+BEE TE
+dp 5Ce-d
+an
+
+d?p/d32 ist negativ, der Werth entspricht also einem Maximum.
+Wir wollen diesen Werth mit ?,, bezeichnen. Der zugehörige
+Werth von @ ist
+
+e=d,
+
+Gn=
+
+io
+
+Da sowohl p als dp/dA für A= oo verschwinden, so ist
+die Curve eine Asymptote an die A-Axe.
+
+--- Page 7 ---
+668 W. Wien.
+Ferner ist d’p/di”=0 für die Wurzeln der Gleichung
+
+OR-12CL0 +E=0,
+also für _
+Ai, yR)
+Für diese beiden Punkte hat die Curve Wendepunkte.
+Setzen wir 2=4,(l +), so wird
+
+B 5
+Ce müited 00g 1re
+also PT Rare BACH”
+- & -
+log = n 5 [los +9)- 1) = 542-382 +3e...)
+m
+
+Setzen wir —e für &, so ist
+
+log Fr = —-542+32®° +2...)
+Hier ist der absolute Betrag der Reihe grösser, also p/p,
+kleiner als bei positivem & Soweit e< 1 sind die Ordinaten
+in gleichem Abstand vom Maximum kleiner auf der Seite der
+kleinen Wellenlängen.
+
+In einer früheren Arbeit!) hatte ich abgeleitet, dass die
+Energiecurven schwarzer Körper bei verschiedener Temperatur
+einander nicht schneiden dürfen. Daraus ‚liess sich weiter
+ableiten, dass die Curve nach der Seite der langen Wellen
+langsamer abfallen müsse, als die Curve
+
+const.
+35
+
+Dies ist nun thatsächlich bei unserer Curve der Fall;
+dgı/di ist dem absoluten Betrage nach immer kleiner als
+5C/3° und erreicht diesen Grenzwerth erst für = oo. Für
+unendlich wachsende Temperatur würde 9, = C/A® werden
+und das Maximum der Energie sich der Wellenlänge Null
+unbeschränkt nähern.
+
+1) W. Wien, Wied. Ann. 52. p. 159. 1894.
+
+--- Page 8 ---
+W. Wien. Emissionsspectrum. 669
+
+Als ich die Formel für g, aus den erwähnten theo-
+retischen Ueberlegungen abgeleitet hatte, war unabhängig
+davon von Hrn. Prof. Paschen die Formel
+
+ce -—
+= .° 75
+
+(wo & eine Constante ist), als die, seine Beobachtungen am
+besten wiedergebende, gefunden, und er hatte die Freund-
+lichkeit, mir davon Nachricht zu geben und die Mittheilung
+seiner Formel an dieser Stelle zu gestatten. Den Werth der
+Constanten & beabsichtigt Hr. Prof. Paschen aus der voll-
+ständigen Berechnung und Vergleichung seiner Beobachtungen
+zu bestimmen. Ist & nicht 5, so würde die Gesammtemission
+dem Stefan’schen Gesetze nicht folgen.
+
+Charlottenburg, Juni 1896.

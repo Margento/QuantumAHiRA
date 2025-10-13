@@ -1,0 +1,1346 @@
+
+--- Page 1 ---
+9
+
+5. Welche Züge der Lichtquantenhypothese
+spielen in der Theorie
+der Wärmestrahlung eine wesentliche Rolle?
+von Paul Ehrenfest.
+
+Die Lichtquantenhypothese wird in der letzten Zeit auf
+einen rasch sich erweiternden Kreis von Fragen angewendet,
+die mit dem Problem der Wärmestrahlung zum Teil nur in
+sehr losem Zusammenhang stehen. Das Schicksal dieser
+Hypothese wird ja wohl vor allem durch die experimentellen
+Ergebnisse gerade in den neuen Anwendungsgebieten ent-
+schieden werden. Zurzeit liegt aber von dieser Seite her
+noch keine deutliche Entscheidung vor. Es mag deshalb ge-
+stattet sein, eine Reihe von Überlegungen vorzubringen, die —
+wie mir scheint — folgendes leistet: Sie schält einige Züge der
+Lichtquantenhypothese heraus, die schon jetzt im Hinblick auf‘ die
+Bigentümlichkeiten der schwarzen Strahlung als gesichert gelten
+müssen. Eben dadurch wirft sie einiges Licht darauf, in-
+wieweit andere, charakteristische Züge der Lichtquanten-
+hypothese vom Standpunkt der Wärmestrahlung als noch
+modifizierbar angesehen werden können.
+
+Eine Zusammenfassung der Ergebnisse, sowie die Formu-
+lierung anschließender Fragen findet man in $ 14.
+
+&1. Zusammenstellung derjenigen Eigentümlichkeiten
+der Wärmestrahlung,
+auf die sich weiterhin die Untersuchung beruft.
+
+I. Bei reversibel-adiabatischer Kompression einer in ein
+vollkommen spiegelndes Gefäß eingeschlossenen (ungeordneten)
+Strahlung ändert sich ihre Entropie nicht, gleichgültig, ob die
+Strahlung schwarz oder nicht schwarz ist.
+
+--- Page 2 ---
+92 P. Ehrenfest.
+
+U. Das PVerschiebungsgesetz. Die Spektralverteilung ist
+in folgender allgemeinen Form enthalten:
+
+N) en Ddr=un.f(ß7)ar-
+
+Das Verschiebungsgesetz an sich schränkt die Gestalt
+von f noch nicht näher ein.
+
+IL Die Bewährung der Rayleigh- “Jeansschen Gleichung
+für sehr große Wellenlängen. Da sich die Formel
+
+2) em T)d:
+
+für sehr große Wellenlängen — kleine Werte von »/T7 gut
+bewährt, so werden wir fordern, daß r(e 7) für abnehmendes
+
+»T
+
+Argument schließlich wie (? 7) verlaufe, d. h. es soll sein
+
+(8) lim {e o-fl=1.
+
+Diese Forderung möge Rtforderunge heißen. Die W. Wiensche
+Strahlungsformel genügt ihr nicht; für sie würde dieser lim
+gleich Null sein.
+
+IV. Die Vermeidung der Rayleigh-Jeans- Katastrophe im
+Ultravioletten. Die Rayleigh-Jeanssche Gleichung (2) versagt
+bekanntlich für kürzere Wellen: sie läßt o(@,7) mit » über
+alle Grenzen wachsen, während es — damit die Totalenergie
+endlich bleibe — stärker als »-! gegen Null gehen muß:
+
+f ( ß 7) in Gleichung (1) muß — bei festem 7 — mit wachsen-
+
+dem » stärker als »-* gegen Null gehen; es muß sein:
+(4) ‚ Km: fo. fl = 0.
+
+Diese Forderung hieße " Tiolettforderung‘
+
+V. Die verstärkte Violettforderung. Unter Berufung auf
+den Umstand, daß sich für große Werte von »/7 die Strahlungs-
+messungen gut durch die Formel von W. Wien
+
+©) eWM= une
+darstellen lassen, kann man über Gleichung (4) hinausgehend
+fordern, es seien nur solche Strahlungsformeln zuzulassen, für
+
+v
+5
+
+--- Page 3 ---
+Lichtquantenhypothese. 93
+
+die f(o) mit unbegrenzt wachsendem o stärker gegen Null
+geht, als jede endliche negative Potenz von o; d.h, es soll sein
+
+(6) Jim for. fie} =0 (für beliebig große n).
+
+Die Forderung (4) muß wohl als evident gelten; die Gleichung (6)
+— sie heiße „verstärkte Piolettforderung“ — stellt hingegen ein
+Postulat vor, das schon viel weiter über die Erfahrung hinaus-
+greift. Die Folgerungen, die sich aus (6) ergeben werden, be-
+sitzen dementsprechend weit weniger Stringenz als die schon
+aus (4) ableitbaren (vgl. $ 8, 9).
+
+VI Die Wien-Plancksche Violettforderung. Bekanntlich
+besitzt die Plancksche Strahlungsformel
+
+(53) eWT)= er — —
+PF
+e 7-ı
+für große v/7’denselben Verlauf, wie die W. Wiensche Formel (5);
+oder anders formuliert: das f(c) der Planckschen Formel
+
+genügt der Forderung, daß eine endliche und von Null ver-
+schiedene Größe Z existiert, so daß
+
+HEN - M | endliche von Null }
+
+(7 lim .
+verschiedene Konstante
+
+ist. Es ist methodisch interessant, in den theoretischen Grund-
+lagen dieser beiden Formeln gerade diejenigen gemeinsamen
+Züge herauszupräparieren, die bewirken, daß in beiden Formeln
+die f(c) der Gleichung (7) — der „Wien-Planckschen Piolett-
+forderung‘‘ — genügen, die ungemein viel spezieller ist als
+die Gleichung (6), Deshalb werden wir im $12 die Klasse
+aller Strahlungsformeln analysieren, deren f (c) der Gleichung (7)
+genügt. — Es wäre aber natürlich verfehlt, aus der guten
+Übereinstimmung, welche im Gebiete großer v/T zwischen
+Messung und Gleichung (5) bzw. (5a) besteht, zu schließen,
+daß etwa wirklich alle f(o) zu verwerfen seien, welche nicht
+der Gleichung (7) genügen.')
+
+$2. Die elektromagnetischen Hilfsmittel.
+
+Wir werden uns der Methode der Bigenschwingungen be-
+dienen, wie sie zuerst Rayleigh und Jeans in die Theorie
+
+1) Vgl. die Bemerkungen am Ende von $ 12.
+
+--- Page 4 ---
+94 P. Ehrenfest.
+
+der Hohlraumstrahlung eingeführt haben. Man könnte aber
+in jedem Augenblick, wohl ohne irgend eine neue Schwierig-
+keit überwinden zu müssen, zu der Resonatorenterminologie über-
+gehen, deren sich Planck in seinen Arbeiten bedient. — Be-
+züglich der allgemeinen Entwickelung über die elektromagne-
+tischen Eigenschwingungen eines Hohlraumes sei auf 8 165
+des Buches von Planck verwiesen. Man findet dort den
+Beweis für folgende Aussage: j
+
+I. Für einen leeren Spiegelwürfel von der Seitenlänge I
+ist die Zahl der voneinander unabhängigen elektromagnetischen
+Eigenschwingungen, deren Frequenz zwischen » und v +dv
+liegt, gegeben durch:
+
+8n13,?
+
+(8) Noydı=E dv.
+
+Unschwer beweist man folgenden Satz}):
+
+Il. Wenn durch Zusammenschieben der Spiegelwände der
+Würfel ‘sich unendlich langsam verkleinert, so wachsen (auf
+Kosten der gegen den Strahlungsdruck geleisteten Kompressions-
+arbeit) die Partialenergien aller Eigenschwingungen in einer
+und derselben Proportion und zwar direkt proportional wie
+ihre Frequenz » und somit umgekehrt proportional zur Seiten-
+länge ! des Würfels:
+
+Ey, E,
+9 v7,
+(10) vT=rvl.
+
+$ 3. Die wahrscheinlichkeits-theoretischen Hilfsmittel.
+
+Sie lassen sich etwa folgendermaßen charakterisieren:
+Es wird bei gegebener Totalenergie die „wahrscheinlichste“
+Verteilung der Eigenschwingungen über alle möglichen Er-
+regungsbereiche nach demselben Verfahren bestimmt, nach
+welchem Boltzmann die — bei gegebener Totalenergie —
+„wahrscheinlichste“ Verteilung der Moleküle eines aus vielen
+
+1) Lord Rayleigh, Phil. Mag. 1902. p.339. Lord Rayleigt
+zeigt, wie man mit Hilfe der von ihm gegebenen Gleichungen da:
+Boltzmann-Stefansche Gesetz ableiten kaun. — Die Gleichungen (9)
+(10) liefern aber auch die bequemste Ableitung für das Wiensche Ver-
+schiebungsgesetx.
+
+--- Page 5 ---
+Lichtquantenhypothese. 95
+
+Molekülsorten besehenden Gasgemisches über alle möglichen
+Geschwindigkeitsbereiche bestimmte. Die Eigenschwingungen
+eines und desselben Frequenzbereiches dv spielen dabei die
+Rolle der Moleküle einer und derselben Substanz.
+
+Nur in einem wesentlichen Punkte verallgemeinern wir
+das Boltzmannsche Verfahren: durch Einführung einer zu-
+nächst noch willkürlichen „Gewichtsfunktion“. Fragt man
+nämlich nach der relativen Wahrscheinlichkeit dafür, daß die
+Koordinaten g,...g, und Momente p, ...p, eines indi-
+viduellen Moleküles in dem einen oder anderen ‘von zwei
+irgendwie abgegrenzten (g,p)-Gebieten liegen, so setzt Boltz-
+mann diese relative Wahrscheinlichkeit immer proportional
+dem Quotienten der ‚(g,p)-Volumina“ der beiden Bereiche.
+Eine genauere Analyse dieser Festsetzung, die also für jedes
+individuelle Molekül den ganzen (g, p)-Raum mit einem von
+(9,7) unabhängigen Gewicht belegt, zeigt bekanntlich, daß sie
+zwar in vielen Beziehungen als einfachste, aber ganz gewiß
+nicht als einzig mögliche anzusehen ist.)
+
+Der Erregungszustand einer Eigenschwingung kann durch
+ihren Energieinhalt und ihre Phase charakterisiert werden.
+Für die individuelle Eigenschwingung sind alle Phasen als
+gleichberechtigt anzusehen. Die Gewichtsfunktion ist also von
+der Phase unabhängig. Für die Wahrscheinlichkeit, daß eine
+individuelle Eigenschwingung von der Frequenz » einen Energie-
+betrag aufweist, der zwischen E und #-+dE liegt, erhalten
+wir somit einen Ansatz von der Form:
+
+(11) 7, E)dv.
+
+1) Es ist leider üblich geworden zu sagen, daß die Boltzmannsche
+Gewichtswahl die einzig mögliche ist, falls das betrachtete System dem
+Hamiltonschen Prinzip und damit dem Liouvilleschen Theorem ge-
+horeht. Diese — für die nächste Zeit wohl unausrottbare Behauptung —
+ist völlig unbegründet. Sie würde nur erst dann die einzig mögliche
+sein, wenn überdies die Hypothese zugegeben wird, daß das System —
+sich selbst überlassen — schließlich „durch“ (!) jede mit der gegebenen
+Totalenergie verträgliche Phase geht (Ergodenhypothese). — Vgl. Math.
+Ene. IV. 32. — Formell kann man übrigens die Einführung einer nieht
+konstanten Gewichtsfunktion vermeiden, indem man an Stelle dessen bei
+der Aufsuchung des Minimums von H entsprechende Nebenbedingungen
+einführt. Vgl. P. Ehrenfest, Physik. Zeitschr. 7. p. 528. 1906.
+
+--- Page 6 ---
+96 P. Ehrenfest.
+
+Die Wahrscheinlichkeit dafür, daß von den N(v)dv Eigen-
+schwingungen der Frequenz v irgendwelche a), a,... Eigen-
+schwingungen in die konsekutiven Energiebereiche dH,,dE,...
+fallen‘), berechnet sich dann nach dem Boltzmannschen Ver-
+fahren zu:
+
+a) DwBdhlbewBdmp.. DRDL
+
+In der bekannten Weise geht man mit Hilfe der Stirling-
+schen Formel über zu der Darstellung des Logarithmus dieser
+Wahrscheinlichkeit mit Hilfe eines Integrales über kontinuier-
+liche Funktionen. Man erhält so:
+
+logW = const. + [are Dog) —1]+
+0
+(13) + far [aR-a, Zyflogyw, EB) -
+0 0
+
+- [av [aB-atw, Blog a, B) — 1].
+6.0
+
+Bei irgendwie schon getroffener Wahl der Gewichtsfunktion
+y(v, E) gewinnt man die „wahrscheinlichste‘ Verteilung bei ge-
+gebener Totalenergie &, wenn man diejenige Verteilung «a (v, Z)
+aufsucht, welche bei den Nebenbedingungen
+
+(14) Sara, B= N)
+
+und .
+
+(15) fer far: Bew B=&
+0 0
+
+die Größe log W zu einem Maximum macht. Man erhält:
+(16) av, E) = e!@y(y, Be-eE,
+
+1) Da es sich hier nur um die Aufsuchung der „wahrscheinlichsten“
+Verteilung handelt, so können wir schon von vornherein die Verteilung
+über die Phasen als gleichmäßig annehmen und die a, @,... nun von
+den E abhängen lassen. Bei der Analyse von Schwankungen um die
+wahrscheinlichste Verteilung würde dies nicht gestattet sein.
+
+--- Page 7 ---
+Lichtquantenhypothese. 97
+
+Hierbei sind A(v) und (— x) die Lagrangeschen Multipli-
+katoren der Nebenbedingungen (14) und (15).
+
+Den Multiplikator %(v) kann man mit Hilfe von (14)
+eliminieren: man setze (16) in (14) ein. Das gibt:
+
+az) ern. [dR-y, EJe-#E = N(n).
+v
+
+Aus (17) und (16) erhält man:
+
+(18) a, B)= No). Meet
+fas- re 8°-r2
+ö
+
+Der Multiplikator u wäre nun noch mit Hilfe der Neben-
+bedingung (15) auszudrücken. Das könnte natürlich nur da-
+durch geschehen, daß man für y(v, E) eine konkrete Funktion
+wählt und nach Einsetzung von (18) in (15) alle Integrationen
+ausführt. Wie sich in 86 zeigen wird, haben wir aber für
+unsere Zwecke nicht nötig, # durch € auszudrücken. — Für
+späteren Gebrauch folgende Bemerkungen:
+
+I. Bei bestimmter Wahl von y(»,Z) hängt u nur noch
+von & ab, hingegen — als Multiplikator der Nebenbedingung (15)
+— nicht von » und 2.)
+
+II. Zwei verschiedene Gewichtsfunktionen 7,(», #) und
+7,(%, E), die sich nur um einen von »v allein abhängenden
+Faktor voneinander unterscheiden:
+
+(19) en = Aw),
+liefern eine und dieselbe wahrscheinlichste Verteilung: Q (v) kürzt
+sich in (18). [Beruht auf der Existenz der Nebenbedingung (14)).
+
+III. Bisher wurde stillschweigend vorausgesetzt, daß (v, #)
+überall endlich sei und daß also nur erst endlichen Energie-
+bereichen ein endliches Totalgewicht zukommt, nicht aber
+einem einzelnen Energiegewicht. Weiterhin ($ 7, 8, 9) werden
+
+1) Daß im Gegensatz zu « der Multiplikator } von » abhängen
+muß, erklärt sich daraus, daß „die“ Nebenbedingung (14) eigentlich so
+viele Nebenbedingungen repräsentiert, als es verschiedene » gibt. Der
+Ansatz } (») gibt jeden von ihnen ihren besonderen Multiplikator.
+
+Annalen der Physik. IV. Folge. 36, 7
+
+--- Page 8 ---
+98 P. Ehrenfest.
+
+wir auch zulassen müssen, daß gewissen singulären Energie-
+werten ein solches Gewicht zukommt, wie im allgemeinen nur
+einem endlichen Energiebereich. Die Betrachtungen lassen
+sich ohne weiteres auf diesen allgemeineren Fall übertragen.
+Es treten dann nur noch zu den Integralen über das Kontinuum
+aller Z-Werte Summen über die singulären E-Werte hinzu.
+
+$4. Die Verknüpfung von „wahrscheinlichster‘“ Verteilung mit
+„schwarzer“ Strahlung und von log W mit der thermodynamisch-
+definierten Strahlungsentropie.
+
+Wir stellen diese Verknüpfung nur implizit und partiell
+her, indem wir — als einschränkende Voraussetzungen für die
+Wahl der Gewichtsfunktion y(v, EB) — folgende Forderungen
+formulieren:
+
+I. Die „wahrscheinlichste“ Verteilung der Eigenschwin-
+gungen über die Erregungsbereiche soll eine spektrale Energie-
+verteilung aufliefern, welche die im & 1 zusammengestellten
+Eigentümlichkeiten der schwarzen Strahlung zeigt.')
+
+II. Bei unendlich langsamer Kompression des Spiegel-
+würfels bleibt log W konstant, gleichgültig, von welcher An-
+fangsverteilung a(v, Z) man ausgeht.
+
+$5. Die Gewichtsfunktion hat — abgesehen
+von einem belanglosen Faktor — die Gestalt: yi», Z#)= G (En).
+
+Der Beweis stützt sich auf die Verknüpfung deer Forde-
+rung II in 84 mit dem Satz II in 8 2:
+
+Es herrsche anfänglich die Zustandsverteilung « (v, E). Wir
+komprimieren den Spiegelwürfel unendlich langsam von der
+Seitenlänge ! auf 7”. Wir setzen
+
+I
+0) Fi
+Verfolgen wir dabei jede einzelne Eigenschwingung, so haben
+wir nach Gleichung (9) und (10)
+@1) v=mv,
+(22) E=mE.
+
+=m.
+
+1) Die Gleichung (1) wird dabei — vgl. Gleichung (36) — den
+Parameter « der Formel (18) mit 7 verknüpfen.
+
+--- Page 9 ---
+Lichtquantenhypothese. 99
+
+Die Eigenschwingungen, deren Frequenz und Energie ursprüng-
+lich zwischen » und »+dv E und #H + dä lagen, liegen jetzt
+zwischen
+
+23) mv und mv+mdv, mE undmE+mdE.
+
+Also ist:
+
+24) av’, E).mdv:mdE = a(v, B)-dvdE.
+Somit
+
+25) av, B) = Zr a(v, B),
+
+26) Nür) = N).
+
+Nun soll (II $ 4) für alle möglichen Anfangs- a(v, Z) und jeden
+Wert von m gelten:
+
+27) lgW’— logW=0.
+
+Wegen (13) und (20) bis (26) gilt das nach einfacher Zwischen-
+rechnung, daß für alle möglichen Anfangs- a{v, E) und alle m
+sein soll:
+
+(28) fefr« v, E)log en 4 + [dr Noylogm = 0
+v
+
+oder, was wegen (14) damit äquivalent ist:
+
+(29) far farco, Big "mer no.
+
+Dürfte man in dieser Gleichung dem a(w, #) jede beliebige
+Gestalt geben, so würde unmittelbar folgen, daß der Ausdruck
+unter dem log für jeden Wert von m gleich 1 sein müsse.
+Nun ist aber a», Z) durch die Bedingung (14) eingeschränkt.
+Um zu einer Aussage über den Ausdruck unter dem log und
+damit über die Gestalt von von y(v, Z) zu gelangen, beachte
+man, daß die linke Seite von (29) bei jeder mit (14) verträg-
+lichen Variation von «a(v, E) beständig Null liefern muß. Löst
+man dieses Variationsproblem, so gelangt man — vgl. Anhang A
+— zum Resultat, daß y(v Z) die Gestalt haben muß:
+
+(80) 1, 2) = Q)- s(})-
+
+--- Page 10 ---
+100 P. Ehrenfest.
+
+Da aber (83, II) der Faktor Q(») keinen Einfluß auf die
+Strahlungsverteilung hat, so ist die Behauptung der Paragraph-
+überschrift bewiesen.
+
+86. Aufbau der Funktion f ( 7) des Verschiebungsgesetzes
+mit Hilfe der Gewichtsfunktion @ e) .
+
+Die „wahrscheinlichste‘‘ Spektralverteilung der im cm?
+enthaltenen Strahlungsenergie berechnet sich mit Hilfe der
+Gleichung (18) zu:
+
+oo
+
+SaE:Ee-«Er@, 2)
+N6) 0
+ee
+
+[a#-e-rEr@E)
+o
+
+(81)
+
+Wegen (8) und (30) geht dieser Ausdruck über in:
+
+En
+
+1 fer see (£)
+3 v v
+
+(82) ME
+Ser: 6 (#)
+u
+Setzt man
+E
+1) Eng,
+
+v
+
+so geht (32) über in:
+
+Pr
+Jaa-ae-err G(q)
+
+(34) = Dee u  — = flo).
+Jar rıc0@
+v
+
+Damit nun — im Sinne der Forderung I $ 4 — dieser Aus-
+druck die Form
+
+35) ef (#7)
+
+--- Page 11 ---
+Lichtquantenhypothese. 101
+
+aufweise, dafür ist hinreichend und notwendig, daß man den
+Parameter u von 7 in folgender Weise abhängen läßt:})
+
+(86) n=4:
+
+Mit den Abkürzungen
+
+(37) vu= BF =o,
+
+(88) . “ =6,
+
+(89) 20) = [ag-ge-a),
+v
+
+(40) No) = [ag:e- ci)
+ö
+
+nimmt (34) die Gestalt an:
+
+Ze)
+(41) MIO HE
+
+$7. Binführung von Punktbelegungen neben der
+Streckenbelegung @ (Ev).
+
+An dieser Stelle ist es nun leicht, sich von der Ein-
+schränkung freizumachen, auf die schon $ 3, III hingewiesen
+wurde: Neben der Streckendelegung @(g), die dem Element dg
+das infinitesimale Gewicht @(g)-dg zuweist, kann man noch
+für die Punkte g,, 9, 9, . .. als endliche Sondergewichte die
+‚Punktbelegungen G,, @,, @,. . . einführen. Modifiziert man dem-
+entsprechend die Schlüsse der 8$ 3—6, so erhält man an Stelle
+von (41) die Gleichung
+
+„ _ Po
+(42) (= Im”
+
+1) Der Parameter u war (I, $ 5) bei bestimmter Wahl der Gewichts-
+funktion noch Funktion der Totalenergie ©. Festsetzung (36) läuft also
+darauf hinaus, daß wir — bei bestimmter Wahl von @(E/») die Total-
+energie — & in passender Weise von 7 abhängen lassen. Die Be-
+stimmung der Konstanten «= und ß geschieht prinzipiell durch Ver-
+gleichung der berechneten mit der beobachteten Spektralverteilung.
+
+--- Page 12 ---
+102 P. Ehrenfest.
+
+wo zur Abkürzung gesetzt wurde:
+
+(48) 79,07%, + [dg:ge ıG()= Po),
+\ r r ’
+= !
+
+a) Den, + Jagemcg)= Am.
+
+v v
+Indem man alle @,= 0 setzt, kann man immer zur reinen
+Streckenbelegung und zu (41) zurückkehren.
+
+Bemerkung: In allen Fällen, wo bei Differentiation von
+Q(o) nach o die Reihenfolge von Differentiation nach o und
+Integration (bzw. Summation) nach g vertauscht werden darf,
+ist ersichtlich:
+
+(44a) A) =- No),
+(44b) Pi) =— 00),
+(440) Cr) = Zll8Ql}.
+
+$8. Die Violettforderung ist mit reiner Streekenbelegung
+unverträglich.
+
+Angenommen, es si G,=G,=...=0, also f(e) durch
+Gleichung (41) gegeben. Der Bau von (41) zeigt unmittelbar,
+daß das Verhalten von f(c) bei g=-w (im „Ultravioletten“)
+davon abhängt, wie sich G(g) bei g—=0 verhält. Denn wenn o
+schon sehr groß ist, so läßt der Faktor e->= nur mehr
+die kleinsten Werte von g in den Integralen zur Geltung
+kommen.
+
+Weiter kann man zeigen, daß f(c) mit unbegrenzt wachsen-
+dem co desto stärker gegen Null abfällt zu je höheren Werten
+6(g) bei Annäherung an g=(0 ansteigt. Das geht aus der
+folgenden Tabelle hervor (Ableitung in Anhang B). In der
+ersten Spalte Verhalten von @(g) bei Annäherung an g=0;
+in den folgenden Spalten der Gang von Z(e), N(e) und fe)
+bei wachsendem o.
+
+--- Page 13 ---
+‚Lichtquantenhypothese. 103
+
+6(q) Z(e) wie: N(o) wie: Ofto) wie:
+
+Von qg>R bis g=0
+wie @-R); von
+R bis 0 si G()=0
+
+Ro
+
+ee
+
+rt T(N+n\#
+
+en TI(N+D
+
+G (g) beliebig
+integrabel-unendlich
+
+Z(c) fällt immer stärker gegen Null als N(o), dank des
+Faktors g neben G(g); und der Einfluß dieses Faktors kommt
+desto stärker zur Geltung, je stärker @(g) bei Annäherung an
+q=0 anwächst, Aber selbst, wenn G(g) auf die stärkste
+Weise anwächst, die zulässig ist, wenn das Nennerintegral N{c)
+noch einen Sinn haben soll — nämlich integrabel unendlich —,
+so wirkt doch noch immer der Abfall von N(c) dem Abfall
+von Z(c) so stark entgegen, daß (co) zu langsam abfällt, um
+die „Violettforderung“ zu erfüllen: selbst im letzten Fall wächst
+noch o*f{o) mit a gegen co im Widerspruch zur Violett-
+forderung (4).
+
+$9. Um die Violettforderung zu erfüllen, muß der Energiewert
+E= 0 mit einem Sondergewicht @, belegt werden und überdies
+muß G(g) bei Annäherung an g=0 stärker als von zweiter
+Ordnung gegen Null gehen, bzw. von unendlich hoher Ordnung,
+wenn die verstärkte Violettforderung befriedigt werden soll.
+
+Der Punkt 3=0 muß — durch ein Sondergewicht — noch
+stärker akzentuiert werden, als es durch ein integrabel-unend-
+licbes Anwachsen der Streckenbelegung @(g) zu erreichen war.
+Beweisgang:
+
+1) Für diejenigen integrabel unendlichen @ (g), die wie g-1+re ver-
+laufen, liefert schon die vorhergehende Zeile eine viel feinere f(e)-Ab-
+schätzung: so!. Vermutlich ließe sich allgemein die Abschätzung der
+letzten Zeile verfeinern und auch weniger künstlich durchführen, als es
+im Anhang B geschieht. Für unsere Zwecke reicht natürlich obige Ab-
+schätzung aus.
+
+--- Page 14 ---
+104 P. Ehrenfest.
+
+1. Wenn der Punkt g=0 kein Sondergewicht erhält, wohl
+aber andere Punkte, so bleibt die Violettforderung noch immer
+verletzt [Anhang C].
+
+2. Erhält der Punkt g,=0 das Sondergewicht @,, so ist
+(45) lim Q(0) = 6,.
+
+0=00
+Während also in Gleichung (41) der Nenner N{c) immer gegen
+Null ging und dadurch den Abfall von f{c) hemmte, ist das
+mit dem Nenner Q{c) der Gleichung (42) nicht mehr der Fall:
+Es wird jetzt f{o) gerade so stark gegen Null abfallen, wie der
+Zähler P(o).
+
+3. Was den Abfall von P(o) betrifft, so ist zu beachten:
+a) Wegen des Faktors q,=0 geht @, in P(o) nicht ein;
+b) Falls @(g) bei Annäherung an g=0 von endlicher (N!)
+Ordnung gegen Null geht, so fällt P{o) für genügend große
+wie Z(c) ab, denn dort überwiegt in (438) das langsamer ab-
+fallende Integral über die Summe, deren Glieder ja mit un-
+endlich hoher Ordnung gegen Null gehen.
+
+Z(o) fällt aber wie o-("+2, falls @(g) wie g” gegen Null
+geht. [Vgl. Z(o) Verlauf in Tabelle des 88.)
+
+4. Aus dieser Bemerkung folgen schon unmittelbar die
+beiden letzten Aussagen der Paragraphüberschrift.
+
+$10. Die Erfüllung der Rotforderung ist nur dann gefährdet,
+wenn die Gewichte mit wachsendem EZ zu stark gegen Null gehen.
+
+Im Hinblick auf den wahrscheinlichkeits-theoretischen
+Sinn der Gewichtsfunktion wird man von vorneherein nur
+solche Punkt- und Streckengewichte in Betracht ziehen, die
+mit unbegrenzt wachsendem Z (also auch g) kleiner werden
+oder höchstens konstant bleiben.
+
+Q(o) kann bei Annäherung an « = unter einer endlichen
+(positiven) Grenze bleiben oder unendlich werden [für o=0
+kann das Integral und eventuell auch die Summe in Q(o)
+divergieren]; keinesfalls kann aber Q(c) dabei zu Null ab-
+nebmen. Wenn also — entsprechend der Rotforderung Glei-
+chung (8) — f{o) mit «= 0 wie o=! unendlich werden soll,
+so ist dies nur so möglich, daß dabei ?(s) unendlich wird
+und zwar um eine Ordnung höher als Q(o).
+
+--- Page 15 ---
+‚Lichtquantenhypothese. 105
+
+Die Rotforderung wird also verletzt sein, falls die Ge-
+wichte für große g so stark abnehmen, daß auch noch
+
+(a6) P0) = Des, +far 2164
+
+endlich bleibt. Wir begegnen diesem Fall bei Analyse der-
+jenigen Gewichtsfunktion, auf welcher die W. Wiensche Strah-
+lungsformel beruht ($ 13, ID, Vgl. auch $ 11, Nr. 4.
+
+$1ı1. Erläuterung der bisherigen Ergebnisse an einem Beispiel.
+
+Nur der Punkt g=0 sei mit einem Sondergewicht @,= 4
+belegt und sonst kein anderer Punkt. Das Streckengewicht 6 (g)
+sei gleich Null von z=0 bis = R und gleich B für alle
+q>R. Dann ist
+
+an. a)=A+Betra—1,
+(48) Pio)=- “2. = Be-ke(Ro!+0”2,
+CC 17 Pa LaenEenE Da
+
+0 Rot+Be re
+Bemerkungen:
+
+1. Erzeugt man die Punktbelegung in qg= 0 dadurch, daß
+man zunächst alle g mit dem konstanten Streckengewicht B
+belegt, dann aber den zwischen g=0 und qg= liegenden
+Teil der Belegung nach dem linken Ende g = 0 zusammen-
+schiebt — setzt man also A=RB —, so läßt sich /(o) auf
+folgende Gestalt bringen: })
+
+(50) ef= 7°.
+Dieses f(s) erfüllt die Rot- und (verstärkte) Violettforderung.”)
+
+1) R wurde = 1 gesetzt, was auf eine passende Wahl der Maßein-
+heiten für E und » hinausläuft.
+2) Die berechnete f(c) verläuft für sehr große und sehr kleine v
+ebenso wie
+fo) =
+
+welche zur Strahlungsformel:
+
+eg, = ar?Te
+gehört. Diese letztere Formel hat Rayleigh (Phil. Mag. 1900) als em-
+pirischen Ansatz angegeben: sie verläuft nämlich für kleine » wie die
+Rayleigh-Jeanssche Formel (2), fällt aber im Gegensatz zu ihr für
+große » mit unendlich hoher Ordnung gegen Null ab.
+
+v
+
+#5
+
+--- Page 16 ---
+106 P. Ehrenfest.
+
+2. Die Violettforderung wird verletzt, falls man in (49)
+A=0 nimmt (dem Punkt g=0 sein Sondergewicht entzieht)
+oder R=0 setzt (wo dann Gleichung (9) konstant bleibt, statt
+— vgl. 89 — von höherer als der zweiten Ordnung Null zu
+werden). Man hat hier bzw.
+
+1 efo=R+!,
+
+52) =.
+
+3. Wird 4= = 0 gesetzt, d. h. werden alle g mit gleichem
+Gewicht belegt, so ist
+1
+
+(58) cCo)=';
+
+02
+
+was zur Rayleigh-Jeansschen Strahlungsformel (2) führt.
+
+4. In allen diesen Fällen bleibt die Rotforderung — Glei-
+chung (3) — erfüllt. Sie bliebe auch erfüllt, wenn für g> AR
+das @() = qY mit N>—2 wäre Für N<—2 würde sie
+hingegen verletzt werden.
+
+5. Die Annahme, daß @(g) in einem endlichen an g=0
+anliegenden Intervall gleich Null sei, ist zur Erfüllung der
+„verstärkten“ Violettforderung hinreichend, aber durchaus nicht
+notwendig!)
+
+$ 12. Die Besonderheiten der Wien-Planckschen Violettforde-
+rung: Damit f(e) für unbegrenzt wachsende v nicht schwächer
+als Me-Lo abfalle, muß G(g)=0 sein von g=0 bis mindestens
+q=L; damit f(o) gerade so wie Me-.o abfalle, muß überdies der
+Punkt q, =ZL mit einem Sondergewicht belegt werden.
+
+Damit im Sinne der ersten Forderung
+
+oo Im {2
+
+nicht unendlich sei, muß dies wegen Gleichung (45) auch für
+
+2) So führt z.B.
+5
+
+1
+Bg=etg ® zu fio)=e-?Ve,
+
+--- Page 17 ---
+Lichtquantenhypothese. 107
+
+[mu bzet) -im (Ina
+1
+
+| + [ar acaee-)
+
+der Fall sein. Für alle g und g,, die kleiner als L sind,
+wächst aber
+
+(55)
+
+el-7)° und el-aso
+
+mit wachsendem « über alle Grenzen.
+
+Damit die Limite in (54) nicht unendlich wird, muß also:
+
+A) @(g) von g=0 bis mindestens g= Z gleich Null sein.
+
+B) Der erste von g, verschiedene Punkt 9,, der Sonder-
+gewicht besitzt, muß, falls er überhaupt existiert, die Be-
+dingung erfüllen: ,=L.
+
+Damit — im Sinne der zweiten Forderung — die Li-
+mite (54) zugleich auch nicht Null sei, muß):
+
+C) außer g,=0 wirklich noch mindestens ein weiterer
+Punkt g, mit Sondergewicht existieren, und
+
+D) sein g, gerade gleich Z sein.
+
+Während die Notwendigkeit eines Sondergewichtes in q,=0
+aus der geradezu evidenten Gleichung (4) folgte, ergab sich die
+Notwendigkeit eines Sondergewichtes in einem zweiten Punkt q, +0
+nur dadurch, daß wir /{o) willkürlich der Gleichung (7) unter-
+werfen, die wesentlich über jede experimentelle Kontrolle
+hinausgreift. Es hieße die Resultate des vorliegenden Para-
+graphen mißbrauchen, wenn man nun aus der guten Überein-
+stimmung, die bekanntlich für große »/7 zwischen den Mes-
+sungen und Gleichung (5) besteht, schließen wollte, daß alle
+@{g) zu verwerfen sind, die z. B. nicht der Bedingung C ge-
+nügen.
+
+1) Gäbe es nämlich keinen zweiten Punkt mit Sondergewicht, so
+müßte in (55) allein schon das Integral für die Erfüllung der Forderung
+aufkommen. Aber wenn @(g) bei Annäherung ang = L — vong<L
+her — gegen Null geht, endlich bleibt (vgl. Beispiel in $ 11) oder selbst
+(integrabel-) unendlich wird — immer ist die Limite des Integrales gleich
+Null. — Sobald q, =L sein Sondergewicht erhalten hat, übt der Ver-
+lauf der Streckenbelegung @(9) für g>L schon keinen Einfluß mehr
+auf die Erfüllung der Violettforderung aus, wohl aber auf den sonstigen
+Verlauf von /(o) und auf die Erfüllung der Rotferderung.
+
+--- Page 18 ---
+108 P, Ehrenfest.
+
+Bekanntlich zeigt die der Planckschen Strahlungsformei
+zugrunde liegende Gewichtsverteilung in der Tat die obigen
+Eigentümlichkeiten. Wir werden im folgenden Paragraphen
+sehen, in welcher Art dies auch für die der W. Wienschen
+Formel zugrunde liegende Gewichtsverteilung der Fall ist.
+
+$13. Beispiele zu $12,
+
+Beispiel I. Die Grundlagen der W. Wienschen Strahlungs-
+
+formel. — Hier ist zu setzen’):
+
+(56) =, ,=n =:
+Es ergibt sich dann:
+
+sn = —— et.
+
+a) Die Violettforderung ist in Form der Gleichung (7) er-
+füllt; die Gewichtsfunktion erfüllt die in $ 12 angegebenen
+Bedingungen.
+
+b) Die Rotforderung Gleichung (8) ist verletzt. Ursache:
+die Gewichtsfunktion fällt mit wachsendem g so rasch ab,
+daß die unendliche Reihe im Zähler von f(o) auch für o=0
+noch konvergiert.
+
+Beispiel II. Die Grundlagen der Planckschen Strahlungs-
+formel?):
+
+(58) =, ern 6,=A,
+5 ı
+(59) erle) = -— = 527°
+
+1) Vgl. $ 14, IM.
+2) M. Planck, „Vorlesungen“ 8'150.
+
+--- Page 19 ---
+Lichtquantenhypothese. 109
+
+a) Erfüllung der Violettforderung, wie im Beispiel I.
+
+b) Die Rotforderung ist erfüllt, wie man sich überzeugt,
+indem man e° in Potenzen von o entwickelt.
+
+Beispiel III. Belegt man ,=0 und ,=1 mit den Ge-
+wichten G,=6, =4 und nimmt für 0=g9=1 das @(g) gleich
+Null weiterhin beliebig, nur so, daB lim @(g) = A ist, so er-
+
+g=00
+hält man immer ein f(o), das für «=0 und 600 wie das
+
+Plancksche f{e) verläuft.
+
+$ 14. Rekapitulation der Ergebnisse im Hinblick auf die
+Liechtquantenhypothese und Formulierung der anschließenden
+Fragestellungen.
+
+I. Aus den im $ 1 zusammengestellten allgemeinen Eigen-
+tümlichkeiten der schwarzen Strahlung, insbesonders aus der
+Notwendigkeit eines genügend starken Abfalles der Strahlungs-
+kurve mit unbegrenzt wachsendem » konnten wir bestimmte
+Aussagen gewinnen über den Verlauf der Funktion 7(v, E), wo
+
+re B)dab:ywB)dE,
+
+mißt den Quotienten der Wahrscheinlichkeit dafür, daß die
+Energie einer individuellen Eigenschwingung des Strahlung-
+erfüllten Hohlraumes — ihre Frequenz sei » — zwischen
+
+E, und BE +dB, bzw. E, und 4, +dE,
+
+liegt. Mit Rücksicht auf die Lichtquantenhypothese sind
+folgende Ergebnisse hervorzuheben:
+
+A) y{v, E) hat — abgesehen von einem physikalisch be-
+deutungslosen Faktor — die Gestalt @(E/») [8 5].
+
+B) Der eine Energiewert E=0 besitzt eine Wahrschein-
+lichkeit von derselben Größenordnung, wie im übrigen nur
+ein ganzes endliches Intervall von Energiewerten [$$ 8, 9].
+
+C) Die dem Wert Z= 0 naheliegenden Energiebereiche
+besitzen eine verschwindend kleine Wahrscheinlichkeit — prä-
+zise Fassung vgl. $$ 9, 12. Dieser „Hof“ verschwindend
+kleiner G (Z/v)-Werte ist desto stärker ausgeprägt, je stärker
+die Energiekurve der schwarzen Strahlung mit unbegrenzt
+
+--- Page 20 ---
+110 P. Ehrenfest.
+
+0O<E<he, s(#)=0
+
+v
+
+wachsendem » gegen Null abfallen soll. Speziell müßte [$ 12]
+
+für alle
+
+sein, wenn man fordern wollte, daB die Energiekurve mit un-
+
+begrenzt wachsendem »/T nicht schwächer gegen Null abfalle, als
+ae er B
+
+D) Die Ausdehnung des Hofes der Energiewerte von ver-
+schwindend kleiner Wahrscheinlichkeit ist wegen (4) für die
+verschiedenen Eigenschwingungen proportional ihrer Schwin-
+gungszahl v.
+
+E) Geht man von der Rayleigh-Jeansschen „Zigen-
+schwingungs“- Terminologie zu der von Planck bevorzugten
+„Resonatoren“- Terminologie über, so würde man die Ergeb-
+nisse 4— D mit Verzicht auf Präzision etwa so formulieren
+können: Ein genügender Abfall der Strahlungskurve für un-
+begrenzt wachsende v kommt nur dadurch zustande, daß die Reso-
+naloren so etwas wie eine „Reizschwelle“ aufweisen‘), deren Höhe
+im übrigen der Frequenz des Resonators proportional ist.
+
+F) Der einfachste Ansatz für @(Z/v), der mit dieser An-
+nahme einer endlichen Reizschwelle verträglich ist (vgl. $11),
+würde zur Spektraikurve
+
+1+ 0-1 hv
+oT) = ar? Iron (= er)
+führen, welche für v=0 und v=oo verläuft wie
+
+hv
+AT bzw. Av?Te Hr.
+
+I. Stellen wir anderseits die charakteristischen Züge zu-
+sammen, welche die Lichtquantenhypothese in derjenigen Form
+aufweist, in der sie etwa Einstein benutzt. Sie schließt da
+folgende Annahmen in sich:
+
+A) Ein Resonator von der Frequenz » kann nur folgende
+diskrete Energiewerte aufweisen: 0, Av, Ahr,...
+
+1) Diesen Ausdruck gebraucht Hr. Planck in seiner Arbeit „Eine
+neue Strahlungshypothese“, Verh. d. Deutsch. Physik. Ges. 13. p. 142.
+1911; an jener Stelle wird diesem Ausdruck jedoch eine stärker präzi-
+sierte Bedeutung gegeben als es hier in meiner Absicht liegt.
+
+--- Page 21 ---
+Lichtquantenhypothese. 111
+
+B) Diese Energiewerte kommen durch die Aneinander-
+lagerung einer Anzahl elementarer, voneinander unabhängiger
+Energiebeträge h» zustande.
+
+0) Diese Liehtquanten funktionieren nicht nur bei allen
+Emissions- und Absorptionserscheinungen als Atome, sondern
+besitzen auch im von Materie freien Raum ihre Sonderexistenz.!)
+
+III. Was zunächst die Annahme A) in II. betrifft, so wird
+sie durch die Ergebnisse I (A—D) in einigen sehr charakte-
+ristischen Zügen bestätigt: die Akzentuierung des Energie-
+wertes Null, die verschwindend kleinere Wahrscheinlichkeit be-
+nachbarter Energiewerte und die Proportionalität des „Hofes“
+mit». Hingegen schon die Akzentuierung des Energiewertes hv
+blieb dahingestellt (812) und um so mehr der weitere Verlauf
+von @(E/v) — abgesehen von der allgemeinen Aussage, die
+noch die „Rotforderung‘ für unendlich große Z lieferte ($ 10).
+— Natürlich ist da zu beachten, daß wir unseren Schlüssen
+nur Aussagen über den asymptotischen Verlauf von 0(»,7))
+für gegen 0 und gegen oo gehende Werte von »/Z' zugrunde
+legten.
+
+Zu einer vollen Entscheidung über die Aussage A käme
+man hingegen dann, wenn man in
+
+die Gestalt der Funktion f als völig bekannt voraussetzt.?)
+— In diesem Falle würde — das ergibt sich aus Gleichung (42)
+bis (44c) — die Bestimmung von @{Zjv) auf die Lösung der
+folgenden Funktionalgleichung®) hinauslaufen:
+
+(60) Di6,er0° + fan. 6nerr = am,
+v 0
+
+1) Vgl. A. Einstein, Ann. d. Phys. 17. p. 132 [8 6). 1905; 20.
+p. 199. 1906; Physik. Zeitschr. 10. p. 185. 1909.
+
+2) Dieses Problem hatte ich schon 1906 (Physik. Zeitschr. 7. p. 528.)
+formuliert, hatte aber damals noch nicht bemerkt, daß y(», E) immer die
+Gestalt G(E}/v) haben muß.
+
+3) Die obige Funktionalgleichung — ohne das Summenglied —
+findet schon bei Riemann in der Arbeit „Über die Anzahl der Prim-
+zahlen ... .“ (gesamm. Abh.) und wird von Riemann mit Hilfe kom-
+plexer Integration gelöst.
+
+--- Page 22 ---
+112 P. Ehrenfest.
+
+wo @(o) durch f{e} in folgender Weise bestimmt ist (vgl.
+Gleichung (44 0)):
+
+cn ee.
+
+Als Illustration zur Handhabung dieser Methode möchte
+ich hier nur noch auf die Bestimmung der den f{v) der
+Planckschen und der W. Wienschen Strahlungsformel:
+
+(62) flo) = 7 baw. f{o) =
+
+zugehörigen @(Z/v) mit der mir von befreundeter Seite ge-
+machten Bemerkung zurückkommen, daB man durch die den
+entsprechenden beiden Q(o) gemeinsame Eigenschaft, die rein
+imaginäre Periode 2”: zu besitzen, darauf geführt wird G(g)
+aberall gleich Null zu setzen und die Punktgewichte auf die
+äquidistanten Punkte 0, 1, 2,... zu legen.!)
+Setzt mau in unseren Fällen
+
+(63) a) = Fe”),
+
+und beachtet man, daß nach dem obigen Ansatz die Funktional-
+gleichung (60) die spezielle Gestalt annimmt:
+
+(64) Sy @emoy = Fler),
+u
+
+so sieht man, daß die Bestimmung der Punktgewichte @, darauf
+hinausläuft, 7’(e””) nach steigenden Potenzen seines Argumentes
+zu entwickeln.
+
+IV. Gesetzt die Annahme (A) in II sei auf irgend einem
+Wege gesichert; was folgt daraus für die Annahmen (B) und (C)
+in II? — Es ist diesbezüglich, wenn ich nicht irre — folgende
+Ansicht verbreitet: Die Einsteinsche Lichtquantenhypothese
+greife im wesentlichen nur mit der Annahme (C) über die
+Plancksche Theorie hinaus.) Die Annahme (B) hingegen
+
+1) Unter Benutzung einer von Hilbert (Lineare Integralgleichungen
+IV. Mitt. Göttinger Nachr. 1906) eingeführten Terminologie: Die Lösung
+der Funktionalgleichung besteht in einem reinen „Punktspektrum“, ein
+„Streckenspektrum“ fehlt.
+
+2) Als vor kurzem Hr. Planck in seinem Aufsatz „zur Theorie der
+Wärmestrahlung“ Ann. d. Phys. 31. p. 758. 1910 zur Einsteinschen
+Fassung der Liehtquantenhypothese Stellung nahm, legte er das Haupt-
+gewicht darauf zu zeigen, daß seiner Theorie die Annahme C fremd ist.
+
+--- Page 23 ---
+Lichtquantenhypothese. 113
+
+trete schon in den Grundlagen der Planckschen Theorie auf
+und zwar als völlig äquivalent mit der Annahme (A).
+
+Diese Ansicht wird sich darauf berufen, daß die zwei
+verschiedenen Ableitungen, die Hr. Planck für seine Strah-
+lungsformel gibt: Bestimmung der wahrscheinlichsten Ver-
+teilung
+
+a) der Resonatoren über die verschiedenen Znergiebereiche,
+b) der Energie über die verschiedenen Resonatoren (8 150
+
+bzw. $ 148 des Planckschen Buches) sich beziehungsweise auf
+die folgenden beiden Annahmen stützen:
+
+«) Jeder individuelle Resonator von der Frequenz » kann
+nur die Energiewerte 0, Av, 2h»,... annehmen und diese mit
+gleicher Wahrscheinlichkeit.
+
+f) Die Strahlungsenergie der Frequenz » verteilt sich in
+endlichen Elementarquanten von der Größe A» über die v-Re-
+sonatoren. Dabei entfällt das individuelle Elementarquantum
+auf die verschiedenen Resonatoren mit gleicher Wahrschein-
+lichkeit und die einzelnen Elementarquanten sind als vonein-
+ander unabhängig verlegbar anzusehen.
+
+Eine derartige Argumentation würde aber auf einem Ver-
+sehen beruhen: Das Verfahren b) zur Ableitung der Planck-
+schen Strahlungsgleichung ist allerdings vollständig iden-
+tisch mit dem Verfahren a); sein kombinatorischer Apparat
+unterscheidet sich von dem des Verfahrens a) nur durch
+eine andere Art der Zusammenfassung der abzuzählenden
+Komplexionen. Unrichtig wäre es hingegen, zu glauben,
+daß das Verfahren a) sich auf die Annahme £) stützt oder
+stützen läßt.
+
+Man kann zeigen: Die Annahme ß) führt nicht zur Planck-
+schen Strahlungsformel, sondern zu einer einfach unendlichen
+Schar von anderen Strahlungsformeln, wobei dann die Heraus-
+hebung einer bestimmten Formel dieser Schar durch eine Zusatz-
+Forderung geschieht.
+
+Die Einsteinsche Lichtquantenhypothese trennt sich also
+von den Grundlagen der Planckschen Theorie nicht erst dort,
+wo sie die Annahme der Existenz individueller, voneinander
+unabhängiger Strahlungsquanten im Materie-freien Raum ein-
+
+Annalen der Physik. IV. Folge. 36. 8
+
+--- Page 24 ---
+114 P. Ehrenfest.
+
+führt, sondern schon dort, wo sie diese Annahme bezüglich
+des Znergieinhaltes der Resonatoren macht.!)
+
+Anhang.
+A,
+
+[Zu $ 2; Gleichung (30). — Man führe in (29) und (14)
+folgende Substitutionen ein:
+
+7 ug awB)=bng, rl E)= Kg)
+
+und beachte, daß
+yimu,mE)= K(mv,g),
+
+Gleichungen (29) und (14) nehmen dann Gestalt an:
+
+Ei
+(29) je: für b(w,q)log nd
+
+179) »[ag: 00, )= NW.
+(7
+
+Um das Variationsproblem des Textes zu lösen, hat man die
+Nebenbedingung (14°) mit einem’ Multiplikator 4 einzuführen,
+wobei zu beachten ist, daß 4 wohl von v» und m nicht aber
+von g abhängen kann. Man erhält so folgende Bedingung für
+die Gestalt von X
+m K (m mEKEmng P
+Ken
+
+Geben wir hier der Größe » den Wert 1, der Größe qg einmal
+den Wert 1, ein anderes Mal einen beliebigen Wert, so folgt
+die Beziehung:
+
+= Alm, v).
+
+Kim,d) _ Kom)
+
+Ku) Ku,
+
+1) Auf diese Frage, über die ich im April 1911 in der Peters-
+burger physikalischen Gesellschaft vortrug, werde ich an anderer Stelle
+zurückkommen.
+
+--- Page 25 ---
+Lichtquantenhypothese. 115
+
+X(1,1) ist eine Konstante, X(m,1} eine Funktion nur von m,
+K(1,g) eine Funktion nur von g. Die Funktion X muß also
+von ihren beiden Argumenten — wir können sie jetzt wieder
+mit » und g bezeichnen — in folgender Weise abhängen:
+
+Eu)=29- eg.
+Damit ist gezeigt, daß y(», 2) die Gestalt hat:
+
+E
+rwg)= 2) -@ (2) w.z.b. w.
+B.
+[Zur Tabelle des $ 8.] Durch Substitution
+
+eg=$
+erhält man aus (39) und (40):
+
+02) 2) = 0 [as-2r 6[E)
+o
+
+(0) vo-ofarecl)
+o
+
+Beweisen wir zunächst die letzte Zeile der Tabelle in $ 8.
+Die zu beweisende Ungleichung
+
+20
+
+(a) No >c7@t» [für genügend große 0]
+
+läßt sich wegen (89) und (40) auf die folgende äquivalente
+Form bringen:
+
+(b) fa: eril$ — o17)@ &) >= 0 [für genügend große o].
+0
+
+Wir zerlegen das Integral in seinen negativen und positiven Teil:
+
+omı-e oo
+f- to f- To.
+0 o-i-e
+
+8*
+
+--- Page 26 ---
+116 P. Ehrenfest.
+
+Daß die Ungleichung (b) und damit (a) erfüllt sei, ist offenbar
+vollkommen bewiesen, falls wir zeigen können, daß
+
+(c) lim II(o) #0
+(d) lim /(o) = 0;
+
+denn dann ist für genügend große o das negative /(c) schließ-
+lich sicher nicht mehr imstande das immer positive und nicht
+bis zu Null abnehmende I/(co) zu überwältigen.
+
+Beweis von (c): II(o) ist sicher größer als das von o-!-:
+bis 1 erstreckte Integral; für letzteres gilt weiter die Un-
+gleichung:
+
+1 1
+Seas ee 0 nJe[ld)zeifas-e-01-7.6(2).
+o-i-e o-1-:
+Da aber @(g) bei g = 0 integrabel-unendlich wird, so ist die
+Limite des letzten Integrales sicher eine von Null verschiedene
+positive Größe.
+
+Beweis von (d)}: Der Absolutwert von /(o) ist kleiner oder
+gleich dem Wert des Integrales
+
+20= fase- 8 -6(&)
+0
+
+R}
+o
+
+= 0 [ag- on -e’fag: ge.
+v 0
+
+PR =:
+
+Formt man das zweite Integral rechts durch partielle Inte-
+gration um?), wobei man setzt:
+
+q
+fer e@=u@.
+°
+
+so erhält man nach kurzer Zwischenrechnung:
+
+2-8
+
+s(0) = o® [ag . H(g).
+0
+
+1) Die Bedingungen für die Erlaubtheit dieser Umformung sind hier
+erfüllt.
+
+--- Page 27 ---
+‚Lichtquantenhypothese. 117
+
+Nun kann H(g) zwar langsamer als jede noch so kleine posi-
+tive Potenz von 9 gegen Null gehen; da es aber doch gegen
+Null geht, und zwar monoton, so ist man sicher, daß für ge-
+nügend kleine g schließlich 4(g) mindestens unter einer ge-
+wissen endlichen Grenze M bleiben wird; daraus gewinnt man,
+daß für genügend große o.
+
+s(o) <0?-Mo-?-®
+
+und damit ist dann (d) bewiesen.
+
+Beweis der mittleren Zeile der Tabelle in $ 8. Wäre @(q)
+geradezu gleich q”, so erhielte man durch die Substitution
+cg= $ unmittelbar
+
+No)= [db et = a TW+N
+0
+
+und analog den Ausdruck für Z(o). — Ist aber
+G)=Ag"(l+ei),
+
+wo e(g) mit g gegen Null geht, so zerlege man zum Zwecke
+
+der Abschätzung die Integrale über g, welche Z(c) und N(o)
+
+darstellen, in zwei Teile: Von g=0 bis g=o-": und von
+
+da bis oo.
+
+Beweis der ersten Zeile der Tabelle. Die Integrale, die 2 (0)
+und N(c) darstellen, gehen hier von g= Rbisg= mw. Zieht
+man den Faktor e”#° vor das Integral und führt unter dem
+Integral die Substitution
+
+9 R=p
+
+aus, so erhält man Integrale, welche die gleiche Form besitzen,
+wie das N(c) in der zweiten Zeile der Tabelle.
+
+[64
+
+[Zu 8 9, 1]. Beweisgang: Sei der erste Punkt mit Sonder-
+gewicht der Punkt qg,. Man hat dann zwei Klassen von @(y)
+zu unterscheiden: I. Falls @(g) schon für Werte von g<q,
+von Null abweicht. II. Falls vong=0bisg = q, dasStrecken-
+gewicht G(g) = 0 ist. — Mit Hilfe einer Methode, die im Be-
+ginn des 8 12 dargelegt wird, kann man in beiden Fällen die
+relative Grenzgeschwindigkeit abschätzen, mit der für genügend
+große 0: g,e-%° und Z{o) bzw. e-%° und N(c) gegen Null
+
+--- Page 28 ---
+118 P. Ehrenfest. Lichtquantenhypothese.
+
+gehen. Es zeigt sich: Im Falle I verschwinden schließlich
+q,e=te gegen Z(c), e”%° gegen N(c) der Verlauf von /(e) ist
+dann wieder aus der Tabelle des $ 8 zu entnehmen. Im
+Falle II verschwinden umgekehrt Z(o) und N(o) gegen q, e= =
+und e-%° und zwar selbst dann, wenn G(g} bei Annäherung
+an qg=g, von g>g, her (integrabel-)unendlich wird. Infolge-
+dessen ist hier lim / (0) = 9,. — In beiden Fällen ist die Violett-
+
+o
+forderung verletzt.
+
+(Eingegangen 8. Juli 1911.)

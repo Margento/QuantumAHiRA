@@ -1,0 +1,1304 @@
+
+--- Page 1 ---
+ON A GENERAL METHOD OF EXPRESSING
+THE PATHS OF LIGHT, AND OF THE
+PLANETS, BY THE COEFFICIENTS OF A
+CHARACTERISTIC FUNCTION
+
+By
+William Rowan Hamilton
+
+(Dublin University Review and Quarterly Magazine, 1 (1833), pp. 795-826.)
+
+Edited by David R. Wilkins
+1999
+
+--- Page 2 ---
+On a general Method of expressing the Paths of Light, and of the Planets, by
+the Coefficients of a Characteristic Function.
+
+By WILLIAM R. HAMILTON, Royal Astronomer of Ireland.
+Dublin University Review and Quarterly Magazine, Vol. I, 1833, pp. 795-826.]
+
+The law of seeing in straight lines was known from the infancy of optics, being in a
+manner forced upon men’s notice by the most familiar and constant experience. It could
+not fail to be observed that when a man looked at any object, he had it in his power to
+interrupt his vision of that object, and hide it at pleasure from his view, by interposing his
+hand between his eyes and it; and that then, by withdrawing his hand, he could see the
+object as before: and thus the notion of straight lines or rays of communication, between
+a visible object and a seeing eye, must very easily and early have arisen. This notion of
+straight lines of vision, was of of course confirmed by the obvious remark that objects can
+usually be seen on looking through a straight but not through a bent tube; and the most
+familiar facts of perspective supplied, we may suppose, new confirmations and new uses of
+the principle. A globe, for example, from whatever point it may be viewed, appears to have a
+circular outline; while a plate, or a round table, seems oval when viewed obliquely: and these
+facts may have been explained, and reduced to mathematical reasoning, by shewing that the
+straight rays or lines of vision, which touch any one given globe and pass through any one
+given point, are arranged in a hollow cone of a perfectly circular shape; but that the straight
+rays, which connect an eye with the round edge of a plate or table, compose, when they
+are oblique, an elliptical or oval cone. The same principle, of seeing in straight lines, must
+have been continually employed from the earliest times in the explanation of other familiar
+appearances, and in interpreting the testimony of sight respecting the places of visible bodies.
+It was, for example, an essential element in ancient as in modern astronomy.
+
+The shapes and sizes of shadows, again, could not fail to suggest the notion of straight
+illuminating rays: although opinions, now rejected, respecting the nature of light and vision,
+led some of the ancients to distinguish the lines of luminous from those of visual communi-
+cation, and to regard the latter as a kind of feelers by which the eye became aware of the
+presence of visible objects. It appears, however, that many persons held, even in the infancy
+of Optics, the modern view of the subject, and attributed vision, as well as illumination, to
+an influence proceeding from the visible or luminous body. But what finally established this
+view, and along with it the belief of a finite velocity of progress of the luminous influence,
+was the discovery made by Roemer, of the gradual propagation of light from objects to the
+eye, in the instance of the satellites of Jupiter; of which we have good reason to believe, from
+astronomical observation, that the eclipses are never seen by us, till more than half an hour
+after they have happened; the interval, besides, being found to be so much the greater, as
+Jupiter is more distant from the Earth. Galileo had indeed proposed terrestrial experiments
+to measure the velocity of light, which he believed to be finite; and Des Cartes, who held that
+
+1
+
+--- Page 3 ---
+he communication of light was instantaneous, had perceived that astronomical consequences
+ought to follow, if the propagation of light were gradual: but experiments such as Galileo
+proposed, were not, and could not, be made on a scale sufficient for the purpose; and the
+state of astronomical observation in the time of Des Cartes did not permit him to verify the
+consequences which he perceived, and seemed rather to justify the use that he made of their
+non-verification, as an argument against the opinion with which he had shown them to be
+ogically connected. But when astronomers had actually observed appearances, which seemed
+and still seem explicable only by this opinion of the gradual propagation of light from objects
+o the eye, the opinion itself became required, and was adopted, in the legitimate process of
+induction.
+By such steps, then, it has become an established theorem, fundamental in optical sci-
+ence, that the communication, whether between an illuminating body and a body illuminated,
+or between an object seen and a beholding eye, is effected by the gradual but very rapid pas-
+sage of some thing, or influence, or state, called light, from the luminous or visible body,
+along mathematical or physical lines, usually called rays, and found to be, under the most
+common circumstances, exactly or nearly straight.
+Again, it was very early perceived that in appearances connected with mirrors, flat or
+curved, the luminous or visual communication is effected in bent lines. When we look into a
+flat mirror, and seem to see an object, such as a candle, behind it, we should err if we were to
+extend to this new case the rules of our more familiar experience. We should not now come to
+ouch the candle by continuing the straight line from the eye to a hand or other obstacle, so
+placed between the eye and the mirror as to hide the candle; this line continued would meet
+he mirror in a certain place from which it would be necessary to draw a new and different
+straight line, if we wished to reach the real or tangible candle: and the whole bent line, made
+up of these two straight parts, is found to be now the line of visual communication, and is
+o be regarded now as the linear path of the light. An opaque obstacle, placed any where on
+either part of this bent line, is found to hide the reflected candle from the eye; but an obstacle,
+placed any where else, produces no such interruption. And the law was very early discovered,
+hat for every such bent line of luminous or visual communication, the angle between any
+wo successive straight parts is bisected by the normal, or perpendicular, to the mirror at the
+point of bending.
+Another early and important observation, was that of the broken or refracted lines of
+communication, between an object in water and an eye in air, and generally between a point
+in one ordinary medium and a point in another. A valuable series of experiments on such
+refraction was made and recorded by Ptolemy; but it was not till long afterwards that the
+law was discovered by Snellius. He found that if two lengths, in a certain ratio or proportion
+determined by the natures of the two media, be measured, from the point of breaking, or
+of bending, on the refracted ray and on the incident ray prolonged, these lengths have one
+common projection on the refracting surface, or on its tangent plane. This law of ordinary
+refraction has since been improved by Newton’s discovery of the different refrangibility of
+the differently coloured rays; and has been applied to explain and to calculate the apparent
+elevation of the stars, produced by the atmosphere of the earth.
+The phenomena presented by the passage of light through crystals were not observed
+until more lately. Bartolinus seems to have been the first to notice the double refraction of
+Iceland spar; and Huygens first discovered the laws of this refraction. The more complicated
+
+2
+
+--- Page 4 ---
+double refraction produced by biaxial crysta’
+and the discovery of conical refraction in such
+Professor Lloyd on arragonite (undertaken at
+
+s was not observed until the present century;
+crystals is still more recent, the experiments of
+my request) having been only made last year.
+
+For the explanation of the laws of the linear propagation of light, two principal theories
+have been proposed, which still divide the suffrages of scientific men.
+
+The theory of Newton is well known. He compared the propagation of light to the motion
+of projectiles; and as, according to that First Law of Motion, of which he had himself estab-
+lished the truth by so extensive and beautiful an induction, an ordinary projectile continues
+in rectilinear and uniform progress, except so far as its course is retarded or disturbed by the
+influence of some foreign body; so, he thought, do luminous and visible objects shoot off little
+luminous or light-making projectiles, which then, until they are accelerated or retarded, or
+deflected one way or another, by the attractions or repulsions of some refracting or reflecting
+medium, continue to move uniformly in straight lines, either because they are not acted on
+at all by foreign bodies, or because the foreign actions are nearly equal on all sides, and thus
+destroy or neutralise each other. This theory was very generally received by mathematicians
+during the last century, and still has numerous supporters.
+
+Another theory however, proposed about the same time by another great philosopher,
+has appeared to derive some strong confirmations from modern inductive discoveries. This
+other is the theory of Huygens, who compared the gradual propagation of light, not to the
+motion of a projectile, but to the spreading of sound through air, or of waves through water.
+It was, according to him, no thing, in the ordinary sense, no body, which moved from the
+sun to the earth, or from a visible object to the eye; but a state, a motion, a disturbance,
+was first in one place, and afterwards in another. As, when we hear a cannon which has
+been fired at a distance, no bullet, no particle even of air, makes its way from the cannon
+o our ears; but only the aerial motion spreads, the air near the cannon is disturbed first,
+hen that which is a little farther, and last of all the air that touches us. Or like the waves
+hat spread and grow upon some peaceful lake, when a pebble has stirred its surface; the
+floating water-lilies rise and fall, but scarcely quit their place, while the enlarging wave passes
+on and moves them in succession. So that great ocean of ether which bathes the farthest
+stars, is ever newly stirred, by waves that spread and grow, from every source of light, till
+hey move and agitate the whole with their minute vibrations: yet like sounds through air,
+or waves on water, these multitudinous disturbances make no confusion, but freely mix and
+cross, while each retains its identity, and keeps the impress of its proper origin. Such is the
+view of Light which Huygens adopted, and which justly bears his name; because, whatever
+kindred thoughts occurred to others before, he first shewed clearly how this view conducted
+o the laws of optics, by combining it with that essential principle of the undulatory theory
+which was first discovered by himself, the principle of accumulated disturbance.
+
+According to this principle, the minute vibrations of the elastic luminous ether cannot
+perceptibly affect our eyes, cannot produce any sensible light, unless they combine and concur
+in a great and, as it were, infinite multitude; and on the other hand, such combination is
+possible, because particular or secondary waves are supposed in this theory to spread from
+every vibrating particle, as from a separate centre, with a rapidity of propagation determined
+by the nature of the medium. And hence it comes, thought Huygens, that light in any one
+uniform medium diffuses itself only in straight lines, so as only to reach those parts of space
+o which a straight path lies open from its origin; because an opaque obstacle, obstructing
+
+3
+
+--- Page 5 ---
+such straight progress, though it does not hinder the spreading of weak particular waves
+into the space behind it, yet prevents their accumulation within that space into one grand
+general wave, of strength enough to generate light. This want of accumulation of separate
+vibrations behind an obstacle, was elegantly proved by Huygens: the mutual destruction of
+such vibrations by interference, is an important addition to the theory, which has been made
+by Young and by Fresnel. Analogous explanations have been offered for the laws of reflexion
+and refraction.
+
+Whether we adopt the Newtonian or the Huygenian, or any other physical theory, for the
+explanation of the laws that regulate the lines of luminous or visual communication, we may
+regard these laws themselves, and the properties and relations of these linear paths of light, as
+an important separate study, and as constituting a separate science, called often mathematical
+optics. This science of the laws and relations of luminous rays, is, however, itself a branch of
+another more general science, which may perhaps be called the Theory of Systems of Rays.
+I have published, in the XVth and XVIth volumes of the Transactions of the Royal Irish
+Academy, a series of investigations in that theory; and have attempted to introduce a new
+principle and method for the study of optical systems. Another supplementary memoir, which
+has been lately printed for the same Transactions, will appear in the XVIth volume; but
+having been requested to resume the subject here, and to offer briefly some new illustrations
+of my view, I shall make some preliminary remarks on the state of deductive optics, and on
+he importance of a general method.
+
+The science of optics, like every other physical science, has two different directions of
+progress, which have been called the ascending and the descending scale, the inductive and
+he deductive method, the way of analysis and of synthesis. In every physical science, we
+must ascend from facts to laws, by the way of induction and analysis; and must descend
+from laws to consequences, by the deductive and synthetic way. We must gather and groupe
+appearances, until the scientific imagination discerns their hidden law, and unity arises from
+variety: and then from unity must re-deduce variety, and force the discovered law to utter
+its revelations of the future.
+
+It was with such convictions that Newton, when approaching to the close of his optical
+abours, and looking back on his own work, remarked, in the spirit of Bacon, that “As in
+Mathematics, so in Natural Philosophy, the investigation of difficult things by the method
+of Analysis ought ever to precede the method of Composition. This analysis consists in
+making experiments and observations, and in drawing general conclusions from them by
+induction, and admitting of no objections against the conclusions but such as are drawn
+from experiments or other certain truths.” “And although the arguing from experiments
+and observations by induction be no demonstration of general conclusions; yet it is the best
+way of arguing which the nature of things admits of, and may be looked upon as so much
+he stronger, by how much the induction is more general. And if no exception occur from
+phenomena, the conclusion may be pronounced generally. But if at any time afterwards,
+any exception shall occur from experiments, it may then begin to be pronounced with such
+exceptions as occur. By this way of analysis, we may proceed from compounds to ingredients,
+and from motions to the forces producing them; and, in general, from effects to their causes,
+and from particular causes to more general ones, till the argument end in the most general.
+This is the method of analysis: and the synthesis consists in assuming the causes discovered,
+and established as principles, and by them explaining the phenomena proceeding from them,
+
+4
+
+--- Page 6 ---
+and proving the explanations.” “And if Natural Philosophy in all its parts, by pursuing this
+method, shall at length be perfected, the bounds of Moral Philosophy will also be enlarged.
+For, so far as we can know by Natural Philosophy, what is the First Cause, what power He
+has over us, and what benefits we receive from Him, so far our duty towards Him, as well as
+hat towards one another, will appear to us by the light of nature.”
+
+In the science of optics, which has engaged the attention of almost every mathematician
+for the last two thousand years, many great discoveries have been attained by both these
+ways. It is, however, remarkable that, while the laws of this science admit of being stated
+in at least as purely mathematical a form as any other physical results, their mathematical
+consequences have been far less fully traced than the consequences of many other laws; and
+hat while modern experiments have added so much to the inductive progress of optics, the
+deductive has profited so little in proportion from the power of the modern algebra.
+It was known to Euclid and to Ptolemy, that the communication between visible objects
+and a beholding eye is usually effected in straight lines; and that when the line of communica-
+ion is bent, by reflexion, at any point of a plane or of a spheric mirror, the angle of bending
+at this point, between the two straight parts of the bent line, is bisected by the normal to the
+mirror. It was known also that this law extends to successive reflexions. Optical induction
+was therefore sufficiently advanced two thousand years ago, to have enabled a mathematician
+o understand, and, so far as depended on the knowledge of physical laws, to resolve the
+following problem: to determine the arrangement of the final straight rays, or lines of vision,
+along which a shifting eye should look, in order to see a given luminous point, reflected by
+a combination of two given spherical mirrors. Yet, of two capital deductions respecting this
+arrangement, without which its theory must be regarded as very far from perfect—namely,
+hat the final rays are in general tangents to a pair, and that they are perpendicular to a
+series of surfaces—the one is a theorem new and little known, and the other is still under
+dispute. For Malus, who first discovered that the rays of an ordinary reflected or refracted
+system are in general tangents to a pair of caustic surfaces, was led, by the complexity of his
+calculations, to deny the general existence (discovered by Huygens) of surfaces perpendicular
+to such rays; and the objection of Malus has been lately revived by an eminent analyst of
+Italy, in a valuable memoir on caustics, which was published last year in the correspondence
+of the observatory of Brussels.
+
+To multiply such instances of the existing imperfection of mathematical or deductive
+optics would be an unpleasant task, and might appear an attempt to depreciate the merit
+of living mathematicians. It is better to ascend to the source of the imperfection, the want
+of a general method, a presiding idea, to guide and assist the deduction. For although the
+deductive, as opposed to the inductive process, may be called itself a method, yet so wide
+and varied is its range, that it needs the guidance of some one central principle, to give it
+continuity and power.
+
+Those who have meditated on the beauty and utility, in theoretical mechanics, of the
+general method of Lagrange—who have felt the power and dignity of that central dynamical
+theorem which he deduced, in the Méchanique Analytique, from a combination of the prin-
+ciple of virtual velocities with the principle of D’Alembert—and who have appreciated the
+simplicity and harmony which he introduced into the research of the planetary perturbations,
+by the idea of the variation of parameters, and the differentials of the disturbing function,
+must feel that mathematical optics can only then attain a coordinate rank with mathemati-
+
+5
+
+--- Page 7 ---
+cal mechanics, or with dynamical astronomy, in beauty, power, and harmony, when it shall
+possess an appropriate method, and become the unfolding of a central idea.
+
+This fundamental want forced itself long ago on my attention; and I have long been in
+possession of a method, by which it seems to me to be removed. But in thinking so, I am
+conscious of the danger of a bias. It may happen to me, as to others, that a meditation which
+has long been dwelt on shall assume an unreal importance; and that a method which has for
+a long time been practised shall acquire an only seeming facility. It must remain for others to
+judge how far my attempts have been successful, and how far they require to be completed,
+or set aside, in the future progress of the science.
+Meanwhile it appears that if a general method in deductive optics can be attained at
+all, it must flow from some law or principle, itself of the highest generality, and among the
+highest results of induction. What, then, may we consider as the highest and most genera
+axiom, (in the Baconian sense,) to which optical induction has attained, respecting the rules
+and conditions of the lines of visual and luminous communication? The answer, I think, must
+be, the principle or law, called usually the Law of Least Action; suggested by questionable
+views, but established on the widest induction, and embracing every known combination of
+media, and every straight, or bent, or curved line, ordinary or extraordinary, along which
+ight (whatever light may be) extends its influence successively in space and time: namely,
+hat this linear path of light, from one point to another, is always found to be such, that if
+it be compared with the other infinitely various lines by which in thought and in geometry
+he same two points might be connected, a certain integral or sum, called often Action, an
+depending by fixed rules on the length, and shape, and position of the path, and on the media
+which are traversed by it, is less than all the similar integrals for the other neighbouring lines,
+or, at least, possesses, with respect to them, a certain stationary property. From this Law,
+hen, which may, perhaps, be named the LAW OF STATIONARY ACTION, it seems that we
+may most fitly and with best hope set out, in the synthetic or deductive process, and in
+search of a mathematical method.
+
+Accordingly, from this known law of least or stationary action, I deduced (long since)
+another connected and coextensive principle, which may be called, by analogy, the LAW OF
+VARYING ACTION, and which seems to offer naturally a method such as we are seeking: the
+one law being as it were the last step in the ascending scale of induction, respecting linear
+paths of light, while the other law may usefully be made the first in the descending and
+deductive way. And my chief purpose, in the present paper, is to offer a few illustrations and
+consequences of these two coordinate laws.
+
+The former of these two laws was discovered in the following manner. The elementary
+principle of straight rays shewed that light, under the most simple and usual circumstances,
+employs the direct, and, therefore, the shortest course to pass from one point to another.
+Again, it was a very early discovery, (attributed by Laplace to Ptolemy,) that in the case
+of a plane mirror, the bent line formed by the incident and reflected rays is shorter than
+any other bent line, having the same extremities, and having its point of bending on the
+mirror. These facts were thought by some to be instances and results of the simplicity and
+economy of nature; and Fermat, whose researches on maxima and minima are claimed by
+the continental mathematicians as the germ of the differential calculus, sought anxiously to
+trace some similar economy in the more complex case of refraction. He believed that by a
+metaphysical or cosmological necessity, arising from the simplicity of the universe, light always
+
+6
+
+--- Page 8 ---
+akes the course which it can traverse in the shortest time. To reconcile this metaphysical
+opinion with the law of refraction, discovered experimentally by Snellius, Fermat was led to
+suppose that the two lengths, or indices, which Snellius had measured on the incident ray
+prolonged and on the refracted ray, and had observed to have one common projection on a
+refracting plane, are inversely proportional to the two successive velocities of the light before
+and after refraction, and therefore that the velocity of light is diminished on entering those
+denser media in which it is observed to approach the perpendicular: for Fermat believed that
+he time of propagation of light along a line bent by refraction was represented by the sum
+of the two products, of the incident portion multiplied by the index of the first medium, and
+of the refracted portion multiplied by the index of the second medium; because he found, by
+his mathematical method, that this sum was less, in the case of a plane refractor, than if
+ight went by any other than its actual path from one given point to another; and because he
+perceived that the supposition of a velocity inversely as the index, reconciled his mathematical
+discovery of the minimum of the foregoing sum with his cosmological principle of least time.
+Des Cartes attacked Fermat’s opinions respecting light, but Leibnitz zealously defended them;
+and Huygens was led, by reasonings of a very different kind, to adopt Fermat’s conclusions of
+a velocity inversely as the index, and of a minimum time of propagation of light, in passing
+from one given point to another through an ordinary refracting plane. Newton, however,
+by his theory of emission and attraction, was led to conclude that the velocity of light was
+directly, not inversely, as the index, and that it was increased instead of being diminished
+on entering a denser medium; a result incompatible with the theorem of shortest time in
+refraction. The theorem of shortest time was accordingly abandoned by many, and among
+he rest by Maupertuis, who, however, proposed in its stead, as a new cosmological principle,
+hat celebrated law of least action which has since acquired so high a rank in mathematical
+physics, by the improvements of Euler and Lagrange. Maupertuis gave the name of action to
+he product of space and velocity, or rather to the sum of all such products for the various
+elements of any motion; conceiving that the more space has been traversed and the less time
+it has been traversed in, the more action may be considered to have been expended: and by
+combining this idea of action with Newton’s estimate of the velocity of light, as increased by a
+denser medium, and as proportional to the refracting index, and with Fermat’s mathematical
+heorem of the minimum sum of the products of paths and indices in ordinary refraction at a
+plane, he concluded that the course chosen by light corresponded always to the least possible
+action, though not always to the least possible time. He proposed this view as reconciling
+physical and metaphysical principles, which the results of Newton had seemed to put in
+opposition to each other; and he soon proceeded to extend his law of least action to the
+phenomena of the shock of bodies. Euler, attached to Maupertuis, and pleased with these
+novel results, employed his own great mathematical powers to prove that the law of least
+action extends to all the curves described by points under the influence of central forces; or,
+o speak more precisely, that if any such curve be compared with any other curve between
+he same extremities, which differs from it indefinitely little in shape and in position, and
+may be imagined to be described by a neighbouring point with the same law of velocity, and
+if we give the name of action to the integral of the product of the velocity and an element of a
+curve, the difference of the two neighbouring values of this action will be indefinitely less than
+he greatest linear distance (itself indefinitely small) between the two near curves; a theorem
+which I think may be advantageously expressed by saying that the action is stationary.
+
+7
+
+--- Page 9 ---
+Lagrange extended this theorem of Euler to the motion of a system of points or bodies which
+act in any manner on each other; the action being in this case the sum of the masses by the
+foregoing integrals. Laplace has also extended the use of the principle in optics, by applying
+it to the refraction of crystals; and has pointed out an analogous principle in mechanics, for
+all imaginable connexions between force and velocity. But although the law of least action
+has thus attained a rank among the highest theorems of physics, yet its pretensions to a
+cosmological necessity, on the ground of economy in the universe, are now generally rejected.
+And the rejection appears just, for this, among other reasons, that the quantity pretended
+to be economised is in fact often lavishly expended. In optics, for example, though the sum
+of the incident and reflected portions of the path of light, in a single ordinary reflexion at
+a plane, is always the shortest of any, yet in reflexion at a curved mirror this economy is
+often violated. If an eye be placed in the interior but not at the centre of a reflecting hollow
+sphere, it may see itself reflected in two opposite points, of which one indeed is the nearest
+to it, but the other on the contrary is the furthest; so that of the two different paths of light,
+corresponding to these two opposite points, the one indeed is the shortest, but the other is
+the longest of any. In mathematical language, the integral called action, instead of being
+always a minimum, is often a maximum; and often it is neither the one nor the other: though
+it has always a certain stationary property, of a kind which has been already alluded to, and
+which will soon be more fully explained. We cannot, therefore, suppose the economy of this
+uantity to have been designed in the divine idea of the universe: though a simplicity of some
+high kind may be believed to be included in that idea. And though we may retain the name
+of action to denote the stationary integral to which it has become appropriated—which we
+may do without adopting either the metaphysical or (in optics) the physical opinions that
+first suggested the name—yet we ought not (I think) to retain the epithet least: but rather
+o adopt the alteration proposed above, and to speak, in mechanics and in optics, of the Law
+of Stationary Action.
+
+To illustrate this great law, and that other general law, of varying action, which I have
+deduced from it, we may conveniently consider first the simple case of rectilinear paths of
+ight. For the rectilinear course, which is evidently the shortest of any, is also distinguished
+from all others by a certain stationary property, and law of variation, which, being included
+in the general laws of stationary and varying action, may serve as preparatory examples.
+The length V of any given line, straight or curved, may evidently be denoted by the
+
+following integral:
+v= fav = | Varrapra, (1)
+
+If now we pass from this to another neighbouring line, having the same extremities, and
+suppose that the several points of the latter line are connected with those of the former, by
+equations between their co-ordinates, of the form
+
+Ue = U4 e, Ye =Y FEN, Ze = 24 eG, (2)
+€ being any small constant, and €, 7, ¢, being any arbitrary functions of x, y, z, which vanish
+for the extreme values of those variables, that is, for the extreme points of the given line, and
+
+do not become infinite for any of the intermediate points, nor for the value ¢ = 0, though
+
+8
+
+--- Page 10 ---
+they may in general involve the arbitrary constant ¢; the length V- of the new line may be
+represented by the new integral,
+
+Vz =| v@ + dy? + dz2
+
+(3)
+= | VEEP yt edi e+ ey,
+
+taken between the same extreme values of x, y, z, as the former; and this new length V. may
+be considered as a function of ¢, which tends to the old length V, when « tends to 0, the
+quotient
+
+1
+=(Ve=V)
+tending in general at the same time to a finite limit, which may be thus expressed,
+
+dx dé + dy dn + dz d¢
+
+= — f (cage +nas d— ta case)
+
+he last of these forms being obtained from the preceding by integrating by parts, and by
+employing the condition already mentioned, that the functions €, 7, ¢, vanish at the extrem-
+ities of the integral. When the original line is such that the limit (4) vanishes, independently
+of the forms of the functions €, 7, ¢, and therefore that the difference of the lengths V: — V
+bears ultimately an evanescent ratio to the small quantity ¢, (which quantity determines the
+difference between the second line and the first, and bears itself a finite ratio to the greatest
+distance between these two lines,) we may say that the original line has a stationary length,
+V, as compared with all the lines between the same extremities, which differ from it infinitely
+ittle in shape and in position. And since it easily follows, from the last form of the limit (4),
+hat this limit cannot vanish independently of the forms of €, 7, ¢, unless
+
+lim. =(Ve— V)=
+
+dx dy dz
+
+that is, unless the ratios
+dx dy dz
+
+dv’ dv’ dv’
+are constant throughout the original line, but that the limit vanishes when this condition is
+satisfied, we see that the property of stationary length belongs (in free space) to straight lines
+and to such only. The foregoing proof of this property of the straight line may, perhaps, be
+useful to those who are not familiar with the Calculus of Variations.
+
+To illustrate, by examples, this stationary property of the length of a straight line, let us
+consider such a line as the common chord of a series of circular arcs, and compare its length
+with theirs, and theirs with one another. The length of the straight line being called V, let
+seV be the height or sagitta of the circular arch upon this chord; so that 3(e +e71)V shall
+
+9
+
+--- Page 11 ---
+be the diameter of the circle, and ¢ the trigonometric tangent of the quarter of an arc having
+the same number of degrees, to a radius equal to unity: we shall then have the following
+expression for the length V- of the circular arch upon the given chord V,
+
+V.=V(e+e')tan.te. (6)
+
+This expression may be put under the form,
+
+V. fe \2 fe ede
+—=14+4 d “3 f 7
+paita([a) [Sp ©)
+
+which shows not only that the ratio of the circular arch to its chord is always > 1, but also,
+
+that since AV. : : 24
+2 =4Vv -3 | —<~_) de, 8
+de 0 . o (1+e?)? * 8)
+
+the arch V- increases continually with its height at an increasing rate; its differential coefficient
+being positive and increasing, when ¢ is positive and increases, but vanishing with ¢, and
+showing, therefore, that in this series of circular arcs and chord the property of stationary
+length belongs to the straight line only.
+
+Again, we may imagine a series of semi-ellipses upon a given common axis V, the other
+axis conjugate to this being a variable quantity eV. The length of such a semi-elliptic arch is
+
+x
+
+Ve =V ° (cos. 6? + €? sin. 6”)? dé, (9)
+0
+
+an expression which may be thus transformed,
+
+weir(fu) [ sin. d? cos. 6? dd _. (10)
+Vv 0 0 (cos. g? + €? sin. 2)?
+
+hus the ratio of the elliptic arch V- to its given base or axis V is not only greater than unity,
+and continually increases with the height, but increases at an increasing rate, which vanishes
+for an evanescent height; so that in this series of semi-elliptic arcs and axis, the latter alone
+has the property of stationary length.
+In more familiar words, if we construct on a base of a given length, suppose one hundred
+feet, a series of circular or of semi-elliptic arches, having that base for chord or for axis, the
+engths of those arches will not only increase with their heights, but every additional foot
+or inch of height will augment the length more than the foregoing foot or inch had done;
+and the lower or flatter any two such arches are made, the less will be the difference of their
+engths as compared with the difference of their heights, till the one difference becomes less
+han any fraction that can be named of the other. For example, if we construct, on the
+supposed base of one hundred feet, two circular arches, the first fifty feet high, the second
+fifty-one feet high, of which the first will thus be a semicircle, and the second greater than
+a semicircle, the difference of lengths of these two arches will be a little more than double
+he difference of their heights, that is, it will be about two feet; but if on the same base we
+
+10
+
+--- Page 12 ---
+construct one circular arch with only one foot of height, and another with only two feet, the
+difference of lengths of these two low arches will not be quite an inch, though the difference
+of their heights remains a foot as before; and if we imagine the two circular arches, on the
+same base or common chord of one hundred feet, to have their heights reduced to one and
+two inches respectively, the difference of their lengths will thereby be reduced to less than
+the hundred-and-fiftieth part of an inch.
+
+We see then that a straight ray, or rectilinear path of light, from one given point to
+another, has a stationary length, as compared with all the lines which differ little from it
+in shape and in position, and which are drawn between the same extremities. If, however,
+we suppose the extremities of the neighbouring line to differ from those of the ray, we shall
+then obtain in general a varying instead of stationary length. To investigate the law of this
+variation, which is the simplest case of the second general law above proposed to be illustrated,
+we may resume the foregoing comparison of the lengths V, V., of any two neighbouring lines;
+supposing now that these two lines have different extremities, or in other words, that the
+functions €, 7, ¢, do not vanish at the limits of the integral. The integration by parts gives
+now, along with the last expression (4) for the limit of
+
+1
+the following additional terms,
+
+dx dy dz | da’ | dy’ | dz
+
+Swit at Sav t Sav tay t Sa
+
+which belong to the extremities of the given line, the accented being the initial quantities,
+and d’ referring to the infinitesimal changes produced by a motion of the initial point along
+the initial element of the line, so that d'V is this initial element taken negatively,
+
+dV =— dla? + diy? + a2? (11)
+
+when, therefore, the last integral (4) vanishes, by the original line being straight, and when
+we compare this line with another infinitely near, the law of varying length is expressed by
+the following equation:
+
+. 1 dx dy dz d'x' dy’ dz
+lim. t t
+moe VY) = ap "av iy “ av +" av + ay (42)
+= (¢- Seon +(¢- Vs
+it may also be thus expressed,
+. dx ,. dy -} dz 1
+6V WV (6a — 6x") + WV (dy — by’) + qv 62’), (13)
+
+and shows that the length V + 6V of any other line which differs infinitely little from the
+straight ray in shape and in position, may be considered as equal to its own projection on
+the ray.
+
+11
+
+--- Page 13 ---
+It must be observed that in certain singular cases, the distance between two lines may be
+made less, throughout, than any quantity assigned, without causing thereby their lengths to
+tend to equality. For example, a given straight line may be subdivided into a great number
+of small parts, equal or unequal, and on each part a semicircle may be constructed; and then
+the waving line composed of the small but numerous semicircumferences will every where be
+little distant from the given straight line, and may be made as little distant as we please, to
+any degree short of perfect coincidence; while yet the length of the undulating line will not
+tend to become equal to the length of the straight line, but will bear to that length a constant
+ratio greater than unity, namely the ratio of 7 to 2. But it is evident that such cases as these
+are excluded from the foregoing reasoning, which supposes an approach of the one line to the
+other in shape, as well as a diminution of the linear distance between them.
+
+From the law of varying length of a straight ray we may easily perceive (what is also
+otherwise evident) that the straight rays diverging from a given point 2’ y’ 2’, or converging
+to a given point x y z, are cut perpendicularly by a series of concentric spheres, having for
+their common equation,
+
+V =const.; (14)
+
+and more generally, that if a set of straight rays be perpendicular to any one surface, they
+are also perpendicular to a series of surfaces, determined by the equation (14), that is, by the
+condition that the intercepted portion of a ray between any two given surfaces of the series
+shall have a constant length. Analogous consequences will be found to follow in general from
+the law of varying action.
+
+It may be useful to dwell a little longer on the case of rectilinear paths, and on the con-
+sequences of the mathematical conception of luminous or visual communication as a motion
+from point to point along a mathematical straight line or ray, before we pass to the properties
+of other less simple paths.
+
+It is an obvious consequence of this conception, that from any one point (A), considered as
+initial, we may imagine light, if unobstructed, as proceeding to any other point (B), considered
+as final, along one determined ray, or linear path; of which the shape, being straight, is the
+same whatever point its ends may be; but of which the length and the position depend on
+the places of those ends, and admit of infinite variety, corresponding to the infinite variety
+that can be imagined of pairs of points to be connected. So that if we express by one set of
+numbers the places of the initial and of the final points, and by another set the length and
+position of the ray, the latter set of numbers must, in mathematical language, be functions
+of the former; must admit of being deduced from them by some fixed mathematical rules.
+To make this deduction is an easy but a fundamental problem, which may be resolved in the
+following manner.
+
+Let each of the two points A, B, be referred to one common set of three rectangular
+semiaxes OX, OY, OZ, diverging from any assumed origin O; let the positive or negative
+co-ordinates of the final point B, to which the light comes, be denoted by x, y, z, and let the
+corresponding co-ordinates of the initial point A, from which the light sets out, be denoted
+similarly by 2’, y’ , z’; let V be the length of the straight ray, or line AB, and let a, 3, y, be
+the positive or negative cosines of the acute or obtuse angles which the direction of this ray
+makes with the positive semiaxes of co-ordinates: the problem is then to determine the laws
+of the functional dependence of the positive number V, and of the three positive or negative
+
+12
+
+--- Page 14 ---
+numbers a, 3, y, on the six positive or negative numbers 2, y, z, x’, y’, 2’; and this problem
+is resolved by the following evident formule;
+
+rg ee (15)
+
+a—a' y-y Zz
+
+4
+
+It is a simple but important corollary to this solution, that the laws of the three cosines of
+
+direction a, 3, y, expressed by the equations (16), are connected with the law of the length V,
+expressed by the formula (15), in a manner which may be stated thus;
+
+a=
+
+(16)
+
+6V 6V 6V
+
+6 being here a characteristic of partial differentiation. We find, in like manner,
+
+éV 8 6V éV
+ba!” by!” Soy
+
+= (18)
+differentiating the function V with respect to the initial co-ordinates. And since the three
+cosines of direction a, 3, y, are evidently connected by the relation
+
++P +7 =1, (19)
+
+we see that the function V satisfies simultaneously the two following partial differential equa-
+tions of the first order and second degree,
+
+(iz) + (ar) +(%2) >
+(i) + (5) +) >
+
+The equations (17), (18), (20), will soon be greatly extended; but it seemed well to notice
+them here, because they contain the germ of my general method for the investigation of the
+paths of light and of the planets, by the partial differential coefficients of one characteristic
+function. For the equations (17) and (18), which involve the coefficients of the first order of
+the function V, that is, in the present case, of the length, may be considered as equations of
+the straight ray which passes with a given direction through a given initial or a given final
+point: and I have found analogous equations for all other paths of light, and even for the
+planetary orbits under the influence of their mutual attractions.
+
+The equations (16) when put under the form
+
+(20)
+
+v—2/=aV, y-y =BV, 2-2 =V, (21)
+give evidently by differentiation
+dx =adV, dy= dV, dz=vy7dVv, (22)
+
+13
+
+--- Page 15 ---
+and therefore
+dV? = dx? + dy? + dz’, (23)
+
+the symbol d referring here to an infinitesimal change of the final point B, by a motion along
+the ray prolonged at its extremity; in such a manner that the equations (22) may be regarded
+as differential equations of that ray. They give the expressions
+
+dx dy dz
+= , B= ; = ; 24
+= PFW Ww (24)
+which may, by (23), be put under the form
+6dV édV édV
+=—, B=—, =——, 2
+0 Se 8 Fay > tae (25)
+
+6 implying still a partial differentiation, and dV being treated here as a function of dx, dy,
+dz. And comparing the expressions (25) and (17), we obtain the following results, which we
+shall soon find to be very general, and to extend with analogous meanings to all linear paths
+of light,
+6V bddV bV bdV bVObdV
+da ddx’ dy  dbdy’ bz  bdz°
+
+(26)
+
+It must not be supposed that these equations are identical; for the quantities in the first
+members are the partial differential coefficients of one function, V, while those in the second
+members are the coefficients of another function dV.
+
+In like manner, if we employ (as before) the characteristic d’ to denote the infinitesimal
+changes arising from a change of the initial point A, by a motion along the initial element of
+the ray, we have the differential equations
+
+da’ =-ad'V, dy!’ =-6dV, dz =—-yd’V, (27)
+
+d'V being as before the initial element taken negatively, so that
+
+dv? = d' x’? + d'y'? + d'z’?; (28)
+we have therefore / ; /
+
+éd'V éd'V éd'V
+
+Saat OO > Say > Sa (29)
+
+and consequently, by (18),
+
+SV od'V OV d'V BV _sB'V
+ba! bd'x!’— by! bd'y!?— bz! — blz!
+
+(30)
+
+The same remarks apply to these last results, as to the equations (26).
+The general law of stationary action, in optics, may now be thus stated.
+
+14
+
+--- Page 16 ---
+The optical quantity called action, for any luminous path having 7 points of sudden
+bending by reflexion or refraction, and having therefore i + 1 separate branches, is the sum
+of i+ 1 separate integrals,
+
+Action = V = > / dv)
+
+= vO) + vy?) + ye) feet vo) feet yen,
+
+(31)
+
+of which each is determined by an equation of the form
+vo = / dv) = / vo) dae? + dy? + dave, (32)
+
+the coefficient vu) of the element of the path, in the rth medium, depending, in the most
+general case, on the optical properties of that medium, and on the position, direction, and
+colour of the element, according to rules discovered by experience, and such, for example,
+that if the rth medium be ordinary, v“”) is the index of that medium; so that dV is always a
+homogeneous function of the first dimension of the differentials de, dy, dz"), which may
+also involve the undifferentiated co-ordinates x) y 2‘) themselves, and has in general a
+variation of the form
+
+6dV™ =o 6da™ 4.7 bdy) +0 6d2™
+
+5 (Fo sy 4 So syird 4 BO 2009) gtr 83)
+ba) by) 520) ,
+if we put for abridgment
+6dV) 6dv) 6dV)
+oir) — oY cr) — OAV) — OV (34)
+
+da)? 7 Bd” ~ Bday’
+
+and
+ds = dal)? + dy? + dz? : (35)
+
+we have also, by the homogeneity of dv,
+
+dV) =o) da™ 4.7 dy 40 de, (36)
+
+If we now change the co-ordinates 2) y( z™ of the luminous path to any near con-
+nected co-ordinates
+
+a =a 4), Yay Fen, = 2M 4c, (37)
+
+e being any small constant, and €7) (7) ¢(") any functions of ¢ and of the co-ordinates a”
+y™ 2), which do not become infinite for ¢ = 0, nor for any point on the rth portion of the
+path, and which satisfy at the meeting of two such portions the equation of the corresponding
+reflecting or refracting surface, and vanish at the ends of the whole path; we shall pass hereby
+
+15
+
+--- Page 17 ---
+to a near line having the same extremities as the luminous path, and having its points of
+bending on the same reflecting or refracting surfaces; and the law of stationary action is,
+that if we compare the integral or sum, V = > [ dV“), for the luminous path, with the
+corresponding integral V- for this near line, the difference of these two integrals or actions
+bears an indefinitely small ratio to the quantity ¢, (which makes the one line differ from the
+
+other,) when this quantity ¢ becomes itself indefinitely small: so that we have the limiting
+equation,
+lim. “(Ve V)= 38)
+that is 1 1
+lim. 5° (Vs) -V™)=S0 / lim. a (avs? — dv) =0, 39)
+or finally
+
+> / (=) =0. 40)
+
+To develop this last equation, we have, by (33) and (37),
+
+air)
+(=) =o") de) 40) dg 4. ac
+
+be
+bu”) bu") bu")
+(r) (r) (r) (r),
++(¢ mat) ja tS” aw +) as
+
+(41)
+
+and therefore, integrating by parts, and accenting the symbols which belong to the beginning
+of the rth portion of the path,
+
+eG)
+/ (=) = gl) = gh) 4 OQ) — OPO HOME — YE)
+
+be
+rn / g(r) (Soa _ aa”)
+” (42)
+©) (0 46 — ar)
++] ayn dr
+(r)
+-/ cm (So ast) = av"),
+
+And since the extreme values, and values for the points of juncture, of the otherwise
+arbitrary functions € 7 ¢, are subject to the following conditions:
+
+(%Y=0, fM=0, CM =0, EM =0, nA V=0, CY =0, (43)
+
+and
+Ey) _ E(rty) ni) _ ft), ow) _ Crt) (44)
+
+16
+
+--- Page 18 ---
+r varying from 1 to 7; and finally, for every value of r within the same range, to the condition
+
+NE) $n} +n” = 0, (45)
+
+n) being either seminormal to the rth reflecting or refracting surface at the rth point of
+
+incidence, and nf? nl” ni? being the cosines of the angles which n”) makes with the three
+
+rectangular positive semiaxes of co-ordinates x y z; the law of stationary action (40) resolves
+itself into the following equations:
+bu) bu)
+
+ds; dr = sas); du”) = bu)
+
+do =
+OF) by ro)
+
+ds‘), (46)
+
+and
+
+aIAD Gg) SOA, HD 7 SOM, yD — YM = AORM; (47)
+
+in which \(7) is an indeterminate multiplier. The three equations (46), which may by the
+condition (36) be shown to be consistent with each other, express the gradual changes, if
+any, of a ray, between its points of sudden bending; and the equations (47) contain the rules
+of ordinary and extraordinary reflexion and refraction. All these results of that known law,
+which I have called the law of stationary action, are fully confirmed by experience, when
+suitable forms are assigned to the functions denoted by vu").
+
+For example, in the case of an uniform medium, ordinary or extraordinary, the function
+v) is to be considered as independent of the undifferentiated co-ordinates 2) y 2), and
+the differential equations (46) of the rth portion of the luminous path become simply
+
+do =0, dr =0, dv™ =0, (48)
+
+and give by integration
+
+") =const., 7°") =const., vu" = const.; (49)
+
+of
+they express, therefore, the known fact of the rectilinear propagation of light in a uniform
+medium, because in such a medium o") 7(7) uv depend only on the colour and direction,
+but not on the co-ordinates of the path, and are functions of a 6) y™ not including a”
+y™ 2), if we put for abridgment
+
+BO gy Wy
+
+= ase" ase? 7 > as" (50)
+
+so that a, 8, 7 7), represent the cosines of the inclination (in this case constant) of any
+element of the rth portion of the path to the positive semiaxes of co-ordinates. The formulze
+(46) give also the known differential equations for a ray in the earth’s atmosphere.
+
+With respect to the rules of reflexion or refraction of light, expressed by the equations
+(47), they may in general be thus summed up;
+
+AG”) 41 Ar 41 Av” =0: (51)
+
+17
+
+--- Page 19 ---
+in which A refers to the sudden changes produced by reflexion or refraction, and i tw” oe
+are the cosines of the inclinations to the positive semiaxes of co-ordinates, of any arbitrary
+line t”), which touches the rth reflecting or refracting surface, at the rth point of incidence,
+so that
+
+tn) 4 tn” $tOn™ =0. (52)
+
+In the case of ordinary media, for example, we have
+AM) =vMaM, 7 SyMBO, Vv SyM A; (53)
+and the equation (51) may be put under the form
+Avy” =0, (54)
+
+in which
+of) =a + BOW 4 OW”, (55)
+
+so that the unchanged quantity wou” is the projection of the index v‘”) on the arbitrary
+tangent ¢), each index being measured from the point of incidence in the direction of the
+corresponding ray: which agrees with the law of Snellius. In general, if we put
+
+yp = VJolr)2 + qr(r)2 + v(r)2, (56
+
+and
+DM = Uy, rn) = YOY), yn) = Uy, (57
+
+we may consider a) 7‘") v™ as the projections, on the axes of co-ordinates, of a certain
+straight line v‘”), of which the length and direction depend (according to rules expressed by
+the foregoing equations) on the form of the function v” or dV, and on the direction an
+colour of the element of the luminous path, before or after incidence; and if we put
+
+6) = OO 4 LU 4 OW, (58
+the equation (51) will take the form
+Avy” =0, (59)
+
+which expresses that the projection of this straight line v“) on any arbitrary tangent t) to
+the reflecting or refracting surface, at the point of incidence, is not changed by reflection or
+refraction, ordinary or extraordinary: which is a convenient general form for all the known
+rules of sudden change of direction of a path of light. In the undulatory theory, I have found
+that the line v) is the reciprocal of the normal velocity of propagation of the wave; and
+its projections may therefore be called components of normal slowness: so that the foregoing
+property of unchanged projection of the line v‘”), may be expressed, in the language of this
+theory, by saying that the component of normal slowness in the direction of any line which
+touches any ordinary or extraordinary reflecting or refracting surface at any point of incidence
+
+18
+
+--- Page 20 ---
+is not changed by reflection or refraction. It was, however, by a different method that I
+originally deduced this general enunciation of the rules of optical reflexion and refraction,
+namely, by employing my principle of the characteristic function, and that other general law,
+of which it is now time to speak.
+
+This other general law, the law of varying action, results from the known law above
+explained, by considering the extreme points of a luminous path as variable: that is, by not
+supposing the six extreme functions (43) to vanish. Denoting, for abridgment, the three final
+functions of this set by € 71 ¢, and the three initial functions by €/ 7 ¢’, and writing similarly
+v, dV, &c., instead of the final quantities v’+), dVv@*), &e. and vu’, dV’, &c., instead of
+the initial quantities _ dV), &c., we find this new equation,
+
+baVve”
+lim. 5 (V-—V) -r/(4 (60)
+
+=o0€-o'f'+7n-7' +v06-V'C,
+which is a form of my general result. It may also be put conveniently under this other form,
+
+6V = 06a —o' ba +7 by —7' by’ +062 —0' 62’; (61)
+
+in which
+
+6dV
+
+6dV
+
+6dx
+
+6.uds
+
+édx
+6.uds
+
+~ Sdy  ” bdy
+6dV _ 6.uds
+dz édz ’
+
+and
+6.
+
+Z
+_gla- uds
+ds
+6
+
+at
+[
+(
+
+éd'a"’
+
+édy
+v
+dz
+
+xv
+6.uds
+6.uds
+
+U
+
+)- 6d'V
+_ 6d'V
+éd’y' 7?
+_ ébd'V
+~ Fadl y?
+the symbols
+
+6.uds\'
+——], &e,
+édx
+representing the initial quantities which correspond to
+6.uds
+édx
+and d’V being, according to the same analogy of notation, the infinitesimal change of the
+whole integral V, arising from the infinitesimal changes d’a’, d’y’, d’z’, of the initial co-
+ordinates, that is, from a motion of the initial point 2’ y’ z’ along the initial element of the
+luminous path; so that d’V is the initial element of the integral taken negatively,
+
+dV =-v'V/d'e?2 + dy? +d'2. (64)
+
+19
+
+, &e.;
+
+--- Page 21 ---
+If then we consider the integral or action V as a function (which I have called the characteristic
+function) of the six extreme co-ordinates, and if we differentiate this function with respect to
+these co-ordinates, we see that its six partial differential coefficients of the first order may be
+represented generally by the equations (26) and (30), which were already proved to be true
+for the simple case of rectilinear paths of light. And as, in that simple case, those equations,
+being then equivalent to the formulae (17) and (18), were seen to determine the course of the
+straight ray, which passed with a given direction through a given initial or a given final point;
+so, generally, when we know the initial co-ordinates, direction, and colour of a luminous path,
+and the optical properties of the initial medium, we can determine, or at least restrict (in
+general) to a finite variety, the values of the initial coefficients
+
+6d’V bd'V bd'V
+bd'x!? — édly’’— éd'z!”
+
+which form the second members of the equations (30); and therefore we may regard as known
+the first members of the same equations, namely the partial differential coefficients
+6V 66VOBV
+bal? by"? 2!”
+of the characteristic function V, taken with respect to the known initial co-ordinates: so
+that if the form of the function V be known, we have between the final co-ordinates x, y,
+z, considered as variable, the three following equations of the path, or at least of its final
+branch,
+éV 6 éV
+= — =const., = =const. 65
+ba! by’ “62! (65)
+These three equations are compatible with each other, and are equivalent only to two distinct
+relations between the variable co-ordinates x y z, because in general V must satisfy a partial
+differential equation of the form
+
+O= O'(o'7,7',u', ay’, 2’), (66)
+
+= const.,
+
+in which, by what has been shown,
+
+6V. éV éV
+ea 7! By!’ v= Sy (67)
+
+/
+oO
+
+and which is therefore analogous to the second formula (20): this equation (66) being obtained
+by eliminating the ratios of d'z’, d’y’, d'z’, between the general formulze (30). In like manner
+the formulee (26) give generally a partial differential equation of the form
+
+6V 6V é6V
+= wT TY, 4
+0=0(e ee ene) (68)
+analogous to the first of those marked (20), and the three following compatible equations
+
+between the variable initial co-ordinates 2x’, y’, z’, of a path of light which is obliged to pass
+with a given direction through a given final point,
+6V
+
+6 éV
+7 const., wy const., Sp const. (69)
+
+20
+
+--- Page 22 ---
+But for the integration and use of these partial differential equations, the limits of the present
+communication oblige me to refer to the volumes, already mentioned, of the Transactions of
+the Royal Irish Academy.
+
+I may, however, mention here, that my employment of the characteristic function V, in
+all questions of reflexion and refraction, is founded on an equation in finite differences, which,
+by the integral nature of this function V, is evidently satisfied, namely,
+
+AV =0=u; (70)
+
+A referring, as before, to the sudden changes produced at any reflecting or refracting surface
+having for its equation
+u=0; (71)
+
+and A being an indeterminate multiplier, employed for the purpose of being able to treat the
+co-ordinates of incidence as three independent variables. For example, the formulae (47), for
+a sudden change of direction, result immediately from (70), under the form
+
+6V éu 6V éu éV éu
+
+A— =A—, A— =)\—, A— = \—, 72
+
+ba 6x éy by’ éz éz (72)
+by differentiating with respect to the co-ordinates of incidence, as three independent variables,
+and then reducing by the equation (71) of the ordinary or extraordinary reflecting or refracting
+surface. These results respecting the change of direction of a luminous path may be put under
+the form
+
+6V 6Vv 6V
+ba _ yn OY _ an bz
+A éu A éu A du’ (73)
+6x éy éz
+or under the following,
+a (S200 8880) Ag
+ba by by ba
+dubdV budV
+dy dz bz dy
+dudV budV
+4 (35 - a) =0
+
+and in general, all theorems respecting the changes produced by reflexion or refraction in
+the properties of an optical system, may be expressed, by the help of the formula (70), as
+permanences of certain other properties. The remarkable permanence, already stated, of the
+components of normal slowness of propagation of a luminous wave, was suggested to me by
+observing that my function V is (in the undulatory theory) the time of propagation of light
+from the initial to the final point, and therefore that the waves (in the same theory) are
+represented by the general equation
+
+V = const., (75)
+
+and the components of normal slowness by the partial differential coefficients of V of the
+first order. The properties of the function V, on which my whole optical method depends,
+
+21
+
+--- Page 23 ---
+supplied me also, long since, with a simple proof of the contested theorem of Huygens already
+mentioned, namely, that the rays of any ordinary homogeneous system, which after issuing
+originally from any luminous point, or being (in an initial and ordinary state) perpendicular
+to any common surface, have undergone any number of reflexions or refractions ordinary or
+extraordinary, before arriving at their final state, are in that state perpendicular to a series
+of surfaces, namely, to the series (75), which are waves in the theory of Huygens: because,
+by the properties of my function, the differential equation of that series is
+
+adxz+ Bdy+76z=0, (76)
+
+a, 6 and y being the cosines which determine the final direction of a ray. It was also by
+combining the properties of the same characteristic function V with the physical principles
+of Fresnel, that I was first led, (from perceiving an indeterminateness in two particular cases
+in the relations between the coefficients
+
+6édV b6dV bdV.
+édx’  ddy’— bdz’
+
+and the ratios of dx, dy, dz,) to form that theoretical expectation of two kinds of conical
+refraction which I communicated in last October (1832) to the Royal Irish Academy and to
+Professor Lloyd, and which the latter has since verified experimentally. Mr. MacCullagh has
+lately informed me that the same two indeterminate cases in Fresnel’s theory had occurred
+to him from geometrical considerations, some years ago, and that he had intended to try to
+what geometrical and physical consequences they would lead.
+
+The method of the characteristic function has conducted me to many other consequences,
+besides those which I have already published in the Transactions of the Royal Irish Academy:
+and I think that it will hereafter acquire, in the hands of other mathematicians, a rank in
+deductive optics, of the same kind as that which the method of co-ordinates has attained in
+algebraical geometry. For as, by the last-mentioned method, Des Cartes reduced the study
+of a plane curve, or of a curved surface, to the study of that one function which expresses
+he law of the ordinate, and made it possible thereby to discover general formule for the
+angents, curvatures, and all other geometrical properties of the curve or surface, and to
+regard them as included all in that one law, that central algebraical relation: so I believe
+hat mathematicians will find it possible to deduce all properties of optical systems from
+he study of that one central relation which connects, for each particular system, the optical
+function V with the extreme co-ordinates and the colour, and which has its partial differential
+coefficients connected with the extreme directions of a ray, by the law of varying action, or
+by the formule (26) and (30).
+It only now remains, in order to conclude the present remarks, that I should briefly
+explain the allusions already made to my view of an analogous function and method in the
+research of the planetary and cometary orbits under the influence of their mutual perturba-
+ions. The view itself occurred to me many years ago, and I gave a short notice or announce-
+ment of it in the XVth volume (page 80) of the Transactions of the Royal Irish Academy; but
+I have only lately resumed the idea, and have not hitherto published any definite statement
+on the subject.
+
+22
+
+--- Page 24 ---
+To begin with a simple instance, let us attend first to the case of a comet, considered
+as sensibly devoid of mass, and as moving in an undisturbed parabola about the sun, which
+latter body we shall regard as fixed at the origin of co-ordinates, and as having an attracting
+mass equal to unity. Let r be the comet’s radius vector at any moment t considered as final,
+and r’ the radius vector of the same comet at any other moment ¢’ considered as initial; let
+also r” be the chord joining the ends of r and r’, and let us put for abridgment
+
+V=2Vrtrl tr! se @Wr+rl— 47"; (77)
+
+then I find, that the final and initial components of velocity of the comet, parallel to any
+three rectangular semiaxes of co-ordinates, may be expressed as follows by the coefficients of
+the function V,
+
+dx 6V dy_ OSV dz &V
+
+dt br’ t sy?
+
+dx’ 6V dy’ éV dz’ éV (78)
+dt! ba!’ dt! by!’ dt! 62!”
+and that this function V satisfies the two following partial differential equations,
+(x) (~) (x) 2
+6: 6 6 a:
+x ; y ; z ; r (79)
+6V\"  (éV\"  (oV\" 2
+ba! by! a ee
+
+which reconcile the expressions (78) with the known law of a comet’s velocity. I find also
+that all the other properties of a comet’s parabolic motion agree with and are included in the
+formulee (78), when the form (77) is assigned to the function V. They give, for example, by
+an easy combination, the theorem discovered by Euler for the dependence of the time (t — t’)
+on the parabolic chord (r”) and on the sum (r +r’) of the radii drawn to its extremities.
+
+More generally, in any system of points or bodies which attract or repel one another
+according to any function of the distance, for example, in the solar system, I have found
+that the final and initial components of momentum may be expressed in a similar manner,
+by the partial differential coefficients of the first order of some one central or characteristic
+function V of the final and initial co-ordinates; so that we have generally, by a suitable choice
+of V,
+
+da, 6V dy: 6V dz 6V
+te Baa yd
+ma = Sao’ &e.;
+and
+mth Vy ih a deh a
+dt! 5x) dt (Oy dé bah (81)
+de, _ Vg.
+mW bah
+
+23
+
+--- Page 25 ---
+m1, Mz, &c., being the masses of the system, and the function V being obliged to satisfy
+two partial differential equations of the first order and second degree, which are analogous to
+(79), and may be thus denoted
+
+4 {(H) +(G) + (B) fe
+a (e) + Ge) + Ge) 2"
+
+the function F involving the final co-ordinates, and the function F’ involving similarly the
+initial co-ordinates, and the common form of these two functions depending on the law of
+attraction or repulsion. In the solar system
+
+Fe 3 MiMk H
+V@i = tPF MURPH)
+pe MiMk H (83)
+~ » Va vet y TY2 4 (zh — 21)? oe
+aay wk Y YE a k
+H being a certain constant; and in general the partial differential equations (82) contain the
+
+law of living forces, which the other known general laws or integrals of the equations of motion
+are expressed by other general and simple properties of the same characteristic function V: the
+coefficients of which function, when combined with the relations (80) and (81), are sufficient to
+determine all circumstances of the motion of a system. By this view the research of the most
+complicated orbits, in lunar, planetary, and sidereal astronomy, is reduced to the study of the
+properties of a single function V; which is analogous to my optical function, and represents the
+action of the system from one position to another. If we knew, for example, the form of this
+one function V for a system of three bodies attracting according to Newton’s law, (suppose
+the system of Sun, Earth, and Moon, or of the Sun, Jupiter and Saturn,) we should need no
+further integration in order to determine the separate paths and the successive configurations
+of these three bodies; the eight relations, independent of the time, between their nine variable
+co-ordinates, would be given at once by differentiating the one function V, and employing the
+nine initial equations of the form (81), which in consequence of the second equation (82) are
+only equivalent to eight distinct relations, the positions and velocities being given for some
+one initial epoch; and the variable time t of arriving at any one of the subsequent states of
+the system would be given by a single integration of any combination of these relations with
+the equations (80). The development of this view, including its extension to other analogous
+questions, appears to me to open in mechanics and astronomy an entirely new field of research.
+I shall only add, that the view was suggested by a general law of varying action in dynamics,
+which I had deduced from the known dynamical law of least or stationary action, by a process
+analogous to that general reasoning in optics which I have already endeavoured to illustrate.
+
+Observatory of Trinity College, Dublin,
+September, 1833.
+
+24

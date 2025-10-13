@@ -1,0 +1,889 @@
+
+--- Page 1 ---
+® Check for updates
+
+132
+
+6. Über einen
+die Erzeugung und Verwandlung des Lichtes
+betreffenden heuristischen Gesichtspunkt;
+von A. Einstein.
+
+Zwischen den theoretischen Vorstellungen, welche sich die
+Physiker über die Gase und andere ponderable Körper ge-
+bildet haben, und der Maxwellschen Theorie der elektro-
+magnetischen Prozesse im sogenannten leeren Raume besteht
+ein tiefgreifender formaler Unterschied. Während wir uns
+nämlich den Zustand eines Körpers durch die Lagen und Ge-
+schwindigkeiten einer zwar sehr großen, jedoch endlichen An-
+zahl von Atomen und Elektronen für vollkommen bestimmt
+ansehen, bedienen wir uns zur Bestimmung des elektromagne-
+tischen Zustandes eines Raumes kontinuierlicher räumlicher
+Funktionen, so daß also eine endliche Anzahl von Größen
+nicht als genügend anzusehen ist zur vollständigen Festlegung
+des elektromagnetischen Zustandes eines Raumes. Nach der
+Maxwellschen Theorie ist bei allen rein elektromagnetischen
+Erscheinungen, also auch beim Licht, die Energie als konti-
+nuierliche Raumfunktion aufzufassen, während die Energie
+eines ponderabeln Körpers nach der gegenwärtigen Auffassung
+der Physiker als eine über die Atome und Elektronen er-
+streckte Summe darzustellen ist. Die Energie eines ponderabeln
+Körpers kann nicht in beliebig viele, beliebig kleine Teile zer-
+fallen, während sich die Energie eines von einer punktförmigen
+Lichtquelle ausgesandten Lichtstrahles nach ‘der Maxwell-
+schen Theorie (oder Allgemeiner nach jeder Undulationstheorie)
+des Lichtes auf ein stets wachsendes Volumen sich kontinuier-
+lich verteilt.
+
+Die mit kontinuierlichen Raumfunktionen operierende Un-
+dulationstheorie des Lichtes hat sich zur Darstellung der rein
+optischen Phänomene vortrefflich bewährt und wird wohl nie
+durch eine andere T'heorie ersetzt werden. Es ist jedoch im
+Auge zu behalten, daß sich die optischen Beobachtungen auf
+zeitliche Mittelwerte, nicht aber auf Momentanwerte beziehen,
+und es ist trotz der vollständigen Bestätigung der Theorie der
+Beugung, Reflexion, Brechung, Dispersion etc. durch das
+
+--- Page 2 ---
+Erzeugung und Verwandlung des Lichtes. 133
+
+Experiment wohl denkbar, daß die mit kontinuierlichen Raum-
+funktionen operierende Theorie des Lichtes zu Widersprüchen
+mit der Erfahrung führt, wenn man sie auf die Erscheinungen
+der Lichterzeugung und Lichtverwandlung anwendet.
+
+Es scheint mir nun in der Tat, daß die Beobachtungen
+über die „schwarze Strahlung‘, Photolumineszenz, die Er-
+zeugung von Kathodenstrahlen durch ultraviolettes Licht und
+andere die Erzeugung bez. Verwandlung des Lichtes betreffende
+Erscheinungsgruppen besser verständlich erscheinen unter der
+Annahme, daß die Fnergie des Lichtes diskontinuierlich im
+Raume verteilt sei. Nach der hier ins Auge zu fassenden
+Annahme ist bei Ausbreitung eines von einem Punkte aus-
+gehenden Lichtstrahles die Energie nicht kontinuierlich auf
+größer und größer werdende Räume verteilt, sondern es be-
+steht dieselbe aus einer endlichen Zahl von in Raumpunkten
+lokalisierten Energiequanten, welche sich bewegen, ohne sich
+zu teilen und nur als Ganze absorbiert und erzeugt werden
+können.
+
+Im folgenden will ich den Gedankengang mitteilen und
+die Tatsachen anführen, welche mich auf diesen Weg geführt
+haben, in der Hoffnung, daß der darzulegende Gesichtspunkt
+sich einigen Forschern bei ihren Untersuchungen als brauch-
+bar erweisen möge.
+
+$ 1. Über eine die Theorie der „schwarzen Strahlung“ betreffende
+Schwierigkeit.
+
+Wir stellen uns zunächst auf den Standpunkt der Max-
+wellschen Theorie und Elektronentheorie und betrachten folgen-
+den Fall. In einem von vollkommen reflektierenden Wänden
+eingeschlossenen Raumes befinde sich eine Anzahl Gasmole-
+küle und Elektronen, welche freibeweglich sind und aufeinander
+konservative Kräfte ausüben, wenn sie einander sehr nahe
+kommen, d. h. miteinander wie Gasmoleküle nach der kine-
+tischen Gastheorie zusammenstoßen können.) Eine Anzahl
+
+1) Diese Annahme ist gleichbedeutend mit der Voraussetzung, daß
+die mittleren kinetischen Energien von Gasmolekülen und Elektronen bei
+Temperaturgleichgewicht einander gleich seien. Mit Hilfe letzterer Voraus-
+setzung hat Hr. Drude bekanntlich das Verhältnis von thermischem und
+
+elektrischem Leitungsvermögen der Metalle auf theoretischem Wege ab-
+geleitet.
+
+110 Kam CRIVOR HONYASNHLIVAH KU
+
+
+--- Page 3 ---
+134 A. Einstein.
+
+Elektronen sei ferner an voneinander weit entfernte Punkte
+des Raumes gekettet durch nach diesen Punkten gerichtete,
+den Elongationen proportionale Kräfte. Auch diese Elektronen
+sollen mit den freien Molekülen und Elektronen in konservative
+Wechselwirkung treten, wenn ihnen letztere sehr nahe kommen.
+Wir nennen die an Raumpunkte geketteten Elektronen „Reso-
+natoren‘“; sie senden elektromagnetische Wellen bestimmter
+Periode aus und absorbieren solche.
+
+Nach der gegenwärtigen Ansicht über die Entstehung des
+Lichtes müßte die Strahlung im betrachteten Raume, welche
+unter Zugrundelegung der Maxwellschen Theorie für den Fall
+des dynamischen Gleichgewichtes gefunden wird, mit der
+„schwarzen Strahlung“ identisch sein — wenigstens wenn
+Resonatoren aller in Betracht zu ziehenden Frequenzen als
+vorhanden angesehen werden.
+
+Wir sehen vorläufig von der von den Resonatoren emit-
+tierten und absorbierten Strahlung ab und fragen nach der
+der Wechselwirkung (den Zusammenstößen) von Molekülen und
+Elektronen entsprechenden Bedingung für das dynamische
+Gleichgewicht. Die kinetische Gastheorie liefert für letzteres
+die Bedingung, daß die mittlere lebendige Kraft eines Resonator-
+elektrons gleich der mittleren kinetischen Energie der fort-
+schreitenden Bewegung eines Gasmoleküles sein muß. Zer-
+legen wir die Bewegung des Resonatorelektrons in drei auf-
+einander senkrechte Schwingungsbewegungen, so finden wir
+für den Mittelwert Z der Energie einer solchen geradlinigen
+Schwingungsbewegung
+
+Er
+N ’
+
+wobei 2 die absolute Gaskonstante, N die Anzahl der „wirk-
+lichen Moleküle“ in einem Grammäquivalent und 7 die abso-
+lute Temperatur bedeutet. Die Energie E ist nämlich wegen
+der Gleichheit der zeitlichen Mittelwerte von kinetischer und
+potentieller Energie des Resonators ?/‚,mal so groß wie die
+lebendige Kraft eines freien, einatomigen Gasmoleküles.. Würde
+nun durch irgend eine Ursache — in unserem Falle durch
+Strahlungsvorgänge — bewirkt, daß die Energie eines Reso-
+nators einen größeren oder kleineren zeitlichen Mittelwert als
+E besitzt, so würden die Zusammenstöße mit den freien Blek-
+
+
+--- Page 4 ---
+Erzeugung und Verwandlung des Lichtes. 135
+
+tronen und Molekülen zu einer im Mittel von Null verschie-
+denen Energieabgabe an das Gas bez. Energieaufnahme von
+dem Gas führen. Es ist also in dem von uns betrachteten
+Falle dynamisches Gleichgewicht nur dann möglich, wenn jeder
+Resonator die mittlere Energie E besitzt.
+
+Eine ähnliche Überlegung machen wir jetzt bezüglich der
+Wechselwirkung der Resonatoren und der im Raume vorhan-
+denen Strahlung. Hr. Planck hat für diesen Fall die Be-
+dingung des dynamischen Gleichgewichtes abgeleitet‘) unter
+der Voraussetzung, daß die Strahlung als ein denkbar unge-
+ordnetster Prozeß?) betrachtet werden kann. Er fand:
+
+- L
+
+= gan
+E, ist hierbei die mittlere Energie eines Resonators von der
+Eigenfrequenz » (pro Schwingungskomponente), Z die Licht-
+geschwindigkeit, » die Frequenz und o,d» die Energie pro
+Volumeinheit desjenigen Teiles der Strahlung, dessen Schwin-
+gungszahl zwischen » und » + dv liegt,
+
+1) M. Planck, Ann. d. Phys. 1. p. 99. 1900.
+
+2) Diese Voraussetzung läßt sich folgendermaßen formulieren. Wir
+entwickeln die Z-Komponente der elektrischen Kraft (Z) in einem be-
+liebigen Punkte des betreffenden Raumes zwischen den Zeitgrenzen t=0
+und £= 7 (wobei 7 eine relativ zu allen in Betracht zu ziehenden
+Schwingungsdauern sehr große Zeit bedeute) in eine Fouriersche Reihe
+
+v@
+
+2m Ihr sin (28, A +)»
+
+wobei ,=>0 undO=<w,=2n. Denkt man sich in demselben Raum-
+punkte eine solche Entwickelung beliebig oft bei zufällig gewählten An-
+fangspunkten der Zeit ausgeführt, so wird man für die Größen A, und a,
+verschiedene Wertsysteme erhalten. Es existieren dann für die Häufig-
+keit der verschiedenen Wertekombinationen der Größen 4, und m
+(statistische) Wahrscheinlicbkeiten d W von der Form:
+
+daW=fAA:..: 1%, :.)JdAAdA..: dmdo...
+Die Strahlung ist dann eine denkbar ungeordnetste, wenn
+
+FA Ar a0... )= FlA)Rrla).. fa) ..-;
+d. h. wenn die Wahrscheinlichkeit eines bestimmten Wertes einer der
+Größen A bez. « von den Werten, welche die anderen Größen A bez. x
+besitzen, unabhängig ist. Mit je größerer Annäherung die Bedingung
+erfüllt ist, daß die einzelnen Paare von Größen A, und «, von Emissions-
+und Absorptionsprozessen besonderer Resonatorengruppen abhängen, mit
+desto größerer Annäherung wird also in dem von uns betrachteten Falle
+die Strahlung als eine „denkbar ungeordnetste“ anzusehen sein.
+
+
+--- Page 5 ---
+136 A. Einstein.
+
+Soll die Strahlungsenergie von der Frequenz » nicht be-
+ständig im Ganzen weder vermindert noch vermehrt werden,
+so muß gelten:
+
+R a 2}
+NTTR Rn gas tn
+R 8n»:
+u u 2 T
+
+Diese als Bedingung des dynamischen Gleichgewichtes ge-
+fundene Beziehung entbehrt nicht nur der Übereinstimmung
+mit der Erfahrung, sondern sie besagt auch, daß in unserem
+Bilde von einer bestimmten Energieverteilung zwischen Äther
+und Materie nicht die Rede sein kann. Je weiter nämlich
+der Schwingungszahlenbereich der Resonatoren gewählt wird,
+desto größer wird die Strahlungsenergie des Raumes, und wir
+erhalten in der Grenze
+
+[e>} @
+
+[e« -# = var =@0.
+
+v {f
+$2. Über die Plancksche Bestimmung der Elementarquanta.
+
+Wir wollen im folgenden zeigen, daß die von Hrn. Planck
+gegebene Bestimmung der Elementarquanta von der von ihm
+aufgestellten Theorie der „schwarzen Strahlung‘ bis zu einem
+gewissen Grade unabhängig ist.
+
+Die allen bisherigen Erfahrungen genügende Plancksche
+Formel!) für o, lautet
+
+ans
+wann
+
+eT-ı
+
+wobei
+
+a = 6,10 .10-8,
+
+ß = 4,866. 10-1.
+Für große Werte von 7/v, d.h. für große Wellenlängen und
+Strahlungsdichten geht diese Formel in der Grenze in folgende
+über:
+
+m
+
+e,= ß v2T.
+
+1)M. Planck, Ann. d. Phys. 4. p. 561. 1901.
+
+
+--- Page 6 ---
+Erzeugung und Verwandlung des Lichtes. 137
+
+Man erkennt, daß diese Formel mit der in $ 1 aus der
+Maxwellschen und der Elektronentheorie entwickelten überein-
+stimmt. Durch Gleichsetzung der Koeffizienten beider Formeln
+erhält man:
+Rön_o \
+=
+oder Nu ß
+
+N Bi IrR = 617.108,
+
+d.h. ein Atom Wasserstoff wiegt 1/N Gramm = 1,62. 10-?4g.
+Dies ist genau der von Hrn, Planck gefundene Wert, welcher
+mit den auf anderen Wegen gefundenen Werten für diese
+Größe befriedigend übereinstimmt.
+
+Wir gelangen daher zu dem Schlusse: Je größer die
+Energiedichte und die Wellenlänge einer Strahlung ist, als
+um so brauchbarer erweisen sich die von uns benutzten theo-
+retischen Grundlagen; für kleine Wellenlängen und kleine
+Strahlungsdichten aber versagen dieselben vollständig.
+
+Im folgenden soll die „schwarze Strahlung‘ im Anschluß
+an die Erfahrung ohne Zugrundelegung eines Bildes über die
+Erzeugung und Ausbreitung der Strahlung betrachtet werden.
+
+$ 3. Über die Entropie der Strahlung.
+
+Die folgende Betrachtung ist in einer berühmten Arbeit
+des Hrn. W. Wien enthalten und soll hier nur der Voll-
+ständigkeit halber Platz finden.
+
+Es liege eine Strahlung vor, welche das Volumen » ein-
+nehme. Wir nehmen an, daß die wahrnehmbaren Eigen-
+schaften der vorliegenden Strahlung vollkommen bestimmt seien,
+wenn die Strahlungsdichte o(v) für alle Frequenzen gegeben
+ist.!) Da Strahlungen von verschiedenen Frequenzen als ohne
+Arbeitsleistung und ohne Wärmezufuhr voneinander trennbar
+anzusehen sind, so ist die Entropie der Strahlung in der Form
+
+ao
+S=v[plendr
+o
+darstellbar, wobei 9 eine Funktion der Variabeln o und v
+1) Diese Annahme ist eine willkürliche. Man wird naturgemäß an
+
+dieser einfachsten Annahme so lange festhalten, als nicht das Experiment
+dazu zwingt, sie zu verlassen.
+
+
+--- Page 7 ---
+138 4A. Einstein.
+
+bedeutet. Es kann auf eine Funktion von nur einer Variabeln
+reduziert werden durch Formulierung der Aussage, daß durch
+adiabatische Kompression einer Strahlung zwischen spiegelnden
+Wänden, deren Entropie nicht geändert wird. Wir wollen
+jedoch hierauf nicht eintreten, sondern sogleich untersuchen,
+wie die Funktion p aus dem Strahlungsgesetz des schwarzen
+Körpers ermittelt werden kann.
+
+Bei der „schwarzen Strahlung“ ist go eine solche Funktion
+von », daß die Entropie bei gegebener Energie ein Maximum
+ist, d.h. daß
+
+a
+s[ptandr=0,
+wenn °
+
+oo
+ofear =0.
+
+Hieraus folgt, daß für jede Wahl des ög als Funktion von »
+
+w
+fi -A)öedn= 0,
+0
+wobei A von » unabhängig ist. Bei der schwarzen Strahlung
+ist also öp/ög von » unabhängig.
+Für die Temperaturzunahme einer schwarzen Strahlung
+vom Volumen v=1 um d7 gilt die Gleichung:
+
+"=
+8
+as=| 3, der,
+»=0—0
+
+oder, da öy/Öo von » unabhängig ist:
+ds= PP AB.
+08
+
+Da 4E gleich der zugeführten Wärme und der Vorgang um-
+kehrbar ist, so gilt auch:
+
+dS= „dB.
+Durch Vergleich erhält man:
+dp _1
+de  T
+
+Dies ist das Gesetz der schwarzen Strahlung. Man kann also
+
+
+--- Page 8 ---
+Erzeugung und Verwandlung des Lichtes. 139
+
+aus der Funktion @ das Gesetz der schwarzen Strahlung und
+umgekehrt aus letzterem die Funktion @ durch Integration be-
+stimmen mit Rücksicht darauf, daB 9 für o=0 verschwindet.
+
+$4. Grenzgesetz für die Entropie der monochromatischen
+Strahlung bei geringer Strahlungsdichte,
+
+Aus den bisherigen Beobachtungen über die „schwarze
+Strahlung‘ geht zwar hervor, daß das ursprünglich von Hrn.
+W. Wien für die „schwarze Strahlung‘ aufgestellte Gesetz
+
+v
+
+3. 7
+
+oe=uve
+nicht genau gültig ist. Dasselbe wurde aber für große Werte
+von »/T sehr vollkommen durch das Experiment bestätigt.
+Wir legen diese Formel unseren Rechnungen zugrunde, be-
+halten aber im Sinne, daß unsere Resultate nur innerhalb
+gewisser Grenzen gelten.
+
+Aus dieser Formel ergibt sich zunächst:
+
+1 1.8
+
+w Br
+und weiter unter Benutzung der in dem vorigen Paragraphen
+gefundenen Beziehung:
+
+ven,
+
+Es sei nun eine Strahlung von der Energie Z gegeben, deren
+Frequenz zwischen » und v+d» liegt. Die Strahlung nehme
+das Volumen »v ein. Die Entropie dieser Strahlung ist:
+
+E
+S=vpl@&ndr=- 7. [18 an
+
+vasrdd»
+
+Beschränken wir uns darauf, die Abhängigkeit der Entropie
+von dem von der Strahlung eingenommenen Volumen zu unter-
+suchen, und bezeichnen wir die Entropie der Strahlung mit S,,
+falls dieselbe das Volumen », besitzt, so erhalten wir:
+
+Diese Gleichung zeigt, daß die Entropie einer monochro-
+matischen Strahlung von genügend kleiner Dichte nach dem
+gleichen Gesetze mit dem Volumen variiert wie die Entropie
+eines idealen Gases oder die einer verdünnten Lösung. Die
+
+
+--- Page 9 ---
+140 A. Einstein.
+
+soeben gefundene Gleichung soll im folgenden interpretiert
+werden unter Zugrundelegung des von Hrn. Boltzmann in
+die Physik eingeführten Prinzips, nach welchem die Entropie
+eines Systems eine Funktion der Wahrscheinlichkeit seines
+Zustandes ist.
+
+85. Molekulartheoretische Untersuchung der Abhängigkeit der
+Entropie von Gasen und verdünnten Lösungen vom Volumen.
+
+Bei Berechnung der Entropie auf molekulartheoretischem
+Wege wird häufig das Wort „Wahrscheinlichkeit“ in einer
+Bedeutung angewendet, die sich nicht mit der Definition der
+Wahrscheinlichkeit deckt, wie sie in der Wahrscheinlichkeits-
+rechnung gegeben wird. Insbesondere werden die „Fälle
+gleicher Wahrscheinlichkeit‘ häufig hypothetisch festgesetzt
+in Fällen, wo die angewendeten theoretischen Bilder bestimmt
+genug sind, um statt jener hypothetischen Festsetzung eine
+Deduktion zu geben. Ich will in einer besonderen Arbeit zeigen,
+daß man bei Betrachtungen über thermische Vorgänge mit
+der sogenannten „statistischen Wahrscheinlichkeit‘‘ vollkommen
+auskommt und hoffe dadurch eine logische Schwierigkeit zu
+beseitigen, welche der Durchführung des Boltzmannschen
+Prinzips noch im Wege steht. Hier aber soll nur dessen all-
+gemeine Formulierung und dessen Anwendung auf ganz spezielle
+Fälle gegeben werden.
+
+Wenn es einen Sinn hat, von der Wahrscheinlichkeit eines
+Zustandes eines Systems zu reden, wenn ferner jede Entropie-
+zunahme als ein Übergang zu einem wahrscheinlicheren Zu-
+stande aufgefaßt werden kann, so ist die Entropie 8, eines
+Systems eine Funktion der Wahrscheinlichkeit W, seines
+momentanen Zustandes. Liegen also zwei nicht miteinander
+in Wechselwirkung stehende Systeme S, und 8, vor, so kann
+
+man setzen:
+=):
+= MW):
+Betrachtet man diese beiden Systeme als ein einziges System
+von der Entropie $ und der Wahrscheinlichkeit W, so ist:
+S=S8+,= gl)
+und
+WV=W.W,.
+
+
+--- Page 10 ---
+Erzeugung und Verwandlung des Lichtes. 141
+
+Die letztere Beziehung sagt aus, daß die Zustände der beiden
+Systeme voneinander unabhängige Ereignisse sind,
+Aus diesen Gleichungen folgt:
+
+WM) =9W)+9M)
+und hieraus endlich
+
+9, (W,) = Clg(W,) + konst.,
+
+9.) = Clg(W,) + konst, ,
+
+9 (W)= Clg(W ) + konst.
+Die Größe C ist also eine universelle Konstante; sie hat, wie
+aus der kinetischen Gastheorie folgt, den Wert R/N, wobei
+den Konstanten Z und N dieselbe Bedeutung wie oben bei-
+zulegen ist. Bedeutet $, die Entropie bei einem gewissen
+Anfangszustande eines betrachteten Systems und # die rela-
+tive Wahrscheinlichkeit eines Zustandes von der Entropie 5,
+so erhalten wir also allgemein:
+
+3-8- KlgW.
+
+Wir behandeln zunächst folgenden Spezialfall. In einem
+Volumen v, sei eine Anzahl (n) beweglicher Punkte (z. B.
+Moleküle) vorhanden, auf welche sich unsere Überlegung be-
+ziehen soll. Außer diesen können in dem Raume noch beliebig
+viele andere bewegliche Punkte irgendwelcher Art vorhanden
+sein. Über das Gesetz, nach dem sich die betrachteten Punkte
+in dem Raume bewegen, sei nichts vorausgesetzt, als daß in
+bezug auf diese Bewegung kein Raumteil (und keine Richtung)
+von den anderen ausgezeichnet sei. Die Anzahl der betrach-
+teten (ersterwähnten) beweglichen Punkte sei ferner so klein,
+daß von einer Wirkung der Punkte aufeinander abgesehen
+werden kann.
+
+Dem betrachteten System, welches z. B. ein ideales Gas
+oder eine verdünnte Lösung sein kann, kommt eine gewisse
+Entropie $, zu. Wir denken uns einen Teil des Volumens »,
+von der Größe » und alle n beweglichen Punkte in das
+Volumen v versetzt, ohne daß an dem System sonst etwas
+geändert wird. Diesem Zustand kommt offenbar ein anderer
+Wert der Entropie (5) zu, und wir wollen nun die Entropie-
+differenz mit Hilfe des Boltzmannschen Prinzips be-
+stimmen.
+
+1 2UNuO Korn "CAVOR HOYVASDIHLTVAN Aa uceze
+
+
+--- Page 11 ---
+142 A. Einstein.
+
+Wir fragen: Wie groß ist die Wahrscheinlichkeit des
+letzterwähnten Zustandes relativ zum ursprünglichen? Oder:
+Wie groß ist die Wahrscheinlichkeit dafür, daß sich in einem
+zufällig herausgegriffenen Zeitmoment alle n in einem gegebenen
+Volumen v, unabhängig voneinander beweglichen Punkte (zu-
+fällig) in dem Volumen v befinden?
+
+Für diese Wahrscheinlichkeit, welche eine „statistische
+Wahrscheinlichkeit“ ist, erhält man offenbar den Wert:
+
+v-(£)";
+=)‘
+
+man erhält hieraus durch Anwendung des Boltzmannschen
+Prinzipes:
+5-5 -R(F)1e(})-
+
+Es ist bemerkenswert, daß man zur Herleitung dieser
+Gleichung, aus welcher das Boyle-Gay-Lussacsche Gesetz
+und das gleichlautende Gesetz des osmotischen Druckes leicht
+thermodynamisch ableiten kann!); keine Voraussetzung über
+das Gesetz zu machen braucht, nachdem sich die Moleküle
+bewegen.
+
+8 6. Interpretation des Ausdruckes für die Abhängigkeit der
+Entropie der monochromatischen Strahlung vom Volumen nach
+dem Boltzmannschen Prinzip.
+
+Wir haben in $4 für die Abhängigkeit der Entropie der
+monochromatischen Strahlung vom Volumen den Ausdruck ge-
+funden:
+
+E v
+s-5-= le:
+Schreibt man diese Formel in der Gestalt:
+
+(al
+
+1) Ist E die Energie des Systems, so erhält man:
+
+S-S= lg
+
+-UE-TSY=-pdv=TAS= Rh ge;
+
+also
+Pe=RET.
+
+
+--- Page 12 ---
+Erzeugung und Verwandlung des Lichtes. 143
+
+und vergleicht man sie mit der allgemeinen, das Boltz-
+mannsche Prinzip ausdrückenden Formel
+
+S-8, = le,
+
+so gelangt man zu folgendem Schluß:
+
+Ist monochromatische Strahlung von der Frequenz » und
+der Energie Z in das Volumen v, (durch spiegelnde Wände)
+eingeschlossen, so ist die Wahrscheinlichkeit dafür, daß sich
+in einem beliebig herausgegriffenen Zeitmoment die ganze
+Strahlungsenergie in dem Teilvolumens» des Volumens », be-
+findet:
+
+NE
+o\R br
+=)
+
+Hieraus schließen wir weiter:
+
+Monochromatische Strahlung von geringer Dichte (inner-
+halb des Gültigkeitsbereiches der Wienschen Strahlungsformel)
+verhält sich in wärmetheoretischer Beziehung so, wie wenn
+sie aus voneinander unabhängigen Energiequanten von der
+Größe R@v/N bestünde.
+
+Wir wollen noch die mittlere Größe der Energiequanten
+der „schwarzen Strahlung“ mit der mittleren lebendigen Kraft
+der Schwerpunktsbewegung eines Moleküls bei der nämlichen
+Temperatur vergleichen. Letztere ist $(R/N)7, während man
+für die mittlere Größe des Energiequantums unter Zugrunde-
+legung der Wienschen Formel erhält:
+
+©
+
+sr
+fer T dr
+
+[ü
+© =3
+
+Br
+N 36 T
+[ dv
+
+v0
+
+T.
+
+Wenn sich nun monochromatische Strahlung (von hin-
+reichend kleiner Dichte) bezüglich der Abhängigkeit der Entropie
+vom Volumen wie ein diskontinuierliches Medium verhält,
+welches aus Energiequanten von der Größe Rfv/N besteht,
+so liegt es nahe, zu untersuchen, ob auch die Gesetze der
+
+
+--- Page 13 ---
+144 A. Einstein.
+
+Erzeugung und Verwandlung des Lichtes so beschaffen sind,
+wie wenn das Licht aus derartigen Energiequanten bestünde.
+Mit dieser Frage wollen wir uns im folgenden beschäftigen.
+
+$ 7. Über die Btokessche Regel.
+
+Es werde monochromatisches Licht durch Photolumineszenz
+in Licht anderer Frequenz verwandelt und gemäß dem eben
+erlangten Resultat angenommen, daß sowohl das erzeugende
+wie das erzeugte Licht aus Energiequanten von der Größe
+(R/N)ß» bestehe, wobei » die betreffende Frequenz bedeutet.
+Der Verwandlungsprozeß wird dann folgendermaßen zu deuten
+sein. Jedes erzeugende Energiequant von der Frequenz »,
+wird absorbiert und gibt — wenigstens bei genügend kleiner
+Verteilungsdichte der erzeugenden Energiequanten — für sich
+allein Anlaß zur Entstehung eines Lichtquants von der
+Frequenz »,; eventuell können bei der Absorption des er-
+zeugenden Lichtquants auch gleichzeitig Lichtquanten von den
+Frequenzen »,, », etc. sowie Energie anderer Art (z.B. Wärme)
+entstehen. Unter Vermittelung von was für Zwischenprozessen
+dies Endresultat zustande kommt, ist gleichgültig. Wenn die
+photolumineszierende Substanz nicht als eine beständige Quelle
+von Energie anzusehen ist, so kann nach dem Energieprinzip
+die Energie eines erzeugten Energiequants nicht größer sein
+als die eines erzeugenden Lichtquants; es muß also die Be-
+zeichnung gelten:
+
+ee Een
+=N.
+Dies ist die bekannte Stokessche Regel.
+
+Besonders hervorzuheben ist, daß bei schwacher Belichtung
+die erzeugte Lichtmenge der erregenden unter sonst gleichen
+Umständen nach unserer, Auffassung der erregenden Licht-
+stärke proportional sein muß, da jedes erregende Energiequant
+einen Elementarprozeß von der oben angedeuteten Art ver-
+ursachen wird, unabhängig von der Wirkung der anderen er-
+regenden Energiequanten. Insbesondere wird es keine untere
+Grenze für die Intensität des erregenden Lichtes geben, unter-
+halb welcher das Licht unfähig wäre, lichterregend zu wirken.
+
+oder
+
+
+--- Page 14 ---
+Erzeugung und Verwandlung des Lichtes. 145
+
+Abweichungen von der Stokesschen Regel sind nach der
+dargelegten Auffassung der Phänomene in folgenden Fällen
+denkbar:
+
+1. wenn die Anzahl der gleichzeitig in Umwandlung be-
+griffenen Energiequanten pro Volumeneinheit so groß ist, daß
+ein Energiequant des erzeugten Lichtes seine Energie von
+mehreren erzeugenden Energieqguanten erhalten kann;
+
+2. wenn das erzeugende (oder erzeugte) Licht nicht von
+derjenigen energetischen Beschaffenheit ist, die einer „schwarzen
+Strahlung‘ aus dem Gültigkeitsbereich des Wienschen Gesetzes
+zukommt, wenn also z. B. das erregende Licht von einem
+Körper so hoher Temperatur erzeugt ist, daß für die in Betracht
+kommende Wellenlänge das Wiensche Gesetz nicht mehr gilt.
+
+Die letztgenannte Möglichkeit verdient besonderes Interesse.
+Nach der entwickelten Auffassung ist es nämlich nicht aus-
+geschlossen, daß eine „nicht Wiensche Strahlung“ auch in
+großer Verdünnung sich in energetischer Beziehung anders
+verhält als eine „schwarze Strahlung“ aus dem Gültigkeits-
+bereich des Wienschen Gesetzes.
+
+$8. Über die Erzeugung von Kathodenstrahlen durch Belichtung
+fester Körper.
+
+Die übliche Auffassung, daß die Energie des Lichtes
+kontinuierlich über den durchstrahlten Raum verteilt sei, findet
+bei dem Versuch, die lichtelektrischen Erscheinungen zu er-
+klären, besonders große Schwierigkeiten, welche in einer bahn-
+brechenden Arbeit von Hrn. Lenard dargelegt sind.')
+
+Nach der Auffassung, daß das erregende Licht aus Energie-
+quanten von der Energie (?/N)ß» bestehe, läßt sich die Er-
+zeugung von Kathodenstrahlen durch Licht folgendermaßen
+auffassen. In die oberflächliche Schicht des Körpers dringen
+Energiequanten ein, und deren Energie verwandelt sich wenig-
+stens zum Teil in kinetische Energie von Elektronen. Die
+einfachste Vorstellung ist die, daß ein Lichtquant seine ganze
+Energie an ein einziges Elektron abgibt; wir wollen annehmen,
+daß dies vorkomme. Es soll jedoch nicht ausgeschlossen sein,
+daß Elektronen die Energie von Lichtquanten nur teilweise
+aufnehmen. Ein im Innern des Körpers mit kinetischer Energie
+
+Annalen der Physik, IV. Folge. 17. 10
+
+u N) FOPTOIUMOI“Y’SOSIERBEIZSN
+
+&
+3
+Fi
+
+uam a0 998-1st0rko0rl w Am
+
+10) suontpuog pur
+
+
+--- Page 15 ---
+146 A. Einstein.
+
+versehenes Elektron wird, wenn es die Oberfläche erreicht hat,
+einen Teil seiner kinetischen Energie eingebüßt haben. Außer-
+dem wird anzunehmen sein, daß jedes Elektron beim Verlassen
+des Körpers eine (für den Körper charakteristische) Arbeit ?
+zu leisten hat, wenn es den Körper verläßt. Mit der größten
+Normalgeschwindigkeit werden die unmittelbar an der Ober-
+fläche normal zu dieser erregten Elektronen den Körper ver-
+lassen. Die kinetische Energie solcher Elektronen ist
+
+Eßr—P.
+
+Ist der Körper zum positiven Potential 7 geladen und
+von Leitern vom Potential Null umgeben und ist IT eben
+imstande, einen Elektrizitätsverlust des Körpers zu verhindern,
+
+so muß sein: R
+H=nyßr—-P,
+
+wobei & die elektrische Masse des Elektrons bedeutet, oder
+DE=Rßv—P,
+
+wobei Z die Ladung eines Grammäquivalentes eines einwertigen
+
+Ions und ?’ das Potential dieser Menge negativer Elektrizität
+
+in bezug auf den Körper bedeutet.})
+
+Setzt man E = 9,6.10°, so ist I7.10-8 das Potential in
+Volts, welches der Körper bei Bestrahlung im Vakuum annimmt.
+
+Um zunächst zu sehen, ob die abgeleitete Beziehung der
+Größenordnung nach mit der Erfahrung übereinstimmt, setzen
+wir P'= 0, v= 1,03. 10" (entsprechend der Grenze des Sonnen-
+spektrums nach dem Ultraviolett hin) und $ = 4,866. 10-1,
+Wir erhalten I7. 10° = 4,3 Volt, welches Resultat der Größen-
+ordnung nach mit den Resultaten von Hrn. Lenard überein-
+stimmt. ?)
+
+Ist die abgeleitete Formel richtig, so muß /Z, als Funktion
+der Frequenz des erregenden Lichtes in kartesischen Koordi-
+naten dargestellt, eine Gerade sein, deren Neigung von der
+Natur der untersuchten Substanz unabhängig ist.
+
+1) Nimmt man an, daß das einzelne Elektron durch das Licht aus
+einem neutralen Molekül unter Aufwand einer gewissen Arbeit losgelöst
+werden muß, so hat man an der abgeleiteten Beziehung nichts zu ändern;
+nur ist dann P’ als Summe von zwei Summanden aufzufassen.
+
+2) P. Lenard, Ann. d. Phya. 8. p.165 u. 184. Taf. 1, Fig. 2. 1902.
+
+u N) FOPTOIUMOI“Y’SOSIERBEIZSN
+
+aVOR HONVASSRIHLTVaH &0 LODOTZESOSI run /coO 1 O1 An
+
+E
+
+
+--- Page 16 ---
+Erzeugung und Verwandlung des Lichtes. 147
+
+Mit den von Hrn. Lenard beobachteten Eigenschaften
+der lichtelektrischen Wirkung steht unsere Auffassung, soweit
+ich sehe, nicht im Widerspruch. Wenn jedes Energiequant
+des erregenden Lichtes unabhängig von allen übrigen seine
+Energie an Elektronen abgibt, so wird die Geschwindigkeits-
+verteilung der Elektronen, d.h. die Qualität der erzeugten
+Kathodenstrahlung von der Intensität des erregenden Lichtes
+unabhängig sein; andererseits wird die Anzahl der den Körper
+verlassenden Elektronen der Intensität des erregenden Lichtes
+unter sonst gleichen Umständen proportional sein. ')
+
+Über die mutmaßlichen Gültigkeitsgrenzen der erwähnten
+Gesetzmäßigkeiten wären ähnliche Bemerkungen zu machen
+wie bezüglich der mutmaßlichen Abweichungen von der Stokes-
+schen Regel.
+
+Im vorstehenden ist angenommen, daß die Energie wenig-
+stens eines Teiles der Energiequanten des erzeugenden Lichtes
+je an ein einziges Elektron vollständig abgegeben werde. Macht
+man diese naheliegende Voraussetzung nicht, so erhält man
+statt obiger Gleichung die folgende:
+
+ITE+P=SRB».
+
+Für die Kathodenlumineszenz, welche den inversen Vor-
+gang zu dem eben betrachteten bildet, erhält man durch eine
+der durchgeführten analoge Betrachtung:
+
+DE+P=Rßv.
+
+Bei den von Hrn. Lenard untersuchten Substanzen ist PE
+stets bedeutend größer als RA», da die Spannung, welche die
+Kathodenstrahlen durchlaufen haben müssen, um eben sicht-
+bares Licht erzeugen zu können, in einigen Fällen einige
+Hundert, in anderen Tausende von Volts beträgt.?2) Es ist
+also anzunehmen, daß die kinetische Energie eines Elektrons
+zur Erzeugung vieler Lichtenergiequanten verwendet wird.
+
+3 9. Über die Ionisierung der Gase durch ultraviolettes Licht.
+
+Wir werden anzunehmen haben, daß bei der Ionisierung
+eines Gases durch ultraviolettes Licht je ein absorbiertes Licht-
+1) P. Lenard, I. e. p. 150 und p. 166—168.
+2) P. Lenard, Ann. d. Phys. 12. p. 469. 1903.
+10*
+
+
+--- Page 17 ---
+148 4. Einstein. Erzeugung und Verwandlung des Lichtes.
+
+energieguant zur Ionisierung je eines Gasmoleküles verwendet
+wird. Hieraus folgt zunächst, daß die Ionisierungsarbeit (d. h.
+die zur Ionisierung theoretisch nötige Arbeit) eines Moleküles
+nicht größer sein kann als die Energie eines absorbierten
+wirksamen Lichtenergiequantes, Bezeichnet man mit J die
+(theoretische) Ionisierungsarbeit pro Grammäquivalent, so muß
+also sein:
+Rd.
+
+Nach Messungen Lenards ist aber die größte wirksame
+Wellenlänge für Luft ca. 1,9.10-5cm, also
+
+Rßv=64.10% Erg>J.
+
+Eine obere Grenze für die Ionisierungsarbeit gewinnt
+man auch aus den Ionisierungsspannungen in verdünnten Gasen.
+Nach J. Stark)) ist die kleinste gemessene lonisierungs-
+spannung (an Platinanoden) für Luft ca. 10 Volt.2) Es ergibt
+sich also für J die obere Grenze 9,6.1022, welche nahezu
+gleich der eben gefundenen ist. Es ergibt sich noch eine
+andere Konsequenz, deren Prüfung durch das Experiment mir
+von großer Wichtigkeit zu sein scheint. Wenn jedes absor-
+bierte Lichtenergiequant ein Molekül ionisiert, so muß zwischen
+der absorbierten Lichtmenge Z und der Anzahl j der durch
+dieselbe ionisierten Grammoleküle die Beziehung bestehen:
+
+. L
+
+ZT ra
+Diese Beziehung muß, wenn unsere Auffassung der Wirklich-
+keit entspricht, für jedes Gas gelten, welches (bei der betreffen-
+den Frequenz) keine merkliche nicht von Ionisation begleitete
+Absorption aufweist.
+
+Bern, den 17. März 1905.
+1) J. Stark, Die Elektrizität in Gasen p. 57. Leipzig 1902.
+
+2) Im Gasinnern ist die Ionisierungsspannung für negative Ionen
+allerdings fünfmal größer.
+
+(Eingegangen 18. März 1905.)
+

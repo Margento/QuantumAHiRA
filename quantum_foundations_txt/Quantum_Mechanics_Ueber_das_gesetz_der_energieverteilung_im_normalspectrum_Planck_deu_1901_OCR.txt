@@ -1,0 +1,561 @@
+
+--- Page 1 ---
+Annalen der Physik 309 (1901)553
+
+or
+or
+oo
+
+9. Ueber das Gesetz
+der Energieverteilung im Normalspectrum;
+von Max Planck.
+(In anderer Form mitgeteilt in der Deutschen Physikalischen Gesellschaft,
+
+Sitzung vom 19. October und vom 14. December 1900, Verhandlungen
+2. p. 202 und p. 237. 1900.)
+
+Einleitung.
+
+Die neueren Spectralmessungen von 0. Lummer und
+E. Pringsheim!) und noch auffälliger diejenigen von
+H. Rubens und F. Kurlbaum?), welche zugleich ein früher
+von H. Beckmann?) erhaltenes Resultat bestätigten, haben
+gezeigt, dass das zuerst von W. Wien aus molecularkinetischen
+Betrachtungen und später von mir aus der Theorie der elektro-
+magnetischen Strahlung abgeleitete Gesetz der Energieverteilung
+im Normalspectrum keine allgemeine Gültigkeit besitzt.
+
+Die Theorie bedarf also in jedem Falle einer Verbesserung,
+und ich will im Folgenden den Versuch machen, eine solche
+auf der Grundlage der von mir entwickelten Theorie der
+elektromagnetischen Strahlung durchzuführen. Dazu wird es
+vor allem nötig sein, in der Reihe der Schlussfolgerungen,
+welche zum Wien’schen Energieverteilungsgesetz führten, das-
+jenige Glied ausfindig zu machen, welches einer Abänderung
+fähig ist; sodann aber wird es sich darum handeln, dieses
+Glied aus der Reihe zu entfernen und einen geeigneten Ersatz
+dafür zu schaffen.
+
+Dass die physikalischen Grundlagen der elektromagnetischen
+Strahlungstheorie, einschliesslich der Hypothese der „natür-
+lichen Strahlung“, auch einer geschärften Kritik gegenüber
+Stand halten, habe ich in meinem letzten Aufsatz*) über diesen
+
+1) O. Lummer u. E. Pringsheim, Verhandl. der Deutsch. Physikal.
+Gesellsch. 2. p. 163. 1900.
+
+2) H. Rubens und F. Kuribaum, Sitzungsber. d. k. Akad. d.
+Wissensch. zu Berlin vom 25. October 1900, p. 929.
+
+3) H. Beckmann, Inaug.-Dissertation, Tübingen 1898. Vgl. auch
+H. Rubens, Wied. Ann. 69. p. 582. 1899.
+
+4) M. Planck, Aun. d. Phys. 1. p. 719. 1900.
+
+Annalon der Physik. IV. Folge. 4. 36
+
+--- Page 2 ---
+554 M. Planck.
+
+Gegenstand dargelegt; und da auch die Rechnungen meines
+Wissens keinen Fehler enthalten, so bleibt auch der Satz be-
+stehen, dass das Gesetz der Energieverteilung im Normal-
+spectrum vollkommen bestimmt ist, wenn es gelingt, die
+Entropie $ eines bestrahlten, monochromatisch schwingenden
+Resonators als Function seiner Schwingungsenergie U zu be-
+rechnen. Denn dann erhält man aus der Beziehung d$/4U=1/9
+die Abhängigkeit der Energie U von der Temperatur 9, und
+da andererseits die Energie U durch eine einfache Beziehung’)
+mit der Strahlungsdichte der entsprechenden Schwingungszahl
+verknüpft ist, auch die Abhängigkeit dieser Strahlungsdichte
+von der Temperatur. Die normale Energieverteilung ist dann
+diejenige, bei welcher die Strahlungsdichten aller verschiedenen
+Schwingungszahlen die nämliche Temperatur besitzen.
+
+Somit redueirt sich das ganze Problem auf die eine Auf-
+gabe, S als Function von U zu bestimmen, und der Lösung
+dieser Aufgabe ist auch der wesentlichste Teil der folgenden
+Untersuchung gewidmet. In meiner ersten Abhandlung über
+diesen Gegenstand hatte ich $ direct durch Definition, ohne
+weitere Begründung, als einen einfachen Ausdruck von U hin-
+gestellt, und mich damit begnügt nachzuweisen, dass diese
+Form der Entropie allen Anforderungen, welche die Thermo-
+dynamik an sie stellt, Genüge leistet. Ich glaubte damals,
+dass sie auch die einzige ihrer Art sei, und dass somit das
+Wien’sche Gesetz, welches aus ihr folgt, notwendig allgemeine
+Gültigkeit besitze. Bei einer späteren näheren Untersuchung?)
+zeigte sich mir indessen, dass es auch noch andere Ausdrücke
+geben muss, welche dasselbe leisten, und dass es deshalb
+jedenfalls noch einer weiteren Bedingung bedarf, um $ ein-
+deutig berechnen zu können. Eine solche Bedingung glaubte
+ich gefunden zu haben in dem mir damals unmittelbar plau-
+sibel scheinenden Satz, dass bei einer unendlich kleinen
+irreversibeln Aenderung eines nahezu im thermischen Gleich-
+gewicht befindlichen Systems von N gleichbeschaffenen, im
+nämlichen stationären Strahlungsfeld befindlichen Resonatoren
+die damit verbundene Vermehrung ihrer Gesamtentropie $y= N 8
+
+1) Vgl. unten Gleichung (8).
+2) M. Planck, L. e, p. 730 f.
+
+--- Page 3 ---
+Tesetz der Energieverteilung im Normalspectrum. 555
+
+nur abhängt von ihrer Gesamtenergie Uy= NU und deren
+Aenderungen, nicht aber von der Energie U der einzelnen
+Resonatoren. Dieser Satz führt wiederum mit Notwendigkeit
+zum Wien’schen Energieverteilungsgesetz. Da nun aber
+letzteres durch die Erfahrung nicht bestätigt wird, so ist man
+zu dem Schlusse gezwungen, dass auch jener Satz in seiner
+Allgemeinheit nicht richtig sein kann und daher aus der Theorie
+zu entfernen ist.!)
+
+Es muss also nun eine andere Bedingung eingeführt
+werden, welche die Berechnung von $ gestattet, und um dies
+zu bewerkstelligen, ist ein näheres Eingehen auf die Bedeutung
+des Entropiebegriffes notwendig. Für die Richtung des dabei
+einzuschlagenden Gedankenganges giebt der Hinblick auf die
+Unhaltbarkeit der früher gemachten Voraussetzung einen Finger-
+zeig. Im Folgenden wird nun ein Weg beschrieben, auf dem sich
+ein neuer einfacher Ausdruck der Entropie und damit auch eine
+neue Strahlungsformel ergiebt, welche mit keiner der bisher
+festgestellten Thatsachen in Widerspruch zu stehen scheint.
+
+I. Berechnung der Entropie eines Resonators als Function
+seiner Energie.
+
+& 1. Entropie bedingt Unordnung, und diese Unordnung
+beruht nach der elektromagnetischen Strahlungstheorie bei den
+monochromatischen Schwingungen eines Resonators, auch wenn
+er sich in einem dauernd stationären Strahlungsfelde befindet,
+in der Unregelmässigkeit, mit der er beständig seine Amplitude
+und seine Phase wechselt, sofern man Zeitepochen betrachtet,
+welche gross sind gegen die Zeit einer Schwingung, aber klein
+gegen die Zeit einer Messung. Wäre Amplitude und Phase
+absolut constant, also die Schwingungen vollkommen homogen,
+so könnte keine Entropie existiren und die Schwingungsenergie
+müsste vollkommen frei in Arbeit verwandelbar sein. Die
+constante Energie U eines einzelnen stationär schwingenden
+Resonators ist danach nur als ein zeitlicher Mittelwert auf-
+zufassen, oder, was ganz auf dasselbe hinauskommt, als der
+gleichzeitige Mittelwert der Energien einer grossen Anzahl N
+
+1) Man vergleiche hierzu die Kritiken, die dieser Satz bereits ge-
+funden hat: von W. Wien (Rapport für den Pariser Congress 2. p. 40.
+1900) und von O0. Lummer (l. e. 2. p. 92. 1900).
+
+36”
+
+--- Page 4 ---
+556 M,. Planck.
+
+von gleichbeschaffenen Resonatoren, die sich in dem nämlichen
+stationären Strahlungsfelde befinden, weit genug voneinander
+entfernt, um sich nicht gegenseitig direct zu beeinflussen. In
+diesem Sinne wollen wir künftig von der mittleren Energie U
+eines einzelnen Resonators sprechen. Dann entspricht der ge-
+samten Energie
+
+d) U,=NU
+
+eines solchen Systems von N Resonatoren eine gewisse Ge-
+samtentropie
+
+(2) Sy= NS
+
+desselben Systems, wobei 8 die mittlere Entropie eines einzelnen
+Resonators darstellt, und diese Entropie Sy beruht auf der
+Unordnung, mit der sich die gesamte Energie U, auf die
+einzelnen Resonatoren verteilt.
+
+$ 2. Wir setzen nun die Entropie $, des Systems, bis
+auf eine willkürlich bleibende additive Constante, proportional
+dem Logarithmus der Wahrscheinlichkeit # dafür, dass die
+N Resonatoren insgesamt die Energie U, besitzen, also:
+
+(8) Sy = klogW -+ const.
+
+Diese Festsetzung kommt nach meiner Meinung im Grunde
+auf eine Definition der genannten Wahrscheinlichkeit W hinaus;
+denn wir besitzen in den Voraussetzungen, welche der elektro-
+magnetischen Theorie der Strahlung zu Grunde liegen, gar
+keinen Anhaltspunkt, um von einer solchen Wahrscheinlichkeit
+in einem bestimmten Sinne zu reden. Für die Zweckmässig-
+keit der so getroffenen Festsetzung lässt sich von vornherein
+ihre Einfachheit und ihre nahe Verwandtschaft mit einem
+Satze der kinetischen Gastheorie!) anführen.
+
+& 3. Es kommt nun darauf an, die Wahrscheinlichkeit W
+dafür zu finden, dass die N Resonatoren insgesamt die Schwin-
+gungsenergie Uy besitzen. Hierzu ist es notwendig, Uy nicht
+als eine stetige, unbeschränkt teilbare, sondern als eine dis-
+crete, aus einer ganzen Zahl von endlichen gleichen Teilen
+zusammengesetzte Grösse aufzufassen. Nennen wir einen solchen
+Teil ein Energieelement &, so ist mithin zu setzen:
+
+(4) Uy=P.e,
+
+1) L. Boltzmann, Sitzungsber. d. k. Akad. d. Wissensch. zu Wien
+(U) 76. p. 428, 1877,
+
+--- Page 5 ---
+Gesetz der Energieverteilung im Normalspectrum. 557
+
+wobei P eine ganze, im allgemeinen grosse Zahl bedeutet,
+während wir den Wert von e noch dahingestellt sein lassen.
+Nun ist einleuchtend, dass die Verteilung der P Energie-
+elemente auf die N Resonatoren nur auf eine endliche ganz
+bestimmte Anzahl von Arten erfolgen kann. Jede solche Art
+der Verteilung nennen wir nach einem von L. Boltzmann für
+einen ähnlichen Begriff gebrauchten Ausdruck eine „Complexion“.
+Bezeichnet man die Resonatoren mit den Ziffern 1,2,8... N,
+schreibt diese der Reihe nach nebeneinander und setzt unter
+jeden Resonator die Anzahl der bei irgend einer willkürlich
+vorgenommenen Verteilung auf ihn entfallenden Kinergie-
+elemente, so erhält man für jede Complexion ein Symbol von
+folgender Form:
+N 2 3 4 5 6 7 8 9 10
+i 38 u 0 9 2 20 4 4 E]
+
+Hier ist N=10, P=100 angenommen. Die Anzahl 9: aller
+möglichen Complexionen ist offenbar gleich der Anzahl aller
+möglichen Ziffernbilder, die man auf diese Weise, bei be-
+stimmtem N und P, für die untere Reihe erhalten kann. Der
+Deutlichkeit halber sei noch bemerkt, dass zwei Complexionen
+als verschieden anzusehen sind, wenn die entsprechenden
+Ziffernbilder dieselben Ziffern, aber in verschiedener An-
+ordnung, enthalten.
+
+Aus der Combinationslehre ergiebt sich so die Anzahl
+aller möglichen Complexionen zu
+
+Ro NAN+DAN+D...(N+P-N = N+HPon!,
+
+FE a P (N-Dt epi
+
+Nun ist nach dem Stirling’schen Satze in erster An-
+
+näherung:
+NI=NS,
+
+folglich in entsprechender Annäherung
+
+(N + pr?
+N
+
+& 4. Die Hypothese, welche wir jetzt der weiteren Rech-
+
+nung zu Grunde legen wollen, lautet folgendermaassen: Die
+
+Wahrscheinlichkeit W dafür, dass die N Resonatoren insgesamt
+
+die Schwingungsenergie U, besitzen, ist proportional der An-
+
+--- Page 6 ---
+558 M. Planck.
+
+zahl % aller bei der Verteilung der Energie U auf die N Re-
+sonatoren möglichen Complexionen; oder mit anderen Worten:
+irgend eine bestimmte Complexion ist ebenso wahrscheinlich,
+wie irgend eine andere bestimmte Complexion. Ob diese Hypo-
+these in der Natur wirklich zutrifft, kann in letzter Linie nur
+durch die Erfahrung geprüft werden. Dafür wird es aber
+umgekehrt möglich sein, falls die Erfahrung einmal zu ihren
+Gunsten entschieden haben sollte, aus der Gültigkeit dieser
+Hypothese weitere Schlüsse zu ziehen auf die speciellere Natur
+der Resonatorschwingungen, nämlich auf den Charakter der dabei
+auftretenden ‚„indifferenten und ihrer Grösse nach vergleich-
+baren ursprünglichen Spielräume“, in der Ausdrucksweise von
+J. v. Kries.!) Bei dem jetzigen Stande der Frage dürfte
+allerdings ein weiteres Beschreiten dieses Gedankenganges noch
+verfrüht erscheinen.
+
+& 5. Nach der eingeführten Hypothese in Verbindung
+mit Gleichung (3) ist die Entropie des betrachteten Systems
+von Resonatoren bei passender Bestimmung der additiven
+Constanten:
+
+6) | Sy= klogR
+= kXN + Pylog(N + P}— NlogN — Plog P}
+und mit Berücksichtigung von (4) und (1):
+
+fi jinli+ 2) Aue?)
+
+Also nach (2) die Entropie 8 eines Resonators als Function
+seiner Energie U:
+
+(6) S=allt+ D)tog(1+ 9) Eiog dl.
+
+II. Einführung des Wien’schen Verschiebungsgesetzes.
+
+8 6. Nächst dem Kirchhoff’schen Satz von der Pro-
+portionalität des Emissions- und des Absorptionsvermögens
+bildet das von W. Wien?) entdeckte und nach ihm benannte
+
+1) Joh. v. Kries, Die Prineipien der Wahischeinlichkeitsrechnung
+p. 36. Freiburg 1886.
+
+2) W. Wien, Sitzungsber. d. k. Akad, d. Wissensch. zu Berlin vom
+9. Febr. 1893. p. 55.
+
+--- Page 7 ---
+Gesetz der Energieverteilung im Normalspectrum. 559
+
+sogenannte Verschiebungsgesetz, welches das Stefan-Boltz-
+mann’sche Gesetz der Abhängigkeit der Gesamtstrahlung von
+der Temperatur als specielle Anwendung mit umfasst, in dem
+fest begründeten Fundament der Theorie der Wärmestrahlung
+den wertvollsten Bestandteil. Es lautet in der ihm von
+M. Thiesen!) gegebenen Fassung:
+
+B.dh= 85 yp(8).dh,
+
+wo A die Wellenlänge, #dA die räumliche Dichte der dem
+Spectralbezirk A bis A + dA angehörenden „schwarzen“ Strah-
+lung?), # die Temperatur, und (x) eine gewisse Function des
+einzigen Arguments z bezeichnet.
+
+8 7. Wir wollen nun untersuchen, was das Wien’sche
+Verschiebungsgesetz über die Abhängigkeit der Entropie $
+unseres Resonators von seiner Energie U und seiner Eigen-
+periode aussagt, und zwar gleich in dem allgemeinen Falle,
+dass der Resonator sich in einem beliebigen diathermanen
+Medium befindet. Zu diesem Zwecke verallgemeinern wir zu-
+nächst die Thiesen’sche Form des Gesetzes auf die Strahlung
+in einem beliebigen diathermanen Medium mit der Lichtfort-
+pflanzungsgeschwindigkeit e. Da wir nicht die Gesamtstrahlung,
+sondern monochromatische Strahlung zu betrachten haben, so
+wird es beim Vergleich verschiedener diathermaner Medien
+nötig, statt der Wellenlänge A die Schwingungszahl » ein-
+zuführen.
+
+Bezeichnen wir also die räumliche Dichte der dem Spectral-
+bezirk » bis » + dv angehörenden strahlenden Ennergie mit ud,
+so ist zu schreiben: ud» statt Zd2, c/v statt A, und cdv/»?
+statt dA. Dadurch ergiebt sich:
+
+e [202
+u= er #)-
+
+Nun ist nach dem bekannten Kirchhoff-Clausius’scheun
+Gesetz die von einer schwarzen Fläche pro Zeiteinheit in ein
+diathermanes Medium emittirte Energie von bestimmter Trem-
+peratur 9 und bestimmter Schwingungszahl » umgekehrt pro-
+
+1) M. Thiesen, Verhandl. d. Deutsch. Phys. Gesellsch. 2, p. 66. 1900.
+
+2) Man könnte vielleicht noch passender von einer „weissen‘
+Strahlung sprechen, in sachgemässer Verallgemeinerung dessen, was man
+schon jetzt unter vollkommen weissem Licht versteht.
+
+--- Page 8 ---
+560 M. Planck.
+
+portional dem Quadrate c? der Fortpflanzungsgeschwindigkeit;
+also ist die räumliche Energiedichte u umgekehrt proportional
+
+c?, und wir erhalten:
+ba 3
+= Era z)
+
+wobei die Oonstanten der Function f von ce unabhängig sind.
+
+Statt dessen können wir auch schreiben, wenn f jedesmal,
+auch im Folgenden, eine neue Function eines einzigen Arguments
+bezeichnet: j
+
+y b
+0) = ar(&)
+und ersehen unter anderem daraus, wie bekannt, dass die iu
+dem Cubus einer Wellenlänge enthaltene strahlende Energie
+von bestimmter Temperatur und Schwingungszahl: ı 4° für alle
+diathermanen Medien dieselbe ist.
+
+88. Um nun von der räumlichen Strahlungsdichte u zur
+Energie U eines in dem Strahlungsfelde befindlichen, stationär
+mitschwingenden Resonators mit der nämlichen Schwingungs-
+zahl » überzugehen, benutzen wir die in Gleichung (34) meiner
+Abhandlung über irreversible Strahlungsvorgänge') ausgedrückte
+Beziehung:
+
+PR
+8-7
+
+(R ist die Intensität eines monochromatischen, geradlinig
+polarisirten Strahles), welche zusammen mit der bekannten
+Gleichung:
+
+vor
+c
+die Beziehung liefert:
+Br!
+(8) us ZU.
+
+Hieraus und aus (7) folgt:
+3
+U= vr(> ) R
+
+wo nun c überhaupt nicht mehr vorkommt. Statt dessen
+können wir auch schreiben:
+
+4= vr.) .
+
+)) M. Planck, Ann. d, Phys. 1. p. 99. 1900.
+
+--- Page 9 ---
+Gesetz der Energieverteilung im Normalspectrum. 561
+
+8 9. Endlich führen wir auch noch die Entropie $ des
+Resonators ein, indem wir setzen:
+1 ds
+9) s Tau
+Dann ergiebt sich:
+
+ds i U
+au (5)
+und integrirt:
+
+(10) s=r(?).
+d. h, die Entropie des in einem beliebigen diathermanen Medium
+schwingenden Resonators ist von der einzigen Variabeln U/»
+abhängig und enthält ausserdem nur universelle Constante.
+Dies ist die einfachste mir bekannte Fassung des Wien’schen
+Verschiebungsgesetzes.
+
+8 10. Wenden wir das Wien’sche Verschiebungsgesetz
+in der letzten Fassung auf den Ausdruck (6) der Entropie 8
+an, so erkennen wir, dass das Energieelement e proportional
+der Schwingungszahl » sein muss, also:
+
+e=h.v
+und somit:
+
+y UN 00 U Ü U
+Seh Id + %) log (ı + %) — „,108 Ai °
+Hierbei sind A und A universelle Constante,
+Durch Substitution in (9) erhält man:
+
+1 k hv
+ll 5)
+a) D=
+er —ı
+
+und aus (8) folgt dann das gesuchte Energieverteilungsgesetz:
+(12) = Eu Bu:
+
+er? _ 1
+oder auch, wenn man mit den in &$ 7 angegebenen Substitu-
+tionen statt der Schwingungszahl » wieder die Wellenlänge A
+einführt:
+
+(13) Bz 8nch 1
+
+u eher a
+ey
+
+
+--- Page 10 ---
+562 M. Planck.
+
+Die Ausdrücke für die Intensität und für die Entropie
+der im diathermanen Medium fortschreitenden Strahlung, sowie
+den Satz der Vermehrung der gesamten Entropie bei nicht-
+stationären Strahlungsvorgängen denke ich an anderer Stelle
+abzuleiten.
+
+III. Zahlenwerte.
+
+8 11. Die Werte der beiden Naturconstanten A und A
+lassen sich mit Hülfe der vorliegenden Messungen ziemlich
+genau berechnen. F. Kurlbaum!?) hat gefunden, dass, wenn
+man mit $, die gesamte Energie bezeichnet, die von lgem
+eines auf £°C. befindlichen schwarzen Körpers in 1sec in die
+Luft gestrahlt wird:
+
+Watt
+
+So — 5 = 0,0731 = 7,81.105.-88
+
+cm? em? see’
+
+Daraus ergiebt sich die räumliche Dichte der gesamten
+
+Strahlungsenergie in der Luft bei der absoluten Temperatur 1:
+
+_ 4. 781.10°__
+
+3. 1010. (873% — 278%)
+
+Andererseits ist nach (12) die räumliche Dichte der ge-
+samten strahlenden Energie für = 1:
+
+erg
+cm? grad*
+
+= 7,061. 10-15
+
+C ©
+
+8nh dr
+u= [udı= "5-1
+e [2
+
+e 1
+
+und durch gliedweise Integration:
+
+8ınh k\4 1 ı 1
+u 3.64) (+4 ' tat)
+
+es
+
+ht
+= 5 1,0823.
+Setzt man dies = 7,061.10-15, so ergiebt sich, dac = 3.10%,
+
+119 5 = 1,1682. 10%,
+
+1) F. Kurlbaum, Wied. Ann. 65. p. 759. 1898.
+
+--- Page 11 ---
+Gesetz der Energieverteilung im Normalspeetrum. 563
+
+8 12. O. Lummer und E. Pringsheim!) haben das
+Product 4,9%, wo A, die Wellenlänge des Maximums von Z
+in Luft bei der Temperatur 9 bedeutet, zu 2940 w.grad be-
+stimmt. Also in absolutem Maass:
+
+2,9 = 0,294 cm.grad.
+
+Andererseits folgt aus (13), wenn man den Differential-
+
+quotienten von # nach A gleich Null setzt, wodurch A = A, wird:
+
+h
+(1 _ 55) el
+
+hm t
+und aus dieser transcendenten Gleichung:
+ch
+Der
+Folglich:
+
+BB gu. 10,
+
+k 3.1010
+Hieraus und aus (14) ergeben sich die Werte der Natur-
+
+constanten:
+
+(15) h= 6,55. 10”?7erg.sec,
+
+_ -16.08.
+(16) h= 1,346.10-0 SE,
+
+Das sind dieselben Zahlen, welche ich in meiner früheren
+Mitteilung angegeben habe.
+
+1) O. Lummer und E. Pringsheim, Verhandl. der Deutschen
+Physikal. Gesellsch. 2. p. 176. 1900.
+
+(Eingegangen 7. Januar 1901.)

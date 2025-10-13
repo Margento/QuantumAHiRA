@@ -1,0 +1,2541 @@
+
+--- Page 1 ---
+1926 M 13
+
+ANNALEN DER PHYSIK
+
+VIERTE FOLGE. BAND 80
+
+1. Quantisierung als Eigenwertproblem;
+von E. Schrödinger
+
+(Dritte!) Mitteilung: Störungstheorie, mit Anwendung auf den Starkeffekt
+der Balmerlinien.)
+
+Einleitung. Inhaltsübersicht
+
+Wie schon am Ende der letzten Mitteilung?) angegeben,
+läßt sich des praktisch zugängliche Anwendungsgebiet der
+Eigenwerttheorie schon mittels verhältnismäßig elementarer
+Methoden ziemlich bedeutend über das Gebiet der „direkt
+lösbaren“ Probleme hinaus erweitern, indem man sich überlegt,
+daß sich die Eigenwerte und Eigenfunktionen auch für solche
+Randwertprobleme leicht näherungsweise angeben lassen, die
+einem direkt lösbaren Problem hinreichend benachbart. sind.
+Wir wollen das, in Analogie zur Mechanik, die Störungstheorie
+für das Eigenwertproblem nennen. Sie beruht auf der wich-
+tigen Stetigkeitseigenschaft der Eigenwerte und Eigenfunktionen °),
+wobei für uns hauptsächlich die stetige Abhängigkeit von den
+Koeffizienten der Differentialgleichung, weniger diejenige von
+der Ausdehnung des Grundgebietes und von den Randbedin-
+gungen in Betracht kommt, da ja in unserem Falle das Grund-
+gebiet („ganzer g-Raum“) und die Randbedingungen („Endlich-
+bleiben“) im allgemeinen beim ungestörten und beim gestörten
+Problem übereinstimmen werden.
+
+Die Methode ist im wesentlichen schon von Lord Rayleigh
+benützt worden, der in der „Theory of sound“ (2. Aufl. Bd.]I,
+8. 115—118. London 1894) die Schwingungen einer Saite mit
+kleinen Unhomogenitäten untersucht.) Hier liegt der besonders
+einfache Fall vor, daß die Differentialgleichung des ungestörten
+Problems konstante Koeffizienten hat und nur die Störungs-
+
+1) Vgl. Ann.d. Phys. 79. 8.361, 489. 1926; ferner auch ebendort S. 734.
+
+2) a. a. 0. 8.526.
+
+8) „Courant-Hilbert“ Kap. VI. 82, 4. S. 837.
+
+4) Courant-Hilbert, Kap. V, $ 5,2. 8. 241.
+
+Annalen der Physik. IV. Folge. &0. 29
+
+--- Page 2 ---
+438 B. Schrödinger
+
+glieder beliebige Funktionen entlang der Saite sind. Nicht
+nur in diesem Punkt ist eine vollkommene Verallgemeinerung
+möglich, sondern wichtig ist insbesondere die Verallgemeine-
+rung auf mehrere independente Variable, d. b. auf partielle
+Differentialgleichungen, wobei daun das Auftreten mehrfacher
+Eigenwerte beim ungestörten Problem und das Aufspalten eines
+soleben mehrfachen Eigenwertes beim Hinzufügen eines Störungs-
+gliedes von allergrößtem Interesse für woblbekannte spektro-
+skopische Fragen ist (Zeemaneffekt, Starkeffekt, Multipletts).
+— Ich lege bei der Darstellung der Störungstheorie im folgen-
+den /. Teil, der übrigens dem Mathematiker kaum wirklich
+neues bringen dürfte, weniger Wert auf größtmögliche All-
+gemeinheit als auf ein möglichst klares Hervortreten der
+äußerst einfachen Grundlagen. Aus ihnen ergibt sich jede
+wünschenswerte Verallgemeinerung im Bedarfsfall ganz von
+selbst. Im zweiten Teil wird als Anwendungsbeispiel der Stark-
+effekt behandelt, und zwar nach zwei Methoden, deren erste
+das Analogon zu der Epsteinschen Methode ist, durch welche
+dieser Forscher vom Boden der durch Quantenbedingungen
+ergänzten klassischen Mechanik aus das Problem zum ersten-
+mal gelöst hat!), während die zweite, viel allgemeinere, das
+Analogon zur Methode der säkulären Störungen?) bildet, Bei
+der ersten hier dargelegten Methode wird nämlich davon Ge-
+brauch gemacht, daß sich auch hier, in der Wellenmechanik,
+das gestörte Problem in parabolischen Koordinaten „separieren“
+läßt, und es wird erst auf die totalen Differentialgleichungen,
+in welche die ursprüngliche Schwingungsgleichung zerfällt, die
+Störungstheorie angewendet. Letztere übernimmt dabei lediglich
+die Aufgabe, die in der älteren Theorie dem eleganten Sommer-
+feldschen komplexen Integrationsverfahren zur genäherten
+Ausrechnung der Quantenintegrale®) zufiel. — Bei der zweiten
+Methode wird davon abgesehen, daß sich im Falle des Stark-
+eflektes gerade zufällig auch für das gestörte Problem ein
+exaktes Separationskoordinatensystem angeben läßt, und es
+wird die Störungstheorie direkt auf die partielle Differential-
+gleichung angewendet. Dieses letztere Verfahren, obgleich
+1) P. 8. Epstein, Ann. d. Phys. 50. S. 489. 1916.
+
+2) N. Bohr, Kopenhagener Akademie (8) IV. 1,2. 8. 69. 1918.
+3) A. Sommerfeld, „Atombau“ 4. Aufl. S. 772.
+
+--- Page 3 ---
+Quantisierung als Eigenwertproblem 439
+
+theoretisch schöner, weil verallgemeinerungsfähiger, erweist sich
+aber hier, in der Wellenmechanik, als das mühevollere.
+
+Auch zum Intensitätenproblem der Starkeflektkomponenten
+wird im II. Teil einiges beigebracht; es werden Aufspaltungs-
+bilder berechnet, die sogar im ganzen genommen etwas besser
+mit der Erfahrung übereinstimmen als die wohlbekannten von
+Kramers!) korrespondenzmäßig berechneten.
+
+Wesentlich größeres Interesse wird natürlich die (hier
+noch nicht durchgeführte) Anwendung auf den Zeemaneffekt
+bieten. Diese erscheint mir unlöglich geknüpft an eine korrekte
+Formulierung des relativistischen Problems in der Sprache der
+Wellenmechanik, weil bei vierdimensionaler Formulierung das
+Vektorpotential von selbst dem skalaren ebenbürtig an die
+Seite tritt. Schon in der ersten Mitteilung wurde erwähnt,
+daß das relativistische Wasserstoffatom sich zwar ohne weiteres
+behandeln läßt, aber zu „halbzahligen“ Azimutalquanten, also
+zu einem Widerspruch mit der Erfahrung führt. Es mußte
+also noch „etwas fehlen“. Seither habe ich aus den äußerst
+wichtigen Publikationen von G. E. Uhlenbeck und 8. Goud-
+smit?), dann aus mündlichen und brieflichen Mitteilungen von
+Paris (P. Langevin) und Kopenhagen (W. Pauli) gelernt,
+was fehlt: in der Sprache der Elektronenbahnentheorie der
+Drehimpuls des Elektrons um seine Achse, der ihm ein magne-
+tisches Moment verleiht. Die Äußerungen der genannten Forscher,
+zusammen mit zwei sehr bedeutungsvollen Arbeiten von Slater®)
+und Sommerfeld und Unsöld‘) über das Balmerspektrum
+lassen keinen Zweifel, daß durch die Einführung der ebenso
+paradozen als glücklichen Konzeption des Hlektroneneigen-
+impulses die Elektronenbahnentheorie der beängstigenden Fülle
+von Schwierigkeiten, welche sich in letzter Zeit zu häufen be-
+gannen, Herrin zu werden vermag (anomaler Zeemaneffekt;
+Paschen-Backeffekt der Balmerlinien; irreguläre und reguläre
+Röntgendubletts; Analogie der letzteren mit den Alkali-
+
+1) H. A. Kramers, Kopenhagener Akademie (8) IIE, 3, S. 287. 1919.
+2) G.E. Uhlenbeck u. 8. Goudsmit, Physica 1925; Die Natur-
+wissenschaften 1926; Nature, 20. Febr. 1926; vgl. auch L. H. Thomas,
+Nature, 10. April 1926.
+3) J. C. Slater, Proc. Amerie. Nat. Acad. 11. S. 732. 1925.
+4) A. Sommerfeld u. A. Unsöld, Ztschr. f. Phys. 36. S. 259. 1926.
+29*
+
+--- Page 4 ---
+440 E. Schrödinger
+
+dubletts u. a). Man wird versuchen müssen, den Uhlenbeck-
+Goudsmitschen Gedanken in die Wellenmechanik aufzunehmen.
+Ich glaube, daß sie diesem Gedanken einen sehr geeigneten
+Nährboden darbietet, da in ihr das Elektron nicht mehr eine
+Punktladung ist, sondern kontinuierlich den Raum durchflutet!),
+so daß die unangenehme Vorstellung des „rotierenden Massen-
+punktes“ vermieden wird. In der vorliegenden Mitteilung ist
+aber die Aufnahme dieses Gedankens noch nicht versucht.
+
+In den dritten Teil, als „mathematischen Anhang“ sind
+eine größere Zahl uninteressanter Ausrechnungen verwiesen,
+hauptsächlich Quadraturen über Produkte von Eigenfunktionen,
+die im zweiten Teil benötigt werden. Die Formeln des An-
+hangs sind mit (101), (102) usw. numeriert.
+
+I. Störungstheorle
+81. Eine einzige unabhängige Variable
+
+Wir betrachten einen linearen homogenen Differential-
+ausdruck zweiter Ordnung, den wir unbeschadet der Allgemein-
+heit in selbstadjungierter Form annehmen dürfen
+a) Iy=pry"+Py-gy.
+
+y ist die abhängige Funktion, p, p’ und q sind stetige Funk-
+tionen der unabhängigen Variablen x, und es sei >0; ein
+Strich bedeutet die Ableitung nach z (es ist also p’ die Ab-
+leitung von p, was die Bedingung für Selbstadjungiertheit ist).
+
+Nun sei o(z) eine weitere stetige Funktion von z, die
+nicht negativ wird und im allgemeinen auch nicht verschwindet.
+Wir betrachten das Sturm-Liouvillesche Eigenwertproblem?):
+(2) L[y])+Boy=®.
+
+Es besteht erstens darin, alle diejenigen Werte der Konstante E
+(„Eigenwerte“) aufzufinden, für welche die Gleichung (2) Lö-
+sungen y(z) besitzt, die innerhalb eines gewissen Grundgebistes
+stetig sind, nicht identisch verschwinden und in den Rand-
+punkten gewissen „Randbedingungen“ genügen; zweitens in der
+Auffindung dieser Lösungen („Eigenfunktionen“) selbst. In den
+Fällen, um die es sich in der Atommechanik handelt, sind
+
+1) Vgl. Ann. d. Phys. 79. $. 755. 1926.
+2) Vgl. Courant-Hilbert, Kap. V. 85,1. 8. 288f.
+
+--- Page 5 ---
+Quantisierung als Bigenwertproblem 441
+
+Grundgebiet und Randbedingungen stets „natürliche“, ersteres
+reicht z. B. von 0 bis oo, wenn x den Betrag des Radius-
+vektors oder eine ihrer Natur nach positive parabolische Ko-
+ordinate bedeutet, und die Randbedingungen sind in diesen
+Fällen: Endlichbleiben. Oder, wenn z. B. x ein Azimut be-
+deutet, so ist das Grundgebiet das Intervall O bis 2% und die
+Randbedingung: Wiederkehr des Anfangswertes von y und von
+y am Ende des Intervalis („Periodizität“).
+
+Nur im Falle der Periodizitätsbedingung treten auch bei
+einer unabhängigen Variablen mehrfache und zwar doppelte
+Eigenwerte auf; worunter man versteht, daß zu demselben
+Eigenwert mehrere (im besonderen zwei) linsar unabhängige
+Eigenfunktionen gehören. Wir wollen diesen Fall einfachheits-
+halber jetzt ausschließen, da er sich an Hand der Entwick-
+lungen des folgenden Paragraphen leicht nachtragen läßt.
+Ebenso werden wir, zur Erleichterung der Formeln, der bei
+unendlichem Grundgebiet bestehenden Möglichkeit, daß auch
+ein „Streckenspektrum“ (d.h. ein Kontinuum von Eigenwerten)
+vorliegen kann, in der Schreibweise nicht ausdrücklich Rech-
+nung tragen.
+
+Sei nun y=u(2), i=1,2,3..., die Reihe der Sturm-
+Liouvilleschen Eigenfunktionen; dann bildet die Reihe der
+Funktionen u,(@)Ye(@), = 1,2, 3..., ein vollständiges Ortho-
+gonalsystem für das Grundgebiet; d. h. erstens, wenn ,(z) und
+“(x) die zu den Eigenwerten Z, bzw. E, gehörigen Eigen-
+funktionen sind, so ist
+
+(8) Saw u@)dz = 0 für ih
+
+(Integrale ohne Grenzen beziehen sich in dieser ganzen Ab-
+handlung stets auf das Grundgebiet) Der Ausdruck „voll-
+ständig“ bedeutet: eine zunächst willkürliche stetige Funktion
+wird durch die bloße Forderung, daß sie auf allen Funktionen
+u,(z)Ye(z), orthogonal sein soll, zu identischem Verschwinden
+verurteilt. (Kürzer: „es gibt keine weitere Orthogonalfunktion
+zu dem System.“) Die Eigenfunktionen u,(z) können und wollen
+wir bei allgemeinen Überlegungen stets als „normiert“ ansehen,
+d. h. wir denken den konstanten Faktor, der in jeder von
+ihnen, wegen der Homogenität von (2), noch willkürlich ist, so
+
+--- Page 6 ---
+442 E. Schrödinger
+
+bestimmt, daß das Integral (3) für? = k den Wert Eins erhält.
+— Endlich erinnern wir noch daran, daß die Eigenwerte
+von (2) sicherlich alle reell sind.
+
+Seien nun die Eigenwerte Z, und die Eigenfunktionen x, (x)
+von (2) Bekannt. Wir richten fortan auf einen destimmien Eigen-
+wert, sagen wir Z, und die zugehörige Eigenfunktion x, (z) das
+spezielle Augenmerk und fragen uns: wie ändern sich dieselben,
+wenn wir an dem Problem weiter nichts ändern, als daß wir
+auf der linken Seite von (2) ein kleines „Störungsglied“ hinzu-
+fügen, dem wir vorerst die Form
+
+@ Airay
+
+geben wollen? Dabei soll A eine kleine Größe (Störungspara-
+meter) sein, r(z) eine beliebige stetige Funktion von x. Es
+handelt sich also einfach um eine leichte Abänderung des
+Koeffizienten g in dem Differentialausdruck (1). — Aus den
+in der Einleitung erwähnten Stetigkeitseigenschaften der Eigen-
+größen wissen wir nun, daß das abgeänderte Sturm-Liou-
+villesche Problem
+
+Ca) Li] Ary+ Boy=0
+jedenfalls für hinreichend kleines 2 Eigengrößen in der un-
+
+mittelbaren Nachbarschaft von Z,, v, haben muß, die wir ver-
+suchsweise in der Form ansetzen
+
+(5) E=-E+tig,; w=u@+tivle).
+Gehen wir mit diesem Ansatz in die Gleichung (2'), so ergibt
+sich mit Rücksicht darauf, daß u, der Gleichung (2) genügt,
+
+unter konsequenter Vernachlässigung von A? und nach Fort-
+kürzen eines Faktors A:
+
+(6) Z[e)+ Bo, = - 80%.
+
+Zur Bestimmung der Störung v, der Eigenfunktion erhalten
+wir also, wie der Vergleich von (2) und (6) lehrt, eine inkomo-
+gene Gleichung, welche gerade zu derjenigen homogenen Glei-
+chung gehört, der unsere ungestörte Eigenfunktion x, genügt
+(denn in (6) steht ja an der Stelle von E der spezielle Eigen-
+wert E,). Auf der rechten Seite dieser inhomogenen Gleichung
+
+kommt, außer Bekanntem, noch die unbekannte Störung s, des
+Eigenwertes vor.
+
+--- Page 7 ---
+Quantisierung als Eigenwertproblem 443
+
+Dieses Vorkommen von e, dient gerade zur Berechnung
+dieser Größe, noch vor der Berechnung von v, Bekanntlich
+hat nämlich — und dies ist nun der springende Punkt der
+ganzen Störungstheorie — die inhomogene Gleichung, für
+einen Eigenwert der homogenen, überhaupt nur dann und immer
+dann eine Lösung, wenn ihre rechte Seite auf der zugehörigen
+Eigenfunktion (im Falle mehrfacher Eigenwerte: auf allen zu-
+gehörigen Eigenfunktionen) orthogonal ist.!) (In der physika-
+lischen Interpretation als Saitenschwingung bedeutet dieser
+mathematische Satz: wenn die Kraft mit einer Eigenschwingung
+in Resonanz ist, muß sie in ganz besonderer Weise über die
+Saite verteilt sein, nämlich so, daß sie an der betreffenden
+Eigenschwingung keine Arbeit leistet; sonst wächst die Ampli-
+tude über alle Grenzen, ein stationärer Zustand ist unmöglich.)
+
+Die rechte Saite von (6) muß also auf z, orthogonal sein,
+d. h. es muß
+
+19) [er -sow?dz=0
+oder
+, f rudz
+m) = fe Pr Fr
+oder, wenn wir die w, bereits normiert denken, noch einfacher:
+(7”) = |rw?dz.
+
+Diese einfache Formel drückt die Eigenwertstörung (erster
+Ordnung) durch die Störungsfunktion r(z) und durch die un-
+gestörte Eigenfunktion v,(x) aus. Wenn man bedenkt, daß bei
+unseren Problemen der Eigenwert die mechanische Energie
+bedeutet, oder doch zu ihr in Parallele tritt, und daß die
+Eigenfunktion u, in Parallele tritt zu der „Bewegung mit der
+Energie E,“ so erkennt man in (7”) die vollständige Parallele
+des wohlbekannten Satzes aus der Störungstheorie der klassi-
+schen Mechanik: die Energiestörung ist in erster Näherung
+gleich der Störungsfunktion, gemittelt über die ungestörte Be-
+wegung. — Etwas rein Äußerliches betrifft folgende Bemer-
+kung: es ist in der Regel sinngemäß oder mindestens ästhetisch,
+
+--- Page 8 ---
+444 E. Schrödinger
+
+in allen über das Grundgebiet erstreckten Integralen den
+Faktor o(z) im Integranden explizite hervortreten zu lassen.
+Will man das auch im Integral (7”) tun, so hat man als
+Störungsfunktion nicht r(z) sondern r(z)/o(z) anzusprechen
+und den Ansatz (4) dementsprechend umzuschreiben. Wir
+bleiben aber, da es ganz belanglos ist, bei der einmal ge-
+wählten Bezeichnung.
+
+Wir haben noch v,(z), die Störung der Eigenfunktion,
+aus (6) zu bestimmen, Die inhomogene Gleichung (6) löst man),
+indem man für v, eine Reihe nach Eigenfunktionen ansetzt
+
+& v@)= »3 Yu (2)
+i=ı
+
+und die durch e(z) dividierte rechte Seite gleichfalls in eine
+Reibe nach den Eigenfunktionen entwickelt
+
+(9 63 = %) u,(2) = >» LRLAGR
+i=1
+
+wobei
+
+[= fr -sowu dz
+(10) | = [ruudz für i$%
+
+\=0 für ieh,
+letzteres wegen (7), Geht man mit (8) und (9) in (6) ein, so
+kommt:
+al) >> Yale) + Bow = ou,
+
+i=1
+
+Da nun x, der Gleichung (2) mit F= E, genügt, kommt:
+
+(12) Diet (E-Bu= Ian:
+
+viel
+
+Durch Gleichsetzen der Koeffizienten rechts und links sind
+alle y,, bestimmt, außer y,, Es ist
+
+f CH f Uwdz rs -ı
+(13) MELLE" TD-E für itk,
+
+1) Vgl. Courant-Hiibert, Kap. V. $5,1. 8.240 u. 810. 8. 279.
+
+--- Page 9 ---
+Quantisierung als Eigenwertproblem 445
+
+während 7,, begreiflicherweise vollkommen unbestimmt bleibt.
+Diese Unbestimmtheit entspricht dem Umstand, daß uns auch
+für die gestörte Eigenfunktion noch die Normierungsforderung
+freisteht. Trägt man (8) in (5) ein und verlangt für u,*(z) die-
+selbe Normierung wie für v,(z), (wobei Größen von der Ord-
+nung A? grundsätzlich zu vernachlässigen sind), so erkennt man
+unmittelbar y,,= 0. Mit (13) erhält man nun für die geszörte
+Eigenfunktion
+
+14) ur) Br .
+
+(Der Apostroph am Summenzeichen bedeutet, daß das Glied? = k
+fortzubleiben hat.) Und der zugehörige gestörte Eigenwert ist
+nach dem früheren
+
+(15) E*r=B,+% [rußdz.
+
+Durch Einsetzen in (2) kann man sich überzeugen, daß (14)
+und (15) dem Eigenwertproblem in der beabsichtigten Näherung
+wirklich genügen. Diese Verifikation ist notwendig, da die in
+(5) vorausgesetzte Entwicklung nach ganzen Potenzen des
+Störungsparameters keine notwendige Folge der Stetigkeit ist.
+
+Das hier für den einfachsten Fall ziemlich ausführlich
+auseinandergesetzte Verfahren ist nach vielen Richtungen ver-
+allgemeinerungsfähig. Erstens kann man natürlich in ganz
+ähnlicher Weise nun auch die Störung zweiter, dann dritter usw.
+Ordnung in A berücksichtigen, wobei stets zuerst der nächst-
+genauere Eigenwert, sodann die nächstgenauere Eigenfunktion
+ermittelt wird. Unter Umständen wird es dabei geboten sein —
+ganz wie in der mechanischen Störungstheorie — schon die
+Störungsfunktion selbst als eine Potenzreihe in A aufzufassen,
+deren Glieder bei den einzelnen Etappen erst nach und nach
+ins Spiel treten. Diese Fragen werden von Hrn. E. Fues in
+einer gleichzeitig erscheinenden Arbeit im Zusammenhang mit
+der Anwendung auf die Theorie der Bandenspektren eingehend
+besprochen.
+
+Zweitens kann man in ganz derselben Weise, wie wir oben
+eine Störung des Gliedes — qy im Differentialoperator (1) be-
+trachtet haben, nun auch eine Störung des Gliedes mit y’ ins
+Auge fassen. Der Fall ist wichtig, denn auf eine Störung
+
+--- Page 10 ---
+446 E. Schrödinger
+
+dieser Art — freilich an einer Gleichung mit mehreren un-
+abhängigen Variablen — führt ohne Zweifel der Zeemaneffekt.
+Dabei verliert die Gleichung durch die Störung ihre selbst-
+adjungierte Form, was im Falle einer einzigen Variablen nicht
+sehr wesentlich ist, Bei einer partiellen Differentialgleichung
+aber kann dieser Verlust zur Folge haben, daß bei reellem
+Störungsglied die gestörten Eigenwerte nicht mehr reell
+sind; und natürlich auch umgekehrt: daß ein imaginäres
+Störungsglied eine reelle, physikalisch sinnvolle Störung zur
+Folge hat.
+
+Man kann auch noch weiter gehen und eine Störung des
+Gliedes mit y” betrachten. Ja, es hindert nichts, schließlich
+ganz allgemein einen beliebigen „unendlich kleinen“ linearen!)
+und homogenen Differentialoperator, auch von höherer als der
+zweiten Ordnung, als Störungsglied hinzuzufügen und die
+Störungen in ganz derselben Weise zu berechnen wie oben.
+Dabei würde man jedoch mit Vorteil davon Gebrauch zu
+machen haben, daß sich die zweiten und höheren Derivierten
+der Eigenfunktionen nach der Differentialgleichung selbst durch
+die nullte und erste ausdrücken lassen, so daß sich dieser all-
+gemeine Fall in gewissem Sinn auf die beiden zuerst be-
+trachteten Spezialfälle — Störung der Glieder mit y und mit
+y — zurückführen läßt.
+
+Endlich liegt es auf der Hand, daß auch die Übertragung
+auf Gleichungen von höherer als der zweiten Ordnung möglich ist.
+
+Zweifellos die wichtigste Verallgemeinerung ist aber die-
+jenige auf mehrere unabhängige Variable, d. h. auf partielle
+Differentialgleichungen. Denn dieses Problem liegt ja von Haus
+aus im allgemeinen vor; und nur in Ausnahmsfällen wird es
+möglich sein, auch die gestörte partielle Differentialgleichung
+durch Einführung passender Variablen in einzelne Differential-
+gleichungen mit nur je einer Variablen zu zerfällen.
+
+8 2. Mehrere unabhängige Variable (partielle
+Differentialgleichung)
+Wir wollen auch die mehreren unabhängigen Veränder-
+lichen in den Formeln symbolisch durch das eine Zeichen x
+
+1) Selbst die Beschränkung „linear“ dürfte nicht unbedingt nötig sein.
+
+--- Page 11 ---
+Quantisierung als Eigenwertproblem 447
+
+andeuten und kurz Saz( statt f: . .[a2,dz, Br -) für ein
+
+über das mehrfach ausgedehnte Grundgebiet erstrecktes Integral
+schreiben. Die Schreibweise ist von der Theorie der Integral-
+gleichungen her bekannt und bietet hier wie dort den Vorteil,
+daß nicht die vermehrte Zahl der Variablen an und für sich,
+sondern nur wesentäich neue Vorkommnisse, die damit ver-
+bunden sein können, die Formelbilder abändern.
+
+Es soll nun also Z[y] einen selbstadjungierten partiellen
+linearen Differentialausdruck zweiter Ordnung bedeuten, dessen
+explizite Form wir gar nicht anzuschreiben brauchen; ferner
+sei o(z) wieder eine im allgemeinen nicht verschwindende
+positive Funktion der unabhängigen Variablen (Plural), Die
+Voraussetzung „selbstadjungiert“ ist jetz? nicht mehr belanglos,
+weil sie sich jetzt im allgemeinen nicht mehr, wie bei einer
+Variablen, durch Multiplikation mit einer passend gewählten
+fix) herbeiführen läßt. Speziell bei den Differentialausdrücken
+der Wellenmechanik ist das aber der Fall, weil sie aus einem
+Variationsprinzip entspringen.
+
+Nach diesen Feststellungen bzw. Verabredungen können
+wir die Gleichung (2) von $1
+
+2) L[{y])+Boy=0
+
+als die Formulierung des Sturm-Liouvilleschen Eigenwert-
+problems auch im Falle mehrerer Variabler ansehen. Alles
+dort über die Eigenwerte und Eigenfunktionen, ihre Ortho-
+gonalität, Normierung usw. Gesagte und ebenso die ganze dort
+entwickelte Störungstheorie, kurz der ganze $ 1, bleibt bei der
+getroffenen Verabredung über die abkürzende Bezeichnungs-
+weise unverändert aufrecht, wenn alle Eigenwerte einfach sind.
+Und nur das eine bleibt nicht aufrecht: daß sie einfach sein
+müssen,
+
+Gleichwohl ist, vom rein mathematischen Standpunkt, Ein-
+fachheit der Eigenwerte auch bei mehreren Variablen als der
+allgemeine Fall anzusehen, Mehrfachheit als ein spezielles
+Vorkommnis, das freilich in den Anwendungen wegen des be-
+sonders einfachen und symmetrischen Baues der auftretenden
+Differentialausdrücke Z[y] (und der „Randbedingungen‘) die
+Regel bildet. Mehrfachheit der Eigenwerte entspricht der Ent-
+
+--- Page 12 ---
+448 E. Schrödinger
+
+artung in der Theorie der bedingt periodischen Systeme und
+ist daher für die Quantentheorie von ganz besonderem Interesse.
+
+Ein Eigenwert E, heißt x-fach, wenn die Gleichung (2) für
+E= E, nicht nur eine sondern genau «& linear unabhängige
+Lösungen besitzt, die den Randbedingungen genügen. Wir
+wollen sie mit
+(16) Yan Ya
+bezeichnen. Dann gilt, daß jede dieser & Eigenfunktionen
+jedenfalls zu jeder anderen Eigenfunktion, die zu einem anderen
+Eigenwert gehört, orthogonal ist (unter Zuziehung des
+Faktors o(z), vgl. (8). Dagegen besitzen die « Funktionen (16)
+untereinander diese Orthogonalitätseigenschaft im allgemeinen
+noch nicht, wenn von ihnen nichts weiter vorausgesetzt wird,
+als daß sie & linear unabhängige Eigenfunktionen zum Eigen-
+wert E, sind. Denn dann kann man mit gleichem Recht an
+ihre Stelle setzen: beliebige & linear unabhänge lineare (mit
+konstanten Koeffizienten) Aggregate ihrer selbst. Anders aus-
+gedrückt: die Funktionenreihe (16) ist zunächst noch bis auf
+eine lineare (mit konstanten Koeffizienten) Transformation von
+nichtrerschwindender Determinante undestimmt und eine solche
+Transformation zerstört im allgemeinen die gegenseitige Ortho-
+gonalität,
+
+Durch eine solche Transformation läßt sich aber die
+gegenseitige Orthogonalität auch stets herbeiführen und zwar
+noch auf unendlich viele Arten; welch letzteres daraus hervor-
+geht, daß ja eine orthogonale Transformation die gegenseitige
+Orthogonalität nicht zerstört, Man pflegt es nun einfach mit
+zur Normierung za rechnen, daß die Orthogonalität bereits für
+alle Eigenfunktionen herbeigeführt ist, auch für diejenigen, die
+zu demselben Eigenwert gehören. Wir wollen unsere u,, be-
+reits auch in dieser Weise normiert annehmen, und zwar na-
+türlich für jeden Eigenwert. Dann gilt also
+
+an | frau ws @dz=0 wen h+W N
+=1 wenn sowohl #=% als auch ’=i.
+
+Jede der endlichen Reihen von Eigenfunktionen w,,, die man
+für konstantes R und varüerendes i erhält, ist dann nur noch
+bis auf eine orthogonale Transformation unbestimmt.
+
+--- Page 13 ---
+Quantisierung als Eigenwertproblem 449
+
+Wir wollen nun die Ereignisse, die beim Hinzufügen eines
+Störungsgliedes zu der Differentialgleichung (2) eintreten, zu-
+nächst mit Worten, ohne Formeln, besprechen. Die Hinzu-
+fügung des Störungsgliedes wird die oben erwähnte Symmetrie
+der Differentialgleichung, der die Mehrfachheit der (oder ge-
+wisser) Eigenwerte zu verdanken ist, im allgemeinen beseitigen.
+Da jedoch die Eigenwerte und Eigenfunktionen stetig von den
+Koeffizienten der Differentialgleichung abhängen, wird bei
+kleiner Störung an die Stelle des «-fachen Eigenwertes Z, eine
+Gruppe von « Stück nahe beieinander und bei Z, liegenden
+Eigenwerten treten. Der «-fache Eigenwert wird aufgespalten.
+Natürlich kann es, wenn die Störung die Symmetrie nicht
+völlig aufhebt, vorkommen, daß die Aufspaltung nicht voll-
+ständig ist, sondern bloß mehrere, zum Teil immer noch mehr-
+fache Eigenwerte von, in summa, gleicher Vielfachheit an die
+Stelle von Z, treten („teilweise Aufhebung der Entartung“).
+
+Was nun die gestörten Eigenfunktionen anbetrifft, so
+müssen diejenigen & Stück, die zu den @ aus Z, entspringenden
+Eigenwerten gehören, selbstverständlich gleichfalls, wegen der
+Stetigkeit, den zu Z, gehörigen ungestörten Eigenfunktionen
+w5;i=1, 23,3... unendlich nahe liegen. Dabei ist jedoch
+zu bedenken, daß die letztgenannte Funktionenreihe, wie wir
+oben festgestellt haben, nur dis auf eine wülkürliche orthogonale
+Transformation festgelegt ist, Einer der unendlich vielen Be-
+stimmungen, deren die Eigenfunktionenreihe u,,; i=1,2,3...«
+fähig ist, wird die Reihe der gestörten Funktionen unendlich
+nahe liegen; und zwar, wenn der Eigenwert E, völlig aufspaltet,
+einer ganz bestimmten! Denn zu den einzelnen einfachen Eigen-
+werten, in die er zerfällt, gehören ja dann völlig eindeutig be-
+stimmte Eigenfunktionen.
+
+Diese durch die Art der Störung eindeutig festgelegte
+spezielle Bestimmung der ungestörten Eigenfunktionen, die sinn-
+gemäß als die „nullte Näherung* für die gestörten Eigen-
+funktionen zu bezeichnen ist, wird natürlich im allgemeinen
+nicht mit derjenigen Bestimmung der ungestörten Eigen-
+funktionen zusammenfallen, die gerade zufällig von Haus aus
+vorliegt. Jede zu einem bestimmten «-fachen Eigenwert Z,
+
+. gehörige Gruppe der letzteren wird vielmehr zuerst einer durch
+die Art der Störung bestimmten orthogonalen Substitution
+
+--- Page 14 ---
+450 EB. Schrödinger
+
+unterworfen werden müssen, bevor sie als Ausgangspunkt, als
+„nullte Näherung“, für die genauere Bestimmung der gestörten
+Eigenfunktionen dienen kann. Die Bestimmung dieser ortho-
+gonalen Substitutionen — je eine für jeden mehrfachen Eigen-
+wert — ist das einzige wesentlich neue Moment, das durch die
+vermehrte Variablenzahl bzw. durch das Auftreten mehrfacher
+Eigenwerte neu hinzukommt.. Die Bestimmung dieser Sub-
+stitutionen bildet das genaue Gegenstück zu der Auffindung
+eines angenäherten Separationssystems für die gestörte Be-
+wegung in der Theorie der bedingt periodischen Systeme.
+Wie wir sogleich sehen werden, läßt sich die Bestimmung der
+Substitutionen stets in prinzipiell einfacher Weise leisten, sie
+erfordert für jeden «-fachen Eigenwert lediglich die Haupt-
+achsentransformation einer quadratischen Form von & (also
+endlich vielen!) Veränderlichen.
+
+Ist die Substitution einmal vollzogen, dann verläuft die
+Berechnung der Näherungen erster Ordnung fast wörtlich genau
+so wie im &1. Der einzige Unterschied ist, daß dem Apo-
+strophen beim Summenzeichen in der Gleichung (14) die Be-
+deutung gegeben werden muß: es sollen bei der Summation
+alle zum Eigenwert Z, gehörigen Eigenfunktionen, d. h. also
+alle diejenigen Glieder, deren Nenner verschwinden würde,
+fortbleiben. Dabei ist es, beiläufig bemerkt, für die Näherungen
+erster Ordnung noch gar nicht einmal nötig, die mehr-
+erwähnten orthogonalen Substitutionen schon für alle mehr-
+fachen Eigenwerte vollzogen zu haben, sondern es genügt: für
+denjenigen Eigenwert Z,, für dessen Aufspaltung man sich
+gerade interessiert. Für die Näherungen höherer Ordnung
+braucht man sie dann freilich alle. Im übrigen aber verlaufen
+auch diese höheren Näherungen genau so wie bei, von Haus
+aus, einfachen Eigenwerten.
+
+Selbstverständlich kann es vorkommen, wie schon oben
+erwähnt wurde, daß der Eigenwert Z, entweder überhaupt,
+oder doch bei den anfänglichen Näherungsstufen noch nicht
+vollkommen aufspaltet, sondern noch Mehrfachheiten („Ent-
+artungen“) bestehen bleiben. Das kommt so zum Ausdruck,
+daß den mehrerwähnten Substitutionen noch eine gewisse Un-
+bestimmtheit anhaftet, die entweder dauernd bestehen bleibt
+oder bei den späteren Näherungen schrittweise behoben wird.
+
+--- Page 15 ---
+Quantisierung als Eigenwertproblem 451
+
+Gehen wir nun daran, das Gesagte formelmäßig dar-
+zustellen. Wir betrachten wie früher die durch (4), 8 1, be-
+wirkte Störung
+(&) -Ark)y
+d.h. wir denken das zu (2) gehörige Eigenwertproblem gelöst
+und betrachten das genau entsprechende Eigenwertproblem
+von (2’)
+
+(2’) L{yJ-Ary+Eoy=®.
+
+Wieder richten wir auf einen bestimmten Eigenwert Z, das
+Augenmerk, es sei (16) ein zu ihm gehöriges System von Eigen-
+funktionen, die wir im oben erläuterten Sinn als normiert und
+zueinander orthogonal annehmen, aber noch nicht im oben er-
+läuterten Sinn der speziellen Störung angepaßt, denn die Sub-
+stitution, die dazu führt, aufzufinden, ist ja gerade unsere
+Hauptaufgabe! An Stelle von (5), $ 1, müssen wir jetzt für die
+gestörten Größen folgenden Ansatz machen
+
+Eu=E+As; u) Yale) + Aue)
+l=1,2,3...o)
+
+worin die v,(x) zu bestimmende Funktionen, die &, und die «,,
+zu bestimmende Konstantensysteme sind, die wir vorerst keiner
+Einschränkung unterwerfen, wenn wir auch voraus wissen, daß
+das Koeffizientensystem x,, eine orthogonale Substitution bilden
+muß.?) Den genannten drei Größensorten wäre je noch der
+Index % anzuheften, um anzuzeigen, daß die ganze Überlegung
+sich gerade auf den A-ten Eigenwert des ungestörten Problems
+bezieht. Wir verzichten darauf, dies zum Ausdruck zu bringen,
+um die unübersichtliche Häufung von Indizes zu vermeiden.
+Der Index % bleibt bei allen folgenden Überlegungen, bis auf
+Widerruf, fest.
+
+Wählen wir nun eine der gestörten Eigenfunktionen und
+Eigenwerte aus, indem wir dem Index / in (18) einen be-
+stimmten Wert erteilen, gehen wir dann mit dem Ansatz (18)
+
+(18)
+
+1) Daß das gestörte Funktionensystem uf, (x) orthogonal sein muß,
+wenn die Störung die Entartung völlig aufhebt, und orthogonal an-
+genommen werden kann, auch wenn das nicht der Fall ist, folgt aus der
+allgemeinen Theorie.
+
+--- Page 16 ---
+452 E. Schrödinger
+
+in die Differentialgleichung (2°) ein und ordnen wir nach
+Potenzen von A. Dann fallen, genau wie früher in $ 1, die
+von A unabhängigen Glieder aus dem Grunde fort, weil die
+ungestörten Eigengrößen nach Voraussetzung der Gleichung (2)
+genügen. Es bleiben also nur die Glieder mit der ersten
+Potenz von A, da wir die zweite konsequent fortstreichen
+dürfen. Nach Fortlassen des Faktors A erhält man
+
+(19) Ip)+ ou = Saul U
+
+Wir erhalten also zur Bestimmung der Eigenfunktionen-
+störung v, wieder eine inhomogene Gleichung, zu der als
+homogene Gleichung wieder die Gleichung (2) mit dem spe-
+ziellen Wert = E, gehört, also diejenige homogene Gleichung
+der sämtliche v,,; @= 1,2... genügen. Die Form der linken
+Seite der Gleichung (19) ist vom Index I unabhängig.
+
+Auf der rechten Seite kommen die zu bestimmenden
+Konstanten &, und x, vor, und dieses Vorkommen dient zu
+ihrer Berechnung, noch vor der Berechnung von v,. Denn
+damit Gleichung (19) überhaupt eine Lösung habe, ist nötig
+und hinreichend, daß ihre rechte Seite auf allen zu E, ge-
+hörigen Eigenfunktionen der homogenen Gleichung (2) senk-
+recht stehe. Es muß also
+
+(20) J SCHLUG 0) .dr = 0
+m=1,2,3...0)
+
+d.h. wegen der Normierung (17)
+
+ei) | vn Ir | Pntnde
+
+(m=1,2,3...0). .
+Schreiben wir abkürzend für die durch Quadraturen berechen-
+bare symmetrische Konstantenmatrix
+
+22) | Srwitndz Em
+Gm=1,2,3...@,
+so erkennen wir in
+
+21) | In Darin
+{
+
+m=1,2,3...«)
+
+--- Page 17 ---
+Quantisierung als Bigenwertproblem 453
+
+ein System von « linearen homogenen Gleichungen zur Be-
+rechnung der «-Konstanten x; m=1,2...«, wobei aller-
+dings in den Koeffizienten noch die Eigenwertstörung s, vor-
+kommt, die selbst unbekannt ist. Allein dieses Vorkommen
+dient gerade zur Berechnung von &, noch vor derjenigen der
+%,„. Denn bekanntlich hat das lineare homogene Gleichungs-
+system (21’) nur dann und immer dann Lösungen, wenn seine
+Determinante verschwindet. Das liefert folgende algebraische
+Gleichung «-ten Grades für g;:
+
+8: 8 er
+& A rer da
+
+(23) en =0,
+&ı » 82 Da Fe 7
+
+Man erkennt, daß das Problem völlig identisch ist mit dem
+der Transformation der quadratischen Form in « Variablen,
+mit den Koeffizienten e,,, auf ihre Hauptachsen. Die „Säkular-
+gleichung“ (23) liefert «, im allgemeinen Fall verschiedene und,
+wegen der Symmetrie der s,,, stets reelle Wurzeln für s, die
+„reziproken Quadrate der Hauptachsen“. Wir erhalten so alle
+« Eigenwertstörungen (= 1,2...«) gleichzeitig und würden
+das Aufspalten eines «-fachen Eigenwertes in genau « Stück,
+im allgemeinen Fall verschiedene, einfache Eigenwerte er-
+schlossen haben, auch wenn wir es nicht, als ziemlich selbst-
+verständlich, von vornherein vorausgesetzt hätten. Zu jedem
+dieser s-Werte liefern die Gleichungen 21‘) dann ein System
+von Größen x,; = 1,2... «, und zwar bekanntlich (von einem
+konstanten gemeinsamen Faktor abgesehen) nur eines, wofern
+alle &, wirklich verschieden sind. Ferner ist bekannt, daß das
+ganze System der «? Größen x,, ein orthogonales Koeffizienten-
+system bildet, da es für das Hauptachsenproblem die Richtungen
+der neuen Koordinatenachsen bezüglich der alten in der ge-
+wöhnlichen Weise festlegt. Die eben erwähnten unbestimmten
+Faktoren können und wollen wir dazu verwenden, um die «,,
+vollkommen als „Richtungskosinusse“ zu normieren, wodurch,
+wie man sich leicht überzeugt, die gestörten Eigenfunktionen
+u*;(x) nach (18) zunächst einmal „in nullter Näherung“ (d. h.
+abgesehen von den A-Gliedern) wieder normiert ausfallen.
+Annalen der Physik. IV. Folge. 80. 30
+
+--- Page 18 ---
+454 E. Schrödinger
+
+Hat die Gleichung (23) mehrfache Wurzeln, so liegt der
+früher erwähnte Fall vor, daß die Störung die Entartung noch
+nicht völlig aufhebt. Es hat dann auch die gestörte Gleichung
+noch mehrfache Eigenwerte und die Bestimmung der Kon-
+stanten «,, wird teilweise willkürlich. Das hat keine anderen
+Konsequenzen, als daß man sich auch nach der Störung, wie
+immer bei Mehrfachheit der Eigenwerte, mit einem noch in
+mancher Hinsicht willkürlichen System von Eigenfunktionen
+zufrieden geben muß und kann.
+
+Mit der Hauptachsentransformation ist die Hauptaufgabe
+geleistet und man wird auch für die quantentheoretische An-
+wendung sehr oft mit der Bestimmung der Eigenwerte in erster
+und der Eigenfunktionen in nullter Näherung das Auslangen
+finden. Die Ausrechnung der Konstanten x, und e, läßt sich
+natürlich nicht allgemein abgeben, da sie ja von der Lösung
+einer algebraischen Gleichung «-ten Grades abhängt. Für den
+schlimmsten Fall gibt es Methoden, um die Ausrechnung mit
+beliebiger Näherung in rationaler Weise zu leisten.) Wir
+dürfen also jetzt diese Konstanten als bekannt ansehen und
+wollen noch der Vollständigkeit halber die Berechnung der
+Eigenfunktionen in erster Näherung angeben. Sie verläuft
+übrigens genau wie im $ 1.
+
+Wir haben die Gleichung (19) zu lösen und setzen dazu
+v, als eine Reihe nach sämtlichen Eigenfunktionen von (2) an
+
+(24) ve) = Dr, wre (2).
+[243]
+
+Die Summation ist zu erstrecken nach A’ von 0 bis oo, und
+für jedes feste A nach ’ über die endliche Zahl von Eigen-
+funktionen, die zu Z% gehören. (Jetzt treten also zum ersten
+Male auch die Eigenfunktionen ins Spiel, die nicht zu dem
+hervorgehobenen «-fachen Eigenwert Z, gehören.) — Zweitens
+entwickeln wir die durch o(z) dividierte rechte Seite von (19)
+in eine Reihe nach den sämtlichen Eigenfunktionen:
+
+a
+r Ir
+(25) >" x, = - «) u,= I owrwr,
+i=1
+
+@)
+
+1) Courant-Hilbert, Kap. I, 83, 3. 8, 14.
+
+--- Page 19 ---
+Quantisierung als Bigenwertproblem 455
+wobei
+
+wer Sf (Fr 8, 0)ur: Uprdz
+26 E
+(26) = Dr [rue de für A+%
+0 für #=h
+
+(die beiden letzten Gleichsetzungen folgen aus (17) bzw. (20)).
+Geht man mit (24) und (25) in (19) ein, so kommt
+
+(27) Srwr(bfwr] + Erourr) = PUTZ Ole.
+Ki’) #7)
+Da nun u, der Gleichung (2) mit E= Z, genügt, kommt:
+(28) Drıwro — Br)wr = Dow go Wr.
+@?) @7)
+
+Durch Gleichsetzen der Koeffizienten rechts und links sind
+alle y,w, bestimmt, mit Ausnahme derjenigen, für welche
+K=h Es ist
+
+wir 1 <
+29) Ywo= By = BE Im f Ute der
+
+(für KEN,
+während diejenigen y, für welche # = % ist, natürlich durch
+die Gleichung (19) nicht festgelegt werden. Es entspricht dies
+wieder dem Umstand, daß wir die gestörten Eigenfunktionen x£;, ,
+Ansatz (18), vorläufig erst in nullter Näherung (durch Normierung
+der x,) normiert haben, und man erkennt wieder leicht, daß
+man die in Rede stehenden y-Größen sämtlich Null zu setzen
+hat, um die Normierung der uf, auch in erster Näherung
+herbeizuführen. — Durch Eintragen von (29) in (24) und dann
+von (24) in (18) erhält man schließlich für die gestörten Eigen-
+funktionen in erster Näherung
+
+a
+
+pn [= Zulannı Zar nunee)
+Tel 72)
+=1,2...0).
+
+Der Apostroph am zweiten Summenzeichen zeigt an, daß alle
+
+Glieder mit X = k fortzubleiben haben. Bei Anwendung der
+
+Formel für ein beliebiges A ist zu beachten, daß sowohl die «,,
+80*
+
+
+--- Page 20 ---
+456 E. Schrödinger
+
+als auch, selbstverständlich, die Vielfachheit & des Eigen-
+wertes Z,, den wir speziell ins Auge gefaßt hatten, noch vom
+Index A abhängen, was in der Bezeichnung nicht zum Aus-
+druck kommt. Die «,, sind, um das hier zu wiederholen, als
+ein auf die Quadratsumme Eins normiertes Lösungssystem aus
+den Gleichungen (21’) zu berechnen, deren Koeffizienten durch
+(22) gegeben sind, während für die Größe e, in (21’) eine der
+Wurzeln von (23) zu nehmen ist. Diese Wurzel gibt dann
+den zugehörigen gestörten Eigenwer? nach
+
+a1) Eu= B,+ he.
+
+Die Formeln (30) und (31) sind die Verallgemeinerung der
+Formel (14) und (15) von $ 1.
+
+Es braucht kaum gesagt zu werden, daß die am Ende
+von 8 1 erwähnten Erweiterungen und Verallgemeinerungen
+natürlich hier wieder Platz greifen können. Es verlohnt aber
+wohl kaum, die Entwickelungen allgemein durchzuführen. Man
+kommt im speziellen Fall am besten ans Ziel, wenn man keine
+fertigen Formeln benützt, sondern direkt nach den einfachen
+Grundsätzen vorgeht, die wir im Vorstehender, vielleicht schon
+allzu ausführlich, auseinandergesetzt haben. — Nur des, schon
+am Ende von’$ 1 erwähnten Vorkommnisses möge noch kurz
+gedacht werden, daß die Gleichung (2) eventuell ihren selbst-
+adjungierten Charakter einbüßt, und zwar beimehreren Variablen
+eventuell unwiederbringlich einbüßt, wenn die Störungsglieder
+auch Derivierte der unbekannten Funktion enthalten. Nach
+allgemeinen Sätzen brauchen die Eigenwerte der gestörten
+Gleichung dann nicht mehr reell zu sein. Wir können das
+jetzt näher erläutern. Man erkennt nämlich beim Durchgeben
+der Entwickelungen dieses Paragraphen unschwer, daß, wenn
+die Störungsglieder Derivierte enthalten, die Elemente der
+Determinante (23) nicht mehr symmetrisch sind. Es ist bekannt,
+daß in diesem Falle die Wurzeln der Gleichung (23) nicht
+mehr reell zu sein brauchen.
+
+Daß man, um über die erste bzw. nullte Näherung der
+Eigenwerte bzw. Eigenfunktionen hinauszukommen, die Reihen-
+entwickelungen gewisser Funktionen nach den Eigenfunktionen
+benötigt, kann recht unbequem werden und die Rechnung
+mindestens bedeutend verkomplizieren in den Fällen, wo neben
+
+--- Page 21 ---
+Quantisierung als Eigenwertproblem 457
+
+dem Punktspektrum auch ein Streckenspektrum vorliegt und
+das Punktspektrum eine Häufungsstelle im Endlichen aufweist.
+Das ist nun gerade bei den in der Quantentheorie auftretenden
+Problemen der Fall. Glücklicherweise ist es manchmal —
+vielleicht immer — möglich, sich für die Zwecke der Störungs-
+theorie von dem, überhaupt recht lästigen, Streckenspektrum
+zu befreien und die Störungstheorie an einer Gleichung durch-
+zuführen, die kein Streckenspektrum besitzt und deren Eigen-
+werte sich nicht im Endlichen häufen, sondern mit wachsendem
+Index über alle Grenzen wachsen. Wir werden im nächsten
+Paragraphen ein Beispiel kennen lernen. Selbstverständlich
+bietet sich diese Erleichterung nur dann dar, wenn man sich
+nicht gerade für einen Eigenwert des Streckenspektrums selbst
+interessiert.
+
+I. Anwendung auf den Starkeffekt
+
+&3. Berechnung der Frequenzen nach der Methode, die der
+Epsteinschen entspricht
+
+Indem wir der Wellengleichung des Keplerproblems,
+Gleichung (5), S. 362, Bd. 79 dieser Annalen, eine potentielle
+Energie + e Fz hinzufügen, wie es der Einwirkung eines elek-
+trischen Feldes in der positiven z-Richtung von der Stärke F
+auf ein negatives Elektron vom Ladungsbetrag e entspricht,
+erhalten wir folgende Wellengleichung für den Starkeffekt
+des Wasserstoffatoms
+(82) Ay dr (B+&-erz)y=0
+welche die Grundlage des restlichen Teiles dieser Abhandlung
+bildet. Im $ 5 werden wir auf diese partielle Differential-
+gleichung direkt die allgemeine Störungstheorie von $2 an-
+wenden. Jetzt hingegen erleichtern wir uns die Aufgabe,
+indem wir räumliche Parabelkoordinaten A,, A,, 9 einführen
+durch folgende Gleichungen
+
+2 = Viyoosg
++
+(83) y= VA, A, sing
+
++
+2=3(h AR)
+
+Fl
+
+--- Page 22 ---
+458 E. Schrödinger
+
+4, und A, laufen je von 0 bis oo, als Koordinatenflächen ge-
+hören dazu die beiden Scharen konfokaler Rotationsparaboloide
+mit dem Ursprung als Brennpunkt und der positiven (A,) bzw.
+negativen (A,) z-Achse als Achse. @ läuft von 0 bis 2, als
+Koordinatenflächen gehört dazu die Schar der von der z-Achse
+begrenzten Halbebenen. Die Koordinatenzuordnung ist ein-
+deutig. Für die Funktionaldeterminante erhält man
+
+any) _
+
+(84) Tag th th).
+
+Das Raumelement ist also
+
+(85) dzdydz= 4A + A,)dı di,dp.
+
+Wir notieren noch als Folge von (83)
+3 Aryl Pertptiehlhth).
+
+Die Ausrechnung von (32) in den gewählten Koordinaten er-
+gibt, wenn wir (zur Herstellung der selbstadjungierten Gestalt)
+gleich mit (34) multiplizieren }):
+G) öy ö dv 1/1 1\ ö°y
+tet t
+2ntm
+
++ 2ER (E42) +2 dert ]y=0.
+
+(82)
+
+Hier kann man nun wieder — das ist ja das Um und Auf
+aller „Methoden“ zur Lösung linearer partieller Differential-
+gleichungen — die Funktion «y als Produkt dreier eingriffiger
+Funktionen ansetzen
+
+(7 v=44®B,
+
+die nur je von einer Koordinate abhängen. Man erhält für sie
+die gewöhnlichen Differentialgleichungen
+
+1) Rechnerisch am einfachsten gewinnt man (82’), sowie überhaupt
+die Wellengleichung in irgendwelchen speziellen Koordinaten, indem
+man nicht sie selbst, sondern das ihr entsprechende Variativnsproblem
+(vgl. „Erste Mitteilung‘ S. 376) umrechnet und daraus die Wellengleichung
+als Eulersche Variationsgleichung neu gewinnt. Man erspart so das
+mühsame Umrechnen der zweiten Derivierten. Vgl. „Courant- Hilbert“
+Kap. IV, 87, S. 198.
+
+--- Page 23 ---
+Quantisierung als Eigenwertproblem 459
+
+gE=- 0
+hie Ee(uenzemse--
+(88) u) 0
+Bene
+m):
+
+worin n und ß zwei weitere, erst zu bestimmende „eigenwert-
+artige‘“ Integrationskonstanten (neben Z) sind. Bei der Wahl
+der Bezeichnung für die erstere haben wir schon darauf Rück-
+sicht genommen, daß die erste der Gleichungen (88) ihr einen
+
+ganzzahligen Wert aufzwingt, wenn ® und — als Funktion
+des Azimuts @ eindeutig und stetig sein sollen. Man hat dann
+
+P sin
+
+39 P= cos *P
+
+und es genügt offenbar, nichtnegative Werte von r in Betracht
+zu ziehen:
+
+(40) n=0,1,2,3...
+
+Mit der Bezeichnung der zweiten Konstante, 8, folgen wir
+Sommerfeld (Atombau, 4. Aufl., S. 821), um den Vergleich
+etwas zu erleichtern. (So auch im Folgenden mit A, B, C, D.)
+Die letzten beiden Gleichungen (38) behandeln wir gemeinsam
+in der Gestalt
+
+a gelege)+[De+AE+23 + 2)4=0,
+wobei
+
+D, n!meF 2n?mE B\ _ "m
+49) 5} -* sd mw "erh
+
+n?
+0--#
+
+und das obere Vorzeichen für 1= 4, & = 4, gilt, das untere
+für A=4,, £=4,. (Leider müssen wir 5 statt des näher-
+liegenden A schreiben, wegen der Kollision mit dem Störungs-
+parameter A der allgemeinen Theorie, 8$ 1 und 2.)
+
+Lassen wir nun in (41) zunächst das Starkeffektglied .D £?,
+das wir als Störungsglied auffassen, fort (Grenzfall ver-
+
+--- Page 24 ---
+460 E. Schrödinger
+
+schwindenden Feldes), dann hat diese Gleichung ganz den-
+selben allgemeinen Bau wie die Gleichung (7), 8. 363 der
+ersten Mitteilung, auch das Grundgebiet ist: dasselbe, 0 bis oo.
+Die Diskussion ist fast wörtlich gleichlautend und ergibt, daß
+nichtidentischverschwindende, im Grundgebiet mit ihren Ab-
+leitungen stetige und endlichbleibende Lösungen nur dann
+existieren, wenn entweder A>0 (Streckenspektrum, ent-
+sprechend den Hyperbelbahnen) oder
+
+B
+4 I__YV = ko .
+(43) Ver: y C=h+h k=0,1,2
+
++
+Wendet man das auf die letzten beiden Gleichungen (88) an
+und unterscheidet dabei die beiden A-Werte durch Indizes 1
+und 2, so erhält man:
+
+Y-A@ ++ v-°) -
+Y-4%+3+ Y-0)=8,
+
+Durch Addieren und Quadrieren ergibt sich mit Beachtung
+der Werte (42):
+
+(45) 4m EE pam. Be rl.
+
+Das sind die wohlbekannten Balmer-Bohrschen Eilipsen-
+niveaus, wobei ala Hauptguantenzahl auftritt
+
+(46) I=kht+k+n+l.
+
+Einfacher als auf dem angedeuteten Weg erhält man das
+diskrete Termspektrum und die zugehörigen Eigenfunktionen
+unter Verwendung bereits bekannter Ergebnisse der mathe-
+matischen Literatur folgendermaßen. Man transformiert zu-
+nächst die dependente Variable A in (41) durch
+
+(44)
+
+a7) A= Eu
+sodann die independente & durch
+(48) 2EYy-I=n.
+Man findet für x als Funktion von 7 die Gleichung
+n du  n+ldu A\ _
+ar) + a + (ey ara)" u-0
+
+--- Page 25 ---
+Quantisierung als Eigenwertproblem 461
+
+Diese Gleichung steht nun in einer sehr intimen Beziehung
+zu den nach Laguerre benannten Polynomen. Im mathe-
+matischen Anhang wird gezeigt, daß die mit e- =? multiplizierte
+n-te Derivierte des n + A-ten Laguerreschen Polynoms der
+Differentialgleichung genügt
+
+(108) yHrttyı[- + (+ 2)4)y=0
+
+und daß für festes n die genannten Funktionen das voll-
+ständige System der Eigenfunktionen der eben angeschriebenen
+Gleichung bilden, wenn A alle nichtnegativen ganzen Zahlen
+durchläuft. Daraus folgt, daß (41’) für verschwindendes D die
+Eigenfunktionen
+
+_ıa
+(49) „mM=e ?L,,m
+zu den Eigenwerten
+B
+=0,1,2...
+50) Fr %=0,1,2..)
+
++
+besitzt — und keine anderen! (Über den merkwürdigen Ver-
+lust des Streckenspektrums bei der scheinbar harmlosen Trans-
+formation (48) vgl. den mathematischen Anhang; die Durch-
+führung der Störungstheorie wird durch diesen Verlust sehr
+erleichtert.)
+
+Wir haben nun die Störung der Eigenwerte (50) durch
+Hinzunahme des D-Gliedes in (41’) nach der allgemeinen
+Theorie von $ 1 zu berechnen. Die Gleichung erhält selbst-
+adjungierte Gestalt durch Multiplikation mit 7* +1, Die Dichte-
+funktion go (x) der allgemeinen Theorie wird also 7°. Als
+Störungsfunktion e) tritt u
+o x vor "
+
+(Den Störungsparameter 2 setzen wir formal = 1, wenn man
+wollte, könnte man D oder F damit identifizieren.) Nun ergibt
+die Formel (7’) für die Störung des A-ten Eigenwertes
+
+©
+1%
+fr +2, [za + „@] da
+D Ki
+
+na
+ey fr e alıe, „olar
+
+(52) g=—
+
+
+--- Page 26 ---
+462 E. Schrödinger
+
+Für das Nennerintegral, das lediglich die Normierung besorgt,
+ergibt Formel (115) des Anhangs
++ Ai
+(53) erhr,
+während das Zählerintegral an derselben Stelle zu
+
+(54) [in EAN 2 + 6m + 642? +6&+3n +2)
+berechnet wird. Mithin
+
+D
+
+5) 2,=-- wet 6nk +6 +6k+3n +2).
++
+Die gestörte Eigenwertforderung für den A-ten Eigenwert der
+Gleichung (417) und daher natürlich auch für den %-ten diskreten
+Eigenwert der Ausgangsgleichung (41) lautet also
+B n+1
+
+(56) Der =7,-+ R+E
+
++
+(e, wird vorläufig als Abkürzung beibehalten).
+
+Dieses Ergebnis wenden wir nun zweimal an, nämlich auf
+die letzten beiden Gleichungen (38), indem wir die beiden
+Wertesysteme (42) der Konstanten A, B, C, D einsetzen; wobei
+außerdem zu beachten ist, daß n in beiden Fällen dieselde Zahl
+ist, während die beiden -Werte, ebenso wie oben, durch die
+Indizes 1 und 2 zu unterscheiden sind. Zunächst hat man
+
+B, +1
+var
++
+% 5
+3 n+1
+-—o- = + + 8
+A 2
+[4
+Hieraus
+(59) 1=_ Bat
+
+(+ &ı + 522)?
+(mit Verwendung der Abkürzung (46) für die Hauptquantenzahl).
+In der Näherung, die wir anstreben, darf man nach den kleinen
+Größen e, entwickeln
+
+B, + B,)*
+(59) 4 At ı 2, + 2):
+
+Ferner darf man bei Berechnung dieser kleinen Größen in (55)
+
+--- Page 27 ---
+Quantisierung als Eigenwertproblem 463
+den Näherungswert (45) für 4 benützen. Man erhält so, mit
+Beachtung der beiden D-Werte nach (42):
+
+ER m2 + 6nh, +62 + 6%
+tum t nk, +6%,?+6%, +3n +2)
+
+Frb ,, 2
+= Pereriü +6n%,+6%,?+6%, +30 +2).
+Die Addition ergibt nach leichter Reduktion
+
+ER TEE A
+32n*mte®
+
+(60)
+
+N) tn >
+Trägt man dies und die Konstantenwerte 4, B, und B, aus
+(42) in (59) ein, so kommt nach Reduktion
+
+R _ 2ntme* 3 Ari, — k)
+2 #=- RR TE nme "
+
+Dies ist unser vorläufiges Zndergednis, die wohlbekannte
+Epsteinsche Formel für die Termwerte im Starkeffekt des
+Wasserstofispektrums.
+
+k, und k, entsprechen vollkommen den parabolischen
+Quantenzahlen, sie sind des Wertes Null fähig, Auch die
+ganze Zahl n, die offenbar mit der äguatorialen Quantenzahl
+zu tun hat, ist nach (40) des Wertes Null fähig. Aber nach
+(46) muß die Summe dieser drei Zahlen noch um eine Einheit
+vermehrt werden, um die Hauptquantenzehl zu liefern. Daher
+entspricht nicht 2, sondern n + 1 der äquatorialen Quanten-
+zahl. Der Wert Null für die letztere wird also durch die
+Wellenmechanik automatisch ausgeschlossen, ebenso wie durch
+die Heisenbergsche Mechanik.!) Es gibt einfach heine Eigen-
+funktion, d. h. keinen Schwingungszustand, der solch einer
+meridionalen Bahn entspricht. Dieser wichtige und erfreuliche
+Umstand war übrigens schon auf S. 370 der ersten Mitteilung
+bei der Konstantenzäblung, dann auf 8. 371 bei der azimu-
+talen Quantenzahl zutage getreten in der Nichtexistenz der
+den Pendelbahnen entsprechenden Schwingungszustände; seine
+volle Bedeutung ist mir aber erst durch die Bemerkungen der
+beiden eben zitierten Autoren zur Abhebung gelangt.
+
+1)8. W. Pauli jun., Ztschr. f. Phys. 86. 8. 836. 1926; N. Bohr,
+Die Naturw. 1. Heft. 1926.
+
+--- Page 28 ---
+464 EB. Schrödinger
+
+Für spätere Verwendung notieren wir noch das zu den
+Eigenwerten (62) gehörige System von Eigenfunktionen der
+Gleichung (32) bzw. (82”) in „nullter Näherung“. Es ergibt
+sich aus dem Ansatz (37), aus den Ergebnissen (39) und (49),
+mit Beachtung der Transformationen (47) und (48) und des
+Näherungswertes (45) für 4A. Zur Abkürzung nennen wir a,
+den „Radius der ersten Wasserstoffbahn“. Es ergibt sich
+
+1 a
+(63) Qay-i = Anime =@,.
+
+Die (noch nicht normierten!) Eigenfunktionen lauten dann
+
+(64) ur he (F) Ir (ir
+Yon 1 n+k\lo, n+%\lo,}cos $-
+Sie gehören zu den Eigenwerten (62), wobei Z die Bedeutung (46)
+hat. Zu jedem nichtnegativen ganzzahligen Wertetripel n, A,,
+2) zwei bzw. eine Eigen-
+CO8,
+funktion, je nachdem n >0 oder n=0.
+
+k, gehören (wegen des Doppelzeichens
+
+$4. Versuch einer Berechnung
+der Intensitäten und Polarissationen eines Aufspaltungsbildes
+
+Neulich habe ich gezeigt'), daß man aus den Eigenfunk-
+tionen durch Differentiationen und Quadraturen die Elemente
+der Matrizen berechnen kann, welche in der Heisenbergschen
+Quantenmechanik den Funktionen der verallgemeinerten Lage-
+und Impulskoordinaten zugeordnet werden. Z. B. findet man
+für das r r'!e Element derjenigen Matrix, die nach Heisenberg
+zu der verallgemeinerten Lagekoordinate q selbst gehört
+
+7 = [ea u.@v.@dr-
+. (fe 2), dx Se @lu,(e?del .
+
+Hier vertreten, für unseren Fall, die Einzelindizes 7, r’ je ein
+Indextripel n, R,, A,, ferner vertritt x die drei Koordinaten r, 9,
+%; o(z) ist die Dichtefunktion, in unserem Fall die Größe (34).
+
+1) Ann. d. Phys. 79. 8. 734. 1926.
+
+(65)
+
+--- Page 29 ---
+Quantisierung als Eigenwertproblem 465
+
+(Man vergleiche die selbstadjungierte Gleichung (32°) mit der
+allgemeinen Gestalt (2). Der Nenner, (-.-)-*:, in (65) mußte
+hinzugefügt werden, weil unser Funktionensystem (64) noch
+nicht normiert ist.
+
+Nach Heisenberg?) soll nun, wenn g eine rechtwinkelige
+kartesische Koordinate bedeutet, das Quadrat des Matrix-
+elementes (65) ein Maß für die „Übergangswahrscheinlichkeit
+aus dem rt in den r’ten Zustand“ sein, genauer gesprochen
+für die Intensität desjenigen Teils der mit diesem Übergang
+verbundenen Strahlung, der in der g-Richtung polarisiert ist.
+Hieran anknüpfend habe ich a. a. O. gezeigt, daß unter gewissen
+einfachen Annahmen über die elektrodynamische Bedeutung
+des „mechanischen Feldskalars“ das in Rede stehende
+Matrixelement in der Wellenmechanik einen sehr anschau-
+lichen Sinn bekommt, nämlich wirklich: Komponente der
+Amplitude des periodisch schwankenden elektrischen Moments
+des Atoms, und zwar Komponente im doppelten Sinn: 1. Kom-
+ponente in der g-Richtung, d. h. in der betreffenden Raum-
+richtung, 2. von dieser räumlichen Komponente nur derjenige
+Teil, der zeitlich sinusförmig mit genau der Frequenz des aus-
+gesandten Lichtes, |Z,— E,|/h, wechselt. (Es handelt sich
+also um eine Art Fourierzerlegung, aber nicht nach harmoni-
+schen Frequenzen, sondern nach den wirklichen Emissions-
+frequenzen.) Dabei liegt jedoch der Wellenmechanik überhaupt
+nicht die Vorstellung eines plötzlichen Überganges aus dem
+einen in den anderen Schwingungszustand zugrunde, sondern
+das betrefiende Partialmoment — wie ich es kurz nennen
+will — entspringt nach ihr aus dem Zusammenbestehen der
+beiden Eigenschwingungen und dauert so lange an, als beide
+gleichzeitig angeregt sind.
+
+Insofern muß auch obige Behauptung, die g”” seien den
+Partialmomenten proportional, genauer präzisiert werden: das
+Verhältnis von z. B. g”’’ zu g"’” ist gleich dem Verhältnis
+der Partialmomente, die auftreten, wenn die Eigenfunktion w,
+mit irgendwelcher Stärke und die beiden Eigenfunktionen «,
+und «,. unter sich gleich stark — d. h. der Normierung ent-
+
+1) W. Heisenberg, Ztschr. f. Phys. 33. 8.879. 1925; M. Born
+u. P. Jordan, Ztschr. f. Phys, 34. 8. 867, 886. 1925.
+
+--- Page 30 ---
+466 E. Schrödinger
+
+sprechend — angeregt sind. Zur Berechnung des Intensitäts-
+verhältnisses muß der g-Quotient erstens quadriert und zweitens
+mit dem Quotienten der vierten Potenzen der Emissions-
+frequenzen multipliziert werden. Für das Intensitätsverhältnis
+der Starkeffektkomponenten spielt letzteres aber keine Rolle,
+weil dabei ja immer nur Linien von nahezu gleicher Frequenz
+ihrer Intensität nach verglichen werden.
+
+Die bekannten Auswahl- und Polarisationsregeln der Stark-
+effektkomponenten lassen sich aus den Zählerintegralen in (65)
+und aus der Gestalt der Eigenfunktionen (64) fast ohne Rech-
+nung ablesen. Sie folgen aus dem Verschwinden bzw. Nicht-
+verschwinden des Integrals über dp. Die Komponenten, deren
+elektrischer Vektor parallel zum Feld, d. h. zur z-Richtung
+schwingt, erhält man ja, indem man in (65) das g durch z
+nach (83) ersetzt. Der Ausdruck für z d. i. ?/, (A, — A,) ent-
+hält das Azimut @ nicht. Daher erkennt man aus (64) un-
+mittelbar, daß ein nichtverschwindendes Resultat bei der
+Integration über dp nur dann zustande kommen kann, wenn
+man Eigenfunktionen mit gleichem n, d. h. also mit gleicher
+äquatorialer Quantenzahl, welche ja gleich n+1 ist, kombi-
+niert. — Für die senkrecht zum Feld schwingenden Kompo-
+nenten hat man g gleich x oder gleich y zu setzen, siehe
+Gleichung (32), Hier tritt cos @ bzw. sin p auf und man er-
+kennt fast ebenso leicht, wie früher, daß die n-Werte der
+beiden kombinierten Eigenfunktionen sich genau um eine Ein-
+heit unterscheiden müssen, wenn die Integration über dy ein
+nichtverschwindendes Ergebnis liefern soll. Damit sind die
+bekannten Auswahl- und Polarisationsregeln bewiesen. Ferner
+sei hier nochmals daran erinnert, daß wir keinen n-Wert durch
+eine Zusatzüberlegung auszuschließen brauchen, wie es in der
+älteren Theorie nötig war, um Übereinstimmung mit der Er-
+fahrung zu erzielen. Unser n ist um 1 kleiner als die äqua-
+toriale Quantenzahl und ist schon von Haus aus keiner nega-
+tiven Werte fähig. (Ganz derselbe Sachverhalt liegt bekanntlich
+auch in der Heisenbergschen Theorie vor.!)
+
+Die numerische Ausrechnung der in (65) auftretenden
+Integrale über dA, und dA, ist außergewöhnlich langweilig,
+
+1) W. Pauli jun., Ztschr. f. Phys. 36. S. 336. 1926.
+
+--- Page 31 ---
+Quantisierung als Pigenwertproblem 467
+
+besonders im Zähler. Es tritt derselbe Rechenapparat in
+Funktion, der schon zur Ausrechnung von (52) diente, nur
+liegt die Sache jetzt dadurch etwas umständlicher, daß die
+beiden (verallgemeinerten) Laguerreschen Orthogonalfunk-
+tionen, über deren Produkt zu integrieren ist, nicht das gleiche
+Argument haben. Zum guten Glück ist für die Balmerlinien,
+die hauptsächlich interessieren, das eine der beiden Polynome
+L, Fr nämlich das auf den zweiquantigen Zustand bezügliche,
+stets entweder eine Konstante oder eine lineare Funktion
+seines Arguments. Der Weg, auf dem gerechnet wurde, ist
+etwas genauer im mathematischen Anhang beschrieben. Die
+folgenden Tabellen und Schaubilder geben die Resultate für
+die ersten vier Balmerlinien im Vergleich mit den bekannten
+Messungen und Intensitätsschätzungen, die Stark bei einer
+Feldstärke von rund 100000 V/cm ausgeführt hat.!) Die erste
+Spalte bezeichnet den Polarisationszustand, die zweite die Term-
+kombination in der üblichen Bezeichnungsweise; d. h. in unseren
+Zeichen: die Zahlentripel (%,, %,, ” + 1) und zwar bezieht sich
+das erste Tripel auf den höherquantigen, das zweite auf den
+zweiquantigen Zustand. Die dritte, mit 4 überschriebene
+Spalte gibt die Termaufspaltung in Vielfachen von 3R? F/8n®?me,
+8. Gleichung (62). Die nächste Spalte gibt die von Stark
+beobachteten Intensitäten, wobei 0 bedeutet: nicht beobachtet.
+Die Fragezeichen hat Stark zu solchen Linien gesetzt, die
+entweder mit fremden Linien oder mit möglichen „Geistern“
+kollidieren und daher nicht garantiert werden können. Wegen
+ungleich starker Schwächung der beiden Polarisationszustände
+in Spektrographen sind, nach Stark, seine Angaben für die ||
+und für die | schwingenden Komponenten untereinander nicht
+direkt vergleichbar. Die letzte Spalte endlich gibt die Ergeb-
+nisse unserer Berechnung, und zwar in Relativzahlen, welche
+für die sämtlichen ( | - und _L-Komponenten) einer Linie, z. B.
+von H,, vergleichbar sind, dagegen nicht von H, zu H, usw.
+Diese Relativzablen sind auf ihre Kleinsten ganzzahligen Werte
+gebracht d. h. die Zahlen in jeder der vier Tabellen sind
+unter sich teilerfremd.
+
+1) J. Stark, Ann. d. Phya. 48. 8. 198. 1915.
+
+--- Page 32 ---
+468 E. Schrödinger
+
+Intensitäten im Starkeffekt der Balmerlinien.
+
+Tabelle 1
+H,
+Polarisation | Kombination 4 | Intens. beob. | Intene. ber.
+(111) (011) 2 \ ı 129
+(102) (002) 3 11 2304
+u (201) (101) 4 12 1681
+(201) (011) 8 {ü 1
+Summe: 4715
+(008) (002) | ON ge 4608
+(11) (002) 0 ’ 882
+1 (102) (101) 1 ! 1 1936
+(102) (011) 5 i v 16
+(201) (002) 6 | 0 18
+Summe); 4715
+Tabelle 2
+B5
+Polarisation | Kombination | 4 Intens. beob. | Intens. ber.
+(112) 002) | 0 1,4 0
+(211) (101) 2 12 9
+— (4) 1 0
+f (211) (011) 6 4,8 i 8
+(202) (002) 8 91 384
+(801) (101) 10 11,5 361
+_ (12} 1 0
+(301) (011) 14 0 1
+
+(112) (011) 2 3,3 12
+
+(103) (002) 4 12,8 384
+
+ı (211) (002) 4 ’ 12
+(202) (101) 6 9,7 294
+
+_ [C) 1,8 {)
+
+9 (0) | » 1,1? 6
+
+| (801) (002) | 12 ! 1? 8
+Summe: 836
+
+1) Unverschobene Komponente halbiert!
+
+--- Page 33 ---
+Quantisierung als Eigenwertproblem 469
+Tabelle 8
+E— Hr -
+Polarisstion | Kombination | 4 Intens. beob, | Intens. ber.
+(221) (011) 2 1,6 15 625
+(212) (002) 5 15 19 200
+(811) (101) 8 1 1521
+N (811) 011) 12 2,0 16 641
+(802) (002) 15 72 115 200
+(401) (101) 18 10,8 131 769
+(401) (011) 22 1? 129
+Summe: 300 685
+(113) (002) 0 12 115 200
+(221) (002) 0 ‚ 26 450
+(212) (101) 8 8,2 46 128
+(212) (011) 7 1,2 5.808
+I (208) (002) 10 43 716 800
+(311) (002) 10 ‚ 11250
+(302) (101) 13 6,1 88 232
+(802) (011) 17 11 2592
+(401) (002) 20 1 4050
+Summe'): 800685
+Tabelle 4
+#5
+Polarisation | Kombination 4 Intens. beob. | Intens. ber.
+(222) (002) {) 0 0
+(821) (101) 4 1 8
+(321) (011) 8 1,2 32
+(812) (002) 12 1,5 72
+1) (411) (101) 16 1,2 18
+(411) (011) 20 11 18
+(402) (002) 24 2,8 180
+(01) (101) 28 7,2 242
+(501) (011) 32 1? 2
+— hl
+Summe: 572
+(222) (011) 2 1,3 36
+(218) (002) 6 32 182
+(321) (002) 6 ’ 36
+(312) (101) 10 2,1 98
+ı (312) (011) 14 1 2
+(303) (002) 18 20 90
+(411) (002) 18 ‚ 9
+(402) (101) 22 2,4 125
+(402) (011) 26 1,8 5
+(501) (002) 30 1? 9
+| Summe: 572
+1) Unverschobene Kompon „te halbiert!
+Annalen der Physik. IV. Folge. &. 31
+
+
+--- Page 34 ---
+470 E. Schrödinger
+
+Zu den Schaubildern ist zu bemerken, daß wegen der un-
+geheuren theoretischen Intensitätsunterschiede einige theore-
+tische Intensitäten nicht im Maßstab richtig wiedergegeben
+
+exp. | |
+32 234
+theor. |
+| | |
+«32 23% 3
+AH, |-Komponenten
+Fig. 1
+exp. | |
+07T
+‚Pheor.
+65 vo? 36
+
+H„ 1-Komponenten
+Fig. 2
+werden konnten, weil sie viel zu klein sind. Solche sind durch
+kleine Kreise angedeutet, j
+Eine Betrachtung der Schaubilder zeigt, daß die Über-
+einstimmung bei fast allen kräftigen Komponenten eine ziem-
+
+--- Page 35 ---
+Quantisierung als Bigenwertproblem 41
+
+lich gute ist, alles in allem genommen wohl etwas besser als
+die seinerzeitige Abschätzung aus korrespondenzmäßigen Be-
+trachtungen.!) So ist z. B. einer der ernsthaftesten Wider-
+sprüche beseitigt, der darin bestand, daß das Korrespondenz-
+
+S ox
+
+nn EN
+n—8 "R
+_o
+—- 0 — 0 8
+Ds ———r 3
+8
+a ——N ER
+—ü. Eo
+—n —ı ME
+> | mm  — — ————— 4
+a
+“ —cıh
+_»
+x
+$ 8-8 S
+EN SIR N S
+or
+N
+SQ —— tr
+ES —o
+o —01
+&
+_.\ 1-1
+©
+_n N:
+u.
+s ER}
+_n ng
+_. =
+o —sHN
+E35 —s
+8 ur
+m _ N S
+Q S N
+3 &
+
+prinzip die beiden kräftigen _-Komponenten von A, in den
+Abständen 4 = 4 bzw. 6 gerade im verkehrten Intensitäts-
+verhältnis geliefert hatte, und zwar sehr extrem, fast 1:2,
+während das Experiment rund 5:4 verlangt. Ähnlich stand
+es mit der experimentell weitaus überwiegenden mittleren
+
+)) H. A. Kramers, Dänische Akademie (8) III, 3. S. 333. 1919.
+31*
+
+--- Page 36 ---
+412
+
+exp.
+
+©
+
+2 BR TR
+
+fheor.
+
+ZB BS RR
+
+exp.
+
+207
+
+FhEOr.
+
+27
+
+30
+
+23
+
+u
+
+|
+8 5
+f
+il
+
+EB. Schrödinger
+
+I I |
+2 2.5
+|-Komponenten
+Fig. 5
+
+#,
+
+'
+
+7 3.03
+
+H, ı-Komponenten
+Fig. 6
+
+1
+7
+
+w—
+
+26
+2BR
+nn h Ä
+2» Bm 2
+
+22
+
+&
+
+--- Page 37 ---
+Quantisierung als Eigenwertproblem 413
+
+exp
+
+l | |
+
+ZB HM ENRE 4 “IRB WAR
+theorer.
+
+an) I. En 4 ’
+RBHDOEREH #ERTKEMW AMBEN
+H, ||-Komponenten
+Fig. 7
+ex2.
+
+e
+
+||
+BE H0
+
+R
+
+llıllıııl
+
+WERBHmRELTLEEMMRB 2
+
+theorek.
+
+Il s u
+
+DREBÄENEZZEEHÄRELEH
+H, 1-Komponenten
+Fig. 8
+
+--- Page 38 ---
+474 # Schrödinger
+
+(4=0) 1L-Komponente von H,, die das Korrespondenzprinzip
+viel zu schwach lieferte. — Auch i in unseren Schaubildern fehlt
+es freilich nicht ganz an derartigen „Reziprozitäten“ zwischen
+dem von der Theorie und vom Experiment geforderten Intensi-
+tätsverhältnis intensiver Komponenten. Am empfindlichsten
+stört die theoretisch intensivste || - Komponente (4 = 3) von H,
+welche dem Experiment nach an Stärke zwischen ihren Nach-
+barn stehen sollte. Auch die zwei stärksten || - Komponenten
+von H, und zwei ı -Komponten von H, (4 = 10, 13) liefert die
+Theorie „reziprok“, allerdings liegt in beiden Fällen das Stärke-
+verhältnis sowohl experimentell wietheoretisch ziemlich nahe an 1.
+
+Zu den schwächeren Komponenten übergehend bemerkt
+man erstens, daß selbstverständlich der Widerspruch, in dem
+einige schwache beobachtete Komponenten von H, zur Aus-
+wahl-Polarisationsregel steben, auch nach der neuen Theorie
+erhalten bleibt, da diese ja die genannte Regel konform mit
+der älteren Theorie liefert. Im übrigen aber sind theoretisch
+extrem schwache Komponenten meistens nicht oder fraglich
+beobachtet. — Das Stärkeverhältnis schwacher Komponenten
+unter sich oder zu starken trifft die Theorie fast niemals auch
+nur angenähert richtig, man vergleiche besonders H, und H,
+Derartig starke Fehler bei der Bestimmung der Schwärzungen
+sind natürlich gänzlich ausgeschlossen.
+
+Nach alledem könnte man geneigt sein über die These,
+daß die Integrale (65) bzw. ihre Quadrate ein Maß der
+Intensität sind, doch noch recht skeptisch zu urteilen. Ich
+möchte nichts weniger denn diese These als unumstößlich
+hinstellen, es sind noch mancherlei Abänderungen denkbar
+und könnten wohl bei der Weiterbildung der Theorie aus
+inneren Gründen gefordert werden müssen. Immerhin sei an
+folgendes erinnert. Unsere ganze Rechnung ist durchgeführt
+mit den ungestörten Eigenfunktionen, präziser ausgedrückt mit
+den gestörten Eigenfunktionen nuilter Näherung (vgl. oben $ 2).
+Sie stellt also nur eine Näherung für verschwindende Feldstärke
+dar! Nun ist aber gerade für die schwachen oder gar ver-
+schwindenden Komponenten ein ziemlich starkes Anwachsen
+mit zunehmender Feldstärke theoretisch zu erwarten und zwar
+aus folgendem Grund. Nach der am Eingang dieses Para-
+graphen dargelegten Auffassung der Wellenmechanik stellen
+
+--- Page 39 ---
+Quantisierung als Eigenwertproblem 475
+
+die Integrale (65) die Amplituden der elektrischen Partial-
+nıomente dar, die von den den Kern im Atombereich um-
+Autenden Elektrizitätsmengen erzeugt werden. Wenn sich nun
+für eine Linienkomponente in nullter Näherung eine sehr ge-
+ringe oder gar eine verschwindende Intensität ergibt, so hat
+das nicht etwa darin seinen Grund, daß dem Zusammen-
+bestehen der beiden Eigenschwingungen nur eine gering-
+fügige oder gar keine Elektrizitätsbewegung entspricht; die
+schwingende Elektrizitätsmenge — wenn der verschwommene
+Ausdruck gestattet ist — dürfte gerade auf Grund der Nor-
+mierung in allen Komponenten als die gleiche zu bezeichnen
+sein. Vielmehr ist der Grund für die geringe Linienintensität
+ein hoher Grad von Symmetrie der Elektrizitätsbewegung, wo-
+durch nur ein kleines oder gar kein Dipolmoment (sondern z. B.
+nur ein Quadrupolmoment) zustande kommt. Daher ist zu
+erwarten, daB das Verschwinden einer Linienkomponente gegen-
+über Störungen irgendwelcher Art ein verhältnismäßig labiler
+Zustand ist, da durch die Störung wahrscheinlich die Sym-
+metrie aufgehoben werden wird. Und so ist zu erwarten, daB
+schwache oder verschwindende Komponenten mit wachsender
+Feldstärks rasch’ an Intensität gewinnen.
+
+Eben dieses wird nun auch wirklich beobachtet und zwar
+ändern sich schon von einer Feldstärke von etwa 10000 Gauss
+an die Intensitätsverhältnisse ganz bedeutend mit der Feld-
+stärke; wenn ich recht verstehe, gerade in dem aus dem vor-
+stehenden allgemeinen Überlegungen folgenden Sinn.) Sicheren
+Anfschluß, ob dies wirklich die Erklärung der auftretenden
+Diskrepanzen gibt, könnte natürlich nur die Fortführung der
+Rechnung in die nächste Näherung geben, die aber sehr mühsam
+und umständlich ist.
+
+Die vorstehenden Betrachtungen sind selbstverständlich
+nichts weiter als die „Übersetzung“ sehr wohlbekannter Be-
+trachtungen, die Bohr”) an die korrespondenzmäßige Be-
+rechnung von Linienintensitäten geknüpft hat, in die Sprache
+der neuen Theorie.
+
+Die in den Tabellen angegebenen theoretischen Intensitäten
+erfüllen eine fundamentale Forderung, die nicht nur rein ge-
+
+1) J. Stark, Ann. d. Phys. 43. 8. 1001f. 1914.
+
+2) N. Bohr,. Dänische Akademie (8) IV. 1. 1. S. 35. 1918.
+
+--- Page 40 ---
+4716 E. Schrödinger
+
+füblsmäßig sondern auch vom Experiment aus?) zu stellen ist:
+die Summe der Intensitäten für die ||-Komponenten ist gleich
+derjenigen für die ı-Komponenten. (Vor dem Zusammen-
+zählen müssen wnverschobene Komponenten halbiert werden —
+als Ersatz für die Ferdoppelung aller übrigen, die ja beider-
+seits auftreten, Das bildet eine sehr willkommene Kontrolle
+der Ziffernrechnung.
+
+Es ist noch von Interesse, die Gesamtintensitäten der vier
+Linien auf Grund der in den Tabellen angegebenen vier
+„Summen“ zu vergleichen, Ich entnehme dazu aus meiner
+Zifferurechnung die vier Faktoren, die fortgekürzt wurden, um
+die Intensitätsverhältnisse innerhalb jeder der vier Linien-
+gruppen durch möglichst kleine ganze Zahlen darzustellen, und
+multipliziere damit. Ferner multipliziere ich noch jedes dieser
+vier Produkte mit der vierten Potenz der zugehörigen Emissions-
+frequenz. So erhalte ich folgende vier Zahlen:
+
+für H,... 57 = 0,003433...
+
+4.11.19
+für A... = 0,001573 ...
+
+für u,.. NET _ 0,0008812...
+
+BT
+
+für H,... 2% = 0,000489 ...
+
+Ich gebe diese Zahlen aber mit noch viel größerer Reserve
+an als die früheren, weil mir die eben erwähnte vierte Potenz
+der Linienfreguenz theoretisch nicht gesichert scheint. Über-
+legungen, die ich neulich mitgeteilt habe?), würden vielleicht
+eher für die sechste sprechen. Die obige Berechnungsweise
+
+1) J. Stark, Ann. d. Phys. 43. $. 1004. 1914.
+
+2) Ann. d. Phys. 79. 8.755, Gleichung (88). — Die vierte Potenz
+trägt dem Umstand Rechnung, daß es für die Strahlung auf das Quadrat
+der Beschleunigung, nicht des elektrischen Momentes selbst ankommt.
+In der ebenzitierten Gleichung (38) kommt noch ein weiterer Faktor
+(Eı — E„)/h explizite vor. Herbeigeführt ist dies durch das Auftreten
+von d/dt in dem dortigen Ansatz (86), Zusatz bei der Korrektur:
+Unterdessen habe ich dieses d/ö t, durch das ich die spätere relativietische
+Veraligemeinerung zu erleichtern hoffte, als fehlerhaft erkannt. Ansatz (36)
+a.2.0. ist durch y99 zu ersetzen. Die obigen Zweifel an der werten
+Potenz fallen daher weg.
+
+--- Page 41 ---
+Quantisierung als Eigenwertproblem 477
+
+entspricht genau den Annahmen von Born, Jordan und
+Heisenberg.!) Fig. 9 gibt ein Schaubild.
+
+Zum Vergleich mit der Erfahrung können in diesem Falle
+natürlich nicht wirklich gemessene Intensitäten von Emissions-
+linien herangezogen werden, die bekanntlich sehr stark von
+den Anregungsbedingungen abhängen. R. Ladenburg und
+F. Reiche?) berechnen aus Ladenburgschen Versuchen °)
+über die Dispersion und Magnetorotation in der Umgebung
+
+Tr
+
+Ha A Hz #
+Gesamtintensitäten
+Fig. 9
+
+von H, und H, für das Verhältnis der sogenannten „Elektronen-
+zahlen“ dieser beiden Linien den Wert 4,5 (äußerste Grenzen 3
+und 6). Wenn ich annehme, daß die obigen Zahlen pro-
+portional zu setzen sind mit Ladenburgs‘)
+
+I
+> ge Po
+
+so sind sie auf (relative) „Elektronenzahlen“ zu reduzieren
+durch Division mit »,°, d.h. mit bzw.
+
+I
+
+1) Vgl.M. Born und P. Jordan, Ztschr. f. Phys. 34. S. 887. 1925.
+
+2) R. Ladenburg und F. Reiche, Die Naturwissenschaften 1923.
+8. 584.
+
+3) B. Ladenburg, Ann. d. Phya. (4) 38, S. 249. 1912.
+
+4) Vgl. Ladenburg-Reiche a. a. O., erste Formel in der zweiten
+Spalte 8.584. Der Faktor », im obigen Ausdruck rührt daher, daß die
+„Übergangswahrscheinlichkeit“ a,, noch. mit dem „Energiequant“ zu
+multiplizieren ist, um die Strablungsintensität zu erhalten.
+
+--- Page 42 ---
+4718 E. Schrödinger
+
+Dadurch erhält man die vier Zahlen
+
+1,281, 0,2386, 0,08975, 0,04418
+Das Verhältnis der ersten zur zweiten ist 5,37 in hinreichender
+Übereinstimmung mit Laden burgs Schätzung.
+
+85. Behandlung des Starkeffekts nach der Methode,
+die der Bohrschen entspricht
+
+Hauptsächlich um ein Beispiel zur allgemeinen Störungs-
+theorie von $ 2 zu geben, möchte ich die Behandlung des
+Eigenwertproblems der Gleichung (32) skizzieren, die man
+wählen müßte, wenn man nicht bemerkt, daß in parabolischen
+Koordinaten auch die gestörte Gleichung exakt „separierbar“
+ist. Wir bleiben also jetzt bei Polarkoordinaten r, 9, 9, er-
+setzen demgemäß z durch r cos, führen aber für r durch die
+Transformation
+
+(66) uy-mEn,
+
+(welche der Transformation (46) für die parabolische Ko-
+ordinate £ sehr analog ist) die neue Variable 7 ein. Für einen
+der ungestörten Eigenwerte (45) ergibt (66)
+
+1 2
+(66) n= Im
+wo a, dieselbe Konstante wie in (68) („Radius der innersten
+Wasserstoffbahn“). Führt man dies und den ungestörten Eigen-
+wert (45) in die zu behandelnde Gleichung (32) ein, so er-
+hält man
+
+, 1 IN, _
+(67) 1y+[-4-gn0s8+—)y=0
+mit der Abkürzung
+
+ı FB
+(68) 9:
+
+Der Apostroph am Laplaceschen Operator soll einfach nur
+andeuten, daß darin für den Radiusvektor der Buchstabe 7 zu
+schreiben ist.
+
+In der Gleichung (67) fassen wir I als Eigenwert, das Glied
+mit g als das Störungsglied auf. Daß das Störungsglied den
+Eigenwert enthält, braucht uns in der ersten Näherung nicht
+zu kümmern. Bei Vernachlässigung des Störungsgliedes hat
+die Gleichung zu Eigenwerten die natürlichen Zahlen
+(69) l=1,23, 3,4...
+
+--- Page 43 ---
+Quantisierung als Eigenwertproblem 478
+
+und keme anderen. (Das Streckenspektrum ist wieder durch
+
+den Kunstgriff (66) beseitigt, was für höhere Näherungen wert-
+
+voll wäre) Die zugehörigen (noch nicht normierten) Figen-
+funktionen sind:
+
+B
+
+3
+
+(70) Yınn = Pas lmp) me Tr m.
+
+n+L
+Hier bedeutet P” die m-te „zugeordnete“ Kugelfunktion n-ter
+Ordnung, It ist die 2n + 1-te Derivierte des rn + ten
+
+Laguerreschen Polynoms.!) Es muß
+n<l1,
+sonst verschwindet er ‚ weil die Anzahl der Differentia-
+tionen höher wird als der Grad. Mit Rücksicht darauf ergibt
+die Abzählung der Kugelflächenfunktionen, daß ! ein /?-facher
+Kigenwert der ungestörten Gleichung. Wir studieren jetzt die
+Aufspaltung eines bestimmten, im folgenden stets festgehaltenen 7
+bei Hinzufügung des Störungsgliedes.
+
+Dazu haben wirnach 82 erstens unsere Eigenfunktionen (70)
+zu normieren. Durch eine uninteressante Rechnung, welche
+an der Hand der Formeln des Anhangs leicht auszuführen ist?)
+orhält man als Normierungsfaktor
+
+2n+i nV U-n-n!
+
+I a
+
+wenn 0 für m=0 dagegen einen Y2 mal kleineren
+Wert. — Zweitens haben wir die symmetrische Konstanten-
+matrix der e;„ nach (22) zu berechnen. Das dortige r ist mit
+unserer Störungsfunktion — g7°cos Fsin # zu identifizieren 9),
+die Eigenfunktionen, dort u,;, mit unseren Funktionen (70),
+und zwar entspricht dem dortigen festen Index A, der den
+Eigenwert charakterisiert, der erste Index / von %,, „, während
+dem dortigen zweiten Index i von w,, jetzt das Indexpaar n, m
+in %,,„ entspricht. Die Konstantenmatrix (22) bildet in unserem
+
+1) Die Eigenfunktionen (70) hatte ich neulich (Ann. d. Phys. 79.
+S. 361. 1926) angegeben, ohne ihren Zussmmenhang mit den Laguerre-
+schen Polynomen zu bemerken. Für den Beweis obiger Darstellung vgl.
+den Mathematischen Anhang Ziff. 1.
+
+2) Es ist zu beachten, daß die Dichiefunktion, allgemein o(w),
+in der Gleichung (67) 7sin® lautet, weil die Gleichung mit z’sin$
+multipliziert werden muß, um selbstadjungierte Gestalt zu erhalten.
+
+--- Page 44 ---
+480 E. Schrödinger
+
+Fall ein Quadrat von /? Zeilen und /? Kolonnen. Die Quadra-
+turen sind nach den Formeln des Mathematischen Anhangs
+leicht auszuführen und liefern folgendes Resultat. Von Null
+verschieden sind nur diejenigen Elemente der Matrix, für welche
+die zwei Eigenfunktionen ,„„, und m’ die kombiniert werden,
+gleichzeitig folgenden Bedingungen genügen:
+
+1. Die oberen Indizes der „zugeordneten Kugelfunktionen“
+müssen übereinstimmen: m = m‘.
+
+2. Die Ordnungen der beiden Kugelfunktionen müssen sich
+genau um eine Einheit unterscheiden: | — n|=1.
+
+3. Zu jedem Indextripel /nm gehören, wenn m + 0 ist,
+nach (70) noch zwei Kugelfunktionen, daher auch zwei Eigen-
+funktionen %,,„, die sich nur dadurch unterscheiden, daß die
+eine den Faktor cosmg, die andere den Faktor sinmg ent-
+hält. Die dritte Bedingung lautet nun: es darf nur sin mit
+sin, oder cos mit cos kombiniert werden, nicht kreuzweise.
+
+Die übrigbleibenden, nichtverschwindenden Elemente der
+gesuchten Matrix würden von Haus aus durch zwei Indexpaare
+{n, m) und (a+1,m) zu charakterisieren sein. (Auf die Er-
+sichtlichmachung des festen Index / verzichten wir) Da die
+Matrix symmetrisch ist, genügt aber ein Indexpaar (n, m), wenn
+wir festsetzen, daß der erste Index, d. i. der Index z, allemal
+die größere der beiden Ordnungen n, n’ bedeuten soll.
+
+Alsdann ergibt die Ausrechnung:
+
+Ft - m)
+(72) Ei Sa
+
+Aus diesen Elementen haben wir nun die Determinante (22)
+zu bilden. Es ist vorteilhaft, sowohl ihre Zeilen als auch ihre
+Kolonnen nach folgendem Prinzip zu ordnen. (Um die Ideen
+zu fixieren: sprechen wir von den Kolonnen, mithin von dem
+die erste der zwei Kugelfunktionen charakterisierenden Index-
+paar!) Also: zuerst kommen alle Glieder mit m = 0, dann
+alle Glieder mit m = 1, dann alle Glieder mit m= 2, usw.
+zuletzt alle Glieder mit m =! — 1, welches ja für m (ebenso
+wie für n) der größte Wert ist, den es annehmen kann. Inner-
+halb jeder Gruppe ordnen wir so: zuerst alle Glieder mit
+cosmy, dann alle Glieder mit sinmg. Innerhalb dieser „Halb-
+gruppen“ ordnen wir nach wachsendem n, welches dabei die
+
+--- Page 45 ---
+Quantisierung als Eigenwertproblem 481
+
+Wertereihe: m, m +1, m +2...1— 1 durchläuft, das sind
+(!— m) Werte.
+
+Führt man das so durch, so findet man, daß die nicht-
+verschwindenden Elemente (72) ausschließlich auf den zwei
+Nebendiagonalen angeordnet sind, welche die Hauptdiagonale
+unmittelbar flankieren. Überall sonst stehen Nullen und auf
+der Hauptdiagonale nur die zu berechnenden Eigenwert-
+störungen, negativ genommen. Es werden ferner auch die zwei
+genannten Nebendiagonalen an den Stellen, wo sie die Grenzen
+zwischen den oben genannten „Halbgruppen“ durchsetzen, in
+gefälliger Weise durch Nullen unterbrochen. Dadurch zerfällt
+die ganze Determinante in ein Produkt von ebenso viel kleineren
+Determinanten, als „Halbgruppen‘“ vorhanden sind. das sind
+2/— 1 Stück. Es genügt, uns mit einer von ihnen zu befassen,
+Wir schreiben sie hiemit an, wobei wir die gesuchte Eigen-
+wertstörung einfach mit & (ohne Index) bezeichnen:
+
+ce Em+i,m 0 0 0
+
+Em+i,m —& Emr2,m 0 0
+
+0 Em+2,m —: En+3,m 0
+
+(73) 0 0 Entsm  —E 0
+0 [0] 1] 0 . lm 8
+
+Dividiert man hier jedes Glied durch den gemeinsamen
+Faktor 627g der &,„, vgl. (72), und sieht für den Augenblick
+” 8
+(74) = — 89
+
+als Unbekannte an, so hat obige Gleichung (2 — m)-ten Grades
+die Wurzeln
+
+(5) k*=+li—-m-I1, Ll-m-3, +LZU-m-—Ö)...
+welche Reihe mit + 1 oder mit 0 (einschließlich) abbricht, je
+nachdem der Grad !— m gerade oder ungerade ist. Den Beweis
+dafür findet man — leider nickt im mathematischen Anhang,
+da er mir nicht gelungen ist.
+
+Bilden wir die Reihe (75) für jeden der Werte m = 0,
+1, 2...(2— 1) so haben wir in den Zahlen
+(76) e= — 6igk*
+
+
+--- Page 46 ---
+482 E. Schrödinger
+
+die Gesamtheit der auftretenden Störungen der Hauptquanten-
+zahl ! vor uns. Um die gestörten Eigenwerte Z (Termniveaus)
+der vorgelegten Gleichung (32) zu finden, haben nur noch (76),
+unter Rücksicht auf die Bedeutung der Abkürzungen g nach
+(68) und a, nach (63), einzutragen in
+
+Antm et
+u) PEgee a7
+Man findet nach Reduktion
+2nim e* 3 htFik*
+(18) Em Gen TE ame
+
+Der Vergleich mit (62) zeigt, daß %* die Differenz der parabo-
+lischen Quantenzahlen A, — 4, ist. Nach (75) und mit Rück-
+sicht auf den eben vorhin erwähnten Wertebereich von m ist
+r%* auch wirklich eben derselben Werte fähig wie die eben-
+genannte Differenz, nämlich der Werte 0,1,2...(/— 1) Auch
+für die Fielfachheit, in der A* und die Differenz A, — k, auf-
+tritt, findet man, wenn man sich die Mühe nehmen will, sie
+zu überlegen, selbstverständlich denselben Wert, nämlich 2— |A*|.
+
+Wir haben damit die Eigenwertstörungen erster Ordnung
+auch aus der allgemeineren Theorie errechnet. Der nächste
+Schritt wäre nun die Auflösung des linearen Gleichungs-
+systems (21’) der allgemeinen Theorie nach den x-Größen.
+Diese würden dann nach (18) (vorläufig mit 2 = 0) die gestörten
+Eigenfunktionen nullter Ordnung liefern, das heißt aber na-
+türlich gar nichts anderes denn eine Darstellung der Eigen-
+funktionen (64) als lineare Formen der Eigenfunktionen (70),
+Die Auflösung von (21’) würde in unserem Falle natürlich
+nichts weniger als eindeutig sein, wegen der erheblichen Viel-
+fachheit der Wurzeln e Die Auflösung vereinfacht sich er-
+heblich durch die Bemerkung, daß die Gleichungen in ebenso
+viele, nämlich in 2! — 1, Gruppen, oder, um den oben gewählten
+Ausdruck beizubehalten, Halögruppen mit völlig getrennten
+Variablen zerfallen, als die oben untersuchte Determinante
+Faktoren von der Art (73) besitzt; und durch die weitere Be-
+merkung, daß es gestattet ist, nach Wahl eines bestimmten
+&-Wertes bloß die Variablen x einer einzigen Halbgruppe als
+von Null verschieden anzusehen, und zwar einer solchen, deren
+Determinante (73) für den gewählten s-Wert verschwindet. Die
+Bestimmung dieser Halbgruppe von Variablen wird dann eindeutig.
+
+--- Page 47 ---
+Quantisierung als Eigenwertproblem 483
+
+Aber dem Zweck, die allgemeine Methode von 8 2 durch
+ein Beispiel zu erläutern, ist jetzt wohl genüge geschehen. Da
+die Fortsetzung der Rechnung kein besonderes physikalisches
+Interesse bietet, babe ich mich nicht weiter bemüht, die De-
+terminantenquotienten, als welche die Koeffizienten x sich un-
+mittelbar darbieten, in eine übersichtlichere Gestalt zu bringen
+oder die Hauptachsentransformation auf andere Weise zu be-
+werkstelligen.
+
+Im ganzen wird man sagen müssen, daß im vorliegenden
+Fall die Methode der säkularen Störungen ($ 5) erheblich um-
+ständlicher ist als die direkte Verwendung eines Separations-
+systems ($ 3). Ich glaube, daß dies auch für andere Fälle
+Geltung haben dürfte. In der gewöhnlichen Mechanik ist es
+bekanntlich im allgemeinen umgekehrt.
+
+IIL Mathematischer Anhang
+
+Vorbemerkung: Es ist nicht beabsichtigt, hier alle Rech-
+nungen, die im Text unterdrückt wurden, lückenlos im Detail
+nachzutragen. Auch ohne das ist die vorliegende Note leider
+schon allzusehr angeschwollen. Es sollen hauptsächlich nur
+die Rechenmethoden kurz beschrieben werden, die ein anderer
+zu ähnlicher Arbeit mit Vorteil gebrauchen kann, falls ihm
+nicht — was sehr wohl möglich ist — bessere in den Sinn
+kommen.
+
+1. Die verallgemeinerten Laguerreschen Polynome und
+Orthogonalfunktionen
+
+Das A-te Laguerresche Polynom Z,(z) genügt der Diffe-
+rentialgleichung')
+101) zy+l—-Dy+thy=0.
+Ersetzen wir hier zuerst k durch r + % und differentieren wir
+dann n-mal, so finden wir, daß die a-te Derivierte des n + k-ten
+Laguerreschen Polynoms, die wir stets mit ZU ;.„ bezeichnen,
+der Gleichung genügt
+
+(102) sy’ +a+1l-Jy+hy=0.
+
+1) Courant-Hilbert, Kap. II. 8 11, 5. $. 78. Gleichung (72).
+
+--- Page 48 ---
+484 E. Schrödinger
+
+Ferner findet man durch leichte Transformation für e ? L}, „(z)
+die Gleichung gültig
+
+ao y+rty+[-5+@+27) 497-0,
+
+was im 8 3, nach Gleichung (41”, Verwendung fand. Die zu-
+gehörigen verallgemeinerten Laguerreschen Orthogonalfunk-
+
+tionen sind
+n
+
+(104) te ? 25, ,@)-
+Ihre Gleichung ist (beiläufig bemerkt) folgende
+
+3
+a0) v+zy+[-4+ ar 4) )y=0.
+Wir wenden uns der Gleichung (103) zu. Betrachten wir darin
+n als festgegebene (reelle) ganze Zahl, kA als Eigenwertpara-
+meter, so hat nach dem Gesagten die Gleichung im Grund-
+gebiet 2>0 jedenfalls die Eigenfunktionen
+
+(106) eTır,,@
+zu den Eigenwerten
+(107) k=0,1,23,3,...
+
+Im Text ist behauptet worden, daß sie keine weiteren, vor
+allem, daß sie kein Streckenspektrum besitzt. Das scheint
+paradox, denn die Gleichung
+
+(108) ze + = a h “ BER FT +4)3
+in welche (108) durch ie Substitution
+(109) = (+44):
+übergeht, Besitzt ein Streckenspektrum, wenn man darin
+(110) E=—
+
+=0,
+
+1
+@kHn+ı%
+als Eigenwertparameter auffaßt; nämlich alle positiven Werte
+von E sind Eigenwerte (vgl. „Erste Mitteilung“, Analyse der
+dortigen Gleichung (7)).
+
+Daß nun aber diesen positiven #-Werten keine Eigen-
+werte k von (103) entsprechen können, folgt aus dem Umstand,
+daß die betreffenden A-Werte ja nach (110) Aompler ausfallen
+
+--- Page 49 ---
+Quantisierung als Eigenwertproblem ABB
+
+würden, was nach allgemeinen Sätzen!) unmöglich ist. Jeder
+reelle Eigenwert von (103) gibt nach (110) zu einem negativen
+Eigenwert von (108) Anlaß, Ferner weiß man (vgl. „Erste
+Mitteilung“), daß (108) keine anderen negativen Eigenwerte
+besitzt, als genau diejenigen, die nach (110) aus der Zahlen-
+menge (107) entspringen. Es bliebe also nur noch die eine
+Möglichkeit, daB in der Reihe (107) gewisse negative A-Werte
+fehlen, die beim Auflösen von (110) nach k wegen der Doppel-
+deutigkeit beim Wurzelausziehen auftreten. Aber auch das
+ist unmöglich, denn die betreffenden A-Werte fallen algebraisch
+
+kleiner aus als — +1 und können daher nach allgemeinen
+
+Sätzen?) nicht Eigenwerte von Gleichung (103) sein. Die Eigen-
+wertreihe (107) ist also vollständig, w. z. b. w.
+
+Das Vorstehende dient auch zum Nachtrag des Beweises,
+daß die Funktionen (70) die Eigenfunktionen von (67) (mit
+Unterdrückung des Störungsgliedes) zu den Eigenwerten (69)
+sind, Man hat nur die Lösungen von (67) als Produkt einer
+Funktion von 9, 9 und einer Funktion von 7 anzusetzen.
+Die Gleichung in 7 kann leicht auf die Form (105) gebracht
+werden, das einzig besondere ist, daß unser hiesiges n dort
+stets eine ungerade Zahl, nämlich das dortige 2n +1 ist.
+
+2. Bestimmte Integrale über Produkte zweier Laguerresoher
+Orthogonalfunktionen
+Die Laguerreschen Polynome können in folgender Weise
+als Koeffizienten der Reihenentwicklung einer sogenannten
+„erzeugenden Funktion“ der Hilfsvariablen £ zusammengefaßt
+werden):
+xt
+
+< dr et
+an) PA
+
+Ersetzen wir hier zuerst A durch rn + k und differentieren so-
+dann n-mal nach x, so erhalten wir die erzeugende Funktion
+unserer verallgemeinerten Polynome
+
+1) Courant-Hilbert, Kap. III. 84, 2. 8. 115.
+
+2) Courant-Hilbert, Kap. V. 35,1. 8. 240.
+
+8) Courant-Hilbert, Kap. IL $ 11,5. 8.78, Gleichung (68).
+Annalen der Physik, IV. Folge. 80. 32
+
+--- Page 50 ---
+486 E. Schrödinger
+
+n Fi n e
+
+(112) re) Para
+k=0
+
+Um nun mit ihrer Hilfe solche Integrale auszuwerten, wie sie
+im Text zum erstenmal in dem Ausdruck (52) auftreten, oder
+allgemeinere, wie sie im $ 4 bei der Auswertung von (65) und
+ebenso wieder im 8 5 benötigt werden, verfahren wir folgender-
+maßen. Wir schreiben (112) ein zweites Mal an, wobei wir
+aber sowohl den festen Index n als auch den laufenden Index %
+mit einem Strich versehen und die Unbestimmte £ durch s
+ersetzen. Diese zwei Gleichungen multiplizieren wir ineinander,
+die linke mit der linken, die rechte mit der rechten Seite.
+Alsdann multiplizieren wir noch mit
+
+us) are
+
+und integrieren nach x von O bis oo. p soll — für unsere
+Zwecke genügt das — eine positive ganze Zahl sein. Die
+Integration ist rechter Hand elementar ausführbar und man
+erhält:
+
+—. n
+(119) SS ren mr air, „ade=
+
+= ( 1ptn pi Are
+( r U-tgr-}
+
+Da bat man nun links die gesuchten Integrale aufgereiht wie
+an einer Perlenschnur und hat bloß das jeweils benötigte ab-
+zulösen, indem man rechts den Koeffizienten von 2*s* aufsucht.
+Dieser Koeffizient ist stets eine einfache Summe und zwar in
+den Fällen, die im Text vorkommen, stets eine endliche Summe
+mit nur ganz wenigen Gliedern (bis zu drei), Allgemein er-
+gibt sich
+
+fr 2,1, „@dr=pim+ him + Kl:
+
+(115) ar
+
+"DI (- IerwereneedT ECHT)
+
+T=0.
+
+--- Page 51 ---
+Quantisierung als Eigenwertproblem 487
+
+Die Summe bricht nach der nichtgrößeren der beiden Zahlen
+k, X ab, sie beginnt in Wirklichkeit oft erst bei einem posi-
+tiven z, da Binomialkoeffzienten, deren untere Zahl die obere
+übersteigt, verschwinden. Beispielsweise ist für das Nenner-
+integral von (52) zu setzen: p=n'=n und #= 4. Dann darf
+z nur den einen Wert k annehmen und man bestätigt die An-
+gabe (55) des Textes. Für das Zählerintegral in (52) hat bloß p
+einen anderen Wert, nämlich 7=n+2. r hat jetzt die
+Werte k—2, k— 1 und A anzunehmen und man erhält nach
+sehr leichter Reduktion die Formel (54) des Textes. — In ganz
+derselben Weise werden auch. die im $ 5 auftretenden Inte-
+grale mit Laguerreschen Funktionen ausgewertet.
+
+Integrale vom Typus (115) können wir also jetzt als be-
+kannt ansehen und haben uns nur noch mit dem in $ 4 bei
+der Berechnung der Intensitäten auftretenden Fall zu be-
+schäftigen (vgl. den Ausdruck (65) und die darin einzutragenden
+Funktionen (64)), daß die beiden Laguerreschen Orthogonal-
+funktionen, über deren Produkt zu integrieren ist nicht dasselbe
+Argument haben, sondern wie dort z. B. die Argumente A, /la,
+und A,/’a,, wo ! und 7 die Hauptquantenzahlen der beiden
+Niveaus sind, die wir kombiniert haben. Als allgemeinen
+Typus betrachten wir das Integral
+
+er, ’
+(116) I [#e ? L* „la2) IN, ,„{B2) de.
+
+n+k n
+
+Da kann man nun äußerlich auf verschiedene Art vorgehen.
+Erstens läßt sich das frühere Verfahren glatt übertragen, nur
+tritt auf der rechten Seite von (114) dann ein etwas kompli-
+zierterer Ausdruck auf, nämlich im Nenner die Potenz eines
+Quadrinoms statt, wie dort, eines Binoms.. Und das macht
+die Sache etwas unübersichtlich, denn auf der rechten Seite
+von (114) erscheint dann statt der dreifachen eine fünffache
+und auf der rechten Seite von (115) daher immer noch eine
+dreifache Summe statt einer einfachen. Etwas übersichtlicher
+fand ich folgende Substitution
+
+(ur) etb,=y
+
+32*
+
+--- Page 52 ---
+488 E. Schrödinger
+
+u (Ira)
+-fı_ [d
+Br (1-4 “+ Ta
+und sodann Entwicklung der beiden Polynome in ihre Taylor-
+
+reihen, die ja endlich sind und zu Koeffizienten Polynome
+ihresgleichen haben. Man erhält so mit den Abkürzungen
+
+daher
+
+as)
+
+-_ 2-8
+1119) ° e+ß , a+ß
+folgendes
+[2
+>>
+1=0u=0
+(120) R
+Ser mil iR War.
+
+v
+
+Damit ist die Berechnung von J auf den einfacheren Integral-
+typus (115) zurückgeführt. Die Doppelsumme in (120) ist im
+Falle der Balmerlinien verhältnismäßig gutartig, da hier einer
+der beiden A-Werte, nämlich der auf das zweiquantige Niveau
+bezügliche, den Wert 1 nicht überschreitet, mithin A höchstens
+zwei Werte durchläuft und, wie sich weiter herausstellt,
+4 höchstens vier Werte. Der Umstand, daß unter den auf
+dag zweiquantige Niveau bezogenen Polynomen in (120) keine
+anderen als
+„el, Le-:4l, De-1
+
+vorkommen, gestattet weitere Vereinfachungen. Immerhin muß
+man sich durch eine Anzahl Tabellen durchrechnen und es
+ist recht bedauerlich, daß die in den Tabellen des Textes an-
+gegebenen Intensitätszahlen sich vorläufig nicht ihrem all-
+gemeinen Bau nach durchschauen lassen. Zum guten Glück
+bestehen die Summenrelationen zwischen den II - und den L-
+Komponenten, so daß man sich wenigstens vor Rechenfehlern
+mit einiger Wahrscheinlichkeit sicher fühlen darf.
+
+3, Integrale mit Kugelfunktionen
+Zur Durchführung der Rechnungen im 8 5 sind drei ein-
+fache Integralbeziehungen zwischen zugeordneten Kugelfunk-
+
+--- Page 53 ---
+Quantisierung als Eigenwertproblem 489
+
+tionen nötig, die ich zur Bequemlichkeit anderer hierher setze,
+da ich sie an den Stellen, wo ich nachgesehen habe, nicht
+finden konnte. Wir definieren wie üblich
+
+«e1) Pr (cos 9) = ing ten,
+(d eos 9)"
+
+Dann gilt
+
+7 . 2 !
+(122) [ LP,” (cos AP sin a9 = eh
+
+(Normierungsrelation).
+Ferner
+(123) Pr (cos 9) PF, (cos $) cos sin dd = 0
+für |n—=|=#1.
+Hingegen
+f P,” (cos 9) PF_, (cos dc YysinddI=
+(124) ”
+_Rrt+m m . _ 2in + m)!
+=uHT P)_,koNsin$dy= An-Un-m-n'
+o
+
+Die letzten beiden Relationen sind bestimmend für die
+„Auswahl“ der Determinantenglieder auf S, 480 des Textes.
+Sie sind übrigens auch sonst von fundamentaler Bedeutung
+für die Theorie der Spektren, denn es liegt auf der Hand,
+daB das Auswahlprinzip der azimutalen Quantenzahl auf ihnen
+(und zwei weiteren mit sin?‘% statt cos #sin 9) beruht.
+
+Zusatz bei der Korrektur:
+
+Hr. W. Pauli jr. teilt mir mit, daß er mittels einer
+Modifikation der in Ziffer 2 des Auhangs angegebenen Be-
+rechnungsweise zu folgenden geschlossenen Formeln für die
+Gesamtintensitäten der Linien der Lymanserie und der Balmer-
+serie gelangt ist. Für die Lymanserie
+
+oft ı\, ar. nt
+mer); Am Dar er
+
+
+--- Page 54 ---
+490 E. Schrödinger. Quantisierung als Eigenwertproblem
+
+Für die Balmerserie
+
+8. gt -3
+Diesen Ausdrücken sind die Gesamtintensitäten bei Emission
+Amplitudenquadrat mal vierter Potenz der Schwingungszahl)
+innerhalb der betreffenden Serie proportional, Für die Balmer-
+serie sind die aus der Formel folgenden Zahlen in vollkommener
+Übereinstimmung mit den auf 8. 476 angegebenen.
+
+Zürich, Physikalisches Institut der Universität.
+
+(Eingegangen 10. Mai 1926)

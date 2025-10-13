@@ -1,0 +1,697 @@
+
+--- Page 1 ---
+t
+
+This new Dover edition, first
+
+published in 1956, is an unabridged
+
+and unaltered republication of the
+translation first: published in 1926,
+It is published through special
+arrangément with Methuen and Co,
+Ltd,, and the estate of
+
+Albert Einstein.
+
+Manufactured in the United'States
+of America.
+
+2
+
+INVESTIGATIONS ON
+
+THE THEORY OF ,THE
+BROWNIAN MOVEMENT
+
+BY
+
+ALBERT EINSTEIN, Px.D.
+
+EDITED WITH NOTES BY
+
+R. FURTH
+
+TRANSLATED BY
+
+A. D. COWPER
+
+WITH 3 DIAGRAMS
+
+DOVER PUBLICATIONS, INC..
+
+--- Page 2 ---
+INVESTIGATIONS ON THE THEORY
+OF THE BROWNIAN MOVEMENT
+
+I
+
+ON THE MOVEMENT OF SMALL PARTICLES
+SUSPENDED IN A STATIONARY LIQUID
+DEMANDED BY THE MOLECULAR-
+KINETIC THEORY OF HEAT
+
+N this paper it will be shown that according
+I: the molecular-kinetic theory of heat, bodies
+of microscopically-visible size suspended in a
+liquid will perform movements of such magnitude
+that they can be easily observed in a microscope,
+on account of the molecular motions of heat.
+It is possible that the movements to be discussed
+here are identical with the so-called ‘‘ Brownian
+molecular motion’? ; however, the information
+available to me regarding the latter is so lacking
+in precision, that I can form no judgment in the
+matter (z).
+
+If the movement discussed here can actually
+be observed (together with the laws relating to
+
+--- Page 3 ---
+2 THEORY OF BROWNIAN MOVEMENT
+
+it that one would expect to find), then classical
+thermodynamics can no longer be looked upon
+as applicable with precision to bodies even of
+dimensions distinguishable in a microscope: an
+exact determination of actual atomic dimensions
+is #en possible. On the other hand, had the
+prediction of this movement proved to be in-
+correct, a weighty argument would be provided
+against the molecular-kinetic conception of heat.
+
+§ 1. ON THE OsMOTIC PRESSURE TO BE ASCRIBED
+TO THE SUSPENDED PARTICLES
+
+Let z gram-molecules of a non-electrolyte be
+dissolved in a volume V* forming part of a
+quantity of liquid of total volume VY. If the
+volume V* is separated from the pure solvent
+by a partition permeable for the solvent but
+impermeable for the solute, a so-called ‘* osmotic
+pressure,”’ ~, is exerted on this partition, which
+satisfies the equation
+
+pV*=RTz . - @)
+when V*/z is sufficiently great.
+
+On the: other hand, if small suspended particles
+are present in the fractional volume V* in place
+of the dissolved substance, which particles are also
+unable to pass through the partition permeable to
+the solvent: according to the classical theory of
+
+MOVEMENT OF SMALL PARTICLES 3
+
+thermodynamics —atleast when the force of gravity
+(which does not interest us here) is ignored—we
+would not expect to find any force acting on the
+partition ; for according to ordinary conceptions
+the ‘‘ free energy” of the system appears to be
+independent of the position of the partition and
+of the suspended particles, but dependent only
+on the total mass and qualities of the suspended
+material, the liquid and the partition, and on the
+pressure and temperature. Actually, for the cal-
+culation of the free energy the energy and entropy
+of the boundary-surface (surface-tension forces)
+should also be considered ; these can be excluded
+if the size and condition of the surfaces of contact
+do not alter with the changes in position of the
+partition and of the suspended particles under
+consideration.
+
+But a different conception is reached from
+the standpoint of the molecular-kinetic theory of
+heat. According to this theory a dissolved mole-
+cule is differentiated from a suspended body
+solely by its dimensions, and it is not apparent
+why a number of suspended particles should not
+produce the same osmotic pressure as the same
+number of molecules. We must assume that the
+suspended particles perform an irregular move-
+ment—even if a very slow one—in the liquid, on
+
+--- Page 4 ---
+4 THEORY OF BROWNIAN MOVEMENT
+
+account of the molecular movement of the liquid ;
+if they are prevented from leaving the volume V*
+by the partition, they will exert a pressure on the
+partition just like molecules in solution. Then,
+if there are suspended particles present in the
+volume V*, and therefore »/V* = » in a unit of
+volume, and if neighbouring particles are suffi-
+ciently far separated, there will be a corresponding
+osmotic pressure of magnitude given by
+RT 2 _ RT
+P= aN”
+
+where N signifies the actual number of molecules
+contained in a gram-molecule. It will be shown
+in the next paragraph that the molecular-kinetic
+theory of heat actually leads to this wider con-
+ception of osmotic pressure.
+
+§2. OSMOTIC PRESSURE FROM THE STANDPOINT
+OF THE MOLECULAR-KINETIC THEORY OF
+HEAT (*)
+
+If 21, po, ... fi are the variables of state of
+
+{*) In this paragraph the papers of the author on the
+“Foundations of Thermodynamics’’ are assumed to be
+familiar to the reader (Ann. d. Phys., 9, p. 417, 1902;
+11, p. 170, 1903), An understanding of the conclusions
+reached in the present paper is not dependent on a
+knowledge of the former papers or of this paragraph of
+the present paper.
+
+MOVEMENT OF SMALL PARTICLES 5
+
+a physical system which completely define the
+instantaneous condition of the system (for ex-
+ample, the Co-ordinates and velocity components
+of all atoms of the system), and if the complete
+system of the equationsof change of these variables
+of state is given in the form
+
+YP = bby... pi) (v= 1,2, -..D
+
+whence
+
+doy _
+ary ie
+then the entropy of the system is given by the
+expression
+
+; oe E
+SaRten igle-=tdp, dp. (3)
+
+where T is the absolute temperature, E the energy
+
+of the system, £ the energy as a function of 4,.
+
+The integral is extended over all possible values -
+of , consistent with the conditions of the prob-
+
+lem. ¥% is connected with the constant N referred
+
+to before by the relation 2xN = R. We obtain
+
+hence for the free energy F,
+
+R _EN RT
+F=— xT iele Rp, ... dpi= — a lg B.
+
+--- Page 5 ---
+6 THEORY OF BROWNIAN MOVEMENT
+
+Now let us consider a quantity of liquid enclosed
+in a volume V; let there be ” solute molecules
+(or suspended particles respectively) in the por-
+tion V* of this volume V, which are retained in
+the volurne ¥* by a semi-permeable partition ;
+the integration limits of the integral B obtained
+in the expressions for S and F will be affected
+accordingly. The combined. volume of the solute
+molecules (or suspended particles) is taken as
+small compared with V*, This system will be
+completely defined according to the theory under
+discussion by the variables of conditiong, . . . £1.
+
+Ii the molecular picture were extended to deal
+with every single unit, the calculation of the
+integral B would offer such difficulties that an
+exact: calculation of F could be scarcely contem-
+plated. Accordingly, we need here only to know
+how F depends on the magnitude of the volume
+V*, in which all the solute molecules, or suspended
+bodies (hereinafter termed briefly “ particles”)
+are contained.
+
+We will call «3, y,, 2, the rectangular Co-ordinates
+of the centre of gravity of the first particle,
+X, Vs» 2, those of the second, etc., +n, Yn, %» those
+of the last particle, and allocate for the centres
+of gravity of the particles the indefinitely small
+domains of parallelopiped form dx,, dy,, dz; dx,
+
+MOVEMENT OF SMALL PARTICLES 7
+
+dy, dz, .. . Am, dyn, dz, lying wholly within
+v*. The value of the integral appearing in the
+expression for F will be sought, with the limita-
+tion that the centres of gravity of the particles
+lie within a domain defined in this manner. The
+integral can then be brought into the form
+
+dB = dx, dy,...d%. J,
+
+where J is independent of dx,, dy,, etc., as well as
+of V*, ie. of the position of the semi-permeable
+partition. But J is also independent of any
+special choice of the position of the domains of
+the centres of gravity and of the magnitude of
+v¥*, as will be shown immediately. For if a
+second system were given, of indefinitely small
+domains of the centres of gravity of the particles,
+and the latter designated dx,'dy,'dzy' ; dx,'dyo'dzq'
+. « « Un! dyn'dz,', which domains differ from those
+originally given in their position but not in their
+magnitude, and are similarly all contained in V*,
+an analogous expression holds :—
+dB! = dx,'dyy' ... dzn' . J’.
+
+Whence
+
+dxdy,... d&y = dx,dyy'... dz,'.
+Therefore
+
+dB
+
+ab > 7
+
+--- Page 6 ---
+8 THEORY OF BROWNIAN MOVEMENT
+
+But from the moleculartheory of Heat given in the
+paper quoted,(*) it is easily deduced that dB/B (4)
+(ordB’/B respectively) is equal to the probability
+that at any arbitrary moment of time the centres
+of gravity of the particles are included in the
+domains (d%,... dz,) or (dx,'... d%,") respec-
+tively. Now, if the movements of single particles
+are independent of one another to a sufficient
+degree of approximation, if the liquid is homo-
+geneous and exerts no force on the particles, then
+for equal size of domains the probability of each
+of the two systems will be equal, so that the follow-
+ing holds :
+4B aB'
+
+B B'
+But from this and the last equation obtained it
+follows that
+
+J=J.
+We have thus proved that J is independent both
+of ¥* and of #, ¥4,...%. By integration we
+obtain
+
+B= [ Jax... dz, =J.V*a,
+
+and thence
+
+F=— She t+ nke vy
+
+(*,A, Einstein, Ann. d. Phys., 11, p. 170, 1903.
+
+MOVEMENT OF SMALL PARTICLES 9
+
+and
+oF RT n _ RT
+
+P= ~378— Ve NN”
+
+It has been shown by this analysis that the exist-
+ence of an osmotic pressure can be deduced from
+the molecular-kinetic theory of Heat; and that
+as far as osmotic pressure is concerned, solute
+molecules and suspended particles are, according
+to this theory, identical in their behaviour at
+great dilution.
+
+§ 3. THEORY OF THE DIFFUSION OF SMALL
+SPHERES IN SUSPENSION
+
+Suppose there be suspended particles irregularly
+dispersed in a liquid. We will consider their
+state of dynamic equilibrium, on the assumption
+that a force K acts on the single particles, which
+force depends on the position, but not on the time.
+It will be assumed for the sake of simplicity that
+the force is exerted everywhere in the direction of
+the x axis.
+
+Let » be the number of suspended particles per
+unit volume; then in the condition of dynamic
+equilibrium v is such a function of « that the varia-
+tion of the free energy vanishes for an arbitrary
+virtual displacement 8% of the suspended sub-
+stance. We have, therefore,
+
+8F = dE — TSS =o.
+
+--- Page 7 ---
+10 THEORY OF BROWNIAN MOVEMENT
+
+It will be assumed that the liquid has unit area
+of cross-section perpendicular .to the * axis and
+is bounded by the planes ¥ = 0 and x =/, We
+have, then,
+
+SE = — J Kvbxdx
+
+and
+_fiov de, Rio
+8S = fizz a =—y), Yiaiead
+The required condition of equilibrium is there-
+fore
+
+RT dv
+(x) —ky+ a = 0
+or
+Kyv—#ao , 5
+
+The last equation states that equilibrium with the
+force K is brought about by osmotic pressure
+forces.
+
+Equation (1) can be used to find the coefficient
+of diffusion of the suspended substance. We can
+look upon the dynamic equilibrium condition con-
+sidered here as a superposition of two processes
+proceeding in opposite directions, namely :—
+
+1. A movement of the suspended substance
+under the influence of the force K acting on each
+single suspended particle.
+
+MOVEMENT OF SMALL PARTICLES 11
+
+2. A process of diffusion, which is to be looked
+upon as a result of the irregular movement of the
+particles produced by the thermal molecular
+movement.
+
+If the suspended particles have spherical form
+(radius of the sphere = P), and if the liquid has
+a coefficient of viscosity k, then the force K im-
+parts to the single particles a velocity (*)
+
+K
+SakP : : . (6)
+and there will pass a unit area per unit of time
+vK
+6nkP
+
+particles.
+
+If, further, D signifies the coefficient of diffusion
+of the suspended substance, and » the mass of a
+particle, as the result of diffusion there will pass
+across unit area in a unit of time,
+
+2(uv)
+— Dy grams
+or
+
+ov :
+_ DE particles.
+
+(*) Cf. eg. G. Kirchhoff, ‘ Lectures on Mechanics,"
+Lect. 26, § 4.
+
+--- Page 8 ---
+12 THEORY OF BROWNIAN MOVEMENT
+
+Since there must be dynamic equilibrium, we
+
+must have
+vK dv
+
+@) bakP ~ Pog =
+
+We can calculate the coefficient of diffusion
+from the two conditions (1) and (2) found for the
+dynamic equilibrium. We get
+AY RP ”)
+N 6rkP 7
+The coefficient of diffusion of the suspended sub-
+stance therefore depends (except for universal
+constants and the absolute temperature) only on
+the coefficient of viscosity of the liquid and on the
+size of the suspended particles.
+
+oO.
+
+D=
+
+§ 4. ON THE IRREGULAR MOVEMENT OF ParTICLES
+SUSPENDED IN A LIQUID AND THE RELATION
+OF THIS TO DIFFUSION
+
+We will turn now to a closer consideration of
+the irregular movements which arise from thermal
+molecular movement, and give rise to the diffusion
+investigated in the last paragraph.
+
+Evidently it must be assumed that each single
+particle executes a movement which is indepen-
+dent of the movement of all other particles; the
+movements of one and the same particle after
+
+MOVEMENT OF SMALL PARTICLES 13
+
+different intervals of time must be considered as
+mutually independent processes, so long as we
+think of these intervals of time as being chosen
+not too small.
+
+We will introduce a time-interval 7 in our dis-
+cussion, which is to be very small compared with
+the observed interval of time, but, nevertheless,
+of such a magnitude that the movements executed
+by a particle in two consecutive intervals of time
+7 are to be considered as mutually independent
+phenomena (8).
+
+Suppose there are altogether 1 suspended par-
+ticles in a liquid. In an interval of time 7 the
+x-Co-ordinates of the single particles will increase
+by A, where 4 has a different value (positive or
+negative) for each particle. For the value of 4
+a certain probability-law will hold ; the'number
+dn of the particles which experience in the time-
+interval + a displacement which lies between 4
+and 4 + aA, will be expressed by an equation of
+
+the form
+dn = nd(4)dA,
+where
+
++o
+j +2 6(A)ad = x
+and ¢ only differs from zero for very small values
+of A and fulfils the condition
+$(4) = ¢(— 4).
+
+--- Page 9 ---
+14 THEORY OF BROWNIAN MOVEMENT
+
+We will investigate now how the coefficient of
+diffusion depends on ¢, confining ourselves again
+to the case when the number v of the particles per
+unit volume is dependent only on # and ¢.
+
+Putting for the number of particles per unit
+volume v = f(x, 4), we will calculate the distri-
+bution of the particles at a time ¢-+ 7 from the
+distribution at the time 4. From the definition
+of the function +(A), there is easily obtained the
+
+number of the particles which are located at the.
+
+time 4 + 7 between two planes perpendicular to
+the x-axis, with absciss « and « + dx. We get
+
+fe, t+ ode = dx, j- fe + aypayad.
+Now, since 7 is very small, we can put
+Keé t+ =f, + wv
+Further, we can expand f(x + 4, 4) in powers
+
+of A
+fe+4,0=f(a, 6+ Aue: ) res med i)
+
+. ad inf.
+
+We can bring this expansion under the integral
+sign, since only very small values of 4 contribute
+anyone to the latter. We ‘obtain
+
+fr Ye=fl” Cones sKA)id
++f Sues.
+
+T 5a
+
+MOVEMENT OF SMALL PARTICLES 13
+
+On the right-hand side the second, fourth, etc.,
+terms vanish since $(x) = ¢(— x) ; whilst of the
+first, third, fifth, etc., terms, every succeeding
+term is very small compared with the preceding.
+Bearing in mind that
+
++o
+[pana = 1,
+and putting
+
++o
+If 4
+
+= i Zhayd =D,
+
+and taking into consideration only the first and
+third terms on the right-hand side, we get from
+this equation
+
+(z) af = pt.
+
+oe ox?"
+
+This is the well-known differential equation for
+diffusion, and we recognise that D is the coefficient
+of diffusion.
+
+Another important consideration can be related
+to this method of development. We have assumed
+that the single particles are all referred to the
+same Co-ordinate system. But this is unneces-
+sary, since the movements of the single particles
+are mutually independent. We will now refer
+the motion of each particle to a co-ordinate
+
+--- Page 10 ---
+16 THEORY OF BROWNIAN MOVEMENT
+
+system whose origin coincides at the time ¢ = o
+with the position of the centre of gravity of the
+particles in question; with this difference, that
+S(%, #)dx now gives the number of the particles
+whose x Co-ordinate has increased between the
+time # =o and the time ¢=#, by a quantity
+which lies between x and * + dx. In this case
+also the function f must satisfy, in its changes,
+the equation (1). Further, we must evidently
+
+have €orx z o andi =a,
+
+foe
+Sf, = 0 and f S(%, dx = n.
+
+The problem, which accords with the problem of
+the diffusion outwards from a point (ignoring pos-
+sibilities of exchange between the diffusing par-
+ticles) is now mathematically completely defined
+(g) ; the solution is
+
+n eva
+J4nD Ji
+
+The probable distribution of the resulting dis-
+placements in a given time ¢ is therefore the same
+as that of fortuitous error, which was to be ex-
+pected. But it is significant how the constants in
+the exponential term are related to the coefficient
+of diffusion. We will now calculate with the help
+
+f%,)= (10)
+
+MOVEMENT OF SMALL PARTICLES 17
+
+of this equation the displacement A, in the direc-
+tion of the X-axis which a particle experiences on
+an average, or—more accurately expressed—the
+square root of the arithmetic mean of the squares
+of displacements in the direction of the X-axis;
+it is
+waVai= Jai. - (tt)
+The mean displacement is therefore propor-
+tional to the square root of the time. It can
+easily be shown that the square root of the mean
+of the squares of the total displacements of the
+particles has the value Aw/3 . « (12)
+
+§ 5. FORMULA FOR THE MEAN DISPLACEMENT OF
+SUSPENDED PARTICLES. A NEW METHOD OF
+DETERMINING THE REAL SIZE OF THE ATOM
+
+In § 3 we found for the coefficient of diffusion D
+of a material suspended in a liquid in the form of
+
+small spheres of radius P—
+
+RT i
+
+N  6nkP"
+
+Further, we found in § 4 for the mean value of the
+
+displacement of the particles in the direction of
+
+the X-axis in time #—
+de = »/2Di.
+
+D=
+
+--- Page 11 ---
+18 THEORY OF BROWNIAN' MOVEMENT
+
+By eliminating D we obtain
+— sy, ,/RT 1
+de = Jt NF Sopp
+This equation showshow A, depends on T, &, and P.
+We will calculate how great A, is for one second,
+if N is taken equal to 6-408 in accordance with the
+kinetic theory of gases, water at 17° C. is chosen
+as the liquid (& == 1-35 . 107), and the diameter of
+the particles-oor mm. We get
+A, = 8I0-§ cm. = o-8u,
+The mean displacement in one minute would be,
+therefore, about 6p.
+On the other hand, the relation found can be
+used for the determination of N. We obtain
+
+1 ART
+
+OME gmk”
+It is to be hoped that some enquirer may succeed
+shortly in solving the problem suggested here,
+
+which is so important in connection with the
+theory of Heat. (13)
+
+Berne, May, 1905.
+(Received, 11 May, 1905.)
+
+I
+
+ON THE THEORY OF THE BROWNIAN
+MOVEMENT
+
+(From the Annalen der Physik (4), 19, 1906, pp.
+371-381)
+
+OON after the appearance of my paper (*)
+S:: the movements of particles suspended
+in liquids demanded by the molecular theory of
+heat, Siedentopf (of Jena) informed me that he
+and other physicists—in the first instance, Prof.
+Gouy (of Lyons)—had been convinced by direct
+observation that the so-called Brownian motion
+is caused by the irregular thermal movements of
+the molecules of the liquid.(t)
+
+Not only the qualitative properties of the
+Brownian motion, but also the order of magnitude
+of the paths described by the particles correspond
+completely with the results of the theory. I will
+not attempt here a comparison of the slender
+experimental material at my disposal with the
+
+(*) A. Einstein, Ann. d. Phys., 17, p. 549, 1905.
+
+(t) M. Gouy, Journ. de Phys. (2), 7, 561, 1888.
+
+19

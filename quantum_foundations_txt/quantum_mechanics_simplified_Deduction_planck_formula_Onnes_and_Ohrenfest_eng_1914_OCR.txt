@@ -1,0 +1,190 @@
+
+--- Page 1 ---
+Huygens Institute - Royal Netherlands Academy of Arts and Sciences (KNAW)
+
+Citation:
+
+H. Kamerlingh Onnes & P. Ehrenfest, Simplyfied deduction of the formula from the theory of
+combinations which Planck uses as the basis of his radiation-theory, in:
+KNAW, Proceedings, 17 Il, 1914, pp. 870-873
+
+This PDF was made on 24 September 2010, from the 'Digital Library' of the Dutch History of Science Web Center (www.dwe.knaw.nl)
+> 'Digital Library > Proceedings of the Royal Netherlands Academy of Arts and Sciences (KNAW), http://www.digitallibrary .nl'
+
+--- Page 2 ---
+870
+
+3. The temperature coefficient was small: 1.06—1.11 for 10°.
+
+4. The velocity of the pinacone formation is greatly dependent on
+the alcohol; for instance, the methy! aleohol and the allyl
+aleohol were oxidiséd much more slowly than other primary
+and secondary alcohols.
+
+5. The velocity of the pinacone formation is. greatly dependent
+on the ketone, ihe benzophenone is attacked rapidly, most of
+the ketones as yet examined less rapidly, many not at all.
+
+6. The ratio of these velocities in different. aleohols ‘is constant.
+
+7. . The active light of the ketone reduction is sure to be situated
+in the spectrum between 400 and 430 up and very probably
+in, or adjacent to, the rays 404. 7 and 407.8 of the mercary
+quartz lamp.
+
+8. The ratio of the velocities of the pinacone formation in sun-
+light and in mercury light is the same.
+
+9. When two ketones are present simultaneously one of them
+absorbs a part of the rays required by the other ketone; this
+also appears when the light passes through a solution of the
+one ketone and falls on that of the other.
+
+Particularly in the case of the powerfully absorbing ketones’
+
+the hindrances are stronger than was to be expected.
+Delfi, October 1914.
+
+Physics. — “Simplified deduction of the formula from the theory
+of combinations which PLanox uses. as the basis of his radiation-
+theory.” By Prof. P. Evrenresr and Prof. H. Kamuaiinen Onnes.
+
+(Communicated in the meeting of Oct. 31, 1914).
+
+We refer to the expression
+N__{N-14Py
+“Po PENA
+which gives the number of ways in which monochromatic teso-
+
+nators #,, R,,...Ry may. be distributed over the various degrees —
+ef energy, determined by the series of multiples 0, ¢, 2e...-of the —
+unit energy «, when the resonators together must each time contain.
+the given multiple Pe. Two methods of. distribution will be called
+identical, and only thea, when the first. resonator in the one. distri-.
+bution is at. the ‘same gradeof energy as thé saimé resonator in the.
+second and’ similarly the second, third,.... and the Wh resonator >.
+
+are each at the same energy-grades in the two distributions. —
+
+Taking a special. example, we shall introdace. a symbol for ‘the a
+
+~ distribution. Let elem o ae Ge 8
+
+(4).
+
+|
+
+
+--- Page 3 ---
+871
+
+is the following: resonator R, has reached the energy-grade 46 (R,
+contains the energy 4s), R, the grade 2e, R, the grade Os (contains.
+no energy), &, the grade «. Our symbol will, read from left to right,
+indicate the energy of R,, R,, R,. R, in the distribution chosen, and
+particularly express, that the total energy is 7e. For this case the
+symbol will be: .
+
+TEEEHOEHOOK]
+or also more simply :
+
+[+000]
+
+With general values of Nand P the symbol will contain P times
+the sign e¢ and (N14) times the sign O'). The question now is,
+how many diferent symbols for the distribution may be formed in
+the manner indicated above from the given number of « and OP
+The answer is
+
+‘(N-14-P)
+“pop
+
+Proof: first considering the (V—1-+ P) elements ¢...2, 0...0
+as so many distinguishable entities, they may be arranged in
+
+(N-1L4+P6........ 2%
+different manners between the ends J] ][. Next note, that each time
+(Voo)IPr we. 8)
+
+of the combinations. thus obtained give the same symbol for the
+distribution (and give the same energy-grade to each resonator), viz.
+all those combinations which are formed from each other by the
+permutation of the P- elements «*) or the (N—1) elements O. The
+number Of the different symbols for the distribution and that of the
+
+ay We were led to the ‘introduction of the (N’~1) partitions between the W
+resonators, in trying to. find an explanation ofthe form (4 — 1)! in the denomi-
+
+‘nator of (4) (compare notc 1 on page 872). PLanck proves, that-the number of
+
+distributions. must be equal. to’ the number of all “‘combinations with repetitions
+of WN elements of class P” and {or the proof, that this number is given by the
+expression (A), he ‘refers to the train. of reasoning followed in treatises on com-
+binations for ilis parlicular case. In these tréatises-the expression (A) is arrived
+at by the aid-of the device of “transition from nto +1", and this method taken :
+
+as a whole does not Bre an nae into: the origi of Pthe final Epo a
+
+a See 2 mapa
+
+
+--- Page 4 ---
+distributions themselves required is thus obtained by dividing (2) by
+{8) q.e.d.?). .
+
+APPENDIX.
+
+The contrast between Pusncr’s hypothesis of the energy-grades and
+Einstein’s hypothesis of energy-quanta.
+
+The permutation of ihe elements « is a purely formal device, just as the per-
+mutation of the elements 0 is. More than once the analogous, equally formal device
+used by PLANCK, viz. distribution of P energy-elements over N resonators, has by
+a misunderstanding been given a physical interpretation, which is absolutely in
+conflict with PLanck’s radiation-formula and would lead to Wien’s radiation formula.
+
+As a matter of fact PLancx’s energy-elements were in that case almost entirely
+identified with Etnsret's light-qnanta and accordingly it was said, that the difference
+between PLANCK and ErnsTein consists herein that the latter assumes the existence
+of mutually independent energy-quanta also in empty space, the former only in
+the interior of matter, in the resonators. The confusion which underlies this view
+has been more than once pointed out *). Erysrein really considers P similar quanta,
+existing independently of each other. He discusses for instance the case, that they
+distribute themselves irreversibly from a space of NV, cm’ over a larger space of
+WV, cm’ and he finds using Bourzman’s entropy-formula: S = klog W, that this
+produces a gain of entropy 5):
+
+\P
+s— 5, =bo (3) rr (2)
+
+1) It may be added, that the problem of the distribution of N resonators over
+the energy-grades corresponds to the following: On a rod, whose length is a mul-
+tiple Ps of a given length -, notches have been cut, at distances ¢, 2e, etc. from
+one of the ends. At each of the notches, and only there, the rod may be broken,
+the separate pieces may subsequently be joined together in arbitrary numbers and
+in arbitrary order, the rods thus obtained not being distinguishable from each other
+otherwise than by a possible difference in length. The question is, in how many
+different manners (comp. Appendix) the rod may be divided and the pieces distri-
+buted over a given number of boxes, to be distinguished from each other as the
+ist 2nd,.... Nth, when no box may contain more than one red. If the boxes,
+
+which may be thought of as rectangular, are placed side by side in one line, they .
+
+form together as.it were an oblong drawer with (N—1) partitions, formed of two
+walls each, (comp. the above symbol in ils first form, from which the second
+form was derived by abstracting from the fact, that each mulliple.of « forms one
+
+«whole each time), and these double partitions may be imagined to be mutually
+
+exchanged, the boxes themselves remaining where they are. The possibility of this
+exchange is indicated by the form of the symbol chosen.
+
+As a further example corresponding to the symbol we may take a thread on
+which between P beads of the same kind, (N—J) beads of a different kind are
+strung, which divide. the beads of the first kind in a Ist, 2nd... Nth group.
+
+2) P. Exrenrest, Ann. d. Phys. 86, 91, 1911, G. Krurxow, Physik. Zschr. 15,
+183, 363, 1914. ; : :
+
+3) A. Envsrern, Ann. d. Phys. 17, 182, 1906. ae
+

@@ -1,0 +1,1507 @@
+
+--- Page 1 ---
+This article was downloaded by: [German National Licence 2007]
+
+On: 18 November 2010
+
+Access details: Access Details: [subscription number 777306420]
+
+Publisher Taylor & Francis
+
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House, 37-
+41 Mortimer Street, London W1T 3JH, UK
+
+Philosophical Magazine Series 6
+Shilac 1c Publication details, including instructions for authors and subscription information:
+h : I IS phical http://www.informaworld.com/smpp/title~content=t9 10323447
+
+Magazine
+. I. On the constitution of atoms and molecules
+Series 6
+
+N. Bohr
+
+(1901-1925)
+
+Fire Publned in roy
+
+To cite this Article Bohr, N.(1913) 'I. On the constitution of atoms and molecules’, Philosophical Magazine Series 6, 26: 151,
+1—25
+
+To link to this Article: DOI: 10.1080/14786441308634955
+
+URL: http://dx.doi.org/10.1080/14786441308634955
+
+PLEASE SCROLL DOWN FOR ARTICLE
+
+Full terms and conditions of use: http://www. informaworld.com/terms-and-conditions-of-access.pdf
+
+This article may be used for research, teaching and private study purposes. Any substantial or
+systematic reproduction, re-distribution, re-selling, loan or sub-licensing, systematic supply or
+distribution in any form to anyone is expressly forbidden.
+
+The publisher does not give any warranty express or implied or make any representation that the contents
+will be complete or accurate or up to date. The accuracy of any instructions, formulae and drug doses
+should be independently verified with primary sources. The publisher shall not be liable for any loss,
+actions, claims, proceedings, demand or costs or damages whatsoever or howsoever caused arising directly
+or indirectly in connection with or arising out of the use of this material.
+
+
+--- Page 2 ---
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+THE
+LONDON, EDINBURGH, anp DUBLIN
+
+PHILOSOPHICAL MAGAZINE
+
+AND
+
+JOURNAL OF SCIENCE.
+
+{SIXTH SBRIES.]
+
+JULY 1913.
+
+I. On the Constitution of Atoms and Molecules,
+By N. Bourn, Dr. phil. Copenhagen*.
+
+Introduction.
+
+i order to explain the results of experiments on scattering
+of « rays by matter Prof. Rutherfordt has given a
+theory of the structure of atoms. According to this theory,
+the atoms consist of a positively charged nucleus surrounded
+by a system of electrons kept together by attractive forces
+from the nucleus; the total negative charge of the electrons
+is equal to the positive charge of the nucleus. Further, the
+nucleus is assumed to be the seat of the essential part of
+the mass of the atom, and to have linear dimensions ex-
+ceedingly small compared with the linear dimensions of the
+whole atom. The number of electrons in an atom is deduced
+to be approximately equal to half the atomic weight. Great
+interest is to be attributed to this atom-model; for, as
+Rutherford has shown, the assumption of the existence of
+nuclei, as those in question, seems to be necessary in order
+to account for the results of the experiments on large angle
+scattering of the a rayst.
+In an attempt to explain some of the properties of matter
+on the basis of this atom-model we meet, however, with
+difficulties of a serious nature arising from the apparent
+
+* Communicated by Prof. E. Rutherford, F.R.S.
+
++ E. Rutherford, Phil. Mag. xxi. p. 669 (1911).
+} See also Geiger and Marsden, Phil. Mag. April 1913.
+
+Phil. Mag. 8. 6. Vol. 26. No. 151. July 1913, B
+
+--- Page 3 ---
+08:03 18 November 2010
+
+[German National Licence 2007] At:
+
+Downloaded By:
+
+2 Dr. N. Bohr on the Constitution
+
+instability of the system of electrons: difficulties purposely
+avoided in atom-models previously considered, for instance,
+in the one proposed by Sir J. J. Thomson*. According to
+the theory of the latter the atom consists of a sphere of
+uniform positive electrification, inside which the electrons
+move in cireular orbits.
+
+The principal difference between the atom-models proposed
+by Thomson and Rutherford consists in the circumstance
+that the forces acting on the electrons in the atom-model of
+Thomson allow of certain configurations and motions of the
+electrons for which the system is in a stable equilibrium ;
+such configurations, however, apparently do not exist for
+the second atom-model. The nature of the difference in
+question will perhaps be most clearly seen by noticing that
+among the quantities characterizing the first atom a quantity
+appears—the radius of the positive sphere—of dimensions
+of a length and of the same order of magnitude as the linear
+extension of the atom, while such a length does not appear
+among the quantities characterizing the second atom, viz.
+the charges and masses of the electrons and the positive
+nucleus ; nor can it be determined solely by help of the
+latter quantities.
+
+The way of considering a problem of this kind has, how-
+ever, undergone essential alterations in recent years owing
+to the development of the theory of the energy radiation,
+and the direct affirmation of the new assumptions introduced
+in this theory, found by experiments on very different phe-
+nomena such as specific heats, photoelectric effect, Réntgen-
+rays, &e. The result of the discussion of these questions
+seems to be a general acknowledgment of the inadequacy of
+the classical electrodynamics in describing the behaviour of
+systems of atomic sizet. Whatever the alteration in the
+laws of motion of the electrons may be, it seems necessary
+to introduce in the laws in question a quantity foreign to
+the classical electrodynamics, i. e. Planck’s constant, or as it
+often is called the elementary quantum of action. By the
+introduction of this quantity the question of the stable con-
+figuration of the electrons in the atoms is essentially changed,
+as this constant is of such dimensions and magnitude that it,
+together with the mass and charge of the particles, can
+determine a length of the order of magnitude required.
+
+This paper is an attempt to show that the application of
+the above ideas to Rutherford’s atom-model affords a basis
+
+* J.J. Thomson, Phil. Mag. vii. p. 287 (1904).
+
++ See f. inst., ‘‘Lhéorie du ravonnement et les quanta.’ Rapports de
+la réunion 4 Bruxelles, Noy. 1U11. Paris, 1912.
+
+--- Page 4 ---
+[German National Licence 2007] At: 08:03 18 November 2010
+
+Downloaded By:
+
+of Atoms and Molecules, 3
+
+for a theory of the constitution of atoms. J¢ will further
+be shown that from this theory we are led to a theory of the
+constitution of molecules.
+
+In the present first part of the paper the mechanism of
+the binding of electrons by a positive nucleus is discussed in
+relation to Planck’s theory. It will be shown that it is
+possible from the point of view taken to account in a simple
+way for the law of the line spectrum of hydrogen. Further,
+reasons are given for a principal hypothesis on which the
+considerations contained in the following parts are based.
+
+T wish here to express my thanks to Prof. Rutherford for
+his kind and encouraging interest in this work.
+
+Part I.—Brnpine oF Exxcrrons py Positive Nucuer.
+
+$1. General Considerations.
+
+The inadequacy of the classical electrodynamics in ac-
+counting for the properties of atoms from an atom-model as
+Rutherford’s, will appear very clearly if we consider a simple
+system consisting of a positively charged nucleus of very
+small dimensions and an electron deseribing closed orbits
+around it. For simplicity, let us assume that the mass of
+the electron is negligibly small in comparison with that of
+the nucleus, and further, that the velocity of the electron is
+small compared with that of light.
+
+Let us at first assume that there is no energy radiation.
+In this case the electron will describe stationary elliptical
+orbits. The frequency of revolution @ and the major-axis
+of the orbit 2a will depend on the amount of energy W
+which must be transferred to the system in order to remove
+the electron to an infinitely great distance apart from the
+nucleus, Denoting the charge of the electron and of the
+nucleus by —e and E respectively and the mass of the electron
+by m, we thus get
+
+_ 72 Wi 9, ¢h
+om hm’ 2a= FF - oe es QQ)
+Further, it can easily be shown that the mean value of the
+kinetic energy of the eleetron taken for a whole revolution
+is equal to W. We see that if the value of W is not given,
+there will be no values of w and a characteristic for the
+system in question.
+
+Let us now, however, take the effect of the energy radia-
+tion into account, calculated in the ordinary way from the
+acceleration of the electron. In this case the electron will
+
+B2
+
+--- Page 5 ---
+[German National Licence 2007] At: 08:03 18 November 2010
+
+Downloaded By:
+
+4 Dr. N. Bohr on the Constitution
+
+no longer describe stationary orbits. W will continuously
+increase, and the electron will approach the nucleus de-
+scribing orbits of smaller and smaller dimensions, and with
+greater and greater frequency ; the electron on the average
+gaining in kinetic energy at the same time as the whole
+system loses energy. This process will go on until the
+dimensions of the orbit are of the same order of magni-
+tude as the dimensions of the electron or those of the nucleus.
+A simple calculation shows that the energy radiated out
+during the process considered will be enormously great
+compared with that radiated out by ordinary molecular
+processes.
+
+It is obvious that the behaviour of such a system will be
+very different from that of an atomic system occurring in
+nature. In the first place, the actual atoms in their per-
+manent state seem to have absolutely fixed dimensions and
+frequencies. Further, if we consider any molecular process,
+the result seems always to be that after a certain amount of
+energy characteristic for the systems in question is radiated
+out, the systems will again settle down in a stable state of
+equilibrium, in which the distances apart of the particles are
+of the same order of magnitude as before the process.
+
+Now the essential point in Planck’s theory of radiation is
+that the energy radiation from an atomic system does not
+take place in the continuous way assumed in the ordinary
+electrodynamics, but that it, on the contrary, takes place in
+distinctly separated emissions, the amount of energy radiated
+out from an atomic vibrator of frequency v in a single
+emission being equal to thy, where 7 is an entire number,
+and / is a universal constant *.
+
+Returning to the simple case of an electron and a positive
+nucleus considered above, let us assume that the electron at
+the beginning of the interaction with the nucleus was ata
+great distance apart from the nucleus, and had no sensible
+velocity relative to the latter, Let us further assume that
+the electron after the interaction has taken place has
+settled down in a stationary orbit around the nucleus. We
+shall, for reasons referred to later, assume that the orbit in
+question is circular : this assumption will, however, make no
+alteration in the calculations for systems containing only a
+single electron.
+
+Let us now assume that, during the binding of the electron,
+a homogeneous radiation is emitted of a frequency », equal
+to half the frequency of revolution of the electron in its final
+
+* See f.inst., M. Planck, Ann. d. Phys. xxxi. p. 758 (1910) ; xxxvii.
+p. 642 (1912); Verh, dewtsch. Phys. Ges. 1911, p. 188.
+
+--- Page 6 ---
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+of Atoms and Molecules, 5
+
+orbit ; then, from Planck’s theory, we might expect that the
+amount of energy emitted by the process considered is equal
+to thy, where h is Planck’s constant and 7 an entire number.
+If we assume that the radiation emitted is homogeneous, the
+second assumption concerning the frequency of the radiation
+suggests itself, since the frequency of revolution of the
+electron at the beginning of the emission is 0, The question,
+however, of the rigorous validity of both assumptions, and
+also of the application made of Planck’s theory, will be more
+closely discussed in § 3.
+
+Putti
+meng Wathg, 2... es @
+
+we get by help of the formula (1)
+27? me* H? cone tT? EP th? 3
+wie? OF aye? =F + CO)
+
+If in these expressions we give r different values, we get
+a series of values for W, w, and a corresponding to a series
+of configurations of the system. According to the above
+considerations, we are led to assume that these configurations
+will correspond to states of the system in which there is
+no radiation of energy; states which consequently will be
+stationary as long as the system is not disturbed from out-
+side. We see that the value of W is greatest if r has its
+smallest value 1. This case will therefore correspond to
+the most stable state of the system, i. e. will correspond to
+the binding of the electron for the breaking up of which the
+greatest amount of energy is required.
+
+Putting in the above expressions T=1 and E=e, and
+introducing the experimental values
+
+W=
+
+e=47.107", = 531.10", h=65.10-*,
+
+&
+m
+we get 1 Ww
+2a=1:1.10-8em., w= 6'2.10%—-, — =13 volt.
+Bec. @
+
+We see that these values are of the same order of magni-
+tude as the linear dimensions of the atoms, the optical
+frequencies, and the ionization-potentials.
+
+The general importance of Planck’s theory for the dis-
+cussion of the behaviour of atomic systems was originally
+pointed out by Einstein*. The considerations of Einstein
+
+* A, Einstein, Ann. d. Phys. xvii. p. 182 (1905); xx. p. 199 (1906) ;
+xxii. p. 180 (1907).
+
+--- Page 7 ---
+08:03 18 November 2010
+
+[German National Licence 2007] At:
+
+Downloaded By:
+
+6 Dr. N. Bohr on the Constitution
+
+have been developed and applied on a number of different
+phenomena, especially by Stark, Nernst, and Sommerfield.
+The agreement as to the order of magnitude between values
+observed for the frequencies and dimensions of the atoms,
+and values for these quantities calculated by considerations
+similar to those given above, has been the subject of much
+discussion. It was first pointed out by Haas*, in an attempt
+to explain the meaning and the value of Planck’s constant
+on the basis of J. J. Thomson’s atom-model, by help of the
+linear dimensions and frequency of an hydrogen atom.
+
+Systems of the kind considered in this paper, in which the
+forces betwéen the particles vary inversely as the square of
+the distance, are discussed in relation to Planck’s theory
+by J. W. Nicholsonf. In a series of papers this author
+has shown that it seems to be possible to account for lines of
+hitherto unknown origin in the spectra of the stellar nebulie
+and that of the solar corona, by assuming the presence in these
+bodies of certain hy; othetical elements of exactly indicated
+constitution. The atoms of these elements are supposed to
+consist simply of a ring of a few electrons surrounding a
+positive nucleus of negligibly small dimensions. The ratios
+between the frequencies corresponding to the lines in question
+are compared with the ratios between the frequencies corre-
+sponding to different modes of vibration of the ring of
+electrons. Nicholson has obtained a relation to Planck’s
+theory showing that the ratios between the wave-length of
+different sets of lines of the coronal spectrum can be accounted
+for with great accuracy by assuming that the ratio between
+the energy of the system and the frequency of rotation of the
+ring is equal to an entire multiple of Planck’s constant. The
+quantity Nicholson refers to as the energy is equal to twice
+the quantity which we have denoted above by W. In the
+latest. paper cited Nicholson has found it necessary to give
+the theory a more complicated form, still, however, repre-
+senting the ratio of energy to frequency by a simple function
+of whole numbers.
+
+The excellent agreement between the calculated and
+observed values of the ratios between the wave-lengths in
+question seems a strong argument in favour of the validity
+of the foundation of Nicholson’s calculations. Serious
+
+* A. Ii. Haas, Jahrb. d. Rad. u. Ei. vii. p. 261 (1910). See further,
+A. Schidlof, Ann. d. Phys, xxxv. p. 90 (1911); E. Wertheimer, Phys.
+Zeitschr, xii. p. 409 (1911), Verh. deutsch. Phys. Ges. 1912, p. 481; TA.
+Lindemann, Verh, deutsch. Phys. Ges. 1911, pp. 482, 1107; F. Haber,
+Verh. deutsch. Phys. Ges. 1911, p. 1117.
+
++ J, W. Nicholson, Month. Not. Roy. Astr. Soc. xxii, pp. 49, 189,
+677, 693, 729 (1912).
+
+--- Page 8 ---
+[German National Licence 2007] At: 08:03 18 November 2010
+
+Downloaded By:
+
+of Atoms und Molecules. 7
+
+objections, however, may be raised against the theory. These
+objections are intimately connected with the problem of the
+homogeneity of the radiation emitted. In Nicholson’s cal-
+culations the frequency of lines in a line-spectrum is identified
+with the frequency ot vibration of a mechanical system in a
+distinctly indicated state of equilibrium. As a relation from
+Planck’s theory is used, we might expect that the radiation
+is sent out in quanta; but systems like those considered, in
+which the frequency is a function of the energy, cannot emit
+a finite amount of a homogeneous radiation; for, as soon as the
+emission of radiation is started, the energy and also the
+frequency of the system are altered. Further, according to
+the calculation of Nicholson, the systems are unstable for
+some modes of vibration. Apart from such objections— which
+may be only formal (see p. 23)—it must be remarked, that
+the theory in the form given does not seem to be able to
+account for the well-known laws of Balmer and Rydberg
+connecting the frequencies of the lines in the line-spectra
+of the ordinary elements.
+
+It will now be attempted to show that the difficulties in
+question disappear if we consider the problems from the
+point of view taken in this paper. Before proceeding it may
+be useful to restate briefly the ideas characterizing the calev-
+lations on p. 5. The principal assumptions used are :
+
+(1) That the dynamical equilibrium of the systems in the
+stationary states can be discussed by help of the
+ordinary mechanics, while the passing of the systems
+between different stationary states cannot be treated
+on that basis.
+
+(2) That the latter process is followed by the emission
+ot a homogeneous radiation, for which the relation
+between the frequency and the amount of energy
+emitted is the one given by Planck’s theory.
+
+The first assumption seems to present itself; for it is
+known that the ordinary mechanics cannot have an absolute
+validity, but will only hold in caleulations of certain mean
+values of the motion of the electrons. On the other hand,
+in the calculations of the dynamical equilibrium in a stationary
+state in which there is no relative displacement of the
+particles, we need not distinguish between the actual
+imotions and their mean values. The second assumption is
+in obvious contrast to the ordinary ideas of electrodynamics,
+but appears to be necessary in order to account for experi-
+mental facts.
+
+In the calculations on page 5 we have further made use
+
+--- Page 9 ---
+[German National Licence 2007] At: 08:03 18 November 2010
+
+Downloaded By:
+
+8 Dr. N. Bohr on the Constitution
+
+of the more special assumptions, viz. that the different
+stationary states correspond to the emission of a different
+number of Planck’s energy-quanta, and that the frequency of
+the radiation emitted during the passing of the system from
+a state in which no energy is yet radiated out to one of the
+stationary states, is equal to half the frequency of revolution
+of the electron in the latter state. We can, however (see
+§ 3), also arrive at the expressions (3) for the stationary
+states by using assumptions of somewhat different form.
+We shall, therefore, postpone the discussion of the special
+assumptions, and first show how by the help of the above
+ptincipal assumptions, and of the expressions (3) for the
+stationary states, we can account for the line-spectrum of
+hydrogen,
+
+§ 2. Emission of Line-spectra.
+
+Spectrum of Hydrogen.—General evidence indicates that
+an atom of hydrogen consists simply of a single ,electron
+rotating round a positive nucleus of charge e*. The re-
+formation of a hydrogen atom, when the electron has been
+removed to great distances away from the nucleus—e. g. by
+the effect of electrical discharge in a vacuum tube—will
+accordingly correspond to the binding of an electron by a
+positive nucleus considered on p. 5. If in (3) we put E=e,
+we get for the total amount of energy radiated out by the
+formation of one of the stationary states,
+
+2ar?me*
+
+Wr= Year .
+
+The amount of energy emitted by the passing of the
+system from a state corresponding to t=7, to one corre-
+sponding to T=72, is consequently
+
+Qa?met (L 1
+Wr, Wr, =a (G _ F .
+
+If now we suppose that the radiation in question is homo-
+geneous, and that the amount of energy emitted is equal to
+hy, where v is the frequency of the radiation, we get
+
+Wr, ~~ Wr, =hy,
+
+* See f. inst. N, Bohr, Phil. Mag. xxv. p. 24 (1913), The conclusion
+drawn in the paper cited is strongly supported by the fact that hydrogen,
+in the experiments on positive rays of Sir J, J. Thomson, is the only
+element which never occurs with a positive charge corresponding to the
+loss of more than one electron (comp. Phil. Mag. xxiv. p. 672 (1912)).
+
+--- Page 10 ---
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+of Atoms and Molecules, 9
+
+Qmr?met (1
+ie ol CS rn © 2)
+
+We see that this expression accounts for the law connecting
+the lines in the spectrum of hydrogen. If we put 7,=2 and
+let 7) vary, we get the ordinary Balmer series. If we put
+T2=3, we get the series in the ultra-red observed by Paschen*
+and previously suspected by Ritz. If we put 7=1 and
+tT 2=A4, 5,.., we get series respectively in the extreme ultra-
+violet and the extreme ultra-red, which are not observed, but
+the existence of which may be expected.
+
+The agreement in question is quantitative as well as
+qualitative. Putting
+
+and from this
+
+é
+m
+
+e=47. 10-%,
+
+we get
+
+=5°31.10", and A=6:5.10-7,
+
+Qor?met
+ie
+
+The observed value for the factor outside the bracket in the
+formula (4) is
+
+=3'1. 10%.
+
+3°290 10%,
+
+The agreement between the theoretical and observed values
+is inside the uncertainty due to experimental errors in the
+constants entering in the expression for the theoretical value.
+We shall in § 3 return to consider the possible importance
+of the agreement in question.
+
+{t may be remarked that the fact, that it has not been
+possible to observe more than 12 lines of the Balmer series
+in experiments with vacuum tubes, while 33 lines are ob-
+served in the spectra of some celestial bodies, is just what we
+should expect from the above theory. According to the
+equation (3) the diameter of the orbit of the electron in
+the different stationary states is proportional to 72. For
+7=12 the diameter is equal to 1:6.107%em., or equal to
+the mean distance between the molecules in a gas at a
+pressure of about 7mm. mercury; for r=33 the diameter
+is equal to 1-2 .10~* em., corresponding to the mean distance
+of the molecules at a pressure of about 0°02 mm. mercury.
+According to the theory the necessary condition for the
+appearance of a great number of lines is therefore a very
+small density of the gas; for simultaneously to obtain an
+
+* F, Paschen, Aun, d. Phys, xxvii. p. 565 (1908).
+
+--- Page 11 ---
+[German National Licence 2007] At: 08:03 18 November 2010
+
+Downloaded By:
+
+10 Dr. N. Bohr on the Constitution
+
+intensity sufficient for observation the space filled with the
+gas must be very great. If the theory is right, we may
+therefore never expect to be able in experiments with vacuum
+tubes to observe the lines corresponding to high numbers of
+the Balmer series of the emission spectrum of hydrogen; it
+might, however, be possible to observe the lines by investi-
+gation of the absorption spectrum of this gas (see § 4).
+
+Tt will be observed that we in the above way do not
+obtain other series of lines, generally ascribed to hydrogen ;
+for instance, the series first observed by Pickering* in the
+spectrum of the star ¢ Puppis, and the set of series recently
+found by Fowlert by experiments with vacuum tubes
+containing a mixture of hydrogen and helium. We shall,
+however, see that, by help of the above theory, we can
+account naturally for these series of lines if we ascribe them
+to helium.
+
+A neutral atom of the latter element consists, according to
+Rutherford’s theory, of a positive nucleus of charge 2e and
+two electrons. Now considering the. binding of a single
+electron by a helium nucleus, we get, putting E=2e in the
+expressions (3) on page 5, and proceeding in exactly the same
+way as above,
+
+_ 8x?met (1 1 ) 2a? met
+
+1 _ 1
+hs ( Tt, \? 1 °)
+(7) &
+
+If we in this formula put 72=1 or T,=2, we get series of
+lines in the extreme ultra-violet. If we put t,=3, and let
+7 vary, we get a series which includes 2 of the series
+observed by Fowler, and denoted by him as the first and
+second principal series of the hydrogen spectrum. If we put
+T,=4, we get the series observed by Pickering in the
+spectrum of € Puppis. Every second of the lines in this
+series is identical with a line in the Balmer series of
+the hydrogen spectrum; the presence of hydrogen in the
+star in question may therefore account for the fact that
+these lines are of a greater intensity than the rest of the
+lines in the series. The series is also observed in the expe-
+riments of Fowler, and denoted in his paper as the Sharp
+series of the hydrogen spectrum. If we finally in the above
+formula put 7,.=5, 6,.. , we get series, the strong lines of
+which are to be expected in the ultra-red.
+
+The reason why the spectrum considered is not observed in
+
+3 2 2)>
+i Ty Ty
+
+* —,C. Pickering, Astrophys. J. iv. p. 369 (1896); v. p. 92 (1897).
++ A, Fowler, Month. Not. Roy. Astr. Soc. Lxxiii, Dee. 1912.
+
+
+--- Page 12 ---
+08:03 18 November 2010
+
+[German National Licence 2007] At:
+
+Downloaded By:
+
+of Atoms and Molecules. 11
+
+ordinary helium tubes may be that in such tubes the ionization
+of helinm is not so complete as in the star considered or in the
+experiments of Fowler, where a strong discharge was sent
+through a mixture of hydrogen and helium, The condition
+for the appearance of the spectrum is, according to the above
+theory, that helium atoms are present in a state in which
+they have lost both their electrons. Now we must assume
+that the amount of energy to be used in removing the second
+electron from a helium atom is much greater than that to be
+used in removing the first. Further, it is known from expe-
+riments on positive rays, that bydrogen atoms can acquire a
+negative charge ; therefore the presence of hydrogen in the
+experiments of Fowler may effect that more elecirons are
+removed from some of the helium atoms than would be the
+case if only helium were present.
+
+Spectra of other substances.—In case of systems containing
+more electrops we must—in conformity with the result of
+experiments—expect more complicated Jaws for the line-
+spectra than those considered. I shall try to show that the
+peint of view taken above allows, at any rate, a certain
+understanding of the laws observed.
+
+According to Rydberg’s theory—with the generalization
+given by Ritz *—-the frequency corresponding to the lines of
+the spectrum of an element can be expressed by
+
+v=F,(71) —F (re),
+where 7, and 7, are entire numbers, and f,, F., F;,.... are
+
+Functions of + which approximately are equal to +a?
+baer K is a universal constant, equal to the factor
+outside the bracket in the formula (4) for the spectrum of
+hydrogen. The different series appear if we put 7; or 7, equal
+to a fixed number and let the other vary.
+
+The circumstance that the frequency can be written as a
+difference between two functions of entire numbers suggests
+an origin of the lines in the spestra in question similar to
+the one we have assumed for hydrogen; 7. e. that the lines
+correspond to a radiation emitted during the passing of the
+system between two different stationary states. For systems
+containing more than one electron the detailed discussion
+may be very complicated, as there will be many different
+configurations of the electrons which can be taken inte con-
+sideration as stationary states. This may account for the
+different sets of series in the line spectra emitted from the
+
+* W. Ritz, Phys. Zeitschr. ix. p. 521 (1908),
+
+--- Page 13 ---
+[German National Licence 2007] At: 08:03 18 November 2010
+
+Downloaded By:
+
+12 Dr. N. Bohr on the Constitution
+
+substances in question. Here 1 shall only try to show how,
+by help of the theory, it can be simply explained that the
+constant K entering in Rydberg’s formula is the same for all
+substances.
+
+Let us assume that the spectrum in question corresponds to
+the radiation emitted during the binding of an electron; and
+let us further assume that the system including the electron
+considered is neutral. The foree on the electron, when at
+a great distance apart from the nucleus and the electrons
+previously bound, will be very nearly the same as in the above
+ease of the binding of an electron by a hydrogen nucleus.
+The energy corresponding to one of the stationary states will
+therefore for r great. be very nearly equal to that given by
+the expression (3) on p. 5, if we put E=e. For rt great we
+consequently get
+__ 27?me*
+
+Jim (7? . F\(7))=lim (7?. Fa(7)) =... = Hi
+in conformity with Rydberg’s theory. ,
+
+2
+
+§ 3. General Considerations continued.
+
+We shall now retura to the discussion (see p. 7) of the
+special assumptions used in deducing the expressions (3) on
+p. 5 for the stationary states of a system consisting of an
+electron rotating round a nucleus.
+
+For one, we have assumed that the different stationary
+states correspond to an emission of a different number of
+energy-quanta. Considering systems in which the frequency
+is a function of the energy, this assumption, however, may
+be regarded as improbable; for as soon as one quantum is sent
+out the frequency is altered. We shall now see that we can
+leave the assumption used and still retain the equation (2)
+on p- 5, and thereby the formal analogy with Planck’s
+theory.
+
+Wisdly, it will be observed that it has not been necessary,
+in order to account for the law of the spectra by help of the
+expressions (3) for the stationary states, to assume that in any
+ease a radiation is sent out corresponding to more than a
+single energy-quantum, Av. Further information on the
+frequency of the radiation may be obtained by comparing
+calculations of the energy radiation in the region of slow
+vibrations based on the above assumptions with calculations
+based on the ordinary mechanics. As is known, calculations
+on the latter basis are in agreement with experiments on the
+energy radiation in the named region.
+
+Let us assume that the ratio between the total amount of
+
+--- Page 14 ---
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+of Atoms and Molecules. 13
+
+energy emitted and the frequency of revolution of the
+electron for the different stationary states is given by
+the equation W=/(r).ho, instead of by the equation (2).
+Proceeding in the same way as above, we get in this case
+instead of (3)
+We- wm Ey o= mel?
+~ OEP (ty 2B (7)
+
+Assuming as above that the amount of energy emitted
+during the passing of the system from a state corresponding
+to r=7, to one for which 7=7, is equal to Av, we get instead
+of (4)
+
+_ wmeh? (1 1 )
+he (; 3ra) PC
+We see that in order to get an expression of the same form
+as the Balmer series we must put f(r) =cr.
+
+In order to determine c let us now consider the passing of
+the system between two successive stationary states corre-
+sponding to T=N and r=N—1; introducing f(r) =cr, we
+get for the frequency of the radiation emitted
+
+atime? 2N~1
+~ 9h NAN 1)
+For the frequency of revolution of the electron before and
+after the emission we have
+
+__ me? BE? 7’me? Hh?
+
+ons panne 84 ONa= FHT
+
+If N is great the ratio between the frequency before and
+after the emission will be very near equal to 1; and according
+to the ordinary electrodynamics we should therefore expect
+that the ratio between the frequency of radiation and the
+frequency of revolution also is very nearly equal tol. This
+
+condition will only be satisfiedif c=4. Putting (7) =y we,
+
+however, again arrive at the equation (2) and consequently
+at the expression (3) for the stationary states.
+
+lf we consider the passing of the system between two states
+corresponding to r=N and r=N-—n, where 7» is small
+compared with N, we get with the same approximation as
+
+above, puting f (7) = >
+
+V=2w.
+
+--- Page 15 ---
+08:03 18 November 2010
+
+[German National Licence 2007] At:
+
+Downloaded By:
+
+14 Dr. N. Bohr on the Constitution
+
+The possibility of an emission of a radiation of such a
+frequency may also be interpreted from analogy with the
+ordinary electrodynamics, as an electron rotating round a
+nucleus in an elliptical orbit will emit a radiation which
+according to Fourier’s theorem can be resolved into homo-
+geneous components, the frequencies of which are xo, if @ is
+the frequency of revolution of the electron.
+
+We are thus led to assume that the interpretation of the
+equation (2) is not that the different stationary states cor-
+respond to an emission of different numbers of energy-quanta,
+but that the frequency of the energy emitted during the
+passing of the system from a state in which no energy is yet
+radiated out to one of the different stationary states, is equal
+
+to different multiples of “ where wis the frequency of revo-
+
+lution of the electron in the state considered. From this
+assumption we get exactly the same expressions as before for
+the stationary states, and from these by help of the principal
+assumptions on p. 7 the same expression for the law of the
+hydrogen spectrum. Consequently we may regard our pre-
+liminary considerations on p. 5 only as a simple form of
+representing the results of the theory.
+
+Before we leave the discussion of this question, we shall for
+a moment return to the question of the significance of the
+agreement between the observed and calculated values of
+the constant entering in the expressions (4) for the Balmer
+series of the hydrogen spectrum. From the above con-
+sideration it will follow that, taking the starting-point in the
+form of the law of the hydrogen spectrum and assuming that
+the different lines correspond to a homogeneous radiation
+emitted during the pussing between different stationary
+states, we shall arrive at exactly the same expression for the
+constant in question as that given by (4), if we only assume
+(1) that the radiation is sent out in quanta Av, and (2) that
+the frequency of the radiation emitted during the passing of
+the system between successive stationary states will coincide
+with the frequency of revolution of the electron in the region
+of slow vibrations.
+
+As all the assumptions used in this latter way of repre-
+senting the theory are of what we may call a qualitative
+character, we are Justified in expecting—if the whole way of
+considering is a sound one—an absolute agreement between
+the values calculated and observed for the constant in question,
+and not only an approximate agreement. The formula (4)
+may therefore be of value in the discussion of the results
+of experimental determinations of the constants e, m, and h.
+
+--- Page 16 ---
+08:03 18 November 2010
+
+[German National Licence 2007] At:
+
+Downloaded By:
+
+of Atoms and Molecules. 15
+
+While there obviously can be no question of a mechanical
+foundation of the calculations given in this paper, it is, how-
+ever, possible to give a very simple interpretation of the result
+of the calculation on p. 5 by help of symbols taken from the
+ordinary mechanics. Denoting the angular momentum of
+the electron round the nucleus by M, we have immediately
+
+for a circular orbit 7M = o where @ is the frequency of
+
+revolution and T the kinetic energy of the electron; for a
+circular orbit we further have T= W (see p, 3) and from (2),
+p. 5, we consequently get
+
+M="M,,
+
+where My= j-=1:04x 10-7,
+at
+
+Tf we therefore assume that the orbit of the electron in
+the stationary states is circular, the result of the calculation
+on p. 5 can be expressed by the simple condition: that the
+angular momentum of the electron round the nucleus in a
+stationary state of the system is equal to an entire multiple
+of a universal value, independent of the charge on the
+nucleus. The possible importance of the angular momentum
+in the discussion of atomic systems in relation to Planck’s
+theory is emphasized by Nicholson *,
+
+The great number of different stationary states we do not
+observe except by investigation of the emission and absorption
+of radiation. In most of the other physical phenomena,
+however, we only observe the atoms of the matter ina single
+distinct state, 7. e. the state of the atoms at low temperature.
+From the preceding considerations we are immediately led
+to the assumption that the “permanent” state is the one
+among the stationary states during the formation of which
+the greatest amount of energy is emilted. According to the
+equation (3) on p. 5, this state is the one which corresponds
+to7=1.
+
+§ 4. Absorption of Radiation.
+
+Tn order to account for Kirchhoff’s law it is necessary to
+introduce assumptions on the mechanism of absorption of
+radiation which correspond to those we have used considering
+the emission, Thus we must assume that a system consisting
+of a nucleus and an electron rotating round it under certain
+circumstances can absorb a radiation of a frequency equal to
+the frequency of the homogeneous radiation emitted during
+
+* J, W. Nicholson, doe. cit. p. 679.
+
+--- Page 17 ---
+[German National Licence 2007] At: 08:03 18 November 2010
+
+Downloaded By:
+
+16 Dr. N. Bohr on the Constitution
+
+the passing of the system between different stationary states.
+Let us consider the radiation emitted during the passing of
+the system between two stationary states A, and A, corre-
+sponding to values for 7 equal to 7; and 7, 7; > 7;. As the
+necessary condition for an emission of the radiation in question
+was the presence of systems in the state A,, we must assume
+that the necessary condition for an absorption of the radiation
+is the presence of systems in the state A).
+
+These considerations seem to be in conformity with expe-
+riments on absorption in gases, In hydrogen gas at ordinary
+conditions for instance there is no absorption of a radiation of
+a frequency corresponding to the line-spectrum of this gas ;
+such an absorption is only observed in hydrogen gas in
+a luminous state. This is what we should expect according
+to the above. We have on p. 9 assumed that the radiation
+in question was emitted during the passing of the systems
+between stationary states corresponding to r~2. The state
+
+of the atoms in hydrogen gas at ordinary conditions should,
+however, correspond to r=1; furthermore, hydrogen atoms
+at ordinary conditions combine into molecules, i. e. into
+systems in which the electrons have frequencies different
+from those in the atoms (see Part III.). From the circum-
+stance that certain substances in a non-luminous state, as,
+for instance, sodium vapour, absorb radiation corresponding
+to lines in the line-spectra of the substances, we may, on the
+other hand, conclude that the lines in question are emitted
+during the passing of the system between two states, one of
+which is the permanent state.
+
+How much the above considerations differ from an inter-
+pretation based on the ordinary electrodynamics is perhaps
+most clearly shown by the fact that we have been forced to
+assume that a system of electrons will absorb a radiation of a
+frequency different from the frequency of vibration of the
+electrons calculated in the ordinary way. It may in this
+connexion be of interest to mention a generalization of the
+considerations to which we are led by experiments on the
+photo-electric effect, and which may be able to throw some
+light on the problem in question. Let us consider a state of
+the system in which the electron is free, .e. in which the
+electron possesses kinetic cnergy sufficient to remove to infinite
+distances from the nucleus. If we assume that the motion of
+the electron is governed by the ordinary mechanics and that
+there is no (sensible) energy radiation, the total energy of
+the system—as in the above considered stationary states—
+will be constant. Further, there will be perfect continuity
+between the two kinds of states, as the difference between
+
+--- Page 18 ---
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+of Atoms and Molecules. qT
+
+frequency and dimensions of the systems in successive
+stationary states will diminish without limit if 7 increases.
+In the following considerations we shall for the sake of
+brevity refer to the two kinds of states in question as
+“mechanical” states; by this notation only emphasizing:
+the assumption that the motion of the electron in both cases
+can be accounted for by the ordinary mechanics.
+
+Tracing the analogy between the two kinds of mechanical
+states, we might now expect the possibility of an absorption
+of radiation, not only corresponding to the passing. of the
+system between two different stationary states, but also
+corresponding to the passing between one of the stationary
+states and a state in which the electron is free ; and as above,
+we might expect that the frequency of this radiation was de-
+termined by the equation E=/v, where E is the difference
+between the total energy of the system in the two states.
+As it will be seen, such an absorption of radiation is just
+what is observed in experiments on ionization by ultra-violet
+light and by Réntgen rays. Obviously, we get in this way
+the same expression for the kinetic energy of an electron
+ejected from an atom by photo-electric effect as that deduced
+by Hinstein *, i, e. T=hv— W, where T is the kinetic energy
+ot the electron ejected, and W the total amount of energy
+emitted during the original binding of the electron.
+
+The above considerations may further account for the
+result of some experiments of R. W. Wood f on absorption
+of light by sodium vapour. In these experiments, an
+absorption corresponding to a very great number of lines in
+the principal series of the sodium spectrum is observed, and
+in addition a continuous absorption which begins at the head
+of the series and extends to the extreme ultra-violet. This
+is exactly what we should expect according to the analogy in
+question, and, as we shall see, a closer consideration of the
+above experiments allows us to trace the analogy still
+further. As mentioned on p.9 the radii of the orbits of
+the electrons will for stationary states corresponding to high
+values for + be very great compared with ordinary atomic
+dimensions. This circumstance was used as an explanation
+of the non-appearance in experiments with vacuum-tubes of
+lines corresponding to the higher numbers in the Balmer
+series of the hydrogen spectrum. This is also in conformity
+with experiments on the emission spectrum of sodium ; in
+the principal series of the emission spectrum of this substance
+
+* A. Einstein, Ann, d. Phys. xvii. p. 146 (1905).
++ R. W. Wood, Physical Optics, p. 518 (1911).
+Phil. Mag. 8. 6. Vol, 26. No. 151. July 1913. Cc
+
+--- Page 19 ---
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+18 Dr. N. Bohr on the Constitution
+
+rather few lines are observed. Now in Wood’s experiments
+the pressure was not very low, and the states corresponding
+to high values for r could therefore not appear ; yet in the
+absorption spectrum about 50 lines were detected. Tn the
+experiments in question we consequently observe an absorption
+of radiation which is not accompanied by a complete transition
+between two different stationary states. According to the
+present theory we must assume that this absorption is followed
+by an emission of energy during which the systems pass back
+to the original stationary state. If there are no collisions
+between the different systems this energy will be emitted as
+a radiation of the same frequency as that absorbed, and there
+will be no true absorption but only a scattering of the original
+radiation ; a true absorption will not oceur unless the energy
+in question is transformed by coilisions into kinetic energy of
+free particles. In analogy we may now from the above expe-
+riments conclude that a bound electron—also in cases in which
+there is no ionization—will have an absorbing (scattering)
+influence on a homogeneous radiation, as soon as the fre-
+quency of the radiation is greater than W/h, where W is the
+total amount of energy emitted during the binding of the
+electron. This would be highly in favour of a theory of
+absorption as the one sketched above, as there can in sucha
+case be no question of a coincidence of the frequency of the
+radiation and a characteristic frequency of vibration of the
+electron. It will further be seen that the assumption, that
+there will be an absorption (scattering) of any radiation
+corresponding to a transition between two different me-
+chanical states, is in perfect analogy with the assumption
+generally used that a free electron will have an absorbing
+(seattering) influence on light of any frequency. Corre-
+sponding considerations will hold for the emission of radiation.
+
+In analogy to the assumption used in this paper that the
+emission of line-spectra is due to the re-formation of atoms
+after one or more of the lightly bound electrons are removed,
+we may assume that the homogeneous Réntgen radiation is
+emitted during the settling down of the systems after one of
+the firmly bound electrons escapes, e.g. by impact of cathode
+particles *. In the next part of this paper, dealing with the
+constitution of atoms, we shall consider the question more
+closely and try to show that a calculation based on this
+assumption is in quantitative agreement with the results of
+experiments : here we shall only mention briefly a problem
+with which we meet in such a calculation.
+
+* Compare J. J. Thomson, Phil, Mag. xxiii. p. 456 (1912).
+
+--- Page 20 ---
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+of Atoms and Molecules. 19
+
+Experiments on the phenomena of X-rays suggest that not
+only the emission and absorption of radiation cannot be
+treated by the help of the ordinary electrodynamics, but not
+even the result of a collision between two electrons of which
+the one is bound in an atom. This is perhaps most clearly
+shown by some very instructive calculations on the energy
+of B-particles emitted from radioactive substances recently
+published by Rutherford*. These calculations strongly
+suggest that an electron of great velocity in passing through
+an atom and colliding with the electrons bound will loose
+energy in distinct finite quanta. As is immediately seen,
+this is very different from what we might expect if the result
+of the collisions was governed by the usual mechanical laws.
+The failure of the classical mechanics in such a problem
+might also be expected beforehand from the absence of any-
+thing like equipartition of kinetic energy between free
+electrons and electrons bound in atoms. From the point of
+view of: the “mechanical” states we sce, however, that the
+following assumption—which is in accord with the above
+analogy—might be able to account for the result of Ruther-
+ford’s calculation and for the absence of equipuartition of
+kinetic energy : two colliding electrons, bound or free, will,
+after the collision as well as before, be in mechanical states.
+Obviously, the introduction of such an assumption would not
+make any alteration necessary in the classical treatment of a
+collision between two free particles. But, considering a col-
+lision between a free and a bound electron, it would follow
+that the bound electron by the collision could not acquire a
+less amount of energy than the difference in energy corre-
+sponding to successive stationary states, and consequently
+that the free electron which collides with it could not lose a
+Jess amount.
+
+The preliminary and hypothetical character of the above
+considerations needs not to be emphasized. The intention,
+however, has been to show that the sketched generalization
+of the theory of the stationary states possibly may afford a
+simple basis of representing a number of experimental facts
+which cannot be explained by help of the ordinary electro-
+dynamics, and that the assumptions used do not seem to be
+inconsistent with experiments on phenomena for which a
+satisfactory explanation has been given by the classical
+dynamics and the wave theory of light.
+
+* E. Rutherford, Phil. Mag. xxiv. pp. 453 & 893 (1912).
+C2
+
+--- Page 21 ---
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+20 Dr. N. Bohr on the Constitution
+
+§ 5. The permanent State of an Atomie System.
+
+We shall now return to the main object of this paper—the
+discussion of the “ permanent” state of a system consisting
+of nuclei and bound electrons. For a system consisting of a
+nucleus and an electron rotating round it, this state is,
+according to the above, determined by the condition that the
+angular momentum of the electron round the nucleus is
+
+equal to
+
+h
+Qa
+
+On the theory of this paper the only neutral atom which
+contains a single electron is the hydrogen atom. ‘The per-
+manent state of this atom should correspond to the values of
+aand w calculated on p. 5. Unfortunately, however, we
+know very little of the behaviour of hydrogen atoms on
+account of the small dissociation of hydrogen molecules at
+ordinary temperatures. In order to get a closer comparison
+with experiments, it is necessary to consider more complicated
+systems.
+
+Considering systems in which more electrons are bound by
+a positive nucleus, a configuration of the electrons which
+presents itself as a permanent state is one in which the
+electrons are arranged in a ring round the nucleus. In the
+discussion of this problem on the basis of the ordinary
+electrodynamics, we meet—apart from the question of the
+energy radiation—with new difficulties due to the question
+of the stability of the ring, Disregarding for a moment this
+latter difficulty, we sball first consider the dimensions and
+frequency of the systems in relation to Planck’s theory of
+radiation.
+
+Let us consider a ring consisting of n electrons rotating
+round a nucleus of charge EK, the electrons being arranged
+at equal angular ‘intervals around the circumference of a
+circle of radius a.
+
+The total potential energy of the system consisting of the
+electrons and the nucleus is
+
+P= - (Hes),
+
+where
+y seal ‘81
+Sa =] 2 curee a
+For the radial force exerted on an electron by the nucleus
+and the other electrons we get
+Fe 1dP é
+
+nda = — 3 (Bes).
+
+--- Page 22 ---
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+of Atoms and Molecules. 24
+
+Denoting the kinetic energy of an electron by T and
+neglecting the electromagnetic forces due to the motion of
+the electrons (see Part 1I.), we get, putting the centrifugal
+force on an electron equal to the radial force,
+oT _e
+oa qa (Bes),
+
+or
+e
+= 55 (Hes).
+From this we get for the frequency of revolution
+
+o= iL e(E—es,)
+2a ma?
+
+The total amount of energy W necessary transferred to the
+system in order to remove the electrons to infinite distances
+apart from the nucleus and from each other is
+
+W=—P-rT= 3, B—es) = nT,
+
+equal to the total kinetic energy of the electrons.
+
+We sce that the only difference in the above formula and
+those holding for the motion of a single electron in acircular
+orbit round a nucleus is the exchange of E for H~es,. It is
+also immediately seen that corresponding to the motion of an
+electron in an elliptical orbit round a nucleus, there will bea
+motion of the x electrons in which each rotates in an ellip-
+tical orbit with the nucleus in the focus, and the n electrons
+at any moment are situated at equal angular intervals on a
+circle with the nucleus as the centre. The major axis and
+frequency of the orbit of the single electrons will for this
+motion be given by the expressions (1) on p. 3 if we
+
+replace EB by E—es, and W. by ¥, Let us now suppose
+
+that the system of n electrons rotating in a ring round a
+nucleus is formed in a way analogous to the one assumed for
+a single electron rotating round a nucleus. It will thus be
+assumed that the electrons, before the binding by the nucleus,
+were at a great distance apart from the latter and possessed
+no sensible velocities, and also that during the binding a
+homogeneous radiation is emitted. As in the case of a single
+electron, we have here that the total amount of energy emitted
+during the formation of the system is equal to the final kinetic
+energy of the electrons. If we now suppose that during the
+
+--- Page 23 ---
+[German National Licence 2007] At: 08:03 18 November 2010
+
+Downloaded By:
+
+22 Dr. N. Bohr on the Constitution
+
+formation of the system the electrons at any moment are
+situated at equal angular intervals on the circumference of a
+circle with the nucleus in the centre, from analogy with
+the considerations on p. 5 we are here led to assume the
+existence of a series of stationary configurations in which
+
+the kinetic energy per electron is equal to tho where 7 is
+
+an entire number, 4 Planck’s constant, and » the frequency
+of revolution. The configuration in which the greatest
+amount of energy is emitted is, as before, the one in which
+v=1. This configuration we shall assume to be the permanent
+state of the system if the electrons in this state are arranged
+in a single ring. As for the case of a single electron we get
+that the angular momentum of each of the electrons is equal
+
+h
+to ie It may be remarked that instead of considering the
+
+single electrons we might have considered the ring as an
+entity. This would, however, lead to the samo result, for in
+this case the frequency of revolution will be replaced by
+the frequency nw of the radiation from the whole ring calcu~
+lated from the ordinary electrodynamics, and T by the total
+kinetic energy nT.
+
+There may be many other stationary states corresponding
+to other ways of forming the system. The assumption of the
+existence of such states seems necessary in order to account
+for the line-spectra of systems containing more than one
+electron (p. 11); it is also suggested by the theory of
+Nicholson mentioned on p. 6, to which we shall return in
+amoment. The consideration of the spectra, however, gives,
+as far as I can see, no indication of the existence of stationary
+states in which all the electrons are arranged in a ring and
+which correspond to greater values for the total energy
+emitted than the one we above have assumed to be the
+permanent state.
+
+Further, there may be stationary configurations of a
+system of x electrons and a nucleus of charge E in which all
+the electrons are notarranged ina single ring. The question,
+however, of the existence of such stationary configurations is
+not essential for our determination of the permanent state, as
+long as we assume that the electrons in this state of the
+system are arranged ina singlering. Systems corresponding
+to more complicated configurations will be discussed on
+
+. 24,
+P Using the relation T=h$ we get, by help of the above
+
+expressions for T’ and @, values for a and corresponding to
+
+--- Page 24 ---
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+of Atoms and Molecules. 23
+
+the permanent state of the system which only differ from
+those given by the equations (3) on p. 5, by exchange of
+E for E~—esn.
+
+The question of stability of a ring of electrons rotating
+round a positive charge is discussed in great detail by Sir J.
+J. Thomson *, An adaption of Thomson’s analysis for the
+case here considered of a ring rotating round a nucleus of
+negligibly small linear dimensions is given by Nicholson f.
+The investigation of the problem in question naturally divides
+in two parts: one concerning the stability for displacements
+of the electrons in the plane of the ring ; one concerning
+displacements perpendicular to this plane. As Nicholson’s
+calculations show, the answer to the question of stability
+differs very much in the two cases in question, While the
+ring for the latter displacements in general is stable if the
+number of electrons is not great; the ring is in no case
+considered by Nicholson stable for displacements of the first
+kind.
+
+According, however, to the point of view taken in thia
+paper, the question of stability for displacements of the
+electrons in the plane of the ring is most intimately connected
+with the question of the mechanism of the binding of the
+electrons, and like the latter cannot be treated on the basis of
+the ordinary dynamics. The hypothesis of which we shall
+make use in the following is that the stability of a ring of
+electrons rotating round a nucleus is secured through the
+above condition of the universal constancy of the angular
+momentum, together with the further condition that the
+configuration of the particles is the one by the formation of
+which the greatest amount of energy is emitted. As will be
+shown, this hypothesis is, concerning the question of stability
+for a displacement of the electrons perpendicular to the plane
+of the ring, equivalent to that used in ordinary mechanical
+calculations.
+
+Returning to the theory of Nicholson on the origin of
+lines observed in the spectrum of the solar corona, we shall
+now see that the difficulties mentioned on p. 7 may be only
+formal. In the first place, from the point of view considered
+above the objection as to the instability of the systems for
+displacements of the electrons in the plane of the ring may
+not be valid. Further, the objection as to the emission of the
+radiation in quanta will not have reference to the calculations
+in question, if we assume that in the coronal spectrum we are
+not dealing with a true emission but only with a scattering of
+radiation. This assumption seems probable if we consider
+
+* Loe. cit. + Loe. cit.
+
+--- Page 25 ---
+Downloaded By: [German National Licence 2007] At: 08:03 18 November 2010
+
+24 On the Constitution of Atoms and Molecules.
+
+the conditions in the celestial body in question; for on
+account of the enormous rarefaction of the matter there may
+be comparatively few collisions to disturb the stationary
+states and to cause a true emission of light corresponding to
+the transition between different stationary states; on the other
+hand there will in the solar corona be intense illumination of
+light of all frequencies which may excite the natural vibrations
+of the systems in the different stationary states. If the above
+assumption is correct, we immediately understand the entirely
+different form for the laws connecting the lines discussed by
+Nicholson and those connecting the ordinary line-spectra
+considered in this paper.
+
+Proceeding to consider systems of a more complicated
+constitution, we shall make use of the following theorem,
+which can be very simply proved :—
+
+“In every system consisting of electrons and positive
+nuclei, in which the nuclei are at rest and the electrons move
+in. circular orbits with a velocity small compared with the
+velocity of light, the kinetic energy will be numerically equal
+to half the petential energy.” :
+
+By help of this theorem we get—as in the previous cases
+of a single electron or of a ring rotating round a nucleus—
+that the total amount of energy emitted, by the formation of
+the systems froma configuration in which the distances apart
+of the particles are infinitely great and in which the particles
+have no velocities relative to each other, is equal to the
+kinetic energy of the electrons in the final configuration.
+
+In analogy with ‘the case of a single ring we are here led
+to assume that corresponding to any configuration of equili-
+brium a series of geometrically similar, stationary con-
+figurations of the system will exist in which the kinetic
+energy of every electron is equal to the frequency of revo-
+
+lution multiplied by 5h where 7 is an entire number and h
+
+Planck’s constant. In any such series of stationary con-
+figurations the one corresponding to the greatest amount of
+energy emitted will be the one in which + for every electron
+is equal to 1. Considering that the ratio of kinetic energy
+to frequency for a particle rotating in a circular orbit is
+equal to a times the angular momentum round the centre of
+the orbit, we are therefore led to the following simple
+generalization of the hypotheses mentioned on pp. 15 and 22.
+
+“In any molecular system consisting af positive nuclei and
+electrons in which the nuclei are at rest relative to each other
+and the electrons move in circular orbits, the angular momentum
+
+--- Page 26 ---
+08:03 18 November 2010
+
+[German National Licence 2007] At:
+
+Downloaded By:
+
+Formation. of Molecules of the Elements. 25
+of every electron round the centre of its orbit will in the
+
+permanent state of the system be equal to fo where h is
+Planck’s constant” *. 7
+
+In analogy with the considerations on p. 23, we shall
+assume that a configuration satisfying this condition is stable
+if the total energy of the system is less than in any neigh-
+bouring configuration satisfying the same condition of the
+angular momentum of the electrons.
+
+As mentioned in the introduction, the above hypothesis will
+be used in a following communication as a basis for a theory of
+the constitution of atoms and molecules. It will be shown
+that it leads to results which seem to bo in conformity with
+experiments on a number of different phenomena.
+
+The foundation of the hypothesis has been sought entirely
+in its relation with Planck’s theory of radiation ; by help of
+considerations given later it will be attempted to throw
+some further light on the foundation of it from another
+point of view,
+
+April 5, 1913,
+
+Il. On the. Formation of the Molecules of the Elements
+and. their Compounds, with Atoms as constituted on the
+Corpuscular-Ring Theory, By A.zurt C. CREHORE,
+PLD.
+
+[Plates I. & IL J
+
+Part I,
+
+Rmsons have been given that make it seem very
+
+probable that the atoms are constituted, as suggested
+by Sir J. J. Thomson, of masses of positive electrification
+within which ‘negative electrons are revolving. The elec-
+trons take positions of dynamical equilibrium due to their
+mutual action upon each other, and upon the positive
+electricity. The present investigation aims, first, to obtain
+more exact information concerning these atoms themselves,
+and, second, to examine the manner in which two or more
+such atoms, either of the same or of different kinds, must
+act upon each other when brought, within molecular range.
+To anticipate the results which are later described it is found
+that such atoms come to definite positions of stable equilibrium
+
+* In the considerations leading to this hypothesis we have assumed
+that the velocity of the electrons is small compared with the velocity of
+light, The limits of the validity of this assumption will be discussed in
+Part II.
+
++ Communicated by the.Author,

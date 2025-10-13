@@ -1,0 +1,1472 @@
+
+--- Page 1 ---
+N
+
+HAL
+
+open science
+
+Sur la théorie des quanta
+
+H. Poincaré
+
+» To cite this version:
+
+H. Poincaré. Sur la théorie des quanta.
+
+J. Phys. Theor. Appl., 1912, 2 (1), pp.5-34.
+
+10.1051/jphystap:0191200200500 .… jpa-00241783
+
+HAL Id: jpa-00241783
+https://hal.science/jpa-00241783v1
+Submitted on 4 Feb 2008
+
+HAL is à multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in France or
+abroad, or from public or private research centers.
+
+L'’archive ouverte pluridisciplinaire HAL, est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+
+--- Page 2 ---
+JOURNAL
+DE PHYSIQUE
+
+THÉORIQUE ET APPLIQUÉE.
+
+SUR LA THÉORIE DES QUANTA;
+
+Par M. H. POINCARÉ.
+
+$ 1. — Ixrropucrion.
+
+On sait à quelle hypothèse M. Planck a été conduit par ses re-
+cherches sur les lois du rayonnement. D'après lui, l'énergie des ra-
+‘ diateurs lumineux varierait d'une manière discontinue, et c'est ce
+qu'on appelle la théorie des Quanta. Il est à peine nécessaire de
+faire remarquer combien cette conception s’écarte de tout ce qu'on
+avait imaginé jusqu'ici; les phénomènes physiques cesseraient
+d’obéir à des lois exprimables par des équations différentielles, et ce
+serait là, sans aucun doute, la plus grande révolution et la plus pro-
+fonde que la philosophie naturelle ait subie depuis Newton. Je ne
+parlerai pas des difficultés de détail, elles sautent à tous les yeux et
+M. Planck est le premier à s’en préoccuper.
+
+Peut-on néanmoins échapper à cette conséquence ? Bien des per-
+sonnes l'ont pensé; lors du récent Congrès de Bruxelles, M. Nernst
+m'avait communiqué certaines suggestions ; il pensait qu’on pourrait
+rendre compte des faits, en supposant que les masses, au lieu d’être
+constantes comme dans la mécanique classique, au lieu de dépendre
+seulement de la vitesse, comme dans la mécanique nouvelle fondée
+sur le principe de relativité, soient dépendantes à la fois des compo-
+santes de la vitesse et de celles de l'accélération. Ce sont ces sug-
+gestions de M. Nernst qui m'ont déterminé à entreprendre ce tra-
+vail, et je dois dire tout de suite que j'ai été conduit à répondre
+négativement à la question posée par l'éminent physicien.
+
+M. Planck se représente le rayonnement des solides comme dû à
+un très grand nombre de résonnateurs hertziens. Chacun de ces réson-
+
+Article published online by EDP Sciences and available at http://dx.doi.org/10.1051/jphystap:0191200200500
+
+
+--- Page 3 ---
+6 POINCARÉ
+
+nateurs a une période propre unique et émet une lumière rigoureu-
+sement monochromatique. Par suite des échanges d'énergie entre
+ces résonnateurs, il s'établit entre eux un partage del’énergie suivant
+une certaine loi, et il en résulte une certaine distribution de l'énergie
+rayonnée dans le spectre. Ceci suppose que ces échanges d’énergie
+sont possibles, bien que chaque résonnateur ne puisse ni absorber,'ni
+émettre que de la lumière d’une couleur donnée; car, si l'échange ne
+pouvait avoir lieu, on ne tendrait pas vers une distribution finale et
+la distribution initiale persisterait indéfiniment. Maïs ces échanges
+peuvent se faire par deux mécanismes entièrement différents :
+
+1° Par le jeu du principe de Düppler-Fizeau ; soit que les réson-
+nateurs soient supposés en mouvement, soit que la lumière rayonnée
+puisse être réfléchie, réfractée, diffractée ou diffusée par des corps
+en mouvement. Dans ce cas, les résonnateurs de longueurs d'ondes
+différentes pourraient échanger leurs énergies par l'intermédiaire de
+l'éther ; |
+
+2 Par des phénomènes mécaniques et en particulier par des
+chocs. On ne peut supposer qu’il y ait une influence directe d'un ré-
+sonnateur sur l’autre. La théorie des quanta ne s'y préterait pas,
+puisque l'un des résonnateurs ne pourrait gagner d'énergie que par
+multiples d’un certain quantum, tandis que l’autre ne pourrait en
+perdre que par multiples d’un autre quantum, incommensurable avec
+le premier. D'ailleurs, abstraction faite de la théorie des quanta, il
+ne manquerait pas de bonnes raisons pour lesquelles un échange
+immédiat serait invraisemblable et ne pourrait en tout cas qu'être
+exceptionnel. Mais il doit circuler entre lesrésonnateurs des atomes
+matériels qui, en choquant les résonnateurs, peuvent leur commu-
+niquer ou leur emprunter de l'énergie; les échanges se feraient
+alors par l'intermédiaire de la matière.
+
+Bien que cette conception des résonnateurs de M. Planck soit assez
+particulière et n’ait d'autre but que de fixer les idées, nous n'avons
+aucune raison de ne pas l’adopter, puisqu'elle semble ne devoir
+en aucun cas modifier les résultats essentiels. D'un autre côté, nous
+admettrons la possibilité des deux modes d'échange, mais nous
+étudierons plus particulièrement dans cet article le second mode,
+c'est-à-dire l'échange mécanique par l'intermédiaire de la matière.
+
+Imaginons d’abord un système dont l'état est défini à chaque ins-
+tant par # paramètres
+
+Li, La, se, ne
+
+--- Page 4 ---
+THÉORIE DES QUANTA 7
+Supposons que les lois qui nous font connaître les variations de
+ces paramètres s'expriment par les équations différentielles :
+
+EE
+
+(1) a —
+
+où les X sont des fonctions des x. Nous pouvons représenter l'état
+du système par le point de l’espace à n dimensions dont les coor-
+
+données sont æ,,#,, …...,. La probabilité pour que ce point soit
+intérieur à un élément de volume d= de cet espace à x dimensions
+sera War, W étant une certaine fonction de »,, æ,, ..…, æ,. La pro-
+
+babilité pour que ce point soit intérieur à un volume de l’espace à n
+P q P P
+
+dimensions sera f War, l'intégration étant étendue à ce volume.
+
+Par une pareille probabilité, j'entends le rapport _ T désignant
+
+une très longue durée s'étendant depuis l'époque 6 jusqu'à l’époque
+9 + T, et { le temps pendant lequel, entre ces deux mêmes époques,
+le point représentatif s’est trouvé à l’intérieur du volume considéré.
+
+D
+
+Cette probabilité n'aura donc aucun sens, si ce rapport T 2e peut
+
+pas être considéré comme indépendant de 0 et de T, pourvu que #4
+soit très grand. Si cette condition est remplie et si la fonction W
+peut être définie, elle devra satisfaire à l'équation aux dérivées par-
+tielles :
+
+@) D d(WX) _,
+
+de
+
+c'est-à-dire que W doit être un « dernier multiplicateur » des équa-
+tions (1). Si donc ces équations n’admettent pas de dernier multi-
+plicateur uniforme, la fonction W n’existera pas, on ne pourra
+parler de l'état moyen du système pendant un intervalle très long ; et
+même si on considère un ensemble formé d'un très grand nombre de.
+pareils systèmes, cet ensemble de systèmes ne tendra pas vers un
+état final; cela est contraire au second principe de la thermodyna-
+mique qui exige que le monde tende vers un état final d'où il ne peut
+plus sortir une fois qu'il l'a atteint. Les équations qui représentent
+les phénomènes naturels doivent donc posséder au moins un dernier
+mulliplicateur uniforme.
+
+Dans le cas de la mécanique classique, les équations différen-
+
+--- Page 5 ---
+8 POINCARÉ
+
+tielles sont celles de Hamilton :
+
+dti _dF dys | dF
+dd — = dt = dx,
+
+et l’on a :
+
+dX; SE
+DEEE TE
+c'est-à-dire que le dernier multiplicateur W est égal à 1. On sait
+que cette hypothèse conduit au théorème de l'équipartition de
+l'énergie.
+
+$ 2. — Cas DE DEUX RÉSONNATEURS.
+
+Envisageons un système formé de deux résonnateurs, l’un à longue,
+l’autre à courte période. Chacun de ces résonnateurs pourra être con-
+sidéré comme une masse mobile oscillant autour de sa position
+d'équilibre d'après la loi pendulaire. Pour le premier, celui dont la
+
+an ee h
+période est longue, nous désignerons par m1, sa masse, par 2 V2:
+4
+
+sa période, par x, son élongation, par y, sa quantité de mouve-
+ment, par £ son énergie, et par + la phase de son mouvement; de
+telle façon que l’on ait :
+
+ee es + de Ph
+= Yi = V2E cosy, Vluz, — V2E sine, a =Vr
+M t my
+et que les équations du mouvement, quand ce mouvement n’est pas
+troublé par des chocs, s'écrivent :
+ds dyi
+= My = — hs.
+y 1 dt 171
+À Nous désignerons pour le second résonnateur par M, h;, &2, Ya,
+n. Ÿ, les quantités correspondantes à m»,, h,, «,, y,, &, +, de sorte
+qu’on aura :
+
+1 — — = dy he
+— 2 COS Ÿ hot = V?n sin, + —\/—:
+Y2 ñ COS, V LT van sin? & M?
+
+dæ» d
+V2 = Ma PL A = — ht
+
+Nous supposerons que les deux résonnateurs oscillent sur la même
+
+--- Page 6 ---
+THÉORIE DES QUANTA 9
+
+droite (mais autour de positions d'équilibre différentes), de façon à
+pouvoir se choquer. Les équations du mouvement troublé par les
+chocs s’écriront :
+
+dæi d .
+(3) Yi Mi Fri L = — hr; + Li (i = 1,2
+
+Les fonctions Z sont négligeables, sauf au moment des chocs ; ce
+sont donc des fonctions des æ et des y qui seront sensiblement
+nulles quand la différence æ, — x, n'aura pas une valeur voisine de
+celle qui correspond au choc, et extrêmement grandes dans le cas
+contraire.
+
+Je ne cherche pas une expression plus précise des fonctions Z
+en m'appuyant sur les lois connues du choc. Nous sommes obligés,
+en effet, de supposer, et c'est précisément là l'objet de ce travail,
+que les lois du choc sont modifiées d'une façon qui déroute toutes
+les prévisions. En revanche, nous ne toucherons pas aux termes de
+nos équations, autres que les termes Z; ces termes expriment seu-
+lement, en effet, que le mouvement de chaque résonnateur reste sinu-
+soïdal en l'absence de toute perturbation, et c’est là une hypothèse
+qui s'impose, si nous voulons que chaque résonnateur donne une
+radiation monochromatique.
+
+En ce qui concerne le résonnateur à longue période, nous pouvons
+supposer à la fois que X, est très petit et que l'amplitude des oscil-
+lations est très grande ; nous arrivons à la limite au cas d’un atome
+se mouvant librement, et’dont le mouvement est rectiligne et uni-
+forme dans l'intervalle des chocs.
+
+Cela posé, nous devrons avoir un dernier multiplicateur ÆW, %
+étant un facteur constant dont je me réserve de disposer; la proba-
+bilité est exprimée par l'intégrale :
+
+J'evas = K fWdaidudrsdys,
+
+ce qui peut s'écrire en passant aux variables £, n, ®, Ÿ :
+
+Mia Ed ee
+(4) Lire x f Wdëdrdzdy.
+
+La fonction W doit rester un dernier multiplicateur en dehors des
+chocs, c'est-à-dire quand on annule les termes Z, cela exige :
+
+DL RW UN
+{2 T (PTE
+mi dt IA dy mi dm 22 ya
+
+= 0,
+
+--- Page 7 ---
+10 POINCARÉ
+
+ou avec les nouvelles variables :
+
+maW ,
+
+h, de un ho D
+
+W — fonc. (e. n ® Va — Ÿ le).
+my M
+
+Re Îs ;
+Les coefficients V2: et Var étant généralement incommensu-
+mn M
+
+d'où :
+
+rables, la seule solution qui soit uniforme en æ,, y, &2, Ya, et par
+conséquent périodique en + et, c’est une fonction arbitraire deË£ et »..
+
+Pour avoir la probabilité pour que les énergies soient comprises
+respectivement entre £ et € + dé, et entre n et n + dn, il faut
+intégrer l'expression (4) par rapport à & et à 4 depuis 0 jusqu'à 2x;
+on trouve ainsi :
+
+27 PUMo vyye
+4r?k he Wd£dn,
+
+ce qui, en prenant l'arbitraire:
+
+hiha
+5 PER
+se réduit à Wdëdn.
+Si donc on représente l’état du système par le point du plan dont
+les coordonnées sont £ et n, la probabilité pour que le point repré-
+sentatif soit intérieur à une certaine aire sera :
+
+[ Wdëdn.
+
+La fonction W peut dépendre de # etde n, mais le résonnateur à
+très longue période étant assimilable à un atome, nous devons
+admettre qu'il suit les lois dela mécanique ordinaire et que les déro-
+gations à ces lois ne pourront provenir que de la présence de l’autre
+résonnateur, ce qui signifie que W ne dépend que de n; cette hypo-
+thèse sera mieux justifiée dans la suite.
+
+Je dois rechercher quelle est la partition de l'énergie, c'est-à-dire
+quelles vont être les valeurs probables de £et de x, valeurs que
+j'appelle X et Y. J'observe que £ et n sont liés par l'équation des
+forces vives :
+
+E+n—=k,
+
+--- Page 8 ---
+THÉORIE DES QUANTA 11
+
+où h est une constante donnée. Je poserai alors :
+Mai = f War, .
+
+où l'intégration est étendue au domaine défini par les inégalités :
+E>0, n>o, R<E+n<h+ dh
+
+J'aurai alors par définition : - L
+MXdh — f EE : MYdh = JL 1WdEdr.
+
+Il est clair que je pourrais écrire également :
+
+he 1/3 hi
+(G) M =fw (x) di; MX = fu — 5) Wfn)dn; MY = frw(o dn.
+0 0 0
+
+On a dans tous les cas :
+
+Si W — 1, il vient comme on sait X — Y. Dans tous les cas, nous
+devons admettre que le résonnateur à longue période suit les lois
+actuelles, et par conséquent que X représente la température absolue
+(à un facteur constant près que nous pouvons supposer égal à À par
+un choix convenable des unités). Si la loi de Planck est vraie, on
+
+devra donc avoir :
+ë
+
+Y=— ,
+
+es —1
+
+e étant une constante. Il serait aisé, à l’aide des formules (5), de
+déterminer W de façon à retrouver cette loi, mais cela n'aurait aucun
+intérêt, le cas de la nature étant entièrement différent.
+
+$ 3. — Cas DE PLUSIEURS RÉSONNATEURS.
+
+Nous devons imaginer, en effet, non pas deux résonnateurs, mais
+des résonnateurs en très grand nombre; nous supposerons qu’il y en
+ait p à longue période, tous semblables entre eux et ayant respec-
+
+tivement pour énergie 4,,5,, ...,?,; et en outre » résonnateurs à courte
+
+période, tous semblables entre eux et ayant respectivement pour
+
+
+--- Page 9 ---
+12 POINCARÉ
+
+énergie, 3, n2 ..., nn. Nous pourronsd'ailleurs désigner ces réson-
+nateurs par R,, R,. …, R,, d'une part, par R;, R{, …, R}, d'autre
+part; nous représenterons leurs phases par Gis Por +. PP et par
+Vs Vas +, Vn. Les équations différentielles devront alors admettre
+un dernier multiplicateur AU (où 4 est un facteur constant dont nous
+nous réservons de disposer); de telle façon qu'en représentant l'état
+du système par un point de l'espace à 2n + 2p dimensions des£,
+des n, des 4 et des +, la probabilité pour que le point représentatif
+soit intérieur à un certain volume de cet espace sera :
+
+J AUds,
+
+où d& est le produit des d£, des dn, des de et des dy.
+
+Considérons maintenant l'effet des chocs entre les résonnateurs R;
+et R{, et soit W, ce que serait le dernier multiplicateur si ces
+deux résonnateurs existaient seuls; nous avons vu au paragraphe
+précédent que W est une fonction de E; et de 7; nous avions même
+été conduits à supposer que W dépendait de »; seulement, mais
+j'abandonne pour un instant cette hypothèse. Un choc entre R;
+et R} fera varier brusquement (ou très rapidement) les variables £;,
+ma, %a Va, relatives à ces deux résonnateurs et ne changera pas les
+variables relatives aux autres résonnateurs. Pour que la distribution
+des probabilités n’en soit pas altérée, il faut que AU soit de la forme :,
+
+AU F.W(E, 4),
+
+W (Gi, mx) étant le dernier multiplicateur, tel qu'il serait si les deux
+résonnateurs existaient seuls el F étant une fonction des variables
+relatives aux autres résonnateurs. Si donc nous envisageons en par-
+ticulier les résonnateurs R,, R, et R{ par exemple, nous pourrons
+écrire :
+
+AU = Fi(ës ) Wom)
+et d'autre part:
+bee) WE mu),
+
+F, dépendant seulement des résonnateurs autres que R, et R{ et
+F, seulement des résonnateurs autres que R,et R;. Cela n’est possible
+que si l'on a :
+
+RU = D. w'(E,) w'(E) w(r),
+
+& (4), &° (82), 6 (as) étant des fonctions d’une seule variable ne
+
+--- Page 10 ---
+THÉORIE DES QUANTA 43
+dépendant respectivement que de ,. de £, et de r,. tandis que ® ne
+dépend que des variables relatives aux résonnateurs autres que R,.
+R,etR;. On trouvera ainsi finalement :
+
+RU — Au (E) n° (E) 2 0 (Ep) 00 (no) 26 (ra) ee 20 (rm).
+
+C'est le moment de revenir à l'hypothèse faite plus haut et
+que nous discuterons plus complètement plus loin et de supposer
+w'(£;) = 1, de telle façon que notre probabilité ne dépende que des n
+et pas des £.
+
+Dans tous les cas, cette probabilité ne dépend pas des phases. Si
+donc nous représentons la distribution des énergies dans le système
+par un point de l'espace à » + p dimensions des £ et des r, la loi des
+pYobabilités s’obtiendra en intégrant l'expression :
+
+J kUdo,
+
+par rapport aux + et aux 4 depuis 0 jusqu'à 2+; on trouve ainsi:
+k(2r}+r Judas,
+
+où ds désigne le produit des dn et dr celui des d£. Nous disposerons
+de Æ de ‘telle façon que :
+E(2r}e tr — 1,
+
+et, en nous rappelant que les w’ sont supposés égaux à 1 et que U se
+réduit au produit des +, nous aurons pour l'expression de la proba-
+bilité :
+
+(6) J'uds = frutn ao (na) ee (np) d5dz.
+
+L'équation des forces vives s'écrira :
+XE+E—=h.
+Les valeurs moyennes des £; seront toutes les mêmes par raison de
+symétrie et il en est de même de celles des 14; j'appelle X la valeur
+
+moyenne des£; et Y celle des 7, et j'ai pour définir ces quantités les
+équations :
+
+(D) Mdh = f Udsdz;  MXdh — f EjUdsd=;  MYdh — f° riUdodr,
+
+--- Page 11 ---
+1% l POINCARE
+
+les intégrations étant étendues au domaine défini par les inégalités :
+
+(8) H>0, w> O0, h<EF + En <h+ dh.
+$ #. — Discussion pes FORMULES.
+
+Il y a lieu de se demander d’abord si la relation entre X et Y est
+indépendante des nombres entiers # et p. Il y a un cas où il en est
+effectivement ainsi, c’est celui où # (1) est une puissance de n, soit y.
+Pour nous en rendre compte, nous allons nous appuyer sur la for-
+mule suivante.
+
+Répartissons arbitrairement en deux classes les résonnateurs soit à
+longue, soit à courte période, et désignons par £/ et r/ les éner-
+gies des résonnateurs de la première classe, par £} et r{ celles des
+résonnateurs de la deuxième classe. Soit U’ ce que serait le produit U
+si les résonnateurs de lapremière classe existaient seuls et U” ce qu'il
+serait si ceux de la deuxième classe existaient seuls, on aura donc :
+
+U=— UT";
+
+nous désignerons par ds’, dr’, de”, dx” les produits des d', des d£’,
+des dn”, des d£” et nous aurons :
+
+Mdh = fuv'asararar.
+Commençons par calculer l'intégrale du second membre en l'éten-
+dant au domaine défini par les inégalités :
+
+(8 bis) F>o, n>0, #>0, n>0;
+VOUUR<SE + En <N + dn'; RO < EE + En <h + dh,
+
+les variables se trouvent séparées et l'intégrale se décomposera en
+
+deux facteurs:
+f D'asd= J V'és'dr".
+
+Ces deux facteurs ne sont autre chose que M'dh’ et M’dh”, en dési-
+gnant par M’ (ou par M”) ce que deviendrait M si les résonnateurs de
+la première classe (ou de la seconde) existaient seuls. Pour retrou-
+ver l'intégrale étendue au domaine (8), il suffit d'intégrer de nouveau
+par rapport à k' et »” dans le domaine défini par :
+
+R>o, k'>o, RLR+R LR + dh,
+
+--- Page 12 ---
+THÉORIE DES QUANTA 15
+
+on trouve ainsi :
+Mdh = fwwraan : WToN>oRLKHENLRE AN
+ou ce qui revient au même :
+
+li
+(9) MA) = f[W'(a) M'(h— à) dr.
+
+Comme M est une fonction qui dépend de n et de p et que je puis
+écrire &n. » (A), je puis écrire la formule (9) sous la forme :
+
+oh,
+(9 dis) gmincp+ gl) = [rm (&) en-g(h — 2) dx.
+0
+
+Si nous désignons par X'Y’ (ou par X”Y”) ce que seraient les
+valeurs moyennes des £ et des n si les résonnateurs de la première
+classe (ou de la deuxième) existaient seuls, on trouvera de même:
+
+7
+(40) yM = fYawras,
+0
+
+où Ÿ’ et M’ sont des fonctions de æ, et M” de A — x.
+Si nous supposons # (n) — r”, je trouve :
+
+hmrt
+Hi ae ru
+
+he
+So = À, Se = pem +1 fran (s — x)" da.
+0
+Je dis que nous aurons en général :
+
+Quep = KhMn+R +=,
+K étant un facteur numérique. Il suffit de remarquer que l'intégrale
+
+he
+fau — 28 dx
+
+0
+
+définie :
+
+est proportionnelle à A#+B+1 et d'appliquer la formule (9 bis) pour
+reconnaître que la proposition vraie pour les petites valeurs de n et
+de p doit être également vraie par récurrence pour toutes les valeurs
+de ces entiers.
+
+Si nous plaçons dans la première classe tous les résonnateurs
+à courte période et dans la seconde tous ceux de période longue,
+
+--- Page 13 ---
+16 POINCARÉ
+
+nous aurons donc :
+M=Khmn+n- 1, M'= K'h'r-1.
+d'a 1 gr LR :
+
+On devra avoir d’ailleurs Y' — 7 X"— FL puisque dans le cas,
+par exemple, où les # résonnateurs à courte période existent seuls,
+comme ils sont tous identiques, l'énergie moyenne Ÿ’ de chacun
+d'eux devra être la n° partie de l'énergie totale X'; on aura donc,
+pour les formules (9) et (10) :
+
+M=K c f'amr tn (h — æ)r—1 de,
+0
+
+h
+2/11 h _—_
+ES TETE MX KR" fonte aa,
+, .
+
+D) P
+
+o
+
+Mais l'intégration par parties nous donne :
+
+n LA ph .
+fast a de ES far (h = 284! da.
+È
+
+8
+PT
+o
+
+On en déduit :
+
+pX P
+d'où :
+X___Y
+1 m+i
+
+On voit que la répartition de l'énergie ne dépend pas des nombres
+‘net p, mais c'est là le seul cas où cette indépendance ait lieu.
+
+Considérons le cas de n — 1, p —2; de sorte que nous aurons
+trois résonnateurs dont les énergies seront respectivement n, &, etë, ;
+et on aura :
+
+M = fudids, XM = f'hndrd, YM — f nudndë,,
+
+où # dépend seulement de n, où l'état du système est représenté
+par le point du plan dont les coordonnées sont n et £, et où les inté-
+grations sont étendues au triangle :
+
+120, 4 >, n+a<h.
+
+--- Page 14 ---
+THÉORIE DES QUANTA 17
+
+Si alors est considéré comme représentant la densité de la ma-
+tière, M représentera la masse du triangle, X et Y son centre de
+gravité. Ce centre de gravité sera sur la médiane correspondant au
+côté qui est sur l’axe des £,, puisque la densité est constante le long
+des droites parallèles à cet axe; on a donc :
+
+2X + Y—h.
+
+Quand on fera varier , ce centre de gravité XY décrira une cer-
+taine courbe C, et l'équation de cette courbe nous donnera la relation
+cherchée entre X et Y.
+
+Pour passer au cas de n — 1, p — 1, nous n'avons qu'à faire :
+
+M=— f'odr,  XM = f'iwan = fn —r)uwdn,  YM = fadn,
+
+en étendant les intégrations à la droite :
+H+n—h,
+
+qui sert de base à notre triangle; le point XY représente alors le
+centre de gravité de cette base. Si nous voulons que la loi de parti-
+tion de l'énergie soit la même pour n —‘1, p — 1, que pour n — 1,
+p = 2, il faut que le lieu de ce nouveau centre de gravité, quand on
+fait varier À, soit encore la courbe C.
+
+Je dis que cela n'est possible que si la courbe C est une droite
+passant par l'origine ; si, en effet, ce n’était pas une droite, c'est-
+
+à-dire si le rapport + n’était pas une constante, nous pourrions
+
+X
+prendre k assez petit pour que, de O jusqu’à k, cette courbe ne pré-
+sente pas de point d'inflexion et soit par conséquent convexe. Décom-
+posons le triangle en trapèzes infiniment étroits en menant des
+parallèles à la base £, + n — *; chacun de ces trapèzes aura son
+centre de gravité sur C; le centre de gravité total du triangle ne
+changera pas si on concentre la masse de chacun de ces trapèzes en
+son centre de gravité : c’est donc le centre de gravité de la courbe C
+en attribuant à cette courbe une densité partout positive. Or, le
+centre de gravité d'une courbe convexe ne peut se trouver sur cette
+courbe; donc le centre de gravité du triangle ne pourrait se trouver
+sur C, ce qui est contraire à l'hypothèse.
+J. de Phys., 5° série, t. II. (Janvier 1912.) 2
+
+--- Page 15 ---
+18 POINCARÉ
+
+La courbe C est donc une droite :
+
+Y
+xt
+
+h
+J rodn
+a
+n
+fa — 1) wdn
+ô
+
+Le rapport des deux intégrales étant indépendant de X, nous
+obtiendrons encore le même rapport en différentiant le numérateur
+et le dénominateur par rapport à k; mais
+
+a f a
+ü Jr — nl (), a Ja" wdr = fur,
+o 0
+
+d'où successivement :
+
+he
+Ro) ns, Jun= ms, W =
+
+he TT ‘
+J wdn 0
+
+0
+
+= m+t.
+
+C. Q.F. D
+
+Ce n'est donc que dans des cas très exceptionnels que la loi de
+partition de l'énergie est indépendante des entiers n et p; il semble
+d’abord qu'il en résulte qu'aucun équilibre thermique ne soit pos-
+sible et que cela soit en contradiction avec le second principe de la
+thermodynamique, mais il faut se rappeler que les nombres # et p
+sont toujours très grands. Il convient donc de se poser la question
+autrement : Za loi de partition de l'énergie est-elle indépendante du
+
+n
+rapport ñ quand les entiers n et p sont très grands ?
+
+Si cette indépendance n'avait pas lieu, l'équilibre thermodyna-
+mique serait impossible ; tous les théorèmes de Boltzmann, qui pos-
+tulent la possibilité de cet équilibre seraient en défaut; la notion
+même d’entropie n'aurait plus aucun sens. Tant donc que cette indé-
+pendance n'est pas établie, il peut rester des doutes sur les raison-
+nements de M. Planck, qui reposent sur l'existence de l'entropie et
+les théorèmes de Boltzmann. Cela suffirait pour justifier le travail
+que j'ai entrepris ici.
+
+--- Page 16 ---
+THÉORIE DES QUANTA 19
+
+$ 5. — Cas DES GRANDS NOMBRES.
+
+Reprenons, dans le cas général {c'est-à-dire pour « quelconque),
+
+les équations (9) à (10) en classant dans une même classe, comme
+plus haut, les résonnateurs de même période ; nous pourrons écrire :
+
+M — qu (h'), M'= K'xr- 1, v=}, x —À',
+n P
+et il viendra :
+he
+(11) M=—K" Je (æ) (h — x)r 1 dz ;
+(2) AN 2% far (k— x)-1dx; M = fre (h— x)r dæ.
+
+Supposons que pour n très grand, », (x) puisse se mettre sous la
+forme suivante :
+
+(13) en (2) — HNF* (£) 6 ()
+
+F et 4 sont deux fonctions de F la première élevée à la puissance n ;
+
+N est un coefficient numérique ne dépendant que de », H est une
+expression qui tend vers 1 quand n tend vers l'infini ; nous poserons
+p = in, et nous suposerons que n et p sont très grands, mais que
+leur rapport X est fini.
+
+Posons encore : -
+
+æ h à
+
+= a = D—F(»)(8 — w)#,
+il viendra :
+
+NN [È do
+MK x J'uo (o) @r(e) D;
+—%
+0
+al 22
+
+MY — nPKN f %H6 (w) a () 5 de: MX — Es * fin (w) DA (&) de.
+
+0
+
+Sous le signe f'figure une fonction d élevée à une puissance très
+
+grande ; l'élément de cette intégrale, qui correspond au maximum de
+:
+
+--- Page 17 ---
+20 POINCARÉ
+®, aura donc une influence très prépondérante. Le rapport des inté-
+grales :
+MY MX
+M” M”
+pourra donc se calculer en tenant compte seulement de cet élément;
+
+on aura donc :
+
+w étant la valeur qui rend maximum %; or cette valeur sera donnée
+par l'équation :
+
+ou bien :
+(44)
+
+C’est là la loi de partition de l'énergie, c’est-à-dire la relation
+cherchée entre X et Y. On voit qu’elle est indépendante du rapport n
+
+Soit d'abord # = »”, d'où :
+
+Qu =Kemntnt,
+œ\ati x\—1 F'(Y)_m+1
+= (* : 8—(*) , H— = Kwmnta=i. EU LME
+F— (5) : 0 (£) HA, Nam EN ET
+et enfin :
+X—
+Soit maintenant x = er; il viendra :
+gn(æ) de = feras,
+l'intégrale étant étendue au domaine :
+>, En <Lr+ dx;
+on en déduit :
+Yrgn — A
+ge) de = ete [as = LÉ
+d'où, en faisant À = x = nv :
+* 1 : LR F'(N) 1
+Em () Yo _ « 1,41
+Fete, nr HER NE pyerte
+
+--- Page 18 ---
+THÉORIE DES QUANTA 2
+
+d'où enfin : .
+X=X
+$ 6. — La Lor DE PLraxck.
+
+Dans l'hypothèse de M. Planck, l'énergie d'un résonnateur ne peut
+être égale qu’à un multiple de e, e étant un quantum; la probabilité
+est donc discontinue; la fonction æ (1) est nulle toutes les fois que à
+n'est pas multiple de <; si n devient multiple de e, la fonction
+devient au contraire infinie et cela de telle façon que l'intégrale
+
+J' ddr
+
+soit égale au nombre des multiples de e compris entre », et n,;
+voyons quelles sont les conséquences de cette hypothèse et voyons
+en particulier ce que devient la fonction +, (x); on a par définition :
+
+ge) de = fo(ns) (re) + 20) ds,
+
+l'intégration devant être étendue au domaine :
+ni > 0, æ £ En < x + dx.
+Dans le cas qui nous occupe, notre intégrale doit être remplacée
+par une somme finie, puisque la fonction sous le signe f'est discon-
+
+tinue, elle sera égale au nombre des points situés à l'intérieur du
+domaine et dont les n coordonnées n; sont des multiples de e (les
+limites du domaine sont supposées contenues dans le domaine).
+
+Considérons l'intégrale J'en (æ) dæ étendue à un petit intervalle : de
+
+deux choses l’une, ou bien cet intervalle contiendra un multiple ÿe
+des, ou il n’en contiendra aucun; dans le second cas, l'intégrale sera
+nulle ; dans le premier, elle sera égale au nombre de partitions de
+l’entier ; en une somme de » entiers, positifs ou nuls. Ce nombre de
+partitions est donné par la formule :
+
+œ@+a—b:
+Le ————<.
+
+vin—i:
+
+--- Page 19 ---
+22 POINCARÉ
+
+Dans les formules (11) et (12), les intégrales doivent être rem-
+placées par des sommes, et on aura par exemple :
+
+#n Nlrtn—1!l, _
+M=K Y uni CR
+
+la sommation étant étendue à tous les entiers y tels que y< soit plus
+petit que 2. Les formules qui donnent MY et MX se déduiraient de
+
+la précédente en multipliant sous le signe f par :
+
+x k—T
+
+n P
+
+Nous allons maintenant remplacer les factorielles par leurs valeurs
+approchées :
+
+ODA UMR TEE
+
+v1= v'e-T Very; ni mte-r \2rn,
+d'où :
+y+n—d)!l _(g+n)i!l n (: ea) +2) Y+n_n
+vit yln!t y+n y, Un 2ryn y +n
+Nous avons d'ailleurs :
+D = NO = Ye,
+
+d'où :
+
+GHn=0t_/, Let ou) 1 we
+PARC ET Üe) Von w w+e
+
+Cela nous montre que l'on peut prendre :
+
+2
+
+ro (r+s) (+2). N= = VE
+
+etle second membre se réduira comme il convient à F”6N. Nos raison-
+nements s’appliqueront a nos sommes commeils s’appliquaient à nos
+intégrales, les seuls éléments de la somme qui donneront un effet
+sensible sont ceux qui correspondent au maximum de F, et nous
+retomberons sur la formule (14). Or on trouve aisément :
+
+FO) _1 É
+F(Y) — 1og (1 + s)
+
+--- Page 20 ---
+THÉORIE DES QUANTA 23
+d'où :
+€
+
+x = tog(1 +
+
+ce qui est bien la loi de Planck. !
+
+$ 7. — DEUXIÈME MÉTHODE
+
+Cela ne nous donne toutefois pas entière satisfaction : nous ne
+savons pas encore, en effet : 1° si la loi de partition sera indépendante
+
+du rapport L quelle que soit la fonction « ; 2 si l'hypothèse du
+
+paragraphe précédent est la seule qui conduise à la loi de Planck.
+Pour répondre à ces deux questions, je vais employer un autre
+mode de calcul, fondé sur l'emploi de l'intégrale de Fourier. Posons :
+
+æ
+(15) Da) — | w(n) e—eran.
+0
+
+Si la fonction & (1) reste finie pour n — æ, ou devient infinie à la
+façon d'un polynôme entier en *, et si « a sa partie réelle positive,
+l'intégrale du second membre est finie. Si la formule restait vraie
+quand la partie réelle de « est nulle, nous pourrions écrire :
+
+Ÿ (n) étant une fonction qui est égale à # pour x > 0 et à O0 pour
+n < 0, et nous aurions ainsi l'intégrale de Fourier sous sa forme
+ordinaire et nous en déduirions :
+
+1 pee ñ
+w(n) = ae J vs) eizd3.
+—e
+
+Mais cela n’est possible que si la fonction # (1) tend vers O0 pour
+n = , dans le cas contraire, la formule de Fourier n'est pas établie.
+Elle reste vraie néanmoins, mutatis mutandis ; donnons, en eflet, à
+æune valeur complexe 7 + :8 où la partie réelle y soit positive,
+nous aurons alors :
+
+L +
+dis = [hr e-ne-iran.
+
+—œ
+
+--- Page 21 ---
+24 POINÇARÉ
+
+Cette fois la quantité 4 (5! e—1: tend vers 0 pour n — +, la formule
+de Fourier peut donc s'appliquer sans difficulté, ce qui donne:
+
+1 jte |
+D (y + if) cit«d8.
+Lœ
+
+w fn) ei —
+
+La partie réelle + est regardée comme une constante, et 8 prend
+toutes les valeurs de — œà+ , donc le point « décrit une droite
+perpendiculaire à l’axe des quantités réelles ; on a d’ailleurs :
+
+da = idB,
+d’où enfin:
+
+(46) w (1) = _ fe (a) exrda.
+
+La formule (15) nous donne en l’élevant à la puissance n:
+dr (a) = fu (ru) (ne) (nn) e—"1de,
+
+en intégrant par rapport aux # variables depuis 0 jusqu'à l'infini;
+étendons d'abord l'intégration au domaine:
+
+mn > 0; æ << En < x + dx,
+
+nous trouverons :
+
+gn(æ) e dx;
+
+il reste à intégrer pour toutes les valeurs de x depuis 0 jusqu’à l'infini,
+ce qui donne: |
+
+(15 bis) (a) — 11 On (æ) e-txda,
+et en la traitant comme la formule (15), nous en déduirons:
+
+(46 bis) DO J' D (x) eat da.
+
+L'intégrale {16 bis), comme l'intégrale (16), doit être prise le long
+d'une droite perpendiculaire à l’axe des quantités réelles; mais ce
+chemin d'intégration peut être déformé, pourvu que la partie réelle
+de x reste toujours positive et que sa partie imaginaire varie de
+— œ à + <, et, en effet, la fonction ® (&) est holomorphe dans tout
+le demi-plan où la partie réelle de x est positive.
+
+--- Page 22 ---
+THÉORIE DES QUANTA 25
+
+Si nous substituons à w, (x) sa valeur (16 Zis) dans les équations
+*(44) et (12), il viendra:
+
+(41 bis)
+
+a) eat (h — x drda,
+
+Tir
+
+Y or JF an (x) ex (h — x)! drda:
+(12 bis) L
+me f fee eax(h — x) dxda,
+
+et en posant encore:
+
+ZT = nv, h = n8, p = kn,
+
+nrk" dade
+
+— fee.
+= sde. . , __nPK" B— did
+a [fe ze Li [fe FE E—w
+
+en posant:
+
+nous obtiendrons :
+
+® = D (2) 62% (8 — w)k,
+
+L'intégration est prise depuis O jusqu’à & par rapport à w et par
+rapport à « tout le long d’une droite perpendiculaire à l'axe des
+quantités réelles.
+
+Les seuls éléments des intégrales qu'il y ait à prendre en considé-
+ration sont ceux qui rendent maximum la fonction ©, qui est élevée
+à une très grande puissance, pourvu toutefois que le chemin d'inté-
+gration passe par cet élément; mais, comme nous l’avons remarqué
+plus haut, nous pouvons déformer ce chemin, et nous le ferons de
+façon que cette condition soit remplie. On aura donc :
+
+Y —w, x=i*,
+
+w étant la valeur qui correspond à ce maximum. Pour exprimer que
+la fonction © passe par un maximum, nous exprimerons que ses
+dérivées logarithmiques partielles par rapport à « et à w sont nulles,
+ce qui donne :
+d'(«) k
+Lo a — = 0.
+P(2) 8—
+
+w
+
+
+--- Page 23 ---
+26 POINCARÉ
+On a donc :
+(2) - ._A
+2) +, NE
+(17) Ba) LE z
+En éliminant « entre ces deux équations, on aura la relation cher-
+chée entre X et Y. On voit que, quel que soit », la loi de partition ne
+dépend pas du rapport des deux entiers n et p, pourvu que ces deux
+entiers soient très grands.
+Pour & — 1%", on a :
+
+D — Y= (nm + Ai) X.
+Pour # = e“,on a:
+1 , X
+= = x
+
+On remarquera que dans ce dernier cas l'intégrale (15) n'est finie
+et par conséquent la fonction ® définie que quand la partie réelle
+de « est plus grande que 7.
+
+Passons à l'hypothèse de Planck ; dans ce cas l'intégrale (15) doit
+être remplacée par une somme; on ne doit conserver que les valeurs
+
+de qui sont multiples de e, soit n = me; l'intégrale fiodn, géné-
+
+ralement nulle, est égale à 1 si on l’étend à un petit intervalle compre-
+nant une de ces valeurs exceptionnelles ; la formule 15 devient donc :
+
+D Lee — 1 + ges LE pu
+
+c'est-à-dire :
+
+p——!l—,
+
+TA — em?
+
+on en déduit par la formule (17) :
+
+Y = —<{
+
+E
+
+ex — 1
+
+C'est la formule de Planck.
+
+--- Page 24 ---
+THÉORIE DES QUANTA 27
+$ 8. — NÉCESSITÉ DE L'HYPOTHÈSE DE PLANCKk.
+
+Nous pouvons maintenant répondre à la question que nous nous
+étions posée au début.
+
+Lorsque la loi qui lie Ÿ à X est déterminée, la dérivée logarith-
+Ê CE A Ê A PAS
+mique & l'est également ; il en est donc de même de la fonction æ
+
+à un facteur constant près et par conséquent ‘par la formule (16);
+de w. L'hypothèse des quanta est donc la seule qui conduise à la loi
+de Planck.
+
+Mais une loi expérimentale n'est jamais qu'approximative; ne
+pourrait-on imaginer des lois dont les différences avec celle de
+Planck seraient inférieures aux erreurs d'observation et qui condui-
+raient à une fonction æ continue? Si la fonction # est continue, je
+dis que ® est nul pour « — w , c’est-à-dire à basse température. En
+effet, qui représente une probabilité est essentiellement positive,
+il en résulte que l'intégrale (13) décroît quand « croit, puisque tous
+ses éléments décroissent. Soit « — à, + «’ et n, une valeur quel-
+
+conque, il viendra :
+0 œ
+fred + füe-crdn.
+“0
+
+0
+
+D —
+
+La première intégrale est plus petite que Jodn. la seconde est
+0
+plus petite que :
+
+æ
+e—%o fée-run << e— "10 (29),
+“0
+
+d'où :
+
+(a) < fran 62500 (29),
+0
+et comme 4’ tend vers l'infini en même temps que +, on aura :
+7
+D() < fan.
+0
+
++ (æ ) est la limite vers laquelle tend la fonction décroissante ® (x)
+quand + tend vers l'infini ; si donc ® n'est pas nul, c'est que l'intégrale
+
+--- Page 25 ---
+28 POINCARÉ
+
+du second membre de notre inégalité ne tend pas vers zéro avec 14.
+Cela n'est pas possible si la fonction # est continue ou même finie;
+il faudrait au contraire que cette fonction présentât, pour n = 0, pré-
+cisément le même genre de discontinuité que dans l'hypothèse de
+Planck.
+
+Si b(æ) — 0, cela veut dire que l'intégrale :
+
+“
+est infinie ; la fonction sous le signe J peut devenir nulle pour « — ®,
+
+: 1, : 1
+mais au plus comme —; si elle devenait nulle comme => où 4 > 1,
+œ La
+
+l'intégrale serait finie. Pour aller plus loin, rappelons quelques-uns
+des principes de la théorie du rayonnement. D'après la loi de Wien,
+l'énergie du rayonnement noir, entre les longueurs d'onde À et
+À + dX, est représentée par la formule :
+
+uxdà = a
+
+5 FAT,
+
+où T est la température absolue. D'autre part, si nous désignons
+par v la fréquence et par w,dv l'énergie de rayonnement comprise
+entre les fréquences v et v + dv, M. Planck a démontré (Acad. de
+Berlin, Sitzungsber., 1899, p. 461; Physik. Zeüschrift, 1900-1901)
+que l’on a :
+
+(18) udy = wi = KEY,
+
+où K est un coefticient numérique et où Ÿ représente comme plus
+haut l'énergie moyenne des résonnateurs de longueur d'onde. On en
+déduit :
+
+uw uw de. ,,_ KFOT)
+
+ER el CT RE
+
+Y—
+
+Or T n'est autre chose que X, en supposant les unités convena-
+
+blement choisies et X — e On a donc, d’après (17) :
+2
+
+Yda = — dlog P(x), YaX = Xl log ®,
+
+--- Page 26 ---
+THÉORIE DES QUANTA 29
+
+ou
+, FOX) dX
+
+K x = dlog ®.
+
+Dans cette relation, on suppose que } est une constante ; elle nous
+montre que le premier membre ne change pas quand on change X
+À é
+en uX et À en —; y étant une constante quelconque : donc ® est fonc-
+(2
+
+tion de XX, et on a en regardant maintenant } et X comme variables :
+
+FUX) (x4X + Xd2)
+
+K' Dr = dog #,
+ou si X est regardé comme constant :
+, FOX) dx
+K ie = dlog +,
+
+ou enfin :
+ar = E dog &
+X 28
+Le rayonnement total est alors :
+
+æ ._X fdlog®
+J'ée =à f CS
+
+0
+
+Si la fonction w était continue,  s'annulerait et log & deviendrait
+infini pour « —æ, c'est-à-dire pour ÀX — 0; la fonction sous le
+
+signe f'devient donc infinie pour À = o, et cela de telle façon que
+
+Ja log ® ou a fortiori que
+
+dlog
+23
+
+eu
+
+devienne infinie.
+
+Donc, quelle que soit la loi du rayonnement, si l'on suppose que le
+rayonnement total est fini, on sera conduit à une fonction w pré-
+sentant des discontinuités analogues à celles que donne l'hypothèse
+des quanta.
+
+Cela suppose toutefois l'exactitude de la formule (18), et sur ce
+point des doutes restent permis, puisque M. Planck n'a pu l'établir
+
+--- Page 27 ---
+30 POINCARÉ
+
+qu'en s'appuyant sur les principes de l'Électrodynamique classique,
+que sa théorie a précisément pour objet de remplacer.
+
+$ 9. — La DEUXIÈME THÉORIE DE M. PLancx.
+
+On sait que M. Planck a proposé une seconde théorie un peu dif-
+férente de la première. Dans sa première théorie les résonnateurs ne
+peuvent émettre ni absorber d'énergie que par bonds; dans la
+seconde, ils ne peuvent en émettre que par bonds, mais ils peuvent
+en absorber d’une manière continue. Dans cette théorie nouvelle,
+M. Planck pose :
+
+d'où :
+
+et:
+
+En se reportant à la formule (15), on voit que cela veut dire que
+«est nul, sauf pour des valeurs exceptionnelles pour lesquelles il
+est infini et que ces valeurs exceptionnelles sont les multiples im-
+
+pairs de Si Ce n'est pas là l'hypothèse d’où M. Planck était parti; si
+en effet, l'énergie d'un résonnateur devait toujours être un multiple
+impair de à il serait impossible que ce résonnateur absorbât de
+
+l'énergie d’une manière continue.
+
+11 serait curieux de rechercher comment deux raisonnements en
+àpparence identiques ont pu conduire dans un cas à un résultat
+exact, dans un autre à un résultat inexact. J’observerai seulement
+que dans son raisonnement M. Planck ne fait pas intervenir les
+échanges d'énergie par choc, mais seulement par émission et
+absorption. .
+
+--- Page 28 ---
+THÉORIE DES QUANTA 31
+
+$ 10. — JusriFicATION DES HYPOTHÈSES RESTRICTIVES.
+
+Nous avons, pour simplifier et surtout pour fixer les idées, fait un
+certain nombre d'hypothèses assez particulières et un peu restric-
+tives; on peut se demander si elles jouent un rôle essentiel. auquel
+cas leur caractère artificiel pourrait éveiller de la méfiance. Nous
+avons d'abord supposé que, dans le cas simple de deux résonnateurs,
+le dernier multiplicateur W (£, n) ne dépendait pas de; nous avons
+vu ensuite que, sans faire aucune hypothèse restrictive, on devrait
+
+avoir dans tous les cas:
+WE, n) = w(n) wi(E);
+
+posons alors par une formule analogue à (15) :
+c
+(45 ter) ds (a) = fut edf.
+è
+
+Nous'aurons alors
+
+(en posant XE = y, En = +, & + y = XE + En —=h):
+
+M— 11 D (a) Di (ay) etre drdaday.
+
+Nous poserons alors :
+
+æ = no, h — x = pu, w == — ko,
+n
+et nous aurons à un même facteur constant près :
+M = for () DP (ai) entwertoidwdada ;
+MY =/ wbrDrentwertiwidwdadx ; MX = fodrérersoermorduddui.
+
+Nous verrions alors que l'on a :
+
+en donnant à w, « eta, les valeurs qui rendent maximum l'expression :
+D (2 PA (a) etmgltion,
+
+En égalant à zéro les dérivées logarithmiques de cette expression
+
+--- Page 29 ---
+32 | POINCARÉ
+par rapport à x, «, et à w (w, étant supposée remplacée par sa valeur
+en fonction de w), il vient :
+P'()
+Ba Dia)
+
+d’où enfin les formules :
+
+(17 bis)
+
+qui peuvent remplacer les formules (17). D'où la loi suivante pour la
+partition de l'énergie.
+
+A chacun des résonnateurs est attachée une certaine fonction ® (x),
+et son énergie moyenne à une température donnée est représentée
+par — a a étant une fonction de la température, qui est la même
+pour tous les résonnateurs; or l'expérience nous apprend qu’il y a des
+corps dont l'énergie est proportionnelle (nous dirons égale en choi-
+sissant convenablement les unités) à la température absolue; et que
+cela arrive en particulier pour les résonnateurs à très longue période.
+
+Dans les formules (17 bis), X et Y sont exprimés en fonction d'une
+variable auxiliaire &.
+
+Supposons que nous connaissions par l'expérience la relation
+entre X et Y; nous pourrions choisir arbitrairement l’une des fonc-
+tions & ou ®,, c'est-à-dire l’une des relations (17 Dés); l'autre s'en
+déduirait. 1l est clair que ce choix pourrait toujours être fait de telle
+sorte que les intégrales :
+
+J Xda, J Ÿda,
+
+soient infinies, c'est-à-dire de telle façon que w et, soient des fonc-
+tions continues; mais ce serait renoncer à l'hypothèse w, — 1. Qu'en
+résulterait-il ?
+
+Les chocs entre les atomes (résonnateurs à longue période) seraient
+alors régis, au point de vue de la Mécanique statique, par l’inté-
+grale:
+
+Jon) voit) … un Ends,
+
+qui jouerait le rôle de l'intégrale M dans l'analyse précédente. On
+retrouverait pour ces atomes la loi d'équipartition; mais on devrait
+
+--- Page 30 ---
+THÉORIE DES QUANTA 33
+
+renoncer à la loi de Maxwell pour la distribution des vitesses: les
+chocs entre atomes ne pourraient plus se faire d’après les lois ordi-
+naires de la Mécanique, et en particulier d'après la loi de la conser-
+vation des quantités de mouvement. Ces conséquences ne semblent
+guère admissibles et il paraît préférable de supposer , = 1.
+
+Les formules (17), appliquées à deux résonnateurs à courte période
+montrent que la loi de partition ne sera pas altérée, si des chocs se
+produisent non pas entre un résonnateur à longue et un autre à courte
+période, mais entre deux résonnateurs de périodes différentes, mais
+courtes.
+
+Au lieu des résonnateurs simples de M. Planck, nous pourrons aussi
+avoir des systèmes plus compliqués; alors W, en supposant deux
+systèmes, pourra dépendre non seulement des énergies £ et n, mais
+d'autres variables £', £”, .…., relatives au premier système, et d'autres
+encore %, 1”, …, relatives au second système. On devra avoir d’ail-
+leurs pour les raisons exposées plus haut :
+
+W=winnns ee) to (s 8, 8, ).
+L'ensemble des systèmes satisfait à l'intégrale des forces vives :
+
+EE + En —h.
+
+Je n'en suppose pas d'autre; j'envisage alors l'intégrale :
+
+u(r) = fo (a, n', 0", …) d'dn" …
+
+étendue à toutes les valeurs que peuvent prendreles variables 1’, 9”, ...;
+alors #(n) et la fonction analogue u, (£) formée avec +, joueront le
+méme rôle que nous avions donné à # (n) et æ, (£), nous pourrons
+poser (s'il y a n + p systèmes) :
+
+U — ü (ny) u (no)  ü (nu) ds (Es) ds (&) «ee du (Ep); M = fut;
+MY — frvdsas; MX — Ji EUdsd=,
+
+et notre analyse pourra se poursuivre jusqu'au bout sans changement
+
+Après avoir formé le dernier multiplicateur, il conviendrait de
+
+chercher des équations différentielles qui admettent ce dernier mul-
+
+tiplicateur, ou de voir quelles sont les équations à sauts brusques
+
+qui pourraient jouer le rôle de ces équations différentielles quand le
+J. de Phys., 5° série, t. IL. (Janvier 4912.) 3
+
+--- Page 31 ---
+3% THOVERT
+
+dernier multiplicateur « n'est pas continu. C'est là un problème qui
+ne serait sans doute pas sans difficulté. Je ne m'en occuperai pas
+pour le moment.
+
+Rappelons en terminant que les échanges d'énergie peuvent se
+faire de deux manières: par le jeu du principe de Düppler-Fizeau et
+par les chocs. Dans cet article, nous n'avons étudié que la seconde
+manière. Je reviendrai sur la première dans un autre article; mais je
+dois faire observer que, si l'on admet la possibilité des chocs, les deux
+manières doivent conduire à la même loi de partition, sans quoi le
+second principe de la thermodynamique serait en défaut. C'est ce qui
+m'a permis de me borner à l'étude d’un seul mode d'échange.

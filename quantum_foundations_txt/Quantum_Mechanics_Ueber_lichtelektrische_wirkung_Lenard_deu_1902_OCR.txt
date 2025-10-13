@@ -1,0 +1,2375 @@
+
+--- Page 1 ---
+ANNALEN
+
+PHYSIK
+
+BEGRÜNDET UND FORTGEFÜHRT DURCH
+
+F. A, 0. GREN, L. W. GILBERT, 4. C. POGGENDORFF, 6. uno E. WIEDEMANN,
+
+VIERTE FOLGE.
+
+BAND 8.
+
+DER GANZEN REIHE 813. BAND.
+
+KURATORIUM:
+
+F. KOHLRAUSCH, M. PLANCK, G. QUINCKE,
+W. C. RÖNTGEN, E. WARBURG.
+
+UNTER MITWIRKUNG
+DER DEUTSCHEN PHYSIKALISCHEN GESELLSCHAFT
+
+UND INBBEBONDEBE VOR
+
+M. PLANCK
+
+PAUL DRUDE.
+
+MIT SIEBEN FIGURENTAFELN,
+
+LEIPZIG, 1902.
+VERLAG VON JOHANN AMBROSIUS BARTH.
+
+--- Page 2 ---
+149
+
+9. Ueber die lichtelektrische Wirkung;
+von P. Lenard.
+(Hierzu Taf. I, Figg.1 u. 2.)
+
+In einer früheren Mitteilung habe ich gezeigt, dass ultra-
+violettes Licht, das auf Körper trifft, Kathodenstrahlung aus
+denselben veranlassen kann.!) Diese Erzeugung von Kathoden-
+strahlen erwies sich unabhängig vom Vorhandensein eines
+Gases; sie ging, im Gegensatz zur früher allein bekannten
+Erzeugungsart in Entladungsröhren, auch im äussersten
+Vacuum vor sich.?) Charakteristisch war es, wie im Vacuum
+gefunden wurde, dass elektrische Kräfte diese Erzeugung nicht
+beeinflussten; ein Ansteigen der Kraft an der negativ ge-
+ladenen, belichteten Oberfläche von 100 Volt/3,6 cm bis zu
+45000 Volt/3,6 cm änderte nichts an der Menge der Aus-
+strahlung. Es war dies im Einklang mit der Vorstellung, dass
+das Licht die Strahlenbildung nicht ausserhalb, sondern im
+Innern des Körpers veranlasse, wo es auch absorbirt wird,
+derart, dass dort negative Elektricitätsquanten mit bestimmten
+Anfangsgeschwindigkeiten in fortschreitende Bewegung ver-
+setzt werden, sodass sie aus dem Körper herausfahren können.
+Die Wirkung der äusseren elektrischen Kraft wäre dann, je
+nach ihrer Richtung, nur Beschleunigung oder Verzögerung
+der Bewegung der ausgestrahlten. Elektricitätsquanten. Ver-
+zögernde äussere Kraft — entsprechend positiver Ladung des
+belichteten Körpers — kann schon ausgestrahlte Quanten
+wieder zur Rückkehr und so die Ausstrahlung scheinbar zum
+Stillstand bringen, was auch beobachtet wurde. Auffällig war
+dagegen, dass eine Verminderung der Ausstrahlung — in
+unserer Auffassung eine Rückkehr schon ausgestrahlter
+
+1) P.Lenard, Sitzungsber.d.k. Akad.d. Wissensch. zu Wien 108. IIa.
+p- 1649. 1898; auch Ann. d. Phys. 2. p. 359. 1900. — Man vergleiche auch
+die etwas spätere Arbeit der Herren E. Merritt u. ©. M. Stewart,
+Phys. Rev. 11. p. 280. 1900.
+
+2) Hierin stimmt sie überein mit der dritten, mittlerweile erkannten
+Erzeugungsart, durch radioactive Körper.
+
+--- Page 3 ---
+150 P. Lenard.
+
+Quanten — auch dann eintrat, wenn die äussere Kraft be-
+schleunigend, jedoch unter etwa 30 Volt/cm war, während viel
+grössere Kräfte die Ausstrahlung nicht weiter beeinflussten.
+Es war hier die Mitwirkung einer besonderen verzögernden
+Kraft noch aufzuklärenden Ursprunges anzunehmen. Hierüber,
+sowie über den Vorgang der Strahlenerzeugung selbst habe
+ich mittlerweile eingehendere Auskunft zu erlangen gesucht.
+
+10.!) Es gelang, die Strahlen auf Phosphorescenzschirmen
+sichtbar zu machen, was die Beobachtung sehr erleichtert; es
+soll jedoch hier zunächst nur über die Ergebnisse rein elektro-
+metrischer Versuche berichtet werden, in welchen einerseits
+die an Leiteroberflächen wirksamen Kräfte elektrischer Natur
+Gelegenheit zu einer neuen Art von Aeusserung erhalten und
+andererseits die Anfangsgeschwindigkeiten der Ausstrahlung
+zu eingehender Messung gelangen.
+
+In Hinsicht jener Kräfte finden wir beispielsweise, dass
+vom Bestehen einer specifischen Anziehung zwischen Leitern
+und Blektrieität, wie sie zur Erklärung der Contactpotential-
+differenzen der Metalle angenommen wurde, eine deutliche
+Spur sich nicht zeigt (38). In Hinsicht der Anfangsgeschwindig-
+keiten findet sich, dass dieselben nicht von einheitlicher Grösse
+sind und dass für jeden Leiter und jede erregende Lichtart eine
+besondere Grössenverteilung der Geschwindigkeiten besteht (22,
+23, 26, 36). Es sind aber die Grössen der Anfangsgeschwindig-
+keiten unabhängig von der Intensität des Lichtes (25), und dies
+letztere Resultat legt die Vorstellung nahe, dass das Licht bei
+dem Vorgange der Ausstrahlung nur eine auslösende Rolle spiele
+für Bewegungen, welche dann dauernd in voller Geschwindig-
+keit innerhalb der Körperatome vorhanden sein müssten (28).
+
+11. Befindet sich der belichtete Körper im. gaserfüllten
+Raume, so nimmt die Erscheinung die Gestalt der von Hertz
+und Hallwachs aufgedeckten Wirkung des Lichtes an (9, 47).
+Schwierigkeit schien bei dieser Auffassung nur die strenge
+Unipolarität der letzteren Wirkung zu bieten; denn wenn der
+belichtete Körper unabhängig von der äusseren Kraft, also
+auch bei positiver Ladung, Kathodenstrahlen von den ihm
+
+1) Zur leichteren Bezugnahme auf die frühere Arbeit (l. c.) ist
+deren Absatz- und Tabellennumerirung hier fortgesetzt.
+
+--- Page 4 ---
+Lichtelektrische Wirkung. 151
+
+und der benutzten Lichtart zugehörigen Anfangsgeschwindig-
+keiten aussendet, so werden dieselben, auch wenn sie durch
+die äussere Kraft bald zur Umkehr gebracht werden, doch
+das Gas durchsetzt und also, nach bisheriger Kenntnis”,
+elektrisch leitend gemacht haben. Durch eine leitende Gas-
+schicht würde aber der Körper seine positive Ladung ver-
+lieren müssen, und dies widerspricht der Erfahrung.
+
+Hier wird gezeigt, dass zur Erregung der Leitfähigkeit in
+Gasen eine gewisse Minimalgeschwindigkeit von Seiten der
+Strahlen gehört (89, 40, 42, 43). und da wir ausserdem finden,
+dass die grössten, in merkbarer Menge vorkommenden An-
+fangsgeschwindigkeiten der durch Licht erzeugbaren Strahlen
+unterhalb jener Minimalgeschwindigkeit liegen, ist damit der
+Widerspruch aufgehoben (46).
+
+Die Geschwindigkeit der im Vorliegenden studirten Strahlen
+sind von den Grössenordnungen 107 bis 10° cm/sec oder etwa
+1] 000 Lichtgeschwindigkeit, also wieder viel kleiner als früher (?).
+Es zeigt sich, dass diese langsamen Strahlen die Eigenschaften
+der diffusen Ausbreitung und der Absorption in Gasen in sehr
+hohem Maasse besitzen müssen, denn schon nach Durchfahrung
+von einigen wenigen Gasmolecülen haben sie ihre Geschwindig-
+keit verloren (41), während die zuerst von mir studirten
+Strahlen mit etwa !/, Lichtgeschwindigkeit 5000 Gasmolecüle
+durchfahren konnten, ehe ihre Bahn merklich gekrümmt oder
+ihre Bewegung gehemmt wurde.
+
+Versuche im gasfreien Raum.
+
+12. Die gegenwärtigen Versuchsreihen wurden nicht im
+äussersten Vacuum ausgeführt. Wohl wurde stets bis zur
+Wirkungsgrenze der Quecksilberluftpumpe evacuirt, jedoch be-
+sondere Mittel zur Entfernung der Gasreste von Elektroden
+und Glaswänden wurden nicht angewandt und Kittungen und
+mit Fett gedichtete Schliffe vielfach benutzt. Da die Haupt-
+züge der Erscheinung im äussersten Vacuum schon untersucht
+waren (8-8), erschien dies jetzt erlaubt.?)
+
+1) P. Lenard, Wied. Ann. 51. p. 240. 1894.
+
+2) Leitvermögen im Versuchsraume trat im Folgenden thatsächlich
+auf, jedoch, wie vorweg bemerkt sei, nicht bei Spannungen unter 8 Volt
+(44). Wo die sonst erreichte Genauigkeit es nötig machte, wurde bei
+
+--- Page 5 ---
+152 P. Lenard.
+
+13. Die Versuchseinrichtung ist in Fig. 1 dargestellt.
+U ist die zu belichtende Elektrode, eine mit Terpentinruss voll-
+kommen üherzogene, kreisföürmige Aluminiumscheibe von 3,4 cm
+Durchmesser; ihr gegenüber steht die gleichgrosse und eben-
+falls vollkommen berusste Metallscheibe Z, welche eine Ein-
+stülpung e (Fig. 1a) besitzt, so geformt, dass das durch die
+Blenden 3 B und gg abgesonderte, schmale Lichtbündel von
+der Quelle Z nach U gelangen kann ohne E zu streifen.
+Letzteres wurde durch sorgfältige Aufstellung der Lichtquelle
+durchaus vermieden. Die Platte Z ist sich selbst parallel
+
+Fig. 1. Fig. 18.
+
+verschiebbar, sodass der Abstand U’E verändert werden kann.
+Für Abstände ÜE < 10 mm wird eine besondere Elektrode Z,,
+Fig. 1b, an Stelle von # gesetzt, welche ein conisches Metall-
+rohr r als freien Weg für das Lichtbündel trägt; die eine
+Mündung dieses Rohres fällt beim Abstande U#=5mm
+centrisch mit der Blende gg zusammen, die andere steht dann
+U gegenüber. Auch diese Platte 7, ist samt ihrem Rohre
+berusst. Zwischen U und # wird zu Anfang jedes Versuches
+eine messbare Potentialdifierenz hergestellt, was mit Hülfe von
+
+den höheren Spannungen eine Correetion wegen des Leitvermögens an-
+gebracht, was jedesmal durch * bei der betreffenden Zahl angezeigt ist.
+Die Ermittelung und Grösse der Correctionen sehe man in 45 bez.
+Tab. XX.
+
+--- Page 6 ---
+Lichtelektrische Wirkung. 1583
+
+Accumulatoren geschah, für höhere Spannungen statisch und
+für geringere durch Abzweigen vom Stromkreise einiger Zellen.
+Die Platte, U oder #, deren Ladungsänderung durch das Licht
+beobachtet werden sollte, war mit einem Quadrantelektrometer
+verbunden. Das Gehäuse des Elektrometers, welches auch
+über alle Leitungen und das Plattenpaar UE sich fortsetzte
+und wovon WW in Fig. 1 und auch die Stanniolblende 33
+Teile sind, war von Anfang auf dasjenige Potential gebracht,
+welches die mit dem Elektrometer verbundene Platte haben
+sollte. Zur Beobachtung wurde dann ein federnder Contact
+gelöst, welcher im Ruhezustand die Platte mit dem Gehäuse
+verband, worauf das Elektrometer die durch Wirkung des
+Lichtes eintretende Ladungsänderung der Platte angiebt. Da
+aber hierbei auch die Spannung zwischen den beiden Platten
+in gleichem Maasse sich ändert, ergiebt sich die Notwendig-
+keit, mit nur kleinen Elektrometerausschlägen zu operiren.
+Sobald daher nicht hohe Spannungen benutzt werden, deren
+Veränderung einflusslos ist (4), wurde dem Elektrometer eine
+solche Capacität zugefügt und die Belichtungsdauer so ge-
+wählt?), dass die Ausschläge nur einzelne Scalenteile betrugen,
+entsprechend bei mittlerer Elektrometerempfindlichkeit einigen.
+Hundertstel Volt.?) In der Kleinheit der zu messenden Aus-
+schläge lag keine Beschränkung der erreichbaren Genauigkeit;
+denn einerseits waren die Angaben des Elektrometers bis auf
+etwa 0,02 Sct. verlässlich®) und andererseits sind die bekannten
+ergiebigen Quellen ultravioletten Lichtes so schwankend in
+in ihrer Intensität, dass schon aus diesem Grunde ausgiebige
+Vervielfältigung der Beobachtungen nicht zu vermeiden war.
+
+1) Die Wirkung war proportional der Zeit; sie durfte danach für
+das Folgende zu leichterem Vergleich auf andere Zeiten als die benutzten,
+ebenso wie auch auf andere Capacitäten umgerechnet werden.
+
+2) Die im Folgenden zu machenden Spannungsangaben sind, wo
+die Genauigkeit auf Hundertstel Volt geht, auf mittlere Spannung während
+der Versuchsdauer reducirt, indem zur angewandten Anfangsspannung
+die Hälfte des Elektrometerausschlages mit entsprechendem Vorzeichen
+addirt wurde.
+
+3) Starke Fernrohrvergrösserung und die Benutzung einer Scala
+mit Diagonalmaassstab erlaubten die Zehntel Scalenteile direct abzulesen,
+die Hundertstel zu schätzen.
+
+--- Page 7 ---
+154 P. Lenard.
+
+14. Die in der Zeiteinheit ausgestrahlte Menge ist der
+wirkenden Lichtintensität proportional. — Die gesamte, durch
+das absorbirte Licht zur Ausstrahlung gebrachte Electricitäts-
+menge gelangt nach unserer Auffassung (4) dann zur Be-
+obachtung, wenn genügend grosse äussere beschleunigende
+Kraft vorhanden ist. Es wurden 200 Volt benutzt bei einem
+Abstande ÜE von 40 mm; als Lichtquelle dienten 6 mm lange
+Funken (3) zwischen Zinkkugeln. Berechenbare Abstufungen
+der Lichtintensität wurden durch Abänderung der Entfernung
+zwischen den Funken und dem Glimmerdiaphragma gy her-
+gestellt, welches letztere, enger als die Blende BB, in allen
+Fällen den Querschnitt des nach U gelangenden Lichtbündels
+begrenzt. Das Elektrometer war an U geschaltet. Folgendes
+sind die Resultate):
+
+Tabelle IV.
+
+1 2 3 4 5 6
+Abstand | Elektro- | Capaeität In 1sec Relative
+Funken- meter- |des Elektro-| entwichene Licht- Q
+Glimmer- blenk: meter- Elektrieitäts- | , R 1/r3
+blende | &blenkung | „yatems menge intensität
+r A c 9=4.0/10 1/r
+10-10 Pd.
+m Set. in 10see|10-10 Farad| Set. war m-2
+0,105 1,65 1001 166 90,6 8,47
+0,132 5,00 1001 501 57,4 8,75
+0,206 2,21 1001 221 23,6 9,37
+0,206 222,3 10,39 231,0 23,6 9,77
+0,463 35,55 10,89 36,93 4,64 7,94
+0,835 10,22 10,39 10,62 1,436 7,42
+0,835 % 1,14 10,82 1,436 1,55
+
+Columne 5 zeigt, dass die Lichtintensitäten im Verhält-
+nis von 90 zu 1,4 varüirten, während das Verhältnis zwischen
+Wirkung @ und Lichtintensität, Columne 6, soweit constant
+ist, als die Lichtquelle es innerhalb der Zeiträume war, die
+zu ihrer Neuaufstellung jedesmal nötig waren.
+
+1) Zu bemerken ist, dass bei diesen Versuchen nur U berusst,
+E jedoch eine unberusste alte Aluminiumfläche war, was indessen für
+den gegenwärtigen Zweck als irrelevant betrachtet werden kann.
+
+--- Page 8 ---
+Lichtelektrische Wirkung. 155
+
+Nicht aller hier beobachteter Elektrieitätstransport @ er-
+folgte unmittelbar durch Strahlung, sondern nur der grössere
+Teil desselben; ein geringer Teil kommt auf Rechnung von
+Leitungsfähigkeit des Beobachtungsraumes (12, 45). Das um-
+gekehrte Verhältnis findet statt bei Versuchen in verdünnten
+Gasen, wo der Elektrieitätstransport durch Leitung den durch
+Strahlung überwiegen kann (vgl. 4, Tab. II, 0,08 mm Druck).
+Da nun Versuche der letzteren Art ebenfalls Proportionalität
+zwischen Wirkung und Lichtintensität ergeben haben!), folgt
+aus unseren Versuchen diese Proportionalität auch für die
+reine Strahlung.
+
+15. Die Dauer des Leuchtens einer Zinkfunkenspectral-
+linie hat sich in den Versuchen der Herren Schuster und
+Hemsalech zu etwa 5.10-$sec ergeben?); sie dürfte in den
+gegenwärtigen Versuchen noch kleiner gewesen sein, denn es
+war die im Funkenapparat benutzte Capacität kleiner. Da
+nun die Funken in Zwischenräumen von 0,0062 sec einander
+folgten, war die Intensität der hier benutzten Lichtquelle während
+der Dauer ihres Leuchtens mehr als 0,0062/5.10-°= 1300mal
+grösser als ihre mittlere Intensität. Die obigen Versuche be-
+ziehen sich daher, auch beim grössten Abstand der Lichtquelle,
+in Wirklichkeit auf ausserordentlich grosse Lichtintensitäten,
+Ich habe jedoch auch bei möglichst schwach brennendem
+Kohlebogenlicht in Abständen von 34—268 cm von der
+Glimmerblende die Wirkung noch soweit proportional dem
+reciproken Quadrat des Abstandes gefunden als es bei der
+geringen Constanz des ultravioletten Leuchtens eines solchen
+Bogens zu erwarten war; jedenfalls zeigte sich keinerlei An-
+deutung des Bestehens eines Schwellenwertes der Lichtintensität,
+bei welchem die Wirkung rasch zu Null herabsänke. Dass
+ein solcher Schwellenwert, wenn er vorhanden ist, jedenfalls
+sehr tief liegen müsste, zeigt besonders die weiter unten (22)
+quantitativ zu betrachtende Wirkung der von der Russfläche U
+reflectirten Lichtmengen. Diese sehr geringen Lichtmengen
+übten, auf Z fallend, dortselbst eine entsprechend geringe
+
+1) Vgl. besonders die Versuche der Herren J. Elster u. H. Geitel,
+Wied. Ann. 48. p. 625. 1898.
+
+2) A. Schuster u. G. A. Hemsalech, Phil. Trans. 199. p. 189.
+1899; nach Taf. 10, Fig. 19 und den zugebörigen Textangaben.
+
+--- Page 9 ---
+156 P. Lenard.
+
+Wirkung aus, die sich jedoch als merklich constanter Bruch-
+teil der Wirkung des direkten Lichtes auf U erwies, unab-
+hängig von dessen Intensität, was nur dann sein kann, wenn
+auch die sehr geringen, von Russ reflectirten Lichtmengen
+noch proportinal ihrer Intensität wirken. Die hierbei in Be-
+tracht kommenden Lichtintensitäten waren bis etwa 3.10°mal
+geringer als die grösste in Tab. IV benutzte Momentan-
+intensität.
+
+16. Ueber den Verlauf der Ausstrahlung bei verschiedenen
+äusseren Spannungen sei zuerst die folgende Versuchsreihe mit-
+geteilt (Tab. V), deren graphische Darstellung die beiden mit
+UE=10 mm bezeichneten Linien der Taf. I, Fig. 1 ergiebt.
+Spannungen sind dabei als Abscissen, Elektrieitätsmengen als
+Ordinaten aufgetragen und zusammengehörige Punkte geradlinig
+verbunden. Die voll ausgezogene Linie giebt die von U ent-
+weichenden, die gestrichelte die an Z ankommenden Mengen,
+welche Mengen selbst wir kurz ebenfalls mit U bez. Zbezeichnen.')
+
+Tabelle V.
+Abstand U E = 10mm.
+
+Beschleunigende Kräfte Verzögernde Kräfte
+LiehtquelleKohlebogen, auch Funken Lichtquelle Kohlebogen
+1 2 3 1 2 3
+Spannung | Von Uemt-| An Spannung| Von Uent-| An E
+zwischen | weichende | kommende | zwischen | weichende | kommende
+U und B| Menge Menge U und E| Menge Menge
+x U E X U E
+Volt Volt
+100 1,00* 1,00* —0,66 0,162 0,029
+I) 0,94 0,96 0,8 _ 0,0094
+2 0,85 0,84 1,0 0,082 0,000
+1 0,79 0,81 1,2 _ 0,0041
+0,5 0,73 0,74 1,4 _ — 0,0065
+0,3 0,65 _ 1,8 _ 0,0072
+0,2 0,55 _ 2,4 0,0000 _
+0 0,40 0,34 3,0 —0,0026 | —0,0071
+
+* Vgl. Anm. zu 12.
+
+1) Zur durchweg benutzten Bezeichnungsweise ist weiter zu be-
+merken, dass unter Elektrieitätsmengen schlechthin stets Mengen negativer
+
+--- Page 10 ---
+Lichtelektrische Wirkung. 157
+
+17. Mit dem Inhalt der Tabelle, bez. deren graphischer
+Darstellung verbinden wir nun folgende Vorstellungen, von
+welchen alles weitere ausgeht und welche sich dabei bewährt
+haben. Wir unterscheiden, der besseren Orientirung halber,
+fünf verschiedene Stadien des Vorganges, welche verschiedenen
+Grössen der äusseren Kraft entsprechen (vgl. Taf. I, Fig. 1).
+
+Im Stadium I, bei grossen verzögernden Kräften wird die
+gesamte, durch das Licht zur Ausstrahlung gebrachte Menge
+— welche letztere wir stets mit 1,00 bemessen — wieder zu U
+zurückgetrieben, bevor sie einen Gegenstand der Umgebung
+getroffen hätte. Das elektrometrische Resultat in diesem
+Stadium würde Null sein, wenn nicht etwas Licht von U
+nach E hier zerstreut reflectirt würde und dort seine Wirkung
+hervorbrächte. Der letzteren Wirkung entsprechen die ge-
+ringen, in Taf. I, Fig. 1 als sehr kleine negative Ordinaten er-
+scheinenden Elektricitätsmengen, . welche hier von # entweichen
+und an U ankommen.
+
+Im Stadium II, wenn die verzögernde äussere Kraft ge-
+ringer ist, beginnt U dauernd Ladung zu verlieren, jedoch
+kommt nichts davon an EZ an; der ganze nicht zu U zurück-
+gehende Teil der Ausstrahlung, entsprechend der Ordinate U,
+geht also offenbar an die Glaswände des Apparates. Dies
+erscheint als Folge der tangentialen Componenten der Aus-
+strahlungsgeschwindigkeiten (8). Die parabolischen, am be-
+lichteten Centrum von U beginnenden Bahnen der Quanten
+erheben sich in diesem Stadium zwar noch nicht bis Z hin,
+sie reichen aber doch seitlich über die Fläche von U schon
+hinaus, sodass sie an der Glaswand enden statt zu U zurück-
+zukehren.
+
+Wird die verzögernde Kraft noch kleiner, so tritt Stadiam III
+damit ein, dass zum ersten Male Bahnen bis E hin reichen
+und dann dort enden, woher die Curve Z jetzt ebenfalls positive
+
+Elektrieität verstanden sind und dass äussere Kraft positiv dann ge-
+rechnet ist, wenn sie von U kommende negative Elektricität beschleunigt.
+Es entspricht dies der Vorstellung, dass wir es stets nur mit Bewegungen
+negativer Elektrieität zu thun haben. Es bedeuten danach z. B. negative
+Zahlen in Columne 3, Tab. V, dass positiver Elektrometergang an E
+beobachtet worden war, bez. in unserer Auffassung, dass (negative) Elek-
+trieität von Z entwich.
+
+--- Page 11 ---
+158 P. Lenard.
+
+Ordinaten aufweist. Die Gesamtausstrahlung 1,00 geht jetzt
+zum einen Teil, Z, nach # hin, zum zweiten Teil, U— E, seitlich
+an die Glaswände, und zum dritten Teil, 1—DU, zu U zurück.
+Die Zahl der an Z gehenden Quanten mehrt sich, wenn die
+verzögernde Kraft weiter sinkt, wie es das Ansteigen der
+Curve Z zeigt. Da jedesmal nur solche Quanten bis Z kommen
+können, deren normale Anfangsgeschwindigkeitscomponente eine
+gewisse, durch die Spannung U X gegebene Grösse übersteigt,
+wird die Form der Curven in diesem Stadium geeignet sein,
+die Grössenverteilung der Anfangsgeschwindigkeiten zu ermitteln,
+wozu freilich zunächst das seitliche Entweichen der Quanten
+in Wegfall gebracht werden muss (18, 20, 22, 23).
+
+Im Stadium IV kommen die beiden Curven zum Zusammen-
+fallen, was anzeigt, dass die jetzt beschleunigende äussere
+Kraft bei genügender Grösse alle nicht zu U zurückkehrenden
+Quanten ohne seitlichen Verlust nach # hin bringt.
+
+Stadium V ist erreicht, wenn die beschleunigende äussere
+Kraft so gross geworden ist, dass keine Rückkehr von Quanten
+zu U mehr stattfindet, also volle Ausstrahlung, 1,00 in unserem
+Maasse, zur Beobachtung gelangt. Weiteres Ansteigen der
+Kraft ändert dann niehts mehr an den Verhältnissen, wie dies
+bis zu sehr hohen Kräften durch die früheren Versuche
+(4, Tab. I) schon ausführlich nachgewiesen erscheint.
+
+18. Verhinderung des seitlichen Entweichens durch magne-
+tische Kraft. — Eine über das Rohr des Apparates geschobene
+Stromrolle, $$ in Fig. 1, liefert normal zu U und Z gerichtete
+magnetische Kraft. _ Hierdurch werden die tangentialen Com-
+ponenten der Bahnen der Quanten zu Kreisen gewunden, die
+normalen nicht geändert. Die Folge davon ist, dass das seitliche
+Entweichen der Quanten an die Glaswände ausbleibt; jedoch
+gelangen alle Quanten, die ohne magnetische Kraft entwichen
+wären, jetzt nicht etwa an Z, sondern, wie es sein soll
+(17, Stadium II), nach U zurück. Es zeigt sich dies dadurch,
+dass die an # ankommenden Mengen — verzeichnet in Columne 4
+bez. 7 der Tab. VI — durch die magnetische Kraft nicht
+deutlich bemerkbar geändert werden, während die von U ent-
+weichenden Mengen sich ändern (vgl. Columne 2 und 3, bez.
+5 und 6 der Tab. VI) und zwar so, dass sie den vorgenannten
+Mengen # nahe gleich werden. Es bringt also die magnetische
+
+--- Page 12 ---
+Lächtelehtrische Wirkung. 159
+
+Kraft die Curve U nahe zur Deckung mit der Curve Z, welche
+letztere dabei ungeändert bleibt; Stadium II kommt dadurch
+zum Verschwinden.
+
+Die Versuche wurden sowohl mit Kohlebogenlicht als auch
+mit Funkenlicht ausgeführt.')
+
+Tabelle VI
+Abstand UE= 10mm. Volle Ausstrahlung = 1,00.
+
+1 2 3 4 5 6 7
+Potential- B lich Funkenlich:
+differenz ogenlicht nkenlicht
+zwisehen “ U entweichend An B Von U entweichend An E
+DV und E 'hne Mit |] a, Obne Mit |, a
+X magn. Kr.,magn. Kr. men magn. Kr.|magn. Kr. men
+
+Volt
+0,66 | +0,16 | -+0,082 | +0,029 |) +0,094 | +0,0088 | +0,012
+1,0 +0,082 | +0,0016 | — _ _ _
+1,12 _ _ _ +0,019 | —0,0031 | — 0,0088
+-3,0 || -0,0028 | -0,0047 | -0,0071 | --0,0025 | - 0,0038 | — 0,0054
+
+19. Directe Beobachtung der seitlich entweichenden Mengen
+wurde möglich durch Anbringung einer metallischen, berussten
+Hülle ZA, Fig. 1, an der Glaswand zwischen Uund 2?) Als
+dabei die magnetische Kraft, an der Oberfläche von U ge-
+messen, etwa bis zu 15 0.G@.S.-Einheiten gesteigert worden.
+war, fing die Hülle keine negativen Ladungen mehr auf.
+Elektrische Kraft war dabei nicht angewandt; der Abstand UE
+war 40mm, der Radius der Hülle 2,2cm, der des Lichtfleckes
+auf U 0,3 cm. Hieraus folgt die grösste, in merkbarer Menge
+vertretene Tangentialceomponente der Anfangsgeschwindigkeiten:
+15.(2,2—0,3)/2. e/u = 1,4. 10° cm/sec.?) Sie ist also von der-
+
+1) Auf die in der Tabelle bemerkbaren Unterschiede zwischen den
+Wirkungen der beiden Lichtarten wird später (26) eingegangen.
+
+2) Diese Hülle ist für die ferneren Versuche wieder fortgenommen
+zu denken.
+
+3) Für s/u ist hier durchweg rund 107 cm? 8 gesetzt.
+
+--- Page 13 ---
+160 P. Lenard.
+
+selben Grössenordnung, wie die früher (8) für Aluminium an-
+genähert und weiter unten (86) auch für Kohle exacter er-
+mittelte grösste merkbare Normalcomponente.
+
+20. Verhinderung seitlichen Entweichens durch Annäherung
+der Platten U und Z. — Annäherung der Platten muss wie
+Vergrösserung derselben wirken (17, Stadium II). Es ist bei
+gegebener Grösse und beliebiger Richtungder Anfangsgeschwindig-
+keit die maximale Wurfhöhe gleich der halben maximalen
+Wurfweite. Danach muss die seitliche Ausstrahlung ausbleiben,
+wenn der Abstand UZ der Platten kleiner geworden ist als
+der halbe Abstand zwischen dem Rande der Scheibe U und
+dem Rande des Lichtfleckes auf ihr, d. i. kleiner als 7 mm.
+Dies bestätigt auch der Versuch. Es brauchten dazu nur die
+it grosser Schärfe ermittelbaren (25) Nullpunkte der Wirkung,
+auf U sowie auf Z, entsprechend den Grenzen der Stadien I
+und II bez. II und III (Taf. I, Fig. 1), aufgesucht zu werden.
+Zusammenfallen der beiden Nullpunkte bedeutet Zusammenfallen
+der Curven U und Z überhaupt, also Fehlen der seitlichen
+Ausstrahlung. Es sind in folgender Zusammenstellung hierher-
+gehöriger Resultate die Abscissen X(U = 0) bez. X(#=0) der
+beiden Nullpunkte in Volts angegeben.
+
+Tabelle VII.
+Nullpunkte der Wirkung; Kohlebogenlicht.
+
+Abstand UB = | 5 | 10 | 25 l 40 nm
+
+- X(U=0) =
+
+1,10 | 2,4)
+
+weit über 1,2
+
+1,20 weit über 1,2Volt
+oem
+
+B
+a
+- X(E=0) = | 1,06 | 1,03 Eu
+
+1,0 1,05 Volt
+Man sieht, dass für Abstände UE=10mm — X(U=0)
+
+überall weit grösser ist als — X(Z#=0), also viel seitliches
+
+Entweichen stattfindet, während für UZ= 5 mm diese beiden
+
+Grössen nahe gleich werden, also das seitliche Entweichen nahe
+aufgehoben ist.
+
+1) Aus Tab. V.
+
+--- Page 14 ---
+Lichtelektrische Wirkung. 161
+
+Für den Abstand UE= 25 mm zeigt die Tabelle ausser-
+dem nochmals, dass durch normale magnetische Kraft der
+Nullpunkt von U gegen den von Z hinwandert, während letzterer
+Punkt unverrückt bleibt (18).
+
+21. Für den Stillstand der Wirkung ist die Grösse der
+Potentialdifferenz zwischen dem belichteten Körper und seiner
+Umgebung bestimmend. — Die Constanz der Zahlen X(Z= 0)
+in Tab. VII zeigt zunächst für die Platte 7, dass sie bei be-
+stimmter Potentialdifferenz (1,0—1,06 Volt) gegen U, unabhängig
+vom Abstand ÜZ, keine Ladung mehr empfängt. Da aber nach
+dem Vorhergehenden (18, 19, 20) beim Nichtstattfinden seit-
+licher Ausstrahlung U überall gleich # wird, also auch U=0
+wenn Z=0, gilt der vorangestellte Satz. Er wird auch ge-
+fordert von den Vorstellungen, von welchen wir ausgingen (17).
+
+Das Verhalten in Luft ist anders, wie man weiss!); hier
+tritt Stillstand der Wirkung dann ein, wenn eine bestimmte
+positive Elektrieitätsdichte oder verzögernde Normalkraft an
+der belichteten Oberfläche erreicht ist. Dies Verhalten in
+Luft muss aus dem Verhalten im Vacuum und aus den Eigen-
+schaften der Luft folgen, worauf wir zurückkommen (47).
+
+22. Anfangsgeschwindigkeiten; reflectirtes Licht. — Wenn
+seitliches Entweichen ausgeschlossen ist, was wir jetzt immer
+voraussetzen werden, die Curven U und Z also in die eine,
+E, zusammenfallen, giebt deren Form Auskunft über die
+Grössenverteilung der Anfangsgeschwindigkeiten(17,StadiumIII).
+Hierzu ist nur noch die Wirkung des von U nach Z hin
+reflectirten Lichtes zu berücksichtigen. Wir betrachten jetzt
+dazu die Umgebung des Nullpunktes der Wirkung eingehender.
+Folgende Tabellen geben die Mittelwerte von im Ganzen
+127 Messungen aus dieser Gegend, welche bei dem schon als
+genügend klein festgestellten Abstande UF = 5mm ausgeführt
+wurden; Kohlebogen und Zinkbogen?) waren dabei Lichtquellen.
+
+1) A. Righi, Mem. della R. Acead. di Bologna (4) 9. p. 369, 1888.
+2) A.Righi, Mem, della R. Accad. di Bologna (4) 9. p. 379. 1888.
+
+Annalen der Physik. IV. Folge. 8 11
+
+--- Page 15 ---
+162
+
+P. Lenard.
+
+Tabelle VII.
+
+Kohlebogenlicht
+(33,6 cm von der Glimmerblende).
+
+Tabelle IX.
+Zinkbogenlicht
+
+(33,6 cm von
+
+der Glimmerblende).
+
+Potentialdiff. Von U ent- Potentialdiff. Von U ent-
+zwischen weichende Elek- zwischen weichende Elek-
+Uund E trieitätsmenge U und E trieitätsmenge
+
+X U x U
+Veit Volt
+
++0 +1,00 * +0) +1,00 *
+0,90 +0,00918 0,60 +0,0153
+— 1,00 +0,00331 0,70 +0,00582
+1,10 +0,000 189 0,825 +0,001 72
+1,20 0,001 38 0,91 0,000 136
+1,30 —0,003883 1,12 —0,00312
+1,45 — 0,004 39 1,33 —0,003 78
+1,65 -0,00558 1,6 -0,00426
+1,75 —0,00598 2,5 —0,00463
+— 2,50 —0,006.09
+
+Fig. 2 ist eine graphische Darstellung dieser Tabellen in
+grossem Ordinatenmaassstab. Die Curven verlaufen nach links
+
+Frabögen
+
+—Merredoyen
+
+Fig. 2.
+
+w}-002
+
+u -001
+
+jo
+
+hin asymptotisch horizontal, wie zu erwarten war; denn bei
+genügend grosser verzögernder Kraft wird keine Ausstrahlung
+
+1) 20, 50 oder 100 Volt mit entsprechender Correetion (*) für Leitung
+(vgl. Anm. zu 12).
+
+--- Page 16 ---
+Lichtelektrische Wirkung. 168
+
+von U nach Z, dagegen alle durch das reflectirte Licht er-
+zeugte Ausstrahlung von Z nach U kommen, Sind die aus-
+gestrahlten Mengen der wirkenden Lichtintensität propor-
+tional (14, 15), so hat daher U(— oo) unmittelbar die Bedeutung,
+den Bruchteil & des auf U einfallenden Lichtes anzugeben,
+welcher nach # hin reflectirt wird. Da aber die beiden Platten U
+und Z einander sehr nahe stehen und nur das Centrum der
+einen belichtet wird, giebt « die relative reflectirte Lichtmenge
+überhaupt an, d.i. im vorliegenden Falle das Reflexions-
+vermögen des Terpentinölrusses. Dementsprechend wurde
+U(—©0)=« auch nicht merklich abhängig gefunden von der
+Lichtintensität. Die Art des Lichtes war jedoch von merk-
+lichem Einfluss. So entnimmt man, da nach dem Verlauf
+der Curven U(— oo) durch U(- 2,5) ersetzber ist, aus den
+letzten Zeilen der. Tab. VIII bez. IX:
+
+a für Russ und Kohlebogenlicht = 0,00609,
+
+“nn. » Zinkbogenlichtt = 0,004631);
+für Zinkfunkenlicht wurde in besonderen Versuchen gefunden « = 0,0054.')
+
+Beim viel grösseren Abstande V#=40 mm wurde U(— oo)
+sehr verkleinert gefunden, mit Kohlebogenlicht 0,00134; dies
+war zu erwarten, denn es fällt bei diesem Abstande nur mehr
+ein kleiner Teil des reflectirten Lichtes auf E.
+
+Spätere Versuche (34), bei welchen U und Z aus mattem
+Aluminium bez. Platin bestanden, ergaben bei U#=5 mm:
+« für Aluminium und Kohlebogenlicht = 0,2069,
+
+a@ „ Platin » „ = 0,1066,
+also sehr viel grösser wie für Russ, was wieder die zu Grunde
+gelegte Auffassung bestätigt, da Aluminium und Platin sehr
+viel mehr Licht reflectiren als Russ.
+
+Ist so & bekannt, so kann aus der beobachteten Curve U,
+deren Ordinaten wir als Function der Spannung X mit U(X)
+bezeichnen, folgendermaassen eine von dem Einfluss der Licht-
+reflexion befreite Curve Y(X) hergestellt werden. Es ist
+
+1) Es scheint danach das dem Zinkbogen und Funken eigene, sehr
+brechbare Uitraviolett von Russ weniger reflectirt zu werden als das
+minder breehbare Ultraviolett des Kohlebogens. Für Ultrerot findet
+Hr. Kurlbaum das Reflexionsvermögen von Petroleumruss gleich 0,05
+(Wied. Ann. 67, p. 850. 1899), also besonders gross.
+
+11*
+
+--- Page 17 ---
+164 P. Lenard.
+
+erstens überall U(X) = F{X) + R(X), wenn R die durch das
+röflectirte Licht allein hervorgebrachte Wirkung darstellt;
+zweitens wird aber diese letztere Wirkung überall sein müssen
+R(X)=— Y(— X).e. Aus den beiden Gleichungen folgt die
+Unbekannte
+
+M ru - RIED.
+
+Speciell ist Y(—-o)=0, F[+n)=U+mn)=1.
+
+23. Aeussere Geschwindigkeitsverteilung.} — Da wir in
+allem Folgenden stets nur mit der zur Körperoberfläche senk-
+rechten Geschwindigkeitscomponente zu thun haben, bezeichnen
+wir diese Componente als Geschwindigkeit schlechthin. Es
+hat dann Y(— P) bei allen verzögernden Potentialdifferenzen
+vom absoluten Betrage P die Bedeutung, den Bruchteil der
+Gesamtausstrahlung anzugeben, dessen Geschwindigkeit grösser
+ist als diejenige grösste Quantengeschwindigkeit, welche durch
+die Potentialdifferenz ? vernichtet werden kann (17, Stadium III).
+Diese letztere Geschwindigkeit, welche umgekehrt durch die
+Potentialdifferenz P auch erzeugt werden kann, bezeichnen
+wir immer kurz als die Geschwindigkeit „P“.2) Wir können
+dann sagen, Y(—P) gebe die Relativzahl derjenigen Quanten
+an, welche mit grösserer Geschwindigkeit als „P“ die be-
+lichtete Oberfläche verlassen. Y(—P) ist auch die Wahr-
+scheinlichkeit dafür, dass die Anfangsgeschwindigkeit eines be-
+stimmten, ausgetretenen Quants „P* übersteige und Y’(— P)JaP
+ist die Relativzahl der Quanten, deren Anfangsgeschwindigkeit
+„P+ «P]2“ ist.
+
+1) Es wird im Späteren (31) angenommen, dass die Geschwindigkeit
+der Quanten beim Passiren der Oberfläche eine sprungweise Aenderung
+erleidet, sodass innere und äussere Anfangsgeschwindigkeiten zu unter-
+scheiden sind.
+
+2) Es ist die Geschwindigkeit „P-Volt“ = Y2.10° Pe/u em/see in
+gewöhnhnlichem Maass, wo s/u das Verhältnis zwischen Quantenladung
+und Quantenträgheit ist (vgl. Wied. Ann. 64. p. 279. 1898). Das Zeichen „“
+für die Benutzung des abgekürzten Geschwindigkeitsmaasses wird im
+Folgenden nur dann hinzugesetzt, wenn sonst Missverständnis möglich
+wäre. Quanten, deren Geschwindigkeit „V“ ist, erhalten nach Durch-
+laufung des Potentialgefälles + $ die Geschwindigkeit „P + ,S“ (Wied.
+Ann. 65. p. 504. 1898). — Man kann bemerken, dass in dem gewählten
+Maasse an Stelle der Geschwindigkeiten lebendige Kräfte genannt werden.
+
+--- Page 18 ---
+Lichtelektrische Wirkung. 165
+
+Zur Ausführung der Reduction von U auf Y nach Gleichung (1)
+ist die Kenntnis des Verlaufes von U auch für beschleunigende
+Kräfte erforderlich. Dieser Verlauf wird später (29ff.) ein-
+gehend untersucht; es ist jedoch das Resultat der Reduction
+in Fig. 2 schon verzeichnet durch Eintragung der Linien 4.4
+der U(— X).« für beide Lichtarten. Rechnet man die Curven-
+ordinaten von dieser Linie an nach aufwärts, so hat man P;
+der Factor 1/(1 — «2) ist bei Kohle ohne merklichen Fehler
+gleich 1 zu setzen.
+
+Betrachtet man in dieser Weise z. B. die Curve für Kohle-
+bogenlicht, so kann ihr zunächst das Resultat abgenommen
+werden, dass eine bestimmte, grösste vorkommende Anfangs-
+geschwindigkeit nicht angebbar ist, dass aber Geschwindig-
+keiten über „2 Volt“ in unseren Versuchen allerdings kaum
+irgendwie merklich vertreten erscheinen, während dagegen
+kleinere Geschwindigkeiten in sehr rasch steigendem Verhält-
+nis sich vorfinden.')
+
+24. Zwei entgegengerichtete, gleichzeitige Kathoden-
+strahlungen in demselben Raume stören sich nicht. — Die Be-
+deutung des Nullpunktes U= Z= 0 der unmittelbar beobachteten
+Wirkung U ist jetzt dahin festzustellen, dass bei der Potential-
+differenz X(U= E#= 0) die ausgestrahlte Menge gleich ist.der
+durch Wirkung des reflectirten Lichtes gleichzeitig eingestrahlten
+Menge. Ausstrahlung und Einstrahlung durchlaufen hier gleich-
+zeitig in entgegengesetzter Richtung denselben Raum.?) Dies
+wäre nicht möglich, wenn die hier in Bewegung befindlichen
+Elektrieitätsquanten den Raum, welchen sie durchlaufen,
+continuirlich erfüllten; denn jedes bestimmte Volumenelement
+kann zu einer Zeit nur einerlei Bewegungsrichtung haben.
+Man kann daher die Erscheinung zum Nachweis einer inneren
+Structur der hier in Bewegung befindlichen Elektricität heran-
+ziehen.®)
+
+1) Weitere Angaben über die Grössenverteilung der Geschwindig-
+keiten, auch für Aluminium und Platin, vgl. unter 36.
+
+2) Ohne dass dabei irgendwelche Nebenerscheinung bemerkbar ge-
+worden wäre; auch nicht bei Aluminium- und Platinplatten, wo die Gegen-
+strahlung noch viel stärker ist als bei Kohle.
+
+3) Dass die Annahme einer Struetur der Elektricität durch Er-
+scheinungen, nämlich die der Elektrolyse, in bestimmter Weise gefordert
+
+--- Page 19 ---
+166 P. Lenard,
+
+25. Die Anfangsgeschwindigkeiten sind unabhängig von
+der Lichtintensität. — Ob die Grössenverteilung der Ge-
+schwindigkeiten mit der Intensität des erregenden Lichtes zu-
+sammenhänge, im besonderen, ob nicht bei steigender Licht-
+intensität die grösseren Anfangsgeschwindigkeiten in steigendem
+Verhältnis vertreten sein würden, war eine Frage, auf welche
+bejahende Antwort dann zu erwarten schien, wenn die Be-
+wegungsenergie der ausgestrahlten Quanten den Kräften des
+wirkenden Lichtes entstammen sollte.
+
+Es war zu untersuchen, ob der Verlauf der Curve Y bez. U
+mit der Lichtintensität sich ändere. Hierzu habe ich den
+Nulipunkt der letzteren Curve, U= 0, besonders ins Auge ge-
+fasst; derselbe hat eine für den vorliegenden Zweck günstige
+Lage und er ist ausserdem mit grösserer Genauigkeit er-
+mittelbar als jeder andere Punkt der Curve. Es ist nur
+nötig, die Potentialdifferenz zwischen U und Z so lange ab-
+zuändern, bis diejenige Potentialdifferenz X(U = 0) gefunden
+ist, bei welcher das Elektrometer an 7’, oder #, trotz Wirkung
+des Lichtes in Ruhe bleibt. So wurden auch die in Tab. X
+eingetragenen Resultate erhalten; hundertstel Volt wurden
+manchmal durch Interpolation zwischen noch übrig bleibenden
+entgegengesetzten Elektrometergängen berechnet. Auch ein
+anderer Weg ist zur Ermittelung des Nullpunktes offen.
+Lässt man nämlich von der Potentialdifferenz Null aus das
+Licht lange genug auf U wirken, so stellt sich die gesuchte
+Potentialdifferenz X(U= 0) von selber her und wird an dem
+dann zur Ruhe gekommenen Elektrometer ablesbar. Diese
+Ablesung erfordert jedoch bei nicht ganz vollkommener Iso-
+
+werde, ist wohl zum ersten Male durch v. Helmholtz hervorgehoben
+worden (Faraday-Rede 1881); in den Elektrolyten findet sich darnach
+die Elektrieität in Elementarquanten von stets derselben Grösse ab-
+geteilt an materielle Träger gebunden. Ob diese Structur der Blektrieität
+überhaupt, auch ohne die Mitwirkung materieller Träger, zukomme, kann
+nur durch Versuche an der von Materie freien Elektrieität, wie sie in
+den Kathodenstrahlen zur Untersuchung kommt, entschieden werden.
+Wir machen im Folgenden, wo es darauf ankommt, die Annahme einer
+bejahenden Entscheidung, indem wir die von Hrn. J. J. Thomson an
+materiellen Trägern festgestellte Ladung (Phil. Mag. (5) 46. p. 518. 1898;
+(5) 48. p. 557. 1899) gleich der eines einzelnen, selbständig beweglichen
+Quants freier Elektrieität nehmen.
+
+--- Page 20 ---
+Lichtelehtrische Wirkung. 167
+
+lation eine schwer ermittelbare Correction; ich habe deshalb
+diesen Weg zu Gunsten des zuerst genannten verlassen.
+
+Tabelle X.
+Nullpunkte bei verschiedener Lichtintensität.
+Abstand UE= 5 mm.
+
+Lichtquelle |P& „ 8| Gesamtwik. | SS | 5
+(und Strom Fe g a U(+®), 1 1
+. 5 E58 als Maass für 5) Bemerkungen
+stärke in E58 die mittlere | = | —
+derselben) & 5 o 3 | Lichtintensität ia] x
+em 10-10 Coul./see| Volt | Volt
+28 Amp.| 33,6 2.16 — |-1,07
+’ Neue Kohlen in der
+E 28 33,6 1,10 |- 1,05 | Bogenlampe
+< _ Entspr. Tab. VIII
+3120 33,6 1,74 1,12 | Und Kg. 2
+=}
+S | 28 68 -L10| — 14 Tage Zeitraum
+Blog 68 } 9,317 -1,10| — | zwiach. d. beid. Vers.
+8 33,6 0,041 — |-1,06
+27Amp.| 33,6 0,85 |— 0,85 Verschiedene
+= | 27 33,6 — [0,87 Eiektrometer- und
+&| 27 33,6 21,8 —0,88 |-0,86|} Batterieschaltungen
+2 97 33,6 -089| — | Entspr. ER IR
+S 127 87,8 } 5 2] = |} 14 Tage eraum
+ler 87,9 ’ 0,891 — d. beid. Vere.
+Zinkfunken| 17,4 2,86 - 1,00 |-0,97
+
+Man bemerkt in der Tabelle zwar kleine Unterschiede
+zwischen zusammengehörigen X(U=0) und X(#=0) — ein
+geringes Entweichen von Elektrieität zwischen U und Z an-
+zeigend (17, Stadium III; 20) — jedoch nicht die mindeste
+Abhängigkeit der einen oder der anderen dieser Grössen von
+der Lichtintensität. Man beachte dabei, dass die Versuche
+innerhalb jeder Gruppe nach absteigender Lichtintensität ge-
+ordnet sind, welche letztere in Columne 3 zum Ausdruck
+kommt (14). Beim Kohlebogenlicht varüirte die Lichtintensität
+im Verhältnis von etwa 70:1; dabei ist der Wert von X(# = 0)
+nicht um 1 Proc. geändert. Dies bedeutet, nach dem Lauf
+von Y(X) (Fig. 2 und Tab. VIII) an der Stelle von U=E=(,
+
+--- Page 21 ---
+168 P. Denard,
+
+dass die Zahl der Quanten, deren Anfangsgeschwindigkeit über
+1,06 Volt liegt, bei Versiebzigfachung der Lichtintensität nicht
+um 5 Proc. erhöht wird, obgleich diese Zahl an sich sehr ge-
+ring ist, nämlich nur 0,0057 der Gesamtzahl.
+
+Gleiche Versuche mit demselben Resultat habe ich auch
+mit Aluminiumplatten U und Z ausgeführt (vgl. 34); die In-
+tensität von Kohlebogenlicht wurde hier im Verhältnis von
+etwa 1000:1 variirt, ohne dass merkliche Aenderung des Null-
+punktes eintrat.
+
+26. Dass verschiedene Lichtarten verschiedene Anfangs-
+geschwindigkeiten ergeben, ist unmittelbar ersichtlich aus
+Tab. X, sowie aus den Tab. VI, VIII und IX und Fig. 2.
+Beim Zinkbogenlicht sind hiernach grosse Anfangsgeschwindig-
+keiten in sehr viel geringerem Maasse vertreten als beim
+Kohlebogenlicht); das Funkenlicht steht zwischen beiden.
+Dabei ist letzteres licht während seiner wirklichen Dauer
+weitaus das intensivste von allen (15), woraus wieder hervor-
+geht, dass Intensität und Anfangsgeschwindigkeiten ausser Zu-
+sammenhang sind.
+
+27. Polarisirtes Licht. — Zinkfunkenlicht, welches unter
+einem Einfallswinkel von 58° von der Vorderfläche einer hinten
+geschwärzten, senkrecht zur optischen Axe geschnittenen,
+ebenen Quarzplatte reflectirt wurde, ist in seinem ultravioletten
+Anteil sehr nahe vollständig linear polarisirt. Die Probe
+hierauf wurde mit Hülfe eines zweiten, gleichen Quarzspiegels
+als Analyseur vorgenommen; sie ergab sehr nahe vollständiges
+Verlöschen der grünen Fluorescenz auf Uranglas, sowie der
+blauen auf Flintglas im zweimal reflectirten Strahl bei ge-
+kreuzten Spiegeln und helles Erscheinen der Fluorescenzen
+bei parallelen Spiegeln, wobei im letzteren Falle Auslöschung
+eintrat, wenn eine Glas- oder Glimmerplatte in den Gang des
+Strahles geschaltet wurde.
+
+1) Dies gilt für die Wirkung auf Kohle. Bei Aluminiumplatten (34)
+wurde für Zinkbogenlieht der Nullpunkt nur um etwa 0,02 Volt nach
+kleineren Zahlen verschoben gefunden im Vergleich zu Koblebogenlicht;
+Ersetzen der positiven Lichtkohle durch einen Aluminjumstab änderte
+dabei den Nullpunkt überhaupt nicht deutlich. Dem Aluminium sind also
+— im Gegensatz zur Kohle — von der Lichtart sehr wenig abhängige
+Anfangsgeschwinudigkeiten eigen.
+
+--- Page 22 ---
+Lichtelektrische Wirkung. 16$
+
+Das polarisirte Licht wurde in zwei aufeinander senk-
+rechten Orientirungen benutzt; einmal (4) war seine elektrische
+Schwingungsebene parallel der Fläche von U, und dann (.B)
+war der Winkel zwischen beiden der grösste mögliche, näm-
+lich 45°. Im Falle 4 steht die Schwingungsrichtung senk-
+recht zur Zeichnungsebene der Fig. 1; im Falle .B liegt sie in
+dieser Ebene.!) Folgendes sind die Resultate.
+
+Tabelle XI.
+Zinkfunkenlicht, polarisirt. Abstand UE = 10mm.
+
+Richtung der Nullpunkt Gesamtwirkung
+Schwingungsebene X(E=0) E (+ 100 Volt)
+Volt Coulombs /see
+A ı U —0,95 0,16 ,10-10
+B. 45° zu U 1,0 0,17.10-10
+
+Ein sicherer Unterschied zwischen den Fällen 4 und 3
+hat sich demnach nicht gezeigt, weder in Hinsicht der An-
+fangsgeschwindigkeiten (zweite Spalte) noch der ausgestrahlten:
+Mengen (dritte Spalte). ?)
+
+28. Zu den Resultaten des Vorhergehenden (25, 27) kann
+folgendes bemerkt werden. Kräftige Absorption von Licht
+hat man als Resonanzerscheinung aufzufassen gelernt, deren
+Sitz die Molecüle bez. Atome des absorbirenden Körpers sind.
+In der That ist auch in unseren Versuchen nicht Licht jeder
+Wellenlänge wirksam; man findet, dass ein vorgeschaltetes
+durchsichtiges Glimmerblatt oder Glasstück alle Wirkung ab-
+hält. Als mit dem Licht schwingend kann man dieselben
+
+1) Der bisher benutzte, 1 zur Krystallaxe geschnittene Verschluss-
+quarz wurde für diese Versuche durch einen | der Axe geschnittenen
+ersetzt, dessen beide Hauptschwingungsrichtungen den obigen beiden
+Richtungen 1 gestellt waren. Dieser Quarz wurde dann auch für alle
+ferneren Versuche beibehalten.
+
+2) Man vergleiche hierzu die Beobachtungen der Herren Elster
+und Geitel an den ebenen Oberflächen flüssiger und erstarrter Alkali-
+metallflächen in verdünntem Wasserstoffgas (Sitzungsber. d. k. Akad. d.
+Wissensch. zu Berlin 6. p. 134. 1894; 11. p. 209. 1895). Dass die dabei
+erschienene Abhängigkeit der Wirkung von der Polarisationsrichtung
+durch Eigentümlichkeiten der Lichtabsorption der genannten Körper
+zu erklären sei, ist von den Verfassern selbst festgestellt worden (Wied.
+Ann. 61. p. 445. 1897).
+
+--- Page 23 ---
+170 P, Lenard.
+
+Quanten negativer Elektricität ansehen, welche eben infolge
+davon nachher ausgestrahlt werden und welche zur Zeit des
+Mitschwingens durch Kräfte mit den Atomen des Körpers ver-
+bunden sein müssen. Nimmt man als einfachsten Fall an,
+diese Kräfte seien von der Zeit unabhängig und solcher Art,
+dass lineare Lichtschwingungen auch lineare Resonanz-
+schwingungen . erregen‘), so würde die Amplitude dieser
+Schwingungen so lange anwachsen, bis die aufgehäufte lebendige
+Kraft die gesamte von seiten jener Kräfte verfügbare poten-
+tielle Energie übersteigt. Das Quantum wird dann mit dem
+Ueberschuss an lebendiger Kraft sein Atom verlassen. Dieser
+Ueberschuss, welcher den vom Lichte stammenden Teil der
+Anfangsgeschwindigkeit darstellt, müsste innerhalb der letzten
+halben bez. ganzen Resonanzschwingung erworben worden sein,
+er müsste also mit der Lichtintensität steigen. Da wir aber
+für die wirklichen Anfangsgeschwindigkeiten dies nicht zu-
+treffend fanden (25), folgt, dass die Annahme einfacher
+Resonanzbewegungen den Erscheinungen nicht genügt. Es
+bleibt danach die Annahme complicirterer Bewegungsbedingungen
+der inneren Teile des Körpers übrig, ausserdem aber auch die bis
+auf weiteres näher scheinende Vorstellung, dass die Anfangs-
+geschwindigkeiten der ausgestrahlten Quanten überhaupt nicht
+der Lichtenergie entstammen, sondern innerhalb der Atome
+schon vor der Belichtung vorhandenen heftigen Bewegungen,
+sodass die Resonanzbewegungen nur eine auslösende Rolle spielen.
+
+Schon die Grösse der beobachteten Anfangsgeschwindig-
+keiten, z.B. „3 Volt“ (= 8.107 cm/sec) bei Aluminium (34, 36),
+widerspricht der Annahme, dass dieselben von einer halben
+Lichtschwingung — oder auch mehreren solchen — gewöhn-
+licher Intensität gekommen seien; Spannungsdifferenzen von
+3 Volt kommen in solchem Licht nicht vor. Auch haben wir
+die Normalcomponente der Anfangsgeschwindigkeiten nicht
+deutlich verändert gefunden, wenn die in gleicher Richtung
+genommene Componente der elektrischen Kraft des Lichtes
+bis zu Null reducirt wurde (Fall A, 27).
+
+1) Diesem einfachen Fall entsprechen auch die Kräfte, welche v. Helm-
+holtz in seiner elektromagnetischen Dispersionstheorie voraussetzt (Wiss.
+Abhandl. 3. p. 503) und zwar, wie dort gezeigt wird, mit dem Erfolge sehr
+weitgehender Erklärung der Dispersions- und Absorptionserscheinungen.
+
+--- Page 24 ---
+Lichtelektrische Wirkung. 171
+
+29. Bei beschleunigender äusserer Kraft sind die Feld-
+stärken maassgebend für die Wirkung. — Es war für das
+Stadium IV der Wirkung (17) charakteristisch, dass daselbst
+trotz vorhandener beschleunigender äusserer Kraft volle Aus-
+strahlung doch noch nicht eintritt. Wir untersuchen nun zuerst
+den Einfluss variirten Abstandes der Platten U.Z auf die Er-
+scheinung. Tab. XII enthält hierauf bezügliche Resultate,
+deren graphische Darstellung sich bereits in Fig. 1 findet.
+
+Tabelle XII.
+
+Potential- Von U entweichende Elektrieitätsmengen; U.
+differenz ——
+zwischen UE=5mm 10 mm?) 25 mm 40 mm
+v 5 # en Kohlebogenlicht
+Volt
++100 _ _ 1,00* 1,00* 1,00*
+20 1,00 1,00 gu 1,01* _
+10 _ _ 0,94 _ 0,79
+3 _ _ _ 0,78 _
+2 0,94 0,95 0,85 _ 0,28
+1 0,88 0,90 0,79 0,57 0,26
+0,5 0,84 0,87 0,73 0,29 0,24
+0,8 _ En 0,65 _ _
+0,2 _ 0,74 0,55 _ _
+01 _ 0,56 _ _ _
+f) 0,39 0,46 0,40 0,28 0,20
+
+* Mit Correction wegen Leitung, vgl. Anm, zu 12.
+
+1) Man bemerkt beim Vergleich der Columnen 2 und 8, dass die
+Wirkung des Funkenlichtes etwas kleiner ist als die des Bogenlichtes,
+am meisten bei den kleinsten äusseren Kräften. Ich glaubte hierin
+früher (4) eine Wirkung der elektrostatischen Kräfte zu sehen, welche
+die gleichzeitig im Raume zwischen U und E befindlichen Quanten auf-
+einander ausüben; denn diese Kräfte sind proportional zu setzen der Zahl
+dieser Quanten, d. i. der Momentanintensität des Lichtes, sie würden
+also grösser sein bei Funken- als bei Bogenlicht und sie sind der äusseren
+Kraft entgegen gerichtet. Der vorhandene Unterschied in der Wirkung
+der beiden Lichtarten findet jedoch jetzt eine andere und ausreichende
+Erklärung in der Verschiedenheit der diesen Lichtarten zugehörigen
+Anfangsgeschwindigkeiten (26, 31), während elektrostatische Kräfte jener
+Art in keinerlei Weise weiter sich anzeigten.
+
+2) Wie Tab. V, Columne 2.
+
+--- Page 25 ---
+172 P. Lenard.
+
+Während also bei verzögernden Kräften die Potential-
+differenz zwischen U und Z allein maassgebend war für die
+Wirkung (21), kommt es hier, bei den beschleunigenden Kräften
+auf die Potentialdifferenz sowohl, wie auch auf den Abstand der
+Platten an, jedoch angenähert so — wie man unmittelbar aus
+der graphischen Darstellung sieht —, dass der Quotient beider
+Grössen, d. i. die Stärke des zwischen U und EZ angenähert
+homogenen F'eldes, maassgebend ist. Die grössten Abweichungen
+hiervon kommen beim Fehlen äusserer Kraft vor (letzte Zeile
+der Tab. XII), wo die Wirkung bei allen Abständen UE die
+gleiche sein sollte. Es war zu vermuten, dass hier die Glas-
+wände, welche die Platten umgeben, durch die seitlich ent-
+weichende Strahlung (17, Stadium IV) Ladung angenommen
+und dadurch störende, fremde Kräfte geliefert hatten. Dies
+hat sich bestätigt bei Wiederholung der Versuche nach Be-
+deckung der Glaswand mit einer metallischen Hülle (4 H,
+Fig. 1), die wie U und # berusst war und eine Oeffnung zum
+Eintritt des Lichtes besass. Um die angenäherte Homogenität
+des elektrischen Feldes zwischen U und Z’ nicht zu zerstören,
+wurde bei allen Abständen U# > 5mm das Potential der Hülle
+stets — wo nicht besonderes bemerkt -— gleich dem arith-
+metischen Mittel der Potentiale von U und E gehalten, nur
+bei VE=5mm waren Hülle und Platte Z miteinander ver-
+bunden, hatten also gleiches Potential. Es wurden so folgende
+Resultate erhalten:
+
+Tabelle XII.
+Hülle im Rohr; Kohlebogenlicht.
+
+Pot-Dik. Von U entweichende Elektrieitätsmengen; D.
+U und E; u
+X UE=5mm 10 mm 25 mm 40 mm
+Volt
++100 _ _ 1,00* 1,00*
+20 1,000* 1,000* _ _
+3,96 _ _ 0,908 0,838
+1,96 0,852 0,909 0,865 0,799
+0,97 0,831 0,864 0,781 0,751
+— 0,030 0,671 0,634 0,605 0,669
+Mittelwert U (-0,080 Volt) = 0,645
+
+* Mit Correction wegen Leitung, vgl. Anm. zu 12.
+
+--- Page 26 ---
+Lichtelektrische Wirkung. 173
+
+Soweit die Genauigkeit geht, ist jetzt die Ausstrahlung bei
+der Potentialdifferenz Null, bez. 0,080, nicht mehr abhängig
+von dem Abstande U. Ausserdem ist aber der Mittelwert
+dieser Ausstrahlung, 0,645, viel höher als jeder der früher, bei
+blanker Glaswand ohne äussere Kraft erhaltenen Werte (Tab. XII,
+letzte Zeile), was die oben über den Einfluss der Glaswand
+gemachte Voraussetzung bestätigt.!)
+
+Ordnet man sämtliche beobachteten Wirkungen U, Tab. XIJI,
+nach den zugehörigen Feldstärken, so erhält man die in Tab. XIlla,
+Columne 2, enthaltene stetig absteigende Reihe, welche keinen
+Zusammenhang mehr zeigt mit den daneben stehenden Ab-
+ständen UZ, und also den vorangestellten Satz rechtfertigt.
+Mit aufgenommen sind auch die drei Werte Nr. 2, 4 und 8 aus
+'Tab. XII, Columne 3, deren guter Anschluss an ihre Nachbarn
+anzeigt, dass bei einem Abstand U E = 5mm und beschleunigenden
+Potentialdifferenzen über 0,5 Volt ein Einfluss der Glaswände
+nicht merkbar wird.?) Aus der Reihe fallen nur die beiden
+Werte Nr. 3 und 6, entnommen der Tab. XIII, Columne 2.
+Zu diesen ist zu bemerken, dass sie unmittelbar nach frischer
+Berussung von U erhalten worden sind, während alle übrigen
+Werte auf Russflächen sich beziehen, welche einen oder
+mehrere Tage alt waren. Um etwa 10 Proc. erniedrigte Wir-
+kungen bei kleinen beschleunigenden Kräften habe ich auch
+noch ein zweites Mal beobachtet, wieder als die Berussung
+unmittelbar zuvor erneuert worden war. Es werden für die
+Folge nur die älteren Russflächen in Betracht gezogen werden.
+
+1) Dass dies selbst beim Abstande UTE-=5mm zutrifit, zeigt
+wieder an, wie stark tangentiale Geschwindigkeitscomponenten vertreten
+sind (19, 20).
+
+2) Es werden dementsprechend auch die bei verzögernden Kräften
+über 0,5 Volt ohne Schutzhülle beobachteten Werte (Tab. VIII, IX) als
+angefälscht angesehen.
+
+--- Page 27 ---
+174 P. Lenard.
+Tabelle XIIIa.
+Feldstärke Von U ent- | Abstand DE, bei
+sXIüR weichende welchem beob- Nr.
+Menge U achtet wurde
+Volt/5 mm mm
+
+20, 12,5, 10, 20 1,00 25, 40, 10, 5 1
+2 0,95 5 2
+1,96 0,852 5 3
+
+1 0,90 5 4
+0,98 0,909 10 5
+0,97 0,881 5 6
+0,79 0,908 25 7
+
+0,5 0,87 5 8
+0,50 0,838 40 9
+0,49 0,864 10 10
+0,39 0,865 25 11
+0,25 0,799 40 12
+0,18 0,781 25 13
+0,12 0,751 40 14
+
+0 0,645 (Mittelwert) 15
+
+30. Nur auf diejenige Feldstärke kommt es an, welche
+an der belichteten Oberfläche herrscht. — Bisher war das
+elektrische Feld zwischen U und E angenähert homogen;
+jetzt vergleichen wir ein solches Feld (a) mit einem in-
+
+homogenen (b).
+
+Die Potentialdifferenz zwischen U und Z war in beiden
+Fällen die gleiche, 4 Volt beschleunigend, während aber im
+Falle a die Hülle mittleres Potential hat — wie bisher stets —,
+hat sie im Falle 5 das Potential von U. Das Feld ist daher
+in letzterem Falle verstärkt gegen E zu, geschwächt gegen
+
+U hin.
+Potentiale Von U ent-
+Versuch \
+[4 | Hülle | E weichende Menge
+« 0 2 Volt 4 Volt 0,908
+5 ° [ü 4 0,196
+
+UE = 25 mm.
+
+--- Page 28 ---
+Lichtelektrische Wirkung. 175
+
+Man sieht, dass die Wirkung in den beiden Fällen wesent-
+lich verschieden ausfiel, und zwar entspricht dem an U
+schwächeren Felä die geringere Wirkung. Zu bemerken ist,
+dass an der Hülle im Falle 5 Ladungsaufnahme nicht nach-
+weisbar war, wodurch der Einwand einer möglichen directen
+Einwirkung des verringerten Potentiales der Hülle wegfällt.
+
+31. Nach dem Vorhergehenden (29, 30) kann das An-
+steigen der Wirkung bei steigender, beschleunigender, äusserer
+Kraft — welches wir als Stadium IV beschrieben (17) — auf-
+gefasst werden als Folge einer besonderen, verzögernden, nur in
+kleinen Entfernungen von der belichteten Oberfläche wirksamen
+Kraft elektrischer Art. Das Vorhandensein einer solchen
+Kraft wird auch angezeigt durch die andere Erscheinung, dass
+ein (negativ) geladener Körper ohne weiteres nichs von seiner
+Ladung im Vacuum verliert (4, Anm. 2), obgleich sein eigenes
+elektrisches Feld die Ladung von ihm forttreibt und obgleich
+das Vacuum fähig wäre, dieselbe aufzunehmen (3).
+
+Wir betrachten die so angezeigte Kraft X, gemessen in
+Volt/cm, als Function des Abstandes s von der Körpergrenze.
+Der grösste Abstand, in welchem die Kraft eben noch merk-
+bar wirkt, werde mit « bezeichnet und
+
+[Kas=[Kas mit ZI,
+e e
+
+wobei 0 < o eine constante Länge von der Grössenordnung
+der Moleculardistanz im betreffenden festen Körper vorstelle.
+II hat die Bedeutung, die Geschwindigkeitsverminderung dar-
+zustellen‘), welche die den Körper verlassenden Quanten unter
+dem Einflusse der Kraft X erleiden. Die nach Passiren des
+Kraftfeldes X bleibenden, direct messbaren Anfangsgeschwindig-
+keiten (23) nennen wir äussere Anfangsgeschwindigkeiten; die-
+selben um /7 Volt vergrössert nennen wir innere Geschwindig-
+
+keiten.
+Es gebe nun die Function 7(P) die Quantenzahl an,
+
+welche eine „P“ übersteigende innere Geschwindigkeit hat.!)
+P(P) hat darnach dieselhe Bedeutung für die inneren Ge-
+schwindigkeiten, wie Y(— P) (23) für die äusseren. Es ist
+£0)=1, Pfoo)= 0, F'(P) negativ.
+
+1) Ueber die benutzte abgekürzte Ausdrucksweise vgl. 23.
+
+--- Page 29 ---
+176 P. Lenard.
+
+Wirkt nun äussere elektrische Kraft vom absoluten Be-
+trage X Volt/S cm und ist dieselbe verzögernd, so wird die
+dauernd entweichende Menge dargestellt sein durch F(IT+ X).
+Ist die Kraft beschleunigend, so subtrahirt sie sich von X,
+und da X in kleinen Abständen von der Körperoberfläche
+grosse Werte annehmen kann, wird daselbst innerhalb eines
+‚gewissen Abstandes 7 noch verzögernde Kraft herrschen, ausser-
+halb desselben nur beschleunigende. r ist Function von X/8;
+für X=0 wird r=o, sonst ist stets z<o. Alle Quanten, welche
+im Abstande r noch nicht umgekehrt sind, werden überhaupt
+nicht mehr zu U zurückkehren, sondern dauernd ausgestrahlt
+werden. Die Zahl dieser Quanten ist daher
+
+T
+
+F [w-3)« .
+
+2
+
+Das Integral, welches, wie r, Function von X/$ ist, be-
+zeichnen wir kurz mit D(X/S, Die Natur dieser Function
+ist allein bestimmt durch das Kraftgesetz K(s); es folgt je-
+‚doch für jeden Fall aus dem schon Festgesetzten ®(0) = IZ
+und die Ableitung ®(X/)=— r.
+
+Darnach werden die beobachteten und vom Einfluss reflec-
+tirten Lichtes befreiten Wirkungen 7 (22) dargestellt für ver-
+zögernde Potentialdifferenzen vom absoluten Betrag X durch
+
+K-N=-RFO+D
+und für beschleunigende Potentialdifferenzen X beim Abstand
+UE=5 durch .
+Y&X) = FE X/S)}
+Ohne äussere Kraft folgt von beiden Seiten her
+F+0)= FM).
+
+Die Form der Curve, welche die Wirkung 7 als Function
+von X darstellt, ist also für verzögernde X allein bestimmt
+‚durch die Geschwindigkeitsverteilung, für beschleunigende X
+durch diese zusammen mit dem Kraftgesetz. Es besteht
+darnach die Curve aus zwei Zweigen ganz verschiedener Art,
+welche bei X = 0 zusammentreffen. Die Neigungen der beiden
+
+--- Page 30 ---
+Lichtelektrische Wirkung. 177
+
+Zweige zur Abscissenaxe sind gegeben für den negativen Zweig
+durch dr ,
+4x” F(O+X)
+
+und für den positiven Zweig durch
+
+day I X X\ ı
+dx -rle(ä]l-e(5} 5
+o -rlolö]ls-
+
+Für X=0, wo beide Zweige zusammentreffen, ergiebt
+sich von der negativen Seite her die Ableitung — 7”(/T), von
+der positiven Seite her — ’(T).o/S$. Es müssen daher die
+beiden Zweige hier eine Ecke miteinander bilden derart,
+dass beim Uebergang von der negativen zur positiven Seite
+die Neigungstangente sprungweise sich vermindert im Ver-
+hältnis von S:o. Ist o, wie wir nach den bisherigen Ver-
+suchen annahmen, klein gegen die benutzten Plattenabstände 8,
+so wird der positive Zweig bei X = 0 nahe horizontal an-
+setzen müssen trotz der Steilheit des negativen. Zweiges,
+welche die Versuche an dieser Stelle ergeben haben.
+
+32. Diese Folgerung aus dem Bestehen einer verzögern-
+den Oberflächenkraft mit kleinem Wirkungsbereich hat sich
+bestätigt bei eingehender Untersuchung der Umgebung des
+Nullpunktes der äusseren Kraft. Es wurde hierzu das Galvano-
+meter an Stelle des Elektrometers gesetzt, denn das letztere
+kann nur Mittelwerte der Wirkung geben, innerhalb eines
+durch die Grösse seines Ausschlages bestimmten Kraftinter-
+valles, was Singularitäten in der Verteilung der Wirkung ver-
+wischen muss. Die Platten U und Z waren mit der Hülle
+umgeben, welche mittleres Potential erhielt (29), und es wurde, um
+nurden axialen Teil deselektrischen Feldeszu benutzen, die magne-
+tische Kraft der Stromrolle 88, Fig. 1 zu Hülfe genommen (18).
+Folgendes sind die Mittelwerte von je 15—20 Galvanometer-
+ablesungen mit abwechselnd gewendeter Stromrichtung.
+
+Tabelle XIV.
+UE = 10 mm; Zinkbogenlicht,
+
+Pot.-Diff.
+
+zu U und x! +10| 05 | 0,2 |o1 0 -01|-02|-08 Volt
+ker |} 30,0 | 29,8 | 24,0 Es E% | 16,8 | 116 | 9,45 Set,
+
+Annalen der Physik. IV. Folge. 8. 12
+
+--- Page 31 ---
+178 P. Denard.
+
+In der graphischen Darstellung Fig. 3 ist, Taf. I, Fig. 1
+gegenüber, sehr vergrösserter Abseissenmaassstab benutzt. Die
+Entfernungen der beobachteten Punkte von der hindurchgezogenen
+Curve liegen innerhalb der wahrscheinlichen Beobachtungs-
+fehler'), sodass der Neigungssprung sowohl als auch der An-
+schluss an die Hlektro-
+meterbeobachtungen ohne
+Zwang sich ergeben. Aller-
+dings erscheint der Eck-
+punkt nicht bei 0 Volt,
+sondern bei + 0,04 Volt,
+was dahin gedeutet werden
+kann, dass die beiden
+Russflächen U und Z um
+letzteren Betrag elektro-
+inotorisch voneinander ver-
+schieden waren.?2) Auch .als
+Aluminium- und Platin-
+platten statt der Russflächen untersucht wurden (34), erschien
+deutlich der Eckpunkt (vgl. Taf. I, Fig, 2) und auch hier wies
+er ähnliche kleine Verschiebungen auf.
+
+33. Der Gesamtverlauf der Wirkung bei Russ findet sich
+in der folgenden Tabelle zusammengestellt. Es sind dabei
+die bisherigen Beobachtungen zum Teil zu Mittelwerten
+vereinigt und, wo es nötig war, neue hinzugefügt (vgl.
+Columne 8). Aus der beobachteten Wirkung U (Columne 2),
+welche überall auf den Plattenabstand 7 # = 5 mm bezogen
+ist, ist nach Gleichung (1) (22) die redueirte Wirkung Y
+
+Fig. 3.
+
+1) Dieselben sind hier verhältnismässig gross, denn das Galvano-
+meter berücksichtigt nur Momentanwerte der sehr inconstanten Licht-
+intensität. Ich bin deshalb bei der entsprechenden Untersuchung für
+Aluminium und Platin (34) wieder zum Elektrometer zurückgekehrt,
+welches Zeitintegrale der Intensität benutzt und bei genügender Klein-
+heit der Ausschläge (13) die Eekpunkte ebenfalls zweifellos erscheinen liess.
+
+2) Stellte man zwei Platten verschiedener Metalle im vollständigen
+Vacuum einander gegenüber, so würde die Aufsuchung des Eekpunktes
+— in Versuchen wie die obigen — Aufschluss geben können über die
+wahre Grösse der Contactpotentialdifferenz der betreffenden beiden
+Metalle gegeneinander. (Zu vergl. ist die Anm. zu 34.)
+
+--- Page 32 ---
+Lichtelektrische Wirkung. 179
+
+berechnet?) und in Columne 4 der Tabelle, sowie in Taf..I,
+Fig. 2 eingetragen,
+
+Tabelle XV,
+Russ; Kohlebogenlicht.
+® | 2 Eu
+. Pr
+EESER Eepe
+2% Eisler: ab Bemerkungen B33E-
+SE SE ses f}
+usD F3 °833
+a PT
+Volt
+2350 -0,00809 Aus Tab. VII. < 0,0005
+oh u) -
+38 oo } Mittelwerte aus Tab. VII. 00016
+-120 | 0 0,0056
+—1,020 |+0,01097 u 0,0165
+0,831 | 0,0364 || Neu beobachtet.) UE=5mm. Hülle| 0,0419
+—0,609 | 0,0920 im Robr verbunden mit E (vgl. 29). 0,0973
+— 0,412 0,216 0,221
+-0220 | 0,855 |) 0,363
+—0,080 | 0,645 | Aus Tab. XII. 0,549
+f) 0,720 | Nach Tab. XIV.%) 0,724
++0,12 0,751 Aus Tab. XllIa. 0,754
+0,22 0,790 Mittelwert aus Nr. 12 u. 13 Tab 0,792
+0,7 | 0,859 » „» Nr.8, 9, 10, 12 tyfrpa.| 0,860
+0,92 | 0,906 » „ Nr.4, 5, 7 0,908
+2,0 0,95 N xu 0,85
+20 1,00 Aus Tab. XII. 1,00
+
+34. Um die Wirkung bei anderen Körpern als Russ zu
+untersuchen, wurden die Platten Uund Z, sowie die Hülle (29)
+
+1) Die zur Ausführung der Reduction nötigen Werte U(- X)
+wurden, wo directe Beobachtung nicht vorlag, in genügend grossem Maass-
+stab graphisch interpolirt.
+
+2) Dass diese neuen Beobachtungen den Nullpunkt der Wirkung bei
+—1,20 Volt erscheinen lassen, während die früheren (Tab. X) -1,1 Volt
+ergahen, rührt wahrscheinlich nur daher, dass erstere nur mit ruhig
+brennendem, schon einige Zeit vorher entzündetem Lichtbogen ausgeführt
+wurden, letztere mit zischendeim, nur für den Augenblick des Versuches
+entzündetem Bogen. Der zischend brennende Bogen scheint sich in seiner
+Wirkung dem Metallbogen etwas zu nähern (vgl. 26),
+
+3) Es wurde der Nullpunkt der Potentialdifferenzen an den graphisch
+interpolirten Eckpunkt verlegt (vgl. Fig. 3, 32) und alsdann die Ordinaten
+auf das sonst gebrauchte Maass reducirt, indem für X = — 0,030 Volt,
+
+U = 0,645 gesetzt wurde (Tab. XIID.
+12*
+
+--- Page 33 ---
+180
+
+P. Lenard.
+
+und der Rohransatz (r, Fig. 1b) einmal aus Aluminium und
+
+dann auch aus Platin hergestellt.
+
+Es wurde nur der Ab-
+
+stand UE= 5 mm benutzt; folgendes sind die Resultate.
+
+Tabelle XVI
+Aluminium; Kohlebogenlicht.
+
+Vom Einfluss Potentialdifferenz
+Potential- zwischen U und E,
+differenz Beobachtete reflectirten wenn der Nullpunkt
+B Wirkung Lichtes befreite | _derselben an den
+zwischen U Wirkun, Eekpunkt der Curve
+U und E y 5 verlegt wird
+X
+Volt Volt
+19,98 0,205 20,25
+— 9,98 0,208 <0,008 10,25
+— 5,98 0,208 - 6,25
+— 3,98 0,205 — 4,25
+- 2,13 0,195 0,005 — 8,00
+31 0,188 0,010 2,38
+— 1,132 0,174 0,019 — 3,01
+— 1,483 0,160 0,032 - 1,76
+- 1,226 0,149 0,040 - 1,50
+— 0,983 — 0,1045 0,071 — 1,26
+— 0,728 0,0690 0,092 — 1,00
+— 0,498 0 0,147 - 0,77
+— 0,274 +0,102 0,240 - 0,55
+- 0,023 0,264 0,897 — 0,80
++ 0,0031 0,292 0,425 - 0,97
+0,052 0,318 0,450 - 0,22
+0,087 0,349 0,482 - 0,19
+0,18 0,497 0,560 - 0,09
+0,290 0,497 0,626 + 0,02
+0,389 0,545 0,657 0,12
+0,48 0,550 0,646 0,21
+0,97 0,661 0,698 0,80
+1,487 0,817 0,829 1,21
+1,96 0,909 0,916 1,69
+3,96 0,977 0,976 3,69
+7,92 0,998 N 7,65
+19,93 0,995 19,66
+29,92 1,008 1,00 | 29,65
+49,92 1,000 49,6
+
+
+--- Page 34 ---
+Lichtelektrische Wirkung. 181
+
+Tabelle XVII.
+Platin; Kohlebogen.
+
+Potentialdifferenz
+Potential- Vom Einfluss | zwischen U und B,
+differenz Beobachtete refleetirten wenn der Nullpunkt
+zwischen Wirkung Lichtes befreite | derselben an den
+[7] Wirkun; Eekpunkt der Curve
+U und E 5 verlegt wird
+7 x
+Volt Volt
+— 14,98 0,107 15,12
+- 8,96 0,106 — 9,08
+- 4,97 0,105 <0,002 — 5,09
+— 2,46 —0,104 — 2,58
+- 1,96 0,0973 0,008 — 2,08
+— 1,47 0,0815 0,018 - 1,59
+— 0,985 0 0,097 — 1,06
+- 0,801 +-0,0890 0,172 - 0,72
+— 0,808 0,292 0,379 — 0,42
+— 0,010 0,567 0,652 — 0,18
++ 0,093 0,686 0,771 — 0,08
+0,193 0,720 0,798 + 0,07
+0,293 0,720 0,185 0,17
+0,742 0,827 0,852 0,82
+1,99 0,988 0,984 1,87
+3,49 0,981 0,985 3,37
+9,97 0,99 9,85
+19,97 1,01 } 100 } 1,00 | 19,85
+
+Zu bemerken ist bei Aluminium, dass nach frischem
+Smirgeln der gesamten Metalloberflächen der Apparat sofort
+zusammengesetzt und evacuirt wurde. Die Beobachtung begann,
+als die Pumpe der Grenze ihrer Wirksamkeit nahe gekommen
+war, etwa eine Stunde nach dem Smirgeln. Dabei zeigte sich
+anfangs die absolute Grösse der Wirkung im Abnehmen be-
+griffen, was etwa °/, Stunde lang andauerte, das ist etwa eben
+so lange, als die Pumpe noch Gasbläschen aus dem Apparat
+entfernte; von da ab blieb die Wirkung 10 Tage lang unver-
+ändert. Auf diesen letzteren Zustand bezieht sich die Tabelle.
+Der Eckpunkt der Curve der U wurde bei + 0,2783 Volt ge-
+funden; es wurde auch hier angenommen (vgl. 82), dass die
+
+--- Page 35 ---
+182 P. Lenard.
+
+Potentiale der Elektrodenflächen U und # bei metallischer
+Verbindung derselben um jenen Betrag verschieden waren und
+dementsprechend die Potentialscala um 0,278 Volt verschoben,
+wodurch die letzte Columne der Tabelle resultirt.!)
+
+Bei Platin, das ebenfalls in frisch gesmirgeltem Zustand
+benutzt wurde, fand sich der Eckpunkt der Curve bei + 0,12 Volt,
+und es ist die Potentialscala für die letzte Columne der Tabelle
+ebenfalls dementsprechend verschoben worden.
+
+Taf. I, Fig.2 zeigt den Lauf von F(X) zugleich für Kohle,
+Aluminium und Platin.
+
+35. Innere Geschwindigkeiten. — Der negative Zweig
+von Y(X) giebt, wie wir sahen (81), die Werte der Geschwindig-
+keitsverteilungsfunction F direct an für alle inneren Geschwindig-
+keiten, welche grösser sind als „I/“. Auf die Fortsetzung der
+Function F für Geschwindigkeiten kleiner als „I7“ kann ge-
+schlossen werden aus dem positiven Zweig von Y. Die Neigung
+des letzteren wächst, wie Taf. ], Fig. 2 zeigt, von X=0 ab,
+wo sie nahe Null ist, mit zunehmendem X rasch an. Da nun r
+mit zunehmendem X nur abnehmen kann, muss F’ nach
+Gleichung (2) (81) zunehmen. Es wird daher die Function 7
+über X= 0 hinaus nach rechts hin ihren Lauf mit weiter
+noch zunehmender Steilheit fortsetzen, wie dies die punktirte
+Linie oa in Taf. I, Fig. 2 für den Fall des Platins andeutet,
+Für ‘noch weiter wachsende X nähert sich 7° bald der Null,
+welcher Wert bei X= 10 Volt oder X/$ = 20 Volt/cm für
+alle drei Körper schon sehr nahe errreicht ist und wobei F
+sehr nahe gleich 1 wird, wie Taf. I, Fig. 2 und die Tabellen
+zeigen. Hier werden durch Gleichung (2) für die Function 7
+zwei Fälle als möglich angezeigt. Entweder (4) r ist schon
+Null geworden, sodass 7’ noch weiterhin, bis zu #= 1, grosse
+Werte behalten kann (24 in Taf. I, Fig. 2), oder (B) r ist
+noch nicht Null, sodass 7’ es werden muss (aB in Taf. I,
+
+1) Es schien die Potentialverschiedenheit der Platten, Z negativ
+gegen U, während der ersten vorgenommenen Belichtung von U sich
+herausgebildet zu haben, was auf Polarisation von E, etwa durch Belag
+mit negativen, durch Absorption der Kathodenstrahlen in dem vorhandenen
+Dampfresiduum (12) entstandenen Trägern deutet. Auch bei Kohle und
+Platin war der Sinn der Potentialverschiedenheit derselbe, nur ihre Grösse
+geringer.
+
+--- Page 36 ---
+Lichtelektrische Wirkung. 183
+
+Fig. 2. Fall 4 würde bedeuten, dass das Kraftintegral 17
+nur sehr klein, kaum gleich 0,1 Volt sein kann und dass unter
+den inneren Geschwindigkeiten der Quanten verschwindend
+kleine Geschwindigkeiten am meisten vertreten sind. Die
+Voraussetzung dieses Falles, dass nämlich 7 bei einem Kraft-
+werte von 20 Volt/cm der Null schon nahe sei, dass also, nach
+der Bedeutung von r (31), die Kraft X wesentlich höhere
+Werte als 20 Volt/cm in ihrem ganzen Bereiche nicht auf-
+weise, widerspricht jedoch der Erfahrung. Denn äussere, der
+Kraft K entgegengerichtete Kräfte bewirkten selbst in der
+Grösse von 45000 Volt/3,6cra kein Entweichen von (negativer)
+Elektrieität aus einer im Vacuum befindlichen Aluminium-
+fläche (4, Tab. I, Anm. 2). Wir betrachten danach den Fall 4
+als ausgeschlossen und daher den Fall 2 als zutreffend. Dies
+bedeutet, dass weitaus die meisten, durch das Licht im Innern
+des Körpers ausgelösten Quanten daselbst eine bestimmte, ver-
+hältnismässig grosse Geschwindigkeit haben, welche als die
+wahrscheinlichste innere Geschwindigkeit eines Quants zu be-
+zeichnen wäre, und dass sowohl geringere als grössere Ge-
+schwindigkeiten als diese zwar vorkommen, jedoch beide nur
+in geringem, mit zunehmender Abweichung von der wahr-
+scheinlichsten Geschwindigkeit rasch gegen Null herabsinken-
+dem Maasse.!)
+
+Zu berücksichtigen ist, dass unsere Angaben nur auf die
+nach einer bestimmten Richtung hin, nämlich der Oberflächen-
+normalen, genommenen Componenten der Geschwindigkeiten
+sich beziehen (23), während das Bestehen anderer Geschwindig-
+keitsrichtungen wirklich nachgewiesen ist (8, 18, 19, 20, 29).
+Mit Rücksicht hierauf kann bemerkt werden, dass die von uns
+gefundenen, in den Tab. XV—XVI niedergelegten Verteilungen
+der äusseren Normalcomponenten, wie mir durchgeführte Rech-
+nungen zeigen, weder dem Falle des Bestehens einer einzigen
+bestimmten inneren Geschwindigkeitsgrösse mit gleicher Wahr-
+scheinlichkeit für jede mögliche Richtung derselben entsprechen,
+noch auch etwa dem Falle, dass die inneren Geschwindigkeiten
+
+1) Es sei bemerkt, dass unsere Beobachtungen gegen etwaiges Be-
+stehen innerer Geschwindigkeiten gauz anderer, kleinerer Grössenordnung
+nichts aussagen.
+
+--- Page 37 ---
+184 P. Lenard.
+
+nach Maxwell’s für Gasmolecüle geltendem Gesetz verteilt
+wären.)
+
+Die Grösse der wahrscheinlichsten inneren Geschwindig-
+keit, entsprechend grösster Steilheit von 7, erscheint bei jedem
+der drei untersuchten Körper nicht sehr verschieden von dem
+beziehlichen Wert „IZ“. Ueber diese letztere Grösse selber
+sagen jedoch unsere Versuche nur aus, dass sie bei den drei
+Körpern etwa 0,1 oder 0,2 Volt (für Platin die Abscisse von B,
+Taf. I, Fig. 2) übersteigen müsse.
+
+36. Ueber die äusseren Geschwindigkeiten seien noch
+folgende, auf gewöhnliches Maass reducirte?), für Kohlebogen-
+licht geltende Angaben mitgeteilt, welche den in grossem Maass-
+stabe gezeichneten Originalen der Taf. I, Fig. 2 entnommen sind.
+
+Tabelle XVII.
+
+Quantenzahl bei
+{6} Pt Al
+
+107 cm/see
+Entweichend mit ” 12 und 8 || 0,000 0,000 | 0,004
+
+normalen Geschwindig- » 8 „ 4 0,049 0,155 | 0,151
+
+keitseomponenten » 4 „0. 0,67% | 0,65°) | 0,499)
+Nur bei Mitwirkung äusserer Kraft P
+entweichend } 928 921 0,85
+Gesamtzahl 1,00 | 1,00 | 1,00
+
+1) Beide Fälle stellen nicht nur die gefundene äussere Geschwindig-
+keitsverteilung nicht dar, sondern sie würden auch verlangen, dass kleinste
+innere Normalcomponenten am meisten vertreten seien. Ein Grund,
+warum letzteres nicht zutrifft, kann darin gesehen werden, dass die aus
+tieferen Molecülschichten des belichteten Körpers kommende Strahlung der
+auswählenden, für kleine Geschwindigkeiten sehr starken Absorption (4)
+durch die äusseren Schichten unterliegt. — Dass für den Vorgang der
+Ausstrahlung von vornherein die ganze vom Licht durchdrungene Körper-
+schicht in Betracht zu ziehen sei, zeigt ein von Hrn. Hallwachs be-
+schriebener Versuch (Tagebl. der Heidelberger Naturf.-Vers. p. 214. 1890),
+worin eine auf Quarz niedergeschlagene, durchsichtige Silberschicht, von
+der Quarzeeite her belichtet, an der entgegengesetzten Seite negative
+Ladung abgiebt.
+
+2) e/w ist dabei rund gleich 107 0.G.S. gesetzt.
+
+3) Diese Zahlen würden bei glatten Oberflächen voraussichtlich eine
+Vergrösserung erfahren, die unmittelbar darunter stehenden eine gleiche
+Verkleinerung (vgl. 37).
+
+--- Page 38 ---
+Lichtelektrische Wirkung. 185
+
+Das für Kohle schon hervorgehobene (23) Ueberwiegen
+der kleineren äusseren Geschwindigkeiten zeigt sich auch bei
+Platin und Aluminium; als Besonderheit zeigt Platin mehr
+grössere Geschwindigkeiten als Kohle, und Aluminium noch
+mehr als Platin.
+
+37. Nicht unerwähnt darf der Einfluss bleiben, den die
+Rauhigkeit der benutzten Oberflächen auf die Resultate aus-
+geübt haben muss. Die Russflächen waren von selber rauh, die
+Metallflächen infolge der Smirgelung. Bei dem Bestehen starker
+tangentialer Componenten in den Anfangsgeschwindigkeiten
+(8, 18, 19, 20, 29) muss ein Teil der ausgetretenen Quanten
+von den Vorsprüngen der rauhen Oberfläche wieder aufgefangen
+worden sein. Dieser Einfluss der Rauhigkeit kann nicht zur
+Beobachtung gekommen sein bei grösseren verzögernden Kräften
+und er muss fortfallen bei grösseren beschleunigenden Kräften;
+er würde danach nur in einer Erniedrigung der Werte U(0),
+und also auch F(0) und deren Umgebung bestehen. An glatten
+Oberflächen wäre steilerer Anstig des negativen, weniger steiler
+Anstieg des positiven Zweiges von Y zu erwarten. Eine solche
+Aenderung ist in der That notwendig, um einen Widerspruch
+zu beseitigen, welcher bei eingehender Untersuchung gefunden
+wird zwischen der aus unseren Versuchen resultirenden Form
+von Y und der auf glatte Oberflächen angewandten Annahme
+eines nur kleinen Wirkungsbereiches o der Kraft X. Die in
+Hinsicht der Geschwindigkeitsverteilung im allgemeinen ge-
+zogenen Schlüsse (85, 36} werden indessen hiervon nicht be-
+einflusst.
+
+38. Den Ursprung der Oberflächenkraft X (31) betreffend
+können folgende drei Möglichkeiten in Betracht gezogen werden:
+a) Elektrische Doppelschichten an den Oberflächen, b) eine
+specifische Anziehung zwischen Leiter und Elektricität, etwa
+wie sie v. Helmholtz zur Erklärung der Metallcontactpoten-
+tialdifferenzen annahm'), c) die wohl zweifellos vorhandene
+elektrische Kraft zwischen den entweichenden Quanten und
+deren elektrischen Bildern in der Oberfläche.
+
+In den Fällen a) und b) würde die Kraft mit der Natur
+des Leiters variiren; im besonderen wäre bei Aluminium einer-
+
+1) v. Helmholtz, „Erhaltung der Kraft“ p. 47. 1847.
+
+--- Page 39 ---
+186 P. Lenard.
+
+seits und Platin und Kohle andererseits, welche elektromotorisch
+weit voneinander verschieden sind, eine deutliche Verschieden-
+heit in der Grösse des Kraftintegrales /7 zu erwarten. Eine
+solche würde bei gleich angenommenen inneren Geschwindig-
+keiten dadurch sich äussern, dass die betreffenden Y-Curven
+in ihren negativen Zweigen horizontal gegeneinander verschoben
+erschienen. Dies ist aber nicht der Fall; Platin und Kohle
+zeigen (Taf. I, Fig. 2) in den kleinen Werten von F(— X) mehr
+Verschiebung gegen einander als Aluminium gegen Platin, und
+in den grossen Werten von Y(— X) steht Kohle dem Aluminium
+näher als dem Platin. Die Verschiedenheit von 17 könnte
+allerdings bestehen und nur nicht zu jenem Ausdruck kommen
+dann, wenn, im Falle der Kraftart b), mit grösserer Anziehung
+zwischen Körper und Quanten jedesmal auch grössere innere
+Anfangsgeschwindigkeiten der Quanten verbunden wären; hier-
+von ist jedoch ohne weiteres eher das Gegenteil wahrschein-
+lich. Es kann also gesagt werden, dass eine specifisch ver-
+schiedene Anziehung zwischen den untersuchten Körpern und
+der negativen Elektricität in unseren Versuchen durchaus nicht
+bemerkbar wird. Will man eine solche Anziehung dennoch
+als bestehend annehmen, wofür elektrochemische Gründe
+sprechen, so wäre ihr nach unseren Versuchen eine Wirkungs-
+sphäre zuzuschreiben, welche von kleinerer Grössenordnung ist
+als die Moleculardistanz in den von uns untersuchten festen
+Körpern. In diesem Falle würde die Anziehung zum Kraft-
+integral I7 nichts beitragen; sie würde dann aber an der Aus-
+bildung von Contactpotentialdifferenzen an den Berührungs-
+flächen von Metallen ebenfalls nicht beteiligt sein können.
+Dass in Luft elektrische Doppelschichten an Leiterober-
+flächen bestehen, erscheint nicht zweifelhaft!); über das Fort-
+bestehen derselben im Vacuum ist nichts bekannt. Zu den
+wirksamsten Mitteln, anhaftende Gasschichten von einer Metall-
+platte zu entfernen, gehört die Benutzung der Platte als
+Kathode bei der Glimmentladung. Ich habe dies Mittel auf
+die Platinplatte angewandt, deren lichtelektrisches Verhalten
+vorher mit den oben angegebenen Resultaten (34) untersucht
+
+1) P. Lenard, Wied. Ann. 46. p. 584. 1892; Quecksilber Tab. XVII
+daselbst.
+
+--- Page 40 ---
+Lichtelektrische Wirkung. 187
+
+worden war. Der Apparat wurde dazu mit Wasserstoffgas?)
+beschickt, worauf eine vielzellige Accumulatorenbatterie die
+Platinplatte, als Kathode, 6 Stunden lang mit Glimmlicht be-
+deckt hielt; die gegenüberliegende Platinplatte (Z) war Anode.
+Hätte. dabei I7 eine Abnahme erfahren, so hätte sich dies
+durch Anwachsen von F(0) erkennbar machen können. Solches
+trat aber nicht ein; Y(0) wurde vielmehr am Schlusse der
+Behandlung, nachdem der Apparat wieder evacuirt worden
+war, gleich etwa 0,5 gefunden, also noch kleiner als vorher.
+Zu berücksichtigen wäre auch, dass zur Erklärung der Er-
+scheinungen angenommen werden müsste, es seien alle drei
+untersuchten Körper, und Platin auch nach obiger Behandlung,
+aussen negativ belegt.
+
+Von der Kraftart c) kann dagegen gesagt werden, dass
+nicht nur ihr Vorhandensein, soweit gegenwärtige Kenntnis
+geht, keinem Zweifel unterliegt, sondern dass auch ihre Eigen-
+schaften unseren Beobachtungen ohne weiteres entsprechen.
+Diese Kraft hat im Abstande s die Grösse K= 300 e/4s?,
+worin e die Ladung eines einzelnen, selbständig beweglichen
+Quantums, gleich 6,6.10-!° statischen Einheiten, wäre.?)
+Danach ergiebt sich:
+
+© o
+wenn wenn
+K(9) = H=[Kds= | Kds=
+o .- SKads=[Kas -
+e e
+Volt/em ınm Volt mm
+0,0005 01=0 0,5 10-8
+5 0,001 5 10-7
+5.108 10-6
+
+Es genügt also diese Kraft der Bedingung unmerklich zu
+werden in Abständen, die klein sind gegenüber den in unseren
+Versuchen benutzten Plattenabständen U, jedoch gross gegen-
+über den Moleculardistanzen; sie nimmt ferner in Abständen,
+welche noch nicht unterhalb der Moleculargrösse liegen, Werte
+
+1) Wasserstoffgas erschien, gegen Wasser wenigstens, weniger negativ
+als Luft (Wied. Ann. 46. p. 627. 1892); nach J. J. Thomson (Phil.
+Mag. 37. p. 341. 1895) wäre es sogar positiv gegen Wasser.
+
+2) Vgl. die Anmerkung zu 24.
+
+--- Page 41 ---
+188 P. Lenard.
+
+von solcher Höhe. an, dass dadurch das Nichtentweichen der
+Elektricität aus unbelichteten, stark geladenen Leitern im
+Vacuum (4, Tab. I, Anm. 2) erklärlich ist, und ihr Integral-
+wert JT liegt über der durch unsere Versuche angezeigten
+unteren Grenze (35).
+
+Versuche in gaserfülltem Raum.
+
+39. In früheren Versuchen habe ich nachgewiesen, dass
+Kathodenstrahlen die Luft elektrisch leitend machen); es soll
+jetzt: untersucht werden, ob dies bei allen Geschwindigkeiten
+der Strahlen eintritt, oder ob, wie die Unipolarität der licht-
+elektrischen Wirkung anzuzeigen scheint (9, 11), eine untere
+Grenze der Strahlengeschwindigkeit hierfür besteht. Hierzu
+wurde der folgende Ap-
+parat benutzt (Fig. 4). Der
+zu bestrahlenden Platte U
+stand die Fläche # gegen-
+über, deren Mitte aus
+feinem Drahtnetz bestand
+(Maschengrösse 1 mm?,
+Drahtdicke 0,1 mm); jen-
+seits des Netzes findet
+sich der Aluminiumring A.
+VO, E und & sind vonein-
+ander isolirt, sodass links
+
+Fig. 4. und rechts von £ zwei be-
+
+liebige elektrische Felder
+
+hergestellt werden können, deren gegenseitige Unabhängigkeit
+durch das mit Z verbundene, rechts durch Drahtnetz ge-
+schlossene, bei y zum Lichteinlass durchbohrte Rohr ze ge-
+währleistet sind. Z# ist mit der Erde verbunden und im
+Raume zwischen U und Z ist alles, auch das Netz von Z,
+gut berusst. Das Glasrohr, weiches das Ganze umschliesst,
+kann mit beliebigen Gasen bei messbarem Druck gefüllt
+werden. Die Stromspule 85 verhindert wieder die Ausbreitung
+der Strahlung (18), sodass stets nahezu die gesamte aus-
+
+1) P, Lenard, Wied. Ann. 51. p. 240. 1894.
+
+--- Page 42 ---
+Lichtelektrische Wirkung. 189
+
+gestrahlte Quantenmenge nach R hin gelangt, unabhängig von
+der Grösse der beschleunigenden Kraft zwischen U und E.
+Lichtquelle war der Zinkbogen.
+
+Die Versuche wurden folgendermaassen ausgeführt. Durch
+Abänderung der Potentialdifferenz zwischen U und E ist die
+Geschwindigkeit der Strahlen, welche durch das Netz nach R
+hin gelangen, regulirbar und sie ist nach den vorhergegangenen
+Versuchen jedesmal bekannt. Es ist nun zu untersuchen, ob
+im Raume um A nicht nur negative Elektrieitätsträger durch
+Absorption der Strahlen im Gase entstehen, sondern auch
+positive Träger. Erst der letztere Fall würde wahre, nicht
+unipolare Leitfähigkeit des Gases bedeuten. Es wurde daher £
+mit dem Elektrometer verbunden und zugleich, gemeinsam mit
+dem Gehäuse des Elektrometers, negativ geladen. Eine
+Ladungsabnahme von Z bei Belichtung von U, angezeigt durch
+positiven Gang des Elektrometers, kann dann als sicheres
+Zeichen für das Vorhandensein positiver Träger und also
+wahrer Leitfähigkeit angesehen werden.
+
+40. Es waren nur geringe Gasdrucke anzuwenden, um
+annehmen zu können, dass die Geschwindigkeiten, mit welchen
+die Quanten in den Raum R gelangen, durch stetige Be-
+schleunigung auf dem Wege von U bis Z erlangt worden sind.
+Diese Annahme wird jedenfalls dann zutreffen, wenn weiter
+fortgesetzte Verdünnung des Gases sich als einflusslos erweist.
+Letzteres trat ein in Luft und Kohlensäure bei etwa 0,04 mm,
+in Wasserstoffgas bei etwa 0,06 mm Quecksilberdruck. Bei
+allen Drucken unterbalb dieser Grenzdrucke ergaben be-
+schleunigende Potentialunterschiede von elf oder mehr Volt
+zwischen U und E grosse positive Elektrometergänge an X,
+Potentialunterschiede von acht oder weniger Volt dagegen nur
+sehr kleinen Elektrometergang, wie dies Tab. XIX im einzelnen
+nachweist. Hieraus geht unmittelbar das Bestehen einer Ge-
+schwindigkeitsgrenze hervor!), deren Grösse weiter unten (42)
+discutirt wird.
+
+1) Hr. d. S. Townsend findet (Phil. Mag. (6) 1. p. 198. 1901),
+dass auch materielle, negative Träger die Eigenschaft der Kathoden-
+strahlen besitzen, neue Träger in Gasen zu erzeugen, und für diese
+materiellen Träger scheint eine bestimmte Grenzgeschwindigkeit nicht
+angebbar zu sein.
+
+--- Page 43 ---
+190 P. Lenard.
+
+Tabelle XIX.
+
+Bi Atm. Luft Wasserstoffgas
+ES Drucke in mm Quecksilber
+3888
+£33 Alles Gas
+32 0,04 0,004 0,08 0,004 | 0,00018 | fort-
+ES gepumpt
+Volt %, Elektrometersealenteile an R in 10 Secunden
+0 0,11 0,18 0,12 0,15 0,18 0,05
+4,00 0,17 0,25 _ _ _ _
+8,00 0,31 0,33 0,18 0,20 0,18 0,18
+9,00 0,65 0,65 0,97 0,47 0,86 0,74
+9,50 0,77 17 _ _ _ _
+9,70 1,09 3,0 _ _ _ _
+10,00 2,05 4,0 0,77 2,4 3,1 1,86
+10,50 _ 6,7
+10,70 _ 10,2
+11,00 _ 18,7 5,8 12,3 23,8 10,9
+12,00 | 164 26,8 16,8 26,4 33,4 42,9
+20,0 108 _ _ _ _ _
+100 _ _ _ _ _ 6380)
+
+Auch in Kohlensäure war das Verhalten das gleiche,
+Das Anfangspotential von R überstieg bei allen Versuchen
+der Tabelle das von U, oder war ibm mindestens gleich, da-
+mit nicht Kathodenstrahlen bis 7 gelangen und so das Elektro-
+meter direct beeinflussen konnten; es waren mit der unten
+angemerkten Ausnahme 20 Volt für 2 gewählt, Höhere
+Potentiale, bis über 100 Volt, ergaben keine wesentlich höheren
+Eiektrometergänge, woraus folgt, dass schon die geringen
+Potentialdifferenzen genügten, um alle jenseits E erzeugten
+positiven Träger an R zu sammeln; dies Resultat wird weiter
+unten benutzt (45). War dagegen das Potential von % niedriger
+als das von U oder auch gleich dem von U, und lag zugleich
+
+1) Dieser Elektrometergang wurde nicht direct beobachtet, sondern
+bei Vergrösserung der Capacität des Elektrometersystems von 1,14.10-10Fd.
+auf 501,1.10-10 Fd,; der beobachtete Gang war 14,5 Sct./10sec. Das
+Potential von R war bei diesem Versuch 120 Volt negativ gegen E.
+
+--- Page 44 ---
+Lichtelektrische Wirkung. 191
+
+das letztere Potential selber unter etwa 11 Volt, so trat nega-
+tiver Elektrometergang an AR ein. Dies beweist, dass auch
+bei niedrigem Potential von U Kathodenstrahlen in den Raum
+von R drangen und dass daher der bei diesen Potentialen ge-
+fundene Mangel an positiven Trägern nicht etwa durch Ab-
+wesenheit der Strahlen zu erklären sei. Starker negativer
+Elektrometergang wurde z. B. beobachtet bei Y= 10 Volt und
+R= 10 Volt, beide negativ gegen #£, in Luft von 0,04 mm
+Druck, ebenso bei U=0 bis 20 Volt negativ und A= 0 Volt
+in Luft von 0,04 und 0,004 mm und in Wasserstoff von
+0,002 mın Druck.
+
+41. Freie Weglängen der Quanten. — Oberhalb der
+oben (40) angegebenen Grenzdrucke waren wesentlich höhere
+beschleunigende Potentiale als 11 Volt nötig, um positive
+Träger im Raume AR zu erzeugen. Es deutet dies an, dass
+alsdann die Quanten auf ihrem Wege von U bis E keine
+stetige Beschleunigung mehr erfuhren, oder dass ihre freie
+Weglänge im Gas bei jenen Drucken eben gleich geworden
+war dem Abstand UE= 14,5 mm. Die mittleren freien Weg-
+längen der betreffenden Gasmolecüle sind bei denselben
+Drucken 1,9 mm in Luft, 1,2 mm in Kohlensäure und 2,3 mm
+in Wasserstoffgas?); die Strahlenquanten legen daher bei den
+hier vorkommenden Geschwindigkeiten von der Grössenordnung
+1-10 Volt?) etwa 10mal grössere freie Wege zurück als die
+Molecüle des Gases, in welchem sie sich bewegen, oder etwa
+2mal so grosse Wege als verschwindend kleine, schnell-
+bewegte Körper, welche Gasmolecile nicht durchdringen
+können.?) Sehr viel grösser waren die freien Weglängen der
+früher von mir untersuchten, etwa 100mal schnelleren ®)
+Strahlen. Es waren z. B. in Sauerstoff- bez. Wasserstoffgas
+von 40 mm Druck solche Strahlen von geradlinigem, noch
+nicht sehr diffusem Verlauf bis zu 5 bez. 10 cm Länge zu be-
+
+1) Nach O. E. Meyer, Gastheorie, Tab. p. 192, proportional den
+Drucken gerechnet.
+
+2) 4,5—14.10’cm/see (vgl. 23).
+
+3) Die freie Weglänge solcher Körper wäre 42 = 5,Tmal so gross
+als die der Gasmolecüle (vgl. J. C. Maxwell, Phil. Mag. (4) 19, p. 29.
+1860).
+
+4) 0,67.10'° em/sec (Wied. Ann. 64. p. 287. 1898).
+
+--- Page 45 ---
+192 P. Lenard.
+
+obachten!), und es ist nachgewiesen), dass neben der Richtung
+auch die Grösse der Geschwindigkeit längs diesen Wegen die-
+selbe bleibt. Die mittleren freien Wegläugen der Molecüle
+des gasförmigen Mediums, in welchem dies stattfindet, sind
+nur 0,00019 bez. 0,00034 cm, und hiervon stellen jene Quanten-
+bahnen das 30000 fache dar oder das 5000 fache der freien
+Wege kleiner Körper, welehe Gasmolecüle nicht durchdringen
+können. Dies bestätigt den früher in kleinem Intervalle ge-
+fundenen Satz°), dass Kathodenstrahlen um so weniger diffus in
+Gasen verlaufen und um so weniger absorbirbar sind, je kleiner
+ihre magnetische Ablenkbarkeit ist; denn dieser Satz kann
+auch so gefasst werden ®): dass die freie Weglänge der Strahlen-
+quanten um so grösser wird, je grösser ihre Geschwindig-
+keit ist.
+
+Dass freie Wege von den angegebenen Längen überhaupt
+möglich sind, wesentlich längere freie Wege aber dennoch un-
+möglich — gemäss den Thatsachen der Diffusion und Ab-
+sorption der Kathodenstrahlen und der hier gefundenen Druck-
+grenze —, scheint in Hinsicht der Molecüle bez. Atome der
+Materie anzuzeigen, dass jedes derselben innerhalb des ihm
+zugehörigen, für seinesgleichen undurchdringlichen Raumes
+einen Aufbau aus feineren Bestandteilen mit vielen Zwischen-
+räumen und also auch mit vielen Bewegungsmöglichkeiten
+aufweise. Die Behandlung der Fragen, welche hier schon seit
+meinen ersten Veröffentlichungen über die Kathodenstrahlen
+und seit Begründung der neueren Vorstellungen über deren
+Natur vorliegen, dürfte indessen erst lohnend werden, wenn
+noch weitere Beobachtungen an Strahlen verschiedener Ge-
+schwindigkeiten beigebracht sind.
+
+42. Der Wert der Grenzgeschwindigkeit für die Bildung
+positiver Gasträger kann nach Tab. XIX folgendermaassen be-
+urteilt werden. Trägt man die beschleunigenden Potential-
+differenzen x als Abscissen, die zugehörigen Elektrometer-
+g’nge z als Ordinaten auf, so erhält man Curven, welche von
+
+1) P. Lenard, Wied. Ann. 51. p. 225. Figg. 6 u. 12,11. 1894.
+2) l. c. 52. p. 28. 1894.
+
+3) 1. ec. 51. p. 265. 1894; 52. p. 31. 1894; 56. p. 261. 1895.
+
+4) 1. ec, 64. p. 279. 1898.
+
+--- Page 46 ---
+Lichtelektrische Wirkung. 193
+
+x=0 bei 8,5 Volt nahe horizontal und dicht an der Abscissen-
+axe laufen, alsdann, innerhalb des Intervalles x = 8,5 bis 11 Volt,
+scharf nach oben umbiegen und schliesslich von hier aus
+wieder nahe geradlinig steil aufwärts weiter führen; der letztere
+Teil der Curven hat eine vom Punkte x = 10,5 Volt, z=0
+abzielende Richtung, und in allen diesem stimmen die ver-
+schiedenen Beobachtungsreihen der Tabelle sehr nahe mit
+einander überein. Dieser Verlauf ist darstellbar durch die
+Annahme, dass die von jedem einzelnen Quant erzeugte Träger-
+zahl innerhalb der Beobachtungsgrenzen proportional sei dem
+Geschwindigkeitsüberschuss des Quants über die Grenzgeschwin-
+digkeit!), und Null, wenn solcher Ueberschuss nicht vorhanden
+ist. Bezeichnet N(v).dv die Zahl der Quanten, welche das
+Netz E mit der Geschwindigkeit v +4dv passiren, 7 die
+Grenzgeschwindigkeit, C eine Oonstante, so wären danach die
+beobachteten Elektrometergänge z= C / N{v).(v — F)dv, das
+Integral genommen über alle Geschwindigkeiten v, welche grösser
+sind als 7 und zugleich grösser als .» Da XNV)=T(k«—o)
+ist?) (28), ergiebt sich nach Reduction:
+
+V-z
+z= e[ri- ax für = 7
+(8) ©
+
+und
+z=2z=MN+le—P) fürr>PV.
+
+Y(—X) ist dabei aus Tab. IX mit Gleichung (1) bez. aus
+Fig. 2 zu entnehmen (23); es ist sehr nahe Null für alle Werte
+von X zwischen oo und 2,5 Volt, von wo aus es dann wächst.
+Setzt man daher in Gleichung (8) 7= 11 Volt, so nimmt z
+durchaus den oben beschriebenen, beobachteten Verlauf an,
+indem es nahe Null bleibt, bis 7— x = 2,5 Volt oder x= 8,5 Volt
+geworden ist, dann ansteigt und von z=/=11 Volt an
+
+1) Alle Geschwindigkeiten sind auch hier als lebendige Kräfte ge-
+messen (23).
+
+2) Da wir die tangentialen Geschwindigkeitscomponenten von gleicher
+Grössenordnung fanden wie die normalen (19, 20), und da ausserdem nur
+normal soweit beschleunigte Greschwindigkeiten in Betracht zu ziehen
+sind, dass sie V = 11 Volt übersteigen, ist es hier ohne Fehler erlaubt, N
+durch Y’ zu ersetzen.
+
+Annalen der Physik. IV. Folge. &. 13
+
+--- Page 47 ---
+194 P. Lenard,
+
+wieder geradlinig wird. Die gesuchte Grenzgeschwindigkeit ist
+also 11 Volt, oder in gewöhnlichem Maasse 1,5.10°cm/sec. = Y,,o
+Lichtgeschwindigkeit; die zugehörige lebendige Kraft, auf deren
+Ueberschreitung es ankommt, wäre 10°.e.7 = 2,4.10-"? Erg,
+wenn e = 6,6.10-10 0.6.8. statisch als Quantenladung ge-
+nommen wird.
+
+43. Bemerkt muss werden, dass dieselbe Grenzgeschwindig-
+keit gefunden wird, ob der Apparat Luft, Wasserstoffgas oder
+Kohlensäure enthielt oder ob die Quecksilberluftpumpe dauernd
+in Thätigkeit erhalten und alles Gas entfernt wurde (vgl.
+Tab. XIX, letzte Columne). Dass im letzteren Falle überhaupt
+noch positive Träger gebildet wurden, wird man dem vor-
+handenen Dampfresiduum (12) zuschreiben; ja es kann sogar
+angenommen werden, dass in allen Fällen nur dieses Residuum
+die positiven Träger geliefert hatte, denn die Tab. XIX weist
+für Gasfüllungen keine wesentlich grösseren Elektrometergänge
+auf als für den evacuirten Apparat. Es würde dann zu den
+Gasen eine höhere Grenzgeschwindigkeit als die angegebene
+gehören. Da indessen eine gegebene Quantenzahl auch nur
+eine bestimmte Trägerzahl liefern kann, ist bis auf weiteres
+auch die gegenteilige Annahme zulässig, dass für alle drei
+untersuchten Gase und für das Dampfresiduum, vielleicht für
+alle Stoffe überhaupt, die gleiche Grenzgeschwindigkeit gelte.
+In jedem Falle bleibt das Resultat bestehen, dass Geschwindig-
+keiten unter der angegebenen Grenze weder die untersuchten
+Gase, noch die vorhandenen Dämpfe leitend machen.
+
+44. In Hinsicht des ersten Teiles der vorliegenden Unter-
+suchung (12—38) bringt das vorstehende den Beweis dafür, dass
+Leitungsfähigkeit von Gasresten oder Dämpfen bei allen kleinen
+beschleunigenden Potentialen überhaupt nicht mitgewirkt hat.
+Aber auch für die hohen beschleunigenden Potentiale, wo
+Leitfähigkeit auftritt, ist die Wirkung derselben nur gering
+im Vergleich zum directen Elektrieitätstransport durch Strahlung,
+wie das Folgende zeigt.
+
+45. Erzeugte Trägerzahlen. — Sei der Potentialunter-
+schied UZ= 12 Volt, so folgt aus der zugehörigen Zahl der
+letzten Columne der Tab. XIX und der Elektrometercapacität
+die Elektrieitätamenge der in 1 sec gebildeten positiven Träger
+gleich 0,039 . 10-10 Coulomb, während die Quantenmenge, welche
+
+--- Page 48 ---
+Lichtelektrische Wirkung. 195
+
+diese Träger erzeugte, 25.10-1% Coulomb ist.!) Das Ver-
+hältnis der gebildeten Trägerzahl zur erregenden Quantenzahl
+ist hier 0,0016; dasselbe wird gleich 0,23 bei U#= 100 Volt
+{nach Tab. XIX). Die hier angegebenen Trägerzahlen wurden
+im Raume ER (Fig. 4) erzeugt, während die erregenden
+Quanten, mit den. zur Potentialdifferenz UE gehörigen Ge-
+schwindigkeiten durch das Netz Z eintretend, mit allen Ge-
+schwindigkeiten einer nahe gleichförmig verzögerten Bewegung
+die Strecke ZR = 20 mm durchlaufen, in der Nähe von 2
+umkehren ?) und mit denselben Geschwindigkeiten dieselbe Strecke
+rückwärts durchlaufen, also bei gleichförmig beschleunigter Be-
+wegung längs 2.20=40 mm, angefangen mit der Geschwindigkeit
+nahe Null und beendet mit der zur Potentialdifferenz UE ge-
+hörigen Geschwindigkeit. Dieselbe Trägerzahl wird also bei
+gleicher Potentialdifferenz auch im Raum UE zu erwarten
+sein, wenn der Abstand UE#=40 mm ist, und bei 1/n Ab-
+stand der nt Teil. Hiernach, und für andere Potentiale UE
+durch lineare Interpolation (nach 42), wurde die folgende
+Correetionstabelle entworfen, welche die Divisoren angiebt,
+mit denen jedesmal der an U beobachtete Elektricitätsverlust
+zu versehen war, um ihn vom Einfluss der Leitung zu befreien.
+
+Tabelle XX.
+Potential- Abstand UE
+differenz UE 5mm | 10 mm | 25 mm 40 mm
+Volt |
+12 1,00 1,00 1,00 1,00
+20 1,00 1,00 1,01 1,02
+100 1,03 1,06 1,15 1,23
+200 1,06 1,12 1,30 1,46
+
+46. Die Unipolarität der lichtelektrischen Wirkung, welche
+nicht nur in gewöhnlicher Luft, sondern auch bei allen Gas-
+
+1) Beobachtet als von U in 1 sec entweichend bei gleichem Abstand
+der gleichen Lichtquelle, UE=5 mm und 50 Volt beschleunigender
+Potentialdifferenz.
+
+2) Die Potentialdifferenz ER war in den betrachteten Fällen nahe
+gleich der UE (40).
+
+13*
+
+--- Page 49 ---
+196 P. Lenard.
+
+verdünnungen zweifellos festgestellt erscheint, findet, wie schon
+eingangs hervorgehoben (11), ihre Erklärung in der Grösse
+der festgestellten Grenzgeschwindigkeit (42), welche die An-
+fangsgeschwindigkeiten der durch das Licht ausgetriebenen
+Quanten weit übertrifft (25, 26, 36). Auch bei den licht-
+elektrisch höchst wirksamen Alkalimetallen können danach,
+der beobachteten Unipolarität entsprechend !), die Anfangs-
+geschwindigkeiten 11 Volt nicht erreichen. Im Gegensatz dazu
+stehen die sogenannten radioactiven Körper, welche ohne Be-
+liehtung zwar ausserordentlich geringe Mengen, diese aber mit
+ausserordentlich hohen Anfangsgeschwindigkeiten ausstrahlen.
+Körper der gleichen Art mit Strablungsgeschwindigkeiten unter
+11 Volt könnten bestehen, ohne aber durch die vorteilhafte
+elektromotorische Methode entdeckbar zu sein.
+
+47. Was die Jlichtelektrische Wirkung in Gasen von
+Atmosphärendruck anlangt, so scheint mir für deren auf-
+fallende Geringfügigkeit eine widerspruchsfreie Erklärung im
+einzelnen noch nicht gegeben worden zu sein. Aus Tabelle II
+geht beispielsweise hervor, dass von einer belichteten Aluminium-
+oberfläche in Luft bei 83,5 Volt/cm äusserer beschleunigender
+Kraft nicht !/, Proc. der ausgestrahlten Blektrieitätsmenge
+wirklich entweicht und selbst bei 2780 Volt/cm nur 4,7 Proc.
+dieser Menge. Das Folgende wird durch die Ergebnisse der
+vorliegenden Arbeit nahe gelegt und hält quantitativer Prüfung
+auch an der übrigen vorhandenen Erfahrung stand, wie mir
+Rechnungen zeigen, deren Mitteilung ich indessen unter-
+lasse, da über Versuche nicht zu berichten ist. — Da die
+ausgestrahlten Quanten im dichten Gase schon in unmittel-
+barer Nachbarschaft der Oberfläche absorbirt werden müssen
+(41), wird daselbst eine Anlagerung negativer Träger und also
+schnelle Bildung einer Doppelschicht mit der negativen Seite nach
+aussen hin stattfinden müssen. Als Kraft, welche die Ladungen
+der Träger und damit auch die Träger selbst bis zu einer
+gewissen Grenze an der Leiteroberfläche festhält, ist die
+elektrische Kraft zwischen diesen Ladungen und deren elek-
+trischen Bildern vorhanden (38). In der Ausbildung einer
+solchen Doppelschicht können die lichtelektrischen Ermüdungs-
+
+1) J. Elster u. H. Geitel, Wied. Ann. 43. p. 225. 1891.
+
+--- Page 50 ---
+Lichtelektrische Wirkung. 197
+
+erscheinungen der Leiter!) bedingt sein, denn dieselbe wird
+nachfolgende Ausstrahlung rückgängig machen.?2) Die Grenze
+für das Anwachsen der Doppelschicht wird durch die maximale
+Kraft gegeben sein, mit welcher die absorbirten Quanten an
+ihren Trägern haften. Das Uebersteigen dieser Kraft durch
+die Kräfte der Doppelschicht selbst hat Rückentladung nach
+dem Leiter hin zur Folge, während der zu beobachtende ge-
+ringfügige Elektricitätsverlust nach der Gasseite hin allein
+nur durch Diffusion der Träger, an der äusseren Grenze der
+Doppelschicht.in derjenigen Entfernung vom Leiter, in welcher
+die Kraft der elektrischen Bilder schon genügend klein wird,
+stattfinden dürfte. Die Diffusion aus der Doppelschicht wird
+unterstützt bez. vermindert durch äussere beschleunigende bez.
+verzögernde Kraft, wobei es jedesmal nur auf den an der
+Oberfläche selbst herrschenden Kraftwert ankommen kann,
+was der Erfahrung ebenfalls entspricht.) Nimmt man an,
+dass die Träger Luftmolecüle und mit je einem Elementar-
+quantum geladen sind, so genügt ein verzögernder Kraftwert
+von 0,003 Stat. Einh./cm, um alle Träger zu verhindern,
+weiter als etwa O0,l mm von der Oberfläche sich zu entfernen,
+und also um die Wirkung bei nicht besonders bewegter Luft*)
+ganz zum Stillstand zu bringen.°) Bei vermindertem Gasdruck
+ist die Diffusionsgeschwindigkeit und damit auch die Wirkung
+vermehrt (vgl. Tab. II. Erst in ziemlich stark verdünnter
+Luft wird, nach der gefundenen Grösse der freien Weglängen (41),
+die Erscheinung aus der unmittelbaren Nachbarschaft der
+
+1) Vgl. Hallwachs, Wied. Ann. 37. p. 666. 1889.
+
+2) Nicht ausgeschlossen ist die Mitwirkung von Doppelschichten,
+welche von vornherein bestehen, welches letztere z. B. beim Quecksilber
+der Fall ist, vgl. Wied. Ann, 46. p. 628. 1892.
+
+3) A. G. Stoletow, Journ. d. russ. phys. chem. Ges. 21. 1889;
+Uebersetzung mit Zusätzen des Verfassers in Phys. Revue 1. p. 721. 1892.
+
+4) Ueber den befördernden Einfluss des Anblasens der Oberfläche
+vgl. E. Bichat u. R. Blondlot, C. Rend. 107. p. 29. 1888; J. Elster
+u. H. Geitel, Wied. Ann. 88. p. 511. 1889; W. Hailwachs, Wied. Ann.
+40. p. 343. 1890.
+
+5) Der angenommene Kraftwert ist derjenige, welcher von Hrn.
+Righi als maassgebend gefunden wurde für den Stillstand der Wirkung
+auf Aluminium in Luft (Atti del. R. Ist. Veneto 7. p. 6. 1889).
+
+--- Page 51 ---
+198 P. Lenard. Lichtelektrische Wirkung.
+
+Oberfläche heraustreten, worauf dann beim Vorhandensein be-
+schleunigender Kraft die erzeugte Leitfähigkeit der Luft in
+der schon früher (9) angezeigten Weise mitwirken und da-
+durch noch grössere Elektricitätsverluste als im Vacuum ver-
+anlassen wird.!)
+
+Kiel, Mitte März 1902.
+1) Ueber diesen letzteren Vorgang selbst ist inzwischen eine Arbeit
+
+von Hm. J. 8. Townsend erschienen, auf welche hier hingewiesen sei
+(Phi). Mag. (6) 1. p. 198. 1901).
+
+(Eingegangen 17. März 1902.)
+
+--- Page 52 ---
+Taf.
+Annalen der Physik, D-Folge. Bd.6.
+
+x Kohle (Russ)
++ Platin.
+au 0 Aluminium
+
+X? 57 e 2 7 [2 3 #7 E77 Ey} E217773
+X.ı4 3 2 7 0 Volt (äussere Gescurindigkeiten). ,,
+P- re rs Rz 7 nz T-1 --- (innere Gescurindigkeiten ,.
+
++10
+
+vw
+
+P. Lenard

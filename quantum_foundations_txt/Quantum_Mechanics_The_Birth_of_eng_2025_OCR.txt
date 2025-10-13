@@ -1,0 +1,2471 @@
+
+--- Page 1 ---
+far 2025
+
+arXiv:2503.13630v1 _ [physics hist-ph] | 7 M
+
+The Birth of Quantum Mechanics: A
+Historical Study Through the Canonical
+Papers
+
+Eren Volkan Kiiciik
+Department of Physics and Astronomy, Universitat Heidelberg
+Heidelberg, Germany
+
+eren.kucuk@stud.uni-heidelberg.de
+
+Abstract
+
+This paper explores the historical development of the theory of
+quantum mechanics between 1900 and 1927 by chronological exami-
+nation of the foundational papers and ideas. Beginning with Planck’s
+introduction of energy quantisation in blackbody radiation, we follow
+the emergence of Einstein’s light quanta hypothesis, Bohr’s atomic
+model, and the statistical implications of indistinguishable particles.
+Special emphasis is placed on the transition from the Old Quantum
+Theory to modern quantum mechanics, particularly through Heisen-
+berg’s matrix mechanics and Schrédinger’s wave mechanics. This
+study aims to provide a structured historical account, offering insights
+into the conceptual transformations that led to quantum mechanics
+while making the development accessible to physicists, historians of
+science, and advanced students interested in the origins of modern
+quantum theory.
+
+Keywords: history of physics, quantum theory, matrix mechanics,
+wave mechanics.
+
+1 Introduction
+
+The development of quantum physics stands as one of the most profound
+
+revolutions in the history of science. Before the advent of quantum theory,
+
+--- Page 2 ---
+classical physics, governed by Newtonian mechanics and Maxwell’s electro-
+dynamics, was considered to provide a complete description of nature. How-
+ever, towards the late 19th and early 20th centuries, several inconsistencies
+emerged that could not be resolved within the classical framework. One of
+the most significant issues was black body radiation, where classical predic-
+
+tions failed to match experimental observations lod iso, lad, bd. Another
+
+problem was the photoelectric effect, a detailed experimental study of which
+
+had been done by Philip Lenard Lad}, which challenged the classical wave the-
+ory of light. After Rutherford suggested his atom model [47], the stability
+of atoms also posed a major dilemma since, according to classical electro-
+dynamics, accelerating electrons in orbit around the nucleus should continu-
+ously emit radiation and spiral into the nucleus, contradicting the observed
+
+stability of matter. Another problem was that the spectral lines in atomic
+
+emission and absorption spectra exhibited some patterns that classical me-
+
+chanics could not explain (Jammer, 1989, ch.2.1). These anomalies indicated
+
+a fundamental flaw in classical theories, necessitating a new framework for
+understanding microscopic phenomena. These were, in fact, the cries of a
+newly arriving revolution in our understanding of the universe. This paper
+explores the historical development of these theoretical concepts, tracing the
+key ideas and discoveries that led to the formulation of quantum mechanics
+
+until the development of wave mechanics and uncertainty principle.
+
+For a physicist, a thorough understanding of the thought processes of the
+minds who put these concepts forward is instrumental, if not a must, in
+
+seeing its problems and scope and ultimately improving further on these
+
+considerations. Therefore, the aim of this work is to present a concise history
+of the development of the theory of quantum physics through the study of
+the ”canonical” papers to varying degrees. This study roughly follows the
+structure of Max Jammer’s seminal work, The Conceptual Development of
+
+Quantum Mechanics , which provides a comprehensive historical analysis
+
+on the subject matter. Being an immensely detailed and profound work,
+
+which also gets into the details of many experimental studied! and some
+
+ISince the goal of this study is to understand the development of theoretical ideas
+
+--- Page 3 ---
+additional philosophical discussions related to the field in comparison to the
+
+present work, it is highly recommended for further study.
+
+Of course, for a work of this scope, the omission of numerous significant
+works was unavoidable. Throughout the work, we put special emphasis on
+the papers of Heisenberg, Born, Jordan, Dirac, de Broglie, and Schroddinger.
+We tried to be as concise as possible and sometimes let the calculations speak
+for themselves whenever the results were clear. The calculations are presented
+as concisely as possible by a selection and summarisation of the ideas and
+computations from the relevant pages. Since this criterion of ”relevance”
+is attributed to the papers and then to the parts of the papers somewhat
+
+subjectively by the author, they are, of course, open to criticism.
+
+2 The Black Body Radiation
+
+The birth of quantum theory is generally considered as Planck’s paper on
+black body radiation . There were two equations for such an object’s
+
+radiation’s energy density: The Rayleigh-Jeans law |46],
+: 87 29
+uw f.T) = SS PKT, ()
+where 87f?/c? represents the density of modedh and Wien’s law [s,
+uf, T) =afre M7, (2)
+
+where a and are constants. These equations worked well for short and long
+wavelengths, respectively, but blew up in other regimes and didn’t match up,
+where the former also foresaw the so-called UV catastrophe . The main
+problem was that according to classical electromagnetism and statistical me-
+chanics, a black body, which is an idealised perfect absorber of any frequency
+
+of electromagnetic radiation in thermal equilibrium (which can theoretically
+
+rather than experiments (although the significance of which for the formation of these
+ideas are not ignored) the relevant experiments were not studied in detail.
+
+?As usual f is the frequency, and c is the speed of light in vacuum, k is the Boltzmann
+constant, and T is the temperature in Kelvin scale.
+
+
+--- Page 4 ---
+be represented by radiation in a cavity with perfectly reflecting walls with a
+hole bd), the total energy of radiation was infinite according to the Rayleigh-
+Jeans law. Since each distinct frequency mode of the oscillators in a black
+body may radiate in totally arbitrary amplitudes, they should have had equal
+average energies according to classical electrodynamics. The reason for that
+was the equipartition theorem, which attained an equal amount of energy on
+average for every degree of freedom of the electromagnetic field. So, for in-
+finitely many frequency modes f, which all have an equal amount of average
+energy, gave rise to an infinite total energy. Planck solved the problem by
+introducing energy quantisation for the field and leaving out the equiparti-
+ion theorem. Thereby, oscillations of high frequency had higher energy so
+hat they were harder to excite or, equivalently, far less improbable for the
+field to shine in. It is important to observe that Planck introduced energy
+quantisation to be able to perform the calculation, which was concerned with
+
+statistical entropy and thus with the possible arrangments of the energies of
+
+he oscillators. That, in turn, worked as a cut-off for high frequencies, and
+
+UV catastrophe was eliminated.
+
+From statistical mechanics, the partition function for a single mode f for the
+
+continuous energy levels is
+ioe)
+Z = Soe PPM) ee | e °FdE = 1/8, 3)
+0
+n
+
+where f,, represents the discrete frequency mode for the standing waves of
+the cavity, representing the black body (note that ( is not a constant this
+
+time). The average energy for a mode is,
+
+10Z
+
+B---—
+Z OB
+
+=1/8=kT, 4)
+
+(as equipartition of energy foresees) and since there are an infinite number
+
+of modes (frequencies), the total energy is infinite.
+
+If one assumes that energy levels of a mode f, are dependent on the frequency
+
+--- Page 5 ---
+as En n = mhf, just as Planck did, where m € N, the partition function is
+
+1
+= —BEm(fn) = —Bmhfn
+Z=Sie =e ~ Y= e-Bhfn (5)
+m m
+
+In that case, for high f, the probability for higher energy states exponentially
+diminishes. Therefore, the average energy per mode is
+
+10Z hon
+
+E=-+— =~.
+ZOp eohin —]
+
+(6)
+
+Since the energy density of states is represented by 87 f?/c?, the total energy
+
+f° BrP np 8 PP hf ny
+Bue [ Ef. T)df = | apt = oT (7)
+
+is
+
+which is the Stefan-Boltzmann law.
+
+One can observe that Rayleigh-Jeans and Wien’s laws are short and long-
+wavelength regimes approximations of Planck’s law. For low frequencies
+hf /kT) << 1,
+
+eM 1 ew 1lthf/kT)-1—Su= St ppp, (8)
+Cc
+whereas for hf/kT) >> 1,
+
+u(f,T) = Sf"), fete, (9)
+
+2
+
+where a = 8rh/c?, and B = 1/k.
+
+3 Ejinstein’s Paper on Radiation Quanta
+
+The work of Planck marked the entry of quantum concepts into mainstream
+physics. The next step of great significance was Einstein’s theory of radiation
+quanta and the explanation of the photoelectric effect , published in the
+same year as his two other significant works on Brownian motion, and special
+
+relativity.
+
+8This work of Einstein, although not directly related to the development of quantum
+mechanics, since posed a proof of the existence of atoms, it seemed relevant to study it in
+an appendix. Therefore, for more information on the paper, see the first appendix.
+
+
+--- Page 6 ---
+Einstein started his contemplations by stating that the entropy of the radi-
+ation in the cavity can be represented as a function of the radiation density,
+
+uy, and v:
+S= vf plu, v)dy, (10)
+0
+
+where V is the volume of the cavity. Considering that energy is conserved
+
+and entropy is at its maximum,
+
+5 f eav =o,
+5 f udv =.
+
+Op _ Op
+J Seoud = | Suav / (3 ) dudv = 0. (12)
+
+Since this equality has to hold for any variation of u,
+
+(11)
+
+Therefore,
+
+Op
+— =) 13
+aa (13)
+which means, de is independent of v. The differential entropy is
+= dud 14
+S i au” (14)
+
+for V = 1. Since the derivative is independent of v, as we have shown, we
+
+have
+
+_ Op __ ml
+dS = aye =T dE, (15)
+
+where the last inequality is valid for reversible systems.
+
+Wien’s radiation law, which is valid for large values of v, states
+
+v 1 p
+— qpe-b* 1 _ __
+uy = avre "T => TT" =O. = a ae (16)
+By direct integration, we get
+a (i Po 1) 17
+¥ Bv DoW , (17)
+
+--- Page 7 ---
+For a radiation in volume V and frequency range v + dv,
+
+S=Vodv = _Vedv (nce 1) . (18)
+
+Bu Varedv
+
+Since the energy density scales as p «x 1/V, energy Vpdv stays constant if
+
+we change the volume reversibly to Vo. The entropy difference in this case is
+E E E E E,W
+—— | ln —— —-1]4+— {| nh —— + 1] = —In—. (19
+Bv ( ” Vavidy ) * Bv ( " Yardy + ) Bv an (
+
+This is just the entropy change for an ideal gas, which is the first sign that ra-
+
+S—Sp =
+
+diation behaves like particles in this case. Afterwards, Einstein this time used
+the statistical model of entropy (before which he used the thermodynamica
+
+one),
+
+S=khw. (20
+
+He thought a volume of 7 particles that don’t interact with each other (so
+that ”the radiation may be considered as the most disordered process imag-
+
+inable”). For the same process, the entropy difference gives
+
+S—S)=kiIn (+) =nkln (+). (21)
+
+Comparing this to (£9), it can be seen that we must have
+
+RE Rpv
+nk ny io E/n ae
+
+(22)
+
+which is the energy per radiation quanta of frequency v within the range
+of validity of Wien’s radiation formula. Afterwards, he showed that the
+
+photoelectric effect is explained by these results.
+
+Lastly, we have to mention a nuance: Notice that what Planck suggested is
+
+the quantisation of energy, whereas Einstein’s is the quantisation of electro-
+
+magnetic waves directly. Einstein thought that classical electrodynamics was
+an approximation of many light quanta and sufficiently long time intervals.
+He saw the irreconcilability of Planck’s law, which he took for granted, and
+classical electrodynamics, whereas Planck did not accept the idea of quanta
+
+of radiation. Planck viewed quantisation as a mathematical convenience,
+
+7
+
+--- Page 8 ---
+whereas Einstein argued that light itself is quantised, laying the foundation
+for quantum mechanics. Therefore, the concept of quanta became a topic of
+
+discussion firstly as a mathematical convenience and/or as the atom of light.
+
+4 Emergence of the Old Quantum Theory
+
+Both Einstein’s and Planck’s papers stimulated a discussion in the physics
+community. The concept of quanta had taken place in many papers in the
+
+succeeding years, some of which are chosen to be discussed in this section.
+
+In 1911, Ehrenfest and Kamerlingh considered the statistical mechanics of
+quantised radiation, showing that the statistical behaviour of distinguishable
+quanta leads to the Rayleigh-Jeans formula, while indistinguishable quanta
+
+result in the form of Planck’s radiation law. They showed that for N unit
+
+volumes and P quanta, if the quanta are distinguishable as in Einstein’s
+conception, we have
+
+W1/Wo = NP /Ny’, (23)
+which leads to the Rayleigh-Jeans formula; whereas if the quanta are indis-
+
+tinguishable, as in Planck’s theory‘, we have
+
+W,/W2 = (™ pe ”) / (™ pe ”) ; (24)
+
+which leads to Planck’s law of radiation I37), Today, we understand that
+the discrepancy arises because photons, like all bosons, are indistinguish-
+able particles. Thus, Planck’s formula correctly accounts for their quantum
+statistics. However, at the time, the concept of indistinguishable quantum
+particles had not yet been fully developed. Although their work did not yet
+formulate Bose-Einstein statistics, it foreshadowed the necessity of treating
+quantum particles as indistinguishable; an idea later formalised by Bose and
+Einstein in the 1920s
+
+4Of course, although Planck did introduce the concept of quantised energy levels, he
+did not initially interpret radiation itself as being composed of quanta. Later, the papers
+of Bose and Einstein showed that treating radiation as a gas of indistinguishable quanta
+(photons) naturally leads to the same distribution that Planck had derived through dif-
+ferent means 25 3.
+
+
+--- Page 9 ---
+The same year, in the first Solvay Conference, Planck contributed with a
+paper in which he proposed the idea that h was the quantum of action.
+The consideration is as follows: Planck started with the classical theory of
+Gibbs, that the probability of finding the system in the state corresponding
+to the element dpdq in phase space was
+
+e FF dpdq
+
+—_—_———-.. 2.
+J e~®#dpdq (25)
+
+For the harmonic oscillator, the calculation yields the famous result kT.
+Planck, then, stated that if we postulate that E can only take on discrete
+values EF = ne, the calculation yields
+
+€
+= TROT (26)
+Therefore, Planck made the statement that not only the average energy of the
+oscillators is determined with respect to the preceding result, but directly the
+energy itself of the oscillators at any moment can take on the energy values
+according to it. According to these considerations, Planck proposed that
+h is the finite extension of the elementary area in phase space. Therefore,
+
+the subsequent ellipses in the phase space of the harmonic oscillator (the
+
+trajectories) have a difference of area
+
+E+e
+| dpdq = h, (27)
+B
+
+or equivalently, all ellipses enclose an area of
+
+[coda = nh. (28)
+
+Therefore, he rendered the idea of the ”quanta of the phase space” more
+fundamental than the idea of energy quanta, which he then considered to be
+only a consequence of the postulate. Thus, the problems of quantum me-
+chanics were to be solved by first solving the problem classically and then
+applying the quantum of action condition. This postulate was to become
+one of the cornerstones of the Old Quantum Theory and, as we will see, be
+included implicitly in the foundations of matrix mechanics. It is also inter-
+
+esting to note that Planck started his account by stating that the framework
+
+--- Page 10 ---
+of classical mechanics is too narrow to take into account the phenomena that
+
+are outside of our coarse senses” Here, we observe that the concept of
+
+quanta has taken a more fundamental place than it had before.
+
+In the subsequent year, Poincare proved that the only way to achieve a
+
+radiation law of finite total energy was through the concept of quanta |4
+
+The general idea is summarised as follows (Prentis, 1995, p.340):
+
+The global structure of the memoir is as follows. Poincaré be-
+gins with a physical model consisting of a system of Hertzian res-
+onators interacting with a system of atoms. The atoms, by virtue
+of their collisions with the resonators, mediate the exchange of
+energy between the resonators. For both physical reasons and
+mathematical rigour, Poincare felt that it was necessary to clearly
+
+understand how a unique thermodynamic equilibrium state could
+
+emerge from an explicit consideration of some mechanism of inter-
+action between the resonators. He felt that the other theoretical
+studies of blackbody radiation were flawed because they neglected
+such an interaction, and their arguments included too many as-
+sumptions related to the existence of equilibrium. He focuses on
+the partition of energy between the resonators and the atoms in
+thermal equilibrium. Poincaré’s clever choice to study the parti-
+tion of energy allows him to avoid the usual arguments based on
+entropy, temperature, and other equilibrium concepts. From his
+formulation of statistical mechanics, Poincaré is able to relate this
+macroscopic partition of energy to the microscopic dynamical be-
+haviour of a resonator. Having established this basic micro-macro
+connection, he then determines what kind of constraint must be
+imposed on the motion (energetics) of the resonators in order
+
+to account for the observed partition of energy (radiation law).
+
+5From jaa}, p.93: ” Nous devons reconnaitre aujourd’hui que cette espérance n’était pas
+justifiée et que le cadre de la Dynamique classique, méme en tenant compte de l’extension
+apportée par le principe de relativité de Lorentz-Einstein, est trop étroit pour contenir les
+phénomeénes physiques non directement accessibles & nos moyens grossiers de perception.”
+
+10
+
+--- Page 11 ---
+In three separate proofs, Poincaré discovers that this dynamical
+
+constraint is precisely the hypothesis of quanta.
+
+4.1 Bohr’s Quantization of States in Atoms
+
+The next year, Niels Bohr, at the time still a young researcher, publishe
+a paper which was concerned primarily with the structure and spectrum of
+the hydrogen atom. According to the atom model of Rutherford loz}, elec-
+trons were in the orbit around the positively charged nucleus. Yet the laws
+of classical electrodynamics dictate that in such a system, electrons should
+
+radiate all their energy while spiralling down into the nucleus, wherefore we
+
+shouldn’t have been able to see stable matter around us at all. To get rid of
+
+this problem, he applied Planck’s rule to the orbits and postulated that there
+
+are stationary states around the nucleus {A In these discrete orbitals, the
+motion of the electron was governed by classical physics, but the transitions
+between the states were not, but occur as jumps between the discrete orbits.
+The theory was successful in explaining the spectra of the hydrogen atom,
+and mono-electronic ions in general, but the theory struggled to account for
+
+more complex systems.
+
+One of the most consulted principles, the correspondence principle as it is
+called later, in the Old Quantum Theory, which signifies the state of the
+theory before the next leap of understanding with primarily Heisenberg, de
+Broglie, and Schrédinger, was stated in the same paper. According to the
+results, the ratio of the frequency of revolution of the electron in subsequent
+orbits converges to 1 as the orbital number increases. In his later paper in
+1918, Bohr stated the principle more explicitly (Bohr, 1918):
+
+We shall show, however, that the conditions which will be used
+to determine the values of the energy in the stationary states are
+of such a type that the frequencies calculated by (1), in the limit
+
+where the motions in successive stationary states comparatively
+
+®Before him, Planck’s postulate had been applied to the oscillation of the electrons in
+the atom model of J.J. Thomson. See , p.75.
+
+11
+
+--- Page 12 ---
+differ very little from each other, will tend to coincide with the
+frequencies to be expected on the ordinary theory of radiation
+
+from the motion of the system in the stationary states!4
+
+So, for large quantum numbers, the radiation is expected to obey the results
+of classical electrodynamics. Bohr’s correspondence principle was crucial
+because it ensured that quantum mechanics would reproduce classical results
+in the limit of large quantum numbers, providing a bridge between old and
+
+new physics.
+
+Later, Born suggested that the transition between classical to quantum me-
+chanical equations can be achieved by replacing differentials with difference
+equations according to the rule :
+O®(n,
+_0®(n,7)
+On
+
+This follows from the following logic: The transition frequency from n to
+th
+
+o Pntrn ~ On n—r (29)
+
+n' =n—T coincides with the rT harmonic of the classical motion in state n
+
+for large n, that is
+
+Unn—r = U(n,T) = TV(n, 1) = TY, (30)
+
+where, in Jacobi-Hamilton formulation, in terms of action-angle variables|s
+
+we also have
+
+OH
+—=p. 31
+ar (
+Now, since J = nh, this equation becomes
+OH 70H
+y(n,T) = 7 hon 7” (32
+
+Since we also have
+
+_ H(nh) — A([n — th)
+Unn—t h ; (33
+
+for an arbitrary function of stationary states ®(n,7), we have the relation
+
+“The translation is from ij, p.10.
+8See section B.2 in the appendix.
+
+12
+
+--- Page 13 ---
+4.2 Sommerfeld’s Elaborations of Bohr’s and Planck’s
+Results
+
+Later, in 1915, Sommerfeld derived the results of Bohr using the quantum
+of action for three degrees of freedom of the electron 53), for which the
+
+equations
+
+f nar =n,-h, f roa = noh, f vad = noh, (34)
+should hold. He studied the problem relativistically, and derived the rela-
+tivistic correction to the spectrum of the hydrogen atom,
+
+102? (n 3
+2
+Enu = —Z*Rhe E = (7 )|. (35)
+
+where n =n, + ng, Z is the atom number, and R is the Rydberg constant.
+This formula accounted for the energy splitting of the spectral lines and
+
+yielded the fine structure of the hydrogen atom, which is
+
+Qe?
+a=. (36)
+
+Despite their partial success, these considerations did not save the quantum
+theory from its inconsistencies. As Jammer puts it, the theory at that state
+was ”a lamentable hodgepodge of hypotheses, principles, theorems, and com-
+putational recipes rather than a logically consistent theory,” (Jammer, 1966,
+p.208). The general method for solving a problem was first solving it classi-
+cally, and then applying the ” principles”, as correspondance or quantum of
+action principle, applications of which most of the time asked for educated
+
+guesses. In short, the theory needed a logically consistent framework.
+
+The lack of a consistent, logically sound framework in the Old Quantum The-
+ory prompted Heisenberg to seek a new foundation for quantum mechanics,
+one based not on classical analogies (which were primarily concerned with
+unobservable properties of the systems such as position and velocity) but
+on directly observable quantities. Instead of these concepts, he insisted on
+placing at the core of the theory what he called the observable variables like
+
+energy and frequency, from which arise the so-called matrix mechanics
+
+13
+
+--- Page 14 ---
+5 Matrix Mechanics
+
+Throughout the paper, Heisenberg has in mind an electron in an atom which
+
+undergoes periodic motion. A time-dependent quantity x,,(t), related to the
+
+th
+
+electron in the n™ state, can be expressed as a Fourier series in classical
+
+physics as
+
+£,(t) = > x(n,T) = > x(n,7) exp [27iv(n, Tt], (37)
+
+where 7“ component has the frequency v(n, 7) = Tv(n, 1). So it follows that
+v(n,t) +(n,7!) = (nr +7"). (38)
+The quantum mechanical analogue to this is
+
+Unn—r! + Vn—r! n—t = Unn—rs (39)
+
+which follows from Bohr’s postulates. By the correspondence principle, since
+
+a quantum theoretic frequency is related to the classical frequency as
+U(N,T) 4 Uan—r- (40)
+
+At that point, he argued that the corresponding amplitude in the quantum
+case should be
+
+x(n, T) O Lnn—r- (41)
+Then the set {nn—7 exp [27i1,,,_7t]} may be chosen as the representative of
+
+%p(t) in the quantum case. Now, in the classical case
+
+a, (t)?? = > x(n,7) exp [27iv(n, nH » x(n,7’) exp [27iv(n, 7')t]
+
+= > a(n,7)a(n, 7’) exp [2riv(n, 7 + 7')t]
+
+tr!
+
+(42)
+by (8). By changing variables as tT > 7 — 7’, we get
++00
+> x?(n,T) exp [27iv(n, Tt], (43)
+
+14
+
+--- Page 15 ---
+where
+x?(n,T) = > x(n,7')a(n,T — 7’). (44)
+Therefore, according to (89), the corresponding quantum quantity must be
+
+x(t) & {x2 ,_, exp [271i »—rt]}. (45)
+
+a
+
+To get the correct phase factor, one must replace the terms like n,n — 7’ x
+
+n,n—(t-—7') by n,n— tau’ x n—7',n—7. Accordingly, we have
+2 S-
+Un nr = Tn,n—7'Ln—7! n—T+ (46)
+=
+
+The generalization of this rule as p(t) yields a noncommutative algebra,
+
+since, in general
+y Tan—!Yn-7! n—7 # » Ynn—7!&n—7! n—T- (4 7)
+7 7
+
+As it was said in earlier chapters, in the old theory, to solve the quantum
+problems, one had had to first calculate the equation of motion classically
+
+and then impose the quantum of action condition
+
+f va =nh, (48)
+
+which worked for some basic problems but was hard to work out for most
+others. So, for a generic equation of motion % + f(x) = 0, p = ma, and by
+
+the correspondence principle
+
+O0®(n,T)
+
+pole
+On
+
+o Dricn _ ®n nr: (49)
+
+Heisenberg showed that
+1/v
+$ va = i mardt = 2n°m > ty(n,T)|x(n,7)|? = nh
+0 T
+=—=h= 2n?m So rH (v(n,7)|e(n,7) 2) =h (50)
+- dn ‘ ‘
+o 2n?m >> Vnernltn+rnl- ~ Vnjn—t|@njn—tle = h,
+
+15
+
+--- Page 16 ---
+where a(n, 7) = x*(n,—T) since 2,(t) has to be reall is the quantum con-
+dition for such a system. Therefore, by solving the equation of motion and
+applying the quantisation rule that he derived, he argued that the frequencies
+and the transition amplitudes, which are observable, can be calculated from
+this mathematical scheme. Afterwards, he_went on to apply the scheme to
+
+the quantum simple anharmonic oscillator 2°
+
+5.1 Born and Jordan’s Contributions
+
+It was Jordan and_Born with whom Heisenberg improved the theory into
+matrix mechanics lia, ‘14). The two profound papers that they published in-
+cluded many results, taking the theory into its full-fledged matrix mechanics
+form. Starting with the quantum of action principle and by the Fourier ex-
+pansions of p and q, through a similar calculation to which was just presented,
+
+they got the canonical commutation relation.
+
+Let
+
+) p2riv(nm)t)
+
+p= (p(nmje £9 = (g(rmye2rinrm, (52)
+
+which are Hermitian. We also assume that the following relations hold
+
+num)q(mn) = |g(nm)/?
+nm) = v(mn), (53)
+jk) + (kl) + v(lj) = 0.
+
+Q
+
+y
+
+y
+
+By using the second and third relations, we get
+
+(jk) = —v(kl) — v(lj) = v(gl) — v(kl)
+
+(54)
+hv (jk) = h(v(jl) — v(kl)) = W; — We.
+°Consider the elements corresponding to T = a and tT = —a in the sum,
+x(n, a) exp [27iv(n, a)t] + x(n, —a) exp [2riv(n, —a)t] 651)
+=x(n, a) exp [27iv(n, a)t] + {x(n, a) exp [27iv(n, a)t]}*, °
+which real.
+The details of the derivation are not clear in Heisenberg’s paper, [30}. For a clearer
+
+account, see {1}.
+
+16
+
+--- Page 17 ---
+Consider a matrix of the form g(pq) = (g(nm)e?"™""™") = (g(nm)). The
+time derivative yields
+g = 2ni(v(nm)g(nm)). (55)
+
+Since v(nm) 4 0 for n 4 m, if g = 0, then g is necessarily diagonal.
+
+Now, using (48) and (29), along with the fact that
+d=pqy—qp>d=0, (56)
+
+(by another matrix theory-related result in the paper), so that the matrix d
+
+is diagonal, we have the canonical commutation relation:
+
+ih
+pa 4p = ~7 I. (57)
+T
+Subsequently, they also derive that
+. Qri
+g= —5, 9. Hl, (58)
+
+and thus, for g = H, that the energy is conserved (for 0,H = 0 of course),
+which also entails the result that H is diagonal on the base which it shares
+
+with p,q.
+
+Soon after, Wiener and Born introduced the operator algebra into quantum
+theory lis. For y(t) = on YnemWnt/" and x(t) = So, tn(Heerno/", we
+
+have
+
+1/7 mW
+en(t) = lim — | x(t)? "/hat
+rn(t) = lim gp | alde | (59)
+and, wherefore, the transformation ym = >>, dmn@n(t) entails the equation
+y(t) = lim i r wr e2ti(Wmt—Wns)/h x(s)ds. (60)
+T>00 2T -T |“nn mm
+Writing
+q= lim i r y dane2TiWnt-Wras/h | dg, (61)
+T00 2T -T |"mn .
+4(s,t)
+
+17
+
+--- Page 18 ---
+the former expression can be put into the form
+
+y(t) = qu(t). (62)
+
+As an example, direct calculation with the linear operator D = d/dt, yields
+
+Od(t, § 2n% vay
+y(t) = Dge(t) g(t, 8) am dian Wy 27i(Wint Was) (I (63)
+ot h mn
+Therefore
+271 . 271
+(Da) mn = Fy dnn Win: (qD) mn = dn Wn
+By partial integration (64)
+Oni
+[D, q\x ~ (Win Wr) Qmnt = QTV mn GmnX-
+
+Hence, by definition of g in (GI), the equation just derived entails
+= (Da = del (65)
+
+By (8), we also have the familiar result D = d/dt = 2H.
+
+5.2 The Correspondance Between the Classical and
+Quantum
+
+At about the same time, the G6ttingen school put the matrix mechanics for-
+ward, Dirac found_a mathematical equivalence between classical and quan-
+
+tum mechanics |18]. Dirac started by defining d/dv as the “most general
+
+operator”. By assumption, it obeys the following rules:
+
+L
+d dx dy
+met) Tot de (67)
+'r diay) dy a
+ny) _ dy , de
+dv du + du” (68)
+
+1Jy operator algebra, for an arbitrary function x, this equation can also be derived as
+
+d(qx) dx dq dx dx,
+[D, qlz = di er er Ln eT Te (66)
+
+18
+
+--- Page 19 ---
+where «, y obey the matrix product rule, (ry)mn = do, XmkYen- Then, by the
+
+first rule,
+dx
+(D2) mn = (Gp )mn = > Anmn'm! &n'm' + (69)
+
+min!
+
+Therefore, the second rule can be written as
+
+y Anmyn'm! Ln'kYkm! = y Ank,n'k! Unt kYkm! + y UnkAkm,k'm! Yk'm'- (70)
+
+n'm'k kn'k! kk'm!
+
+Comparing the amplitudes, Dirac reduced (69) to
+
+dx
+(Gy)mn = So tna dem = AnkXLkm (71)
+: k
+or F
+fa
+he [x, a], (72)
+
+which showed that the most general operation on a ”quantum variable” 2,
+subject to the rules presented at the beginning, is performed by "taking
+the difference of its Heisenberg products with some other quantum variable”
+(Dirac, 1925, p.647).
+
+To see what this equation corresponds to in classical mechanics, Dirac made
+
+use of the correspondence principle (29), which resulted in
+
+fey] Age, y}, (73)
+20
+where ax 0 aya
+ry =
+{ry} = Oq Op  0q 0q ~)
+
+is the Poisson bracket [2 In classical mechanics, for a system described by
+
+the set of coordinates {q;, pi}, the canonical commutation relations are
+
+Og O Oqn O;
+{4e-Ptbw = 2 55 dp, 7 Dp Bae = OH (79)
+
+Suppose f(p,q,t) is a solution to a system defined by the Hamiltonian H(p,q,t). The
+
+chain rule reads
+df _Ofdq , Ofdp | of
+dt Oqdt Opdt dt’
+
+(75)
+
+19
+
+--- Page 20 ---
+where {p;,~} = {px,pi} = 0. Such coordinates are called canonical coor-
+dinates, and the transformations that transform one canonical set of coor-
+dinates to another (i.e., the coordinates which obey the canonical commu-
+ation rules) are called the canonical transformations. The Poisson brackets
+of canonical coordinates are invariant under these transformations, and so
+are the equations of motion. The problems in quantum mechanics can be
+
+hus reduced to finding suitable canonical coordinates (ones with the most
+
+constants of motion) and then transforming the fons of motion using
+
+he Dirac correspondence principle, as is shown in . It is interesting to see
+
+hat the canonical transformations correspond to unitary transformations in
+
+quantum mechanics.
+
+In conclusion, the main mathematical connection between classical and quan-
+um mechanical equations, in the case of matrix mechanics, was the corre-
+spondence principle. It was included in the main formulation of the theory
+y Heisenberg and made an implicit feature by the contributions of Born
+and Jordan in matrix mechanics in the equations (57) and (68). The same
+rinciple appeared in the correspondence between the commutation relations
+
+and Poisson brackets, as shown in (73). At that point, we can as well say
+
+hat one of the foundational postulates of quantum theory was this principle.
+However, in wave mechanics, we will not see the principle in direct use. In-
+
+stead, the main postulate of the theory will be that particles have some kind
+
+If the system is described by p and q s.t. they obey Hamilton’s equations
+
+. OH
+q=>>
+(a) .
+on (76)
+p= 8G"
+we have ;
+f={f, H}+4H. (77)
+
+From this, for an operator Q, using Dirac’s correspondence principle, we get the Heisenberg
+equation of motion
+
+O= aa. H) +00. (78)
+
+For more information on canonical transformations and Poisson brackets, see the second
+appendix and 26).
+
+20
+
+--- Page 21 ---
+of an ”intrinsic periodic phenomena” which causes them to act like waves.
+
+6 Wave Mechanics
+
+6.1 Preliminary Considerations
+
+A significant work on the reconciliation of wave and particle phenomena was
+
+from Hamilton, whose main concern while studying mechanics and deriving
+
+his equations was to find a bala method to explain optical phenomena, as
+bs
+
+laws governing both phenomena rather than a direct_statement about the
+
+Lagrange did for mechanics Yet his main interest was in mathematical
+
+corpuscular nature of light or wave nature of matter .
+
+The analogy in mathematical form can be summarised as follows: The prin-
+
+ciple equation in ray optics is Fermat’s principle of least time,
+n
+oT = sf —ds = 0, (80)
+c
+whereas in mechanics, it is the Maupertuis’ principle of least action,
+
+6S = sf V2m(E — U)ds, (81)
+
+which are just special cases of Hamilton’s principle of stationary action,
+6S = 6 f wat =0, (82)
+
+where L is the Lagrangian. This analogy can be grounded by observing that
+
+the wave equation converges to the Eikonal equation for large wavelengths,
+
+From [28], p.5: ” Those who have meditated on the beauty and utility, in theoretical
+mechanics, of the general method of Lagrange—who have felt the power and dignity of
+that central dynamical theorem which he deduced, in the M’echanique Analytique, from
+a combination of the principle of virtual velocities with the principle of D’Alembert—and
+who have appreciated the simplicity and harmony which he introduced into the research
+of the planetary perturbations, by the idea of the variation of parameters, and the dif-
+ferentials of the disturbing function, must feel that mathematical optics can only then
+attain a coordinate rank with mathematical mechanics, or with dynamical astronomy, in
+beauty, power, and harmony, when it shall possess an appropriate method, and become
+the unfolding of a central idea.”
+
+21
+
+--- Page 22 ---
+which is the fundamental equation of geometrical optics. The calculation is
+as follows: For w = Ae‘*°“, where A and W are slowly varying functions of
+
+position, the wave equation Ay + n?kju = 0 reads
+A(Ae™) + n2ke Ae = 0. (83)
+
+For simplicity, let’s take A and W as functions of only x. Therefore,
+
+o [d,Ae™™ + Aikyd,We'™] + n?kj Ae = 0 (84
+Ox 0
+=> 0? A+ 0,A0,Wiky + 0, AO,W iko
+(85
++ A Wiky — A(O,W)?k5 = —n? kg A
+= (0,W) =n’, (86
+
+where we neglected the lower powers of kg by the assumption we made.
+
+Therefore, as geometrical optics is the long wavelength approximation of
+undulatory optics, maybe the particle phenomena were just a similar ap-
+
+proximation of the wave phenomena.
+
+The phenomena of radiation as a wave or particle were still topics of dis-
+cussion. Some phenomena, like black body radiation and the photoelectric
+effect, were explained by corpuscular theory, whereas others, like refraction,
+diffraction, etc., were explained by wave mechanics. It was Louis de Broglie
+who first introduced the idea of associating waves with particles in the con-
+text of quantum theory [17]. It seems like he wasn’t aware of Hamilton’s
+optical-mechanical analogy, but he was deeply impressed by the works of
+Marcel Brillouin (Jammer 1989, p.246-247).
+
+6.2 De Broglie’s Idea of Matter-Waves
+
+Consider a particle of rest-mass m with an intrinsic periodic motion. It has a
+frequency vy = mc?/h at rest. Relative to an observer, for which the particle
+
+moves with the velocity v = 8c, the frequency is
+
+me %
+
+v= = (87)
+
+h/l—-B /1—- BP
+
+22
+
+
+--- Page 23 ---
+according to its energy content. But one also expects the frequency of the
+
+internal phenomenon to change according to time dilation as
+
+Y= HvV/1- B, (88)
+
+so, there should be a relation such that
+vy, = v(1— 6”). (89)
+
+The apparent discrepancy is lifted when one considers the following: Let there
+be a wave with frequency v, which spreads with the velocity ¢/ = c?/v, and
+a particle with the intrinsic periodic phenomena coincided at t = 0, to which
+we just ascribed the frequency 1] The wave is described by the equation
+sin 27vx(1/v — B/c) after a time t, and the internal motion changes with
+
+respect to the equation sin 271,x/v. Therefore,
+
+va(1/v — B/c) = y2/v0 > 1 =v(1— 8), (90)
+
+as excepted. Therefore, ”any moving body may be accompanied by a wave
+and that it is impossible to disjoin motion of body and propagation of wave”
+(de Broglie, 1924, p.450). The velocity c/G is the phase velocity of the wave.
+
+The phase velocity and group velocity are related by
+1/v, = d(v/v)/dv = 1/Bc) = 1/0, (91)
+SO Uy = v, that is, the group velocity of the wave is the velocity of the particle.
+
+Therefore, de Broglie suggested that the wave phenomena is present when
+the means of measurement is on the scale 4 of the matter waves, whereas
+otherwise the structure of the wave goes undisturbed and what we measure is
+related to corpuscular phenomena. He also suggested that the probability of
+absorption or scattering of light quanta is related to the phase wave vectors
+
+crossing upon the atom.
+
+“The reason why frequencies are ascribed such that can be seen by the fact that the
+first one satisfies the Doppler effect.
+
+23
+
+--- Page 24 ---
+One of the results that de Broglie proposed was that the Sommerfeld quantum
+
+condition $ pdg = nh, along with \ = h/p is equivalent to
+
+fxd =n, (92)
+
+which states that the (monochromatic) wavelength of the electron in an
+orbit is quantised as 2mr/n, resembling the solution of a boundary value
+problem, attracted the interest of Schrodinger deeply. That was also the
+wave-mechanical explanation of Bohr’s quantum condition of discrete angu-
+
+lar momentum of the electron in the orbits.
+
+6.3. The Wave Equation
+
+Thinking that if there are waves, there should also be a wave equation,
+Schrodinger began his study on de Broglie’s matter waves for bound particles.
+He thought that for resolutions much higher than the associated wavelength
+\ = h/p, just as in geometrical optics, the wavelike phenomena were not
+possible to observe, whereas, in the high resolutions, i.e. where the inter-
+action distances d between the particles were d % A, the wavelike nature of
+the matter was significant to the behaviour of the system, just as in undula-
+tory optics. So, just as de Broglie thought, he showed that there was more
+to the resemblance between the analogy with geometrical-undulatory optics
+
+and that of the particle-wave nature of the matter [52].
+
+One of the works that impressed Schrédinger the most was the papers of
+Einstein on the ideal gas, where he used Bose’s counting procedure, which
+renders the particles indistinguishable and thus arranges them in the possi-
+ble energy states according to the Ehrenfest and Krammling’s combinatoric
+expression, to arrive at Planck’s formula without the use of classical electro-
+dynamics, contrary to the way Planck derived it [29} 23). Schrodinger saw
+
+that wave concept presented a natural way to account for the phenomenon
+
+Schrédinger published four papers (and a paper to summarise the results)
+
+where he studied the form of the wave equation and applied it successfully to
+
+24
+
+--- Page 25 ---
+the problems of quantum mechanics He started his first commu-
+nication by proposing that in the time-independent Hamilton equation
+
+(since he was dealing with stationary states in the Hydrogen atom),
+H(q,——) = B. (93)
+
+Hamilton’s characteristic function W is completely separable for orthogonal
+coordinates and quadratic (in the generalised momenta) Hamiltonians with
+no time dependence if the potential energy is additively separable in each
+
+coordinatel!4 Therefore, he assumed
+
+W = SO Wi(Gis On W,.--,9q,.W) = Kn { [[ vq) )=Kimnd, — (94)
+i j
+
+=> H (« am) =E. (95)
+
+where K is a constant, and w are single-valued functions of only one of the co-
+
+ordinates q;, which are real (this condition is lifted in the subsequent papers).
+In simple cases, this equation can be written in quadratic form equated to
+zero. In this case, w also has to be twice continuously differentiable, for which
+the first derivative is equal to zero for the equation to be quadratic, which
+
+extremizes the corresponding integral equation Therefore, he effectively
+
+changed the quantum conditions with the conditions on ~
+
+15His works assumes some knowledge on Hamilton-Jacobi formulation of classical me-
+chanics, a summary of which can be found in the second appendix.
+
+16See the second appendix, section B.1.
+
+The last condition is rather arbitrary, as Schrédinger will also give in in his second
+communication, but surprisingly leads to the correct answer, the reason of which will be
+given in the subsequent pages. The motivation behind this rather ad hoc principle was
+argued to be related to optical-mechanical analogy (Joas, Lehner, 2007, p.13):
+
+After several unsuccessful attempts at guessing the variational principle,
+there appears in the notebook a program that contains as its second item
+*the old Hamiltonian analogy between optics and mechanics”. In the text
+corresponding to this item, Schrodinger starts from the Hamiltonian par-
+tial differential equation and reinterprets it as a variational principle which
+indeed leads him to the (nonrelativistic) wave equation.
+
+From [49}, p.l: ”Wir suchen nun nicht eine Lésung der Gleichung (95), sondern wir
+
+25
+
+--- Page 26 ---
+In cartesian coordinates, where e,m are the electron’s mass and charge, ac-
+cording to our considerations in the second appendix, the Hamilton-Jacobi
+
+equation takes the form
+
+2 op? K2 2/1 au e?
+Er +V(a,y, 2 =o 2 (42) ; E (96)
+3 2 ,
+Ow 2m eV 4g
+~~ (e+e =0, (97)
+
+where r = \/2? + y? + 27, and * aa = p; by (159). Therefore, our variation
+problem becomes
+
+boo 3 2 2
+Ow 2m e :
+= 3 a p—)yr=
+was [ “ey (%) +(e =) 0, (98)
+
+from which we get the following equations,
+
+2m e
+A B+— = 0,
+V+ re ( + =) 0,
+
+/ apoyo = 9
+
+(99)
+
+of which the first is the Schrodinger equation for an electron in the hydrogen
+atom, and the second, where df is the surface element of a surface of infinite
+
+extent, is the condition that the wavefunction must go to zero at infinity 9
+
+stellen folgende Forderung. Gleichung lasst sich bei Vernachlassigung der Massen-
+veradnderlichkeit stets, bei Beriicksichtigung derselben wenigstens dann, wenn es sich um
+das Einelektronenproblem handelt, auf die Gestalt bringen: quadratische Form von yw und
+seinen ersten Ableitungen = 0. Wir suchen solche reelle, im ganzen Konfigurationsraum
+eindeutige, endliche und zweimal stetig differenzierbare Funktionen w, welche das iiber den
+ganzen Konfigurationsraum erstreckte Integral der eben genannten quadratischen Form zu
+einem Extremum machen. Durch dieses Variationsproblem ersetzen wir die Quantenbe-
+dingungen.”
+
+19Tn reference ; there is an account which explains how this variational principle
+works by means of statistical considerations. The number of states in an imaginary en-
+semble in the configuration space, which is encoded by the ” field” W, is
+
+N= [ola )aa ..-dqn, (100)
+
+for n degrees of freedom, and p(q;,t) is the density of states in the ensemble. Now, if we
+apply the normalisation condition, N = 1, then we have a probability distribution, and
+
+26
+
+--- Page 27 ---
+Therefore, Schrédinger reduced to problem of finding the energy levels of the
+electron in the hydrogen atom to a boundary value problem for negative F,
+i.e., bound states. For positive E', which classically corresponds to hyperbolic
+solutions of the Kepler problem, there are no bound states as the electron is
+not bounded by the potential. For bound states, he showed that quantisation
+
+naturally occurred whenever
+
+me?
+
+) = —__. 105
+" KV-2mE (105)
+
+is a real positive integer, to give energy eigenvalues of
+
+met
+
+p=
+2h? n2’
+
+(106)
+
+which provides the Bohr energy levels for K = h/2z.
+
+At the beginning of the second communication (5a), Schrédinger gives another
+means of derivation for the wave equation, as the ansatz (94) and the vari-
+ational principle he postulated were ” unintelligible” (unverstandlich). This
+
+time, he explicitly uses the optical-mechanical analogy:
+
+we can define the probability of finding the system at the state q; as
+
+p(d; t)
+Fea, )dn ...dgn
+
+The evolution of the probability distribution is given by the continuity equation,
+
+ap VW) _
+av. (oS) <0. (102)
+
+P(qi,t) = = p(t). (101)
+
+Later in the paper, they state that the statistical Hamilton-Jacoby theory, as they call it,
+can be summarised by the following variational principle,
+
+Ow Ow
+5 fda... din [AP +H (a5 )] =0, (103)
+
+by treating p and W as conjugate variables. The Hamilton-Jacobi equation and the
+continuity equation are then derived from this variational principle. It can be seen, upon
+comparison, that this variational principle is in the same form as Schrodinger’s variational
+principle, for p = |#)|?. By the ansatz W = K Iny, we have
+
+w= VpeWl*, (104)
+
+where K has to be an imaginary number to satisfy p = |~p|?.
+
+27
+
+--- Page 28 ---
+Maybe our classical mechanics is the full analogue of geometri-
+cal optics, and, as such, wrong, not in agreement with reality.
+It fails as soon as the radii of curvature and the dimensions of
+the trajectory are not large anymore compared to a certain wave-
+length, to which one can attribute a certain reality in q-space. In
+that case, one has to search for an ” undulatory mechanics” —and
+the obvious way to this end is the wave theoretical extension of
+Hamilton’s picture. (Schrodinger, , pp. a5 4
+
+For a conservative system, the action is
+s= [r-vae (107)
+
+and we have the equation
+
+as 5
+at onlV5l +U=0. (108)
+
+Substituting the usual ansatz
+S(qi, t) =-Et+ W(a), (109)
+in the equation (108), and by using the fact that |VS| = |P| = P, we get
+
+|VS| = \/2m(E— 0D), d,5 = -B, (110)
+
+from which follows, for constant action,
+
+dS =|VS|ds + 0,Sdt = (V|VS| — B)dt = 0
+y_#_ E (111)
+IVS] \/2m(E—U)’
+
+where V is the phase velocity of the waves. On the other hand, the velocity
+
+of the particle is
+
+|VS|/m = P/m =v = V2(E -U)/m. (112)
+
+20'Translation is from [36], p.15.
+
+28
+
+--- Page 29 ---
+Therefore, he showed the equivalence of Fermat’s and Maupertuis’ principle:
+
+5 / ds/V =6 / ds (Im(B—0)/E =65 / vdt/Im(E = U)/E
+
+(113)
+=65 fe U)/Edt =0 5 f 2rd =o.
+Afterwards, he introduced the waves
+w = A(a, y, z) sin(W/K), (114)
+
+where K is a constant with the units of action. In this case, the frequency is
+
+_ £E
+~ Onk’
+
+Vv
+
+(115)
+
+which yields the relation of Einstein for K = h/27. The associated wave-
+
+length is given as
+
+A= v/v =h/V2m(E - UV) = h/p. (116
+
+(Note that the equality of particle velocity and the group velocity of the wave
+does also hold, as we have seen in de Broglie’s papers.) Next, he introduced
+
+the ordinary wave equation
+
+AW * =0, (117
+with the condition that
+W(g.t) = vere”, (118
+he got the wave equation}
+Avt+ Srp —U) =0. (124)
+
+21In Atombau und Spektrallinien, [5a], Sommerfeld used the optical-mechanical analogy
+to derive Schrédinger’s equation as follows. Starting with the equation
+
+Lis 2 2 IVs?
+Dy Pe + Py + Ps) = E-V= om (119)
+where S' is Hamilton’s principle function, and compared it with the wave equation
+1 Ou
+Au=—2". 120
+O= 2 OF (120)
+
+--- Page 30 ---
+This derivation of the wave equation is what he also preferred in {59}.
+
+In the third communication lash, of which we will not delve into the details,
+he developed the time-independent perturbation theory and applied it to
+
+calculate the Stark effect of the hydrogen atom.
+
+In the last paper of the series (so), the fourth communication, he developed
+the time-dependent perturbation theory for non-conservative systems. Of
+course, to do that, he needed the time-dependent wave equation, as the wave
+equation derived and used until now was for conservative systems, especially
+
+for the case of the stationary states of the electron in the hydrogen atom.
+
+For time-dependent potentials, the theory had to be extended. To do that,
+
+Schrodinger observed that
+
+thaw = Bw, (125)
+20
+and postulated that the equation
+n _, —ih OW
+— v v= ——_. 12
+Sm ru Qn Ot (126)
+
+For that matter, he also lifted the reality condition on we
+
+Next, we use the ansatz u = we’, where w = k/v, and k = nko, where ko is the
+
+wavelength in the vacuum and n = c/v is the refractive index. Therefore we get
+Ay +n? key = 0. (121)
+
+Next, he shows the approximate relation between this equation and the Eikonal equation,
+as it is done in preceding pages (instead of W, he uses S'). Therefore, by the relations
+
+|AS|? = 2m(E-V), |AS
+
+2a n?, (122)
+
+we get
+Ay + 2m(E — V)key = 0. (123)
+But in the first equation, S is dimensionless, whereas in the second one, it has dimensions
+of energy and mass. The equality of dimensions is retrieved once we state ko = (27/h)?.
+?2 As expected, it is possible to derive Hamilton-Jacobi equation as a classical approx-
+imation of this equation, by letting = /pexpiS(«,t)/h, where h = h/27, substituting
+that into the Schrédinger equation, and then taking the limit h > 0, which gives
+
+1 (2) +V(0) +28
+
+om \ De an 0, (127)
+
+in one dimension.
+
+30
+
+--- Page 31 ---
+Although Schrédinger believed in the literal existence of matter waves, the
+wave function that he got was not suitable for such tangible existence, for it
+was not defined in 3-dimensions. For a system of N particles, it is defined
+
+on the 3N-dimensional configuration space.
+
+Schrédinger’s idea of the primacy of waves over particles did not become
+a consensus. In 1926, just after Schrddinger published his papers on wave
+mechanics, Born suggested his statistical interpretation of the wave function
+in his studies on the scattering theory |11), [12]. Schrodinger strongly re-
+sisted Born’s interpretation, believing that wave mechanics should describe
+real physical waves rather than probabilities. However, the success of the
+probabilistic interpretation in scattering experiments ultimately led to its
+
+acceptance and continued to defend his position throughout his life.
+
+7 Uncertainty Principle, Indistinguishability,
+and Complementarity
+
+Although the formal language of quantum theory was slowly gaining ground,
+the philosophical implications were still hot topics of discussion. Heisenberg,
+Born and others besides these were favouring the particle view over the wave
+concept, accepting the quantum jumps as they are, whereas Schrédinger,
+Einstein and other physicists were repulsed by these ideas. Observing that
+the problem lies in transforming classical concepts like position and velocity
+into the language of quantum physics, in a paper in 1927, Heisenberg set
+out to find a bd describe these concepts operationally, as Einstein did to
+
+space and time .
+
+For Heisenberg, for an observable to have a meaningful description, the mea-
+surement process and result have to be defined clearly. For instance, the
+concepts of space and time according to Newton do not have a clear means
+of measurement, whereas Einstein’s are defined directly on measurements.
+For that matter, he considered an experiment with y-rays to determine the
+
+position of an electron. The velocity of the electron will change according to
+
+31
+
+--- Page 32 ---
+the wavelength of the light, which in turn affects the accuracy of the mea-
+surement. The photon’s wavelength will change according to the Compton
+
+effect as
+h
+
+MeC
+
+A\ = (1 — cos @). (128)
+
+However, since the scattering angle is not known with certainty, we cannot
+know the wavelength shift and, therefore, the momentum of the scattered
+
+photon. After these considerations, he derived the result:
+
+ApAgq = nba (129)
+
+This thought experiment seems to be valid for classical particles, too. How-
+ever, in classical picture, the particles have exact positions and momenta
+before measurement, whereas in quantum theory, they do not|é4] So, it is not
+a particularly good example of explaining the inherent uncertainty in nature.
+Generalisations of the principle for any two conjugate variables followed by
+others]
+
+A consequence related to that, although came before this derivation, is the
+concept of indistinguishability of identical particles in quantum mechanics.
+
+The concept of identical particles is not unique to quantum mechanics. For
+
+?3He derived the exact expression
+ApAg 2 h/2, (130)
+
+for only Gaussian states. The formula is later shown to hold in general by Kennard {3g}.
+
+?4Tn wave picture, this principle arises from the inverse behaviour of spreading of wave
+functions related to conjugate variables.
+
+25 A counter-argument came from Condon, [35}, p. 353 - 354, in the meantime. The
+basic idea can be outlined as follows: Consider the angular momentum of the electron
+in the hydrogen atom, L, = mh, which entails AL, = 0, and therefore AL,AL, = 0,
+although [L,,L,] # 0. The solution to the apparent contradiction lies in the fact that the
+generalised version of the uncertainty principle reads
+
+AAAB > 5 (D) |, (131)
+
+where
+
+(aay? = [vA (4) (132)
+
+Since the equation is valid for (Ly) = 0, there is no contradiction.
+
+32
+
+--- Page 33 ---
+instance, John Dalton already assumed that the particles comprising the el-
+ements were identical . But the concept of indistinguishability was some-
+hing new. In classical physics, even if the particles are identical, they have
+distinct trajectories defined by their position and momentum. Yet in quan-
+um physics, this cannot be the case, as it is seen by the uncertainty relation.
+However, the uncertainty relation was not the only means to see this fact, as
+Dirac had already published a paper on the now so-called Fermi-Dirac distri-
+ution of identical fermions in 1926 (about the same time but independently
+rom Fermi). The idea that led Dirac to the indistinguishability is as follows
+Dirac, 1926, p.667):
+
+Consider now a system that contains two or more similar parti-
+cles, say, for definiteness, an atom with two electrons. Denote by
+(mn) that state of the atom in which one electron is in an orbit
+labelled m, and the other in the orbit n. The question arises
+whether the two states (mn) and (nm), which are physically in-
+distinguishable as they differ only by the interchange of the two
+electrons, are to be counted as two different states or as only one
+
+state, ie., do they give rise to two rows and columns in the ma-
+
+trices or to only one? If the first alternative is right, then the
+theory would enable one to calculate the intensities due to the
+two transitions (mn) — (m’n’) and (mn) > (n'm’) separately,
+as the amplitude corresponding to either would be given by a
+definite element in the matrix representing the total polarisation.
+
+The two transitions are, however, physically indistinguishable
+
+and only the sum of the intensities for the two together could be
+determined experimentally. Hence, in order to keep the essential
+characteristic of the theory that it shall enable one to calculate
+only observable quantities, one must adopt the second alternative
+
+that (mn) and (nm) count as only one state.
+
+It is not necessary to point out that these ideas led to philosophical discus-
+
+sions. There was a big controversy between these seemingly contradictory
+
+33
+
+--- Page 34 ---
+concepts in terms of attaining them to reality at the time (and probably to
+a greater extent still). The discussion revolved around two keypoints, which
+may be called the singularities of the philosophical discussions since they
+were the centers of attractions of conceptual discussions and the origin of the
+problems themselves. These ” singularities” may be summarised more or less
+
+as follows:
+
+1. The whatness of measurement: What really is measurement in quan-
+tum mechanical terms? Is there a point of seperation after which we
+make a clear distinction between the quantum system and the mea-
+
+surement apparatus’?
+
+2. The questions on the ontological status of things: Is quantum theory
+an epistomological theory, that is, a theory which describes nature up
+to our capabilities of perception as Heisenberg argued |31]; or does it
+really describe things as it is, and that is how nature really works in
+
+the most fundamental level?
+
+A comprehensive discussions on these matters are clearly out of the scope
+of this text. However, a term related to these questions and highly relevant
+to the development of quantum mechanics must be mentioned here: Com-
+plementarity. In essence, the idea, which is primarily attributed to Bohr [8],
+states that the nature in its most fundamental level acts in phenomenologi-
+cally mutually exclusive concepts, such as waves and particles, measurement
+apparati and systems, or causality and definability of a state (since the act
+of observation, which is a must that comes before definition, destroys the
+causal evolution of the system ). More precisely, in Bohr’s words (Bohr,
+1928, p.580):
+
+On one hand, the definition of the state of a. physical system,
+
+as ordinarily understood, claims the elimination of all external
+
+26Tt is interesting to see that these questions are peculiarly similar to subject-object
+
+problems in philosophy (aj. See also [35], ch. 7.2.
+
+34
+
+--- Page 35 ---
+disturbances. But in that case, according to the quantum pos-
+tulate, any observation will be impossible, and, above all, the
+concepts of space and time lose their immediate sense. On the
+other hand, if in order to make observation possible we permit
+certain interactions with suitable agencies of measurement, not
+belonging to the system, an unambiguous definition of the state
+of the system is naturally no longer possible, and there can be
+no question of causality in the ordinary sense of the word. The
+
+very nature of the quantum theory thus forces us to regard the
+
+spacetime co-ordination and the claim of causality, the union of
+which characterises the classical theories, as complementary but
+exclusive features of the description, symbolising the idealisation
+
+of observation and definition, respectively.
+
+The duels of Einstein and Bohr on these topics were especially illuminating,
+
+EPR paradox
+
+the violation of inequalities
+
+although generally to Bohr’s advantage. One of these discussions led to the
+bd. Bell inequalities ig, and finally, by the observation of
+iy to the existence of non-local phenomena in
+
+nature (to the advantage of Bohr again).
+
+One of these mental duels is especially interesting, for Bohr’s use of general
+relativity to rule out Einstein’s argument |9]. The argument was as follows:
+Consider a box filled with radiation. This box has a shutter that operates
+on clockwork, to open and close for an arbitrarily short time to let a photon
+escape through the hole. Now, if we measure the mass of the box before and
+
+after the event, we can measure the energy of the photon by
+B=me’, (133)
+and thus violate the energy-time uncertainty relation,
+AEAt 2 h. (134)
+
+Bohr’s response was on the following lines: The measurement of the mass
+
+difference can be made by balancing the box with a spring and a pointer with
+
+35
+
+--- Page 36 ---
+an index to read the mass. After the shutter is closed again, an additional
+weight m can be added to the box to measure the mass difference due to the
+escaped photon to an accuracy Am, which is connected to the accuracy of
+the position measurement Aq of the pointer on the index. Since adding the
+additional mass will impart an impulse p to the box (and the pointer), which
+
+is subjected to the error Ap given by
+Apdg 2 h. (135)
+
+The error of the momentum measurement is also bounded by the error of the
+impulse given by the gravitation as
+
+h
+y—< L
+Ap ays TgAm, (136)
+
+where T is the duration of the balancing procedure, and g is the gravitational
+constant. But the ticks of the clocks will change throughout the process
+according to the gravitational redshift formula by
+AT g
+= = 546 137
+P= ahd (137)
+for a displacement Aq in the direction of the gravitational field. Substituting
+
+for T in the first equation, we get
+
+ATc’Am = ATAE > h. (138)
+
+8 Conclusion
+
+That brings us to the end of our account of the early development of the
+quantum theory. When we look back, we realise that all the ideas discussed
+here are actually just derivatives of the concept of ”quantum”. Planck in-
+troduced the concept as a mathematical convenience (which was proven to
+be a necessity by Poincaré about a decade later). Especially through the
+discussions and applications of the theory of statistical mechanics (to the
+calculations of which the concept of quanta brought great convenience as
+
+well as new possibilities of thinking, as it did for Planck), the concept had
+
+36
+
+--- Page 37 ---
+made its place in the minds of the physicist of the time in two decades. The
+main tools used for calculation were the correspondence principle, in any
+form, and the quantum of action principle, both of which had a significant
+place in the fundamentals of matrix mechanics. The correspondence princi-
+ple is basically a statement which demands you to replace continuity with
+discreteness, somewhere and somehow. On the other hand, the quantum of
+action principle directly dictates a quantisation principle. In wave picture,
+these principles are replaced with boundary conditions on the wave function.
+That seems too good to be true, and it actually is due to the ontologically
+suspicious status of the wave function. Most of the time, it cannot be de-
+scribed in our 3-dimensional space, and it also collapses, which is equally
+
+indescribable as the other principles. Therefore, collapse is the place where
+
+he concept of ” quantisation” comes into play, in the sense that we have to
+
+empirically assign rules, as it is done in the particle picture, or suppose other
+
+hings to get rid of it, such as infinite parallel universes or pilot waves
+5], which are at best indirectly observable. All in all, maybe the property of
+” discreteness” (or put in another word, ” separability” ) is somehow equivalent
+
+o these seemingly derivative concepts.
+
+Without a doubt, in a work, one of the main aims of which is to provide a
+etter grasp on the fundamental ideas of the quantum theory, not mention-
+ing Pauli’s work on spin , which is a new degree of freedom unique to
+
+he quantum realm; Dirac equation , which includes the spin degree of
+
+reedom as a result of the reconciliation of special theory of relativity and
+quantum theory; the works of von Neumann with the goal of placing the
+quantum theory on a mathematically firm ground and understanding the
+collapse (5a); (although mentioned) Bell inequalities [3], the observed viola-
+tion of which led us to the fact that quantum theory is, in fact, non-local, and
+thus closed the way to the local hidden variable theories; can be considered
+a defect. Presumably, for further reading on the topics, the references of the
+
+paper, and especially the work of Jammer , is a good starting point.
+
+37
+
+--- Page 38 ---
+A Ejinstein’s First Paper on Brownian Mo-
+tion
+
+Although not directly related to the quantum theory, since the paper on
+Brownian motion has historical significance concerning the discrete nature of
+
+matter, it seemed relevant to discuss it here .
+
+In the first two sections of the paper, Einstein assumes a solvent of volume
+V and a solute which are separated by a partition V* impermeable to the
+solute. Then there will be an osmotic pressure PVx = zRT for z gram-
+molecules on the partition. Now if you assume there are also n suspended
+particles in the volume, (back then) classical thermodynamics predicts no
+pressure by these particles on the partition. But Einstein suggests that such
+particles are differentiated from the solute by only their dimensions and there
+is no apparent reason for them not to apply pressure on the partition by the
+thermokinetic movements. Then he proceeds to show mathematically that
+the molecular-kinetic theory does predict such a pressure of the solute as
+PVx = (n/Na)RT.
+
+In section three, Einstein derives the diffusion predicted by the classical the-
+ory, and in section four, he proceeds to show that molecular theory also
+
+predicts that. At the start of the section, he makes two assumptions
+
+. The motions of the particles are independent of one another.
+
+2. The subsequent motion of individual particles occurring in
+
+a time 7 is independent of one another
+
+27This is considered a weak point in Einstein’s argument since the subsequent motions
+might really well be dependent by the causal relation of initial and final states of movement.
+A derivation without this presupposition is carried out later, and the formula reached at
+the end was the same as Einstein’s in sufficiently large time intervals:
+
+a? = 2D(t — mB — e*/™®) _, apt
+
+where m indicates the mass of the particle and B mobility.
+
+38
+
+--- Page 39 ---
+Now, suppose there is an even function ¢(A) representing the probability
+of a change in the position of the particle from x to « + A (for simplicity,
+it is studied in 1-dimension denoted x)?*| Let (x,t) represent the number
+
+density of the particles per unit volume. By definition, we have
+A=+00
+n(a,t+7) = | n(a — A, t)d(A)dA (139)
+A=—o0o
+
+and since 7 is very small compared to observable time,
+
+n(a,t+7) © n(a,t) + all (140)
+
+Since A is a small displacement compared to the dimension of the volume
+that contains the particles, we can expand the function in the integral around
+
+A and omit the powers after the third term, and combine the expansions to
+
+obtain
+nat +7) nfa,t) +794
+_ pe _ fr On A? ny
+=|. n(x — A, t)d(A)dA =| n(x, t) — at pana
++00 On +00
+=nlx,t) | o(A)dA— = | Ag(A)dA
+
+On +00 A2
++53 / S o(A)da.
+
+—oo
+
+(141)
+
+Since ¢ and A are even functions, the corresponding integral vanishes, while
+for fre ~(A)dA = 1, (x,t) terms also vanish:
+
+fay fo +00 A2
+
+n_ On / a 6(A)dA. (142)
+
+"OE Oa 2
+
+The integral re 2X o(A)dA = D is the diffusivity and
+On On
+OT pli
+ot Ox?
+
+?8The function is even since there is no reason for the probability of a change of —A
+and +A to have different values.
+
+(143)
+
+39
+
+--- Page 40 ---
+is the equation of diffusion. Assuming that n particles started from the centre
+
+at t = 0, we have the solution
+
+n(e,t) = et, (144)
+
+which is that of a normal distribution. The mean displacement (or the stan-
+
+dard deviation) of the particles is thus
+Va = V2Dt. (145)
+
+Now, using that D = where « is a coefficient of viscosity (dynamic
+
+x 6nKR?
+viscosity) and R is the radius of the particles 24 and then equating it with
+the result we derived, we get a relation that depends on T, « and R, whereby
+acquire a way to determine Ny, & or R by measuring the corresponding
+
+quantities: _
+a RT 1
+>= 14
+2t Na 67KR ( 6)
+
+B Hamilton-Jacobi Formulation of Classical
+Mechanics'
+
+| Finding the equations of motion is easiest when the coordinates are cyclic.
+Yet the cyclicity of the coordinates depends not only on the system but also
+on the chosen coordinate representation of the degrees of freedom. There-
+fore, a procedure to transform a set of variables between different coordinate
+
+systems proves useful.
+
+Let a system be described by the coordinate set {q:,p;}, which obeys Hamil-
+ton’s equations of motion. After a transformation, the new coordinates may
+
+be written as
+Qi = Qil(a.p.t), Pi = Pilqp,t). (147)
+
+Since we expect the transformed coordinates to also obey the equations of
+
+29This expression is derived in the paper but not included here.
+{ For more information on these topics, see and .
+
+40
+
+--- Page 41 ---
+motions, for transformed Hamiltonian K = K(Q, P,t), we should have
+
+: i
+6-4
+p- aK (148)
+"Qi
+Now, since
+te te
+sf Ldt = | pidi — H(q, p, t)dt = 0
+ty ty to (149)
+=> | PQ; — K(Q, P,t)dt = 0.
+th
+where L is the Lagrangian of the system, Therefore,
+. . dF
+\pidi — H(q,p, t)] = PiQi- K(qp,t) + (150)
+
+Th
+where X is independent of g,p,t, and F’ is any function of the phase space
+coordinates with continuous second derivatives}?°| The transformations for
+which A = 1 are called canonical transformations. The last term of the
+transformed Lagrangian can be written as a function of transformed or un-
+transformed coordinates, or as a combination of both. They are especially
+useful when represented as a combination of old and new coordinates, for
+then they can act as a bridge between the set of coordinates. These types of
+
+functions F’ are called generating functions of the transformation.
+
+Take, for example, the generating function F, = F\(q,Q,t). We have the
+
+Lagrangian in terms of the transformed coordinates as
+
+. . dF, : OF, OF,. OF; -
+pid Q 7 2 +a t Dat +39,2 (152)
+3°Notice that :
+6f 4 write = 6(Fy — Fi) =0, (151)
+
+where F;, are evaluated at the endpoints for any combination of the coordinates {Q, P, q,p},
+along with t, they contain.
+
+41
+
+--- Page 42 ---
+Therefore,
+
+OF
+Pi Bah”
+OF
+P=) 153
+30," (153)
+OF,
+K=H+h.
+
+Other kinds of generating functions are
+F=F,(q,P,t)- QF,
+F = F3(p, Q,t) + apis (154)
+F=Fi(p, Pt) + api — QiFi.
+These are the Legendre transformations of F,. Note that a suitable gener-
+ating function does not have to be in the form of the four we listed. In all
+cases, though, the Hamiltonian is in the form
+OF
+K=H+—. 155
+ot (155)
+If the Hamiltonian is conserved, then there is a coordinate frame for which
+every coordinate is cyclic] Therefore, we can choose a coordinate system
+
+where K = 0, for then the transformed coordinates satisfy
+
+OK .
+ap, = %i = 9:
+: (157)
+OK | P=0
+aq,
+By (155), then,
+OF
+H(q,p,t) + — =0. (158)
+ot
+31 Observe
+dH OH OH. . OH.
+ad at dq! op?
+_ oH , on oH on att 150)
+~ Ot Oq Op Op Oq
+_ oH
+=F
+
+which is equal to zero if the Hamiltonian has no explicit time dependence.
+
+42
+
+--- Page 43 ---
+It is convenient to express F in q, P;, that is, as Fy = Fo(qi, P;,t), for which
+
+we have or
+2
+i = , 159
+P= Fe (159)
+so that we have ar. ar.
+H(q,—,t) + — =0, 160
+(Gi; Oa J+ (160)
+
+which is known as the Hamilton-Jacobi equation. The generating function
+F, is denoted as S' and called Hamilton’s principle function. The total time
+derivative of it reads
+
+dS Os Os Os
+
+ad dg ' oR a Pt (161)
+
+by equations (157), (159), and (£60). Therefore,
+
+Pit
+
+S= ue + const. (162)
+
+Yet, since the coordinates are not known as functions of time before solving
+the problem, we cannot just integrate L and find S. When the Hamiltonian
+
+does not have an explicit time dependence, S can be written as
+S(q, P,t) =W(q, P) — Et, (163)
+
+where W is called Hamilton’s characteristic function. In this case, Hamilton-
+
+Jacobi equation takes the special form,
+
+Ow Ow
+A ee 164
+(0. vm On a) (164)
+
+It is interesting to see that, since
+
+dw ow
+
+Ss FH Dh = ih, 1
+Te Dg th = Pde (165)
+
+we have
+W= [ vsiat = [sta (166)
+
+which is the action.
+
+43
+
+--- Page 44 ---
+B.1 Separable Systems
+
+It is customary to express the constant momenta P; as a;. A coordinate q;
+
+is said to be separable if the principle function can be set in the form
+Sis sky ++ +3 ni Q1, ++; An; t)
+= Sk (quj1,---; nit) +S" (qa, 5 Ge—1s ets s+ +s In} Ay +5 An} t).
+(167)
+Hamilton’s principal function S is said to be completely separable if it can
+
+be cast into the form,
+S(qi,---5QnjQ1,---,QAnjt) = > Wi(qij Q1,.., Qn) — Et. (168)
+i=1
+
+If we also have a Hamiltonian, such as
+
+n aw,
+H= Hy | %,=— },; 169
+Xm (a) am
+then the Hamilton-Jacobi equation can be separated into n equations as
+ow;
+H 3 DY] = E;. 170
+(: * OG ) (70)
+For instance, consider a system with a Hamiltonian which is time-independent
+
+and quadratic in momenta, with the potential energy defined by V = V(q,.--,n),
+
+as
+n
+
+1
+H= —ptVv Dyeeey nm): 171
+dnt * (qu, 42, --+ +n) (171)
+
+Substituting p; = 05/0q; into the HJE, we get
+
+n
+
+1 (as\?
+> om, (=) +V(q1, 9, +++ 5%) =E. (172)
+
+Assuming that the potential energy is additively separable as
+V(q, 92, --+5dn) = Vil) + Vo(q2) +++> + VaGn), (173)
+
+we can assume a completely separable solution for S in the form (£68). Sub-
+
+stituting this into the HJE gives
+
+n
+
+» = (8) + Vi(qi) = B. (174)
+
+i=l
+
+44
+
+--- Page 45 ---
+Since each term depends only on a single coordinate q;, the equation com-
+
+pletely separates into individual equations,
+
+1 (dSi\*
+aa (GZ) tuw=5 (175)
+
+where the total energy is a sum of individual contributions,
+
+B=S\0E, (176)
+
+B.2  Action-Angle Variables
+
+For systems in periodic motion, sometimes the frequency is more relevant to
+know than the whole solution in terms of the coordinates. In this case, the
+
+action-angle variables prove useful, which is the topic of this subsection.
+
+For a system in periodic motion, for which the energy is conserved and the
+
+characteristic function is separable, such that
+
+aw ow .
+H (a. ie eae 7) =a,,W= D_Wilai a) (177)
+
+The action variables are defined as
+
+J= f pada = f eda. (178)
+
+Since the q; dependence is integrated away, J; are functions of only the
+
+constants a; as J; = Ji(ai,...,Qn). Assuming that the transformation
+(a1,..-,Qn) 4 (Ji,..-,In) is invertible we can write a; = ai(J1,...,In).
+
+Therefore, the characteristic function and the Hamiltonian can be cast into
+
+the form
+
+K = K(J) =aa(Ji,.--5In), W = >> Wilqi, i). (179)
+The angle variable is defined, as usual, by
+ow
+
+Od, (180)
+
+82For most integrable systems, we can presume that there are coordinate frames that
+satisfy the global invertibility conditions. For the conditions and the proof, see and
+.
+
+45
+
+--- Page 46 ---
+Thus, we have two kinds of canonical variables, 9 and J, such that the
+transformed Hamiltonian depends only on one, as K = K(J), so @ is cyclic.
+Since K is a constant of motion (by assumption) and depends only on J, J
+must also be a constant of motion since
+
+dk _ OK dd, | 0 dJ;
+
+> apa = = 0. (181)
+
+Therefore, the Hamilton’s equation for that system should be in the form
+
+F OK - OK
+J; 0, 0, 0; Oi, w; = const., (182)
+
+where the reason for the second equality is that since K = K(J), and that
+J is a constant of motion, then @ can either be zero or another arbitrary
+
+constant.
+
+Now, consider a change in @ in a complete cycle as
+
+06; ow d OW, dJ;
+Ab, = $ dq, = 6 ——dg = — § dy = =1,
+{Fz 4 0q0J; q dJ; Ogi q dd; ’ (183)
+
+that is, over a period, the angle variable changes by a unit. Then, since we
+have
+6, = w; > 0; =wt + Gi, (184)
+
+where w; and c; are constants, we should also have
+Ad; = WiTi = _——- w= 1/n, (185)
+
+where 7; is the period, and w; = 0),K is the frequency associated with the
+
+motion in q.
+Statements and Declarations
+
+Competing Interests The author declares that there are no financial or non-financial
+competing interests related to this work.
+
+Funding No funding was received for conducting this study.
+
+46
+
+--- Page 47 ---
+References
+
+AITcuHIson, I. J. R., MACMANus, D. A., AND SNYDER, T. M. Understanding
+heisenberg’s ’magical’ paper of july 1925: a new look at the calculational details.
+American Journal of Physics 72, 11 (2004), 1370-1379.
+
+ASPECT, A., GRANGIER, P., AND ROGER, G. Experimental realization of einstein-
+podolsky-rosen-bohm gedankenexperiment: A new violation of bell’s inequalities.
+Phys. Rev. Lett. 49 (Jul 1982), 91-94.
+
+BELL, J. S. On the einstein podolsky rosen paradox. Physics Physique Fizika 1, 3
+(1964), 195-200.
+
+BELL, J. S. Subject and object. In The physicist’s conception of nature, J. Mehra,
+Ed. Reidel, 1973, pp. 687-690.
+
+Boum, D. A suggested interpretation of the quantum theory in terms of ” hidden”
+variables. i and ii. Physical Review 85, 2 (1952), 166-193.
+
+Bour, N. On the Quantum Theory of Line-Spectra. Project Gutenberg. November
+22, 2014.
+
+Bour, N. On the constitution of atoms and molecules. Philosophical Magazine 26,
+151 (1913), 1-25.
+
+Bour, N. The quantum postulate and the recent development of atomic theory.
+Nature 121 (1928), 580-590.
+
+Bour, N. Discussion with einstein on epistemological problems in atomic physics. In
+Albert Einstein: Philosopher-Scientist, P. A. Schilpp, Ed. Library of Living Philoso-
+phers, 1949, pp. 201-241.
+
+Born, M. Uber quantenmechanik. Zeitschrift fiir Physik 26 (1924), 379-395.
+
+Born, M. Quantenmechanik der stoSvorgange. Zeitschrift fiir Physik 38 (1926),
+803-827.
+
+Born, M. Zur quantenmechanik der stoSvorginge. Zeitschrift fiir Physik 37 (1926),
+863-867.
+
+Born, M., HEISENBERG, W., AND JORDAN, P. Zur quantenmechanik ii. Zeitschrift
+fiir Physik 35 (1926), 557-615.
+
+Born, M., AND JORDAN, P. Zur quantenmechanik. Zeitschrift fiir Physik 34 (1925),
+858-888.
+
+Born, M., AND WIENER, N. Eine neue formulierung der quantengesetze fiir peri-
+odische und nicht periodische vorgange. Zeitschrift fiir Physik 36 (1926), 174-187.
+
+Datron, J. A New System of Chemical Philosophy. Cambridge University Press,
+1808.
+
+DE BrRoGulE, L. A tentative theory of light quanta. Philosophical Magazine 47, 278
+(1924), 446-458.
+
+47
+
+--- Page 48 ---
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+26
+
+27)
+
+28
+
+29
+
+30
+
+31
+32
+
+33.
+
+34
+
+Dirac, P. A. M. The fundamental equations of quantum mechanics. Proceedings
+of the Royal Society of London. Series A, Containing Papers of a Mathematical and
+Physical Character 109, 752 (1925), 642-653.
+
+Dirac, P. A. M. The quantum theory of the electron. Proceedings of the Royal Soci-
+ety of London. Series A, Containing Papers of a Mathematical and Physical Character
+117, 778 (1928), 610-624.
+
+EHRENFEST, P. Welche ziige der lichtquantenhypothese spielen in der theorie der
+warmestrahlung eine wesentliche rolle? Annalen der Physik 341, 11 (1911), 91-118.
+
+Einstein, A. Uber einen die erzeugung und verwandlung des lichtes betreffenden
+heuristischen gesichtspunkt. Annalen der Physik 17 (1905), 132-148.
+
+EINSTEIN, A. Quantentheorie des einatomigen idealen Gases. Sitzungsberichte
+der Preufischen Akademie der Wissenschaften, Physikalisch-mathematische Klasse
+(1924), 261-267.
+
+EINSTEIN, A. Zur theorie der monatomischen idealen gase. Zeitschrift fiir Physik 33,
+1 (1925), 127-138.
+
+EINSTEIN, A. Investigations on the Theory of the Brownian Movement. Dover Pub-
+lications, Inc., 1956. Originally published in 1926.
+
+EINSTEIN, A., PODOLSKy, B., AND ROSEN, N. Can quantum-mechanical descrip-
+tion of physical reality be considered complete? Physical Review 47, 10 (1935),
+777-780.
+
+GOLDSTEIN, H., POOLE, C., AND SAFKO, J. Classical Mechanics, 3rd ed. Addison-
+Wesley, 2002.
+
+Gorpon, W. B. On the diffeomorphisms of euclidean space. The American Mathe-
+matical Monthly 79, 7 (1972), 755-759.
+
+HAMILTON, W. R. On a general method of expressing the paths of light, and of the
+planets, by the coefficients of a characteristic function. Philosophical Transactions of
+the Royal Society of London (1833).
+
+HAnpb, L. N., AND Fincu, J. D. Analytical Mechanics. Cambridge University Press,
+Cambridge, UK, 1998.
+
+HEISENBERG, W. Uber quantentheoretische umdeutung kinematischer und mecha-
+nischer beziehungen. Zeitschrift ftir Physik 33 (1925), 879-893.
+
+HEISENBERG, W. Das Naturbild der heutigen Physik. Rowohlt, Hamburg, 1955.
+
+HEISENBERG, W. The actual content of quantum theoretical kinematics and me-
+chanics. Tech. Rep. NASA-TM-77379, NASA Technical Memorandum, 1983.
+
+Ill, H. E. The Many-Worlds Interpretation of Quantum Mechanics. Princeton
+University, 1957. PhD Thesis.
+
+Ip, P. H. The mystery behind schrédinger’s first communication: A non-historical
+study on the variational approach and its implications. PhilSci Archive (2013). Ac-
+cessed: 2025-02-28.
+
+48
+
+--- Page 49 ---
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+46
+
+AT
+
+48
+
+49
+
+JAMMER, M. The Conceptual Development of Quantum Mechanics, 2nd ed., repr. ed.
+Tomash Publishers and American Institute of Physics, 1989. First published 1966 by
+McGraw-Hill. Page references are to the 1989 edition.
+
+Joas, C., AND LEHNER, C. The classical roots of wave mechanics: Schrédinger’s
+transformation of the optical-mechanical analogy. Studies in History and Philosophy
+of Science Part B: Studies in History and Philosophy of Modern Physics 38, 4 (2007),
+768-781.
+
+KAMERLINGH ONNES, H., AND EHRENFEST, P. Simplified deduction of the formula
+from the theory of combinations which planck uses as the basis of his radiation theory.
+Proceedings of the Royal Netherlands Academy of Arts and Sciences (KNAW) 17, II
+(1914), 870-873.
+
+KENNARD, E. H. Zur quantenmechanik einfacher bewegungstypen. Zeitschrift fiir
+Physik 44 (1927), 326-352.
+
+Kircunorr, G. Uber das verhiltnis zwischen dem emissionsvermégen und dem
+absorptionsvermégen der kérper fiir warme und licht. Annalen der Physik 185 (1860),
+275-301.
+
+LENARD, P. Uber die lichtelektrische wirkung. Annalen der Physik 8, 5 (1902),
+149-198.
+
+OunKITA, S., AND TsuKAMOTO, M. Simple proof of the global inverse function
+theorem via the hopf-rinow theorem. Proceedings of the Japan Academy, Series A,
+Mathematical Sciences 100, 3 (2024), 17 — 19.
+
+Pautt, W. Uber den einflu8 der geschwindigkeitsabhangigkeit der elektronenmasse
+auf den zeemaneffekt. Zeitschrift fiir Physik 31 (1925), 373-385.
+
+PLANCK, M. Ueber das gesetz der energieverteilung im normalspectrum. Annalen
+der Physik 4, 3 (1901), 553-563.
+
+PLANCK, M. La loi du rayonnement noir et ’hypothése des quantités Elémentaires
+d@action. In La théorie du rayonnement et les quanta: rapports et discussions de la
+réunion tenue 4 Bruxelles du 30 octobre au 3 novembre 1911 (Paris, 1912), Gauthier-
+Villars, pp. 93 — 114.
+
+Poincare, H. Sur la théorie des quanta. Journal de Physique Théorique et Appliquée
+2,1 (1912), 5 — 34.
+
+RAYLEIGH, L. Remarks upon the law of complete radiation. Philosophical Magazine
+49, 301 (1900), 539-540.
+
+RUTHERFORD, E. The scattering of a and { particles by matter and the structure
+of the atom. Philosophical Magazine 21, 125 (1911), 669-688.
+
+SCHRODINGER, E. Quantisierung als eigenwertproblem. dritte mitteilung. Annalen
+der Physik 80 (1926), 437-490.
+
+SCHRODINGER, E. Quantisierung als eigenwertproblem. erste mitteilung. Annalen
+der Physik 79 (1926), 361-376.
+
+49
+
+--- Page 50 ---
+SCHRODINGER, E. Quantisierung als eigenwertproblem. vierte mitteilung. Annalen
+der Physik 81 (1926), 109-139.
+
+SCHRODINGER, E. Quantisierung als eigenwertproblem. zweite mitteilung. Annalen
+der Physik 79 (1926), 489-527.
+
+ScuropINGER, E. An undulatory theory of the mechanics of atoms and molecules.
+Physical Review 28 (1926), 1049-1070.
+
+SOMMERFELD, A. Zur theorie der balmerschen serie. Sitzwngsberichte der Bay-
+erischen Akademie der Wissenschaften, Mathematisch-Physikalische Klasse (1915),
+425-458.
+
+SOMMERFELD, A. Atombau und Spektrallinien, 1st ed. Friedrich Vieweg und Sohn,
+Braunschweig, 1929. Accessed: 2025-02-28.
+
+VON NEUMANN, J. Mathematische Grundlagen der Quantenmechanik. Springer,
+1932.
+
+WIEN, W. Uber die energieverteilung im emissionsspectrum eines schwarzen k6rpers.
+Annalen der Physik 294, 8 (1896), 662-669.
+
+50

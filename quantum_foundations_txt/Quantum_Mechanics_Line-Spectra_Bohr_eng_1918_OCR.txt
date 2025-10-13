@@ -1,0 +1,2041 @@
+
+--- Page 1 ---
+N. Bohr, D. Kgl. Danske Vidensk. Selsk. Skrifter, Naturvidensk. og
+Mathem. Afd. 8. Raekke, IV.1, 1-3 1918
+
+ON THE QUANTUM THEORY OF LINE-SPECTRA.
+
+DEDICATED TO THE MEMORY OF MY VENERATED TEACHER
+PROFESSOR C. CHRISTIANSEN
+October 9, 1843 November 28, 1917
+
+N. Bohr,
+Dr. phil. Copenhagen
+(Received 1918)
+
+Introduction
+
+In an attempt to develop certain outlines of a theory of line-spectra based
+on a suitable application of the fundamental ideas introduced by Planck in
+his theory of temperature-radiation to the theory of the nucleus atom of
+Sir Ernest Rutherford, the writer has has shown that it is possible in this
+way to obtain a sample interpretation of some of the main laws governing
+the line-spectra of the elements, and especially to obtain a deduction of
+the well known Balmer formula for the hydrogen spectrum!. The theory in
+the form given allowed of a detailed discussion only in the case of periodic
+systems, and obviously was not able to account in detail for the characteristic
+difference between the hydrogen spectrum and the spectra of other elements,
+or for the characteristic effects on the hydrogen spectrum of external electric
+
+1N Bohr, Phil. Mag. 26 (1913) 1, 476, 857; 27 (1914) 506; 29 (1915) 332; 30 (1915)
+304.
+
+
+--- Page 2 ---
+and magnetic fields. Recently, however, a way out of this difficulty has been
+opened by Sommerfeld? who, by introducing a suitable
+
+Editor’s note. This paper is the Introduction and Part I (pp. 1-36)
+of the paper On the Quantum Theory of Line-spectra, which was first
+published (1918-1922) in the Memoires de I’Academie Royale des Sci-
+ences et des Letters de Danemark, Copenhague, Section des Sciences,
+8me serie t. IV, n° 1, fasc. 1-3 (D. Kgl. Danske Vidensk. Selsk.
+Skrifter, Naturvidensk. og Mathem. Afd. 8. Rekke, IV.1, 1-3). The
+Introduction was signed ‘Copenhagen, November 1917’. The titles of
+
+Parts II and III, which are not reproduced here, are respectively on
+the hydrogen spectrum and On the spectra elements of higher atomic
+number.
+
+generalisation of the theory to a simple type of non—periodic motions and
+by taking the small variation of the mass of the electron with its velocity
+into account, obtained an explanation of the line-structure of the hydrogen
+ines which was found to be in brilliant conformity with the measurements.
+Already in his first paper on this subject, Sommerfeld pointed out that his
+heory evidently offered a clue to the interpretation of the more intricate
+structure of the spectra of other elements. Briefly afterwards Epstein? and
+Schwarzschild* independent of each other, by adapting Sommerfeld’s ideas
+o the treatment of a more extended class of non—periodic systems obtained
+a detailed explanation of the characteristic effect of an electric field on the
+hydrogen spectrum discovered by Stark, Subsequently Sommerfeld® himself
+and Debye® have on the same lines indicated an interpretation of the effect
+of a magnetic field on the hydrogen spectrum which, although no complete
+explanation of the observations was obtained, undoubtedly represents an
+important step towards a detailed understanding of this phenomenon.
+
+In spite of the great progress involved in these investigations many dif-
+ficulties of fundamental nature remained unsolved, not only as regards the
+limited applicability of the methods used in calculating the frequencies of
+the spectrum of a given system, but especially as regards the question of the
+
+2A. Sommerfeld, Ber. Akad. Miinchen. 1915, pp. 425, 459; 1916, p. 131; 1917, p. 83.
+Ann. d. Phys. 51 (1916) 1.
+
+’P. Epstein, Phys. Zeitschr. 17 (1916) 148; Ann. d. Phys. 50 (1916) 489; 51 (1916)
+168.
+
+4K. Schwarzschild, Ber. Akad. Berlin (1916) 548.
+
+°A. Sommerfeld, Phys. Zeitschr. 17 (1916) 491.
+
+®P. Debye, Nachr. K. Ges. d. Wiss. Gottingen, 1916; Phys. Zeitschr. 17 (1916) 507.
+
+
+--- Page 3 ---
+polarization and and intensity of the emitted spectral lines. These difficul-
+ies are intimately connected with the radical departure from the ordinary
+ideas of mechanics and electrodynamics involved in the main principles of
+he quantum theory, and with the fact that it has not been possible hitherto
+o replace these ideas by others forming an equally consistent and developed
+structure. Also in this respect, however, great progress has recently been ob-
+ained by the work of Einstein’ and Ehrenfest®. On this state of the theory
+it might therefore be of interest to make an attempt to discuss the different
+applications from a uniform point of view, and especially to consider the
+underlying assumptions in their relations to ordinary mechanics and elec-
+rodynamics. Such an attempt has been made in the present paper, and it
+will be shown that it seems possible to throw some light on the outstanding
+difficulties by trying to trace the analogy between the quantum theory and
+he ordinary theory of radiation as closely as possible.
+The paper is divided into four parts.
+
+Part I contains a brief discussion of the general principles of the theory and deals
+Part II with the application of the general theory to periodic systems of one degree
+Rart II of freedom and to the class of non—periodic systems referred to above.
+Part IV
+
+contains a detailed discussion of the theory of the hydrogen spectrum in
+order to illustrate the general considerations.
+
+contains a discussion of the questions arising in connection with the expla-
+nation of the spectra of other elements.
+
+contains a general discussion of the theory of the constitution of atoms and
+
+molecules based on the application of the quantum theory to the nucleus
+atom.
+
+Copenhagen, November 1917.
+
+7A. Einstein, Verh. d. D. phys. Ges. 18 (1916) 318; Phys. Zeitschr. 18 (1917) 121.
+SP. Ehrenfest, Proc. Acad. Amsterdam 16 (1914) 591; Phys. Zeitschr. 15 (1914) 657;
+Ann. d. Phys. 51 (1916) 327; Phil. Mag. 33 (1917) 500.
+
+
+--- Page 4 ---
+PART I. ON THE GENERAL THEORY
+
+1. General principles
+
+The quantum theory of line-spectra rests upon the following fundamental
+assumptions:
+
+e I. That an atomic system can, and can only, exist permanently in a
+certain series of states corresponding to a discontinuous series of val-
+ues for its energy, and that consequently any charge of the energy of
+the system, including emission and absorption of electromagnetic ra-
+diation, must take place a complete transition between two such states.
+These states will be denoted as the stationary states of the system.
+
+e II. That the radiation absorbed or emitted during a transition between
+two stationary states is ‘unifrequentic’ and possesses a frequency Vv,
+given by the relation
+
+E'=E" =hv, (1)
+
+Where h is Planck’s constant and where E" and E” are the values of
+
+the energy in the two states under consideration.
+
+As pointed out by the writer in the papers referred to in the introduc-
+tion, these assumptions offer an immediate interpretation of the fundamental
+principle of combination of spectral lines deduced from the measurements of
+the frequencies of the series spectra of the elements. according to the laws
+discovered by Balmer, Rydberg and Ritz, the frequencies of the lines of the
+series spectrum of an element can be expressed by a formula of the type:
+
+v= frr(n")~ fur(n’), (2)
+
+where n’ and n” are whole numbers and f,(n) is one among a set of func-
+tions of n, characteristic for the element under consideration. On the above
+assumptions this formula may obviously be interpretated by assuming that
+the stationary states of an atom of an element form a set of series, and that
+the energy in the nth state of the rth series, omitting an arbitrary constant,
+is given by
+
+E,(n) = —hf,-(n). (3)
+
+We thus see that the values for the energy in the stationary states of an
+atom may be obtained directly from the measurements of the spectrum by
+
+
+--- Page 5 ---
+means of relation (1). In order, however, to obtain a theoretical connection
+between these values and the experimental evidence about the constitution
+of the atom obtained from other sources, it is necessary to introduce further
+assumptions about the laws which govern the stationary states of a given
+atomic system and the transitions between these states.
+
+Now on the basis of a vast amount of experimental evidence, we are
+forced to assume that an atom or molecule consists of a number of elec-
+trified particles in motion, and, since the above fundamental assumptions
+imply that no emission of radiation takes place in the stationary states, we
+must consequently assume that the ordinary laws of electrodynamics cannot
+be applied to these states without radical alterations. In many cases, how-
+ever, the effect of that part of the electrodynamical forces which is connected
+with the emission of radiation will at any moment be very small in compar-
+ison with the effect of the simple electrostatic attractions or repulsions of
+the charged particles corresponding to Coulomb’s law. Even if the theory of
+radiation must be completely altered, it is therefore a natural assumption
+that it is possible in such cases to obtain a close approximation in the de-
+scription of the motion in the stationary states, by retaining only the latter
+forces. In the following we shall therefore, as in all the papers mentioned
+in the introduction, for the present calculate the motions of the particles in
+the stationary states as the motions of mass— points according to ordinary
+mechanics including the modifications claimed by the theory of relativity,
+and we shall later in the discussion of the special applications come back to
+the question of the degree of approximation which may be obtained in this
+way.
+If next we consider a transition between two stationary states, it is ob-
+vious at once from the essential discontinuity, involved in the assumptions
+I and II, that in general it is impossible even approximately to describe
+his phenomenon by means of ordinary mechanics or to calculate the fre-
+quency of the radiation absorbed or emitted by such a process by means
+of ordinary electrodynamics. On the other hand, from the fact that it has
+been possible by means of ordinary mechanics and electrodynamics to ac-
+count for the phenomenon of temperature-radiation in the limiting region
+of slow vibrations, we may expect that any theory capable to describing
+his phenomenon in accordance with observations will form some sort of
+natural generalisation of the ordinary theory of radiation. Now the theory
+of temperature-radiation in the form originally given by Planck confessedly
+acked internal consistency, since, in the deduction of his radiation formula,
+assumptions of similar character as I and II were used in connection with
+assumptions which were in obvious contrast to them. Quite recently, how-
+
+
+--- Page 6 ---
+ever, Einstein? has succeeded, on the basis of the assumptions I and II, to
+give a consistent and instructive deduction of Planck’s formula by introduc-
+ing certain supplementary assumptions about the probability of transition
+of a system between two stationary states and about the manner in which
+his probability depends on the density of radiation of the corresponding
+requency in the surrounding space, suggested from analogy with the or-
+dinary theory of radiation. Einstein compares the emission or absorption
+of radiation of frequency v corresponding to a transition between two sta-
+ionary states with the emission or absorption to be expected on ordinary
+electrodynamics for a system consisting of a particle executing harmonic
+vibrations of this frequency. In analogy with the fact that on the latter
+heory such a system will without external excitation emit a radiation of
+requency v, Einstein assumes in the first place that on the quantum theory
+here will be a certain probability At dt that the system in the stationary
+state of greater energy, characterised by the letter n’, in the time interval
+dt will start spontaneously to pass to the stationary state of smaller energy,
+characterised by the letter n”. Moreover, on ordinary electrodynamics the
+harmonic vibrator will, in addition to the above mentioned independent
+emission, in the presence of a radiation of frequency v in the surrounding
+space, and dependent on the accidental phase—defference between this radi-
+ation and the vibrator, emit or absorb radiation—-energy. In analogy with
+his, Einstein assumes secondly that in the presence of a radiation in the
+surrounding space, the system will on the quantum theory, in addition to
+he above mentioned probability of spontaneous transition from the state n’
+o the state n”, possess a certain probability, depending on this radiation,
+of passing in the time dt from the state n’ to the state n”, as well as from
+he state n” to the state n’. These latter probabilities are assumed to be
+proportional to the intensity of the surrounding radiation and are denoted
+by ov BY, dt and ov BY dt respectively, where g,dv denotes the amount of
+radiation in unit volume of the surrounding space distributed on frequencies
+between v and v + dv, while Br, and Br are constants which, like An,
+depend only on the stationary states under consideration. Einstein does not
+introduce any detailed assumption as to the values of these constants, no
+more than to the conditions by which the different stationary states of a
+given system are determined or to the ‘a-priory probability’ of these states
+on which their relative occurrence in a distribution of statistical equilibrium
+depends. He shows, however, how it is possible from the above general
+assumptions of Boltzmann’s principle on the relation between entropy and
+
+°A. Einstein, loc. cit. [ [paper 1 and 1d]
+
+
+--- Page 7 ---
+probability and Wien’s well known displacement—law, to deduce a formula
+or the temperature radiation which apart from an undetermined constant
+actor coincides with Planck’s, if we only assume that the frequency cor-
+responding to the transition between the two states is determined by (1).
+If will therefore be seen that by reversing the line of argument, Einstein’s
+heory may be considered as a very direct support of the latter relation.
+
+In the following discussion of the application of the quantum theory to
+determine the line-spectrum of a given system, it will, just as in the theory of
+emperature-radiation, not be necessary to introduce detailed assumptions
+as to the mechanism of transition between two stationary states. We shall
+show, however, that the conditions which will be used to determine the
+values of the energy in the stationary states are of such a type that the
+requencies calculated by (1), in the limit where the motions in successive
+stationary states comparatively differ very little from each other, will tend
+0 coincide with the frequencies to be expected on the ordinary theory of
+radiation from the motion of the system in the stationary states. In order
+o obtain the necessary relation to the ordinary theory of radiation in the
+imit of slow vibrations, we are therefore led directly to certain conclusions
+about the probability of transition between two stationary states in this
+imit. This leads again to certain general considerations about connection
+between the probability of a transition between any two stationary states
+and the motion of the system in these states, which will be shown to throw
+ight on the question of the polarisation and intensity of the different lines
+of the spectrum of a given system.
+
+In the above considerations we have by an atomic system tacitly under-
+stood a number of electrified particles which move in a field of force which,
+with approximation mentioned, possesses a potential depending only on the
+position of the particles. This may more accurately be denoted as a system
+under constant external conditions, and the question next arises about the
+variation in the stationary states which may be expected to take place during
+a variation of the external conditions, e.g. when exposing the atomic system
+to some variable external field to force. Now, in general, we must obviously
+assume that this variation cannot be calculated by ordinary mechanics, no
+more than the transition between two different stationary states correspond-
+ing to constant external conditions. If, however, the variation of the external
+conditions is very slow, we may from the necessary stability of the stationary
+states expect that the motion of the system at any given moment during
+the variation will differ only very little from the motion in a stationary state
+corresponding to the instantaneous external conditions. If now, moreover,
+the variation is performed at a constant or very slowly changing rate, the
+
+
+--- Page 8 ---
+forces to which the particles of the system will be exposed will not differ at
+any moment from those to which they would be exposed if we imagine that
+the external forces arise from a number of slowly moving additional particles
+which together with the original system form a system in a stationary state.
+From this point of view it seems therefore natural to assume that, with the
+approximation mentioned, the motion of an atomic system in the stationary
+states can be calculated direct application of ordinary mechanics, not only
+under constant external conditions, but in general also during a slow and
+uniform variation of these conditions. This assumption, which may be de-
+noted as the principle of the ‘mechanical transformability’ of the stationary
+states, has been introduced in the quantum theory by Ehrenfest!° and is, as
+it will be seen in the following sections, of great importance in the discussion
+of the conditions to be used to fix the stationary states of an atomic system
+among the continuous multitude of mechanically possible motions. In this
+connection it may be pointed out that the principle of the mechanical trans-
+formability of the stationary states allows us to overcome a fundamental
+difficulty which at sight would seem to be involved in the definition of the
+energy difference between two stationary states which enters in relation (1).
+In fact we have assumed that the direct transition between two such states
+cannot be described by ordinary mechanics, while on the other hand we pos-
+sess no means of defining an energy difference between two states if there
+exists no possibility for a continuous mechanical connection between them.
+It is clear, however, that such a connection is just afforded by Ehrenfest’s
+principle which allows us to transform mechanically the stationary states of
+a given system into those of another, because for the latter system we may
+ake one in which the forces which act on the particles are very small and
+where we may assume that the values of the energy in all the stationary
+states will tend to coincide.
+
+As regards the problem of the statistical distribution of the different sta-
+ionary states between a great number of atomic systems of the same kind
+in temperature equilibrium, the number of systems present in the different
+states may be deduced in the well known way from Boltzmann’s fundamen-
+al relation between entropy and probability, if we know the values of the
+energy in these states and the a-priori probability to be ascribed to each state
+in the calculation of the probability of the whole distribution. In contrast
+
+10p. Ehrenfest, loc.cit. In these papers the principle in question is called the adiabatic
+hypothesis in accordance with the line of argumentation followed by Ehrenfest in which
+considerations of thermodynamical problems play an important part. From the point of
+
+view taken in the present paper, however, the above notation might in a more direct way
+indicate the content of the principle and the limits of its applicability.
+
+
+--- Page 9 ---
+considerations of ordinary statistical mechanics we possess on the quantum
+theory no direct of determining these a-priori probabilities, because we have
+no detailed information about the mechanism of transition between the dif-
+ferent stationary states. If the a-priori probabilities are known for the states
+of a given atomic system, however, they may be deduced for any other sys-
+tem which can be formed from this by a continuous transformation without
+passing through one of the singular systems referred to below. In fact, in
+examining the necessary conditions for the explanation of the second law
+of thermodynamics Ehrenfest!! has deduced a certain general condition as
+regards the variation of the a-priori probability corresponding to a small
+change of the external conditions from which it follows, that the a- priori
+probability of a given stationary state of an atomic system must remain un-
+altered during a continuous transformation, except in special cases in which
+the values of the energy in some of the stationary states will tend to coincide
+during the transformation. In this result we possess, as we shall see, a ra-
+tional basis for the determination of the a-priori probability of the different
+
+stationary states of a given atomic system.
+
+2. System of one degree of freedom
+
+As the simplest illustration of the principles discussed in the former section
+we shall begin by considering systems of a single degree of freedom, in which
+case it has been possible to establish a general theory of stationary states.
+This is due to the fact, that the motion will be simply periodic, provided the
+distance between the parts of the system will not increase infinitely with
+the time, a case which for obvious reasons cannot represent a stationary
+state in the sense defined above. On account of this, the discussion of the
+mechanical transformability of the stationary states can, as pointed out by
+Ehrenfest!? for systems of one degree of freedom be based on a mechanical
+theorem about periodic systems due to Boltzmann and originally applied by
+this author in a discussion of the bearing of mechanics on the explanation
+of the laws of thermodynamics. For the sake of the considerations in the
+following sections it will be convenient here to give the proof in a form which
+differs slightly from that given by Ehrenfest, and which takes also regard to
+
+"1p. Ehresfest, Phys. Zeitschr. 15 (1914) 660. The above interpretation of this relation
+is not states explicitly by Ehrenfest, but it presents itself directly if the quantum theory
+is taken in the form corresponding to the fundamental assumption I.
+
+”P Ehrenfest, loc.cit. Proc. Acad. Amsterdam (1914) 591.
+
+
+--- Page 10 ---
+the modifications in the ordinary laws of mechanics claimed by the theory
+of relativity.
+
+Consider for the sake of generality a conservative mechanical system of s
+degrees of freedom, the motion of which is governed by Hamilton’s equations:
+
+dpx OE dqr OE
+dt Ogn’? dt — Oy,’
+
+where F is the total energy considered as a function of the generalised po-
+sitional coodinates qi,...qs and the corresponding canonically conjugated
+momenta p),...ps. If the velocities are so small that the variation in the
+mass of the particles due to their velocities can be neglected, the p’s are
+defined in the usual way by
+
+(k =1,...s) (4)
+
+oT
+
+Oa (k =1,...8)
+
+Pk
+where T is the kinetic energy of the system considered as a function of the
+generalised velocities q1,...ds(qx% = dq,/dt) and of q1,...qs. If the relativity
+modifications are taken into account the p’s are defined by a similar set of
+expressions in which the kinetic energy is replaced by T’ = Smgc? - (1 —
+V1 —v?/c?), where the summation is to be extended over all the particles
+of the system, and v is the velocity of one of the particles and mg its mass
+for zero velocity, while c is the velocity of light.
+
+Let us now assume that the system performs a periodic motion with the
+period a, and let us form the expression
+
+I= [ X pei at (5)
+1
+
+0
+
+which is easily seen to be independent of the special choice of coordinates
+q1,---Qs used to describe the motion of the system. In fact, if the variation
+of the mass with the velocity is neglected we get
+
+o
+[T=2 | T dt,
+0
+
+and if the relativity modifications are included, we get a quite analogous in
+
+which the kinetic energy is replaced by T” = ¥ dmov?/y/ 1—v?/e?.
+Consider next some new periodic motion of the system formed by a small
+
+variation of the first motion, but which may need the presence of external
+
+10
+
+
+--- Page 11 ---
+forces in order to be a mechanically possible motion. For the variation in I
+we get then
+
+s
+
+° s
+51 = [> (in: 5- n+ De Si) dt+| >> pr- dxdt |G,
+4 1 T
+
+where the last term refers to the variation of the limit of the integral due to
+the variation in the period o. By partial integration of the second term in
+the bracket under integral we get next
+
+s
+
+sr= | S> (de Spe — Pe bq) dt+ | S2 pe (du 5t + 54x) |B,
+0 1 1
+
+where the last term is seen to be zero, because the term in the bracket as
+well as p, will be the same in both limits, since the varied motion as well
+as the original motion is assumed to be periodic. By means of equations (4)
+we get therefore
+
+7 Sy (OE aE ;
+61 6-pp t+ ——-5-q,) at= | 6B dt. 6
+[&( Pk uk an) i (6)
+
+Opr tT]
+
+Let us now assume that the small variation of the motion is produced by
+a small external field established at a uniform rate during a time interval V,
+long compared with o, so that the comparative increase during a period is
+very small. In this case 6F is at any moment equal to the total work done by
+the external forces on the particles of the system since the beginning of the
+establishment of the field. Let this moment be t = —¥V and let the potential
+of the external field at t > 0 be given by Q, expressed as a function of the
+q’s. at any given moment t > 0 we have then
+
+0 t
+- 0+t Q AQ 5. an
+OE | : - dp dt | dy dt,
+
+which gives by partial integration
+
+6E=
+
+Slr
+
+0
+[ 4-9,
+a)
+
+where the values for the q’s to be introduced in (Q in the first term are
+those corresponding to the motion under the influence of the increasing
+
+11
+
+
+--- Page 12 ---
+external field, and the values to be introduced in the second term are those
+corresponding to the configuration at the time t. neglecting small quantities
+of the same order as the square of the external force, however, we may in
+this expression for dE instead of the values for the q’s corresponding to the
+perturbed motion take those corresponding to the original motion of the
+system. With this approximation the first term is equal to the mean value
+of the second taken over a period 0, and we have consequently
+
+| dE dt =0. (7)
+0
+
+From (6) and (7) it follows that I will remain constant during the slow
+establishment of the small external field, if the motion corresponding to a
+constant value of the field is periodic. If next the external field corresponding
+to 2 is considered as an inherent part of the system, it will be seen in the
+same way that J will remain unaltered during the establishment of a new
+small external field, and so on. Consequently I will be invariant for any
+finite transformation of the system which is sufficiently slowly performed,
+provided the motion at any moment during the process is periodic and the
+effect of the variation is calculated on ordinary mechanics.
+
+Before we proceed to the applications of this result we shall mention
+a simple consequence of (6) for systems for which every orbit is periodic
+independent of the initial conditions. In that case we may for the varied
+motion take an undisturbed motion of the system corresponding to slightly
+different initial conditions. This gives 6E constant, and from (6) we get
+therefore
+bE =w-6-I, (8)
+
+where w = 1/a is the frequency of the motion. This equation forms a simple
+relation between the variations in F and J for periodic systems, which will
+be often used in the following.
+
+Returning now to systems of one degree of freedom, we shall take our
+starting point from Planck’s original theory of a linear harmonic vibrator.
+according to this theory the stationary states of a system, consisting of a
+particle executing linear harmonic vibrations with a constant frequency wo
+independent of the energy, are given by the well known relation
+
+E=n-h-wo, (9)
+
+where n is a positive entire number, h Planck’s constant, and E the total
+energy which is supposed to be zero if the particle is at rest.
+
+12
+
+
+--- Page 13 ---
+From (8) it follows at once, that (9) is equivalent to
+
+o
+I [ dt [ve nh, (10)
+0
+
+where the latter integral is to be taken over a complete oscillation of q
+between its limits. On the principle of the mechanical transformability of
+the stationary states we shall therefore assume, following Ehrenfest, that
+(10) holds not only for a Planck’s vibrator but for any periodic system of
+one degree of freedom which can be formed in a continuous manner from a
+linear harmonic vibrator by a gradual variation of the field of force in which
+the particle moves. This condition is immediately seen to be fulfilled by
+all such systems in which the motion is of oscillating type i.e. where the
+moving particle during a period passes twice through any point of its orbit
+once in each direction. If, however, we confine ourselves to systems of one
+degree of freedom, it will be seen that system in which the motion is of
+rotating type, i. e. where the particle during a period passes only through
+every point of its orbit, cannot be formed in a continuous manner from a
+linear harmonic vibrator without passing through singular states in which
+the period becomes infinite long and the result becomes ambiguous . We
+shall not here enter more closely on this difficulty which has been pointed
+out by Ehrenfest, because it disappears when we consider systems of several
+degrees of freedom, where we shall see that a simple generalisation of holds
+for any system for which every motion is periodic.
+
+As regards the application of (9) to statistical problems it was assumed
+in Planck’s theory that the different states of the vibrator corresponding to
+different values of n are a-priori equally probable, and this assumption was
+strongly supported by the agreement obtained on this basis with the mea-
+surements of the specific heat of solids at low temperatures. Now it follows
+from the considerations of Ehrenfest, mentioned in the former section, tha
+the a-priori probability of a given stationary state is not changed by a con-
+tinuous transformation, and we shall therefore expect that for any system o:
+one degree of freedom the different corresponding to different entire values
+of n in ( 10) are a-priori equally probable.
+
+As pointed out by Planck in connection with the application of (9), it is
+simply seen that statistical considerations, based on the assumption of equa
+probability for the different states given by (10), will show the necessary rela-
+tion to considerations of ordinary statistical mechanics in the limit where the
+latter theory has been found to give results in agreement with experiments.
+Let the configuration and motion of a mechanical system be characterised
+
+13
+
+
+--- Page 14 ---
+by s independent variables qi,...qs and corresponding momenta p,... Ds,
+and let the state of the system be represent in a 2s—dimensional phase-space
+by a point with coordinates q1,...qs, P1,---Ps- Then, according to ordinary
+statistical mechanics, the probability for this point to lie within a small el-
+ement in the phase-space is independent of the position and shape of this
+element and simply proportional to its volume, defined in the usual way by
+
+BW = fo dagy...das dr -.-dDs. (11)
+
+In the quantum theory, however, these considerations cannot be directly
+applied, since the point representing the state of a system cannot be dis-
+placed continuously in the 2s—dimensional phase-space, but can lie only on
+certain surfaces of lower dimensions in this space. For systems of one degree
+of freedom the phase-space is a two dimensional surface, and the points rep-
+resenting the states of some system given by (10) will be situated on closed
+curves on this surface. Now, in general, the motion will differ considerably
+for any two states corresponding to successive entire values of n in (10), and
+a simple general connection between the quantum theory and ordinary sta-
+tistical mechanics is therefore out of question. In the limit, however, where
+n is large, the motions in successive states will only differ very little from
+each other, and it would therefore make little difference whether the points
+representing the systems are distributed continuously on the phase-surface
+or situated only on the curves corresponding to (10), provided the number
+of systems which in the first case are situated between two such curves is
+equal to the number which in the second case lies on one of these curves.
+But it will be seen that this condition is just fulfilled in consequence of
+the above hypothesis of equal a-priori probability of the different station-
+ary states, because the element of phase-surface limited by two successive
+curves corresponding to (10) is equal to
+
+OW [ew dq [fp dq|n [fp dq|n—1 = In — In-1 = h, (12)
+
+so that on ordinary statistical mechanics the probabilities for the point to
+lie within any two such elements is the same. We see consequently that the
+hypothesis of equal probability of the different states given by (10) gives
+the same result as ordinary statistical mechanics in all such applications in
+which the states of the great majority of the systems correspond to large
+values of n. Considerations of this kind have led Debye!? to point out that
+
+8P. Debye, Wolfskehl-Vortrag. Géttengen (1913).
+
+14
+
+
+--- Page 15 ---
+condition (10) might have a general validity for systems of one degree of
+reedom, already before Ehresfest, on the basis of his theory of the mechan-
+ical transformability of the stationary states, had shown that this condition
+orms the only rational generalisation of Planck’s condition (9).
+
+We shall now discuss the relation between the theory of spectra of atomic
+systems of one degree of freedom, based on (1) and (10), and the ordinary
+heory of radiation, and we shall see that this relation in several respects
+shows a close analogy to the relation, just considered, between the statis-
+ical applications of (10) and considerations based on ordinary statistical
+mechanics. Since the values for the frequency w in two states corresponding
+o different values of n in (10) in general are different, we see at once that
+we cannot expect a simple connection between the frequency by (1) of the
+radiation corresponding to a transition between two stationary states and
+he motions of the system in these states, except in the limit where n is
+very large, and where the ratio between the frequencies of the motion in
+successive stationary states differs very little from unity. Consider now a
+ransition between the state corresponding to n = n’ and the state corre-
+sponding to n = n”, and let us assume that n’ and n” are large numbers
+and that n’ — n” is small compared with n’ and n”. In that case we may
+in (8) for 6£ put E’ — E” and for 61 put I’ — I”, we get therefore from (1)
+and ( 10) for the frequency of the radiation emitted or absorbed during the
+transition between the two states
+
+1 w
+Vv . E’ E"’
+h ( ) h
+Now in a stationary state of a periodic system the displacement of the
+particles in any given direction may always be expressed by means of a
+
+Fourier-series as a sum of harmonic vibrations:
+
+-('- I") =(n'—n")-w. (13)
+
+€=UC;, cos 2n-(r-w-t+c,), (14)
+
+where the C’s and c’s are constants and the summation is to be extended
+over all positive entire values of 7. On the ordinary theory of radiation we
+should therefore expect the system to emit a spectrum consisting of a series
+of lines of frequencies equal to Tw, but as it is seen, this is just equal to
+the series of frequencies which we obtain from (13) by introducing different
+values for n’—n". As far as the frequencies are concerned we see therefore
+that in the limit where n is large there exists a close relation between the
+ordinary theory of radiation and the theory spectra based on (1) and (10).
+It may be noticed, however, that, while on the first theory radiations of the
+different frequencies Tw corresponding to different values of + are emitted
+
+15
+
+
+--- Page 16 ---
+or absorbed at the same time, these frequencies will on the present theory,
+based on the fundamental assumption I and II, be connected with entirely
+different processes of emission or absorption corresponding to the transition
+of the system from a given state to different neighbouring stationary states.
+
+In order to obtain the necessary connection, mentioned in the former
+section, to the ordinary theory of radiation in the limit of slow vibrations,
+we must further claim that a relation, as that just proved for the frequencies,
+will, in the limit of large n, hold also for the intensities of the different lines
+in the spectrum. Since now on ordinary electrodynamics the intensities of
+the radiations corresponding to different values of 7 are directly determined
+from the coefficients C; in (14), we must therefore expect that for large
+values of n these coefficients will on the quantum theory determine the
+probability of spontaneous transition from a given stationary state for which
+n = n' to a neighbouring state for which n = n” = n’— 7. Now, this
+connection between the amplitudes of the different harmonic vibrations into
+which the motion can be resolved, characterised by different values of 7, and
+the probabilities of transition from a given stationary state to the different
+neighbouring stationary states, characterized by different values of n’ — n”,
+may clearly be expected to be of a general nature. Although, of course, we
+cannot without a detailed theory of the mechanism of transition obtain an
+exact calculation of the latter probabilities, unless n is large, we may expect
+hat also for small values of n the amplitude of the harmonic vibrations
+corresponding to a given value of 7 will in some way give a measure for the
+probability of a transition between two states for which n’—n” is equal to T.
+Thus in general there will be a certain probability of an atomic system in a
+stationary state to pass spontaneously to any other state of smaller energy,
+but if for all motions of a given system the coefficients C in (14) are zero for
+certain values of 7, we are led to expect that no transition will be possible,
+or which n’ — n” is equal to one of these values.
+
+A simple illustration of these considerations is offered by the linear har-
+monic vibrator mentioned above in connection with Planck’s theory. Since
+in this case C is equal to zero for any 7 different from 1, we shall expect
+hat for this system only such transitions are possible in which n alters by
+one unit. From (1) and (9) we obtain therefore the simple result that the
+requency of any radiation emitted or absorbed by a linear harmonic is equal
+o the constant frequency wo. This result seems to be supported by obser-
+vations on the absorption-spectra of diatomic gases, showing that certain
+strong absorption—lines, which according to general evidence may be as-
+cribed to vibrations of the two atoms in the molecule relative to each other,
+are not accompanied by lines of the same order of intensity and correspond-
+
+16
+
+
+--- Page 17 ---
+ing to entire multipla of the frequency, such as it should be expected from (1)
+if the system had any considerable tendency to pass between non-successive
+states. In this connection it may be noted that the fact, that in the ab-
+sorption spectra of some diatomic gases faint lines occur corresponding to
+the double frequency of the main lines!4 obtains a natural explanation by
+assuming that for finite amplitudes the vibrations are not exactly harmonic
+and that therefore the molecules possess a small probability of passing also
+between non-successivestates.
+
+3. Conditionally periodic systems
+
+If we consider systems of several degrees of freedom the motion will be peri-
+odic only in singular cases and the general conditions which determine the
+stationary states cannot therefore be derived by means of the same simple
+kind of considerations as in the former section. As mentioned in the intro-
+duction, however, Sommerfeld and others have recently succeeded, by means
+of a suitable generalisation of (10), to obtain conditions for an important
+class of systems of several degrees of freedom, which, in connection with (1),
+have been found to give results in convincing agreement with experimental
+results about line-spectra. Subsequently these conditions have been proved
+by Ehrenfest and especially Burgers! to be invariant for slow mechanical
+transformations.
+
+To the generalisation under consideration we are naturally led; if we first
+consider such systems for which the motions corresponding to the different
+degrees of freedom are dynamically independent of each other. This occurs
+if the expression for the total energy E in Hamilton’s equations (4) for a
+system of s degrees of freedom can be written as a sum £)+...Es, where Ex,
+contains q, and pz only. An illustration of a system of this kind is presented
+by a particle moving in a field of force in which the force-components normal
+to three mutually perpendicular fixed planes are functions of the distances
+from these planes respectively. Since in such a case the motion corresponding
+to each degree of freedom in general will be periodic, just as for a system of
+one degree of freedom, we may obviously expect that the condition ( 10) is
+
+MSee E.C. Kemble, Phys. Rev. 8 (1916) 701.
+15J.M. Burgers, Versl. Akad. Amsterdam 25 (1917) 849, 918, 1055; Ann. d. Phys. 52
+(1917) 195; Phil. Mag. 33 (1917) 514.
+
+17
+
+
+--- Page 18 ---
+here replaced by a set of s conditions:
+I= [pede =my-h, (k= 1,..-3) (15)
+
+where the integrals are taken over a complete period of the different q’s
+respectively, and where nj,...ms5 are entire numbers. It will be seen at once
+that these conditions are invariant for any slow transformation of the system
+for which the independency of the motions corresponding to the different
+coordinates is maintained.
+
+A more general class of systems for which a similar analogy with systems
+of a single degree of freedom exists and where conditions of the same type as
+(15) present themselves is obtained in the case where, although the motions
+corresponding to the different degrees of freedom are not independent of
+each other, it is possible nevertheless by a suitable choice of coordinates
+o express each of the momenta pz as a function of gq, only. A simple of
+his kind consists of a particle moving in a plane orbit in a central field of
+orce. Taking the length of the radius—vector from the centre of the field
+o the particle as qi, and the angular distance of this radius—vector from
+he centre of the field to the particle as q;, and the angular distance of this
+radius—vector from a fixed line in the plane of the orbit as qo, we get at once
+rom (4), since E does not constant q2, the well known result that during the
+motion the angular momentum p2 is constant and that the radial motion,
+given by the variation of p; and q with the time, will be exactly the same
+as for a system of one degree of freedom. In his fundamental application of
+he quantum theory to the spectrum of a non—periodic system Sommerfeld
+assumed therefore that the stationary states of the above system are given
+by two conditions of the form:
+
+n= | md =m-h, In= [ps dag =ng-h. (16)
+
+While the first integral obviously must be taken over a period of the
+radial motion, there might at first sight seem to be a difficulty in fixing the
+limits of integration of q. This disappears, however, if we notice that an
+integral of the type under consideration will not be altered by a change of
+coordinates in which q is replaces by some function of this variable. In fact,
+if instead of the angular distance of the radius—vector we take for gq. some
+continuous periodic function of this angle with period 27, every point in the
+plane of the orbit will correspond to one set of coordinates only and the
+relation between p and q will be exactly of the same type as for a periodic
+system of one degree of freedom for which the motion is of oscillating type.
+
+18
+
+
+--- Page 19 ---
+It follows therefore that the integration in the second of the conditions (16)
+has to be taken over a complete revolution of the radius—vector, and that
+consequently this condition is equivalent with the simple condition that the
+angular momentum of the particle round the centre of the field is equal to
+an entire multiplum of h/27. As pointed out by Ehrenfest, the conditions
+(16) are invariant for such special transformations of the system for which
+the central symmetry is maintained. This following immediately from the
+fact that the angular momentum in transformations of this type remains
+invariant, and that the equations of motion for the radial coordinate as long
+as po remains constant are the same as for a system of one degree of freedom.
+On the basis of (16), Sommerfeld has, as mentioned in the introduction,
+obtained a brilliant explanation of the fine structure of the lines in the
+hydrogen spectrum, due to the change of the mass of the electron with
+its velocity.!° To this theory we shall come back in Part II. As pointed by
+Epstein!” and Schwarzschild!® the central systems considered by Sommerfeld
+orm a special case of a more general class of systems for which conditions of
+he same type as (15) may be applied. These are the socalled conditionally
+periodic systems, to which we are led if the equations of motion are discussed
+by means of the Hamilton-Jacobi partial differential equation.19 In the
+expression for the total energy EF as a function of the q’s and the p’s, let the
+atter quantities be replaced by the partial differential coefficients of some
+unction S with respect to the corresponding q’s respectively, and consider
+he partial differential equation:
+
+os os
+E. wee see J =a 17
+(a. Ws Bq? a) Ly (17)
+
+'®Tn this connection it may be remarked that conditions of the type as (16) were proposed
+independently by W. Wilson [Phil. Mag. 29 (1915) 795 and 31 (1916) 156] but by him
+applied only to the simple Keplerian motion described by the electron in the hydrogen
+atom if the relativity modifications are neglected. Due to the singular position of periodic
+systems in the quantum theory of systems of several degrees of freedom this application,
+however, involves, as it will appear from the following discussion, an ambiguity which
+deprives the result of an immediate physical interpretation. Conditions analogous to (16)
+have also been established by Planck in his interesting theory of the physical structure of
+the phase space of systems of several degrees of freedom [Verh. d. D. Phys. Ges. 17 (1915)
+407 and 438; Ann. d. Phys. 50 (1916) 385]. This theory, which has no direct relation to
+the problem of line-spectra discussion in the present paper, rests upon a profound analysis
+of the geometrical problem of dividing the multiple-dimensional space corresponding to a
+system of several degrees of freedom into ‘cells’ in a way analogous to the division of the
+phase surface of a system of one degree of freedom by the curves given by (10).
+
+17P. Epstein, loc. cit.
+
+18K. Schwarzschild, loc. cit.
+
+See f. inst. C.V.L. Charlier, Die Mechanik des Himmels, Bd. I, Abt. 2.
+
+19
+
+
+--- Page 20 ---
+obtained by putting this expression equal to an arbitrary constant ay.
+If then
+S=F-(q,---Gs, Q1,---As) +O,
+
+where ayj,...a@s and C are arbitrary constants like a1, is a total integral of
+(17), we get, as shown by Hamilton and Jacobi, the general solution of the
+equations of motion (4) by putting
+
+OS Http, Pam,  (k=2,...5) 18)
+day Oa,
+and as
+=— =p, (k=1,...8) 19)
+O”k
+
+where t is the time and (1,... (Gs a new set of arbitrary constants. By means
+of (18) the q’s are given as functions of the time t and the 2s constants
+Q1,..-Q@s, 31,...@s which may be determined for instance from the values
+of the q’s and q’s at a given moment.
+
+Now the class of systems, referred to, is that for which, for a suitable
+choice of orthogonal coordinates, it is possible to find a total integral of (17)
+of the form
+
+S=S° Se: (de, a1,---Os); 20)
+1
+
+where S; is a function of the s constants a1,...as and of q, only. In this
+case, in which the equation (17) allows of which is called ‘separation of
+variables’, we get from (19) that every p is a function of the a’s and of the
+corresponding q only. If during the motion the coordinates do not become
+infinite in the course of time or converge to fixed limits, every q will, just
+as for systems of one degree of freedom, oscillate between two fixed values,
+different for the different q’s and depending on the a’s. Like in the case of
+a system of one degree of freedom, pz will become zero and change its sign
+whenever gq, passes through one of these limits. Apart from special cases,
+the system will during the motion never pass twice through a configuration
+corresponding to the same set of values for the q’s and p’s, but it will in
+the course of time pass within any given, however small, distance from any
+configuration corresponding to a given set of values q,,...qs, representing
+a point within a certain closed s—dimensional extension limits by s pairs of
+(s—1) — dimensional surface corresponding to constant values of the q’s equal
+to the above mentioned limits of oscillation. A motion of this kind is called
+‘conditionally periodic’. It will be seen that the character of the motion
+will depend only on the a’s and not on the (’s, which latter constants serve
+
+20
+
+
+--- Page 21 ---
+only to fix the exact configuration of the system at a given moment, when
+the a’s are known. For special systems it may occur that the orbit will not
+cover the above mentioned s—dimensional extension everywhere dense, but
+will, for all values of the a’s, be confined to an extension of less dimensions.
+Such a case we will refer to in the following as a case of ‘degeneration’.
+Since for a conditionally periodic system which allows of separation in
+the variables qi,...qs the p’s are functions of the corresponding q’s only, we
+may, just as in the case of independent degrees of freedom or in the case of
+quasiperiodic motion in a certain field, from a set of expressions of the type
+
+I= [pe (ansery--05) da (k =1,...8) (21)
+
+where the integration is taken over a complete oscillation of q. As, in
+general, the orbit will cover everywhere dense an s—dimensional extension
+limited in the characteristic way mentioned above, it follows that, except in
+cases of degeneration, a separation of variables will not be possible for two
+different sets of coordinates q1,...qs and qj, ...q4, unless q = fi(q}),---ds =
+fs(q,), and since a change of coordinates of this type will not affect the
+values of the expressions (21), it will be seen that the values of the I’s are
+completely determined for a given motion of the system. By putting
+
+Th =ng-h, (k =1,...8) (22)
+
+where n1,...s are positive entire numbers, we obtain therefore a set of
+conditions which form a natural generalisation of condition (10) holding for
+a system of one degree of freedom.
+
+Since the I’s, as given by (21), depend on the constants aj,...as5 only
+and not on the /’s, the a’s may, in general, inversely be determined from the
+values of the J’s. The character of the motion will therefore, in general, be
+completely determined by the conditions ( 22), and especially the value for
+the total energy, which according to (17) is equal to a, will be fixed by them.
+In the cases of degeneration referred to above, however, the conditions (22)
+involve an ambiguity, since in general for such systems there will exist an
+infinite number of different sets of coordinates which allow of a separation of
+variables, and which will lead to different motions in the stationary states,
+when these conditions are applied. As we shall see below, this ambiguity
+will not influence the fixation of the total energy in the stationary states,
+which is the essential factor in the theory of spectra based on (1) and in the
+applications of the quantum theory to statistical problems.
+
+A well known characteristic example of a conditionally periodic system
+is afforded by a particle moving under the influence of the attractions from
+
+21
+
+
+--- Page 22 ---
+wo fixed centres varying as the inverse squares of the distance apart, if the
+relativity modifications are neglected. As shown by Jacobi this problem can
+be solved by a separation of variables if so called elliptical coordinates are
+used, i.e. if for qi and q2 we take two parameters characterising respectively
+an ellipsoid and a hyperboloid of revolution with the centres as foci and
+passing through the instantaneous position of the moving particle, and for
+q3 we take the angle between the plane through the particle and the centres
+and a fixed plane through the latter points, or, in closer conformity with the
+above general description, some continuous periodic function of this angle
+period 27. A limiting case of this problem is afforded by an electron rotating
+a positive nucleus and subject to the effect of an additional homogeneous
+electric field, because this field may be considered as arising from a second
+nucleus at infinite distance apart from the first. The motion in this case
+will therefore be conditionally periodic and allow a separation of variables
+in parabolic coordinates, if the nucleus is taken as focus for both sets of
+paraboloids of revolution, and their axes are taken parallel to the direction
+of the electric force. By applying the conditions (22) to this motion Epstein
+and Schwarschild have, as mentioned in the introduction, independent of
+each other, obtained an explanation of the effect of an external electric field
+on the lines of the hydrogen spectrum, which was found to be convincing
+agreement with Stark’s measurements. To the results of these calculations
+we shall return in Part II.
+
+In the above way of representing the general theory we have followed
+the same procedure as used by Epstein. By introducing the so called ‘an-
+gle variables’ well known from the astronomical theory of perturbations,
+Schwarzschild has given the theory a very elegant form in which the analogy
+with systems of one degree of freedom presents itself in a somewhat different
+manner. The connection between this treatment and that given above has
+been discussed in detail by Epstein.?°
+
+As mentioned above the conditions (22), first established from analogy
+with systems of one degree of freedom, have subsequently been proved gener-
+ally to be mechanically invariant for any slow transformation for which the
+system remains conditionally periodic. The proof of this invariance has been
+given quite recently by Burgers?! by means of an interesting application of
+the theory of contact-transformations based on Schwarzschild’s introduction
+of angle variables. We shall not enter here on these calculations but shall
+
+°°p. Epstein, Ann. d. Phys. 51 (1916) 168. See also Note on page 33 of the present
+
+paper.
+?13.M. Burgers, loc. cit. Versl. Akad. Amsterdam 25 (1917) 1055.
+
+22
+
+
+--- Page 23 ---
+only consider some points in connection with the problem of the mechanical
+ransformability of the stationary states which are of importance for the log-
+ical consistency of the general theory and for the later applications. In § 2
+we saw that in the proof of the mechanical invariance of relation (10) for a
+periodic system of one degree of freedom, it was essential that the compara-
+ive variation of the external conditions during the time of one period could
+be made small. This may be regarded as an immediate consequence of the
+nature of the fixation of the stationary states in the quantum theory. In fact
+he answer to the question whether a given state of a system is stationary,
+will not depend only on the motion of the particles at a given moment or
+on the field of force in the immediate neighbourhood of their instantaneous
+positions, but cannot be given before the particles have passed through a
+complete cycle of states, and so to speak have got to know the entire field of
+orce of influence on the motion. If thus, in the case of a periodic system of
+one degree of freedom, the field of force is varied by a given amount, and if
+its comparative variation within the time of a single period was not small,
+he particle would obviously have no means to get to know the nature of the
+variation of the field and to adjust its stationary motion to it, before the
+new field was already established. For exactly the same reasons it is nec-
+essary condition for the mechanical invariance of the stationary states of a
+conditionally periodic system, that the alteration of the external conditions
+during an interval in which the system has passed approximately through all
+possible configurations within the above mentioned s—dimensional extension
+in the coordinate— space can be made as small as we like. This condition
+forms therefore also an essential point in Burgers’ proof of the invariance
+of the conditions (22) for mechanical transformations. Due to this we meet
+with a characteristic difficulty when during the transformation of the system
+we pass one of the cases of degeneration mentioned above, where, for every
+set of values for the a’s, the orbit will not cover the s—dimensional extension
+everywhere dense, but will be confined to an extension of less dimensions. It
+is clear that, when by a slow transformation of a conditionally periodic sys-
+tem we approach a degenerate system of this kind, the time—interval which
+the orbit takes to pass to any possible configuration will tend to be very long
+and will become infinite when the degenerate system is reached. As a con-
+sequence of this the conditions ( 22) will generally not remain mechanically
+invariant when we pass a degenerate system, what has intimate connection
+with the above mentioned ambiguity in the determination of the stationary
+states of such systems by means of (22).
+
+A typical case of a degenerate system, which may serve as an illustration
+of this point, is formed by system of several degrees of freedom for which
+
+23
+
+
+--- Page 24 ---
+every motion is simply periodic, independent of the initial conditions. In this
+case, which is of great importance in the physical applications, we have from
+(5) and (21), for any set of coordinates in which a separation of variables is
+
+possible,
+o
+
+I [ oi +... + pqs) dt=Klh+...+ KsIs, (23)
+
+0
+where the integration is extended over one period of the motion, and where
+K1,...Ks are a set of positive entire numbers without a common divisor.
+
+Now we shall expect that every motion, for which it is possible to find a set
+of coordinates in which it satisfied (22), will be stationary.
+For any such motion we get from (23)
+
+T=(k1-nyt+...+ks-ns)-h=nh, (24)
+
+where n is a whole number which may take all positive values if, as in
+the applications mentioned below, at least one of the «’s is equal to one.
+Inversely, if the system under consideration allows of separation of variables
+in an infinite continuous multitude of sets of coordinates, we must conclude
+that generally every motion which satisfies (24) will be stationary, because
+in general it will be possible for any such motion to find a set of coordinates
+in which it satisfied also (22). It will thus be seen that, for a periodic system
+of several degrees of freedom, condition (24) forms a simple generalisation of
+condition (1)). From relation (8), which holds for two neighbouring motions
+of any periodic system, it follows further that the energy of the system will
+be completely determined by the value of J, just as for systems of one degree
+of freedom.
+
+Consider now a periodic system in some stationary state satisfying (24),
+and let us assume that an external field is slowly established at a continuous
+rate and that the motion at any moment during this process allows of a
+separation of variables in a certain set of coordinates. If we would assume
+that the effect of the field on the motion of the system at any moment could
+be calculated directly by means of ordinary mechanics, we would find that
+the values of the J’s with respect to the latter coordinates would remain
+constant during the process, but this would involve that the values of the
+n’s in (22) would in general not be entire numbers, but would depend en-
+tirely on the accidental motion, satisfying ( 24), originally possessed by the
+system. That mechanics, however, cannot generally be applied directly to
+determine the motion of a periodic system under influence of an increasing
+external field, is just what we should expect according to the singular po-
+sition of degenerate system as regards mechanical transformations. In fact,
+
+24
+
+
+--- Page 25 ---
+in the presence of a small external field, the motion of a periodic system
+will undergo slow variations as regards the shape and position of the orbit,
+and if the perturbed motion is conditionally periodic these variations will
+be of a periodic nature. Formally, we may therefore compare a periodic
+system exposed to an external field with a simple mechanical system of one
+degree of freedom in which the particle performs a slow oscillating motion.
+Now the frequency of a slow variation of the orbit will be seen to be pro-
+portional to the intensity of the external field, and it is therefore obviously
+impossible to establish the external field at a rate so slow that the com-
+parative change of its intensity during a periodic of this variation is small.
+The process which takes place during the increase of the field will thus be
+analogous to that which takes place if an oscillating particle is subject to
+he effect of external forces which change considerably during a period. Just
+as the latter generally will give rise to emission or absorption of radiation
+and cannot be described by means of ordinary mechanics, we must expect
+hat the motion of a periodic system of several degrees of freedom under the
+establishment of the external field cannot be determined by ordinary me-
+chanics, but that the field will give rise to effects of the same kind as those
+which occur during a transition between two stationary states accompanied
+by emission or absorption of radiation. Consequently we shall expect that,
+during the establishment of the field, the system will in general adjust itself
+in some unmechanical way until a stationary state is reached in which the
+requency (or frequencies) of the above mentioned slow variation of the orbit
+has a relation to the additional energy of the system due to the presence of
+he external field, which is of the same kind as the relation, expressed by
+(8) and (10), between the energy and frequency of a periodic system of one
+degree of freedom. As it will be shown in Part II in connection with the
+physical applications, this condition is just secured if the stationary states
+in the presence of the field are determined by the conditions (22), and it
+will be seen that these considerations offer a means of fixing the stationary
+states of a perturbed periodic system also in cases where no separation of
+variables can be obtained.
+
+In consequence of the singular position of the degenerate systems in
+the general theory of stationary states of conditionally periodic systems, we
+obtain a means of connecting mechanically two different stationary states
+of a given system through a continuous series of stationary states without
+passing through systems in which the forces are very small and the energies
+in all the stationary states tend to coincide (comp. page 9). In fact, if we
+consider a given conditionally periodic system which can be transformed in
+a continuous way into a system for which every orbit is periodic and for
+
+25
+
+
+--- Page 26 ---
+which every state satisfying (24) will also satisfy (22) for a suitable choice
+of coordinates, it is clear in the first place that it is possible to pass in a
+mechanical way through a continuous series of stationary states from a state
+corresponding to a given set of values of the n’s in (22) to any other such
+state for which k,n; +... + sn, possesses the same value. If, moreover,
+there exists a second periodic system of the same character to which the first
+periodic system can be transformed continuously, but for which the set of k’s
+is different, it will be possible in general by a suitable cyclic transformation
+to pass in a mechanical way between any two stationary states of the given
+conditionally periodic system satisfying (22).
+
+To obtain an example of such a cyclic transformation let us take the system
+consisting of an electron which moves round a fixed positive nucleus exerting an
+attraction varying as the inverse square of the distance. If we neglect the small rel-
+ativity corrections, every orbit will be periodic independent of the initial conditions
+and the system will allow of separation of variables in polar coordinates as well as
+in any set of elliptical coordinates, of the kind mentioned on page 23, if the nucleus
+is taken as one of the foci. It is simply seen that any orbit which satisfies (24) for
+a value of n > 1, will satisfy (22) for a suitable choice of elliptical coordinates. By
+
+imagining another nucleus of infinite small charge placed at the other focus, the
+orbit may further be transformed into another which satisfies (24) for the same
+value of n but which may have any given value for the eccentricity. Consider now a
+state of the system satisfying (24), and let us assume that by the above means the
+
+orbit is originally so adjusted that in plane polar coordinates it will corresponding
+
+on, = mand ng = n—"m in (16). Let then the system undergo a slow continuous
+ransformation during which the field of force acting on the electron remains cen-
+ral, but by which the law of attraction is slowly varied until the force is directly
+
+proportional to the distance apart. In the final state, as well as in the original state,
+he orbit of the electron will be closed, but during the transformation the orbit will
+
+not be closed, and the ratio between the mean period of revolution and the period
+of the radial motion, which in the original motion was equal to one, will during the
+
+ransformation increase continuously until in the final state it is equal to two. This
+means that, using polar coordinates, the values of «; and «2 in (22) which for the
+
+first state are equal to K1 — Kg = 1, will be for the second state «; = 2 and K, = 1.
+Since during the transformation n; and ng will keep their values, we get therefore
+in the final state J = h- (2m+ (n—m)) =h-(n+m). Now in the latter state, the
+
+system allows a separation of variables not only in polar coordinates but also in any
+system of rectangular Cartesian coordinates, and by suitable choice of the direction
+of the axes, we can obtain that any orbit, satisfying ( 24) for a value of n > 1, will
+also satisfy (22). By an infinite small change of the force components in the axes, in
+such a way that the motions of these directions remain independent of each other
+
+26
+
+
+--- Page 27 ---
+but possess slightly different periods, it will further be possible to transform the
+elliptical orbit mechanically into one corresponding to any ratio between the axes.
+Let us now assume that in this way the orbit of the electron is transformed into
+a circular one, so that, returning to plane polar coordinates, we have n; = 0 and
+nz =n-+™m, and let then by a slow transformation the law of attraction be varied
+until again it is that of the inverse square. It will be seen that when this state is
+reached the motion will again satisfy (24), but this time we will have I = h-(n+m)
+instead of I = nh as in the original state. By repeating a cyclic process of this kind
+we may pass from any stationary state of the system in question which satisfies
+(24) for a value of n > 1 to any other such state without leaving at any moment
+the region of stationary states.
+
+The theory of the mechanical transformability of the stationary states
+gives us a means to discuss the question of the a-priori probability of the
+different states of a conditionally periodic system, characterised by different
+sets of values for the n’s in (22). In fact from the considerations, mentioned
+in § 1, it follows that, if the a—priori probability of the stationary states of
+a given system is known, it is possible at once to deduce the probabilities
+for the stationary states of any other system to which the first system can
+be transformed continuously without passing through a system of degen-
+eration. Now from the analogy with systems of one degree of freedom it
+seems necessary to assume that, for a system of several degrees of freedom
+for which the motions corresponding to the different coordinates are dynam-
+ically independent of each other, the a—priori probability is the same for all
+states corresponding to different sets of n’s in (15). According to the above
+we shall therefore assume that the a—priori probability is the same for all
+states, given by (22), of a by which can be formed in a continuous way from
+a system of this kind without passing through systems of degeneration. It
+will be observed that on this assumption we obtain exactly the same rela-
+tion to the ordinary theory of statistical mechanics in the limit of large n’s
+as obtained in the case of systems of one degree of freedom. Thus, for a
+conditionally periodic system, the volume given by (11) of the element of
+phase-space, including all points q,...qs, p1,.-.Ps Which represent states
+for which the value of I; given by (21) lies between J;, and J; + 5], it seen
+at once to be equal to??
+
+6W = bhbh...5Is, (25)
+
+if the coordinates are so chosen that the motion corresponding to every
+
+*2Comp. A. Sommerfeld, Ber. Akad. Miinchen, 1917, p. 83.
+
+27
+
+
+--- Page 28 ---
+degree of freedom is of oscillating type. The volume of the phase-space
+limited by s pairs of surfaces, corresponding to successive values for the n’s
+in the conditions (22), will therefore be equal to h* and consequently be the
+same for every combination of the n’s. In the limit where the n’s are large
+numbers and the stationary states corresponding to successive values for the
+n’s differ only very little from each other, we thus obtain the same result
+on the assumption of equal a—priori probability of all the stationary states,
+corresponding to different sets of values of n1,n2,...ms5 in (22), as would be
+obtained by application of ordinary statistical mechanics.
+
+The fact that the last considerations hold for every non-degenerate con-
+ditionally periodic system suggests the assumption that in general a— priori
+probability will be the same for all the states determined by (22), even if it
+should not be possible to transform the given system into a system of in-
+dependent degrees of freedom without passing through degenerate systems.
+This assumption will be shown to be supported by the consideration of the
+intensities of the different components of the Stark-effect of the hydrogen
+ines, mentioned in the next Part. When we consider a degenerate system,
+however, we cannot assume that the different stationary states are a—priori
+equally probable. In such a case the stationary states will be characterized
+by a number of conditions less than the number of degrees of freedom, and
+he probability of a given state must be determined from the number of dif-
+erent stationary states of some non-degenerate system which will coincide
+in the given state, if the latter system is continuously transformed into the
+degenerate system under consideration.
+
+In order to illustrate this, let us take the simple case of a degenerate sys-
+em formed by an electrified particle moving in the plane orbit in a central
+field, the stationary states of which are given by the two conditions (16).
+In this case the plane of the orbit is undetermined, and it follows already
+rom a comparison with ordinary statistical mechanics, that the a—priori
+probability of the states characterized by different combinations of n; and
+ng in (16) cannot be the same. Thus the volume of the phase-space, cor-
+responding to states for which J; lies between and J; and I; + 61; and for
+which Iy lies between Ip and Ip + 5Iy , is found by a simple calculation”®
+o be equal to OW = 2196116J2, if the motion is described by ordinary po-
+ar coordinates. For large values of nj and ng, we must therefore expect
+hat the a—priory probability of a stationary state corresponding to a given
+combination (n1,n2z) is proportional to nz. The question of the a-priori
+probability of states corresponding to small values of the n’s has been dis-
+
+?3See A. Sommerfeld, loc. cit.
+
+28
+
+
+--- Page 29 ---
+cussed by Sommerfeld in connection with the problem of the intensities of
+the different components in the fine structure of the hydrogen lines (see
+Part II). From considerations about the volume of the extensions in the
+phase-— space, which might be considered as associated with the states char-
+acterised by different combinations (n,n), Sommerfeld proposes several
+different expressions for the a—priori probability of such states. Due to the
+necessary arbitrariness involved in the choice of these extensions, however.
+we cannot in this way obtain a rational determination of the a—priori prob-
+ability of states corresponding to small values of n; and nz. On the other
+hand, this probability may be deduced by regarding the motion of the sys-
+em under consideration as the degeneration of a motion characterised by
+hree numbers 71,2 and nz, as in the general applications of the conditions
+(22) to a system of three degrees of freedom. Such a motion may be ob-
+ained for instance by imagining the system placed in a small homogeneous
+magnetic field. In certain respects this case falls outside the general theory
+of conditionally periodic system discussed in this section, but, as we shall
+see in Part II, it can be simply shown that the presence of the magnetic
+field imposes the further condition on the motion in the stationary states
+hat the angular momentum round the axis of the field is equal to n/h/2r,
+where, n’ is a positive entire number equal to or less than nz, and which
+or the system considered in the spectral problems must be assume to be
+different from zero. when regard is taken to the two opposite directions in
+which the particle may rotate round the axis of the field, we see therefore
+hat for this system a state corresponding to a given combination of n; and
+ng in the presence of the field can be established in 2ng different ways. The
+a-priori probability of the different states of the system may consequently
+or all combinations of n; and n2 be assumed to be proportional to ng.
+
+The assumption just mentioned that the angular momentum round the
+axis of the field cannot be equal to zero is deduced from considerations
+of system for which the motion corresponding to special combinations of
+he n’s in (22) would become physically impossible due to some singularity
+in its character. In such cases we must assume that no stationary states
+exist corresponding to the combinations (n1, n2,...ms) under consideration,
+and on the above principle of the invariance of the a—priori probability for
+continuous transformations we shall accordingly expect that the a—priori
+probability of any other state, which can be transformed continuously into
+one of these states without passing through cases of degeneration, will also
+be equal to zero.
+
+Let us now produced to consider the spectrum of a conditionally periodic
+system, calculated from the values of the energy in the stationary states by
+
+29
+
+
+--- Page 30 ---
+means of relation (1). If E- (m1,...ms) is the total energy of a stationary
+state determined by (22) and if v is the frequency of the line corresponding
+to the transition between two stationary states characterised by np = nj,
+and nz = nj, respectively, we have
+
+v= 5B (nh,..nl) — B (nif,. ni) 26)
+
+In general, this spectrum will be entirely different from the spectrum
+to be expected on the ordinary theory of electrodynamics from the motion
+of the system. Just as for a system of one degree of freedom we shall see,
+however, that in the limit where the motions in neighbouring stationary
+states differ very little from each other, there exists a close relation between
+the spectrum calculated on the quantum theory and that to be expected on
+ordinary electrodynamics. As in § 2 we shall further see, that this connection
+leads to certain general considerations about the probability of transition
+between any two stationary states and about the nature of the accompanying
+radiation which are found to be supposed by observations. In order to
+discuss this question we shall first deduce a general expression for the energy
+difference between neighbouring of a conditionally periodic system, which
+can be simple obtained by a calculation analogous to that used in § 2 in the
+deduction of the relation (8).
+
+Consider some motion of a conditionally periodic system which allows
+of separation of variables in a certain set of coordinates q,,...q, and let us
+assume that at the time t = ¥ the configuration of the system will to a
+close approximation be the same as at the time t = 0. By taking @ large
+enough we can make this approximation as close as we like. If next we
+consider some conditionally periodic motion, obtained by a small variation
+of the first motion, and which allows of separation of variables in a set of
+coordinates qj,...q, which may differ slightly from the set qi,...qs, we get
+by means of Hamilton’s equations (4), using the coordinated qj, ...4q,
+
+0 0
+s EO. E
+[oea-[ > (3 “ih + SE 6 dt =
+
+i 7 (\ OP%, Te,
+
+s
+
+SS (Ge: Spe — Pe Fah) at.
+1
+
+oe S
+
+By partial integration of the second term in the bracket this gives:
+0 0 s s
+[ bE at= [D5 (ed) a] re SNE)
+0 0 1 1
+
+30
+
+
+--- Page 31 ---
+Now we have for the unvaried motion
+0 s 0 s s
+| > ve at = [ SS pede dt => Ne Tes
+9 1 o 1 1
+
+where J, is defined by (21) and where Nj is the number of oscillations
+performed by q, in the time interval J. For the varied motion we have on
+the other hand:
+
+0 Ss
+| SS vedi, at =
+0 1
+
+t=0 Ss s s
+SS peda, => Ne Tet | SS pe dak HES,
+1 1 1
+
+bi
+
+t
+
+where the J’s correspond to the conditionally periodic motion in the coor-
+dinates gj,...q,, and the dq’’s which enter in the last term are the same
+as those in (27). writing I, — I, = 5+ I, we get therefore from the latter
+equation
+
+0 s
+[ sBat=S Nd. (28
+0 1
+
+In the special case where the varied motion is an undisturbed motion
+belonging to the same system as the unvaried motion we get, since 6- E wil
+be constant,
+
+1
+
+where uw, = N;,/9 is the mean frequency of oscillation of g, between its
+limits, taken over a long time interval of the same order of magnitude as
+#0. This equation forms a simple generalisation of (8), and in the genera’
+case in which a separation of variables will be possible only for one system
+of coordinates leading to a complete definition of the J’s it might have been
+deduced directly from the analytical theory of the periodicity properties o:
+the motion of a conditionally periodic system, based on the introduction o:
+angle variables.?4 From (29) it follows moreover that, if the system allows of
+a separation of variables in an infinite continuous of sets of coordinates, the
+
+48ee Charlier, die Mechanik des Himmels, bd. I abt. 2, and especially P. Epstein,
+Ann. d. Phys. 51 (1916) 178. By means of the well known theorem of Jacobi about the
+change of variables in the canonical equations of Hamilton, the connection between the
+notion of angle—variables and the quantities I, discussed by Epstein in the latter paper,
+may be briefly exposed in the following elegant manner which has been kindly pointed out
+to me by Mr. H.A. Kramers. Consider the function S(qi,...qs, l1,...s) obtained from
+(20) by introducing for the a’s their expressions in terms of the I’s given by the equations
+
+31
+
+
+--- Page 32 ---
+(21). This function will be a many valued function of the qg’s which increases by Ij, if
+qk described one oscillation between its limits and comes back to its original value while
+
+the other q’s remain constant. If we therefore introduce a new set of variables wi,...ws
+defined by
+os *
+We = ar (k =1,...8) (1*)
+
+it will be seen that wz, increases by one unit while the other w’s will come back to their
+original values if g, described one oscillation between its limits and the other q’s remain
+constant. Inversely it will therefore be seen that the q’s, and also the p’s which were given
+by
+
+me 5, (k=1,...8), (2*)
+when considered as functions of the J’s and w’s will be periodic functions of every of the w’s
+with period. according to Fourier’s theorem any of the q’s may therefore be represented
+by an s—double trigonometric series of the form
+
+q= Ss Arts COS 2+ (TL Wi +... Ts + Ws = Ary..75)s (3)
+
+where the A’s and a’s are constants depending on the I’s and where the summation is
+to be extended over all entire values of 7;,...7;. On account of this property of the w’s,
+the quantities 27w,...2mws are denoted as ‘angle variables’. Now from (1*) and (2*)
+it follows according to the above mentioned theorem of Jacobi (see for instance Jacobi,
+Vorlesungen iiber Dynamik § 37) that the variations with the time of the I’s and w’s will
+be given by
+
+dl, OE dw, OE
+
+dt Aw,’ dt Ok’
+where the energy £ is considered as a function of the J’s and w’s. Since EL, however,
+is determined by the I’s only we get from (4*), besides the evident result that the I’s
+are constant during the motion, that the w’s will vary linearly with the time and can be
+represented by
+
+(k=1,...8) (4*)
+
+a. 8) 6°)
+where 6, is a constant, and where wz, is easily seen to be equal to the mean frequency of
+oscillation of g,. From (5*) eq. (28) follows at once, and it will further be seen that by
+introducing (5*) in (3*) we get the result that every of the q’s, and consequently also any
+one-valued function of the g’s, can be represented by an expression of the type (31).
+
+In this connection it may be mentioned that the method of Schwarzschild of fixing the
+stationary states of a conditionally periodic system, mentioned on page 117, consists in
+seeking for a given system a set of canonically conjugated variables Qi,...Qs, Pi,...Ps
+in such a way that the positional coordinates of the system qi,...qs and their conjugated
+momenta p1,...ps, when considered as functions of the Q’s and P’s, are periodic in every
+of the Q’s with period 27, while the energy of the system depends only on the P’s. In
+analogy with the condition which fixes the angular momentum in Sommerfeld’s theory
+of central systems Schwarzschild next puts every of the P’s equal to an entire multiplum
+of h/27. In contrast to the theory of stationary states of conditionally periodic systems
+based on the possibility of separation of variables and the fixation of the I’s by (22), this
+method does not lead to an absolute fixation of the stationary states, because, as pointed
+out by Schwarzschild himself, the above definition of the P’s leaves an arbitrary constant
+undermined in every of these quantities. In many cases, however, these constants may be
+
+We=Wet+ On, We = (k=1
+
+32
+
+
+--- Page 33 ---
+total energy will be the same for all motions corresponding to the same values
+of the I’s, independent of the special set of coordinates used to calculate
+these quantities. as mentioned above and as we have already shown in the
+case of purely periodic systems by means of (8), the total energy is therefore
+also in cases of degeneration completely determined by the conditions (22).
+
+Consider now a transition between two stationary states determined by
+(22) by putting n, = nj, and nz = ni, respectively, and let us assume that
+
+ni,...n, n{,...n% are large numbers, and that the differences nj, — nj are
+
+. ‘s?
+small compared with these numbers. Since the motions of the system in these
+states will differ relatively very little from each other we may calculate the
+difference of the energy by means of (29), and we get therefore, by means
+of (1), for the frequency of the radiation corresponding to the transition
+
+between the two states
+
+s s
+
+(BBN) = 7S we (IL—M) = we (nk), (80)
+
+1 1
+
+v=
+
+aR
+
+which is seen to be a direct generalisation of the expression (13) in § 2.
+
+Now, in complete analogy to what is the case for periodic systems of
+one degree of freedom, it is proved in the analytical theory of the motion of
+conditionally periodic mentioned above that for the latter systems the co-
+ordinates qi,...qs, and consequently also the displacements of the particles
+in any given direction, may be expressed as a function of the time by an
+s-double infinite Fourier series of the form:
+
+€é= Ss Cry tg  COS2T{(TL WL +...7s+ Ws) ten, 7}, (31)
+
+where the summation is to be extended over all positive and negative entire
+values of the 7’s, and where the w’s are the above mentioned mean frequen-
+cies of oscillation for the different q’s. The constants C;,...,, depend only
+on the a’s in the equations (18) or, what is the same, on the I’s, while the
+constants C7,,...r, depend on the a’s as well as on the (’s. In general the
+quantities 7;w, +...7;ws will be different for any two different sets of values
+for the r’s, and in the course of time the orbit will cover everywhere dense a
+
+simple determined from considerations of mechanical transformability of the stationary
+states, and as pointed out by Burgers [loc. cit. Versl. Akad. Amsterdam 25 (1917)
+1055] Schwaszschild method possesses on the other hand the essential advantage of being
+applicable to certain classes of system in which the displacements of the particles may
+be represented by trigonometric series of the type (31), but for which the equations of
+motion cannot be solved by separation of variables in any fixed set of coordinates. An
+interesting application of this to the spectrum of rotating molecules, given by Burgers,
+will be mentioned in Part IV.
+
+33
+
+
+--- Page 34 ---
+certain s—-dimensional extension. In a case of degeneration, however, where
+he orbit will be confined to an extension of less dimensions, there will exist
+or all values of the a’s one or more relations of the type mw,+...m,w, = 0
+where the m’s are entire numbers and by the introduction of which the ex-
+pression (31) can be reduced to a Fourier series which is less than s—double
+infinite. Thus in the special case of a system of which every orbit is periodic
+we have w1/k1 =... = ws/Ks = w, where the «’s are the numbers which
+enter in eq. (23), and the Fourier series for the displacements in the dif-
+erent directions will in this case consist only of terms of the simple form
+C,-cos2x-{r-w+t+c,;}, just as for a system of one degree of freedom.
+On the ordinary theory of radiation, we should expect from (31) that
+he spectrum emitted by the system in a given state would consist of an
+s-double infinite series of lines of frequencies equal to T)w, +...T,ws. In
+general, this spectrum would be completely different from that given by (26).
+This follows already from the fact that the w’s will depend on the values for
+he constants a,,...a@, and will vary in a continuous way for the continuous
+multitude of mechanically possible states corresponding to different sets of
+values for these constants. Thus in general the w’s will be quite different for
+wo different stationary states corresponding to different sets of n’s in (22),
+and we cannot expect any close relation between the spectrum calculated
+on the quantum theory and that to be expected on the ordinary theory of
+mechanics and electrodynamics. In the limit, however, where the n’s in
+(22) are large numbers, the ratio between the w’s for two stationary states,
+corresponding to ng = nj, and n, = n{ respectively, will tend to unity if
+the differences nj, = n{ are small compared with the n’s, and as seen from
+(30) the spectrum calculated by (1) and (22) will in this limit just tend to
+coincide with that to be expected on the ordinary theory of radiation from
+the motion of the system.
+As far as the frequencies are concerned, we thus see that for condition-
+ally periodic systems there exists a connection between the quantum theory
+and the ordinary theory of radiation of exactly the same character as that
+shown in § 2 to exist in the simple case of periodic systems of one degree
+of freedom. Now on ordinary electrodynamics the coefficients C,,,,, in the
+expression (31) for the displacements of the particles in the different direc-
+tions would in the well known determine the intensity and polarisation of
+the emitted radiation of the corresponding frequency 7,w, +...T,ws. As for
+systems of one degree of freedom we must therefore conclude that, in the
+limit of large values for the n’s, the probability of spontaneous transition
+between two stationary states of a conditionally periodic system, as well as
+the polarisation of the accompanying radiation, can be determined directly
+
+34
+
+
+--- Page 35 ---
+from the values of the coefficient C;,,...,, in (31) corresponding to a set of
+T’s given by T, = ni, — ny, if n,...n, and n{,...n% are the numbers which
+characterise the two stationary states.
+
+Without a detailed theory of the mechanism of transition between the
+stationary states we cannot, of course, in general obtain an exact determi-
+nation of the probability of spontaneous transition between two such states,
+unless the n’s are large numbers. Just as in the case of systems of one degree
+of freedom, however, we are naturally led from the above considerations to
+assume that, also for values of the n’s which are not large, there must exist
+an intimate connection between the probability of a given transition and
+he values of the corresponding Fourier coefficient in the expressions for the
+displacements of the particles in the two stationary states. This allows us at
+once to draw certain important conclusions. Thus, from the fact that in gen-
+eral negative as well as positive values for the 7’s appear in (31), it follows
+hat we must expect that in general not only such transitions will be pos-
+sible in which all the n’s decrease, but that also transitions will be possible
+or which some of the n’s increase while others decrease. This conclusion,
+which is supported by observations on the fine structure of the hydrogen
+ines as well as on the Stark effect, is contrary to the suggestion, put for-
+ward by Sommerfeld with reference to the essential positive character of the
+I’s, that every of the n’s must remain constant or decrease under a transi-
+ion. Another direct consequence of the above considerations is obtained if
+we consider a system for which, for all values of the constants a1,...as the
+coefficient C,,,..-, corresponding to a certain set 1? yee 7, of values for the
+7’s is equal to zero in the expressions for the displacements of the particles
+in every direction. In this case we shall naturally expect that no transition
+will be possible for which the relation nj, — ni = TP is satisfied for every
+k. In the case where Co ,0, is equal to zero in the expressions for the
+displacement to a certain direction only, we shall expect that all transitions,
+for which nj, — niizP for every k, will be accompanied by a radiation which
+is polarized in a plane perpendicular to this direction.
+
+A simple illustration of the last considerations is afforded by the system
+mentioned in the beginning of this section, and which consists of a particle
+executing motions in three perpendicular directions which are independent
+of each other. In this case all the fourier coefficients in the expressions for the
+displacements in any direction will disappear if more than one of the 7’s are
+different from zero. Consequently we must assume that only such transitions
+are possible for which only one of the n’s varies at the same time, and that
+the radiation corresponding to such a transition will be linearly polarized
+in the direction of the displacement of the corresponding coordinate. In the
+
+35
+
+
+--- Page 36 ---
+special case where the motions in the three directions are simply harmonic,
+we shall moreover conclude that none of the n’s can vary by more than a
+single unit, in analogy with the considerations in the former section about
+a linear harmonic vibrator.
+
+Another example which has more direct physical importance, since it
+includes all the special applications of the quantum theory to spectral prob-
+ems mentioned in the introduction, is formed by a conditionally periodic
+system possessing an axis of symmetry. In all these applications a separation
+of variables is obtained in a set of three coordinates qi, q2 and q3, of which
+he first two serve to fix the position of the particle in a plane through the
+axis of the system, while the last is equal to the angular distance between
+his plane and a fixed through the same axis. Due to the symmetry, the
+expression for the total energy in Hamilton’s equations will not contain the
+angular distance q3 but only the angular momentum ps3 round the axis. The
+atter quantity will consequently remain constant during the motion, and
+he vibrations of q, and q2 will be exactly the same as in a conditionally
+periodic system of two degrees of freedom only. If the position of the par-
+icle is described in a set of cylindrical coordinates z,o,0, where z is the
+displacement in the direction of the axis, g the distance of the particle from
+his axis and ¥# is equal to the angular distance q3, we have therefore
+
+Z= Ss Cry CoS2m + {(T1 + w1 + T+ we) + t+ er 7}
+
+and
+o= Ss Chim cos 27 - Gr “Wi +T2-we)-t+ Cnr} ) (32)
+
+where the summation is to be extended over all positive and negative entire
+values of 7, and 72, and where w; and wy are the mean frequencies of oscil-
+lation of the coordinates q, and q2. For the rate of variation of 9) with the
+time we have further
+
+dd _ 4,98 _ )=
+dt = 3 = aps (1, 92; P1, P2,P3) =
+
+=+£)> CY, cos2r {(n1 + wy + 72+ We) t+" > ;
+
+where the two signs correspond to a rotation of the particle in the direction
+of increasing and decreasing q3 respectively, and are introduced to separate
+the two types of symmetrical motions corresponding to these directions.
+This gives
+
+EY) = 2m -w3-t+ >> Ch COS Qt {(r1-w1 +m-w2) ten a}, (33)
+
+36
+
+
+--- Page 37 ---
+where the positive constant w3 = Cj9/27 is the mean frequency of rotation
+round the axis of symmetry of the system. Considering now the displacement
+of the particle in rectangular coordinates x,y and z, and taking as above
+the axis of symmetry as z-axis, we get from (32) and (33) after a simple
+contraction of terms
+
+&= 90080 = > Drm + COS2m + {(Tp+ wy + 72+ Wa + W3) t+ dr ro}
+
+and
+
+y = ocosv = +£S> Dy ro Sin 2 {(T1 + Wi + 72+ w2 + w3)-t+dr 7}, (34)
+
+where the D’s and d’s are new constants, and the summation is again to be
+extended over all positive and negative values of 7, and 79.
+
+From (32) and (34) we see that the motion in the present case may be
+considered as composed of a number of linear harmonic vibrations parallel
+o the axis of symmetry and of frequencies equal to the absolute values of
+(71 + wi + 72+ w2), together with a number of circular harmonic motions
+round this axis equal to the absolute values of (71 - wi + 72 -w2 + w3) and
+possessing the same direction of rotation as that of the moving particle
+or the opposite if the latter expression is positive or negative respectively.
+According to ordinary electrodynamics the radiation from the system would
+herefore consist of a number of components of frequency | 7 - w1 +79 - we |
+polarised parallel to the axis of symmetry, and a number of components of
+requencies | 71 -w, + 72° Ww. + w3 | and of circular polarisation round this
+axis (when viewed in the direction of the axis). On the present theory we
+shall consequently expect that in this case only kinds of transition between
+he stationary states given by (22) will be possible. In both of these nj,
+and nz may vary by an arbitrary number of units, but in the first kind of
+ransition, which will give rise to a radiation polarised parallel to the axis of
+he system, n3 will remain unchanged, while in the second kind of transition
+ng will decrease or increase by one unit and the emitted radiation will be
+circularly polarised round the axis in the same direction as or the opposite
+of that of the rotation of the particle respectively.
+
+In the next Part we shall see that these conclusions are supported in an
+instructive manner by the experiments on the effects of electric and magnetic
+field on the hydrogen spectrum. In connection with the discussion of the
+general theory, however, it may be of interest to show that the formal anal-
+ogy between the ordinary theory of radiation and the theory based on (1)
+and (22), in case of systems possessing an axis of symmetry, can be traced
+not only with respect to frequency relations but also by considerations of
+
+37
+
+
+--- Page 38 ---
+conservation of angular momentum. For a conditionally periodic system
+possessing an axis of symmetry the angular momentum round this axis is,
+with above choice of coordinates, according to (22) equal to [3/27 = n3h/2r.
+If therefore, as assumed above for a transition corresponding to an emission
+of linearly polarised light, ng is unaltered, it means that the angular mo-
+mentum of the system remains unchanged, while if ng alters by one unit, as
+assumed for a transition corresponding to an emission of circularly polarised
+ight, the angular momentum will be altered by h/27. Now it is easily seen
+hat the ratio between this amount of angular momentum and the amount
+of energy hv emitted during the transition is just equal to the ratio between
+he amount of angular momentum and energy possessed by the radiation
+which according to ordinary electrodynamics would be emitted by an elec-
+ron rotating in a circular orbit in a central field of force. In fact, if a is
+he radius of the orbit, v the frequency of revolution and F’ the force of
+reaction due to the electromagnetic field of the radiation, the amount of
+energy and of angular momentum round an axis through the centre of the
+field perpendicular to the plane of the orbit, lost by the electron in unit of
+ime as a consequence of the radiation, would be equal to 2mvaF and aF
+respectively. Due to the principles of conservation of energy and of angular
+momentum holding in ordinary electrodynamics, we should therefore expect
+hat the ratio between the energy and the angular momentum of the emitted
+radiation would be 27v, > but this seen to be equal to the ratio between the
+energy hy and the angular momentum h/27 lost by the system considered
+above during a transition for which we have assumed that the radiation is
+circularly polarised. This agreement would seem not only to support the
+validity of the above considerations but also to offer a direct support, inde-
+pendent of the equations (22), of the assumption that, for a atomic system
+possessing an axis of symmetry, the total angular momentum round this axis
+
+is equal to an entire multiple of h/2r.
+
+A further illustration of the above considerations of the relation between
+the quantum theory and the ordinary theory of radiation is obtained if we
+consider a conditionally periodic system subject to the influence of a small
+perturbing field of force. Let us assume that the original system allows of
+separation of variables in a certain set of coordinates qi,...qs, so that the
+stationary states are determined by (22),. From the necessary stability of
+the stationary states we must conclude that the perturbed system will pos-
+sess a set of stationary states which only differ slightly from those of the
+original system. In general, however, it will not be possible for the per-
+
+?5Comp. K. Schaposchnikow, Phys. Zeitschr. 15 (1914) 454.
+
+38
+
+
+--- Page 39 ---
+urbed system to ob
+but if the perturbin:
+
+sition of a number o:
+displacements of the
+hose corresponding
+
+he original motion
+
+small values proport
+
+erations we shall therefore expect t:
+of such transitions between stationary s
+
+inal system, there w:
+
+new transitions correspond
+
+T’s. Consequently w
+
+the spectrum of the system will consist
+
+original lines, partly
+
+em will therefore be
+he fundamental freq
+
+quantities proportional to
+
+hese coefficients will there
+
+g force is sufficiently smal
+harmonic vibrations just
+particles in the stationary
+
+given by an expression of
+
+to the stationary states of
+
+ional to the pertur
+
+ill for
+
+e shall expect that
+
+in the appearance
+
+ain a separation of variables in any set of coordinates,
+
+the perturbed motion will
+
+again be of conditionally periodic type and may be regarded as a superpo-
+
+as the original motion. The
+states of the perturbed sys-
+he same type as (31) where
+
+uencies w, and the amplitudes C;,,..-, may differ from
+
+he original system by small
+
+he intensity of the perturbing forces. If now for
+he coefficients C;,,.-,, corresponding to certain combi-
+nations of the 7’s are equal to zero for all values of the constants ay, .
+
+.. Qs,
+
+ore for the perturbed motion, in general, possess
+bing forces. From the above consid-
+hat, in addition to the main probabilities
+ates which are possible for the orig-
+he perturbed system exist small probabilities of
+ing to the above mentioned combinations of the
+the effect of the perturbing field on
+partly in a small displacement of the
+of new lines of small intensity.
+
+A simple example of this afforded by a system consisting of a particle
+moving in a plane and executing harmonic vibrations in two perpendicu-
+lar directions with frequencies w; and we. If the system is undisturbed all
+coefficients C,,,..,, will be zero, except C9 and Co. When, however, the
+
+system is perturbed
+
+will in the Fourier expressions for
+
+dition to the main
+
+erms corresponding to the
+
+, for instance by an arbitrary small central force, there
+he displacements of the particle, in ad-
+
+fundamental frequencies w1,
+
+and w2, appear a number of small terms corresponding to frequencies given
+
+as well as negative.
+he presence of the
+ransitions whi
+
+p
+new
+
+narm
+
+emitted radiation an
+
+ple o:
+
+direc
+
+on the ordinary theory
+
+potential of the pertur
+he particles and, wha
+
+er
+
+d
+
+39
+
+by 71w1 + 72w2 where 7, and 72 are entire numbers which may be positive
+On the present theory we shall therefore expect that in
+urbing force there will appear small probabilities for
+ch will give rise to radiations analogous to the socalled
+onics and combination tones in acoustics, just as it should be expected
+of radiation where a direct connection between the
+he motion of the system is assumed. Another exam-
+more direct physical application is afforded by the effect of an external
+homogeneous electric field in producing new spectral lines. In this case the
+bing force is a linear function of the coordinates of
+ever is the nature of the original system, it follows
+ly from the general theory of perturbations that the frequency of any
+
+
+--- Page 40 ---
+additional term in the expression for the perturbed motion, which is of
+
+he
+
+same order of magnitude as the external force, must correspond to the sum
+
+or difference of two frequencies of the harmonic vibrations into which
+
+he
+
+original motion can be resolved. With applications of these considerations
+we will meet in Part II in connection with the discussion of Sommerfeld’s
+theory of the fine structure of the hydrogen lines and in Part III in connec-
+
+tion with the problem of the appearance of new series in the spectra of ot
+elements under the influence of intense external electric field.
+
+ner
+
+As mentioned we cannot without more detailed theory of the mechanism
+
+of transition between stationary states obtain quantitative information
+regards the general question of the intensities of the different lines of
+spectrum of a conditionally periodic system given by (26), except in
+limit where the n’s are large numbers, or in such special cases where
+all values of the constants a1,...as certain coefficient C,,,.,, in (31)
+equal to zero. From considerations of analogy, however, we must exp
+that it will be possible also in the general case to obtain an estimate of
+
+characterised by the numbers nj,...n/, and n/{,...ni respectively, with
+intensities of the radiations of frequencies w1-(n,—n{)+...+ws-(n,—n4
+
+although of course this estimate becomes more uncertain the smaller
+
+as
+he
+he
+for
+are
+ect
+he
+
+intensities of the different lines in the spectrum by comparing the intensity
+of a given line, corresponding to a transition between two stationary states
+
+he
+to
+
+be expected on ordinary electrodynamics from the motions in these states;
+
+he
+
+values for the n’s are. as it will be seen from the applications mentioned in
+
+the following Parts this is supposed in a general way by comparison w:
+the observations.
+
+40
+
+ith
+

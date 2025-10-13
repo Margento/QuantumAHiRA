@@ -1,0 +1,1134 @@
+
+--- Page 1 ---
+This article was downloaded by: [Massachusetts Institute of Technology, MIT Libraries]
+
+On: 24 March 2011
+
+Access details: Access Details: [subscription number 922844579]
+
+Publisher Taylor & Francis
+
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House, 37-
+41 Mortimer Street, London W1T 3JH, UK
+
+Philosophical Magazine Series 6
+Shilac 1c Publication details, including instructions for authors and subscription information:
+h : I ISC phical http://www.informaworld.com/smpp/title~content=t9 10323447
+
+Magazine
+Crab LXXIX. The scattering of a and B particles by matter and the structure of
+the atom
+(1901-1925) E. Rutherford*
+Fine Pabboed 99 19 * University of Manchester,
+
+To cite this Article Rutherford, E.(1911) 'LXXIX. The scattering of a and f particles by matter and the structure of the
+atom’, Philosophical Magazine Series 6, 21: 125, 669 — 688
+
+To link to this Article: DOI: 10.1080/14786440508637080
+URL: http://dx.doi.org/10.1080/14786440508637080
+
+PLEASE SCROLL DOWN FOR ARTICLE
+
+Full terms and conditions of use: http://www. informaworld.com/terms-and-conditions-of-access.pdf
+
+This article may be used for research, teaching and private study purposes. Any substantial or
+systematic reproduction, re-distribution, re-selling, loan or sub-licensing, systematic supply or
+distribution in any form to anyone is expressly forbidden.
+
+The publisher does not give any warranty express or implied or make any representation that the contents
+will be complete or accurate or up to date. The accuracy of any instructions, formulae and drug doses
+should be independently verified with primary sources. The publisher shall not be liable for any loss,
+actions, claims, proceedings, demand or costs or damages whatsoever or howsoever caused arising directly
+or indirectly in connection with or arising out of the use of this material.
+
+
+--- Page 2 ---
+[Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+Downloaded By:
+
+[ 669 ]
+
+LXXIX. The Scattering of a and B Particles by Matter and
+the Structure of the Atom. By Professor E. Ruruerrorp,
+F.RS., University of Manchester *.
+
+§1. TC is well known that the a and @ particles suffer
+deflexions from their rectilinear paths by encounters
+
+with atoms of matter. This scattering is far more marked
+for the @ than for the a particle on account of the much
+smaller momentum and energy of the former particle.
+There seems to be no doubt that such swiftly moving par-
+ticles pass through the atoms in their path, and that the
+deflexions observed are due to the strong electric field
+traversed within the atomic system. It has generally been
+supposed that the scattering of a pencil of a or @ rays in
+passing through a thin plate of matter is the result of a
+multitude of small scatterings by the atoms of matter
+traversed. The observations, however, of Geiger and
+Marsden f on the scattering of a rays indicate that some of
+the @ particles must suffer a deflexion of more than a right
+angle at a single encounter. They found, for example, that
+asmall fraction of the incident @ particles, about 1 in 20,000,
+were turned through an average angle of 90° in passing
+through a layer of gold-foil about 00004 em. thick, which
+was equivalent in stopping-power of the a particle to 1°6 milli-
+metres of air. Geiger t showed later that the most probable
+angle of deflexion for a pencil of « particles traversing a gold-
+foil of this thickness was about 0°87. A simple calcnlation
+based on the theory of probability shows that the chance of
+an @ particle being deflected through 90° is vanishingly
+small. In addition, it will be seen later that the distribution
+of the « particles for various angles of iarge deflexion does
+not follow the probability law to be expected if such large
+deflexions are made up of a large number of small deviations.
+It seems reasonable to suppose that the deflexion through
+a large angle is due to a single atomic encounter, for the
+chance of a second encounter of a kind to produce a large
+deflexion must in most cases be exceedingly small. A simple
+calculation shows that the atom must be a seat of an intense
+electric field in order to produce such a large deflexion ata
+single encounter.
+
+Recently Sir J. J. Thomson § has put forward a theory to
+
+* Communicated by the Author. A brief account of this paper was
+communicated to the Manchester Literary and Philosophical Society in
+February, 1911.
+
++ Proc. Roy. Soc. Ixxxii. p. 495 (1909).
+
+t Proc. Roy. Soc. lxxxiii. p. 492 (1910).
+§ Camb. Lit. & Phil. Soc. xv. pt. 5 (1910).
+
+--- Page 3 ---
+18:01 24 March 2011
+
+[Massachusetts Institute of Technology, MIT Libraries] At:
+
+Downloaded By:
+
+670 Prof. E. Rutherford on the
+
+explain the scattering of electrified particles in passing through
+small thicknesses of matter. The atom is supposed to consist
+of a number N of negatively charged corpuscles, accompanied
+by an equal quantity of positive electricity uniformly dis-
+tributed throughout a sphere. The deflexion of a negatively
+electrified particle in passing through the atom is ascribed to
+two causes—(1) the repulsion of the corpuscles distributed
+through the atom, and (2) the attraction of the positive
+electricity in the atom. The deflexion of the particle in
+passing through the atom is supposed to be small, while
+the average deflexion after a large number m of encounters
+was taken as 1/m.0, where @ is the average deflexion due
+toa single atom. It was shown that the number N of the
+electrons within the atom could be deduced from observations
+of the scattering of electrified particles. The accuracy of this
+theory of compound scattering was examined experimentally
+by Crowther* in a later paper. His results apparently
+confirmed the main conclusions of the theory, and ke deduced,
+on the assumption that the positive electricity was coniinuous,
+that the number of electrons in an atom was about three
+times its atomic weight.
+
+The theory of Sir J. J. Thomson is based on the assumption
+that the scattering due to a single atomic encounter is small,
+and the particular structure assumed for the atom does not
+admit of a very large deflexion of an @ particle in traversing
+a single atom, unless it be supposed that the diameter of the
+sphere of positive electricity is minute compared with the
+diameter of the sphere of influence of the atom.
+
+Since the a and 8 particles traverse the atom, it should be
+possible from a close study of the nature of the deflexion to
+form some idea of the constitution of the atom to produce
+the effects observed. In fact, the scattering of high-speed
+charged particles by the atoms of matter is one of the most
+promising metliods of attack of this problem. The develop-
+ment of the scintillation method of counting single « particles
+affords unusual advantages of investigation, and the researches
+of H. Geiger by this method have already added much to
+our knowledge of the scattering of a rays by matter.
+
+§ 2. We shall first examine theoretically the single en-
+counters ¢ with an atom of simple structure, which is able to
+
+* Crowther, Proc. Roy. Soc. lxxxiv. p. 226 (1910).
+
++ The deviation of a particle throughout a considerable angle from
+an encounter with a single atom will in this paper be called “ single”
+scattering. The deviation of a particle resulting from a multitude of
+small deviations will be termed “compound ” scattering.
+
+--- Page 4 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+Scattering of a and B Particles by Matter. 671
+
+produce large deflexions of an « particle, and then compare
+the deductions from the theory with the experimental data
+available.
+
+Consider an atom which contains a charge «Ne at its
+centre surrounded by a sphere of electrification coutaining
+a charge Ne supposed uniformly distributed throughout a
+sphere of radius R. e is the fundamental unit of charge,
+which in this paper is taken as 4°65x 10-" Es. unit. We
+shall suppose that for distances less than 10-!? cm. the central
+charge and also the charge on the a particle may be sup-
+posed to be concentrated at a point. It will be shown that
+the main deductions from the theory are independent of
+whether the central charge is supposed to be positive or
+negative. Jor convenience, the sign will be assumed to be
+positive. The question of the stability of the atom proposed
+need not be considered at this stage, for this will obviously
+depend upon the minute structure of the atom, and on the
+motion of the constituent charged parts,
+
+In order to form some idea of the forces required to
+deflect an « particle through a large angle, consider an atom
+containing a positive charge Ne at its centre, and surrounded
+by a distribution of negative electricity Ne uniformly dis-
+tributed within a sphere of radius R. The electric force X
+and the potential V at a distance r from the centre of an
+atom for a point inside the atom, are given by
+
+=
+V=Ne(; ~ in + on
+
+Suppose an « particle of mass m and velocity u and charge B
+shot directly towards the centre of the atom. It will be
+brought to rest at a distance 6 from the centre given by
+
+1 38 B
+dmv =NeE (; — oR + am)
+
+Jé will be seen that 4 is an important quantity in later
+calculations. Assuming that the central charge is 100¢, it
+can be calculated that the value of 6 for an @ particle of
+velocity 2°09 x 10° cms. per second is about 3:4 x 10-” em,
+In this calculation 6 is supposed to be very small compared
+with R. Since R is supposed to be of the order of the
+radius of the atom, viz. 10-® em., it is obvious that the
+a particle before being turned back penetrates so close to
+
+--- Page 5 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+672 Prof. E. Rutherford on the
+
+the central charge, that the field due to the uniform dis-
+tribution of negative electricity may be neglected. In
+general, a simple calculation shows that for all deflexions
+greater than a degree, we may without sensible error suppose
+the deflexion due to the field of the central charge alone.
+Possible single deviations due to the negative electricity, if
+distributed in the form of corpuscles, are not taken into
+account at this stage of the theory. It will be shown later
+that its effect is in general small compared with that due to
+the central field.
+
+Consider the passage of a positive electrified particle close
+to the centre of an atom. Supposing that the velocity of
+the particle is not appreciably changed by its passage through
+the atom, the path of the particle under the influence of a
+repulsive force varying inversely as the square of the distance
+will be an hyperbola with the centre of the atom S as the
+external focus. Suppose the particle to enter the atom in
+the direction PO (fig. 1), and that the direction of motion
+
+Fig. 1.
+
+on escaping the atom is OP’. OP and OP! make equal angles
+with the line SA, where A is the apse of the hyperbola.
+p=SN=perpendicular distance from centre on direction of
+initial motion of particle.
+
+--- Page 6 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+Scattering of a and 8 Particles hy Matter. 673
+
+Let angle POA=8@.
+Let V=velocity of particle on entering the atom, v its
+velocity at A, then from consideration of angular momentum
+
+pV=SA.v.
+From conservation of energy
+tmV? = hmv? — ae ;
+
+b
+vm V2 (1 —sa)
+Since the eccentricity is sec 0,
+SA=S0 + OA =p cosec 0(1 + os 6)
+
+=p cot 6/2,
+p?=SA(SA—b)=p cot /2(p cot 6/2—4),
+b=2p cot 6.
+The angle of deviation ¢ of the particle is 7—26 and
+= p*
+cot $/2 = > eee ee ee
+
+This gives the angle of deviation of the particle in terms
+of b, and the perpendicular distance of the direction of
+projection from the centre of the atom.
+
+For illustration, the angle of deviation @ for different
+values of p/b are shown in the following table :—
+
+plo.... 10 5 2 1 a3) “25 “125
+Pues 59-7 1174 28° 53? 90°-—-127° 152°
+
+§ 3. Probability of single deflewion through any angle.
+
+Suppose a pencil of electrified particles to fall normally on
+a thin screen of matter of thickness ¢. With the exception
+of the few particles which are scattered through a large
+angle, the particles are supposed to pass nearly normally
+through the plate with only a small change of velocity.
+Let n=number of atoms in unit volume of material. Then
+the number of collisions of the particle with the atom of
+radius R is wR?nt in the thickness ¢.
+
+* A simple consideration shows that the deflexion is unaltered if the
+forces are attractive instead of repulsive.
+
+--- Page 7 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+674 Prof. E. Rutherford on the
+
+The probabilty m of entering an atom within a distance p
+of its centre is given by
+
+m= mp nt.
+
+Chance dm of striking within radii p and p+dp is given
+by
+
+dm=2rpnt .dp = Tob cot 6/2 cosec? $/2 dp, . (2)
+
+since cot 6/2=2p/d.
+
+The value of dm gives the fraction of the total number of
+particles which are deviated between the angles @ and
+gtd.
+
+The fraction p of the total number of particles which are
+deflected through an angle greater than ¢ is given by
+
+payznircot?p/2 . . . 1 . (3)
+
+The fraction p which is deflected between the angles $,
+and @, is given by
+
+p= nel? (cov —cot? $). ses (4)
+
+It is convenient to express the equation (2) in another
+form for comparison with experiment. In the case of the
+a rays, the number of scintillations appearing on a constant
+area of a zinc sulphide screen are counted for different
+angles with the direction of incidence of the particles.
+Let + = distance from point of incidence of a rays on
+scattering material, then if Q be the total number of particles
+falling on the scattering material, the number y of « particles
+falling on unit area which are deflected through an angle
+is given by
+
+_ Qdm _ nth}. Q . cosect 6/2
+I= Far sin db — 16r* 7+ + @)
+Since ba, we see from this equation that the
+
+number of « particles (scintillations) per unit area of zine
+sulphide screen at a given distance r from the point of
+
+--- Page 8 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+Scattering of a and B Particles by Matter. 675
+
+incidence of the rays is proportional to
+
+(1) cosec! 6/2 or 1/4 if ¢ be small ;
+
+(2) thickness of scattering material ¢ provided this is
+small ;
+
+(3) magnitude of central charge Ne ;
+
+(4) and is inversely proportional to (mu*)?, or to the
+fourth power of the velocity if m be constant.
+
+Tn these calculations, it is assumed that the « particles
+scittered through a large angle suffer only one large deflexion.
+For this to hold, it is essential that the thickness of the
+scattering material should be so small that the chance of
+a second encounter involving another large deflexion is very
+small. If, for example, the probability of a single deflexion
+@ in passing through a thickness ¢ is 1/1000, the probability
+of two successive deflexions each of value ¢ is 1/10°, and
+is negligibly small.
+
+The angular distribution of the « particles scattered from
+a thin metal sheet affords one of the simplest methods of
+testing the general correctness of this theory of single
+scattering. This has been done recently for a rays by
+Dr. Geiger *, who found that the distribution for particles
+deflected between 30° and 150° from a thin gold-foil was in
+substantial agreement with the theory. A more detailed
+account of these and other experiments to test the validity
+of the theory will be published later.
+
+§ 4. Alteration of velocity in an atomic encounter.
+
+It has so far been assumed that an « or 8 particle does not
+suffer an appreciable change of velocity as the result of a
+single atomic encounter resulting in a large deflexion of the
+particle. The effect of such an encounter in altering the
+velocity of the particle can be calculated on certain assump-
+tions. It is supposed that only two systems are involved,
+viz., the swiftly moving particle and the atom which it
+traverses supposed initially at rest. It is supposed that the
+principle of conservation of momentum and of energy
+applies, and that there is no appreciable loss of energy or
+momentum by radiation.
+
+* Manch. Lit. & Phil. Soc. 1910.
+
+--- Page 9 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+676 Prof. EB. Rutherford on the
+
+Let m be mass of the particle,
+av, = velocity of approach,
+v, = velocity of recession,
+M = mass of atom,
+
+V= velocity communicated to atom as result of
+encounter.
+
+Let OA (fig. 2) represent in magnitude and direction the
+momentum mv, of the entering particle, .
+and OB the momentum of the receding Fig. 2.
+particle which has been turned through an B
+angle AOB=q¢. Then BA represents in
+mugnitude and direction the momentum
+MV of the recoiling atom.
+
+(MV}?= (mv)? + (ney)? — 2m? rv, cos g. (1)
+By the conservation of energy
+MV?=mv?—mr,?.  . . (2)
+
+Suppose M/m=K and vye=pv,, where A
+pis <1.
+
+From (1) and (2),
+
+(K+1)p?—2p cos 6 = K—1,
+
+cos 1 ee
+p= Bad +p / K?—sin? d.
+
+Consider the case of an « particle of atomic weight 4,
+deflected through an angle of 90° by an encounter with an
+atom of gold of atomic weight 197.
+
+Since K=49 nearly,
+
+or
+
+_ /KA1
+PEAS KL
+
+or the velocity of the particle is reduced only about 2 per
+cent. by the encounter.
+In the case of aluminium K = 27/4 and for ¢ = 90°
+= °86.
+p It is seen that the reduction of velocity of the a particle
+becomes marked on this theory for encounters with the
+lighter atoms. Since the range of an a particle in air or
+other matter is approximately proportional to the enbe of
+the velocity, it follows that an « particle of range 7 cms.
+has its range reduced to 4°5 cms. after incurring a single
+
+='979,
+
+--- Page 10 ---
+[Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+Downloaded By:
+
+Scattering of a and 8 Particles by Matter. 677
+
+deviation of 90° in traversing an aluminium atom. This is
+of a magnitude to be easily detected experimentally. Since
+the value of K is very large for an encounter of a @ particle
+with an atom, the reduction of velocity on this formula is
+very small,
+
+Some very interesting cases of the theory arise in con-
+sidering the changes of velocity and the distribution of
+scattered particles when the @ particle encounters a light
+atom, for example a hydrogen or helium atom, A discussion
+of these and similar cases is reserved until the question has
+been examined experimentally,
+
+§ 5. Comparison of single and compound scattering.
+
+Before comparing the results of theory with experiment, it
+is desirable to consider the relative importance of single and
+compound scattering in determining the distribution of the
+seattered particles, Since the atom is supposed to consist of
+a central charge surrounded by a uniform distribution of the
+opposite sign through a sphere of radius R, the chance of
+encounters with the atom involving small deflexions is very
+great compared with the chance of a single large deflexion.
+
+This question of compound scattering has been examined
+by Sir J. J. Thomson in the paper previously discussed (§ 1).
+In the notation of this paper, the average deflexion ¢, due to
+the field of the sphere of positive electricity of radius R and
+quantity Ne was found by him to be
+
+$=" Neo 1
+40 me? RO
+The average deflexion ¢, due to the N negative corpuscles
+supposed distributed uniformly throughout the sphere was
+found to be
+_16 eB 1, AN
+be = 5 mu? it 2°
+
+The mean deflexion due to both positive and negative electricity
+was taken as
+
+(2-+¢2)".
+
+Ina similar way, it is not difficult to calculate the average
+deflexion due to the atom with a central charge discussed in
+this paper.
+
+Since the radial electric field X at any distance r from the
+
+--- Page 11 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+678 Prof. B. Ratherford on the
+
+centre is given by
+1 fr
+X=Ne(5~ ju):
+
+it is not difficult to show that the deflexion (supposed small)
+of an electrified particle due to this field is given by
+3/2
+
+r=H-B)"
+
+where p is the perpendicular from the centre on the path of
+the particle and 6 has the same value as before. It is seen
+that the value of @ increases with diminution of p and becomes
+great for small values of ¢.
+
+Since we have already seen that the deflexions become
+very large for a particle passing near the centre of the atom,
+it is obviously not correct to find the average value by
+assuming @ is small.
+
+Taking R of the order 10-%cm., the value of p for a large
+deflexion is for a and @ particles of the order 10-4 cm.
+Since the chance of an encounter involving a large defiexion
+is small compared with the chance of small deflexions, a
+simple consideration shows that the average small deflexion
+is practically unaltered if the large deflexions are omitted.
+This is equivalent to integrating over that part of the cross
+section of the atom where the deflexions are small and
+neglecting the small central area. It can in this way be
+simply shown that the average small deflexion is given by
+
+3m bh
+= ER
+
+This value of ¢, for the atom with a concentrated central
+
+charge is three times the magnitude of the average deflexion
+
+for the same value of Ne in the type of atom examined by
+
+Sir J. J. Thomson. Combining the deflexions due to the
+electric field and to the corpuscles, the average deflexion is
+
+b BA \ve
+
+(b2+¢22)? or a 554+ **) .
+
+It will be seen later that the value of N is nearly proportional
+to the atomic weight, and is about 100 for gold. tthe effect
+due to scattering of the individual corpuscles expressed by
+the second term of the equation is consequently small for
+heavy atoms compared with that due to the distributed
+electric field.
+
+--- Page 12 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+Scattering of a and 8 Particles by Matter. 679
+
+Neglecting the second term, the average deflexion per
+. dab r : as .
+
+atom is BR: We are now in a position to consider the
+relative effects on the distribution of particles due to single
+and to compound seattering. Following J. J. Thomson’s
+argument, the average deflexion 6, after passing through a
+thickness ¢ of matter is proportional to the square root of the
+number of encounters and is given by
+
+3arb
+8K
+where n as before is equal to the number of atoms per unit
+volume.
+
+The probability p, for compound scattering that the
+deflexion of the particle is greater than ¢ is equal to e~#/%",
+
+O.= VaR? .n.t =? A/ ont,
+
+4 9x3
+sonsequently = ra 8? nt log py.
+
+Next suppose that single scattering alone is operative. We
+have seen (§ 3) that the probability p, of a deflexion greater
+than ¢ is given by
+
+B= FU? nt cot*g/2.
+
+By comparing these two equations
+
+ps log py = —'181¢? cot 7/2,
+¢ is sufficiently small that
+
+tan $/2=¢/2,
+prlog p= —'72.
+If we suppose p.=°5, then p,=*24.
+If r=, Pix 0004.
+
+Jt is evident from this comparison, that the probability for
+any given deflexion is always greater for single than for
+compound scattering, The difference is especially marked
+when only a small fraction of the particles are scattered
+through any given angle. It follows from this result that
+the distribution of particles due to encounters with the atoms
+js for small thicknesses mainly governed by single scattering.
+No doubt compound scattering produces some effect in
+equalizing the distribution of the scattered particles ; but its
+effect. becomes relatively smaller, the smaller the fraction
+of the particles seattered through a given angle.
+
+--- Page 13 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+680 Prof. E. Rutherford on the
+
+§6. Comparison of Theory with Experiments.
+
+On the present theory, the value of the central charge Ne
+is an important constant, and it is desirable to determine its
+value for different atoms. This can be most simply done by
+determining the small fraction of a or @ particles of known
+velocity falling ona thin metal screen, which are scattered
+between ¢ and ¢+d¢ where ¢ is the angle of deflexion.
+The influence of compound scattering should be small when
+this fraction is small.
+
+Experiments in these directions are in progress, but it is
+desirable at this stage to discuss in the light of the present
+theory the data already published on scattering of @ and B
+particles.
+
+The following points will be discussed :—
+
+(a) The “diffuse reflexion” of @ particles, i.e. the
+scattering of « particles through large angles (Geiger
+and Marsden).
+
+(b) The variation of diffuse reflexion with atomic weight
+of the radiator (Geiger and Marsden).
+
+(c) The average scattering of a pencil of « rays trans-
+mitted through a thin metal plate (Geiger).
+
+(d) The experiments of Crowther on the scattering of
+8 rays of different velocities by various metals.
+
+(a) In the paper of Geiger and Marsden (loc. cit.) on the
+diffuse reflexion of « particles falling on various substances
+it was shown that about 1/8000 of the a particles from radium
+C falling on a thick plate of platinum are scattered back in
+the direction of the incidence, This fraction is deduced on
+the assumption that the a particles are uniformly scattered
+in all directions, the observations being made for a deflexion
+of about 90°. The form of experiment is not very suited for
+accurate calculation, but from the data available it can be
+shown that the scattering observed is about that to be expected
+on the theory if the atom of platinum has a central charge of
+about 100 e.
+
+(b) In their experiments on this subject, Geiger and
+Marsden gave the relative number of @ particles diffusely
+reflected from thick layers of different metals, under similar
+conditions. The numbers obtained by them are given in the
+table below, where z represents the relative number of
+scattered particles, measured by the number of scintillations
+per minute on a zine sulphide sereen.
+
+--- Page 14 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+Scattering of a and 8 Particles by Matter. 681
+
+Metal. Atomic weight. z 2) AB
+Lead oe. 207 62 208
+197 67 22
+195 63 232
+119 34 226
+Silver ..... 108 27 241
+Copper 64 145 225
+Iron .. 56 102 250
+Aluminium .., 27 34 243
+
+Average 233
+
+On the theory of single scattering, the fraction of the total
+number of # particles scattered through any given angle in
+passing through a thickness ¢ is proportional to n.A%,
+assuming that the central charge is proportional to the atomic
+weight A. In the present case, the thickness of matter from
+which the scattered « particles are able to emerge and affect
+the zinc sulphide screen depends on the metal. Since Bragg
+has shown that the stopping power of an atom for an a
+particle is proportional to the square root of its atomic weight,
+the value of nt for different elements is proportional-to 1/ //A.
+In this case ¢ represents the greatest depth from which the
+scattered a particles emerge. The number z of « particles
+scattered back from a thick layer is consequently proportional
+to A*? or z/A*? should be a constant.
+
+To compare this deduction with experiment, the relative
+values of the latter quotient are given in the last column.
+Considering the difficulty of the experiments, the agreement
+between theory and experiment is reasonably good *.
+
+The single large scattering of particles will obviously
+affect to some extent the shape of the Bragg ionization curve
+for a pencil of a rays. This effect of large scattering should
+be marked when the a rays have traversed screens of metals
+of high atomic weight, but should be small for atoms of light
+atomic weight.
+
+(c) Geiger made a careful determination of the scattering
+of « particles passing through thin metal foils, by the
+scintillation method, and deduced the most probable anglo
+
+* The effect of change of velocity in an atomic encounter is neglected
+in this calculation.
+
+Phil. Mag. 8. 6. Vol. 21, No, 125. May 191L. 2 Y¥
+
+--- Page 15 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+682 Prof. E. Rutherford on the
+
+through which the « particles are deflected in passing through
+known thicknesses of different kinds of matter.
+
+A narrow pencil of homogeneous @ rays was used as a
+source. After passing through the scattering foil, the total
+number of a particles deflected through different angles
+was directly measured. The angle for which the number of
+scattered particles was a maximum was taken as the most
+probable angle. The variation of the most probable angle
+with thickness of matter was determined, but calculation from
+these data is somewhat complicated by the variation of
+velocity of the « particles in their passage through the
+scattering material. A consideration of the curve of distribu-
+tion of the « particles given in the paper (loc. cit. p. 496) shows
+that the angle through which half the particles are scattered
+is about 20 per cent greater than the most probable angle.
+
+We have already seen that compound scattering may
+become important when abovt half the particles are scattered
+through a given angle, and it is difficult to disentangle in
+such cases the relative effects due to the two kinds of
+scattering. An approximate estimate can be made in the
+following way :— From (§ 5) the relation between the
+probabilities p, and p, for compound and single scattering
+respectively is given by
+
+prlog p= —'721.
+The probability g of the combined effects may as a first
+approximation be taken as
+
+q=(pi+pe)”.
+If q='5, it follows that
+
+p= '2 and ps='46.
+
+We have seen that the probability p, of a single deflexion
+greater than ¢ is given by
+
+pas ie. tb? cot?p/2.
+
+Since in the experiments considered ¢ is comparatively small
+
+VPs ye 2NeH
+
+NV wnt mu*
+
+Geiger found that the most probable angle of scattering
+of the « rays in passing through a thickness of gold equivalent
+in stopping power to about °76 cm. of air was 1°40’. The
+angle ¢ through which half the « particles are turned thus
+corresponds to 2° nearly.
+
+t='00017 cm. ; n=6:07 x 10” ;
+wu (average value) =1°8 x 10°.
+B/m=1'5 x 10". ns. units ; e=4:65 x 10-',
+
+--- Page 16 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+Seatlering of a and B Particles by Matter. 683
+
+Taking the probability of single scattering ='46 and
+substituting the above values in the formula, the value of N
+for gold comes out to be 97.
+
+For a thickness of gold equivalent in stopping power to
+2°12 cms. of air, Geiger found the most probable angle to be
+3°40’, In this case t=-00047, 6=4°4, and average u=
+1:7 x 10°, and N comes out to be 114.
+
+Geiger showed that the most probable angle of deflexion
+for an atom was nearly proportional to its atomic weight. It
+consequently follows that the value of N for different atoms
+should be nearly proportional to their atomic weights, at any
+rate for atomic weights between gold and aluminium.
+
+Since the atomic weight of platinum is nearly equal to that
+of gold, it follows from these considerations that the
+magnitude of the diffuse reflexion of « particles through more
+than 90° from gold and the magnitude of the average small
+angle scattering of a pencil of rays in passing through gold-
+foil are both explained on the hypothesis of single scattering
+by supposing the atom of gold has a central charge of about
+100 e.
+
+(d) Experiments of Crowther on scattering of B rays—
+We shall now consider how far the experimental results of
+Crowther on scattering of 8 particles of different velocities
+by various materials can be explained on the general theory
+of single scattering. On this theory, the fraction of 8
+particles p turned through an angle greater than ¢ is
+given by
+
+p= Tn tH cot? p/2.
+
+In most of Crowther’s experiments ¢ is sufficiently small
+that tan p/2 may be put equal to ¢/2 without much error.
+Consequently
+
+P=2rn.t.P if p=1/2.
+
+Ou the theory of compound scattering, we have already
+seen that the chance p, that the deflexion of the particles
+is greater than ¢ is given by
+
+9x8
+
+Plog p= —Grr-t
+
+Since in the experiments of Crowther the thickness ¢ of
+matter was determined for which p,;=1/2,
+g?= "967 nt L
+
+For a probability of 1/2, the theories of single and compound
+2Y¥2
+
+--- Page 17 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+684 Prof. E. Rutherford on the
+
+scaitering are thus identical in general form, but differ by a
+numerical constant. It is thus clear that the main relations
+on the theory of compound scattering of Sir J. J. Thomson,
+which were verified experimentally by Crowther, hold equally
+well on the theory of single scattering.
+
+For example, if t, be the thickness for which half the
+particles are scattered through an angle }, Crowther showed
+
+2
+
+that ¢/ 7tm and also i Vtm were constants for a given
+inaterial when ¢ was fixed. These relations hold also on the
+theory of single scattering. Notwithstanding this apparent
+similarity in form, the two theories are fundamentally
+different. In one ease, the effects observed are due to
+cumulative effects of small deflexions, while in the other
+the large deflexions are supposed to result from a single
+encounter. The distribution of scattered particles is entirely
+different on the two theories when the probability of deflexion
+greater than ¢ is small.
+
+‘We havo already seen that the distribution of scattered
+a particles at various angles has been found by Geiger to be
+in substantial agreement with the theory of single scattering,
+but cannot be explained on the theory of compound scat-
+tering alone. Since there is every reason to believe that
+the laws of scattering of a and @ particles are very similar,
+the law of distribution of scattered @ particles should be the
+same as for a particles for small thicknesses of matter.
+Since the value of mu?/B for the 6 particles is in most cases
+much smaller than the corresponding value for the # par-
+ticles, the chance of large single deflexions for 8 particles in
+passing through a given thickness of matter is much greater
+than for & particles. Since on the theory of single scatterin
+the fraction of the number of particles which are deflected
+through a given angle is proportional to kt, where ¢ is the
+thickness supposed small and & a constant, the number of
+particles which are undeflected through this angle is propor-
+tional to 1~At. From considerations based on the theory of
+compound scattering, Sir J. J. Thomson deduced that the
+probability of deflexion less than ¢ is proportional to 1—e-#/
+where pw is a constant for any given value of .
+
+The correctness of this latter formula was tested by Crowther
+by measuring electrically the fraction I/Iy of the scattered
+B particles which passed through a circular opening sub-
+tending an angle of 36° with the scattering material. If
+
+I/Ip=1—e-*",
+
+the value of I should decrease very slowly at first with
+
+--- Page 18 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+Scattering of # and 8 Particles by Matter. 685
+
+increase of ¢. Crowther, using aluminium as scattering
+material, states that the variation of I/Iy was in good accord
+with this theory for small values of ¢. On the other hand,
+if single scattering be present, as 1b undoubtedly is for a rays,
+the curve showing the relation between I/I, and ¢ should be
+nearly linear in the initial stages. The experiments of
+Madsen * on scattering of @ rays, although not made with
+quite so small a thickness of aluminium as that used by
+Crowther, certainly support such a conclusion. Considering
+the importance of the point at issue, further experiments on
+this question are desirable.
+
+From the table given by Crowther of the value ¢/ “tm for
+different elements for 8 rays of velocity 2°68 x 10 cms.
+per second, the values of the central charge Ne can be
+calculated on the theory of single scattering. a is supposed,
+as in the case of the @ rays, that for the given value of
+$/ “tm the fraction of the @ particles deflected by single
+scattering through an angle greater than ¢ is ‘46 instead
+of °5.
+
+The values of N calculated from Crowther’s data are
+given below.
+
+Atomic
+
+Element. | weight. o/N im N.
+Aluminium ctncad 27 4:25 22
+Copper ..cccecccseeseseeeeees 63-2 100 42
+Silver ......ceecceeseeeeeseeeeees 108 154 78
+Platinum ........cceeseeeeee 194 290 138
+
+It will be remembered that the values of N for gold
+deduced from scattering of the # rays were in two calcula-
+tions 97 and 114. These numbers are somewhat smaller
+than the values given above for platinum (viz. 138), whose
+atomic weight is not very different from gold. Taking into
+account the uncertainties involved in the calculation from
+the experimental data, the agreement is sufficiently close to
+indicate that the same general laws of scattering hold for the
+a and @ particles, notwithstanding the wide differences in
+the relative velocity and mass of these particles.
+
+As in the case of the « rays, the value of N should be
+most simply determined for any given element by measuring
+
+* Phil, Mag. xviii. p. 909 (1909).
+
+--- Page 19 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+686 Prof, E. Rutherford on the
+
+the small fraction of the incident 8 particles scattered through
+a large angle. In this way, possible errors due to small
+scattering will be avoided.
+
+The scattering data for the @ rays, as well as for the
+a rays, indicate that the central charge in an atom is
+approximately proportional to its atomic weight. This falls
+in with the experimental deductions of Schmidt*. In his
+theory of absorption of 8 rays, he supposed that in traversing
+a thin sheet of matter, a small fraction a of the particles are
+stopped, and a small fraction 8 are reflected or scattered
+back in the direction of incidence. From comparison of the
+absorption curves of different elements, he deduced that
+the value of the constant @ for different elements is propor-
+tional to nA? where z is the number of atoms per unit volume
+and A the atomic weight of the element. This is exactly the
+relation to be expected on the theory of single scattering if
+the central charge on an atom is proportional to its atomic
+weight.
+
+§ 7. General Considerations.
+
+In comparing the theory outlined in this paper with the
+experimental results, it has been supposed that the atom
+consists of a central charge supposed concentrated at a point,
+and that the large single deflexions of the « and 8 particles
+are mainly due to their passage through the strong central
+field. The effect of the equal and opposite compensating
+charge supposed distributed uniformly throughout a sphere
+has been neglected. Some of the evidence in support of
+these assumptions will now be briefly considered. For con-
+creteness, consider the passage of a high speed @ particle
+through an atom having a positive central charge Ne, and
+surrounded by a compensating charge of N electrons.
+Remembering that the mass, momentum, and kinetic energy
+of the # particle are very large compared with the corre-
+sponding values for an electron in rapid motion, it does not
+seem possible from dynamic considerations that an @ particle
+can be deflected through a large angle by a close approach
+to an electron, even if the latter be in rapid motion and
+constrained by strong electrical forces. It seems reasonable
+to suppose that the chance of single deflexions through a
+large angle due to this cause, if not zero, must be exceedingly
+small compared with that due to the central charge.
+
+It is of interest to examine how far the experimental
+evidence throws light on the question of the extent of the
+
+* Annal. d. Phys, iv. 28. p. 671 (1907).
+
+--- Page 20 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+Scattering of « and 8 Particles by Matter. 687
+
+distribution of the central charge. Suppose, for example,
+the central charge to be composed of N unit charges dis-
+tributed over such a volume that the large single deflexions
+are mainly due to the constituent charges and not to the
+external field produced by the distribution. It has been
+shown (§ 3) that the fraction of the « particles scattered
+through a large angle is proportional to (NeE)?, where Ne is
+the central charge concentrated at a point and E the charge
+on the deflected particle. If, however, this charge is dis-
+tributed in single units, the fraction of the a particles
+scattered through a given angle is proportional to Ne? instead
+of N’e, In this calculation, the influence of mass of the
+constituent particle hus been neglected, and account has only
+been taken of its electric field. Since it has been shown that
+the value of the central point charge for gold must be about
+100, the value of the distributed charge required to produce
+the same proportion of single deflexions through a large
+angle should be at least 10,000. Under these conditions the
+mass of the constituent particle would be small compared
+with that of the @ particle, and the difficulty arises of the
+production of large single deflexions at all. In addition,
+with such a large distributed charge, the effect of compound
+scattering is relatively more important than that of single
+scattering. For example, the probable small angle of de-
+flexion of a pencil of « particles passing through a thin gold
+foil would be much greater than that experimentally observed
+by Geiger (§ 6-c). The large and small angle scattering
+could not then be explained by the assumption of a central
+charge of the same value. Considering the evidence as a
+whole, it seems simplest to suppose that the atom contains
+a central charge distributed through a very small volume,
+and that the large single deflexions are due to the central
+charge as a whole, and not to its constituents, At the same
+time, the experimental evidence is not precise enough to
+negative the possibility that a small fraction of the positive
+charge may be carried by satellites extending some distance
+from the centre. Evidence on this point could be obtained
+by examining whether the same central charge is required
+to explain the large single deflexions of « and 8 particles ;
+for the # particle must approach much closer to the centre
+of the atom than the @ particle of average speed to suffer
+the same large deflexion.
+
+The general data available indicate that the value of this
+central charge for different atoms is approximately propor-
+tional to their atomic weights, at any rate for atoms heavier
+than aluminium. It will be of great interest to examine
+
+--- Page 21 ---
+Downloaded By: [Massachusetts Institute of Technology, MIT Libraries] At: 18:01 24 March 2011
+
+688 Scattering of a and B Particles by Matter.
+
+experimentally whether such a simple relation holds also for
+the lighter atoms. In cases where the mass of the deflecting
+atom (for example, hydrogen, helium, lithium) is not very
+different from that of the « particle, the general theory of
+single scattering will require modification, for it is necessary
+to take into account the movements of the atom itself
+(see § 4).
+
+It is of interest to note that Nagaoka * has mathematically
+considered the properties of a ‘‘ Saturnian” atom which he
+supposed to consist of a central attracting mass surrounded
+by rings of rotating electrons. He showed that such a
+system was stable if the attractive force was large. From
+the point of view considered in this paper, the chance of
+large deflexion would practically be unaltered, whether the
+atom is considered to be a disk or a sphere. It may be
+remarked that the approximate value found for the central
+charge of the atom of gold (100e) is about that to be
+expected if the atom of gold consisted of 49 atoms of helium,
+each carrying a charge 2e. This may be only a coincidence,
+but it is certainly suggestive in view of the expulsion of
+helium atoms carrying two unit charges from radioactive
+matter,
+
+The deductions from the theory so far considered are
+independent of the sign of the central charge, and it has not
+so far been found possible to obtain definite evidence to
+determine whether it be positive or negative. It may be
+possible to settle the question of sign by consideration of the
+difference of the laws of absorption of the 8 particle to be
+expected on the two hypotheses, for the effect of radiation in
+reducing the velocity of the @ particle should be far more
+marked with a positive than with a negative centre. If the
+central charge be positive, it is easily seen that a positively
+charged mass if released from the centre of a heavy atom,
+would acquire a great velocity in moving through the electric
+field. It may be possible in this way to account for the high
+velocity of expulsion of « particles without supposing that
+they are initially in rapid motion within the atom.
+
+Farther consideration of the application of this theory to
+these and other questions will be reserved for a later paper,
+when the main deductions of the theory have been tested
+experimentally. JExperiments in this direction are already
+in progress by Geiger and Marsden.
+
+University of Manchester,
+April 1911.
+
+* Nagaoka, Phil. Mag. vii. p. 445 (1904).

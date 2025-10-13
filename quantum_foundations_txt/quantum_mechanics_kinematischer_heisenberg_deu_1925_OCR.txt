@@ -1,0 +1,751 @@
+
+--- Page 1 ---
+Über quantentheoretische Umdeutung
+kinematischer und mechanischer Beziehungen.
+
+Von W. Heisenberg in Göttingen.
+(Eingegangen am 29, Juli 1925.)
+
+In der Arbeit soll versucht werden, Grundlagen zu gewinnen für eine quanten-
+theoretische Mechanik, die ausschließlich auf Beziehungen ‚zwischen prinzipiell
+beobachtbaren Größen basiert ist.
+
+Bekanntlich läßt sich gegen die formalen Regeln, die allgemein in
+der Quantentheorie zur Berechnung beobachtbarer Größen (z. B. der
+Energie im Wasserstoffatom) benutzt werden, der schwerwiegende Ein-
+wand erheben, daß jene Rechenregeln als wesentlichen Bestandteil Be-
+ziehungen enthalten zwischen Größen, die scheinbar prinzipiell nicht
+beobachtet werden können (wie z.B. Ort, Umlaufszeit des Elektrons),
+daß also jenen Regeln offenbar jedes anschauliche physikalische Funda-
+ment mangelt, wenn man nicht immer noch an der Hoffnung festhalten
+will, daß jene bis jetzt unbeobachtbaren Größen später vielleicht experi-
+mentell zugänglich gemacht werden könnten. Diese Hoffnung könnte
+als berechtigt angesehen werden, wenn die genannten Regeln in sich
+konsequent und auf einen bestimmt umgrenzten Bereich quantentheoretischer
+Probleme anwendbar wären. Die Erfahrung zeigt aber, daß sich nur
+das Wasserstoffatem und der Starkeffekt dieses Atoms jenen formalen
+Regeln der Quantentheorie fügen, daß aber schon beim Problem der
+„gekreuzten Felder“ (Wasserstoffatom in elektrischem und magnetischem
+Feld verschiedener Richtung) fundamentale Schwierigkeiten auftreten,
+daß die Reaktion der Atome auf periodisch wechselnde Felder sicherlich
+nicht durch die genannten Regeln. beschrieben werden kann, und daß
+schließlich eine Ausdehnung. der Quantenregeln auf die Behandlung der
+Atome mit mebreren Elektronen sich als unmöglich erwiesen hat. Es
+ist üblich geworden, dieses Versagen der quantentheoretischen Regeln,
+die ja wesentlich durch die Anwendung der klassischen Mechanik
+charakterisiert waren, als Abweichung von der klassischen Mechanik zu
+bezeichnen. Diese Bezeichnung kann aber wohl kaum als sinngemäß
+angesehen werden, wenn man bedenkt, daß schon die (ja ganz allgemein
+gültige) Einstein-Bohrsche Frequenzbedingung eine so völlige Absage
+an die klassische Mechanik oder besser, vom Standpunkt der Wellen-
+theorie aus, an die dieser Mechanik zugrunde liegende Kinematik dar-
+
+stellt, daß auch bei den einfachsten quantentheoretischen Problemen an
+Zeitschrift für Physik. Bd. XXXIII. 59
+
+--- Page 2 ---
+880 W. Heisenberg,
+
+eine Gültigkeit der klassischen Mechanik schlechterdings nicht gedacht
+werden kann. Bei dieser Sachlage scheint es geratener, jene Hoffnung
+auf eine Beobachtung der bisher unbeobachtbaren Größen (wie Lage,
+Umlaufszeit des Elektrons) ganz aufzugeben, gleichzeitig also einzuräumen,
+daß die teilweise Übereinstimmung der genannten Quantenregeln mit der
+Erfahrung mehr oder weniger zufällig sei, und zu versuchen, eine der
+klassischen Mechanik analoge quantentheoretische Mechanik auszubilden,
+in welcher nur Beziehungen zwischen becbachtbaren Größen vorkommen.
+Als die wichtigsten ersten Ansätze zu einer solchen quantentheoretischen
+Mechanik kann man neben der Frequenzbedingung die Kramerssche
+Dispersionstheorie!) und die auf dieser Theorie weiterbauenden Arbeiten?)
+ansehen. Im folgenden wollen wir einige neue quantenmechanische Be-
+ziehungen herauszustellen suchen und zur vollständigen Behandlung einiger
+spezieller Probleme benutzen. Wir werden uns dabei auf Probleme von
+einem Freiheitsgrade beschränken.
+
+$1. In der klassischen Theorie ist die Strahlung eines bewegten
+
+Elektrons (in der Wellenzone, d.h. En “) nicht allein durch die
+
+Ausdrücke: e
+‘= Fr) kill,
+e
+9-5
+gegeben, sondern es kommen in nächster Näherung noch Glieder hinzu,
+z.B. von der Form €
+Fra)
+die man als „Quadrupolstrahlung“ bezeichnen kann, in noch höherer Nähe-
+rung Glieder z.B. der Form €
+— 60};
+re
+in dieser Weise läßt sich die Näherung beliebig weit treiben. (Im
+Vorhergehenden bedeuteten: €, 5 die Feldstärken im Aufpunkt, e die
+Ladung des Elektrons, r den Abstand des Elektrons vom Aufpunkt,
+vd die Geschwindigkeit des Elektrons.)
+Man kann sich fragen, wie jene höheren Glieder in der Quanten-
+tbeorie aussehen müßten. Da in der klassischen Theorie die höheren
+
+3) H. v. Kramers, Nature 113, 673, 1924.
+
+2) M. Born, ZS, f. Phys. 26, 379, 1924. H. A. Kramers und W. Heisen-
+berg, ZS. f. Phys. 81, 681, 1925. M. Born und P. Jordan, ZS. f. Phys. (Im
+Erscheinen.)
+
+--- Page 3 ---
+Quantentheoretische Umdeutung kinematischer u. mechanischer Beziehungen. 881
+
+Näherungen einfach berechnet werden können, wenn die Bewegung
+des Elektrons bzw. ihre Fourierdarstellung gegeben ist, so wird man in
+der Quantentheorie Ähnliches erwarten. Diese Frage hat nichts mit
+Elektrodynamik zu tun, sondern sie ist, dies scheint uns besonders
+wichtig, rein kinematischer Natur; wir können sie in einfachster Form
+folgendermaßen stellen: Gegeben sei eine an Stelle der klassischen Größe
+x(t) tretende quantentheoretische Größe; welche quantentheoretische
+Größe tritt dann an Stelle von # (h)??
+
+Bevor wir diese Frage beantworten können, müssen wir uns daran
+erinnern, daß es in der Quantentheorie nicht möglich war, dem Elektron
+einen Punkt im Raum als Funktion der Zeit mittels beobachtbarer
+Größen zuzuordnen. Wohl aber kann dem Elektron auch in der
+Quantentheorie eine Ausstrahlung zugeordnet werden; diese Strahlung
+wird beschrieben erstens durch die Frequenzen, die als Funktionen zweier
+Variablen auftreten, quantentheoretisch in der Gestalt:
+
+vinn —ı) = WW),
+
+in der klassischen Theorie in der Form:
+law
+v(n,e) = a.v(n) = re
+(Hierin ist n.h — J, einer der kanonischen Konstanten, gesetzt.)
+Als charakteristisch für den Vergleich der klassischen mit der
+Quantentheorie hinsichtlich der Frequenzen kann man die Kombinations-
+
+relationen anschreiben:
+Klassisch:
+
+v0) + vB) = vina + PB).
+Quantentheoretisch;
+vn —)+rn— un —a— PB) —=v(nn—a—Pß)
+bzw. vn — Bn—a— dB + van —B) = vimnn—a—B).
+
+Neben den Frequenzen sind zweitens zur Beschreibung der Strahlung
+notwendig die Amplituden; die Amplituden können als komplexe Vek-
+toren (mit je sechs unabhängigen Bestimmungsstücken) aufgefaßt werden
+und bestimmen Polarisation und Phase. Auch sie sind Funktionen der
+zwei Variablen » und &, so daß der betreffende Teil der Strahlung durch
+den folgenden Ausdruck dargestellt wird:
+
+Quantentheoretisch:
+Re {A (n,n — 0) ion nat), [63)
+Klassisch:
+Be {U, (m) den) et), &)
+
+--- Page 4 ---
+882 W. Heisenberg,
+
+Der (in X enthaltenen) Phase scheint zunächst eine physikalische
+Bedeutung in der Quantentheorie nicht zuzukommen, da die Frequenzen
+der Quantentheorie mit ibren Oberschwingungen im allgemeinen nicht
+kommensurabel sind. Wir werden aber sofort sehen, daß die Phase
+auch in der Quantentheorie eine bestimmte, der in der klassischen Theorie
+analoge Bedeutung hat. Betrachten wir jetzt eine bestimmte Größe x (t)
+in der klassischen Theorie, so kann man sie repräsentiert denken durch
+eine Gesamtheit von Größen der Forın
+
+An) do@.ei,
+
+die, je nachdem die Bewegung periodisch ist oder nicht, zu einer Summe
+oder zu einem Integral vereinigt & (f) darstellen:
+
++®
+nd) = De A, (m) eo m.et
+
+x (n, it) = [Mnswean
+
+_—
+
+bzw. + | (2a)
+
+Eine solche Vereinigung der entsprechenden quantentheoretischen
+Größen scheint wegen der Gleichberechtigung der Größen n, n — « nicht
+ohne Willkür möglich und deshalb nicht sinnvoll; wohl aber kann man
+die Gesamtheit der Größen
+
+Un, n — a) demn—edt
+
+als Repräsentant der Größe x (f) auffassen und dann die oben gestellte
+Frage zu beantworten suchen: Wodurch wird die Größe x (t)? repräsentiert?
+Die Antwort lautet klassisch offenbar so:
+
+Bun) do wer — DEU U. mer (8)
++
+bzw. | WM_ de mtr atde, &
+wobei dann
++
+x? — >y; Bon) ao mBt &
++00
+
+bzw. — | Bun)erometap. 1)
+
+—.
+
+--- Page 5 ---
+Quantentheoretische Umdeutung kinematischer u. mechanischer Beziehungen. 883
+
+Quantentheoretisch scheint es die einfachste und natürlichste An-
+nahme, die Beziehungen (3, 4) durch die folgenden zu ersetzen:
+
++.
+Blnın — Bdemn Di — De Umn—a) Un —u, n — p) don (7)
++ oo
+bzw. — | dA n,n — a) Un —u,n— B)eemn-Pt; (8)
+
+— oo
+
+und zwar ergibt sich diese Art der Zusammensetzung nahezu zwangläufig
+aus der Kombinationsrelation der Frequenzen. Macht man diese An-
+nahme (7) und (8), so erkennt man auch, aß die Phasen der quanten-
+theoretischen X eine ebenso große physikalische Bedeutung haben wie
+die in der klassischen Theorie: nur der Anfangspunkt der Zeit und daher
+eine allen A gemeinsame Phasenkonstante ist willkürlich und ohne
+physikalische Bedeutung; doch die Phase der einzelnen X geht wesent-
+lieh in die Größe B ein!). Eine geometrische Interpretation solcher
+quantentheoretischer Phasenbeziehungen in Analogie zur klassischen
+Theorie scheint zunächst kaum möglich.
+
+Fragen wir weiter nach dem Repräsentant der Größe #(#)?, so finden
+wir ohne Schwierigkeit:
+
+Klassisch:
++00 +
+Een = BED 5 Um Un). 6)
+Quantentheoretisch:
++0 +0
+Enmn—y) =D Des Un, na) Un-,n-u-ß) U(n-a-B,n-y) (10)
+
+bzw. die entsprechenden Integrale.
+
+In ähnlicher Weise lassen sich alle Größen der Form %(#)” quanten-
+theoretisch darstellen, und wenn irgend eine Funktion ffz(f)] gegeben
+ist, so kann man offenbar immer dann, wenn diese Funktion nach Potenz-
+reihen in x entwickelbar ist, das quantentheoretische Analogon finden.
+Eine wesentliche Schwierigkeit entsteht jedoch, wenn wir zwei Größen
+
+.x2(d, 4 ($) betrachten und nach dem Produkt »(t) y(!) fragen.
+
+}) Vgl. auch H. A. Kramers und W. Heisenberg, Ic, In die dort
+benutzten Ausdrücke für das induzierte Streumoment gehen die Phasen wesent-
+lich ein.
+
+--- Page 6 ---
+884 'W. Heisenberg,
+
+Sei »(i) durch W, y(f) durch ® charakterisiert, so ergibt sich als
+Darstellung von x (f).y(t): Klassisch:
+
++0
+So) = De lu) d-. m)
+Quantentheoretisch:
++0
+Em,n— B) = De Un,n —a)B(n — un — P).
+
+Während klassisch x (f)..y(f) stets gleich y(f) x (€) wird, braucht dies
+in der Quantentheorie im allgemeinen nicht der Fall zu sein. — In speziellen
+Fällen, z. B. bei der Bildung von x(t).x(f)?, tritt diese Schwierigkeit
+nicht auf.
+
+Wenn es sich, wie in der zu Beginn dieses Paragraphen gestellten
+Frage, um Bildungen der Form
+
+[AURZU)
+handelt, so wird man quantentheoretisch ®% ersetzen sollen durch
+nr um zu erreichen, daß v® als Differentialquotient von £ auf-
+
+tritt. In ähnlicher Weise lassen sich wohl stets naturgemäße quanten-
+theoretische Mittelwerte angeben, die allerdings in noch höherem Grade
+hypothetisch sind als die Formeln (7) und (8).
+
+Abgesehen von der eben geschilderten Schwierigkeit dürften Formeln
+vom Typus (7), (8) allgemein genügen, um auch die Wechselwirkung der
+Elektronen in einem Atom durch die charakteristischen Amplituden der
+Elektronen auszudrücken.
+
+82. Nach diesen Überlegungen, welche die Kinematik der Quanten-
+theorie zum Gegenstand hatten, werden wir zum mechanischen Problem
+übergehen, das auf die Bestimmung der W,», W aus den gegebenen
+Kräften des Systems abzielt. In der bisherigen Theorie wird dieses
+Problem gelöst in zwei Schritten:
+
+1. Integration der Bewegungsgleichung
+
+z+f) —=0. Aal)
+2. Bestimmung der Konstante bei periodischen Bewegungen durch
+$ ra = Ö mada = 1 ah). (12)
+
+Wenn man sich vornimmt, eine quantentheoretische Mechanik auf-
+zubauen, welche der klassischen möglichst analog ist, so liegt es wohl
+sehr nahe, die Bewegungsgleichung (11) direkt in die Quantentheorie zu
+übernehmen, wobei es nur notwendig ist — um nicht vom sicheren Fun-
+
+--- Page 7 ---
+Quantentheoretische Umdeutung kinematischer u. mechanischer Beziehungen. 885
+
+dament; der prinzipiell beobachtbaren Größen abzugehen —, an Stelle der
+Größen &, f(@) ihre aus $1 bekannten quantentheoretischen Repräsentanten
+zu setzen. In der klassischen Theorie ist es möglich, die Lösung von
+(11) durch Ansatz von & in Fourierreihen. bzw. Fourierintegralen mit
+unhestimmten Koeffizienten (und Frequenzen) zu suchen: allerdings er-
+halten wir dann im allgemeinen unendlich viele Gleichungen mit unendlich
+vielen Unbekannten bzw. Integralgleichungen, die sich nur in speziellen
+Fällen zu einfachen Rekursionsformeln. für die A umgestalten lassen. In
+der Quantentheorie sind wir jedoch vorläufig auf diese Art der Lösung
+von (11) angewiesen, da sich, wie oben besprochen, keine der Funktion
+& (n,) direkt analoge quantentheoretische Funktion definieren ließ.
+
+Dies hat zur Folge, daß die quantentheoretische Lösung von (11)
+zunächst nur in den einfachsten Fällen durchführbar ist. Bevor wir auf
+solche einfache Beispiele eingehen, sei noch die quantentheoretische Be-
+stimmung der Konstante nach (12) hergeleitet. Wir nehmen also an, daß
+die Bewegung (klassisch) periodisch sei:
+
++0
+2 — Die au(n)eieont; (13)
+pe)
+dann ist .
++0
+ma —m e> Au (n) . io, ei ®nt
+und
+
++0
+
+Pmöde = = Gm 2ım > de) ee.
+
+Da ferner a_.(n) = a, (n) ist (x soll reell sein), so folgt,
+oo
+
+dmzar — 2m Die |a,(n) Po? on. (14)
+
+Dieses Phasenintegrai hat man bisher meist gleich einem ganzen
+Vielfachen von h, also gleich n.R gesetzt; eine solche Bedingung fügt sich
+aber nicht nur sehr gezwungen der mechanischen Rechnung ein, sie erscheint
+auch selbst vom bisherigen Standpunkt aus im Sinne des Korrespondenz-
+prinzips willkürlich; denn korrespondenzmälig sind die J nur bis auf
+eine additive Konstante als ganzzahlige Vielfache von h festgelegt, und
+an Stelle von (14) hätte er zu treten:
+
+m h) = an dmzat,
+das heißt
+run kauen (15)
+
+--- Page 8 ---
+886 W. Heisenberg,
+
+Eine solche Bedingung legt allerdings die «a, dann auch nur bis auf
+eine Konstante fest, und diese Unbestimmtheit hat empirisch in dem Auf-
+treten von halben Quantenzahlen zu Schwierigkeiten Anlaß gegeben.
+
+Fragen wir nach einer (14) und (15) entsprechenden quanten-
+theoretischen Beziehung zwischen beobachtbaren Größen, so stellt sich die
+vermißte Eindeutigkeit von selbst wieder her.
+
+Zwar besitzt eben nur Gleichung (15) eine an die Kramerssche Dis-
+persionstheorie anknüpfende einfache quantentheoretische Verwandlung):
+
+h—= 4m S- llam,n +0)? o(n,n-+a) — ann — o)o(n,n —a)}, (16)
+ö
+
+doch diese Beziehung genügt hier zur eindeutigen Bestimmung der a;
+denn die in den Größen « zunächst unbestimmte Konstante wird von
+selbst durch die Bedingung festgelegt, daß es einen Normalzustand geben
+solle, von dem aus keine Strahlung mehr stattfindet; sei der Normal-
+zustand mit », bezeichnet, so sollen also alle
+NN, — 0) —= 0 (für & > 0)
+
+sein. Die Frage nach halbzahliger oder ganzzahliger Quantelung dürfte
+daher in einer quantentheoretischen Mechanik, die nur Beziehungen
+zwischen beobachtbaren Größen benutzt, nicht auftreten können.
+
+Die Gleichungen (11) und (16) zusammen enthalten, wenn sie sich
+lösen lassen, eine vollständige Bestimmung nicht nur der Frequenzen und
+Energien, sondern auch der quantentheoretischen Übergangswahrschein-
+lichkeiten. Die wirkliche mathematische Durchführung gelingt jedoch
+zunächst nur in den einfachsten Fällen; eine besondere Komplikation
+entsteht auch bei vielen Systemen, wie z. B. beim Wasserstoffatom,
+dadurch, daß die Lösungen teils periodischen, teils aperiodischen Be-
+wegungen entsprechen, was zur Folge hat, daß die quantentheoretischen
+Reihen (7), (8) und die Gleichung (16) stets in eine Summe und ein
+Integral zerfallen. Quantenmechanisch läßt sich eine Trennung in „perio-
+dische und aperiodische Bewegungen“ im allgemeinen nicht durchführen.
+
+Trotzdem könnte man vielleicht die Gleichungen (11) und (16)
+wenigstens prinzipiell als befriedigende Lösung des mechanischen Problems
+ansehen, wenn sich zeigen ließe, daß.diese Lösung übereinstimmt bzw.
+nicht in Widerspruch steht mit den bisher bekannten quantenmechanischen
+Beziehungen; daß also eine kleine Störung eines mechanischen Problems
+zu Zusatzgliedern in der Energie bzw. in den Frequenzen Anlaß gibt, die
+
+2) Diese Beziehung wurde schon auf Grund von Betrachtungen von Dispersion,
+gegeben von W. Kuhn, ZS. f. Phys. 88, 408, 1925, und Thomas, Naturw. 18, 1925.
+
+--- Page 9 ---
+Quantentheoretische Umdeutung kinematischer u. mechanischer Beziehungen. 887
+
+eben den von Kramers und Born gefundenen Ausdrücken entsprechen
+— im Gegensatz zu denen, welche die klassische Theorie liefern würde.
+Ferner müßte untersucht werden, ob im allgemeinen der Gleichung (11)
+auch in der hier varseschlagenen quantentheoretischen Auffassung ein
+
+Energieintegral mS + U(&) —= const entspricht und ob die so ge-
+
+wonnene Energie — ähnlich, wie klassisch gilt: » — a — der Be-
+dingung genügt: 4W— h.v. Eine allgemeine Beantwortung dieser
+Fragen erst könnte den inneren Zusammenhang der bisherigen quanten-
+mechanischen Versuche dartun und zu einer konsequent nur mit beob-
+achtbaren Größen operierenden Quantenmechanik führen. Abgesehen von
+einer allgemeinen Beziehung zwischen der Kramersschen Dispersions-
+formel und den Gleichungen (11) und (16) können wir die oben gestellten
+Fragen nur in den ganz speziellen, durch einfache Rekursion lösbaren
+Fällen beantworten.
+
+Jene allgemeine Beziehung zwischen der Kramersschen Dispersions-
+theorie und unseren Gleichungen (11), (16) besteht darin, daß aus
+Gleichung (11) (d.h. ihrem quantentheoretischen Analogon) ebenso wie
+in der klassischen Theorie folgt, daß sich das schwingende Elektron
+gegenüber Licht, das viel kurzwelliger ist als alle Eigenschwingungen
+des Systems, wie ein freies Elektron verhält, Dieses Resultat folgt auch
+aus der Kramersschen Theorie, wenn man noch Gleichung (16) berück-
+sichtigt. In der Tat findet Kramers für das durch die Welle Zcos2 zvt
+induzierte Moment: “© Ä
+
+Be 2  (amn +) v(n,n +)
+M— e&Ecos?2nvt- rn >23; | Font)
+en Aremn—a)|
+enn—)—r |)
+also für» > v(nn +)
+
+2 EecosArvt Z
+M= u Srtlemn talrmn nn
+— lamn —)Pvnn —o)},
+
+was wegen (16) übergeht in
+
+e® Ecos2mvi
+ao Anm
+
+$3. Als einfachstes Beispiel soll im folgenden der anharmonische
+Oszillator behandelt werden:
+
+it+ols ti —0. (7)
+
+--- Page 10 ---
+888 W. Heisenberg,
+
+Klassisch läßt sich diese Gleichung befriedigen durch einen Ansatz
+der Form
+x = ha, + 0,005 @t + Aa,cos2wt + Aa, cosdmt + +--A’—1a,costot,
+wobei die a Potenzreihen in A sind, die mit einem von A freien Gliede -
+beginnen. Wir versuchen quantentheoretisch einen analogen Ansatz und
+repräsentieren x durch Glieder der Form.
+Jaln,n); amn — 1)cosw(n,n — Dt; Aaflnn — 2) cosw(n,n — 2)t;
+
+wlan - )osamn—dt...
+
+Die Rekursionsformeln zur Bestimmung der a und & lauten (bis auf
+
+Glieder der Ordnung A) nach Gleichung (8), (4) bzw. (7), (8):
+
+Klassisch:
+2
+oa, (n) +0 - 0:
+— 0°+ = —=ß0;
+A + da + =; “s
+90° + o%)a,(n) + a,a, = 0;
+Quantentheoretisch:
+2 2 _
+a3, (n) eh Her Do
+ann —N)+0 0;
+on Ri a(n,n—1)a(n—1,n—2) j
+(— ann —2) + @,)a(n,n —2)+4 3 0; a9)
+
+(— (nn — 3) + o)a(n,n — 3)
+amn—Yanm—1,n—3) amn—Dam—2,n—3)
+r
+
+Hierzu kommt die Quantenbedingung:
+Klassisch un = am:
+
+d ‚late,
+1 an or =
+
+Quantentheoretisch:
+
+= am lan +tznom+ın) learn -DPomn— nl.
+ö
+
+Dies ergibt in erster Näherung, sowohl klassisch wie quanten-
+
+theoretisch:
+a:(n) bzw. nn = ns), (20)
+
+MO,
+
+--- Page 11 ---
+Quantentheoretische Umdeutung kinematischer u. mechanischer Beziehungen. 889
+
+Quantentheoretisch läßt sich die Konstante in (20) bestimmen. durch
+die Bedingung, daß a(n,n,—— 1) im Normalzustand Null sein solle.
+Numerieren wir die n so, daß » im Normalzustand gleich Null wird, also
+N, = 0, so folgt nh
+
+en,n—1\) = .
+@, ) zm
+
+Aus den Rekursionsgleichungen (18) folgt dann, daß in der klassi-
+
+z
+
+schen Theorie a, (in erster Näherung in 4) von der Form wird «(z)n?,
+wo x(r) einen von n unabhängigen Faktor darstellt. In der Quanten-
+theorie ergibt sich aus (19)
+
+n!
+ann — r) = x(r) Ver (21)
+
+wobei x(r) denselben, von n unabhängigen Proportionalitätsfaktor dar-
+stellt. Für große Werte von n geht: natürlich der quantentheoretische
+Wert von a, asymptotisch in den klassischen tüber.
+
+Für die Energie liegt es nahe, den klassischen Ansatz
+3 m h
+
+m Ei
+5 tm 5 } zei=W
+
+zu versuchen, der in der hier durchgerechneten Näherung auch quanten-
+theoretisch wirklich konstant ist und nach (19), (20) und (21) den Wert hat:
+
+Klassisch:
+
+nho,
+
+W= Im 2.
+Quantentheoretisch [nach (7), (8)]:
+n+dhm
+2x
+
+(22)
+
+w_ (23)
+
+(bis auf Größen der Ordnung 4°).
+
+Nach dieser Auffassung ist also schon beim harmonischen Oszillator
+die Energie nicht durch die „klassische Mechanik“, d.h. (22) darstellbar,
+‚sondern sie hat die Form (23).
+
+Die genauere Durchrechnung auch der höheren Näherungen in W,
+a, @ soll ausgeführt werden am einfacheren Beispiel des anharmonischen
+Oszillators vom Typus:
+
+atmet.
+Klassisch kann man hier setzen:
+x — a,c00s@t +Aa,cosdwt + Ma,cosdönt+ +,
+
+analog versuchen wir quantentheoretisch den Ansatz
+
+am,n — 1)cos@(n,n — lt; Aaln,n — 3)cos@(n,n —3)t;
+
+--- Page 12 ---
+890 W. Heisenberg,
+
+Die Größen a sind wieder Potenzreihen in A, deren erstes Glied,
+wie in (21), die Form hat:
+
+ann — 1) = x(T) VE
+
+no
+Rd!
+wie man durch Ausrechnen der den Gleichungen (18), (19) entsprechenden
+Gleichungen erhält.
+Führt man die Berechnung von ®, a nach (18), (19) bis zur Nähe-
+rung A? bzw. A durch, so erhält man:
+
+Inh o ,  3W ,
+Szo,m u ET tar 29
+
+nah Inh
+_ y _ Lo.) 2:
+un) = zo,m (' I roim ' ) 25)
+
+am,n—8) sy nn ya-9(1- Se. @s)
+
+32 ! a’o/m? 3220,m
+Die Energie, die als das konstante Glied von
+Ei sa mA,
+m >; +mo 7 + u Ey
+definiert ist (daß die periodischen Glieder wirklich alle Null sind, konnte
+ich nicht allgemein beweisen, in den durchgerechneten Gliedern war es
+der Fall), ergibt sich zu
+W n+Hdho, , Fr
+2x7 ' 8.Anto).m
+
+B 59 1
+(17m + um + an +). en)
+
+on —)—=@,+4:
+
+13
+
+—ı2.
+512° o0m*
+
+Diese Energie kann man auch noch nach dem Kramers-Born-
+schen Verfahren berechnen, indem man das Glied m x* als Störungsglied
+
+zum harmonischen Oszillator auffaßt. Man kommt dann wirklich wieder
+genau zum Resultat (27), was mir eine bemerkenswerte Stütze für die
+zugrundegelegten quantenmechanischen Gleichungen zu sein scheint.
+Fermer erfüllt die nach (27) berechnete Energie die Formel [vgl. (24)]:
+
+{nn —1) N
+27 h
+
+Wi) — Wam—D),
+
+welche ebenfalls als notwendige Bedingung für die Möglichkeit einer den
+Gleichungen (11) und (16) entsprechenden Bestimmung der Übergangs-
+wahrscheinlichkeiten zu betrachten ist.
+
+--- Page 13 ---
+Quantentheoretische Umdeutung kinematischer u. mechanischer Beziehungen. 891
+
+Zum Schluß sei der Rotator als Beispiel angeführt und auf die Be-
+ziehung der Gleichungen (7), (8) zu den Intensitätsformeln beim Zeeman-
+effekt!) und bei den Multipletts?) hingewiesen.
+
+Sei der Rotator repräsentiert durch ein Elektron, das im konstanten
+Abstand a um einen Kern kreist. Die „Bewegungsgleichungen* besagen
+dann klassisch wie quantentheoretisch nur, daß das Elektron im kon-
+stanten Abstand a eine ebene, gleichförmige Rotation um den Kern be-
+schreibt mit der Winkelgeschwindigkeit &. Die „Quantenbedingung‘ (16)
+ergibt nach (12):
+
+d
+h—= Fig zma?o),
+
+nach (16):
+h— 2a (don +) — aan — U},
+woraus in beiden Fällen folgt:
+ha sonst,
+olnn—1) = ern 5 ) .
+Die Bedingung, daß im Normalzustand (n, = 0) die Strahlung ver-
+schwinden solle, führt zu der Formel:
+
+hin
+
+o(n,n —1) Im (28)
+Die Energie wird
+w= 3 Du
+oder nach (7), (8)
+- m aan —-D)+o!(n+1,r) 12 i
+
+W= 3 a. { 5 ( dma Hrn -+3), 29
+
+2r
+
+was wieder der Beziehung (mn — 1) = n [W(n) — Win —1)] ge-
+
+nügt. Als Stütze für die von der bisher üblichen Theorie abweichenden
+Formeln (28) und (29) kann es ängesehen werden, daß viele Banden-
+spektren (auch solche, bei denen die Existenz eines Elektronenimpulses
+unwahrscheinlich ist) nach Kratzer°) Formeln vom Typus (28), (29)
+(die man bisher der klassisch-mechanischen Theorie zuliebe durch halb-
+zahlige Quantelung zu erklären suchte) zu fordern scheinen.
+
+1) Goudsmit und R.deL. Kronig, Naturw. 18, 90, 1925: H. Hönl, ZS.
+f. Phys. 31, 340, 1925.
+
+®) R. de L. Kronig, ZS. f. Phys. 31, 885, 1925; A. Sommerfeld und
+H. Hönl, Sitzungsber. d. Preuß. Akad. d. Wiss. 1925, 8.141; H. N. Russell,
+Nature 115, 835, 1925.
+
+3) Vgl. z.B. A. Kratzer, Sitzungsber. d. Bayr. Akad. 1922, S. 107:
+
+--- Page 14 ---
+892 W. Heisenberg,
+
+Um beim Rotätor zu den Goudsmit-Kronig-Hönlschen Formeln
+zu gelangen, müssen wir das Gebiet der Probleme mit einem Freiheits-
+grad verlassen und annehmen, daß der Rotator, in irgendwelcher Richtung
+im Raume, um die Achse z eines äußeren Feldes eine sehr langsame Prä-
+zession 0 ausführe. Die dieser Präzession entsprechende Quantenzahl
+heiße m. Dann wird die Bewegung repräsentiert durch die Größen
+
+2: a(m,n —1;m,m)coso(n,n —1)t;
+z+iy: bin,n —1L;mm —1)etomn-1 +0lt;
+b(n,n —1;m — 1,m) eiTe@n N +olt,
+Die Bewegungsgleichungen lauten einfach:
+44,
+was nach (7) zu den Gleichungen!) Anlaß gibt:
+4[3a? (n,n-1;m, m) + 5° (n,n-1; m,m-1) +b°”(n,n-1; m, m+1)
++3 a2 (n+1,n;m,m) +? (n+1,n;m—1,m) +? (n+1,n; m+1,m)} = a?. (30)
+4a(mn —1;m,m)a(n —1,n — 2;m, m)
+= b(n,n —1;m,m +1)b(n —1,n —2; m +1,m)
++ bin,n —-1;m,m —1)b(n —1I,n —2; m -—1,m). @1)
+Hierzu kommt nach (16) die Quantenbedingung:
+22m (b’(n,n —1;mm—1)o(mn—1)
+— (nn —1;m — 1,m)a(n,n —1)} — (m + const)h. (82)
+
+Die diesen Gleichungen entsprechenden klassischen Beziehungen:
+
+Fi +2 +2, =@;
+4a) =bl_,;
+2zm eo = (m + eonst) h
+genügen (bis auf die unbestimmte Konstante bei m) zur eindeutigen Fest-
+legung der a,, b,, b_,
+
+Die am einfachsten sich darbietende Lösung der quantentheoretischen
+
+Gleichungen (30), (31), (32) lautet:
+
+. _ Ya
+bin,n —1l;m,m —1) @ Amt dn ;
+
+Gm a—mtD,
+
+(83)
+
+bian—1l;m—1lLm)=a
+
+Fatsn
+@tm Dam)
+ann —1;m,m) = a @+Hn b
+
+}) Die Gleichung (30) ist im wesentlichen identisch mit den Ornstein-
+Burgerschen Summenregeln.
+
+--- Page 15 ---
+Quantentheoretische Umdeutung kinematischer u. mechanischer Beziehungen. 893
+
+Diese Ausdrücke stimmen mit den Formeln von Goudsmit, Kronig
+und Hönl überein; man kann jedoch nicht einfach einsehen, daß diese
+Ausdrücke die einzige Lösung von (30), (31), (32) darstellen — was mir
+jedoch bei Beachtung der Randbedingungen (Verschwinden der a,b am
+„Rande“, vgl. die oben zitierten Arbeiten von Kronig, Sommerfeld
+und Hönl, Russell) wahrscheinlich scheint.
+
+Eine der hier angestellten ähnliche Überlegung führt auch bei den
+Intensitätsformeln der Multipletis zu dem Ergebnis, daß die genannten
+Intensitätsregeln mit Gleiehung (7) und (16) im Einklang stehen. Dieses
+Resultat dürfte wiederum als Stütze insbesondere für die Richtigkeit der
+kinematischen Gleichung (7) anzusprechen sein.
+
+Ob eine Methode zur Bestimmung quantentheoretischer Daten durch
+Beziehungen zwischen beobachtbaren Größen, wie die hier vorgeschlagene,
+schon in prinzipieller Hinsicht als befriedigend angesehen werden könnte,
+oder ob diese Methode doch noch einen viel zu groben Angriff auf das
+physikalische, zunächst offenbar sehr verwickelte Problem einer quanten-
+theoretischen Mechanik darstellt, wird sich erst durch eine tiefergehende
+mathematische Untersuchung der hier sehr oberflächlich benutzten Me-
+thode erkennen lassen.
+
+Göttingen, Institut für theoretische Physik.

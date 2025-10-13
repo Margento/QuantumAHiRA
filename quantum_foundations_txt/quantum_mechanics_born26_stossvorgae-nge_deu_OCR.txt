@@ -1,0 +1,236 @@
+
+--- Page 1 ---
+863
+
+Zur Quantenmechanik der Stoßvorgänge.
+[Vorläufige Mitteilung. ?)]
+Von Max Born, Göttingen.
+(Eingegangen am 25. Juni 1926.)
+Durch eine Untersuchung der Stoßvorgänge wird die Auffassung entwickelt, daß
+
+die Quantenmechanik in der Schrödingerschen Form nicht nur die stationären
+Zustände, sondern auch die Quantensprünge zu beschreiben gestattet.
+
+Die von Heisenberg begründete Quantenmechanik ist bisher aus-
+schließlich angewandt worden zur Berechnung der stationären Zustände
+und der den Übergängen zugeordneten Schwingungsamplituden (ich ver-
+meide absichtlich das Wort „Übergangswahrscheinlichkeiten“). Dabei
+scheint sich der inzwischen weit entwickelte Formalismus gut zu be-
+währen. Aber diese Fragestellung betrifft nur eine Seite der quanten-
+theoretisehen Probleme; daneben erhebt sich als ebenso wichtig die Frage
+nach dem Wesen der „Übergänge“ selbst. Hinsichtlich dieses Punktes
+scheint die Meinung geteilt zu sein; viele nehmen an, daß das Problem
+der Übergänge von der Quantenmechanik in der vorliegenden Form nicht
+erfaßt wird, sondern daß hier neue Begriffsbildungen nötig sein werden.
+Ich selbst kam durch den Eindruck der Geschlossenheit des logischen
+Aufbaues der Quantenmechanik zu der Vermutung, daß diese Theorie
+vollständig sein und das Übergangsproblem mit enthalten müsse. Ich
+glaube, daß es mir jetzt gelungen ist, dies nachzuweisen.
+
+Schon Bohr hat die Aufmerksamkeit darauf gerichtet, daß alle
+prinzipiellen Schwierigkeiten der Quantenvorstellungen, die uns bei der
+Emission und Absorption von Licht durch Atome begegnen, auch bei der
+Wechselwirkung von Atomen auf kurze Entfernung auftreten, also bei
+den Stoßvorgängen. Bei diesen hat man es statt mit dem noch sehr
+dunklen Wellenfelde ausschließlich mit Systemen materieller Teilchen zu
+tun, die dem Formalismus der Quantenmechanik unterliegen. Ich habe
+daher das Problem in Angriff genommen, die Wechselwirkung eines
+freien Teilchens (u-Strahls oder Elektrons) und eines beliebigen Atoms
+näher zu untersuchen und festzustellen, ob nicht innerhalb des Rahmens
+der vorliegenden Theorie eine Beschreibung des Stoßvorganges möglich ist.
+
+3) Diese Mitteilung war ursprünglich für die „Naturwissenschaften® bestimmt,
+konnte aber dort wegen Raummangel nicht aufgenommen werden. Ich hoffe, daß
+ihre Veröffentlichung an dieser Stelle nicht überflüssig erscheint.
+
+Zeitschrift für Physik. Bd. XXXVIL 57
+
+--- Page 2 ---
+864 Max Born,
+
+Von den verschiedenen Formen der Theorie hat sich hierbei allem
+die Schrödingersche als geeignet erwiesen, und ich möchte gerade aus
+diesem Grunde sie als die tiefste Fassung der Quantengesetze ansehen.
+Der Gedankengang meiner Überlegung ist num der folgende:
+
+Wenn man quantenmechanisch die Wechselwirkung zweier Systeme
+berechnen will, so kann man bekanntlich nicht, wie in der klassischen,
+Mechanik, einen Zustand des einen Systems herausgreifen und feststellen,
+wie dieser von einem Zustande des anderen Systems beeinflußt wird,
+sondern alle Zustände beider Systeme koppeln sich in verwickelter Weise.
+Das gilt auch bei einem aperiodischen Vorgang, wie einem Stoße, wo ein
+Teilchen, sagen wir ein Elektron, aus dem Unendlichen kommt und wieder
+im Unendlichen verschwindet. Aber hier drängt sich die Vorstellung
+auf, daß doch sowohl vor als auch nach dem Stoße, wenn das Elektron
+weit genug entfernt und die Koppelung klein ist, ein bestimmter Zustand
+des Atoms und eine bestimmte, geradlinig-gleichförmige Bewegung des
+Elektrons definierbar sein muß. Es handelt sich darum, dies asympto-
+tische Verhalten der gekoppelten Teilchen mathematisch zu fassen. Mit
+der Matrixform der Quantenmechanik ist mir das nicht gelungen, wohl
+aber mit der Schrödingerschen Formulierung.
+
+Nach Schrödinger ist das Atom im n-ten Quantenzustand ein
+Schwingungsvorgang einer Zustandsgröße im ganzen Raume mit kon-
+
+1 .
+stanter Frequenz ” W?. Ein geradlinig bewegtes Elektron ist speziell
+
+ein solcher Schwingungsvorgang, der einer ebenen Welle entspricht.
+Kommen beide in Wechselwirkung, entsteht eine verwickelte Schwingung.
+Aber man sieht sogleich, daß man diese durch ihr asymptotisches Ver-
+halten im Umendlichen festlegen kann. Man hat ja nichts als eim
+„Beugungsproblem“, bei dem eine einfallende ebene Welle an dem Atom
+gebeugt oder zerstreut wird; an Stelle der Randbedingungen, die man in
+der Optik zur Beschreibung der Schirme verwendet, hat man hier die
+potentielle Energie der Wechselwirkung von Atom und Elektron.
+
+Die Aufgabe ist also: man solldie Schrödingersche Wellengleichung
+für die Kombination Atom-Elektron lösen unter der Randbedingung, daß
+die Lösung in einer bestimmten Richtung des Elektronenraumes asymp-
+totisch übergeht in eine ebene Welle eben dieser Fortschreitungsrichtung
+(das ankommende Elektron). Von der so gekennzeichneten Lösung
+interessiert uns nun wieder hauptsächlich das Verhalten der „gestreuten“
+Welle im Unendlichen; denn diese beschreibt das Verhalten des Systems
+nach dem Stoß. Wir führen das etwas näher aus. Es seien 1 (gr),
+
+--- Page 3 ---
+Zur Quantenmechanik der Stoßvorgänge. 865
+
+%% (gu), -.. die Eigenfunktionen des ungestörten Atoms (wir nehmen an,
+es gäbe nur eine diskrete Folge); dem ‚ungestört (geradlinig) bewegten
+
+Elektron entsprechen die Eigenfunktionen sin ar (+ By+Yy2+0)
+
+die eine kontinuierliche Mannigfaltigkeit ebener Wellen bilden, deren
+Wellenlänge (nach de Broglie) mit der Energie x der Translations-
+
+f}
+2wA?
+funktion des ungestörten Zustandes, bei dem das Elektron aus der
++ z-Riehtung kommt, ist also
+
+bewegung durch die Relation r = verknüpft ist. Die Eigen-
+
+2
+ui: ) = Ua Te
+
+Nun sei 7(x, 9, 2; 9x) die potentielle Energie der Wechselwirkung von
+Atom und Elektron. Man kann dann mit Hilfe einfacher Störungs-
+rechnungen zeigen, daß es eine eindeutig bestimmte Lösung der
+Schrödingerschen Differentialgleichung bei Berücksichtigung der
+Wechselwirkung V gibt, die für z— + oc asymptotisch in obige Funk-
+tion übergeht.
+
+Es kommt nun darauf an, wie diese Lösungsfunktion sich „nach
+dem Stoß“ verhält.
+
+Nun ergibt die Rechnung: die durch die Störung erzeugte, gestreute
+Welle hat im Unendlichen asymptotisch den Ausdruck
+
+Mans = D| 200... 8 Ysinkumtwraytye+d una)
+m ar+ßy+ 4 >o “
+
+Das bedeutet: die Störung läßt sich im Unendlichen auffassen als Super-
+
+position von Lösungen des ungestörten Vorgangs. Berechnet man die
+
+zur Wellenlänge A,„ gehörige Energie nach der oben angegebenen
+
+r
+de Broglieschen Formel, so findet man
+
+Wım =hvmmt tr,
+«
+wobei v9 „ die Frequenzen des ungestörten Atoms sind.
+Will man nun dieses Resultat korpuskular umdeuten, so ist nur eine
+Interpretation möglich: ©, (&, ß, 7) bestimmt die Wahrscheinlichkeit')
+z
+dafür, daß das aus der z-Richtung kommende Elektron in die durch o, ß, y
+1) Anmerkung bei der Korrektur: Genauere Überlegung zeigt, daß die
+Wahrscheinlichkeit dem Quadrat der Größe ®nm proportional ist.
+=
+57*
+
+--- Page 4 ---
+866 Max Born,
+
+bestimmte Richtung (und mit einer Phasenänderung 6) geworfen wird,
+wobei seine Energie r um ein Quant Av%., auf Kosten der Atomenergie
+zugenommen hat (Stoß erster Art für WP < W, hvd <.0; Stoß zweiter
+Art für WI > WA, hun <0).
+
+Die Schrödingersche Quantenmechanik gibt also auf die Frage
+nach dem Eifekt eines Zusammenstoßes eine ganz bestimmte Antwort;
+aber es handelt sich um keine Kausalbeziehung. Man bekommt keine
+Antwort auf die Frage, „wie ist der Zustand nach dem. Zusammenstoße*,
+sondern nur auf die Frage, „wie wahrscheinlich. ist ein vorgegebener Effekt
+des Zusammenstoßes“ (wobei natürlich der quantenmechanische Energie-
+satz gewahrt sein muß).
+
+Hier erhebt sich die ganze Problematik des Determinismus. Vom
+Standpunkt unserer Quantenmechanik gibt es keine Größe, die im Einzel-
+falle den Effekt eines Stoßes kausal festlegt; aber auch in der Erfahrung
+haben wir bisher keinen Anhaltspunkt dafür, daß es innere Eigenschaften
+der Atome gibt, die einen bestimmten Stoßerfolg bedingen. Sollen wir
+hoffen, später solche Eigenschaften (etwa Phasen der inneren Atom-
+bewegungen) zu entdecken und im Einzelfalle zu bestimmen ? Oder sollen
+wir glauben, daß die Übereinstimmung von Theorie und Erfahrung in der
+Unfähigkeit, Bedingungen für den kausalen Ablauf anzugeben, eine prä-
+stabilierte Harmonie ist, die auf der Nichtexistenz solcher Bedingungen
+beruht? Ich selber neige dazu, die Determiniertheit in der atomaren
+Welt aufzugeben. Aber das ist eine philosophische Frage, für die
+physikalische Argumente nicht allein maßgebend sind.
+
+Praktisch besteht jedenfalls sowohl für den experimentellen als auch
+den theoretischen Physiker der Indeterminismus. Die von den Experi-
+mentatoren viel untersuchte „Ausbeutefunktion“ ® ist jetzt auch theo-
+retisch streng faßbar. Man kann sie aus der potentiellen Energie der
+Wechselwirkung V (x, 9, 2; gu) finden; doch sind die hierzu nötigen
+Rechenprozesse zu verwickelt, um sie an dieser Stelle mitzuteilen. Ich
+will nur die Bedeutung der Funktion ®,,„ mit einigen Worten erläutern.
+
+T
+Ist z. B. das Atom vor dem Stoß im Normalzustand n — 1, so folgt aus
+tv = Thin — Wim >0,
+
+?
+daß für ein Elektron mit kleinerer Energie als die kleinste Anregungs-
+stufe des Atoms notwendig auch m = 1, also W,, — r sein muß; es
+
+?
+erfolgt also „elastische Reflexion“ des Elektrons mit der Ausbeute-
+funktion ®,,. Übersteigt r die erste Anregungsstufe, so gibt es außer
+
+?
+
+--- Page 5 ---
+Zur Quantenmechanik der Stoßvorgänge. 867
+
+der Reflexion auch Anregung mit der Ausbeute ®,, usw. Ist das
+
+*
+
+getroffene Atom im angeregtehi Zustand n — 2 und r <hvl,, so gibt
+
+es Reflexion mit der Ausbeute ®,, und Stöße zweier Art mit der
+=
+
+Ausbeute ®,,. Ist > hv},, tritt dazu weitere Anregung usw.
+
+Die Formeln geben also das qualitative Verhalten bei Stößen voll-
+kommen wieder. Die quantitative Ausschöpfung der Formeln für spezielle
+Fälle muß einer ausführlichen Untersuchung vorbehalten bleiben.
+
+Es scheint mir nicht ausgeschlossen, daß die enge Verknüpfung von
+Mechanik und Statistik, wie sie hier zum Vorschein kommt, eine Revision
+der thermodynamisch-statistischen Grundbegriffe erfordern wird.
+
+Ich glaube ferner, daß auch das Problem der Ein- und Ausstrahlung
+von Licht in ganz analoger Weise als „Randwertaufgabe“ der Wellen-
+gleichung behandelt werden muß und auf eine rationelle Theorie der
+Dämpfung und Linienbreite im Einklang mit der Lichtquantenvorstellung
+führen wird.
+
+Eine eingehende Darstellung wird demnächst in dieser Zeitschrift
+
+erscheinen.

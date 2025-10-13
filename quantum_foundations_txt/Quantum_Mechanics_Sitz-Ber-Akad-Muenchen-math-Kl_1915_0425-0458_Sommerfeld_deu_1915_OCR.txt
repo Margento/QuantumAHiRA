@@ -1,0 +1,1607 @@
+
+--- Page 1 ---
+Sitzungsberichte
+
+‚der
+
+mathematisch-physikalischen Klasse
+
+der
+
+K. B. Akademie der Wissenschaften
+
+“ zu München
+
+1915. Heft III
+
+November- und Dezembersitzung
+
+München 1915
+
+Verlag der Königlich Bayerischen Akademie der Wissenschaften
+
+in Kommission des G. Franz’schen Verlags (J, Roth)
+
+
+--- Page 2 ---
+Zur Theorie der Balmerschen Serie.
+
+Von A. Sommerfeld.
+
+Vorgetragen in der Sitzung am 6. Dezember 1915.
+
+Die Theorie des Balmerschen Wasserstoflspektrums scheint
+auf den ersten Blick durch die wunderbaren Untersuchungen
+von N. Bohr zum Absehluß gebracht zu sein. Bohr konnte
+nicht nur die allgemeine Form des Seriengesetzes, sondern
+auch den Zahlenwert der darin eingehenden Konstanten und
+seine Verfeinerung unter Berücksichtigung der Kernbewegung
+erklären. Man darf sogar sagen, daß die Leistungsfähigkeit
+der Bohrschen Theorie vorläufig beschränkt ist auf diese Wasser-
+stoflserie und auf die wasserstoff-ähnlichen Serien (ionisiertes
+Helium, Röntgenspektren, Serien-Enden sichtbarer Spektren).
+Trotzdem möchte ich zeigen, daß auch die Theorie der Balmer-
+
+serie in gewi
+lich nichtkr:
+tische) Bahnen zuläßt. Ich werde diese Lücke ausfüllen dureh
+eine Vertiefung des Quantenansatzes und dabei zugleich die
+Sonderstellung des Wasserstoffspektrums beleuchten: Während
+die anderen Elemente eine Reihe verschiedener Serien (Haupt-
+serie, Nebenserien und ihre Kombinationen) und verschiedener
+Serientypen aufweisen (einfache Serien, Dublet-, Tripletserien),
+hat der Wasserstoff (von dem noch dunkeln Viellinienspektrum
+abgesehen) nur die einzige Balmersche Serie. Nach der hier
+vorzutragenden Auffassung erklärt sich dies daraus, daß in der
+Balmerschen Serie eine Reihe von Serien zusammenfallen, dal;
+nämlich jede ihrer Linien auf eine gewisse Anzahl verschiedener
+
+m Sinne eine Lücke aufweist, sobald man näm-
+
+förmige (also in Falle des Wasserstoffatoms ellip-
+
+Sitzungsb. d. math.-phys. Kl. Jahrg. 1915. 28
+
+--- Page 3 ---
+426 A. Sommerfeld
+
+Arten entstehen kann, nicht nur durch Kreisbewegungen, son-
+dern auch durch elliptische Bahnen von gewissen Exzentrizitäten.
+Diese eigenartige Linienkoinzidenz, die beim Wasserstoff nur
+durch die besondere Einfachheit der Keplerschen Bewegung
+oder, was dasselbe ist, durch die besondere Einfachheit der
+Konstitution des Wasserstoffatoms zustande kommt, kann, wie
+man leicht übersieht, bei anderen Elementen nieht mehr statt
+haben. Hier werden vielmehr die den verschiedenen Hllipsen-
+bahnen analogen, aber entsprechend komplizierter gestalteten
+Bahntypen je zu verschiedenen Linien führen, die sich weiter-
+hin in verschiedene Serientypen anordnen lassen werden. Das
+allgemeine Serienschema würde dann nicht mehr von zwei
+ganzen Zahlen » und m, sondern (vorbehaltlich weiterer Ver-
+
+allgemeinerung) von vier ganzen Zahlen n, »‘ und m, m’ ab-
+
+hängen, in der Form
+
+5 = p(n,n‘) — p(m, m’)
+
+und die Besonderheit des Wasserstoffs würde darin bestehen,
+daß hier 9(n,n)=po(n+n)=(n+ n')”? wäre.
+
+Ich habe diese Dinge bereits vor einem Jahr in einer Vor-
+lesung vorgetragen, ihre Veröffentlichung aber zurückgestellt,
+da ich beabsichtigte, sie u. a. für die Auffassung des Stark-
+effektes fruchtbar zu machen. Diese Absicht scheiterte indessen
+vorläufig an der inzwischen auch von Bohr stark betonten
+Schwierigkeit, den Quantenansatz anzuwenden auf nicht-perio-
+dische Bahnen, in welche ja die Keplerschen Ellipsen durch
+ein elektrisches Feld auseinander gezogen werden. Auf diese
+und ähnliche Anwendungsmöglichkeiten werde ich am Schlusse
+hinweisen; in der Hauptsache besehränke ich mich hier auf
+die Darstellung der allgemeinen Überlegungen, die, wie ich
+glaube, bei der weiteren Ausgestaltung des Bohrschen Serien-
+modelles eine entscheidende Rolle spielen werden.
+
+--- Page 4 ---
+Zar Theorie der Balmerschen Serie, 427
+
+$1. Der Quantenansatz für periodische Bahnen.
+
+Vor jeder Anwendung der Wahrscheinlichkeitsrechnung
+hat man sich die Frage nach den gleich-wahrscheinlichen Fällen
+(nach der Richtigkeit der zu benutzenden Würfel) vorzulegen.
+Auf dem Gebiete der statistischen Mechanik liefert hierfür den
+einzigen Anhaltspunkt der Liouvillesche Satz. Dieser sagt be-
+kanutlich aus, daß gleichgroße Elemente des „Phasenraumes“
+(9, p) gleich wahrscheinlich sind, insofern und weil sie zeit-
+lich ineinander übergeführt werden. q sind die Lagenkoordi-
+naten, p die zugehörigen Impulskoordinaten
+ar
+
+ag
+T' ist die lebendige Kraft, und man hat soviel Koordinaten q
+und p, als man Freiheitsgrade des Systems hat. Indem man
+die Elemente I/(dq dp) des Phasenraumes betrachtet, operiert
+man von Anfang an mit kontinuierlichen Wahrscheinlichkeiten.
+Die Quantentheorie ersetzt diese durch diskrete Wahrschein-
+lichkeiten und betrachtet statt des Phasenelementes dq dp als
+Elementarbereich der Wahrscheinlichkeit das endliche Phasen-
+integral
+
+pr
+
+Sagap=h.
+
+Wir erinnern an eine berühmte, bei Planck nicht hinge-
+zeichnete Bllipsenfigur für den harmonischen linearen Resonator.
+In der Zustandsebene der q, p beschreibt der Resonator eine
+Ellipse, deren Hauptachsenverhältnis durch 'Trägheit m» und
+Schwingungszahl » des Resonators gegeben ist und lüngs der
+seine Energie konstant ist. Von dem hiernach bestimmten
+System ähnlicher Ellipsen werden in der ursprünglichen Fas-
+sung der Quantentheorie diejenigen Wllipsen als allein mög-
+liche Zustandskurven hervorgehoben, die zwischen sich den
+Flächeninhalt h einschließen. Für die Energie W dieser aus-
+gezeichneten Ellipsen gilt W=nhr, d.h. die Vorstellung der
+Energieelemente hr folgt für den linearen Resonator aus der
+Forderung der endlichen Phasenelemente h.
+
+28*
+
+--- Page 5 ---
+428 A. Sommerfeld
+
+Debye!) hat das Plancksche Verfahren auf eine beliebige
+periodische Bewegung von einem Freiheitsgrade ausgedehnt,
+und Ehrenfest?) hat dasselbe angewandt auf den Fall der ein-
+fachen Rotation. Handelt es sich um einen Massenpunkt m,
+der auf dem Kreise vom Radius @ gleichförmig rotiert, so ist
+
+Mm: .
+g=gy, T1= 9 a?gp?, p= map = konst.
+Die Zustände gleichförmiger Rotation werden in der q, »-Ebene
+durch Geraden parallel der g-Achse dargestellt; statt der Ellipsen-
+ringe beim Resonator ergeben sich hier Rechtecke von der
+Grundlinie 27, dem Zustandsbereich
+der Vartabeln g= 9, und der Höhe
+
+p
+
+on derart, daß der Nechteckinhalt
+
+wie verlangt gleich % wird. Die
+aufeinander folgenden ausgezeich-
+
+neten Zustände sind hier also be-
+P=m a’ für Kreis ah
+um re chem a bu für Elli . h .
+pomrögemabwfüräiiise stimmt durch p = „.’ an die Stelle
+Fig. ı en
+der diskreten Energieelemente beim
+
+schwingenden Massenpunkt tritt also beim rotierenden Massen-
+punkt der Bohrsche Ansatz der diskreten Impulselemente.
+
+Nach diesen vorbereitenden Beispielen wollen wir den
+Quantenansatz allgemein formulieren. Wir denken uns in der
+4. p-Ebene die Bildkurven einer einfach unendlichen Schar von
+Bahnkurven konstruiert und betrachten die Fläche zwischen
+
+irgend zweien der Bildkurven. Sind die Bildkurven geschlos-
+!) Vorträge über die kinetische Theorie der Materie, 1918, p. 27.
+?) Deutsche Physik. Ges., 1913, p, 451. Verf. beschreibt in den
+Gl. (7) und (8) die Figur so, als ob sie aus dem Nullpunkt und den
+
+h . . +
+Streckenpaaren & ee bestände, wobei der Nullpunkt der Rotation Null
+
+entsprechen würde. Es ist offenbar naturgemäßer, die Rotation Null
+ebenfalls durch die Strecke — bis + x darzustellen, wie es in unserer
+Fig. 1 geschieht, da die Orientierung des Massenpunktes bei der Rotation
+Null beliebig ist.
+
+
+--- Page 6 ---
+Zur 'Theorie der Balınerschen Serie. 429
+
+sene, wie beim Resonator, so ist die Fläche direkt definiert.
+Andernfalls nehmen wir wie beim rotierenden Massenpunkt an,
+daß sie durch Hülfslinien (dort die Geraden p= +7) zu ge-
+schlossenen ergänzt werden können, infolge irgend welcher
+Periodizitäts- oder Symmetrie-Eigenschaft der Bahnen. Inner-
+halb der unendlichen Schar unserer Bildkurven zeichnen wir
+nun eine diskrete Menge aus durch die Forderung, daß die
+Fläche zwischen der n—lten und der „ten dieser Kurven
+gleich % sein soll. Bezeichnen wir die Ordinaten dieser Kurven
+
+der Reihe nach mit 24, Pi: Pa, - - „, So schreibt sich unsere
+Forderung bei Ausführung der Integration nach p folgender-
+maben:  fapag=Smdg— Smdg—h.
+
+Bezüglich des Vorzeichens möge festgesetzt werden, daß
+die Integration nach 4 im Sinne des Ablaufs der Bewegung
+(der fortschreitenden Zeit) genommen werde. Ferner wollen
+wir annehmen, daß die Kurve p, so gewählt werden kann, daß
+
+Smdg=0
+sei; diese Annahme ist in unseren beiden Beispielen erfüllt,
+indem die Bildkurve des ruhenden Resonators ein Punkt ist
+(der Mittelpunkt des Planckschen Ellipsensystems), die des
+ruhenden Rotators ein Stück der q-Achse selbst. Schreiben
+wir daraufhin unsere Quantenforderung der Reihe nach für
+»=1,2,3,... hin, so ergibt sich:
+
+Spdı=h
+Smda—Smdı=h
+Snde— Sp, dq=h
+
+durch Summation folgt:
+
+(D Spmdg=nh.
+
+Die links stehende Größe nennen wir das Phasenintegral.
+Es ist nur definiert für periodische oder quasiperiodische Bahnen.
+(Unter quasiperiodischen Bahnen mögen solche verstanden wer-
+
+--- Page 7 ---
+430 A. Sommerfeld
+
+den, auf denen, wie bei der Bahn des sphärischen Pendels,
+jedem Punkt ein späterer zugeordnet werden kann, in dem und
+von dem ab die Bewegung entsprechend verläuft.)
+
+Wir zeigen, daß das Phasenintegral eine notwendig posi-
+tive Größe ist, daß die Quantenzahl » also eine wirkliche
+(positive) Zahl ist. Wir denken uns zu dem Ende solche
+(orthogonale) Koordinaten q benutzt, daß in der quadratischen
+A
+2
+glieder 9:9, auftreten, wobei wegen des positiven Charakters
+von 7’ die als Funktion der Koordinaten zu denkende Funktion
+A>O sein wird. Dann wird der zu g= 9: gehörige Impuls
+p= Ai und daher das Phasenintegral
+
+Spag == (podt= f Agdt> 0.
+
+Die Einführung orthogonaler Koordinaten in 7 ist immer
+
+Form 7 nur die quadratischen Glieder ° "46, nicht die Produkt-
+
+möglich; die später zu benutzenden Polarkoordinaten genügen
+von selbst dieser Bedingung. Jedenfalls braucht man nur
+solche Koordinaten zu verwenden, für die das Phasenintegral
+ebenso wie für orthogonale positiv wird.
+
+Es ist der Hauptgegenstand dieser Arbeit, die Anwendung
+des Ansatzes (I) auf die Keplersche Bewegung zu studieren
+und seine Durchführbarkeit zu zeigen. Die Keplersche Be-
+wegung finde unter dem Einfluß einer Newtonschen oder Cou-
+lombschen Kraft statt, zunächst um ein festes Zentrum, Auf die
+Bewegung im Azimute p können wir die vorige Figur direkt
+übertragen. Die zugehörige Impulskoordinate ist hier die
+Flächenkonstante p, die Zustandskurven werden also wieder
+Geraden parallel der g-Achse; unser Ansatz (I) zeichnet unter
+diesen diejenigen quantenhaft aus, für welche gilt
+
+PR
+9x
+
+a) Indg=pySiy= D
+ö
+
+apenh.
+
+Wir wollen betonen, daß wir, um unserem quantentheore-
+tischen Standpunkt getreu zu bleiben, die dynamisch definierte
+Flächenkonstante p, nicht eine durch die mittlere Umlaufs-
+
+--- Page 8 ---
+Zur ‘Theorie der Balmerschen Serie. 43
+geschwindigkeit » definierte, nur kinematisch bestimmte Größe
+dem Quantenansatz unterwerfen müssen. Dieser Unterschied
+ist wesentlich für die Beurteilung der im folgenden Paragraphen
+zu besprechenden Schwierigkeit. Der Zusammenhang zwischen
+p und w ist der folgende:
+
+p=mabo=maV1— m
+
+(a, b=große und kleine Hauptachse der Ellipse, &= nume-
+rische Exzentrizität, abo = doppelte Fläche der Ellipse, ge-
+teilt durch Umlaufszeit, also = mittlere Flächengeschwindig-
+keit). Soviel ich sehe, ist Herr Bohr geneigt,!) nicht die Größe
+2rp, sondern
+
+amp
+V1—
+
+zu setzen, wodurch die hervorzuhebende Schwierigkeit aller-
+dings scheinbar vermieden wird. Abgesehen von der allge-
+meinen Folgerichtigkeit des quantentheoretischen Standpunktes
+in unserem Ansatz (1) und der künstlichen Bevorzugung der
+großen Achse « in dem Ansatz (la) werde ich zu Gunsten des
+Ansatzes (1) in $4 den Fall der kreisförmigen Rotation von
+Elektron und Kern um ihren gemeinsamen Schwerpunkt heran-
+ziehen, der Bohr zu der bedeutenden, inzwischen experimentell
+bestätigten Entdeckung der Abhängigkeit der Rydbergschen
+Konstanten N vom Atomgewicht des fraglichen Elementes ge-
+führt hat. In diesem Falle kommt man zu dem von Bohr
+
+(la) 2rmao— =nh
+
+vorhergesagten tatsächlichen Wert von N vollkommen unge-
+zwungen, wenn man die Flächenkonstante p, d. h. den Gesamt-
+impuls von Elektron und Kern, nicht eine aus Abstand und
+Umlaufsgeschwindigkeit gebildete kinematische Größe gleich
+einem vielfachen von h setzt.
+
+1) Ich vermute dieses nach den allgemeinen Rrörterungen zu Be-
+ginn ‚seiner ersten Arbeit, Phil. Mag. 26, pag. 3, wo alle Bewegungs-
+Elemente dureh « und & dargestellt werden. Eine ausdrückliche For-
+mulierung des Ansatzes (1a) habe ich bei Bohr nicht gefunden.
+
+--- Page 9 ---
+432 A. Sommerfeld
+
+Es sei schon hier bemerkt, daß die Anwendung des Quanten-
+ansatzes auf die einzelne Zustandskoordinate 9 nach dem Vor-
+angehenden zwar nahe liegt, aber eine neue Hypothese enthält.
+Bei dem Planckschen Öscillator oder der einfachen Rotation
+haben wir nur einen Freiheitsgrad und können bezüglich der
+Berechnung des Phasenintegrals nieht im Zweifel sein. Bei
+der Keplerschen Bewegung dagegen haben wir zwei Freiheits-
+grade; die Begriffsbestimmung des Phasenintegrals ist daher
+hier nicht mehr eindeutig. Inwiefern unser Ansatz vom
+Koordinatensystem unabhängig ist, wollen wir später erörtern.
+
+$ 2. Die Energie der Keplerschen Bewegung.
+
+Bekanntlich benutzt die Bohrsche Theorie noch an einer
+anderen Stelle einen Quantenansatz, indem sie die ermittierte
+Schwingungszahl dureh die Knergiedifferenz des Überganges
+aus der ursprünglichen in die spätere Bahn des Elektrons
+ausdrückt:
+
+(AD hvr=W.— Wi
+
+Ich glaube, daß diese Verwendung der Quantentheorie, trotz
+ihrer außerordentlichen Leistungsfähigkeit in Hinsicht auf das
+Kombinationsprinzip der Spektrallinien, doch nur provisorisch
+ist. Um z. B. beim Zeeman-Effekt die scharfe Polarisation
+der Zerlegung:
+
+inien zu erklären, wird es nötig sein, den
+Übergang im Einzelnen zu verfolgen und sich nicht zu be-
+gnügen mit einer pauschalen Energiebilanz. Um dieses Ziel
+zu erreichen, müßten ganz neue Gesetze der Mechanik gefunden
+werden. Handelt es sich doch in der gewöhnlichen Mechanik
+stets um Vorgänge, bei denen Energie und Impuls im Prinzip
+erhalten bleiben, hier dagegen um Übergänge, bei denen Energie
+und Impuls in charakteristischer Weise abgeändert werden.
+Um den Bohrschen Ansatz (ID), dem wir uns natürlich
+einstweilen anschließen müssen, verwenden zu können, müssen
+wir die Energie der Keplerschen Bewegung durch die Flächen-
+konstante p und die Exzentrizität © ausdrücken. Wir könnten
+uns hierbei auf wohlbekannte Tatsachen der Mechanik stützen.
+
+--- Page 10 ---
+Zur Theorie der Balmerschen Serie. 438
+
+Ich ziehe es aber vor, die Formeln kurz abzuleiten, teils wegen
+anschließender Verallgemeinerungen, teils weil mir die folgende
+Ableitung besonders einfach scheint.
+
+Nimmt man die Kernladung gleich + e und die Kern-
+masse zunächst als © an und beschreibt die Bewegung des
+Elektrons m teils durch rechtwinklige Koordinaten x, y, teils
+durch Polarkoordinaten r, p mit dem Kern als Zentrum, so gilt
+
+p=mrog,
+
+(2) KR BRE RET Be EEE
+E TE IT
+Ersetzt man
+P d ..d p d
+9 dt duelne dp mr dp
+und führt man die Abkürzung o = b ein, so wird
+.pd _.. do
+mE. Zr (rcosp) = —p ( snp + dp cos)
+en d (sn) — , do.
+ya FF snp)=—p» il Sue sinp).
+
+Statt (2) kann man also schreiben:
+
+Pd . do zu
+ni ssny -— Ep cosp)=
+o do Ze
+m (7 +)=— „a 0059
+
+2
+
+cos smp, . .
+Indem man den Faktor T bzw. aa beiderseits hebt,
+Pr
+
+folgt aus beiden Gleichungen gemeinsam:
+
+--- Page 11 ---
+434 A. Sommerfeld
+
+d?o me?
+(4) da? — pP ’
+also durch Integration
+me?
+
+eo p + Acosp + Bsiny.
+Nimmt man p=0 zum Perihel, so wird
+
+d
+B=0 wegen ° 9 für p=0
+
+da
+1.4 Ar
+me 14.0) me
+4A= p & wegen To Ap'
+me
+
+Wir erhalten also die gewöhnliche Polargleichung der
+
+Ellipse in der Form
+. 1 me ,
+(5) == Fr (1-F &cosg).
+
+Hieraus folgt wegen (3)
+
+p dr pydo © ,
+_ . —. esing.
+(6) mr? do mdp p nr
+6
+B p pP e?
+— _ — (1-+ scosn).
+m! m (1+2cosp)
+
+Für die kinetische Energie erhält man nach (6):
+
+T m 2 2? = A 2cn? 2
+=z Fr +rp)= 2 Fo sn?p + (1-+ &c0s9)?)
+
+mefil+e
+
+-27( ° +eoosp),
+
+für die potentielle Energie nach (5):
+e? m e*
+
+V= ur — m (1-+ 2c0sQ),
+
+für die Gesamtenergie also
+me!
+
+M) W=T7+V-- Ey d-2).
+
+--- Page 12 ---
+Zur Theorie der Balmerschen Serie. 435
+
+Das Wesentliche an diesem Resultat ist die Art, wie die
+Exzentrizität # in dasselbe eingeht. Daß die Gesamtenergie
+(ebenso wie bei Bohr) mit negativem Zeichen erscheint, braucht
+uns nicht zu überraschen. Ist sie doch nur bis auf eine will-
+kürliche additive Konstante definiert. 7. B. würden wir nach
+der Relativitätstheorie noch die weit überwiegende Massen-
+energie mc? und Tec? des Elektrons und des Kernes hinzu-
+zufügen haben, durch welche der Ausdruck für W sofort
+positiv werden würde.
+
+Tragen wir in (7) unsern Quantenansatz (1) ein und
+schreiben wir zur Unterscheidung &„ statt &, so ergibt sich
+
+2
+
+me l— 1—&
+
+Nh
+
+oyır
+w=W, en
+
+mit Benutzung des Bohrschen Wertes für die Rydbergsche
+Konstante N. Dieser Ausdruck von W hängt in kontinuier-
+von der Exzentrizität z, ab. Bilden wir in gleicher
+Energie W,, für eine andere Bahn von der Exzen-
+&„ und dem Impulsmomente 2#p = mh, so folgt durch
+den Quantenansatz (II) nicht die Balmersche Serie
+
+_ x( _ 5)
+mn“ m“
+
+mit scharfen, ganzzahlig durch m und # definierten Linien,
+
+sondern
+
+.(1—e 1-
+s N a
+8) j ( n? m? ):
+
+also eine Folge von Schwingungszahlen, welche bei kontinuier-
+lich veränderlichen Exzentrizitäten vollkonımen unscharf wäre:
+keine diskrete Serie, sondern ein verwaschenes Band.
+
+Wollen wir also dem Blektron nieht überhaupt verbieten,
+außer Kreisen auch Ellipsenbahnen zu beschreiben, so ergibt
+sich unabweislich die Forderung, auch die Exzentrizitäten
+quantenhaft zu arithmetisieren und an gewisse ganzzahlige
+Werte zu binden.
+
+--- Page 13 ---
+436 A, Sommerfeld
+
+Es sei denn, daß wir den Quantenansatz (1) aufgeben und
+pP
+Yı-.
+an die Stelle von » tritt, würde sich allerdings aus (7), un-
+
+abhängig von #, ergeben:
+
+W=— ni und vl, _ n)
+
+n? n? m?
+
+uns dem Ansatze (la) anschließen. Da bei diesem
+
+Wie indessen am Ende des vorigen $ erörtert wurde, müssen
+wir diesen Notbehelf als zu künstlich abweisen.
+
+$ 3. Quantenbedingung für die Exzentrizität.
+
+Nachdem wir gesehen haben, daß die Exzentrizität der
+Ellipsenbahnen nicht kontinnierlich veränderlich sein darf,
+sondern auf ausgezeichnete diskrete Werte zu beschränken ist,
+erhebt sich die Frage nach einer Quantenbedingung für die
+Exzentrizität. Der einfachste Ansatz führt sogleich zu einem
+überzeugenden Ergebnis.
+
+Wir übertragen den Quantenansatz (I) wörtlich von der
+azimutalen Koordinate g= p auf die radiale Koordinate g = r.
+
+2
+
+Der zugehörige Impuls ist p, = Ep — mi im Falle unendlicher
+Ja
+
+Kernmasse. Wir betrachten unser Phasenintegral S» dq=
+
+Sp. dr erstreckt über einen vollen Umlauf und setzen dasselbe
+nach (I) gleich einem ganzen Vielfachen »’ von h; also
+
+2r
+(9) Spdr= Smrdr = Sf mr Tagan
+v dp
+
+In den nach r genommenen Integralen würde die Inte-
+gration etwa von der Periheldistanz r=(1—.)a bis zur
+Apheldistanz »—=(1-+.e)a und wieder zurück zur Perihel-
+distanz zu erstrecken sein; indem wir auch hier p als formale
+Integrationsvariable wählen, erzielen wir die einfacheren Inte-
+grationsgrenzen O0 und 27 und eindeutige Abhängigkeit des
+Integranden von der Integrationsvariabeln.
+
+--- Page 14 ---
+Zur Theorie der Balmerschen Serie. 437
+
+Zur geometrischen Veranschaulichung unseres Ansatzes (9)
+betrachten wir in der Phasenebene 9, p die Bilder eines
+Systems von Bahnkurven, indem wirg=r undp=p, als
+rechtwinklige Koordinaten benützen. Die ÖOrdinaten » der
+aufeinanderfolgenden quantenhaft auszuzeichnenden Kurven des
+Systems mögen wie in $ 1 als 24, ?1, Pg, .  . unterschieden
+werden. 2, sei im Besonderen eine Kreisbahn, für welche also
+F=0, 9, = ist, so daß wie in $ 1 festgesetzt wurde
+
+Smae=v
+wird. Unser Bahnsystem sei etwa durch konstante Werte der
+Flächenkonstante p (für die wir aber hier der Deutlichkeit
+wegen f schreiben wollen) bei wachsenden Werten der Exzen-
+trizität © definiert. Die Bildkurven dieses Bahnsystems sind
+
+sämtlich geschlossene Kurven, jede folgende schlielt die vor-
+hergehende ein. Als Gleichung des Systems ergibt sich nach
+(5) und (6) durch Elimination von 9
+
+Fi 1 me? a, )
+rl
+
+also eine Gleichung vierter Ordnung zwischen den Variabeln »
+2
+. 5 . me
+und q mit den Konstanten f und f und dem Parameter e.
+Der Flächenring zwischen zwei aufeinander folgenden Kurven
+der Reihe 24, Pi, Pas - - -, die durch unsere Quantenbedingung (9)
+
+aus der Gesamtschar herausgehoben werden, ist konstant gleich %.
+
+--- Page 15 ---
+438 A. Sommerfeld
+
+Übrigens sind die Einzelheiten der Figur und der Kurvenform
+für unsere Zwecke belanglos und hier nur der größeren An-
+schaulichkeit wegen wiedergegeben.
+
+Wir haben nunmehr das Phasenintegral in Gl. (9) durch
+die Exzentrizität e auszudrücken, wobei wir uns auf die frü-
+heren Formeln für die Ellipsenbewegung zu stützen haben.
+Zunächst ist nach der Ellipsengleichung (5)
+
+dr I de pe sing
+
+dp dp mer t(l-Fecosp)®
+andererseits nach (6)
+. mes .
+m — sin@,
+pP
+
+daher nach (9)
+
+Pe
+
+Ir
+
+f „dr = pe snög
+Per} ren"
+
+Das Integral läßt sich durch partielle Integration um-
+formen und auf ein bekanntes Integral reduzieren. Man hat
+nämlich:
+
+ar FI
+
+2 sin®pdy . “ "cos da fi a
+& ws —- do.
+(+8 cosp)® re + ee0sY l-+.cosw '
+0 u
+
+Ü
+
+Nun ist aber bekanntlich (am bequemsten durch Integration
+in der komplexen Ebene der Variabeln er zu verifizieren):
+If de. 1
+ayıItecosp  Vlo'
+0
+
+Man findet also
+
+2x
+sn’pdg
+
+1
+10) pe „2: =).
+j j N} da + € c08 pP (| Vi e?
+
+--- Page 16 ---
+Zur Theorie der Balmerschen Serie. 439
+
+Setzen wir dies nach (9) gleich r'% und zugleich nach
+
+Früherem 2zp=nh, so ergibt sich als unsere neue Quanten-
+bedingung
+
+[053]
+
+1 a 18 m?
+
+Vi n ln + me
+Die gewünschte quantenmäßige Heraushebung ausgezeich-
+neter diskreter Werte der Exzentrizität ist damit gefunden.
+Nunmehr tragen wir diesen Wert in den Energieausdruck (7)
+ein, zugleich mit 2zp=nh, und erhalten
+
+antmet 1 Nh
+eo mn+n) (mn)?
+
+Dies Resultat ist im höchsten Grade überraschend und von
+schlagender Bestimmtheit. Nicht nur sind die weiterhin zu-
+lässigen Energiewerte ganzzahlig diskret geworden, sondern es
+hat sich der frühere Nenner n? gerade herausgehoben, derart,
+daß das Resultat nur noch von n + n‘ abhängt. Die Energie
+ist also eindeutig bestimmt durch die Summe der Wirkungs-
+quanten, die wir auf die azimutale und die radiale Koordinate
+beliebig verteilen können. Es scheint mir ausgeschlossen, daß
+ein so präzises und folgenreiches Ergebnis einem algebraischen
+Zufall zuzuschreiben sein könnte; ich sehe darin vielmehr eine
+überzeugende Rechtfertigung für die Ausdehnung des Quanten-
+ansatzes auf die radiale Koordinate resp. für die gesonderte
+Anwendung dieses Ansatzes auf die beiden Freiheitsgrade
+unseres Problems.
+
+0109) W--
+
+Aus dem Energieausdruck (III) ergibt sich nun sofort die
+Balmersche Serie, wenn wir neben der Bahn mit den Quanten-
+zahlen n, n‘ (Endbahn des Elektrons) eine zweite mit den
+Quantenzahlen »n, m’ (Anfangsbahn des Elektrons) betrachten.
+Nach dem Quantengesetz (I) erhält man nämlich
+
+1 Nov 1 od
+Av) "N (e +)  (m+ 3) \
+
+d. h. die Balmersche Serie in neuen Lichte, abhängig von
+vier ganzen Zahlen, die sich aber beim Wasserstoff sozusagen
+
+--- Page 17 ---
+440 A. Sommerfeld
+
+zufällig auf zwei ganze Zahlen reduzieren. Durch Zulassung
+unserer quantenhaft ausgezeichneten Ellipsenbahnen hat die
+Serie nichts an Linienzahl gewonnen und nichts an Schärfe
+verloren. Statt des verwaschenen Bandes, von dem wir früher
+sprachen, haben wir wieder die diskreten Balmerlinien, aber
+in außerordentlich vervielfachter Mannigfaltigkeit ihrer Er-
+zeugungsmöglichkeiten.
+
+$4. Ergänzung betreffend die Mitbewegung des Kernes.
+
+Der in (III) benutzte Wert für die Rydbergsche Kon-
+stante N ist bekanntlich nur insoweit richtig, als wir die Klek-
+tronenmasse gegen die Masse des Kernes vernachlässigen können.
+Bei Berücksichtigung der Endlichkeit der Kernmasse tritt an
+Stelle von m die unten zu definierende, aus Elektronenmasse
+und Kernmasse resultierende Masse zu. Wir benutzen diese
+inzwischen experimentell gesicherte Tatsache, um unseren
+Quantenansatz (l) teils zu prüfen, teils zu erweitern.
+
+Zu dem Ende setzen wir zunächst die Formeln für die
+Bewegung von Hlektron und Kern um ihren gemeinsamen
+Schwerpunkt her. Sind X YR® bzw. zyrgp rechtwinklige
+und Polarkoordinaten für Kern und Elektron mit dem Schwer-
+punkt als Anfangspunkt, so hat man zunächst als Flächensatz:
+
+(12) p=mrp-+ MR.
+
+Bezeichnet man den jeweiligen Abstand von Kern und
+Elektron mit o
+
+o=k-+r
+
+und beachtet, daß nach dem Schwerpunktsatz ist
+(13) MR=mr, d=o+n,
+
+so ergibt sich
+
+m M
+
+(13) A = M-+m a T; + m
+
+o, also p= uo?y.
+
+mit der Abkürzung « für die „resultierende Masse*
+
+mM 1 1 1
+
+11) Tu + u ma
+
+--- Page 18 ---
+Zar YVheorie der Balmerschen Serie. 441
+
+Die Bewegungsgleichungen lauten:
+
+dy 1 d. 1e
+X — 208 4 =... sind
+. la x M PEase P, dt Y Io: sin D
+5) q .__ 1e d. Le,
+urn mg? IT m op.
+
+Bildet man die Differenz der untereinander stehenden Glei-
+chungen und schreibt & n für &— X, y—Y, so erhält man,
+wie bekannt, die Gl. (2) mit &7 40 statt zymr. Es folgt
+also bei gleicher Rechnung wie oben die Bahngleichung (5)
+und bei entsprechend zu ergänzender Definition von 7 die
+Energiegleichung (7) in Abhängigkeit von der Exzentrizität e
+der Itelatirbewegung, mit dem einzigen Unterschied, daß überall,
+insbesondere in dem Werte von N, # an die Stelle von m tritt.
+
+Es fragt sich nun, wie in diesem Falle — bei Vorhanden-
+sein zweier azimutaler Koordinaten @, ? und zweier radialer
+Koordinaten r, Rt — der Quantenansatz zu erweitern ist. Die
+Erweiterung muß so vorgenommen werden, daß schließlieh wie-
+der der Energieausdruck (Il) und die Balmersche Formel (IV)
+zum Vorschein kommt, mit dem einzigen Unterschiede, daß in
+dem Wert der Rtydbergschen Konstanten u an Stelle von m
+tritt. Wir behaupten, daß diesem Gesichtspunkt der folgende
+Quantenansatz entspricht, der auch an sich der einfachste und
+nächstliegende ist:
+
+(Sp, do+ $ P,hdad=nh
+mar +SPrdR=uh,
+daß sich also die Phasenintegrale für das Hlektron und den
+Kern additiv verhalten.
+
+Die Bedeutung der hier eingeführten Bezeichnungen p, P
+ist ersichtlich die folgende:
+
+(16)
+
+37T .. 31.
+Rz. =-nmo, p= .—=mi,
+°y or
+7 r ;
+r= "ums 1," ur
+ab ak
+
+Sitzungsb. d, math.-phys. Kl. Jahrg. 1915. 29
+
+--- Page 19 ---
+442 A. Sommerfeld
+
+Nach Gl. (12) ist aber + Ps = p = konstant, nach
+Gl. (13) überdies d®= dp. Daraufhin wird die erste Zeile
+von (16) identisch mit 2rp —=nh oder mit Rücksicht auf (13a)
+
+(17) 2ruotpmınh.
+
+Andererseits formen wir die zweite Zeile von (16) durch
+die Schwerpunktsbeziehungen (13a) um. Wir erhalten
+
+_ mM?
+(M-+ m)?
+Mm: .
+(M + m)? Sede
+Spdr + PraR=ufode—=nh.
+
+Diese Gleichung entspricht genau dem Ansatz (9) des
+vorigen Paragraphen mit dem einzigen Unterschiede, daß u
+und o an die Stelle von m und r getreten sind. In dem-
+selben Sinne entspricht Gl. (17) der Quantenbedingung für die
+frühere einzige azimutale Koordinate @. Die weitere Ausrech-
+nung läuft daher genau so wie im vorigen Paragraphen, wo-
+bei man die Ellipsengleichung für die Relativbewegung o zu
+Grunde zu legen hat. Das Resultat wird durch Gl. (11) für
+die Exzentrizität und, wie verlangt, durch die Gl. (III) und
+(IV) für die Energie und die Serienformel dargestellt, bei
+abgeändertem N.
+
+Der Ansatz (16) läßt sich auch von folgendem Stand-
+punkte aus begründen. Man wähle von den beiden Koordi-
+
+Spdr =mfrar Ssde
+
+(18) [PıdR=M| RdaR=
+
+naten », R die eine, z. B. r, aus als diejenige, durch die wir
+die Dynamik unseres Systems beschreiben wollen. Dann hat
+man die andere durch die Schwerpunktsgleichung mr = MR
+auf jene zurückzuführen, insbesondere in dem Ausdruck der
+lebendigen Kraft
+
+m
+
+T=, (7 + ”i) + = (Re + 72.8)
+
+Mm
+
+3 lH) e+r.
+
+--- Page 20 ---
+Zur Theorie der Balmerschen Serie. 443
+
+7,u der einmal bevorzugten Koordinate r gehört als Impuls-
+koordinate des Systems, unter 7’ den soeben umgeformten Aus-
+druck verstanden:
+
+2 7 m\.
+»= 3; -n(1+ )*
+
+Als Phasenintegral des Systems haben wir jetzt anzu-
+sprechen:
+
+Spdr=m ( + 7) Srar.
+4
+
+Daß dieses Integral mit (18) identisch ist, folgt aus der
+Beziehung (13a)
+.„_._M
+"Mu +m ”
+der zufolge wir erhalten
+1, m M® VE .
+S dr (1 Foy ru mps gie nSodo.
+Die entsprechende Rechnung unter Bevorzugung von R
+als radialer Systemkoordinate liefert
+j 1 . . IN:
+7-3, (1+,)de+ md, = anli+))
+
+m
+SPrdR=ufodo.
+
+Derselbe Standpunkt (Rlimination einer der beiden Koor-
+dinaten, Bevorzugung der anderen) läßt sich auch bei den
+azimutalen Koordinaten einnehmen und führt hier entsprechend
+auf Gl. (17). Unsere Quantenansätze in den Gleichungen (16)
+erscheinen also auch von diesem Standpunkte aus als naturgemäß.
+
+Schließlich kommen wir nochmals auf den Ausweg zu-
+rück, durch den abgeänderten Quantenansatz (la) die Schwierig-
+keit der kontinuierlichen Abhängigkeit der Energie von der
+Exzentrizität zu beseitigen. Wenn dieser Ausweg schon bei
+alleiniger Betrachtung des Elektrons reichlich künstlich er-
+schien, so wird er mit Rücksicht auf die Mitbewegung des
+Kernes noch schwerer gangbar. Im Anschluß an Gl. (1a)
+
+29*
+
+--- Page 21 ---
+444 A. Sommerfeld
+
+müßte man nämlich jetzt, um den Energieausdruck zu arithı-
+
+metisieren, Arp
+
+Vi-#
+setzen, also eine in ziemlich künstlicher Weise aus der mittleren
+Umlaufsgeschwindigkeit ®, der größten Entfernung « von Kern
+und Elektron und der mittleren Masse x zusammengesetzte
+Größe der Quantenbedingung unterwerfen. Man könnte fragen,
+warum wird nicht statt der größten eine mittlere Entfernung
+zu Grunde gelegt, warum wird gerade das dynamisch definierte
+Massenmittel z« benutzt?
+
+Noch größere Schwierigkeiten entstellen dem Quanten-
+ansatz (la), wenn man die Veränderlichkeit der Masse nach
+der Relativitätstheorie in Betracht zieht. Während es sich
+im vorigen Falle nur um das Mittel « zwischen den konstanten
+Massen von Kern und Elektron bandelte, müßte man hier bei
+entsprechender Übertragung des Ansatzes (la) mit einem kom-
+plizierten Zeitmittel der Massen oder mit den betreffenden
+Ruhmassen rechnen, mit denen das Problem eigentlich nichts
+zu tun hat. Dagegen handelt es sich bei unserem Ansatz
+stets um die auch in der Relativitätstheorie eindeutig und
+naturgemäß definierte Impulskonstante. Ich möchte indessen
+an dieser Stelle nicht näher hierauf eingehen, da ich auf die
+bedeutsame Rolle, welche der Relativität bei der weiteren Aus-
+gestaltung unserer Theorie und bei ihrer experimentellen Sicher-
+stellung zukommt, ohnehin in einer anschließenden Arbeit zu-
+rückzukommen haben werde.
+
+=?ruo—nh
+
+$5. Die zu einer Balmer-Linie gehörenden Ellipsenbahnen.
+
+Wir wünschen uns ein Bild zu machen von Anzahl und
+Gestalt derjenigen Bahnen, welche zu demselben Werte der
+Energie W Anlaß geben. Es sind dies nach (III) alle die-
+jenigen Ellipsen, für welche » + n‘ denselben Wert hat, z. B.
+den Wert n-+- n'=2 wie in dem ersten Terme der sicht-
+baren Balmer-Serie oder den Wert m m’ =3,4,5,... wie
+in dem zweiten Term.
+
+--- Page 22 ---
+Zur Theorie der Balmerschen Serie. 445
+
+Nach (1) und (11) ist
+
+N?
+(19) pen Se
+Aus der Ellipsengleichung (5) folgt für das Perihel
+=0; r=a(1— 8) oder das Aphel p= rm, r=a(l + 89)):
+
+1 me, _P# 1
+(20a) alrs” gi te), also a= mel
+Andrerseits ist nach Definition der Eixzentrizität
+_ a 1
+(20b) b=aVi-a=
+
+me Vie
+
+Setzen wir die Werte von p und 1— e? aus (19) in (20a, b)
+ein, so folgt:
+@) a=
+
+Rt) b nat Rn).
+
+ne 4; aa
+
+Für die Diskussion kommt namentlich in Betracht, daß
+die ganzen Zahlen %» und n‘ notwendig positiv sind, wie in $1
+allgemein gezeigt wurde. Wir erhärten diese ebenso einfache
+wie folgenreiche Tatsache in unserem Falle folgendermaßen:
+Unter Absehung von der Bewegung des Kernes wird für unsere
+(orthogonalen) Polarkoordinaten r, o:
+
+p=mr, p, =mi?o
+Spdar=Smirat, Sp,dp = Smrgedt.
+
+Beide Phasenintegrale sind so sicher positiv, als der Fort-
+schritt der Zeit positiv ist, da stets dr und dp wachsend im
+Sinne des Ablaufs der Bewegung gezählt wurden. Ebenso bei
+beweglichem Kern, wo sich » und n’ nach (16) je aus zwei
+positiven Summanden zusammensetzen. Also haben wir stets
+eine positive Zahl von Quanten » und n‘. Bezüglich der Zu-
+lässigkeit des Wertes Null ist folgendes zu bemerken. n"’—=0
+bedeutet nach (19) 2 = 0, also die Kreisbahn, die wir jedenfalls
+als möglich erklären werden. n == 0 aber bedeutet p= 0, also
+Ausartung der Ellipsenfläche in eine doppelt zählende Gerade.
+
+--- Page 23 ---
+446 A. Sommerfeld
+
+Das Elektron würde hierbei dem Kern unendlich nahe kommen
+und von ihm vermutlich abprallen (vgl. Rutherfords Versuche
+über die Ablenkung der «a-Strahlen). Außerdem müßte die
+Geschwindigkeit in dieser Bahn mit der Annäherung an den
+Kern unendlich werden, so daß die bisherigen Rechnungen
+ungültig werden würden und relativistisch zu modifizieren
+wären. Jedenfalls werden wir die Bahn mit n°=0 als höchst
+problematisch ansehen und im folgenden nicht mitzählen; in
+den Figuren ist sie punktiert eingetragen.
+
+Zu den Gl. (21) ist zu bemerken, daß « bei gegebenem
+»n-+ n‘ fest, b veränderlich ist. Wie es sein muß, gilt nach
+A9 und (21) stets O<e<1, b<a.
+
+nen’: m+m'=3 memih
+
+Fig. 8 Fig. 4 Fig. 5
+
+Wir zählen jetzt die bei den Balmer-Linien maßgebenden
+Fälle auf:
+n+n'=2, zwei Möglichkeiten.
+"ln e:—=(, b=u
+
+"=l n=1, Fon 5 be"
+2 2
+
+= n=0, e=0, b= 0, problematisch ;
+der entsprechende Fall wird im folgenden fortgelassen).
+
+m+m'—=3, drei Möglichkeiten.
+
+"0 mel, .=0, b=a
+
+/5
+
+nM"—=1l, m=32, 3 V® Pan
+3° 3
+/8
+
+n"—=2, ml, 8 la
+
+--- Page 24 ---
+Zur '['heorie der Balmerschen Serie. 447
+
+m-+ m‘ = 4, vier Möglichkeiten.
+
+"0, m=4 .=(, b=a
+
+, v7 3
+W"=1l m=3, = b= za
+ER Vvı2 2
+ni 2, m=2, € 4° b= 7°
+
+r
+wW"—s, nm=|], VB b=la
+
+usf. Soll A, erzeugt werden, so kommen dafür als End-
+bahnen die zwei in Fig. 8 (n+n'=2) verzeichneten, als
+Anfangsbahnen die drei Bahnen in Fig. 4 (m + m'—=3) in
+Betracht; im ganzen gibt es hiernach
+
+2-3=6
+
+Erzeugungsarten für H,. Ebenso für Hz (Übergang aus einer
+der vier Bahnen von Fig. 5 m + m'=4) in eine der zwei
+Bahnen von Fig. 3)
+
+2:48
+Erzeugungsarten, allgemein ittna+"=N m+wW"=M
+die Anzahl
+
+(22) N-M.
+
+Man kann aber im Zweifel sein, ob jeder dieser Über-
+gänge möglich ist, ob nämlich nicht vielleicht nur solche
+Übergänge zuzulassen seien, die mit Quantenverlust verbunden
+sind. Bei Betrachtung der Energie und der Energiequanten
+im Sinne des Ansatzes Il von Bohr ist es uns geläufig zu sagen:
+die Energie ist eine positive Größe; bei Prozessen, die von selbst
+vor sich gehen, kann sie nur abnehmen; aus W. — W„>0
+folgt dann:
+
+m+m>n-n.
+
+Gegen wärtig handelt es sich zwar nicht um Energiequanten,
+sondern um Wirkungsquanten; hier nun scheint es, daß Impulse
+oder Impulsmomente ebensogut positives wie negatives Vor-
+zeichen haben und ebensogut zu- wie abnehmen können.
+
+--- Page 25 ---
+448 A. Sommerfeld
+
+Nachdem wir aber festgestellt haben, daß in unserem Ausdruck
+für das Phasenintegral die fragliche Impulskoordinate durch
+Multiplikation mit dem dq der Lagenkoordinate zu einer wesent-
+lich positiven Größe verbunden ist, liegt die Annahme nahe,
+daf} eine Veränderung dieser Größe bei freiwilligen Übergängen
+ebenso einseitig stattlände, wie die der Energie, nämlich im
+abnehmenden Sinne. Dann würden nur solche Übergänge
+zwischen den vorgenannten Bahnkurven möglich sein, bei welchen
+keine der beiden Quantenzahlen abnimmt, bei denen also
+
+m>n, m >n.
+
+Eine Entscheidung über diese und ähnliche Fragen darf
+man (vgl. den nächsten $) von dem Stark-Efekt erwarten.
+
+Unter vorläufiger Annahme dieser Ansicht würden z. B.
+bei H. von den 6 vorher aufgezählten Übergingen nur die
+folgenden 4 wirklich sein:
+
+me, W000 — rn e2, " —=(0
+_r
+m=2, W=1 _. zı=1l,#" =]
+ı Ba
+n=l, wW"=2
+
+Ebenso würden bei den anderen Balmer-Linien 7, H,, .. .
+je zwei Übergänge in Fortfall kommen. Die Anzahl der
+Erzeugungsarten würde allgemein betragen bin+n'=N,
+m+m'=M>N
+(22a) N(M—N-+-1),
+
+7. B. bei der von Ritz und Paschen entdeckten ultraroten
+Kombinationslinie des Wasserstofs N=3, M =4
+3: 2=6,
+
+In jedem Falle erscheint eine Wasserstoflinie in unserer
+Auffassung als eine ziemlich komplizierte Überlagerung ver-
+schiedener diskreter Vorgä
+
+nge.
+
+--- Page 26 ---
+Zur Theorie der Balmerschen Serie. 449
+
+$ 6. Allgemeine Folgerungen betreffend den Stark-Effekt bei Wasser-
+stoff und die verschiedenen Serientypen bei anderen Elementen.
+
+Die elementare Lorentzsche Theorie des Zeeman-Kffektes
+beruht darauf, daß in jeder Spektrallinie drei unter sich gleiche
+Hauptschwingungen eines quasielastisch-isotrop schwingenden
+Elektrons übereinanderfallen. Das Magnetfeld erzeugt keine
+neuen Schwingungsmöglichkeiten, sondern legt nur die vor-
+handenen auseinander. Die ursprünglich zusammenfallenden
+Frequenzen erscheinen dabei als ein labileres, durch äußere
+Einwirkung leiehter zu beeinflussendes Gebilde wie die ursprüng-
+lich verschiedenen Frequenzen eines anisotrop schwingenden
+Elektrons, bei dem der Zeeman-Kffekt nur von der zweiten
+Ordnung sein würde.
+
+Diese Anschauung überträgt sich unmittelbar auf den
+Stark-Effekt bei der Balmer-Serie. Nach unserer Auffassung
+fallen in jeder Balmer-Linie eine ganze Reihe von Frequenzen
+schiedenen Ursprunges zusammen, Das elektrische Feld
+wird die verschiedenen Ellipsenbahnen in verschiedener Weise
+beeinflussen und daher die ursprünglich zusammenfallenden
+Frequenzen auseinanderlegen. Die Beeinflussung wird beim
+
+ve
+
+Wasserstoff stärker sein, als bei anderen Elementen, wo (vgl.
+unten) ein derartiges Zusammenfallen nicht zu erwarten ist.
+Für diese Auffassung des Stark-Effektes spricht die große
+und mit der Nummer der Balmer-Linie steigende Komponenten-
+zahl, die Stark!) bei seiner Feinzerlegung beobachtet. Eine von
+Lo Surdo aufgestellte Regel, wonach diese Zahl jener Nummer
+selbst gleich sein sollte, ist damit widerlegt. Wir stellen hier
+die Zahlen zusammen, die Stark für die p- und s-Komponenten
+findet, mit denen, die sich aus unserer Abzählung in @l. (22)
+und (22a) ergeben. Dabei zähle ich von den Starkschen Linien
+nur diejenigen. die nach der einen Seite verschoben sind und
+rechne die unverschobene Linie mit. Diese Anzahlen sind
+
+I) Göttinger Nachrichten 1914.
+
+--- Page 27 ---
+450 A. Sommerfeld
+
+p-Komp. s-Konp. Gl. (222) Gl. (22)
+H, 3 2 4 6
+Ha 6 bis 7 6 bis 7 6 8
+H, 7 7 8 10
+
+H; i bis 8 7 bis 8 10 12
+
+Einige Linien sind von Stark als zweifelhaft bezeichnet,
+auch wird von der Möglichkeit gesprochen, daß noch weitere
+lichtschwache Komponenten gefunden werden könnten. Ein
+allgemeiner Parallelismus zwischen der beobachteten und der
+von uns berechneten Linienzahl ist nicht zu leugnen, zumal
+wenn wir den im vorigen Paragraphen aus allgemeinen Gesichts-
+punkten bevorzugten Standpunkt der Gl. (22a) einnehmen.
+
+Es sind schon verschiedene Erklärungen für den Stark-
+Effekt vorgeschlagen. Insbesondere stellt eine Formel von
+Bohr!) die Verschiebung der stärksten p-Komponente sehr gut
+dar. Aber gerade in Betreff der Linienzahl versagen alle diese
+Erklärungen bisher vollständig. Sie lassen eigentlich immer
+nur zwei p-Komponenten vorhersehen. Bezüglich der Ver-
+wendung unserer Abzählung sind wir geneigt, dieselbe sowohl
+für die p- wie für die s-Komponenten in Anspruch zu nehmen.
+Eine Unsicherheit liegt hier darin, daß der Energieansatz (ID)
+überhaupt keinen direkten Schluß auf die Polarisationen zu-
+läßt. Man muß sich also damit begnügen, Bahnen, deren
+Ebenen dem elektrischen Felde parallel sind, mit den »-Kompo-
+nenten, Bahnen, die dazu senkrecht stehen, mit den s-Komponenten
+in Zusammenhang zu bringen, wobei noch die weitere Schwierig-
+keit auftritt, daß die durch das Feld deformierten Bahnen strenge
+genommen nicht mehr eben sind. Für unsere feldlosen Bahnen
+sind natürlich alle Ebenen gleichberechtigt; unter dem Einfluß
+des Feldes aber können die parallelen und senkrechten Ebenen
+bevorzugt werden. Während die Gestalt der ursprünglichen
+Ellipsenbahnen durch das Feld deformiert wird, wird ihre
+Anzahl im allgemeinen erhalten bleiben. Hierauf gründet sich
+unsere Vermutung, dafs die Anzahl der »- und s-Komponenten
+
+!) Phil. Mag., September 1915, pag. 404.
+
+--- Page 28 ---
+Zur 'Uheorie der Balmerschen Serie. 451
+
+gleich und gleich der Anzahl unserer ursprünglichen Ellipsen-
+bahnen sein dürfte. Die genauere theoretische Deutung und
+die Größenbestimmung der Verschiebung für die einzelnen
+Komponenten scheiterte bisher an der in der Einleitung betonten
+Schwierigkeit, den Quantenansatz auf nicht-periodische Bahnen
+auszudehnen. Die Berechnung der durch das elektrische Feld
+deformierten Bahnen führt auf elliptische Integrale und läßt
+sich übersichtlich durchführen; aber eine naturgemäße quanten-
+hafte Heraushebung eines Systems ausgezeichneter Bahnen aus
+der Schar der mechanisch möglichen ist mir bisher nicht
+gelungen.
+
+In der Einleitung wurde bereits darauf hingewiesen, daß
+unsere Auffassung von der Sonderstellung des Wasserstoil-
+spektrums Rechenschaft gibt davon, daß es (vom Viellinien-
+spektrum abgesehen) nur ein Wasserstoffspektrum gibt gegen-
+über den Haupt- und Nebenserien und den verschiedenen
+Serientypen der anderen Elemente. Das Balmersche Spektrum,
+im allgemeinsten Sinne einschließlich aller Kombinationsspektren
+genommen, haben wir nach unserer Auffassung so zu schreiben:
+
+le)
+(rn +n) (m + m‘)
+
+Es ist klar, dal unsere Auffassung auch auf andere Elemente
+auszudehnen ist, d.h. man wird auch die in den Atomfeldern
+der anderen Elemente möglichen Bahnen nach dem Phasen-
+integral für die Umlaufs- und die Radialbewegung zu beurteilen
+und quantenhaft ausgezeichnete Bahnen hervorzuheben haben,
+deren Folge nach zwei ganzzahligen Quantenparametern » und n‘
+fortschreiten wird. Wie schon Bohr betont, tritt bei all-
+gemeineren Atomfeldern an die Stelle des Coulombschen
+
+Potentials „ eine allgemeine Kugelfunktion und an die Stelle
+
+1 . . .
+
+von _, dementsprechend eine allgemeinere Funktion p (»). Von
+n®
+
+unserem Standpunkt müssen wir hinzufügen, daß an die Stelle
+
+von . „eine von der Atomkonstitution abhängige Funktion
+(nr + nm >
+
+--- Page 29 ---
+452 A. Sommerfeld
+
+zweier ganzer Zahlen @ (n, »’) treten wird, da die Verbindung
+n-+ n‘ eine Besonderheit des Keplerschen Bahnsystems ist.
+Nur für große Werte von» (große Entfernungen vom Atom)
+wird sich das Bahnsystem Keplersch und die Serie wasserstoff-
+ähnlich verhalten; hier wird also @ (n, »‘) mehr und mehr
+übergehen in (rn +n‘)-?. Die allgemeine Form des Serien-
+gesetzes wird daher lauten:
+
+(23) = =o(n,n)— (mm) = fr (N) — Far (m).
+
+Indem man dem Parameter »’ resp. m‘ verschiedene Werte
+gibt, erhält man verschiedene Arten der funktionellen Ab-
+hängigkeit fund verschiedene Serien. Man kann z. B. schematisch
+die Existenz und die gegenseitigen Beziehungen von Haupt-
+und Nebenserien darstellen, indem man drei besondere Werte
+für n’ resp. m‘ benutzt und im Anschluß an die gewohnten
+Bezeichnungen für die Hauptserie (p), die I. Nebenserie (d) und
+II. Nebenserie (s) die zugehörigen Funktionen fu resp. fir be-
+zeichnet mit fu, fi, f-
+
+Wählt man überdies die ganze Zahl #» in solcher Weise,
+wie es durch die Erfahrungen im sichtbaren Gebiete gegeben
+ist, so erhält man das folgende wohlbekannte Schema der
+Serienzuordnung
+
+H.S.... ehem hm), ns=l,nm=-23,34,...
+INS... ah hm), nel, m=3,45,:..
+
+INS... va Mh), n=2,m=2,3,4,...
+
+Indem wir die Analogie mit den Keplerschen Bahnen des
+Wasserstoffs durchführen, werden wir vermuten, daß die Zahlen
+m oder n mittels des azimutalen Phasenintegrals die Größe der
+betreffenden Bahnen, die Zahlen »;. mi, m; oder n,, na, ax mittels
+des radialen Phasenintegrals allgemein gesprochen die Ab-
+achung der betreffenden Bahnen bestimmen. No wie beim
+Wasserstoff alle Bahnen mit gleichem »‘ Ellipsen von der
+
+--- Page 30 ---
+Zur Theorie der Balmersehen Serie. 453
+
+gleichen Exzentrizität waren, wird man allen Bahnen des Serien-
+terms f,, oder fs, fa Gleichheit eines gewissen gestaltlichen Merk-
+mals zuschreiben, welches von Element zu Element je nach der
+Beschaffenheit des Atomfeldes wechseln wird. Es hat keinen
+Wert, diese allgemeinen Vermutungen weiter auszuspinnen.
+Zu ihrer Prüfung im einzelnen ist reichliches spektroskopisches
+Material vorhanden. Ich möchte hier nur bemerken, daß auch
+Herr Bohr in seiner letzten Arbeit (Phil. Mag., September
+1915, $ 3) zu der Anschauung gelangt, daß bei Atomen mit
+mehr als einem Elektron die verschiedenen Serien verschiedenen
+Formen der Bahnen entsprechen müssen. In unserer Dar-
+stellung ist diese Vorstellung durch das Beispiel des Wasser-
+stoffs präzisiert.
+
+Gegenüber dem Wasserstoff können die anderen Elemente
+noch eine weitere Komplikation aufweisen. Beim Wasserstoff
+sind die Bahnen nach der Natur des Keplerschen Problems
+notwendig eben. Es genügen daher zwei Koordinaten # und
+zu ihrer Beschreibung. Bei anderen Elementen von geringerer
+Symmetrie des Atomfeldes wird dies nicht mehr der Fall sein.
+Hier wird als dritte Koordinate z erforderlich. Wir müssen
+daher auch ein Phasenintegral für die z-Koordinate ins Auge
+fassen. Zu den Quantenzahlen n, »‘ tritt dann eine dritte ganze
+Zahl »“. Die allgemeine Form des Seriengesetzes geht dann
+über (vgl. (23)) in
+
+(23 a) = plnn', na") — pm, m’, m‘) = Farm (IM) — mm (m).
+
+Die Mannigfaltigkeit der Serienmöglichkeiten wächst da-
+durch natürlich stark an. Fs ist durchaus möglich, daß man
+schon bei der Deutung der Haupt- und Nebenserien in den
+Raum gehen muß, daß also z. B. p in f,(m) als Funktion zweier
+ganzzahliger Parameter m‘, m’ aufzufassen ist. Überhaupt wird
+sich die Beschränkung auf die Ebene, im Bau der Atome
+und in der Gestalt der Elektronenbahnen, die bisher vom Wasser-
+stoff? aus ohne weiteres auf andere Klemente ausgedehnt wurde,
+auf die Dauer nicht halten lassen.
+
+--- Page 31 ---
+454 A. Sommerfeld
+
+$ 7. Über die Unabhängigkeit des Quantenansatzes von der Wahl
+der Koordinaten. Beziehungen zur allgemeinen Mechanik.
+
+Wir beginnen mit einem allgemeinen Zusammenhang
+zwischen der mittleren kinetischen Energie und unseren Phasen-
+integralen. Nach einer bekannten Formel aus der Mechanik
+beliebiger Systeme ist
+
+T=}%pg,
+also bei Integration nach der Zeit
+(24) 2eSru=Dfpdg.
+
+Rechts steht die Summe unserer Phasenintegrale, genom-
+men über alle Koordinaten des Systems; um sie bilden zu
+können, müssen wir ein bestimmtes Stück der Bahnkurve oder
+eine bestimmte Länge der Zeit ohne Willkür abgrenzen können.
+Dies ist möglich bei periodischen oder quasiperiodischen Bahnen
+(vgl. $1). Sei r die Periode und 7’ die mittlere kinetische
+Energie während dieser Periode
+
+so ergibt sich mit unserem Quantenansatz (1) allgemein
+(25) 2Tt=mtn te )h
+
+Hiermach hat zunächst die Quantensumme a tn’ +: -
+eine invariante, vom Koordinatensystem unabhängige, durch
+die wirkliche Bewegung bestimmte Bedeutung. Es fragt sich,
+ob auch die Aufteilung der Summe nach den einzelnen Ko-
+ordinaten berechtigt ist. Im Falle der Keplerschen Bewegung
+ist diese Frage zu bejahen. Hier sind 9 und 2 zyklische
+Koordinaten und als solehe dynamisch ausgezeichnet. (Zyklisch
+heißt eime Koordinate, wenn sie weder in dem Ausdruck der
+kinetischen noch der potentiellen Energie explieite vorkommt,
+wenn also die kinetische Energie nur von dem zeitlichen Dif-
+ferentialquotienten der Koordinate abhängt.) Daraus, dafs z. B.
+
+--- Page 32 ---
+Zur Theorie der Balmerschen Serie. 455
+
+die Koordinate p eine wirkliche mechanische Bedeutung hat,
+folgt, daß eine solche auch ihrem Phasenintegral zukommt.
+Letzteres war 2xp, also in der Tat invariant. Dasselbe gilt
+von der z-Koordinate, wo wegen der Ebenheit der Kepler-
+Bahnen das Phasenintegral Null wird. Hiernach und nach
+dem Satze (25) folgt dann für die ührig bleibende Koordinate r,
+daß auch ihr Phasenintegral eine von der besonderen Wahl
+der r-Koordinate unabhängige Bedeutung hat.
+
+Wir bestätigen dies durch direkte Ausrechnung des Phasen-
+integrals. Sei s ein von r verschiedenes Maß für den Abstand
+des Elektrons vom Kern
+
+s=f(r),
+so wird
+Lunar FR ds we
+ro) =
+und
+°sT ar\ fds oT „
+A
+ar/r as/s \dr/r 98
+also T Fa
+° - dr! ds.
+or CE
+
+Mithin folgt
+
+a7 st
+Spdr —= Ss Pr: dr -f FR ds =/[(n ds,
+
+wie behauptet.
+
+Eine allgemeine Regel für die Auswahl der Koordinaten
+bei beliebigem Atomfeld wüßte ich nicht anzugeben. Daß die
+Koordinatenwahl nicht gleichgültig ist, zeigt sich bei der Kepler-
+bewegung unter Benutzung rechtwinkliger Koordinaten x y.
+Diese sind nicht cyklisch, weil die potentielle Energie (©? +?) ""
+von ihnen abhängt (in Hinsicht auf die kinetische Energie sind
+auch sie eyklisch). Hier wäre die Forderung
+
+fp.de = [made — Smardt =nmh
+Spdv=Smydy = Smirdt — n,h
+
+
+--- Page 33 ---
+456 A. Sommerfeld
+
+verschieden von unserer früheren Forderung
+
+Sp, dpo=nh, Spdr —n'h
+und sinnlos, weil von der besonderen Lage des Koordinaten-
+systems der 2 y abhängig.
+
+Wir wollen schließlich die allgemeine Gleichung (25) mit
+anderen Formulierungen der Quautentheorie vergleichen. Zu-
+nächst mit derjenigen der Planckschen Iinergieelemente.
+
+Es sei die mittlere kinetische und potentielle Energie ein-
+ander gleich. Die Gesamtenergie heiße wieder W; sie ist kon-
+stant. In diesem Falle gilt
+
+T=V, 2aT=W, Wr=(ntm+ Jh:
+nit > wird also W = Vielfachem von dv.
+
+Dies ist Plancks IIypothese der Energieelemente, welche
+sich also aus unserer @l. (25) immer ergibt, wenn 7=1/ ist.
+
+Es handle sich sodann um einen Massenpunkt, der sich
+unter dem Einfluß einer beliebigen Zentralkraft 5 bewegt.
+Der vorige Fall ergibt sich im Besonderen, wenn die Zentral-
+kraft direkt proportional der ersten Potenz der Entfernung ist
+
+deren:
+unter Ä den Proportionalitätsfaktor verstanden. Jetzt sei die
+Kraft allgemeiner von der x" Potenz
+= Kenn.
+Die potentielle Energie ist dann
+
+v=- — Klrdr— — =
+
+z +1’
+
+Die mittlere kinetische Energie berechnet sich durch Virial-
+
+bildung
+ds ’
+ut],
+
++,
+
+r r
+
+1 m ((fda\? m
+T= Tdt—= A —
+I „jo Sl) + )aı Dr
+0
+
+9
+
+m [a
+2 f(üger)a
+0
+
+--- Page 34 ---
+Zur Theorie der Balmerschen Serie. 457
+
+Das Glied ohne Integralzeichen möge verschwinden, was
+z. B. bei einer periodischen oder quasiperiodischen Bahn der
+Fall ist; in dem hinzutretenden zweiten Glied setzen wir die
+Bewegungsgleichungen ein. Dann ergibt sich
+
+T z
+
+- j 2 er — K 2
+IE: (ty +e)d= — =)’ ld.
+
+v DJ
+
+_K&K
+
+DT
+
+1-
+
+Hier erweist sich die rechte Seite bis auf den Faktor
+
+% 3 ! gleich der mittleren potentiellen Kinergie, also
+(26) Deseey,
+Daraus folgt insbesondere für = — 2 (Coulombsches
+Gesetz)
+v
+
+T=-—
+
+2
+
+eine Beziehung, von der in der Bohrschen Theorie öfter Ge-
+brauch gemacht wird. Allgemein berechnet sich aus
+
+_ P r
+T+ VW und T- RtDP
+
+2
+or m_*rtlyır
+(27) TI= 2+3 N
+Gl. (25) liefert also mit » =
+T
+
+W=; at te )hr.
+
+Hier würden also sozusagen gebrochene Energiequanten,
+insbesondere im Coulombschen Falle «= — 2, negative halbe
+Energiequanten auftreten. (Man beachte wegen des negativen
+Vorzeichens die Unterdrückung der Integrationskonstanten bei
+W und V.) Diese Bemerkungen bezwecken offenbar nur zu
+zeigen, daß der Begriff der Einergiequanten im allgemeinen
+unzulänglich ist.
+
+Sitzungsb. d. math,-phys. Kl. Jahrg. 1915, 30
+
+--- Page 35 ---
+458 A. Sommerfeld, Zur Theorie der Balmerschen Serie.
+
+Gl. (25) erinnert, wenn wir darin 7’ durch )V gemäß (27)
+ausdrücken, an den Ansatz:
+
+Energie - Zeit —=h,
+
+den ich in diesen Berichten bei Untersuchungen über y- und
+Röntgenstrahlen vorgeschlagen hatte.!) Die Auffassung der
+gegenwärtigen Quantenbeziehung ist aber von der früheren in
+mehreren Punkten verschieden. Sie beschränkt sich jetzt im
+wesentlichen auf periodische Bewegungen und sieht ein ganz-
+zahliges Vielfaches von h vor, auch wird die Gleichheit durch
+eine von dem Kraftgesetz abhängige Proportionalität ersetzt.
+
+1) Über die Struktur der y-Strahlen, Jahrgang 1911, pag. 1.
+
+--- Page 36 ---
+ZOBODAT - www.zobodat.at
+
+Zoologisch-Botanische Datenbank/Zoological-Botanical Database
+Digitale Literatur/Digital Literature
+
+Zeitschrift/Journal: Sitzungsberichte der mathematisch-
+physikalischen Klasse der Bayerischen Akademie der
+Wissenschaften München
+
+Jahr/Year: 1915
+Band/Volume: 1915
+
+Autor(en)/Author(s): Sommerfeld Arnold
+
+Artikel/Article: Zur Theorie der Balmerschen Serie 425-458
+

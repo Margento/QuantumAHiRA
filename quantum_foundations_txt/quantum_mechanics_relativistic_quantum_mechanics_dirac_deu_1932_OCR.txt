@@ -1,0 +1,563 @@
+
+--- Page 1 ---
+Relativistice Quantum Mechanics. 453
+
+this work. To Dr. Chadwick I am also indebted for the preparation of the
+polonium sources, from material kindly given by Dr. Burnam and Dr. West, of
+the Kelly Hospital, Baltimore, U.S.A. My thanks are also due to Professor
+Stratton for permission to carry out these experiments, free from radioactive
+contamination, at the Solar Physics Observatory, Cambridge. I also desire
+to thank the 1851 Commissioners for a Scholarship, during the tenure of which
+these experiments were commenced, and which indireetly rendered their
+completion possible. 3
+
+Relativistic Quantum Mechanics.
+By P. A. M. Dirac, F.R.S., St. John’s College, Cambridge.
+(Received March 24, 1932.)
+
+$1. Introduction.
+
+The steady development of the quantum theory that has taken place during
+the present century was made possible only by continual reference to the
+Correspondence Prineiple of Bohr, according to which, classical theory can give
+valuable information about quantum phenomena in spite of the essential
+differences in the fundamental ideas of the two theories. A masterful advance
+was made by Heisenberg in 1925, who showed how equations of classical
+physies could be taken over in a formal way and made to apply to quantities
+of importance in quantum theory, thereby establishing the Correspondence
+Principle on a quantitative basis and laying the foundations of the new
+Quantum Mechanies. Heisenberg’s scheme was found to fit wonderfully well
+with the Hamiltonian theory of elassical mechanies and enabled one to apply
+to quantum theory all the information that classical theory supplies, in so far
+as this information is consistent with the Hamiltonian form, Thus one was
+able to build up a satisfactory quantum mechanies for dealing with any
+dynamical system composed of interacting particles, provided the interaction
+could be expressed by means of an energy term to be added to the Hamiltonian
+function.
+
+This does not exhaust the sphere of usefulness of the classical theory.
+Classical eleetrodynamics, in its accurate (restricted) relativistie form, teaches
+us that the idea of an interaction energy between particles is only an approxi-
+mation and should be replaced by the idea of each particle emitting waves,
+
+--- Page 2 ---
+Downloaded from https://royalsocietypublishing.org/ on 30 March 2025
+
+454 P. A. M. Dirac.
+
+which travel outward with a finite veloeity and influence the other particles
+in passing overthem. We must find a way of taking over this new information
+into the quantum theory and must set up a relativistic quantum mechanics,
+before we can dispense with the Correspondence Prineiple.
+
+A preliminary attack on the question of relativistie quantum mechanies has
+been made through the solution of the problem of a single charged particle
+moving in a specified classical field. For the treatment of this problem it is
+essential to use Schrödinger’s form of quantum mechanies, according to which
+the motion of the particle is described by a wave function involving the space
+and time co-ordinates in a symmetrical manner. The solution is satisfactory
+from the point of view of the Correspondence Principle, although it involves a
+diffieulty owing to the appearance of possible negative energy values for the
+particle. The diffieulty is not due to a misuse of classical information and
+will not concern us here.
+
+The extension of this wave-function method to two or more partieles can
+easily be made so long as we keep to the idea of a given classical field in which
+the particles are moving. The resulting theory is logically satisfactory, but
+is, of course, incomplete, as it gives no interaction between the particles. It
+becomes necessary then to abandon the idea of a given classical field and to have
+instead a field which is of dynamical significance and acts in accordance with
+quantum laws.
+
+An attempt at a comprehensive theory on these lines has been made
+by Heisenberg and Pauli.* These authors regard the field itself as
+a dynamical system amenable to Hamiltonian treatment and its inter-
+action with the particles as deseribable by an interaction energy, so
+that the usual methods of Hamiltonian quantum mechanics may be
+applied. There are serious objections to these views, apart from the purely
+mathematical diffieulties to which they lead. If we wish to make an
+observation on a system of interacting partieles, the only effective method of
+procedure is to subject them to a field of electromagnetie radiation and see how
+they react. Thus the röle of the field is to provide a means for making observa-
+tions. The very nature of an observation requires an interplay between the field
+and the particles. We cannot therefore suppose the field to be a dynamical
+system on the same footing as the partieles and thus something to be observed
+in the same way as the particles. 'The field should appear in the theory as
+something more elementary and fundamental.
+
+Again, the field equations are always linear and thus of the form typical of
+
+* <Z. Physik,’ vol. 56, p. 1, and vol. 59, p. 168 (1929).
+
+
+--- Page 3 ---
+Relativistice Quantum Mechanies. 455
+
+the wave equation of quantum theory. This suggests deep-lying connections
+and possibilities for simplification and unification which are entirely lacking in
+the Heisenberg-Pauli theory.
+
+In the present paper a scheme is proposed which gives the interplay between
+partieles and field apparently correctly and in a surprisingly simple manner.
+Full use is made of all the information supplied by the classical theory. The
+general ideas are applicable with any kind of simple harmonic wave transmitting
+the interaction between partieles and providing the means of observation of
+particles (e.g., with longitudinal waves like sound waves) and not merely for
+the electromagnetie case, though presumably only the latter is of interest in
+atomic theory.
+
+$2. Relativistie Observations.
+
+A definite advance in the relativistic theory of the interaction of two electrons
+is contained in a recent paper by Möller,* where it is shown that in the calcu-
+lation of the mutual scattering of two colliding electrons by Born’s method of
+approximation, one may describe the interaction with retarded potentials
+and use relativistic ideas throughout, without getting any ambiguity in the
+scattering coefficient to the first order of approximation. This lack of
+ambiguity is ground of presumption of the correctness of the result. When,
+however, one tries to apply similar methods to the higher approximations or
+to more general problems, one meets very definitely with ambiguities.
+
+The method by which Möller obtained his result may be compared with the
+methods of the Correspondence Principle in use before the introduction of
+Heisenberg’s matrix theory, for caleulating Einstein’s A and B coefficients from
+classical models. In certain cases the result obtained was unambiguous
+(usually those cases for which the result was zero) and was then presumed to
+be correct. In general, howeveı, there was ambiguity, so that one could get
+no reliable accurate result.
+
+This analogy suggests that it would be useless to try to extend Möller’s
+method by setting up rules to provide a definite interpretation for ambiguous
+quantities. Any attempts in this direetion would be just as futile as the
+attempts made in the pre-Heisenberg epoch to caleulate Einstein’s A’s and B’s
+from some sort; of mean of classical quantities referring to the initial and final
+states. One ought to proceed on quite different lines, namely by following
+the methods introduced by Heisenberg in 1925, which have already met with
+
+such great success for non-relativistic quantum mechanies.
+
+* « Z. Physik,’ vol. 70, p. 786 (1931).
+
+--- Page 4 ---
+Downloaded from https://royalsocietypublishing.org/ on 30 March 2025
+
+456 P. A. M. Dirac.
+
+Heisenberg put forward the principle that one should confine one’s attention
+to observable quantities, and set up an algebraie scheme in which only these
+observable quantities appear. Strietly speaking, it is not the observable
+quantities themselves (the Einstein A’s and B’s) that formed the building stones
+of Heisenberg’s algebraic scheme, but rather certain more elementary quantities,
+the matrix elements, having the observable quantities as the squares of their
+moduli. The extra phase quantities introduced in this way are essential.
+
+Let us see what are the corresponding quantities in relativistie theory. To
+make a relativistic observation on a system of particles we must, as mentioned
+in the introduction, send in some incident electromagnetic radiation and
+examine the scattered radiation. The numerical quantity that we observe is
+thus the probability of oceurrence of a certain radiative transition process.
+This process may be specified by the intensities of the various monochromatie
+components of the ingoing and of the outgoing fields of radiation. (We shall
+ignore the purely mathematical difievlty that the total number of these com-
+ponents is an infinity of a high order.) The phases must not be specified
+together with the intensities, as this would violate well-established quantum
+principles.
+
+In non-relativistic quantum mechanics the probability of occurrence of any
+transition process is always given as the square of the modulus of a certain
+quantity, of the nature of a matrix element or simply a transformation function,
+zeferring to the initial and final states. It appears reasonable to assume that
+this will still be the case in relativistic quantum mechanies. Thus the relativis-
+tie observable quantities, which are always transition probabilities, will all
+appear as the squares of the moduli of certain quantities. These quantities,
+which we shall refer to as probability amplitudes, will then be the building
+stones analogous to Heisenberg’s matrix elements. We should expect to be
+able to set up an algebraic scheme involving only the probability amplitudes and
+io translate the equations of motion of relativistie classical theory directly into
+exact equations ewpressible entirely in terms of these quantities.
+
+The information that classical theory supplies is thus to be used to give
+relations between the probability amplitudes of different physical processes,
+rather than to enable one to calculate a particular one of them. Only in very
+special cases, of which Möller’s paper provides an example, is it possible to
+evaluate a relativistic transition probability without at the same time evaluating
+a whole series of them, referring to all the possible ways in which the particles
+under consideration can reaet with the radiation field.
+
+A point of special importance about the building stones of the new theory
+
+
+--- Page 5 ---
+Relativistice Quantum Mechanics. 457
+
+is that each of them refers to one field of ingoing waves and one field of out-
+going waves, or to one initial field of a transition process and one final field.
+Quantities referring to two initial fields, or to two final fields, are not allowed.
+This shows a departure from the theory of Heisenberg and Pauli, according to
+which, if one is given any quantity referring to one initial field and one final
+field, one can obtain from it a quantity referring to two initial fields, or to
+two final fields, by a straightforward application of the transformation theory
+of quantum mechanies. The Heisenberg-Pauli theory thus involves many
+quantities which are unconneeted with results of observations and which must
+be removed from consideration if one is to obtain a elear insight into the under-
+lying physical relations.
+$ 3. Equations of Motion.
+
+We shall now consider in detail the question of how the information con-
+tained in classical electrodynamies can be taken over into the quantum theory.
+We meet at once with the diffieulty that the classical theory itself is not free
+from ambiguity.
+
+To make the discussion precise, let us suppose we have a single eleetron
+interacting with a field of radiation and consider the radiation resolved into
+ingoing and outgoing waves. The classical problem is, given the ingoing
+radiation and suitable initial conditions for the electron, determine the motion
+of the electron and the outgoing radiation. The classical equations which deal
+with this problem are of two kinds, (i) those that determine the field produced
+by the electron (which field is just the difference of the ingoing and outgoing
+fields) in terms of the variables deseribing the motion of the electron, and (ü)
+those that determine the motion of the eleetron. Equations (i) are quite
+definite and unambiguous, but not so equations (ii). The latter express the
+acceleration of the electron in terms of field quantities at the point where the
+electron is situated and these field quantities in the complete elassical pieture
+are infinite and undefined.
+
+In the usual approximate treatment of the problem one takes for these field
+quantities just the contributions of the ingoing waves. This treatment is
+necessarily only approximate, since it does not take into account the reaction
+on the eleetron of the waves it emits. We should expect in an accurate treat-
+ment, that the field determining the acceleration of the electron would be in
+some way associated with both the ingoing and outgoing waves. Classical
+attempts have been made to improve the theory by assuming a definite struc-
+ture for the electron and calculating the effect on one part of it of the field
+produced by the rest, but such methods are not permissible in modern physies.
+
+--- Page 6 ---
+Downloaded from https://royalsocietypublishing.org/ on 30 March 2025
+
+458 P. A.M. Dirac.
+
+We must recognise at this point that we have reached the limit of classical
+electromagnetic theory. We have quite definite equations for determining
+the motion of the electron in terms of field quantities, but we cannot interpret
+these field quantities in the usual classical pieture and the most: we can say
+about them is that they are related in some non-classical way to two fields,
+namely, those of the ingoing and of the outgoing waves. Further advance can
+be made only by introducing quantum ideas.
+
+Let us make the assumption that the passage from the field of ingoing waves
+to the field of outgoing waves is just a quantum jump performed by one field. This
+assumption is permissible on account of the fact, discussed in the preceding
+section, that all the quantities in relativistice quantum mechanics are of the
+nature of probability amplitudes referring to one ingoing field and one out-
+going field, so that we may associate, say, the right-hand sides of the probability
+amplitudes with ingoing fields and the left-hand sides with outgoing fields.
+In this way we automatically exelude quantities referring to two ingoing fields
+or to two outgoing fields and make a great simplification in the foundations of
+the theory.
+
+The significance of the new assumption lies in the fact that the classical
+picture from which we derive our equations of motion must contain no reference
+to quantum jumps. This classical pieture must therefore involve just one
+field, a field composed of waves passing undisturbed through the electron and
+satisfying everywhere Maxwell’s equations for empty space. With this
+pieture the equations of motion for the electron are perfectiy definite and
+unambiguous. There are no equations of motion for the field, as the field
+throughout space-time is pietured as given. Thus the interaction between
+electron and field is introduced into the equations in only one place.
+
+The quantisation of the equations of motion derived from this pieture may
+conveniently be carried out in two stages. Let us first quantise only the
+variables describing the electron. We then get just the usual quantum theory
+of the motion of an electron in a given classical field, with the difference that
+in the present case the field must necessarily be resolvable into plane waves
+and must therefore contain nothing of the nature of a Coulomb force. We have
+a Schrödinger equation of the form
+
+Fl=0,
+
+where the operator F is, neglecting spin
+
+=. Bi, 450 \2
+F=(ind + ea) — (io, — A.) ar NER (A)
+
+
+--- Page 7 ---
+Relativistie Quantum Mechanics. 459
+
+It should be remembered that the wave-function ) involves not only the
+variables z, y, z, t deseribing the electron, but also a large number of para-
+meters describing the field, which parameters may conveniently be taken to
+be the intensities J and phases w of the various Fourier components of the
+field. The potentials A occurring in F are likewise functions, not only of the
+variables z, %, z, i describing the momentary position of the electron, but also
+‚of the parameters J and w.
+
+In the second stage of the quantisation we assume that the J’s and w’s
+occurring in ) and the A’s are not numerical, but are operators satisfying
+the usual quantum conditions governing the intensities and phases of the
+Fourier components of the eleetromagnetie field in empty space. The new
+wave equation obtained in this way is to be treated on the same lines as the
+previous one. In particular, it may be used to determine matrix elements
+associated with electron jumps. Each such matrix element will now be a
+function of the non-commuting J’s and w’s, so that, when we take a representa-
+tion of the J’s and w’s, it becomes a set of quantities, each referring to two
+states of the field as well as the two electronic states, and thus being of the
+nature of the probability amplitudes of $ 2.
+
+For the problem of the interaction of two electrons, we require a wave-
+function ) which is a function of the variables z,, %,, 21, ti and 3, Ya, 2g, ig
+describing the two electrons and of one set of J’s and w’s describing one field.
+This ) must satisfy the two wave equations
+
+Fy=0, Fy=0, (2)
+
+where F, is the operator obtained from F by substituting 0/öt,, ete., for 0/öt,
+ete., and taking for the A’s their values at the point z,, Yı; 21; &, and similarly
+for F,. These two wave equations describe completely the relations between
+the two eleetrons and the field. No terms of the type of a Coulomb inter-
+action energy are required in the operators of the wave equations. The
+interaction of the two electrons is due to the motions of both being connected
+with the same field. This interaction manifests itself mathematically through
+the fact that, if we take a wave function $,, a function only of &,, Yı, 2, 4 and
+the J’s and w’s, satisfying
+
+Rbh=0, (34)
+
+and a second wave-function bs, a function only of x, Yy, 22. iz and the J’s
+and w’s, satisfying
+F=0, (38)
+
+--- Page 8 ---
+Downloaded from https://royalsocietypublishing.org/ on 30 March 2025
+
+460 P. A. M. Dirac.
+
+then neither of the products y,b, and Yay, will satisfy both the wave equations
+(2). The solution of equations (2) is an essentially different and more com-
+plicated problem than the solution of (3A) and (38).
+
+$4. Interaction between Two Particles in One Dimension.
+
+It may seem rather surprising that a theory in which all the fields are resolv-
+able into plane waves can give anything of the nature of the usual eleetrostatie
+forces between electrons. We shall therefore illustrate by a simple example
+the fact that these forces really are contained in our wave equations. We
+shall take the case of two particles moving in a field in one-dimensional space
+and shall proceed to solve equations (2), making various approximations that
+are permissible when we are not interested in relativistie eflects.
+
+Suppose the field to be describable by a potential funetion V satisfying the
+
+wave equation
+
+and the classical expression for the energy to be
+
+_ 1 (ffavıe | 1 /awı»
+Ste tie) hr a) ha
+If we resolve V into its Fourier components, thus
+
+ya E fa, er ttzi) 4 d, ert-zio} qy, (4)
+
+_ @
+
+the expression for the energy will go over into
+
+Hai ı | ” 2 {a,0_, +bb_,}av. (6)
+vo
+Let us now see what are the Poisson bracket relations between the Fourier
+coefficients a and b. These relations must be chosen such that the quantities
+a,e®t, b,e"*, considered as dynamical,variables, satisfy equations of motion
+of the Hamiltonian form with the Hamiltonian function (5), thus
+
+4 (ae) = [a,e”*, H]
+
+or
+iva, = [a,, H],
+
+
+--- Page 9 ---
+om https://royalsocietypublishing.org/ on 30 March
+
+Relativistic Quantum Mechanics. 461
+and similarly for b,. It is easily verified that we must have
+[a,, a] = [b,, b,] = ie/v.d8(v-+ v‘)
+[a,, d.] = 0.
+In the quantum theory these relations become
+aa, — a,a, = b,b, — bb, = — he/v.&(v + v’)
+
+(6)
+ab, — ba, =0
+
+We now introduce two particles, of masses m, amd m, and “ charges” &,
+and e,, and suppose the interaction of each with the field can be described by
+an interaction energy equal to its charge multiplied by the value of V at the
+point where it is situated. Thus, if we neglect the relativistic variation of mass
+with velocity, we have the two wave equations
+
+[a2 A + En 2 a =,
+2
+la + = En Va} y=0.
+
+By putting , =1,=t, we can reduce these to the one wave equation
+
+BEE a. 958
+[na+ #2 Ro 6
+
+Fri Im Er) Zum, On — & Val) — 83V (ee) y=0. )
+
+We shall proceed to obtain a solution of this equation in the form of a power
+series in the e’s. Thus we put
+
+ySbththrt
+
+where
+ö h2 0% h2
+Merten 2ma x 5} ww. 8)
+ee, M h?
+ta tn) er
+
+FE Een _
+Va Am Omi Im = le (2) + &2V (zt)} Yı- (10)
+
+Io
+
+We take as the solution of (8)
+
+, Yo — elpızi/h gipızı/h 6iWUh do,
+where
+
+we2lrpe
+Im " Amı’ (ıl)
+
+--- Page 10 ---
+Downloaded from https://royalsocietypublishing.org/ on 30 March 2025
+
+462 P. A. M. Dirac.
+
+representing a state for which the particles have the momenta p, and p,, and
+all the J’s, ü.e., the intensities of the Fourier components of the field, vanish.
+Now the operator e,V (2,2) + e3V (zgt) occurring on the right-hand sides of
+(9) and (10), if expressed as a matrix in a representation in which the J’s are
+diagonal, would contain only matrix elements referring to transitions in which
+just one of the J’s changes by one quantum. It follows that ), must consist
+of a sum of terms each referring to a state of the field in which just one oscillation
+is excited by one quantum. Similarly , must consist of a sum of terms each
+referring either to a two-quantum or to a zero-quantum state of the field.
+The latter are the ones that interest vs here, as they may be compared with the
+terms that would arise from the insertion of an: interaction energy between the
+two particles into the operator of the wave equation (7).
+
+We can obtain the solution of equation (9) by expanding the right-hand side
+in terms of its Fourier components by means of (4) and dividing each component
+by the number to which the operator on the left-hand side of (9) is equivalent
+when it operates on that component. This gives
+
+a, ehr e+zıle)
+n=ul | & \W — hv— (pı + hv/o)?/Am, — p3?/2m,
+
+b, ei t-ale)
+W— hv — (pı — hvlo)?/2m, — a
+ro a, eir t+z.le)
+eg ) -o w — hv — pi/2m, — (Pa + hv/e)?/2m,
+b, er d-2le)
+
+Fee 732/Qm, — (Pa — hvjc)?/2ma Io ach
+
+ei5 v.%o
+
+If we use (11) and also neglect terms like p,/m,c, hv/m}c? compared with unity,
+as is permissible when we are not interested in relativistie effects, this reduces
+
+Ybı PERTA el {a, ehr (d+a1/e) +b, er Yo
+(12)
+
+Be ir {a, ei +) 4 b,ere-adn) av
+he v
+
+When we substitute this value for %, in the right-hand side of (10) and also
+substitute for V its expansion given by (4), we obtain an expression consisting
+of an operator, which is a homogeneous quadratic function of the a’s and b’s,
+operating on ),. We must evaluate that particular part of the expression that
+refers to the unexeited state of the field. Only those terms of the operator
+
+
+--- Page 11 ---
+Relativistic Quantum Mechanics. 463
+
+involving products like a,a_, or b,b_, will contribute anything to that part.
+To obtain the contribution of a term involving a,a_,, we observe that, for
+v>0,a,and a_, are like the quantities p + iq and p — iq respectively in
+the problem of the simple harmonie oseillator. Thus a,a_,, with v> 0,
+is proportional to twice the energy of the corresponding oscillation (without
+zero-point energy) so that it gives no contribution when multiplied into &,-
+The first of the quantum conditions (6) now shows that, to get the contribution
+from a term involving a_,a, with v> 0, we must count a_,a, as equal to
+he/v.8(v— v’). In the same way we find that we must count b,b_, = 0 and
+b_,b, = he/v.8(v— V) with v>0.
+
+The term on the right-hand side of (10) arising from the product of &,V (z3£)
+with the first of the terms for , in (12) may be written
+
+_ 88 | RENT {a_,eW tal) + _, et ee)
+Bl -v v
+% f! dv {a, er He) An, er =} « d N
+nn | 1
+
+That part of it referring to the unexcited state of the field is, by the foregoing
+
+rules
+
+_ 5% IK | "duhe,(, _ vyferW rn geterndd 4 eine) rend),
+h) ovv
+
+dh
+
+o
+
+= 2 | ss 8 v0 — 2o)je- de
+
+The coeflicient of , here differs only by an infinitely great constant (independent
+of x, and z,) from
+=d
+2ejEsc [ = {1 — cos v(2} — 2,)/c} = neje2|2, — 23].
+The other terms on the right-hand side of (10) may be dealt with in the same
+way and give for the complete part referring to the unexcited state of the field
+
+(msıea|aı — za] + K}yo, (13)
+where K is an infinite constant.
+
+Equation (10) with expression (13) on its right-hand side is just what we
+should get if we were solving the wave equation
+ud: Mo
+rt a ala al —K} y=0,
+
+by a method of approximation through expansion in powers of &js,. Thus
+
+--- Page 12 ---
+Downloaded from https://royalsocietypublishing.org/ on 30 March 2025
+
+464 Relativistic Quantum Mechamaes.
+
+our wave-equation (7) contains implieitly an interaction between the partieles,
+expressible approximately by the interaction energy Zee; |, — x,|. This
+interaction energy agrees numerically with what we should expect from a one-
+dimensional electrostatie theory. There is, however, a mistake in sign, as it
+gives an attractive force between like charges.
+
+Summary.
+
+A quantum theory is proposed in which the interaction between particles
+takes place by means of vibrations of an intervening medium transmitted with
+a finite veloeity. The fundamental relations involve only quantities having
+observational significance, account being taken of the fact that an act of
+observation necessarily involves an interplay between particles and field. A
+detailed solution of a one-dimensional problem is given in order to show that
+forces of electrostatic nature are implieitly contained in the theory.
+
+[Note added, April 20th.—It has been pointed out to me by Professor
+Heisenberg that the sign of the interaction energy given by the above
+caleulation is really quite correct, since with the one-dimensional, longitudinal
+waves there used the classical theory also requires an attractive force
+between like charges.]
+

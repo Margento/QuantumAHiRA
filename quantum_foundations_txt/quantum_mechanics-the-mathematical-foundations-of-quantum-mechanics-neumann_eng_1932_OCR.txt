@@ -1,0 +1,3637 @@
+
+--- Page 1 ---
+“Wegeree in Synthese CF 79
+
+The Mathematical Foundations of Quantum Mechanics
+
+by
+
+David A. Edwards
+Department of Mathematics
+University of Georgia
+
+--- Page 2 ---
+Contents
+
+Preface
+
+§1. A Formal Schema For Science.
+1.1. The Empirical Situation.
+1.2. The Theoretical Situation.
+1.3. Category Theory.
+1.4. Symmetry Principles.
+
+§2. Classical Theories
+2.1. Statics.
+2.2. Dynamics.
+2.3. Classical Statistical Mechanics,
+
+2.4. Field Theory.
+
+§3. Quantum Theories
+3.1. The Logic of Quantum Mechanics.
+3.2. Dynamics.
+3.3. The Quantum Theory of Particles.
+3.4. Examples.
+3.5. The Quantum Theory of Interacting Particles.
+3.6. Quantum Statistical Mechanics.
+3.7. Quantum Field Theory,
+
+3.8. Final Remarks.
+
+--- Page 3 ---
+Preface.
+
+Classical mechanics was first envisaged by Newton, formed into
+a powerful tool by Euler, and brought to perfection by Lagrange and
+Laplace, It-has served as the paradigm of science ever since. Even
+the great revolutions of 19th century physics--namely, the Faraday-
+Maxwell electro-magnetic theory and the kinetic theory-were viewed
+as further support for the complete adequacy of the mechanistic world
+view. The physicist at the end of the 19th century had a coherent
+conceptual scheme which, in principle at least, answered all his
+questions about the world. The only work left to be done was the
+computing of the next decimal.
+
+This consensus began to unravel at the beginning of the 20th
+century. The work of Planck, Einstein, and Bohr simply could not be
+made to fit. The series of ad hoc moves by Bohr, Eherenfest, et al,
+now called the old quantum theory, was viewed by all as, at best, a
+stopgap. In the period 1925-27 a new synthesis was formed by
+Heisenberg, Schrodinger, Dirac and others. This new synthesis was
+so successful that even today, fifty years later, physicists still
+teach quantum mechanics as it was formulated by these men.
+
+Nevertheless, two foundational tasks remained: that of providing
+a rigorous mathematical formulation of the theory, and that of providing
+a systematic comparison with classical mechanics so that the full
+ramifications of the quantum revolution could be clearly revealed.
+These tasks are, of course, related, and a possible fringe benefit
+
+of the second task might be the pointing of the way "beyond quantum
+
+--- Page 4 ---
+theory". These tasks were taken up by von Neumann as a consequence
+of a seminar on the foundations of quantum mechanics conducted by
+Hilbert in the fall of 1926. In papers published in 1927 and in his
+book, The Mathematical Foundations of Quantum Mechanics, von Neumann
+provided the first completely rigorous treatment of quantum mechanics.
+von Neumann first realized that the essential mathematical reason for
+the equivalence of the matrix and wave mechanical formulations of
+quantum mechanics was the isomorphism between the sequence space z"
+and the function space i”; He was thus led to formulate the notion
+of an abstract Hilbert space and to develope its mathematical
+theory. The main motivation for the axioms for quantum mechanics
+chosen by von Neumann in his book was that they yielded a rigorous
+theory, notationally similar to and computationally as powerful as
+that developed by the physicists. In his book he also alluded to a
+deeper, more profound approach. He states on page 253:
+
+As can be seen, the relation between the properties of
+
+a physical system on the one hand, and the projections
+
+on the other, makes possible a sort of logical calculus
+
+with these. However, in contrast to the concepts of
+
+ordinary logic, this system is extended by the concept
+
+of "simultaneous decidability" which is characteristic
+
+for quantum mechanics,
+von Neumann and G. Birkhoff developed this approach in 1936 in a paper
+entitled "The Logic of Quantum Mechanics", They introduced the notion
+of the logic #2 of a physical theory. For classical theories 4 is a
+Boolean algebra; but for quantum theories 2 is assumed to be isomorphic
+to to the logic Proj(H) of projections in a complex separable Hilbert
+
+space. In fact, it is now possible to derive von Neumann's original
+
+formulation of quantum mechanics from the single axiom that # ~ Proj(H).
+
+--- Page 5 ---
+This program will be discussed in §3. Other assumptions on ¥ are
+known to be appropriate in quantum statistical mechanics and in quantum
+field theory and these will also be discussed in §3,
+
+A natural question is: "What is the appropriate general abstract
+structure for our logics, i.e. in what category do they live?" When
+von Neumann and Birkhoff first considered this problem in the mid
+1930's, the natural thing to do - given the mathematics of the time -
+was to assume that # was a set on which the classical operations were
+defined, but that they satisfied non-classical identities. This approach
+leads one to assume that #~ is an ortho-complemented lattice, or an
+ortho-complemented partially ordered set, or a partial Boolean algebra,
+or some other related structure. This choice of syntax leads to certain
+semantical viewpoints which have been explored by Finkelstein, Putnam,
+Kochen and Specker, and others. Mathematically, our approach, which
+will be based upon the concept of a diagram of Boolean algebras, may
+be viewed as the natural change in perspective brought about by the
+move from Birkhoff and Machane’s A Survey of Modern Algebra, to MacLane
+and Birkhoff's Algebra. The natural semantics associated to our new
+syntax seems to be identical to Bohr's philosophy of complementarity,
+i.e. the world must be viewed through classical (Boolean) frames which
+interlock in a non-trivial fashion. In §1 we will try to motivate this
+choice of structure. In §1.3 we will provide a summary of the category
+theory required for this work, §1 will also discuss a general formal
+schema for science. Such a schema is necessary in order to understand
+the formalism and how it is to be used. In §1 we will also discuss variou
+
+questions relating to the nature of probability, the problem of
+
+--- Page 6 ---
+reductionism and the possibility of hidden variables theories; and the
+possibility of "realistic" interpretations of the formalism, §2 will
+discuss classical theories and §3 quantum theories.
+
+This work is not meant to be a first introduction to the
+foundations of quantum mechanics (for that see [38]), nor a
+systematic treatise including the detailed development of the requisite
+mathematics (for that see [81]), but, instead, a systematic
+outline of a coherent approach to quantum mechanics with all the
+
+assumptions carefully scrutinized for their physical meaning.
+
+--- Page 7 ---
+§1. A Formal Schema for Science.
+
+In this section we shall develop a formal schema which is meant
+to capture certain aspects of the scientific process. The relation-
+ship between our schema and the actual scientific process should be
+thought of as analogous to the relationship between the notion of a
+formal mathematical system and the actual mathematical process.
+Namely, we are neglecting human passions, social institutions and
+many other complexities of the "real" world and focusing only on
+certain central and formalizable aspects of the process. Our goal
+is to provide a single schema which will encompass both classical
+and quantum theories as special cases. This will provide a clear
+comparison of the similarities and differences between these two
+theories, while at the same time pointing the way "beyond" quantum
+
+mechanics,
+
+--- Page 8 ---
+1.1, The Empirical Situation.
+
+We will assume that each experiment that one is interested in
+performing has a finite formal description E, and that performing E
+yields a result in a finite set Rp: The experiments can be thought
+of as being on a fixed "system" which may be in various internal
+states @ € ,, depending upon how we prepared the system. The breakup
+of the description of an experiment into the pair (a, E), consisting of
+an initial "preparation" followed by an actual "observation", though
+somewhat conventional, is very important for the development of our
+formalism. On the other hand, the notion of the "system" itself is
+often quite opaque and misleading. It plays a role similar to Kant's
+-ding and sich . There is little trouble when one is talking about
+billiard balls, tables, and the like, where one can simply "point" to
+the system itself which one is trying to study. But how does one
+"point" to an electron? Our experiments should really be thought of
+as "modes of percieving", "ways of looking", and the results of our
+experiments should be thought of as "what was seen", Careless use of
+the notion of the "system itself" inevitably leads to the notorious
+measurement problem which itself is reminiscent of the classical
+problem of the relationship between phenomena and numina, In our
+approach one deals strictly with phenomena and never even supposes the
+existence of numina. Of course, by invoking Berkeley's universal
+observer one can connect our approach with that of the traditional
+
+realist position.
+
+--- Page 9 ---
+A picturesque way of thinking about our view of the empirical situa~-
+tion is as follows. Assume we are given a large collection of black
+boxes such that each box has a label @ € Lab = »& and various buttons
+E,€ Exp. Below each button is a dial which may read a value in a
+finite set Re; When a button is pressed,a result is recorded on the
+
+dial and then the box blows up. Only one button can be pressed.
+
+We will treat all boxes with the same label as identical. Hence, in
+order to be able to "repeat" an experiment, it is necessary tp have
+many boxes with the same label. Given the label ~, we would like to
+be able to predict the result obtained when the experiment E is
+performed. It is possible that knowledge of @ is insufficient to
+predict the result of performing E. For example, if our experiment
+consists of tossing a coin, we usually do not pack enough information
+into our description of its state to determine a unique outcome. But
+one is certainly free (in this case, at least) to believe that the
+reason for this lack of determinism is purely practical, and not
+fundamental, and that a fuller description of the states of the system
+is possible (at least in principle), which would yield a deterministic
+system. This belief leads to a research strategy of attempting to
+
+find a more complete, more basic, more fundamental description of the
+
+--- Page 10 ---
+system. Whether such a reductionistic program is always possible
+and/or useful is a perennial question which we will face many times
+in this work. In any case, we will always assume that the state @
+at least determines a unique probability distribution p(q@) on each
+of the sets Ry This is a highly non-trivial assumption. It implies
+that one has done a good job in describing the aspects of the system
+under consideration which affect the results of the experiments to
+be performed. For example, if we have two types of weighted coins,
+one type of which always comes up heads and the other always comes
+up tails, andifwe cannot distinguish the types of coins, then it is
+possible that in tossing a large collection of such coins ho
+
+stable frequency distributions will be discovered.
+
+To each set R, we associate its power set a(R,) (= the set of all
+subsets of Ry) and think of #(Rp) as the Boolean algebra of questions
+associated to the experiment E. That is, eachQc Ry is to be thought
+of as the question: When E was performed, was the result in Q? The
+diagram (see §1.3) of sets 2 = {Ry} will be called the surface con-
+figuration space of our system. The associated diagram of Boolean
+algebras = {@(R,) } will be called the surface logic of our system.
+Our basic assumption so far is the existence of a map p:Lab 7 Prob(e ),
+from the set of labels to the set of probability measures on “
+
+(see §1.3). The set Lab can always be assumed to have a natural convex
+structure as follows. If Qys+++)Q@, are labels and Pys+++s Py, are weights
+such that Ps 20 and ; = 1, then choose a large natural number N and
+
+form a new ensemble of N boxes with label @ by choosing for each i, p,N
+
+--- Page 11 ---
+10
+
+boxes with label a and stamping the new label a over the old label
+a+ Knowledge of the label a is certainly not maximal knowledge of
+our systema is called a classical mixture of the states Oe; with
+weights Py The map p:Lab ~ Prob (2°) is easily seen to be a convexity—
+preserving morphism from the above described convex structure on
+Lab to the natural convex structure on Prob(¢*). But, while a
+label which is a classical mixture certainly represents ignorance,
+there is no a priori reason to attribute any ignorance to a label
+a@ whose associated probability measure Py on £ is not pure! The
+deterministic research program, if successful, will redescribe all
+our present labels which do not go to pure probability measures as
+classical mixtures of a new set of pure labels all of which do
+determine pure probability measures. But, until such a program is
+successfully carried out, we will assume that the process may be
+"intrinsically stochastic". This seems to be the most reasonable
+and commonsensical attitude towards a coin toss, for example.
+
+How does one determine p? One way, of course, is to do lots of
+experiments. This direct approach can only yield an estimate of p,
+may be very expensive, and, in any case, is usually not very
+enlightening. What one really needs at this point is a good theory.
+The theoretical situation will be discussed in the next section.
+
+There are some people who just can't resist trying to look
+inside a black box. They will insist on trying to open the box with
+a screw driver, or, at least, look into the box with an x-ray machine.
+
+From our point of view, what they are doing is, in effect, putting
+
+--- Page 12 ---
+11
+
+the original black box into a larger black box which contains more
+buttons, i.e. they are insisting on usingalarger repertoire of modes
+of percieving. Sometimes such a viewpoint is useful, sometimes not.
+Why not simply allow all possible modes of perceiving? The reason
+is simple. It has to do with the chances of developing a good theory.
+The world as a whole is a mess! Only by narrowing our sights and
+focusing in on a small part of the universe can we have any reasonable
+hope of attaining a deep understanding. This has been the method of
+science, and it has proved very successful in practice, Thus, we
+have Skinner's program for understanding animal behavior and developing
+an art of behavioral engineering without invoking scalpels, electrodes
+or modern chemistry. Similarly,in physics it is (usually) inappro-
+priate to look into the experimenters sex life. Both the use of a
+scalpel and a view of the experimenters sex life may be very revealing.
+But they are both banned from the allowed techniques of the above
+sciences, Other sciences do allow the scapel and/or a view of the
+experimenter's sex life, namely, neurophysiology and Freudian
+psychology. Thus, the basic method is , first,to focus in on a few
+basic modes of perceiving and to develop a good theory and deep
+insight into this restricted domain of discourse; and then later to
+attempt to expand one's repertoire and broaden the domain of discourse.
+One might also wonder how it is possible to develop good theories
+of what we see before we have reasonable theories of how we see. In
+other words, how can we use instruments without knowing how they work?
+
+Of course, the fact is that we do so all the time! Man has seen the
+
+--- Page 13 ---
+12
+
+world with his eyes and formed many successful theories about the
+world long before he understood how his eyes worked. (For that matter,
+do we even today understand how the eyes work or what light is?)
+In fact, one needs a good theory about what was supposed to have been
+seen before one can say that an instrument malfunctioned. A good
+example of this is the fact that only fairly recently has the
+existence and prevalence of color blindness been discovered. Only
+by having an external standard of what he should have seen can a
+person who is color blind actually realize it. Another good example
+is that Newtonian celestial mechanics was successfully developed
+using telescopes (or at least the eye) as the basic observing instru-
+ment before it was known that light had a finite velocity of propagation;
+it was, in fact, a disagreement between what Newtonian mechanics said
+should be seen and what was actually seen that led to the first reason-
+ably accurate estimate of the velocity of light. Of course, pointing
+a familiar instrument in a new direction will usually yield new
+perspectives which are rapidly assimilatable. Thus, once we feel that
+we understand how a microscope works, very rapid progress can be made
+by simply looking at everything under the microscope. This has been
+the case for light and electron microscopes and probably will be the
+case for quark microscopes, if they are ever made. Having a theory
+of how an instrument works clearly involves looking at the instrument
+with other - presumably more familiar - instruments.
+
+Now, it may happen that we discover, through a lot of experimenting,
+
+that the map p:Lab - Prob(Z°) is not surjective. We may believe this to
+
+--- Page 14 ---
+13
+
+be due to our lack of technical knowhow in providing for a sufficiently
+diverse range of preparations,i.e. if we were cleverer, we could
+enlarge the set Lab and thus obtain a surjective map. This attitude
+leads to a research strategy of attempting to enlarge Lab. If this
+strategy fails in significantly enlarging the image of p, then we
+
+might change our attitude towards this failure of surjectivity from
+that of being our fault to that of being "natures" fault, i.e. we
+
+may decide to attribute the lack of surjectivity of p to a "law of
+nature", Thus, that objects when released fall and that the light
+
+goes on when the switch is flicked, would not simply be viewed as
+summaries of high correlation coefficients, but as something more
+significant. Thus, when it was discovered that parity was not always
+conserved, this was not simply viewed as a minor correction in
+estimated correlation coefficients, but as a major change in per-
+spective and of how we expect the world to work. Physicists were
+surprised by Nature's violation of parity. After the discovered
+violation of parity, physicists then also expected and later discovered
+violations of C and T invariance. But most of them do not expect
+violation of CPT invariance. This is because CPT invariance is a
+theorem of a very general axiomatization of quantum field theory and
+its violation would require a drastic revision of the physicists’
+conception of nature. Only time will tell whether such a revision will,
+in fact, be necessary. But, in any case, a position has been taken
+which is certainly not simply a summary of past correlation coefficients.
+What we have been implicitly criticizing is Hume's attitude towards
+
+causality. With Hume's attitude one would never be surprised by any
+
+--- Page 15 ---
+14
+
+occurence. If the sun didn't rise tomorrow, one would simply and
+calmly revise one's estimate of the probability of the sun's rising
+on the next day. Such an attitude certainly does not describe the
+way people often behave. Positions have to be taken and theories
+have to be developed even though they open us up to the possibility
+of being surprised!
+
+If the map p:Lab - Prob(£>) is not injective one often describes
+the situation by saying that many superficially distinct ways of
+preparing the system actually put it into the same internal state.
+
+We will have more to say about this in the next section.
+
+Summarizing, we have in this section introduced a formalization
+of the experimental process which includes: a set Lab of recipes for
+preparing the "system" under consideration; a surface logic Z° of
+experimental questions; and a priori map p:Lab ~ Prob(é). So far,
+the only way discussed of determining p is to do lots of experiments.
+This formalization is not too far removed from the description of his
+work that an experimentalist would give in a publication. Of course,
+the experimentalist would usually consider the most creative part of
+his work to be the process whereby he decides what to measure, how to
+measure it, and how to display the results. The actual carrying out
+of the experiment and the ensuing paperwork he may very well leave to
+his lab assistants. We have no idea how to formalize this very compli-
+cated decision process.(such a task might be as difficult as writing
+the program for HAL 9000). Luckily, it won't be necessary for our
+program of understanding the similarities and differences between
+
+classical and quantum mechanics. These differences reside, from our
+
+--- Page 16 ---
+15
+
+point of view, entirely in the structure of the deep logic, er. to
+be introduced shortly.
+
+It has been suggested that our formalism leads to a picture of
+the world as a huge room filled with buttons and dials. This is
+certainly a bleak and colorless world view! But, by simply deciding
+to have the output of our instruments presented in the form of color
+photographs or put on cathode ray screens with accompanying sound
+
+tracks, we obtain a much more vivid and colorful world view.
+
+--- Page 17 ---
+16
+1.2. The Theoretical Situation.
+
+In this section we will introduce the notion of the deep con-
+figuration space, ef, and the deep logic, Z#, of a system. (While we
+have already warned the reader in §1.1 of the dangers of the use
+of the notion of the "system", we find it linguistically necessary
+to keep invoking it in order to convey our ideas without inordinate
+circumlocutions.) Consider the problem of measuring the length of a
+rod. There are many different ways to measure the length of a rod,
+and, on the empirical level, they are all a priori independent, and
+thus determine disjoint sub-algebras of Ze TH fact, on the empirical
+level, we cannot really talk about the length of a rod, but only about the
+value obtained by some length=measuring operation. The notion of the
+length of a rod is a theoretical concept, where all the various ways of
+measuring the length are conjoined into a single concept. In mathematical
+terms, we have a homomorphism p:= et from our surface logic z to a
+deep logic zo which describes the "true" nature of the system. The actual
+situation is even more complicated, since the various instruments are
+usually viewed as not to be actually recording the value of the true lengt
+but instead to be outputting a message which, besides containing the true
+signal, also contains noise. Thus, the empirical instruments are viewed
+as "noisy observables" from whose output wm@canoniy probabilistically infer
+the true value, i.e. one must attempt to filter out the noise in order to
+obtain the true signal. The reader may detect an echo of Plato's view
+that the senses reveal only a"corrupted copy" of the "true". Note
+
+that once we have introduced our deep logic and its associated
+
+--- Page 18 ---
+17
+
+notion of what our instruments were supposed to have recorded, we
+can begin to talk about how well our instruments are working and how
+noisy they are. If » is not 1-1, then our theory tells us that
+certain observables, which on the empirical level are a priori
+different, are, in "reality" measuring the same thing. In terms
+of our box model, two different buttons (or, at least, certain parts
+of their outputs) are equivalent. One way this might happen is if
+we had a box in which more than one button could be pressed at the
+same time. Pressing E,or pressing both Ej and Eo but recording only
+the dial reading of E, are a priori completely different experiments,
+and, in fact, it is easy to design boxes where they are totally
+unrelated. But we may have reason to believe that the two experiments
+are really measuring the same thing (for example, if the box comes
+in two halves with no visible connections). Thus, choosing a » which
+is not 1-1 is a way of identifying certain empirical observables.
+
+If » is not onto, and we really believe in the correctness of
+24, then we are led to re-examine the empirical situation in order to
+discover means of experimentally measuring the qualities of the system
+which our theory, Zt, says it has. If successful, this would yield a
+richer surface log Z and an extended homomorphism ez - ~4 such
+that © is onto. In fact, it is even reasonable to look for a @ which
+is surjective on Boolean subalgebras, i.e. if Ayy +++ € zo are compatible,
+that is, are contained in a Boolean subalgebra of Zz. then there should
+exist experimentally compatible A_,... € Z* such that rr) (3,) = A,;- In
+more informal terms, if {A,} are theoretically compatible, then they
+
+are Simultaneously observable. For example, suppose our experiments
+
+--- Page 19 ---
+18
+consist of taking single photographs of a cup from various possible
+angles. Our experiments yield only the two dimensional projections
+of the actual cup in three space, i.e, we really believe in a deep
+logic consisting of the Borel algebra of the configuration space of
+closed subsets of R°, while our surface logic is a disjoint collection
+of logics each of which is isomorphic to the Borel algebra of the .
+configuration space of closed subsets of R?. In this case, we can
+use holograms to extend the surface logic to one that will be sur-
+jective. On the other hand, if we are attempting to model the sun
+and wish to include in our model the "atoms at the center of the sun",
+then these "atoms" will appear in our deep logic, but certainly won't
+(at least at present) appear anywhere in our surface logic. © An even
+more extreme example occurs when one wishes to discuss atoms in a star
+10" light years away. According to present theory (special relativity),
+we will never be able to lift these theoretical observables up from
+the "twilight zone" of the deep logic to the "real world" of our surface
+logic! We thus realize that there will be many situations where we
+will be interested in a deep logic which is not entirely covered by
+a surface logic. One thus talks about theoretical or "potential"
+observables in contrast to the actual empirical (noisy) observables.
+Kant, atee, had found it necessary to introduce the notion of "potential
+phenomena". We are thus led to a form of platonic dualism consisting
+of an ideal world of theoretical observables in contrast to an empirical
+world of corrupted observables. The map oo: ae # induces a map on
+probability measures o* :Prob (2%)-Prov(é*) and, in order to be able to
+
+use ry for making predictions, it is necessary to assume that we are
+
+--- Page 20 ---
+19
+
+also given a map p, :Lab aad Prob (2°) such that the diagram
+
+Lab ——2_—_» prop(z*)
+
+*
+deed) ©
+‘ t
+
+Prob (£°)
+
+commutes. Once we have committed ourselves to a particular choice of
+
+Po no amount of experimental observations can force us to relinquish
+
+it! One can always invoke more "noise" in our instruments to explain
+away a seeming lack.of commutativity in diagram (1.2.1). If the noise
+level gets very high, then the intensity of our commitment to this
+particular logic tends to decrease. We may then refer to it as a
+"model'', which may be "good", possibly only "approximate", maybe only
+"heuristic". We may even go so far as to suspect that a different
+
+choice of za would be "better", To talk about a logic 2 as a model
+
+for some physical phenomena means that when we investigate the properties
+of 2 we find them to behave in an analogous fashion to certain physical
+phenomena. Recall the physicists use of such models as the harmonic
+oscillator, the ising model, and the P(@) 5 quantum field theory model.
+The first two models are usually called "approximate" ; the third
+
+model isn't actually thought to correspond to any physically real system
+since we currently believe space-time to be four- and not two-dimensional,
+Yet all three models are thought to provide insight into the true
+workings of the world. What exactly is the relationship between the
+theoretician's computation of the spectrum of a certain Hermitian
+
+operator and the experimentalist's burning of hydrogen and measuring
+
+--- Page 21 ---
+20
+
+the spectrum of the emitted light? Certainly, one usually describes
+the situation by invoking "informal" correspondence rules which, if
+formalized, would yield diagram (1.2.1). But we suspect that most--
+if not all-- serious uses of theories involve the tying together of
+theory and experiment through the use of a vague appeal to analogy:
+Behold! the World and the Model behave similarly. We would like to
+know the "true" deep logic , but will settle for "model" logics
+which yield insight. In any case, we feel that the diagram (1.2.1)
+is crucial for understanding the formalism of quantum mechanics,
+
+The factoring of p through Prob (£°) may allow us to "explain"
+why p is not surjective; namely, it isn't because Pe isn't. On
+the other hand, we would still want to understand why Py isn't sur-
+jective . For example, a relativistic model would not contain a
+probability measure corresponding to a preparation of a billiard
+ball with a velocity 101° miles per second. Hence, any failyre on
+our part to prepare such a system is looked upon as a success of the
+theory and not as a failure of our ingenuity. On the other hand, the
+model may contain a probability measure corresponding to a preparation
+of the billiard ball at a location yw light years away. We don't
+know how to prepare such a system. But, by viewing ourselves as part
+of a larger relativistic model, we understand our failure as, again,
+not due to a lack of ingemuity on our part. We thus require any
+failure of Py to be surjective to be "explained". Failure of p to
+be surjective should be explained by the lack of surjectivity of e
+
+The deterministic research program described in §1.1 suffers a
+
+huge setback with the requirement that the map p:Lab - Prob(é) factor
+
+--- Page 22 ---
+21
+
+through the map @* pronGe ~ Prob(g*). This is because Pe may have
+no pure probability measures in its image. This is, in fact, the Situation
+for the standard quantum logic 2 = Proj(H). The usual move adopted
+by physicists is to assume a basic collection of labels Lab, which
+represent maximal knowledge of individual boxes and which go via Py
+to extreme probability messures on £7, 11 other labels are to be
+deacribed as classical mixtures of these basic labels. But is it fair
+to be prejudiced against a fair coin? We prefer not to require the
+image of Lab, under Py to consist of extreme probability measures.
+Thus, we may want to represent the state of a quantum system by a
+von Neumann density matrix and yet still claim no ignorance on our
+part! Similarly, we may want to describe a single sample of a "classical"
+gas by a probability measure on phase space. By assuming that the
+dynamics is governed by a Markov process instead of a Hamiltonian
+system, one may readily explain the macroscopic phenomena without having
+to invoke either ensembles or ergodic theorems (see §2). (This example
+really shows that what we are calling "classical mechanics" is really
+"quantum mechanics with a Boolean depth logic"!)
+
+With this attitude, one not only doesn't expect Py to be injective
+on Lab, but one isn't even sure that it is reasonable to seek for a
+Lab, on which it is injective. There may be many labels which go to
+the same probability measure on eZ, but none of which can be physically
+described as classical mixtures of more basic labels. In any case,
+ignorance should only be ascribed to those labelS which can be
+"redescribed" as classical mixtures. Ignorance should never be ascribed
+
+to probability measures on the deep logic. Yet, if one has done ones
+
+--- Page 23 ---
+22
+
+work well, then it would seem reasonable to say of two labels
+
+a, BE Lab,, Such that P, (a) = P, (8); that they yield the same "state"
+of the individual boxes. Not to say so could only be justified by the
+belief in the existence of a larger theory containing more observables
+where q@ and 8 would be seen to be empirically different. So long as
+our belief in a particular zt is firm, we will accept the equality
+
+P, (a) = p, (8) as any "explanation" for the empirical observation that
+pla) = p@).
+
+It may happen that several different theories yield reasonably
+accurate results. Then the decision between them may be based upon
+various non-scientific criteria-- historical, religious, personal,
+aesthetic, etc. One also often takes into account the pragmatic
+criteria of ease, speed, and cost of computation. It is these
+pragmatic criteria which induce astronomers to continue to use Newtonian
+mechanics instead of the much prettier general relativity of Einstein
+for orbital computations.
+
+Given a theory Ty: one may seek to "reduce" it to a more basic,
+more fundamental, more expressive theory To. By a "reduction" we mean
+
+to imply that T, is not found to be incorrect, only shallow. Thus,
+
+1
+a reduction should include a redescription of the labels in Ty as
+classical mixtures of labels in To, i.e. a map Lab, - Labo, and a
+
+redescription of the observables in Ty as observables in To, i.e. a
+
+map a > Ps . One, of course, also requires that the diagram
+
+Lab, —————> Labo
+
+1
+(1:52:52) | |
+
+Prob (£4) < nob (24)
+
+
+--- Page 24 ---
+23
+
+commutes. Thus, instead of seeing two competing theories, the
+reduction lets us see two compatible theories—- the latter being the
+more profound one. Of course, this last value judgment would
+become confused if it were possible both to reduce Ty to To and also
+to reduce To to T,! In practice, reductions as defined above rarely
+occur since one of the main motivations of a reductionist is to
+obtain a more accurate~- "truer''-- theory. Thus, he will not expect
+diagram (1 2.2) to strictly commute. In other, more extreme situations,
+he will really be obtaining a totally different description of the
+world, and there might be virtually no basis for comparison of the
+theories-- neither on the depth level nor on the surface level. The
+two theories would really be about two entirely different types of
+boxes, i.e. two different worlds or realms of discourse.
+
+We can now begin to understand how it is possible to simultaneously
+have proofs that quantum mechanics admits of no hidden variables
+theories, while at the same time to have proofs that hidden variables
+theories always exist. The second proof is by far the simpler. Its
+
+essence is to simply observe that, given the situation
+
+Lab > Prob(é) £*
+(1.2.3) o | ?
+Prob(¢9) zt ’
+
+one can always factor it into
+
+Lab. ——¥ Prob(2*)
+(1.2.4) *
+“| Prob(g@) <,
+rob
+
+Prob (2°) >
+
+(6)
+
+--- Page 25 ---
+24
+
+(1.2.5) Zz
+
+Here, £5 is the "discrete" diagram of Boolean subalgebras associated
+to x (i.e. forget the morphisms in 2) and is is the product of the
+Boolean algebras in ro y in (1.2.3) is a right inverse to »* obtained
+by forming the product measure. Thus, starting from (1.2.3) with a
+
+possibly non-Boolean #. we can always obtain a diagram
+
+iad
+Prob (£4) i
+
+Lab ————> Prob(z# )
+
+with “2 Boolean, and, furthermore, a redescription of all the probability
+
+measures on zt as classical mixtures of pure probability measures on
+
+2. Note that we do not have a homomorphism Pig
+
+> Ls » but only
+
+the weaker relationship of a "correspondence"
+
+F
+rd %, :
+
+The essence of this move is the "unpacking" of the original deep logic,
+i.e. we, in effect, say that Ph identified to many surface observables
+which are really different. Thus, this move does not really yield a
+reduction, but, instead, a competitor. Our construction is, of course,
+too ad hoc to be mistaken for a "serious" competitor. But more
+
+specialized, less ad hoc models can always be found which will bear
+
+--- Page 26 ---
+25
+
+a similar relationship to the original theory. This is the situation
+with the hidden variables models constructed by Bohm, Nelson and
+
+others. These theories are not really quantum theories, but, instead,
+competitor theories attempting - somewhat successfully - to redescribe
+the surface phenomena. We do not expect any of the present competitors
+of quantum theory to supplant it, but tolerance should be practiced .
+since these alternatives often shed great light on the standard quantum
+mechanical description of phenomena, make us think more deeply, and
+
+may even suggest interesting experiments. In truth, the real motivation
+behind most.hidden variables theorists is, not a love of Boolean logic,
+but, instead, the desire for a "realist" world view. They want to know
+how the "world" really works, not how it appears to work. In.
+Einstein's words: "In the final analysis, the world only happens once",
+The realist would not care for our whole mode of discourse. His ideal
+would be a theory such as general relativity (interpreted realistically,
+of course). Putnam and, later, Bub have tried to interpret the quantum
+logic "realistically" aS implying a revolution in "logic". This may
+be possible, but we don't feel that they have done the work necessary
+to make adequate sense of and to evaluate their suggestion. (For
+example, would one have to develop a quantum set theory?)
+
+The fact that quantum mechanics doesn't admit a strict Boolean
+reduction follows from a deep theorem of Gleason (see §3). Gleason's
+theorem implies that the standard quantum logic, Proj(H), admits no
+homomorphisms into any Boolean algebra. Similarly, Greechie has shown
+that one can construct logics which admit of no homomorphisms into
+
+either Boolean or (standard) quantum logics.
+
+--- Page 27 ---
+26
+
+In order to obtain a more concrete understanding of what these
+theorems say, we shall now consider their implications for our "box"
+model of the scientific process. The theorem that hidden variables
+theories always exist implies that no matter how the boxes behave on
+the surface level, we can always fill in the boxes with Boolean
+devices so as to capture the same ensemble behavior, i.e. we can
+always design alternative boxes out of gears, circuits, and other
+classical Boolean devices, so that the external, surface behavior
+of our designed boxes is identical with that of "natures" boxes.
+
+Thus, a Kelvin-Tait type program is always possible although one may doubt
+its usefullness. (heir original program for Maxwell's theory eventually
+‘fell into disrepute.) Hertz’s: statement that "Maxwell's theory is
+
+about Maxwell's theory" implied that one should consider one’s tool
+
+box as containing more than just gears, i.e. electro-magnetic
+
+phenomena should be considered basic phenomena not ‘requiring
+
+further explanation. In fact, today one-is often
+
+more likely to attempt to explain the behavior of gears by invoking
+electro-magnetic phenomena than vice versa. If more than one button
+
+can be pressed at one time, then the Boolean move might require us to
+consider the pressing of several buttons simultaneously unrelated
+
+to the pressing of them individually, i.e. we might have a contextualistic
+theory. Thus, even if our wxeS come in two haives, with one half on
+
+the moon and the other half on the earth, and they have no visible
+connections, we might still have to say that the results obtained by
+pressing a button on the part of the box on the earth may depend upon
+
+what buttons are simultaneously pressed on the moon. These "non-locai”
+possibilities have been stressed by Bell. They require us to have "non-loca
+
+--- Page 28 ---
+27
+Boolean devices if we want to build such boxes. Classical theory
+had plenty of non-local devices, e.g. the gravitational field, but
+these non-local objects were always viewed suspiciously by classical
+scientists. For example, Newton felt that anyone who really believed
+in action at a distance was not philosophically minded. Presumably,
+Einstein felt similarly. Bell has remarked that he had resolved the
+E-P-R paradox in a way that Einstein would have liked least. Thus,
+a high price might have to be paid in order to allow for a Boolean
+depth logic; for a realist, the price seems to be worth paying.
+
+If one has a theory Pig ais ee, and one requires that in the
+design of our artificial boxes we must make two buttons that © says
+are the same actually be the same (i.e. pressing either button yields
+the same result, not just the same statistics), then Gleason's theorem
+tells us that we cannot design such a box for a quantum mechanical
+system out of Boolean devices. We can, of course, design such a box
+using quantum mechanical devices such as lasers, electron beams, etc.
+If Greechie logics actually occurred,then one would need an even larger
+tool box of devices, since a Greechie box could not be built out of
+quantum mechanical devices.
+
+In the aftermath of the downfall of the Kelvin-Tait program, one
+runs the risk of having to have a very heavy tool box of "fundamental
+
+devices". One tries to steer a course between viewing all devices as
+
+fundamental and viewing no device as fundamental.
+
+--- Page 29 ---
+28
+
+Ls Category Theory.
+
+One of the main motivations for introducing the depth logic is
+that it is a way of identifying two surface observables, or, at least,
+parts of their outputs. A contemporary mathematician, attempting to
+formalize this idea, will naturally be led to the concept of a "diagram"
+of Boolean algebras. Furthermore, this assumption on the structure
+of z is the weakest one still adequate to obtain all the results
+of quantum theory. In this section we will provide a short review of
+category theory. (See [50] or [51 | for a systematic introduction to
+category theory >)
+
+A category @ consists of objects X,Y,... € Ob(@) and morphisms
+£,g,... € Mor(@). Every morphism f has a domain and a range, dom(f),
+range(f) € Ob(@). If the range of f is equal to the domain of g, then
+f and g can be composed to yield a morphism h = gef from dom(f) to
+range(g), Composition is associative and every object X has a unique
+identity morphism 1, from it to itself which is an identity for the
+operation of composition, (Actually, one can follow Lawvere. [43 ] and
+give an axiomatization of category theory which is independent of set
+theory, and then use category theory as a new foundation for mathematics.)
+Typical examples of categories are the category of sets and set
+mappings; the category 4 of groups and group homomorphism; and the
+category J of topological spaces and continuous mappings.
+
+Given two categories Cy and Co, a functor F from Cz to Co is a
+pair of mappings F' :0b(¢,) Sd Ob (Cy) and F" :Mor (¢,) = Mor (Co), such that
+
+the category structure is preserved, i.e. domains, ranges, identity
+
+--- Page 30 ---
+29
+
+mappings, and composition. Typical examples of functors are the
+"forgetful" functors N from ¥ or J to »# which associate to every group
+or topological space its underlying set and to every homomorphism or
+continuous map its underlying set mapping. Given two functors
+Fidy ~” Co and Glo 2 Cz) one can form a composite functor
+H = GeF:01 + Cz 3 one thus obtains the category, Cat, of categories
+and functors.
+
+Given two functors F,G:0, ” Co: a natural transformation7 :F - G
+is a map 7 :0b(C,) > Mor (Co) such that for every X € Ob(C,},
+
+n(X):F'(X) - G'(X), and if X aac Y, then the diagram
+
+F(x) 20) @r¢x)
+
+F"(£) G"(f)
+
+Fi(y) 2&2, @r(y)
+
+commutes. The construction which associates to a set the free group
+
+generated by that set determines a functor F:/ ~- g. The natural
+inclusion of a set X into (the underlying set of) the free group
+generated by X determines a natural transformation 7:1, NeG. Similarly,
+one has a natural transformation y:FeN ~ 1,. One can also show that
+
+P
+there is a natural bijection
+
+(1.3.1) #(X,NG) = #(FX,G) ,
+
+where @(X,Y) is the set of morphisms in @ from X to Y. Under these
+
+circumstances, one says that N and F are adjoint functors (the name
+
+--- Page 31 ---
+30
+
+coming from the formal similarity of (1.3.1) with the formula defining
+adjoint linear operators on Hilbert space). The forgetful functor
+N:7 - # also has an adjoint (in fact, both a left and a right adjoint).
+Given two categories C1 and Co: we can form the functor category
+ont whose objects are functors from Cy to Co and whose morphisms are
+natural transformations of functors. Given a category @, there is a
+natural associated "opposite" category, ger. obtained from @ by reversing
+all the arrows, i.e. Ob(¢°P) = ob(@) and c°? (x,y) = c(¥,X). A functor
+Fs0q” “Co is said to be a contravariant functor from Cy to Co:
+lfGcisa category, then a diagram over @ is a functor X:I -¢.
+We will usually use the notation (x, } to denote the diagram X, where
+xy = X(q@) for @ € Ob(I), the bonding morphisms being suppressed in the
+notation. If {X,} is a diagram over @, then the direct limit
+lim e(-,X)) defines a contravariant functor from @ to », i.e. an object
+of f°. Hence, one can form a category ginj - @, whose objects are
+diagrams over @ and whose morphisms from {X,} to {¥,} are natural
+transformations from lim (-,%)) to lim (-,¥,)- ginj-c is a full-
+subcategory of Pad '
+We will now give a direct way of representing the morphisms of
+ginj-c. Let {xX }y and {Y¥g}y be diagrams over ©. Suppose given for each
+a € Ob(I) a B(a) € Ob(J) and a morphism £3 (a) XK, 7 Xg(q) 12 © such that
+
+if we have a (not necessarily commutative) diagram
+
+--- Page 32 ---
+31
+
+ce vB (a)
+Xa B(a')
+Y
+a B (a) :
+a yb (a) : ;
+where Xr and Bla") are bonding morphisms, then there exists a & and
+a bonding morphism
+yh (a")
+
+> Y
+
+Ye(e') B
+
+such that the compositions an fa and Be)" Sat vy Ca")
+
+are equal;. Such a collection of maps (£3 (q) } determines a natural
+transformation
+
+f:lim e(-,X,) = lim C(-1¥Q) ,
+
+and, hence, a morphism f in ginj-? from X to Y. Every morphism in
+ginj-c is so representable and it is even possible to define an equi-
+valence relation on such representatives so as to give a direct
+definition of ginj-@ without thinking of it as a full sub-category of
+#". This alternative definition is quite useful, e.g. it shows
+immediately that any functor FC, > Co extends to a functor
+
+F:ginj-C, - ginjp- @ sg full sub-category of ginj-@ and the natural
+full embedding ginj-< - F admits an adjoint. Given a diagram {x}
+
+we can also form the functor lim CK -) and thus obtain a full sub-
+
+category gpro-< of Fi The morphisms of gpro-@ also admit a direct
+
+definition. These categories are natural generalizations of the categorie
+
+--- Page 33 ---
+32
+
+inj-@ and pro-@ introduced by Grothendieck [31 |]. We realize that
+the above brief discussion will not be very enlightening to most
+readers; our only excuse for not giving a longer, more leisurely
+discussion is that we were skeptical that it would be any more
+enlightening to the reader not already initiated into the mysteries
+of category theory.
+
+In §1.1 we associated to each empirical observable E its finite
+set Rp of possible results and the associated finite Boolean algebra
+of "questions" 9(R,)- We also assumed that each state (i.e. label) a
+determined a probability measure on @(R,) - Since everything was finite,
+there were no technical complications.. But, when one moves to the
+theoretical situation, one is often (in fact, almost always) motivated
+to allow the deep configuration space af to be an infinite topological
+space (e.g., the real numbers R) and to take for ones deep logic Pa
+the Borel g-algebra of 4, a(c3) (e.g., the Borel g-algebra of R), and
+to consider g-additive probability measures on é (e.g., Gaussian
+measure on @(R)). An historical example of this move is the relation-
+ship between the binomial and normal distributions. The normal dis-
+tribution was originally viewed as simply a curve fit to the binomial
+distribution; only later was it viewed as defining its own real-valued
+random variable. Real-valued random variables are conceptually much
+more complicated than discrete-valued random variables though, as in
+the case of the normal distribution vis a vis the binomial distribution,
+often much simpler from a computational viewpoint. Thus, we will
+
+follow tradition and take as our basic (classical) logical category,
+
+--- Page 34 ---
+33
+
+the category @ of Boolean g-algebras and g-homomorphisms. Probability
+measures will be understood to be countably additive. Usually our
+logics will arise as the Borel algebras of nice topological spaces.
+
+The general (non-classical) logical category we will use will be
+ginj-6, i.e., the category whose objects are diagrams of Boolean
+g-algebras. If £= {BL} is a logic, then a probability measure p
+
+on # is a family {Py} of probability measures on the By such that if
+
+£5 7B, - B, is a bond in 2, then p, = Pg*tg: The convex set of all such
+probability measures on £ will be denoted Prob(Z). It is easy to check
+that a homomorphism #4 - £' in ginj-B induces a convexity preserving map
+Prob(v') - Prob(Z). A homomorphism # - 2’ will.also be called an
+~-valued random variable on ~'. A map {Prob(B)) } - (Prob(B,) } in
+gpro-Ge/, where @/ is the category of convex sets and convexity-preserving
+maps, Will be called a noisy homomorphism or a noisy £-valued random
+variable on #',and it will be denoted by £---->2'. Since
+
+Prob(Z) = lim{Prob(B )}, a noisy homomorphism #% ----> #~' also induces
+
+a map Prob(g') ~- Prob(¥). For £ = @(R), such homomorphisms will be
+called (noisy) real-valued random variables. (One could even motivate
+going so far as to change one’s basic category from @ to the category
+
+of Boolean algebras and noisy homomorphisms Addition and multiplication
+on R induce on the set ginj @(@(R),#) the structure of a partial com-
+mutative algebra over R (i.e. operations are only sometimes defined,
+but when they are, everything is classical (commutative)). This
+partial algebra is also equal to lim 8((R) 8)» where the direct limit
+is taken in the category of partial algebras. From this viewpoint, the
+
+move from a classical to a quantum mechanical system is not a move from
+
+--- Page 35 ---
+34
+
+a commutative to a non-commutative algebra @ of real-valued observables,
+but, instead, a move from a commutative algebra to a partial commutative
+algebra of observables. Of course, every non-commutative algebra
+determines an underlying partial commutative algebra and also its
+diagram of commutative subalgebras. The fact that assuming the
+structure of a non-commutative algebra is the wrong assumption has
+already been observed in the literature (see, for example, [19]),
+but it is often replaced by another wrong assumption, namely that of
+assuming the structure of a Jordan algebra. These differing assumptions
+on the structure of @ affect the size of its automorphism group and),
+hence, of the allowable symmetries of the system (the weaker the assumed
+structure on @, the larger is its automorphism group). In §3 we will
+discuss these issues more fully.
+
+The contravariant functor @ which associates to every topological
+space X its g-algebra of Borel subsets extends to a functor
+@:gpro-7 - ginj-@. Thus, if we start by assuming the existence of a
+deep configuration space af = {e,3 € gpro-7 together with a (measurable)
+morphism ef at ce, application of @ yields a deep logic zt 2 ro
+together with a morphism £ 2 om ae aot = Zé, One advantage of
+starting with ef is that using it one can define the partial algebra
+of continuous real~valued observables a, and not just the partial algebra
+of measurable observables an° When one notes that all classical systems
+with manifold phase spaces have isomorphic algebras of measurable
+observables, but non-isomorphic algebras of continuous observables, one
+sees that a captures a lot more of the physics of a classical system
+
+than does Bry* Thus, I. E. Segal's approach to quantum mencanics via
+
+--- Page 36 ---
+35
+
+assuming that ae is isomorphic to the partial algebra of Hermitian
+elements in a c* -algebra, besides being a much simpler assumption than
+would be required on ay? is also a physically much richer assumption,
+
+since many non-isomorphic q@,'s correspond to isomorphic an S+
+
+--- Page 37 ---
+Be
+
+1.4 Symmetry Principles.
+
+It should be reasonably clear to the reader that much stronger
+assumptions will have to be made before the formalism described in
+§1.3 can be made to yield interesting results. Symmetry principles
+are among the most powerful and beautiful ways of recovering the
+standard results of both classical and quantum mechanics. In this
+section we will introduce and try to motivate certain general symmetry
+assumptions. These ideas will then be further pursued in §§2 and 3.
+
+Consider the situation pictured below:
+
+Xx
+pS SS sD ee
+
+a
+
+OG ot dy et Uf i .
+
+(14.1)
+
+--- Page 38 ---
+. S7
+
+We have a preparing device (PD) capable of being placed in various
+positions a € R and of being ‘set at various settings B € B; thus,
+our set of basic labels is just Lab, = R x B. We also have an array
+of detectors (D) placed at various positions x € R; thus, for instance,
+our surface logic might be @(R). R acts naturally on Lab and we may
+want to assume that besides this surface action on Lab, there is also
+a deep action of Ron Prob (2°) such that the natural map
+
+p, ‘Lab - Prob(2%) is equivariant. This is a strong asséaSeion! Of
+course, there is nothing sacred in the above about the group R--any
+group G may be appropriate; for example, the Euclidean group, the
+Galilean group, and the Lorentz group are often used.
+
+In the situation pictured in (1.4.1) it will often te discovered
+that translating the preparing device by y € R has the same effect as
+translating the array of detectors by -y. This type of observation
+often leads one to even assume that the symmetry group G also acts on
+2° in such a way that the natural map g:<° ~ 2° is equivalent and the
+induced action on Prob (é°) is just the original action.
+
+The group occurring most frequently is the time translation group
+T= Ri. Consider loaded coins whose probability of heads is a(t) = qtt
+mod 1, where q € [0,1]. T is certainly acting nicely on the set
+{(a,t)} = Lab, but unless we pack a great deal into 24, it won't act
+in a compatible convexity-preserving way on prob(g°). This is because
+many different classical mixtures of these coins have the same ensemble
+statistics if our only allowable experiments are a single coin toss.
+
+In fact, by considering weighted perishable coins (after one toss they
+disappear), one is led to introduce a set »&/ of theoretical states and
+
+mappings Lab, Sa Aled Prob (2). Group actions may only extend from Lab,
+
+--- Page 39 ---
+oY
+
+to » and not all the way to Prob (2°). This example should be kept
+
+in mind to remind the reader of the strength of the assumption that
+
+G acts on Prob(£°) or even on a itself. In the case of "irreversible"
+systems, one can only assume that the semi-group tt = Rt acts on
+Prob(¢%). If one starts with a basic map Lab, ~ Prob(£%), then even
+
+if the action of G extends from Lab, to Prob (£9) there is no a priori
+reason to assume that the action of Gon Prob (£9) is convexity
+preserving.
+
+If we go all the way and assume that G acts on Z£, then, of course,
+it also acts by convexity~preserving automorphisms on Prob (2°). These
+subtle distinctions will soon be very impdértant.
+
+We've already mentioned in §1.1,that the breakup of the description
+of an experiment into the two parts (q@,E) has a conventional aspect.
+
+In our discussion of time, above, we've taken a "Schrodinger" viewpoint
+and had the time group act directly on the states. An alternative
+approach is to assume that time acts directly on ones observables.
+
+If z£ is the surface logic of the Schrodinger approach, then oles
+will be the surface logic in the Heisenberg approach, i.e. one copy
+
+of 2 for each time t € T. A Similar move can be made for other groups
+and semi-groups. Thus, if a Schrodinger approach used a deep logic
+
+i, then the Heisenberg approach might use a deep logic (2). T acts
+in a compatible way on te} and tz), and, hence, induces a convexity-
+preserving action on Prob( {£¢}). At this point, there is no real
+difference between these two approaches, But the Heisenberg approach
+
+suggests using a more interesting deep logic a which contains (ee.
+
+Then the two approaches become distinct?
+
+--- Page 40 ---
+37
+
+Consider, for example, the case of a"particle". In this case it
+is reasonable to start from a basic position observable which yields
+a result in R° and to assume that our system is invariant under the
+full Euclidean group é3- Thus, we are looking for systems of imprimi-
+tivity for (e(R*) ,83) in a deep logic “. We may now add time to our
+picture by assuming that T acts on Prob(2%) (Schrodinger picture), or
+by assuming that we are actually looking for a system of imprimitivity
+for ({e(R®) 3, 85 x T) (Heisenberg picture). In fact, one should go
+further and replace the Newtonian space-time group $3 x T by either
+the Galilean or Lorentz group. Two other possibilities also occur as
+one contemplates the space-time point of view: namely, a theory of
+"events" and a theory of "trajectories". For a theory of events one
+should look for systems of imprimitivity for (e(R*),¢), where G is an
+appropriate space-time group acting on Rr? (e.g., the Lorentz group).
+For a theory of trajectories one might look for systems of imprimitivity
+for (g(L),G), where L is the 6-dimensional homogeneous space of time~—
+like lines ink* and G is the (inhomogeneous) Lorentz group. One can,
+of course, go even further and consider more complex hyperspaces of
+subsets of nga Also, one can consider diagrams of logics {24} indexed
+by subsets of n*, Such objects are needed in field theory and the
+statistical mechanics of infinite systems. These ideas will be further
+
+pursued in §§2 and 3.
+
+--- Page 41 ---
+40
+§2. Classical Theories ,
+
+In this section we shall discuss various systems whose depth
+logic # is either Boolean or a disjoint union of Boolean logics.
+Ps will be obtained here as the logic associated to a deep con-
+
+figuration space a.
+§2.1. Statics
+
+The simplest non-trivial example is where ef = Zo = {0,1}. Zo
+might be the appropriate configuration space for describing a coin
+tossing experiment. A probability measure y on Zo is canpletely
+determined by its value on 0, y(O) € [0,1]. If our experiment
+consisted of having our hand over a coin and then looking to see
+whether heads or tails was up, then it would be reasonable to use
+the probability measure with y(O) = 1/2 and to say that the probability
+was fifty-fifty for a head or a tail Clearly, our use of pro-
+bability here is due to our ignorance of the true state of the coin
+until we lift our hand. On the other hand, if our experiment con-
+sisted of tossing a coin and then seeing whether it landed up heads
+or tails, then, again, it would be reasonable to say that the
+probability was fifty-fifty for a head. or a tail. to appear. But
+it would no longer be clear that our use of probability language
+was due to any ignorance on our part. One could easily consider
+tossing a coin to be anintrinsically stochastic process; and, in
+fact, this is the common sense point of view. On the other hand,
+
+a true believer in the classical world view could argue that the
+
+--- Page 42 ---
+41
+
+result of a coin toss was as determined by the initial conditions
+of its environment as was the result of our lifting our hand, the
+"only" difference being one of computational difficulty. Thus, while
+in practice it is usual - even in classical probability theory - to
+often consider intrinsically stochastic processes, it is always
+possible in a classical theory to assume that our use of probability
+is only a reflection of our ignorance and/or computational weakness,
+Moving on, we next consider a configuration space appropriate
+to describing a particle. If our experiment consisted of taking a flash
+picture of a single billiard ball on a pool table in a dark
+room, then the appropriate configuration space would
+be R? or-even a rectangular subset of R’. Clearly, any use of pro-
+bability language here is due to our ignorance of the actual location
+of the billiard ball. On the other hand, if the experiment consisted
+of tossing a rock over our shoulder into a lake and having a friend
+record the location of the splash, then, again, R? would be an appro-
+priate configuration space for our system, but the system could
+easily be conceived of as being intrinsically stochastic. We will
+see in §2.3 that thinking of atomic models more along the lines of
+the above rock tossing experiment than of the billiard ball experi-
+ment allows one to carry out Boltzmann's program for classical
+statistical mechanics without having to invoke either ensembles or
+ergodic theorems. Suppose now that we throw two rocks, one colored
+red and the other blue. If our friend is not color blind,then he
+could record the location of the splash of the red rock and the «»**
+
+location of the splash of the blue rock, Hence, R2 x Rr? would be
+
+--- Page 43 ---
+42
+
+an appropriate configuration space for this system. If our friend
+is color-blind, then he would only be capable of recording the
+locations of the two splashes, but not which was caused by the red
+rock, In this situation, the surface configuration space (ois could
+be chosen to be the space of unordered pairs of points (repetitions
+allowed) in R2 (this space is isomorphic to R? x R*/Za, i.e. the
+
+quotient space of R2 x R? by the natural interchange action of Zo
+
+on it). Clearly, the use of this 2 instead of R? % R? is entirely
+due to our friend's ignorance, i.e. his being color-blind, and we
+could choose R? x R? for our deep configuration space ef and
+
+y:e% ~ ae to be the natural quotient map. On the other hand, if
+
+our experiment consisted of photographing the location of bubbles
+
+on a turbulent lake, then an appropriate surface configuration space
+might be the space of finite subsets of a region in R?, There is
+
+no natural way to label bubbles or to talk about "interchanging"
+
+a pair of bubbles. Bubbles are momentary, unstable, localized
+structures in the lake. A move analogous to that made above of
+using R? x R? as a deep configuration. space, while possible here,
+would be unnatural and inappropriate here. The use of the con-
+figuration space of finite subsets of a region in R2 in these
+circumstances should not be attributed to our ignorance, but to
+
+the system under consideration. If one were interested in describing
+the water itself, or some other continuous medium such as a deformed
+string or membrane, then the appropriate configuration space would
+
+be some infinite-dimensional function space,
+
+--- Page 44 ---
+43
+
+§2.2. Dynamics,
+
+So far we have said nothing sbout time-and the dynamics of our
+systems, Suppose now that our billiard ball is rolling on the billiard
+table and that our camera has a timing device which allows us to take
+a_single flash photograph at any of a finite number T of possible
+time delays. Then the appropriate surface configuration space would
+
+consist of T disjoint copies of a rectangle:
+
+c= (Rilrer = ST a eo mm}
+
+1 422 t=T :
+
+Of course, we really believe that the billiard ball is a "lasting
+particular" and that one could take the function space rR? as the
+deep configuration space ef with the evaluations at various times
+determining the map pir? ~ {R,} in gpro-Top. Taking Ro as the deep
+configuration space of this system leads to a research program of
+attempting to define empirical observables whose associated surface
+configuration space would include a copy of R). So, for example,
+one would attempt to develop a camera which could take T pictures
+after one setting. Success in this venture would lift Ro from being
+the deep configuration space up to its also being (a part of) the
+surface configuration space.
+
+On the other hand, if our system consists of setting a timing
+device which then - at the appropriate time - flings a rock into water
+
+and outputs a photograph of the splash, then, again, {R,} would be
+
+--- Page 45 ---
+44
+
+the appropriate surface configuration space, but we would no longer
+consider RT as an appropriate deep configuration space since there
+
+is no "splash" which is lasting over time. Rr? would be the appropriate
+configuration space for a system which flings rocks at times
+
+t = 1,2,...,T and outputs T photographs of their splashes (with the
+time t printed on the bottom of the photograph). Here, there is no
+lasting particular, but there is a path!
+
+If time is modeled as the continuum Ri, then there is again no
+problem in defining the surface configuration space to be a
+where Ct is the configuration space of possible results at time t.
+
+If we now want to model a lasting particular, such as a billiard
+ball, we must choose some appropriate function space which we will
+denote by ec. yer - {e,} is again determined by evaluation at the
+various times. A theory will tell us which probability measures on
+a are actually empirically realizable. For describing a billiard
+ball, one would naturally tend only to include continuous or even
+piecewise smooth paths in a
+
+One simple way of generating an interesting dynamical theory is
+to assume that one is given a continuous one-parameter group U, of
+homeomorphisms of a space @. The association c - U,¢e determines a
+map @ — et and hence a map Prob(@) - Prob(a!), If U, is a smooth
+action, then it is completely determined by its infinitesimal generator
+X which is a smooth vector field on @. Thus, in Aristotlean mechanics
+one might try to describe the behavior of a billiard ball by giving
+a vector field on i”. If the surface on which the ball moved was
+
+sufficiently rough, then this description might even be reasonably
+
+--- Page 46 ---
+45
+
+accurate. But most of the time it would turn out to be very poor,
+as was first fully realized by Galileo. A billiard ball seems to
+have other intrinsic qualities beyond mere position, This idea can
+be formalized by assuming that the actual deep configuration space
+appropriate for a billiard ball is a space @' together with a con-
+tinuous map einen’. The simplest way to obtain such a pair
+(a',7) is to assume that the internal qualities of the billiard
+ball are described by a space F and take R? x F for @' and the
+natural projection map for 7. More generally, one might describe
+the qualities of a system by a space T(C) which fibers over the
+space @ of external qualities.
+
+The symmetry properties of @ and T(@) play an important role
+in the development of many theories. For example, for a particle
+the appropriate external configuration space would be R° and the
+natural action of the Euclidean group E, on R® plays a very
+important role in most theories of particles. It is natural to
+suppose in this case that the natural action of E3 on R® lifts to
+a compatible action on the total configuration space T(R°). More
+generally, if G is a symmetry group acting on the external config-
+uration space @, then we will assume that the action of G lifts to
+T(c). If we take for G the full diffeomorphism group of @, then the
+possibilities for T(@) are probably quite limited. Some possibilities
+are: a) the tangent and cotangent bundles of @ and tensor products
+
+of these vector bundles; b) the projective and Grassman bundles
+
+associated to the examples in a); c) various jet bundles. It would
+
+--- Page 47 ---
+46
+
+be interesting to actually determine all (reasonable) possibilities.
+
+A vector field X on T(@) determines a trajectory c(t) € r(e)®*
+for every point c € T(¢). Composing with the map #:T(¢@) +@ yields
+mec(t) € oF and hence we obtain a map from the full static con-
+figuration space T(@) to the external dynamic configuration space a.
+In Hamiltonian dynamics one also assumes that group actiens on
+T(@) are generated by Hamiltonian vector fields which are themselves
+determined by smooth observables. In particular, one assumes that
+T(@) comes equipped with a natural symplectic structure and that
+all groups act via symplectomorphisms (i.e., contact transformations).
+The simplest example here is the cotangent bundle Te of ©. What
+are the other possibilities? Te is the natural object to take if
+one thinks of translations on iat What extended structures correspond
+to the full Euclidean group? (See §3)
+
+Taking Te for one's deep static configuration space and choosing
+a Hamiltonian H:T*a ~ R to determine the dynamics yields most of
+the special structure characteristic of classical mechanics. In
+particular, H is usually chosen to be the sum T+V of two parts: aN
+the kinetic energy, which is determined by a Riemannian metric on
+¢@; and V, the potential energy, which is determined by a scalar
+function on @. Isometries of (2,7) which leave V invariant lift to
+Te is such a way as to be invariant under the dynamics determined
+by H; their generators are thus invariants of the motion, i.e., we
+obtain the classical conservation laws (e.g., those of conservation
+of energy, momentum, and angular momentum). A similar Hamiltonian
+
+theory for systems of infinitely many degrees of freedom is still
+
+--- Page 48 ---
+47
+
+under development.
+
+In the theories above we have a static total configuration space
+@' and a map o':¢0' = ok which induces a map py :Prob(c') - Prob(e® J.
+The dynamics is completely deterministic and any recourse to the use
+of probability is due to starting with a probability measure with
+dispersion on @'. This may be necessary due to our ignorance of
+
+the "actual" initial state in @'. In Wiener's theory of Brownian
+
+1
+motion, we are also given a map X,:Prob(@') - prob(e® ), but X,is
+
+th
+no longer induced by a map x:C' 7 a » i.@€., the dynamics is
+intrinsically stochastic, In this case, unlike the two above, ©'
+
+enters only as a computational device which enables us to compute
+
+1
+the appropriate probability measures on ak . Generally speaking,
+
+physicists have taken the phase space Te much more seriously, perhaps
+too seriously, (but see the next section). Hamiltonian mechanics is
+
+a powerful and beautiful theory, but it has led to an overemphasis
+on Te in contrast to ok . The essence of the notion of a particle
+is that of a lasting particular, and oc is the appropriate con-
+
+figuration space for describing a lasting particular. .
+
+--- Page 49 ---
+48
+§2.3. Classical Statistical Mechanics.
+
+There are two basic approaches to the study of systems such as
+a container of gas. In thermodynamics one takes a phenomenological
+approach and treats the gas as a basic entity and develops macro-
+scopic observables - such as temperature, pressure, volume, density -
+and one attempts to discover laws governing their behavior - such
+as Boyle's Law and Charles' Law. On the other hand, one might
+attempt to model the gas as an enormous collection of very small
+molecules. The molecules could, in first approximation, be viewed
+as point particles or as hard spheres obeying Newton's Laws or)
+better yet, Hamiltonian mechanics. One would thus describe the
+
+state of the gas by a point in pon where N is the number of molecules
+
+in the gas. Observables would correspond to functions on Ro’, and
+the dynamics of the gas would be governed by a Hamiltonian. The
+
+goal of statistical mechanics is to show how the phenomenological
+observables and laws of thermodynamics can be "reduced" to correspond-
+ing observables and laws of the molecular model. So far, all such
+reductionistic attempts have failed. The so-called paradoxes of
+reversal and recurrence show that, at best, one can only obtain from
+the molecular Hamiltonian model that the thermodynamical description
+is very probable, but not necessary. "Fluctuations" away from equi-
+librium will occur and will be important. This, by itself, is already
+an important accomplishment in that it focuses our attention on
+macroscopic phenomena that we may have overlooked as "just noise".
+
+w
+But even this ‘at best requires that the Hamiltonian flow be ergodic
+
+--- Page 50 ---
+49
+
+on the energy hypersurface - a result which was only comparatively
+recently proved by Sinai in the special case of hard spheres in a
+box. Backing off a bit, one can follow Gibbs' approach based upon
+ensembles of similarly prepared systems and try to show that the
+thermodynamical laws, while not strictly true of individual systems,
+are true of equilibrium ensembles. An ensemble will be described
+by a probability measure on the phase space wv. Each system in
+the ensemble is to be thought of in terms of the above molecular
+model. Hence, appeal to probability language here is strictly
+pragmatic. The individual system will usually not be in equilibrium;
+but if the Hamiltonian flow is ergodic, then almost any ensemble
+will approach equilibrium in the sense that its probability measure
+on poN will “approach” the unique invariant probability measure.
+
+A very different viewpoint is suggested by our development in
+81. Instead of viewing a molecular model in terms of lots of little
+billiard balls, we can instead view it as implying a mode of per-
+ception (i.e the (at least theoretical) existence of an appropriate
+microscope) capable of looking at a gas and seeing a large collection
+of "molecules"; the result of such a look is to be recorded as a point
+
+in pon From this point of view, one may very well describe a single
+
+sample of gas by a probability measure on pon while disclaiming any
+lack of knowledge. The process of looking may be as intrinsically
+stochastic as the process of tossing a coin. One may now question
+whether the dynamics of the system should be described by a Hamiltonian
+
+flow. Possibly a Markov process or some other more general stochastic
+
+process may be appropriate for generating the time semigroup on
+
+--- Page 51 ---
+50
+
+Prob(R°Y), Maybe, even, the probability measures satisfy the
+Boltzmann equation! Now it is possible for a single sample of
+gas to be in equilibrium while at the same time repeated observa-
+tions of it yield fluctuations (think of repeated tossings of a
+hundred fair coins)! Thus, it is possible to have a"molecular
+model’ of a gas with a classical depth logic and to obtain from
+
+it both the laws of thermodynamics and also fluctuation laws
+without having to appeal to either ergodic theorems or to Gibbs’
+ensembles! Of course, one has here given up the classical atomic
+ontology. Our molecules do not have independent existence; they
+are more like the "splashes" of §§2.1 and 2.2. Had Boltzmann
+suggested such a move, he probably would have been laughed at.
+But such a move is now, in any case, necessitated by quantum
+mechanics. So, if it also helps when the deep logic is Boolean,
+
+why not make it?
+
+--- Page 52 ---
+51
+
+§2.4. Field Theory,
+
+The theory of continuous models was developed in the eighteenth
+and early ninteenth centuries by L. Euler et. al in order to describe
+the behavior of such diverse systems as vibrating strings,
+membranes and other elastic structures; heat conduction; sound waves;
+diffusion processes; fluid flow. All these systems were actually
+viewed as being fundamentally discrete (i.e. made up of atoms), and
+the continuous models were viewed as merely phenomenological
+theories (i.e. approximations not having fundamental significance).
+It wasn't until Faraday's conception of electric and magnetic lines
+of force that a field theory was viewed as fundamental (i.e., as
+a basic building block of the universe, having the same ontological
+status as atoms). But Faraday's ideas weren't well understood by
+his contemporaries. His mode of expression was essentially that of
+a twentieth century geometric topologist and not that of a ninteenth
+century mathematical physicist. Maxwell translated Faraday's
+intuitions into the more acceptable language of partial differential
+equations and founded the theory of the electro-magnetic field. (The
+relationship between the work of Faraday and Maxwell is essentially
+identical with the relationship between algebraic and differential
+topology in the d’Rham theory.) But even for Maxwell, the electro-
+magnetic field was viewed as essentially a phenomenological device
+similar to temperature. He sought for underlying mechanistic atomic
+models. It wasn't until Hertz that the true fundamental significance
+of the electro-magnetic field was fully realized. With the advent
+
+of relativity theory, ontology had come full circle since in
+
+--- Page 53 ---
+52
+
+relativity theory it is very natural to only consider fields as
+having basic ontological existence. There is no way to end this
+dialectic since one can probably always reduce discrete models
+to continuous ones and vice versa. In quantum mechanics one.
+settles the dialectic with the slogan that the two approaches are
+"complementary". (In the classical case one also has, of course,
+that the appropriate phase spaces are isomorphic as Borel spaces.)
+In the middle of the twentieth century, due mainly to the
+work of N. Wiener and A. Kolmogorov, one had the development of a
+statistical theory of random fields. The goal of this theory is
+to describe such complex phenomena as noise and turbulence by
+direct statistical assumptions on the properties of the fields.
+For example, one might assume that a fluid flow is to be described
+by a vector field on R’, i.e. by a function from R? to R?. On
+the space of such vector fields 7 one assumes the existence of a
+probability measure y which determines the statistical properties
+of the fluid under consideration, i.e. if we measure the fluid flow,
+then the resulting vector field will lie in a Borel set A CJ with
+probability p(A). One might naturally investigate first the statis-
+tically homogeneous flows, i.e. those whose probability measures
+are invariant under the induced action Of the Euclidean group Ey on
+gZ from its natural action on R*. Since p is a fairly complicated
+object, most work is done by simply making assumptions concerning
+the moments of the velocity field, e.g. assumptions on
+E(v, (x)), E(v, (x) v5 (y)), etc. Recently, attempts have been made to
+
+reduce this intrinsically stochastic theory back to the deterministic
+
+--- Page 54 ---
+53
+
+theory of the Navier-Stokes equations, This work has been buoyed
+up by the expectation that the flow described by these equations
+contains a "strange attractor". A dynamical system with such an
+attractor would have a very complex time evolution. But turbulence
+is also very complicated at a single time. Recalling the situation
+in classical statistical mechanics, one would expect that the
+deterministic model could, at best, obtain the same results as
+the statistical theory only "most of the time". It seems most
+unlikely that the statistical assumptions made by the statistical
+theory (e.g. homogeneous chaos) could be derived from the deter-
+ministic theory. If they could, one would, of course, feel that
+one had gained a greater understanding of such phenomena as turbu-
+lence, We guess that one can't, in general, obtain such a derivation
+and that, furthermore, experiment will support the statistical
+approach, In other words, our attitude towards turbulence is similar
+to our attitude towards a gas (and also a coin toss); they are both
+intrinsically stochastic phenomena. From a pragmatic point of view,
+this has certainly been the approach of applied mathematicians
+attempting to model such complicated phenomena, But we are going
+further and suggesting that these stochastic models may be fundamental,
+and not just useful because of our computational weakness,
+
+Such stochastic theories as homogeneous chaos have been Lately
+arising quite frequently. For example, besides its occurrence in the
+statistical theory of turbulence, it is also used in the statistical
+
+mechanics of infinite systems and in the Euclidean approach to quantum
+
+--- Page 55 ---
+54
+
+field theory (see §3). Recently, Mandelbrot published a facinating
+book using a general theory of random sets to describe such diverse
+phenomena as. Cloud patterns, shapes of island boundaries and
+rivers, the pattern of arteries and veins in the lungs. In these
+models, the sample set is monstrous with probability one. The
+prototype is, of course, Brownian motion with its nowhere differenti-
+able sample paths. Mandelbrot's samples usually have Hausdorf
+dimension greater than their covering dimension; hence, the samples
+are spaces that one usually only thinks of as occurring in courses
+in general topology. But Mandelbrot makes a strong case for the
+claim that such monsters are all about us if we only care to look.
+He even suggests that physicists have independently discovered the
+notion of Hausdorf dimension in trying to describe some of the
+phenomena he considers,
+
+We haven't even touched upon the biological and social sciences
+where almost all models are (or should be) stochastic. Most novel
+in some of these models is the use of game theory to describe con-
+flict situations. But, to our knowledge at least, all of the models
+used so far in the biological and social sciences can be formulated
+in terms of classical (Boolean) probability theory. In the next
+
+section we discuss non-classical theories.
+
+--- Page 56 ---
+55
+§3. Quantum Theories.
+
+In §2 we have considered various classical systems all of
+which have a depth logic which is either Boolean or a disjoint
+collection of Boolean logics. Thus, for the most part, classical
+systems are characterized by having all of their (theoretical)
+observables compatible, i.e., there is a single (theoretical)
+perspective from which one aan see all there is to be seen. In
+order to obtain a truly non-classical theory, one must assume
+that the deep logic is non-Boolean and that its Boolean subatgebras
+interlock in a complex fashion. That quantum mechanics contains
+incompatible observables, such as the position and momentum
+observables, Q and P, was first realized by Dirac and Heisenberg
+in late 1926, This observation was not forced upon them by
+experimental failures to measure simultaneously the exact position
+and momentum of a particle; in fact, Planck's constant h is so
+small and our technology so weak, that even if an electron were a
+small classical billiard ball, no existing experiment could test
+Heisenberg's conclusion in his y-ray microscope gedenken experiment.
+Instead, they came, to their conclusion from the realization that
+the highly successful quantum mechanical formalism that had recently
+been established did not enable one to predict a joint probability
+distribution for Q and P. Thus, either the quantum mechanical
+algorithm, while very successful for some purposes, was statistically
+incomplete in that it did not enable one to predict the joint pro-
+
+bability distributions for Q and P, or else the quantum mechanical
+
+--- Page 57 ---
+56
+algorithm was statistically complete and hence Q and P didn't have
+a joint probability distribution, i.e., they were both empirically
+and theoretically incompatible. Thus, if one takes the quantum
+mechanical formalism very seriously and assumes that it is at least
+statistically complete, then one is forced to the conclusion (or
+discovery) that quantum mechanics contains incompatible observables.
+This approach can be summarized by Einstein's remark to Heisenberg:
+"It is the theory which decides what we can observe." Heisenberg's
+y-ray microscope gedanken experiment was an attempt to retroactively
+rationalize and justify this viewpoint. He took Einstein's con-
+tribution to relativity theory as his paradigm. In Einstein's
+case also the formalism had already been established; and Poincaré
+at least was clearly aware that it called for a.radical break with
+classical (Galilean) mechanics. But Einstein's approach via
+gedanken experiments involving rods and clocks was much more vivid
+and convincing. Thus, Einstein's approach was a way to rationalize
+the disappearance of an absolute notion of simultaneity, a dis-
+appearance which was already implied by taking the Lorentz group
+seriously, and taking the Lorentz group seriously was already
+implicit in the success and structure of Maxwell's theory. Of course,
+one also had the Michaelson-Morley experiment. In his gedanken
+experiment, Heisenberg essentially shows that if Q. is a position
+
+experiment with accuracy « and P, is a momentum experiment with
+
+6
+accuracy 6, then a necessary condition that a, and P, be compatible
+is that ¢€°§6 2 h. Note that Heisenberg's analysis here involves only
+
+the "old" quantum mechanics<-in particular, wave-particle duality
+
+--- Page 58 ---
+57
+
+‘ and the Einstein-de Broglie relations. This inequality is totally
+unrelated to the similar-appearing inequality concerning statistical
+scatter relations which is easily derivable using the formalism
+
+of the "new" quantum mechanics. Heisenberg's gedanken experiment
+was as successful as Einstein's in providing a lucid and convincing
+rationalization of the established formalism. (Unfortunately for
+Heisenberg, Einstein wasn't particularly appreciative of the compli-
+
+ment of having his (former) approach followed. He is reputed to
+
+have remarked that"a good joke shouldn't be repeated too often".)
+
+--- Page 59 ---
+5é
+
+§3.1 The Logic of Quantum Mechanics.
+
+Upon leaving the classical (eatwan) tradition, one enters a
+chaos of possible deep logics. First, one investigates the simpler
+possibilities. Probably the simplest (and definitely the most
+important) non-Boolean deep logics are those obtained by assuming
+that 2 is ‘isomorphic to the diagram of Boolean sub-algebras of
+the orthocomplemented lattice of orthogonal projections on a
+Hilbert space. We will shortly see that this assumption "works",
+i.e., is capable of yielding the oo results of traditional
+quantum mechanics. But one can go even further and show how certain
+reasonable cuando on a certain class of experimental situations
+actually yields deep logics which can be shown to be embeddable in
+Proj(H). This has been done, for example, by Sneed [67]:° Sneed”
+main goal was to show that classical probability theory is completely
+adequate for describing certain quantum mechanical phenomena. He
+considers "finite filter experiments" which are an idealization of
+standard polarization experiments. He then shows how classical
+probability theory is capable of formulating all the questions one
+might have about such a system. Using certain "reasonable" axioms
+concerning the filters, he is able to show how one is led to intro-
+duce a certain orthomodular orthocomplemented lattice L and that the
+probabilities that one is interested in- determine probability-like
+measures on L. Furthermore, L is embeddable in Proj(H), and every
+probability measure on L is induced by one on Proj(H). Thus, the
+standard quantum mechanics based upon Proj(H) is computationally
+
+adequate for describing any finite filter experiment. A similar
+
+--- Page 60 ---
+59
+
+viewpoint is implicit in The Feynman Lectures on Physics and in
+work of Ludwig. On the other hand, we don't want to provide too
+strong a justification for the axiom that Pe = Proj(H), since it
+is known that other assumptions are appropriate in quantum statistical
+mechanics and in quantum field theory. In these subjects it is
+often reasonable to assume that zo = Proj(@), where @ is a von Neumann °
+algebra (or more generally a E*-algebra (see [19]). Alternatively,
+if one works with the partial algebra ao of continuous real-valued
+observables, then one is led to assume that @, = Herm(@), where @
+isa c*-algebra and Herm(@) is its partial algebra of Hermitian
+elements. (A natural question that arises here is whether @ is
+determined by Proj(q) or Herm(@), i.e., if Herm(@,) = Herm(@,) (as
+partial algebras), then is @, = @,? Note that Herm(@,) = Herm(@,)
+does not imply that ay = ao if ay and Io are only assumed to be real
+c* -algebras: consider the complex numbers C and the quaterions H as
+real c*-algebras, then Herm(C) = Herm(H) @ R!) Furthermore, it is possible
+that some of the difficulties occurring in quantum field theory in four
+dimensional space-time concerning the definability of commutators will
+require for their resolution the assumption that such commutators are
+not definable, i.e., that a, is an "exceptional" partial algebra not
+isomorphic to Herm(@) for any c*-algebra a
+
+Suppose now that zo = Proj(H). Since a real-valued observable
+on zo is defined to be a g-homomorphism from the Borel algebra of R
+to Z, it follows from von Neumann's spectral theorem that such observ-
+ables are in 1-1 correspondence with the hypermaximal Hermitian
+
+operators on H. Furthermore, the partial algebra Fn of bounded measurable
+
+--- Page 61 ---
+60
+observables associated to “3 is isomorphic to the partial algebra
+Herm(B(H)) of bounded Hermitian operators on H. Similar results
+clearly hold for 2! = Proj(@), where 7 is a von Neumann algebra.
+The next problem is to describe the probability measures on Z*,
+Clearly, every unit vector 4 € H determines a probability measure
+
+on 2 by the formula Hy (P) = (Pho). is called a vector state
+
+By, Hy
+on £4, One can also form countable convex sums of vector states to
+
+obtain more general states yp = 5 Wihy - Such a yp can alternatively be
+cf!
+
+defined by the formula by (P) = Tr(PW), where W is a von Neumann density
+matrix (i.e., W is a positive self-adjoint operator of trace 1). One
+naturally asks if these are all the probability measures on 2%, For
+H = c? the answer is a definitive no! One can embed the logic Proj (C7)
+into a Boolean algebra and thereby obtain lots of dispersion free
+probability measures on Proj(C”). Thus, for H = c? one can contradict
+the Heisenberg uncertainty relations and also construct classical
+"hidden variables" models which are strict reductions (see [2] and
+{41]. In 1957 Gleason showed that for dim H 2 3 all probability
+measures on Proj(H) can be represented by von Neumann density matrices.
+That Proj (C“) is not "really" a quantum mechanical logic should
+come as no surprise since its diagram of Boolean subalgebras is an
+(uncountable) disjoint collection of copies of the Boolean algebra
+(O-P-1) with all the subalgebras (0-1) identified. One needs more
+"coherence" in 2 before one obtains truly non-classical phenomena.
+iS 2! = Proj(@), where @ is a von Neumann algebra with discrete center,
+
+then @ decomposes into a discrete direct sum of factors, @ = ans and
+
+--- Page 62 ---
+61
+
+any pure state on @ is determined by a pure state on one of the an:
+
+If oe ~ B(H,)> then every pure state on @ is determined by a vector
+
+in H = @H,, which lies in one of the H,'s- Under these circumstances,
+physicists say that there exist super selection rules. If the center
+
+of @ is continuous, then there are no pure states on Proj(@). This
+
+is a very embarrassing circumstance from the traditional point of view
+which considers only pure states as representing individuals and maximum
+knowledge. It provides no embarrassment - and even a strong argument
+
+in favor of - our point of view where any probability measure on zi
+
+might represent total possible knowledge of individuals.
+
+--- Page 63 ---
+62
+
+We haven't even mentioned yet what was for Dirac the essence
+of Quantum mechanics: namely, the principle of superposition of
+states. Since, by Gleason's theorem, the pure states on Proj (H)
+are determined by elements of H, if we are given a family
+Cy, 3 of pure states on Proj(H), then we can form new pure state
+iy with W= De; e€ H. Hy is called a Quantum mechanical
+superposition of the Hy, ° This process is different from the
+process of forming classical superpositions such as y=D oe In
+general, if $= {uy} is a collection of states on #. then
+we will (following Varadarajan [81]) say that yw is a super-
+position of the states in § if Hy CP) = 0 Yue &- w(P) = 0.
+
+In the classical situation fin B(X), the pure states correspond
+
+to probability neskives. 6, concentrated at points ae¢X
+
+(assuming X is "reasonable"), all probability measures are
+superpositions of the pure ones {6,35 but 6, is not a superposition
+of {6,1 |a' # a}. In the Quantum mechanical case, if w= — c,y,;
+
+then is a superposition of {Hy }. So, Quantum mechanics is
+3
+
+Hy
+distinguished from classical mechanics in the fact that even pure
+states can be superpositions of each other.
+
+Our next task is to determine the automorphism group of re
+We first assume that wa Proj(H), where H is a complex separable
+Hilbert space of dimension 23 (similar results hold over the reals
+and quaterions). Then it can be shown that every automorphism of
+Proj(H) is induced by a unitary or Kak ~eReRD transformation of H.
+Automorphisms of Za induce convexity-preserving automorphisms of
+
+Prob (9). Conversely, every convexity-preserving automorphism of Prob(.2°
+
+is induced by an automorphism of 2, But we renind the reader that from our
+
+--- Page 64 ---
+63
+
+interpretation of probability, there is no physical argument in favor
+of assuming that the maps of Prob (£9) that we are interested in are
+convexity-preserving unless we can give physical motivation for their
+being induced by maps of ane
+
+We expect the following general phenomena to hold for the cases
+zo = Proj (2), where a is a von Neumann algebra, and 7, = Herm(@), where
+aqisa c*-algebra. First
+from the partial states on ae s@,), to the probability measures on
+Pro; (2), where g is the universal enveloping von Neumann algebra of @.
+If a doesn't contain Ip as a direct summand, then this would show that
+every partial state on a, is actually a state, i.e., linear even across
+
+non-commuting elements, if every probability measure on such a
+
+von Neuamnn algebra determined a state. Second,
+
+Prob(Proj(4)) ~ Prob(Proj (B))
+
+A A
+is induced by a positive partial linear map f:B - @, and, furthermore,
+if i is an isomorphism, then f is a partial isomorphism, and hence
+
+induces an isomorphism
+A
+f£: Proj(B) - Proj(@).
+
+If g is a factor (not Ig); then every partial homomorphism of 2
+is actually either a homomorphism or an anti-homomorphism. It would
+be interesting to know to what extent these hold for exceptional
+
+partial algebras.
+
+--- Page 65 ---
+64
+
+§3.2, Dynamics.
+
+The dynamics of a system is usually described by - assuming
+that we have an action of R on Prob(#) by convexity-preserving
+automorphisms. As was seen in §3.1, this is equivalent to having
+a one-parameter group of automorphisms of Z. For fs Proj (H),
+one can show that every such group of automorphisms can be induced
+by a (strongly continuous) cheated group of unitary trans-
+formations of H, U,. By Stone's Theorem U, = oe. where H
+is an Hermitian operator called, by analogy with classical mechanics,
+the Hamiltonian of the system, and assumed (defined) to be the
+observable representing the energy of the system. H is determined
+up to an additive constant by the action of R on Proj(H).
+Differentiating yields the abstract form of the Schrodinger
+
+equation ov . -iHv. In the more general situations of f~Proj (2)
+
+ot
+or a Herm(@), Kadison has shown that one-parameter groupS a,
+of convexity-preserving automorphisms of Prob (£%) or #(a,) are
+still induced by one-parameter groups a, of convexity—-preserving
+automorphisms of Zt or a €Kadison also: assumes-#2---2=* atariel. vs
+that all partial states are states). But in these more general
+cases, a one-parameter group of automorphisms of a may not be
+induced by a — group of unitary operators in a, LO ing
+there may be no observable "energy". On the other hand, if each
+automorphism Oy of the one-parameter group is inner (i.e., induced
+by a unitary operator in a), then-under physically reasonable
+hypotheses-the one-parameter group is generated by a one-parameter
+unitary group UL= gee and there is an observable energy H
+
+A
+in q (possibly unbounded).
+
+--- Page 66 ---
+65
+
+Up to now our model of the experimental process is that of a
+box with a timer and buttons: the timer is set to any time ty eR
+and a button Ay is pressed yielding a result ,* , and then
+the box blows up (see §1). But suppose instead that the box has
+many timers and that we could set them for various times tye R
+and choose various buttons Ay such that we obtain a sequence
+of values as hy. before the box blows up. What are we to do?
+The logically most consistent approach is to begin afresh and
+consider the sequence {(t,, A,)} as a single new experiment. We
+would thus be led to introduce entirely new surface and depth
+logics. But there is also a more conservative approach which often-
+put not always-suffices. Suppose that the state of the system
+is initially ype Prob(Z°). Then at time ty the state will be
+is pressed and "Ay is recorded, it may be
+
+ib
+reasonable to assume that the system has been thrown into a new
+
+Or, 6H): After A
+
+state which depends upon the old state ot Sw) and the result i
+the dependence being either deterministic, stochastic, or just
+restrictive.
+
+After the experiment is completed, the new state evolves
+as if nothing had happened, i.e. via a, - Let us try to clarify
+the situation with some classical examples. A coin can usually
+be tossed repeatedly, but one doesn't usually introduce a complex
+depth logic which would incorporate the potential interdependencies ~
+Instead, one usually assumes that the process of tossing the coin
+has a negligible effect on‘its intrinsic bias. Thus, one usually
+
+assumes that the new state of the coin is equal to its old state.
+
+Suppose, instead, that after being tossed a coin is totally biased
+
+--- Page 67 ---
+66
+
+in favor of the result obtained, and that its bias evolves in
+time according to
+
+G - » if pes
+
+aie
+i]
+
+Qea) if p=
+
+nie Nie
+
+where p is the probability of a heads. Such a coin, if left to
+itself, seeks to become unbiased. Note, also, that the time
+semi-group is not acting in a convexity-preserving way on the
+states. If a box filled with such coins is shaken after a long
+rest, then one would expect approximately equal numbers of heads
+and tails to result. But if by chance there is a preponderance
+of heads, then upon an immediate retrial one would expect the
+preponderance to be sustained. One could generalize this example
+by Supposing that the bias has only a probability of changing
+after a toss.
+
+Now let us return to quantum mechanics. Let A be an Hermitian
+operator with discrete non-degenerate eigenvalues= {@, } and
+associated eigen-vectors {¥ }. Then a standard assumption in
+quantum.mechanics is that no matter what the original state yp
+is, the state after A is measured and a; is obtained will
+be py - This assumption of "reduction of the wave packet" makes
+the armen mechanics system behave in a manner analogous to our
+coins which become totally biased after having been forced into
+making a decision. If A has degenerate or continuous eigenvalues)
+then one only obtains the restriction that if the measured value of
+
+A lies in ECR, then the new state is for some W ¢€ Pp,
+
+By
+where P3 is the spectral resolution of A. Many paradoxes
+
+ws acral nes Sta Oe Sew ean NN
+
+--- Page 68 ---
+67
+
+of quantum mechanics, Such as those of Schrodinger's cat, Wigner's
+friend, and the E.P.R.,can be traced to the hypothesis of reduction
+
+of the wave packet.
+
+--- Page 69 ---
+68
+
+§3.3. The Quantum Theory of Particles.
+
+We will now consider the quantum mechanical notion of a
+particle. Suppose we have a system which has a position observable
+Q which yields a result in R° and that the system is invariant
+with respect to an action of the Euclidean group E3 (= the group
+of transformations of R® generated by translations and rotations),
+i.e., we are given actions of E on Lab, R°, ry such that the maps
+
+P and Lab - Prob (2°) are equivariant, where the action on
+
+a(R) al
+Prob (£°) is the natural one induced by the action of E, on z.
+
+In the classical case one usually takes 2 2 a(T*R) with the action
+
+of E, on T*R? induced by its natural action on R® and the inclusion
+B(R°) —> (T*R?) induced by the natural projection map T*R? - R°, In
+
+the case of the standard quantum logic 2! = Proj(H), one can show
+
+that there is a natural 1-l correspondence between isomorphism
+
+classes of equivariant maps (e(R°) ,E3) ad (Proj (H) , E3) (called systems
+
+of imprimitivity for (6(R*) ,E5)) and isomorphism classes of (projective)
+representations of SO(3). If V is a (projective) representation of
+so(3), then the system of imprimitivity corresponding to it has a
+natural representation in L7(R?,v) = L?(R3) @® V. Usually one pays
+special attention to the "irreducible" systems of imprimitivity, i.e.,
+those for which B(H) is the smallest von Neumann algebra containing
+
+the projections P, for E € B(R°) (i.e., the projections occurring in
+
+the spectral resolutions of the position observables) and also the
+
+projections occurring in the spectral resolutions of the momentum
+
+observables (i.e., the infinitesimal generators of the unitary
+
+--- Page 70 ---
+69
+
+one-parameter groups inducing the one-parameter groups of auto-
+morphisms of Proj(H) which are determined by the one-parameter
+sub-groups of E3). In other words, if t:(6(R®) , B5) oe (Proj (H) , E,)
+
+is an irreducible system of imprimitivity, then every observable
+
+in Herm(B(H)) is a "function" of the position and momentum observ-
+ables. (Note that this notion of function is purely mathematical and
+not physical; it depends upon the full algebra (and Ww’) structure
+
+of B(H) and not only its (more physical) partial algebra structure.)
+
+Given {| : (e(R*) , E5) ~ (Proj(H,),E3) (i = 1,2), then we can form
+= 1 © fo: (B(R*),E,) ~ (Proj(H, © Hy), E5)
+
+as follows. For g ¢€ E3 let u, (8) be a unitary operator on Hq, inducing
+the action of g on Proj (H, ). (Since Es is a connected Lie group, every
+element of it is a square, and, hence, when E, acts as an automorphism
+group of Proj(H), each such automorphism is induced by a unitary
+operator on H.) Let U(g) = U, (g) io) Ug (g) be the direct- sum unitary
+operator on H = Hy ® Ho, and let E3 act on Proj(H) via the induced
+action determined by U(g). For E € a(R’), let ¢(E) = t, (E) @ &o(E).
+Then § is equivariant. Given an arbitrary family {t,}, one can similarly
+define 8t;- Note that this construction would not work in general for
+the unrestricted Euclidean group which contains the reflections and
+
+is thus not connected because if r is the reflection about the x-axis
+and if 0 (r) is induced by a unitary operator U,(r) and lo (r) is induced
+by an anti-unitary operator U3 (r), then U,(r) © Uy (x) is neither uni-
+
+tary nor anti-unitary, and hence does not determine an automorphism of
+
+1
+Proj(H)! Moreover, even for E, =k the construction is not well defined
+
+--- Page 71 ---
+70
+on isomorphism classes of representations since t,(t) = @tHt and
+to(t) = elHt are anti-unitarily equivalent actions of R! on H,,
+and hence are isomorphic actions on Proj(H;), but €, © €, is not
+isomorhic to C1 ® Ci: The importance of the direct sum construction
+lies in the fact that every system of imprimitivity for (e(R*) ,E3)
+is isomorphic to a direct sum of irreducible such systems, The
+irreducible systems of imprimitivity for (8(R°) Eg)
+correspond to the irreducible (projective)
+representations of SO(3) and these are standardly denoted by D;» where
+j is a half integer. The dimension of D; is 2j+l and the representation
+is an ordinary one if and only if j is an integer. In any case,
+associated to any system of imprimitivity for (8(R°) , Ey) (in a complex
+Hilbert space H) we have the special observables of position Q,5
+momentum Pos and angular momentum J, (these observables are associated
+to (unbounded) Hermitian operators on H). One can now derive the
+Heisenberg commutation relations [Q;,P;] = -/-1, and hence the
+Heisenberg uncertainty relations QR, * 5 21/2. Note that these
+uncertainty relations say nothing about ones ability to make simultaneous
+measurements of Q; and Pi 3; in fact, the non-vanishing of [Q, .P;]
+implies that Q3 and Ps are incompatible. These uncertainty relations
+are purely statistical scatter relations governing the statistics of
+independent measurements of Q; and Pi The main theorem required for
+the above derivation is Gleason's theorem asserting that the probability
+measures on Proj(H) can all be represented by density matrices. Given
+
+this, one can easily show (using the Schwartz inequality) that
+
+AAAB 2 1/2|([A,B])|. To obtain the commutation relations [Q,,P,] =-/-1,
+
+--- Page 72 ---
+Ts
+
+one considers the special representation of (6(R*) Eg) - (Proj (H) ,E3)
+in £7 (R°) ® V. In this representation, E € a(R?) goes to the pro-
+jection operator corresponding to multiplication by its characteristic
+
+function Xe Hence, Q; is represented by multiplication by x P
+
+£° ped
+the infinitesimal generator of the one-parameter group of translations
+in the x, direction, is represented by a a « One thus obtains
+z fied Ox;
+
+the commutation relations. The infinitesimal generator of the one-
+parameter group of rotations about the X3-axis has the form
+
+1
+Je = Le + Sq = — (x
+3
+3 3 / 3
+
+¥ 2 = ~ Xy =, + Sg; where S3 is an Hermitian
+operator on V. L3 is called the orbital and S3 the intrinsic spin
+angular momentum of the particle, A natural question to ask at this
+point is whether or not there is a classical analog of the intrinsic
+spin of a particle. That the answer is yes is quite recent! If
+
+one thinks of a particle as a small billiard ball, then it is natural
+to assume that the particle can rotate. This leads one to replace
+
+the configuration space R° by the configuration space R° x SO(3).
+Quantizing yields a natural action of E, in LR? xs0(3)) iP L?(R?)eL7(so(3
+Here one has, besides the basic observables Q;; P, L;, and Sj> also
+new observables detecting the orientation of the particle. But not
+every system of imprimitivity for (e(R°) ,B5) is of this form. In
+particular, the system corresponding to the (projective) representation
+D; of SO(3) is not of this form. In L?(R?) @ D, we have the extra
+angular momentum observables 85, but we do not have any extra orienta-
+tion observables. Classically this corresponds to replacing the phase
+
+3 3
+
+space TR by TR Xx s", where BE, acts on s? via the natural (symplectic
+
+action of SO(3). The closed two-form yw on s? defining the symplectic
+
+--- Page 73 ---
+72
+
+structure also defines an area element. Let s = A w If s is an
+s?
+
+y " re es 2
+
+integer, then one can quantize T R x S and obtain a system of
+
+imprimitivity for (a(R*) ,E5) which corresponds to Ds Thus,
+
+/2°
+
+the classical analog of the quantum mechanical system corresponding
+
+to D
+j
+
+instead, a point particle having extra pure angular momentum degrees
+
+of freedom in s?. 7*R? 2
+
+is not an extended billiard ball type of particle, but,
+and TR x s? are the only Euclidean invariant
+symplectic manifolds over R° whose points are separated by the functions
+corresponding to the basic observables Q,> Pi, Jj. One thus refers
+to these systems as "elementary" (sumplectic) systems of imprimitivity
+for (e(R*) , Eg). s” is an elementary system for SO(3), and one can
+also obtain elementary systems for E3- By and large, we feel that
+too much emphasis has been placed upon the "elementary" systems and
+not enough upon the composite or reducible systems (such as
+t*(R® x so(3)) = R°).
+
+There has been much recent work in extending the above anaiysis
+to cases where (Rg, Eg) is replaced by some other pair (M,G), and even
+further to cases where one is only given the classical phase space
+P (assumed to be a Symplectic manifold). In a different direction,
+if one assumes that 23 = Proj(@), where & is a von Neumann algebra,
+and that E3 acts via inner automorphisms, then von Neumann's theorem
+concerning the essential uniqueness of the representations of the
+Heisenberg commutation relations implies that @ contains a direct
+sum of | and that on each summand we have a standard Schrodinger
+representation, We don't know whether or not there exist other systems
+
+of imprimitivity for (g(R°) , Eg) in Proj(#), with Ez not acting by
+
+--- Page 74 ---
+73
+
+inner automorphisms,
+
+The main point, so far, is that the physicist’ standard quantum
+kinematical description of a particle - including the Heisenberg
+commutation relations and uncertain principle, the Schrodinger
+representation in terms of wave functions on R°, the notion of the
+intrinsic spin of a particle, and the superposition principle - follows
+
+from the single assumption that “a
+
+= Proj(H) together with standard
+Symmetry assumptions! We shall now go further and assume that the
+dynamics of our system is compatible with its kinematics, i.e., that
+the action of the one-parameter time group T on 2! commutes with
+the action of E3 on 2, If our system of imprimitivity is the one
+corresponding to Do and represented in 25(R°), then, by using Fourier
+transforms, one can show that the Hamiltonian H = g (Pi +P54P) = g(-97),
+where g is some Borel function on iaget If one assumes that g is smooth
+and approximates it by its first order Taylor expansion, then one has
+2 32 2
+
+H ~ g(0) - g'(0)0" =v, - me (p+ 3
+Oxy oXo dX
+
+. Hence, to first
+order, one obtains the usual Schrodinger equation
+
+; i 2
+ob = -iny = 52 Vp - iv,b -
+
+For the case of higher spin D; one can show - using the theory of
+group representations - that H is determined by 2j+1 real-valued
+functions on R*,
+
+What we have, in effect, assumed is that the action of E3 on Pi
+extends to an action of the Newtonian space-time group E3 x T on 2",
+
+One can go further and assume that the action of Ey extends to an
+
+--- Page 75 ---
+74
+
+action of the Galilean or Lorentz group.In the case of the Galilean
+group, one can show that H = = = v. For the Lorentz group, one
+has various possibilities, but , in any case, one always has the
+
+mc* - c2y, More generally, one considers (projective)
+
+relation #2 =
+representations of a space-time group G, whether or not they extend
+
+a system of imprimitivity for (g(R°) Ey). Irreducible such representa-
+tions are often said to describe "elementary particles". But the
+
+term elementary systems is often more appropriate since these systems
+often lack many of the properties that we usually associate with the
+word particle. For example, the representations of the Lorentz group
+which are thought to describe photons, neutrinos, and gravitons cannot
+be localized, i.e., they do not extend a system of imprimitivity for
+(2(R*) , Ey) (nor even one for (a(R*),G)). The corresponding classical
+phase space for these systems is R? x s? 3; we thus have energy,
+momentum, and angular momentum observables for these systems, but
+
+no location observables. Other representations of the Lorentz group
+are often said not to be of physical significance since they imply
+
+that the energy may be negative, or always zero, or that the mass
+parameter may be imaginary. We feel that these are inadequate grounds
+for eliminating the consideration of these representations; in fact,
+
+we shall shortly see that many of these representations occur in the
+
+decomposition of certain natural occurring reducible representations
+
+of G.
+
+--- Page 76 ---
+75
+
+So far we have considered physical systems which are described
+using systems of imprimitivity for (e(R°) ,E) or representations of
+the (inhomogeneous) Lorentz group. One can also consider systems
+whose description requires a system of imprimitivity for the Lorentz
+gropp. Suppose we have an experimental setup which yields an "event"
+in Rt and admits the Lorentz group L as a symmetry group. Such a
+system will be described by a system of imprimitivity for (g(R*) ,L).
+Systems of imprimitivity for (e(R*,L) are classified by the
+(projective) representations of the homogeneous Lorentz group L.
+One will now have a time observable T along with the position
+observables Q;. Thus, one will also have the commutation relation
+[T,H] = i, and hence the (much used) uncertainty principle AT-AH 2 1/2.
+The resulting representation of L will not be irreducible. Furthermore,
+representations usually ignored in particle physics will occur in its
+decomposition as a direct integral of irreducibles. It is quite
+possible that phenomena such as resonances might be better thought
+of as "events" rather than "particles". Even the electron is not
+completely particle-like. At any time we choose, we will find "it"
+somewhere; but there are no paths. One can construct a quantum
+mechanical theory of particles with paths. Let C be the six dimensional
+homogeneous space of time-like lines in R*, L acts transitively on C.
+Systems of imprimitivity for (@(C),L) have the most right to be said
+to be describing "particles". Such systems are classified by (projective
+representations of SO(3) x R. Of course, the associated representation
+of L is not irreducible. Other possibilities readily come to mind --
+
+in particular, theories based upon time-like, light-like or space-like
+
+--- Page 77 ---
+76
+
+lines or hyperplanes. These theories should be systematically
+investigated. In any case, they show that one can have a quantum
+
+mechanical theory of particles with continuous paths.
+
+--- Page 78 ---
+77
+
+§3.4. Examples.
+In this section we shall show how our formalism works on some
+
+standard examples.
+
+Example 1. Consider first a particle moving in a potential
+
+well described by the graph (3.4.1). What this means
+
+V
+
+lo 12345
+i= Q
+(3.4.1)
+
+is that we have a basic location observable Q represented by the
+unbounded Hermitian multiplication operator Mo acting on ¥ = 27 (RW).
+Translations on ri generate a one-parameter unitary group on ¥ whose
+infinitesimal generator is t _ = PP. One now assumes that the dynamics
+is generated by the Hamiltonian H = os + My. Of course, one has to
+check that this sum defines an Hermitian operator on ¥. Furthermore,
+one should note that since V is not translation invariant, the space
+and time translations will not commute; hence momentum may not be
+conserved in time. Suppose one has prepared the system so that if
+
+a position measurement is done at time T = O, then the result recorded
+is always approximately 2.5. One usually describes this stiuation
+
+by saying that at time T = O the particle was in the potential well.
+
+One might describe the particle's state by using a wave function as
+
+--- Page 79 ---
+78
+
+graphed below.
+
+0 & 2°23 7S
+
+(3.4.2)
+Suppese that at time T = 1 one sometimes finds the particle outside
+the well. Then its wave function might look like the following graph.
+(We aren't actually solving the wave equation - the points we are
+
+trying to make are qualitative and not quantitative).
+
+rll?
+
+04 2 3 A
+(304.23
+
+One usually describes the above situation by saying that the particle
+which at time T = O was inside the potential well has a non-zero
+probability of "tunneling" out. There are several problems with this
+(colorful) language from our point of view. First of all, if we do
+not make a position measurement at time T = O, then Q has no value at
+time T = 0, even if tke probability was 1 that had we made the measure-
+ment the value would have been 2.5! Secondly, if we do measure Q at
+
+T = 0, then we may destroy the system and not be able to make any further
+
+--- Page 80 ---
+79
+
+measurements. Thirdly, the language suggests that we are talking
+
+about a system whose basic observable is a continuous path, whereas
+
+the theoretical formalism being used doesn't contain any path questions.
+(This is also true of the usual Hamiltonian formulation of classical
+mechanics.) Strangely enough, the standard language of the physicist
+is often more compatible with some of the hidden variables models
+
+(such as those of Bohm and Nelson) than it is with the Copenhagen
+interpretation of Quantum mechanics, (In spite of this, we have
+
+found physicists react very negatively when such hidden variables
+
+theories are mentioned.)
+
+Example 2. We will now consider the classic two slit experiment.
+Suppose that at time T=O we find the particle in region A with pro-
+bability 1/2 or in region B with probability 1/2 (see diagram
+
+(3.4.4); and that at time T= 1
+|
+64.4)
+
+we find the particle in region C with probability 1. If we do a large
+ensemble of experiments at time T = 1, then what pattern will emerge?
+
+If our particles were billiard balls, then one would expect to see the
+
+solid line curve below emerge.
+
+
+--- Page 81 ---
+80
+
+A similar experiment involving waves would yield an interference
+
+pattern such as figure (3.4.6).
+
+If the experiment is done with electrons, then pattern (3.4.6) emerges
+even though at each repetition of the experiment a single location is
+observed. A classical model that would reproduce these results can
+
+be obtained by considering bubbles on water, the bubbles lasting
+
+only for a short time and their density being proportional to the
+
+wave intensity. Bohm and Nelson have other semi-classical models.
+
+If we assume that we are looking at a quantum mechanical particle,
+then at time T = O the wave function y € £7 (R°,W) would have support
+in AUB. Let
+
+w(x) if x€A
+v(x) =
+4 0 if x ga,
+and
+w(x) if x €B
+p(x) =
+oO i?) =e BB.
+Then y = va + dp: since Af\B = 98. This sum is a purely mathematical
+decompésition: y is a normalized state, but vy and bp are not normalized
+states. Of course, by, is a "quantum mechanical" superposition of Hy
+A
+
+and yin the sense described previously. But here we are focusing upon
+
+od, and p, and not upon wy, and yw, . By Wigner's theorem, the time
+= Ys bp
+
+--- Page 82 ---
+81
+
+evolution is represented by a one-parameter unitary group U, acting
+upon £7(R°,W). Hence, if Hy is the state at time T = 0, then at time
+
+‘ 2 2
+T = 1 the new state will be Huy Huse," Thus, |U,¥|~ = |Uyv,+U0,|~ =
+2 2
+|Uzv,| © |U,¥,|
+
+ference term because it is responsible for the resulting pattern of
+
++ 2Re (Uz 0,4, U bp) - The last term is called an inter-
+
+observations looking like figure (3.4.6) instead of (3.4.5). This
+derivation of the interference pattern rests upon the following: the
+assumption that zo = Proj(¥~); Gleason's description of the probability
+measures on Proj(w); the Schrodinger representation of ¥; and Wigner's
+theorem that time acts linearly on ¥. Furthermore, we represented
+
+the original state by the "pure" probability measure Hy If, instead,
+
+we started with a mixed probability measure, say 5 Hy + 5 Hy then
+A B’
+
+pattern (3.4.5) would emerge. Physicists usually only consider pure
+states as describing individuals, but we have argued otherwise. It is
+often very enlightening to view these experiments from the point of
+
+view of the hidden variable theorists. One can visualize Nelson's model
+in the following way. Consider water flowing smoothly in the plane to
+the right and two metal pipes above the plane (see diagram below (3.4.7)
+
+below). The pipes can be lowered into
+
+IPES
+
+Warke Frew
+
+(3.47)
+
+--- Page 83 ---
+82
+
+the water and plastic bubbles can be released through their holes
+If one pipe is lowered, then one obtains the situation pictured in
+
+figure (3.4.8).
+
+The mixture 5 Hos + z Hyis now physically described as the result
+
+obtained when the above system is prepared as follows: flip a coin
+to determine which pipe to lower, then lower that pipe and release
+one bubble from the pipe and then record its final location using
+the bubble detector (the bubbles are made of plastic to insure that
+they live long enough to reach the detector). The superposition
+
+es, is obtained by first lowering both. pipes into the
+bP Obytd, both.
+
+water, and then flipping a coin to determine from which pipe the
+bubble should be released. In this model, as also in Bohm's model,
+
+the particles have continuous trajectories.
+
+--- Page 84 ---
+83
+Example 3. We will now consider a model of the Stern-Gerlach experiment.
+A beam of silver atoms is sent through an inhomogeneous magnetic field
+and splits into two beams. Let Q denote the basic position observable.
+
+Then, at time T = O Q is in
+
+C_)- - -@— - - -
+ennea- XA
+
+(3.4.9)
+
+region A with probability 1, and at time T = 2 Q is in either region B
+
+or C. Since the beam splits in two, it is reasonable to suppose that
+
+the state of the system is described by a two-component wave function
+
+)
+v -(¥* € £°(R° ;Dy jp). Furthermore, at time T = O one should obtain a
+
+reasonable approximation to y by considering it to be constant inside A
+and zero outside.
+
+v
+Suppose the system has been set up so that if yp -( *) at T = O, then
+
+fo)
+% ) at T = 0, then Q will be
+
+in region C at T = 2, What happens if the preparer is rotated? The
+
+Q will be in region B at T = 2, and if y = (
+
+projective representation of SO(3) on Di /2 can be induced by a unitary
+representation of Spin(3) = SU(2). Let R € SO(3), and let R € Spin(3)
+such that n(R) = R, where w:Spin(3) - SO(3) is the double covering
+homomorphism. Then, if the old wave function had value y in A, the new
+
+wave function will have value Ry in A. Since Ry = by, + cy_is a
+
+--- Page 85 ---
+84
+
+superposition of v, and y_, and the evolution of the system is governed
+by a unitary one-parameter group, at T = 2 Q will be in region B with
+probability |p|, and in region C with probability jc|?. This prediction
+has been tested and is confirmed. One can similarly deduce the con-
+sequences of rotating the magnet. Note that nowhere in this discussion
+is it necessary (or possible) to picture a silver atom as a tiny spinning
+
+top.
+
+--- Page 86 ---
+85
+
+§3.5. The Quantum Theory of Interacting Particles.
+
+In the previous sections we've considered the quantum theory of
+"individual isolated particles." But the world - as seen by the
+physicist - is composed of many particles undergoing complex inter-
+actions, Suppose, to begin with, that we consider the case of two
+"particles". What should the basic observables be? There are two
+natural choices. Clearly, the locations of the particles will yield
+a pair of points in R°. If our detecting devices can distinguish the
+two particles (for examplé, the particles might have different colors, or tastes,
+or charges), then our basic observable will yield a result in R°. If
+we cannot distinguish the particles, then our basic observable will
+yield a result in the space of (unordered) pairs of points in R°. In
+either case, it is natural to assume Euclidean invariance. In the
+first case one might go further and assume invariance under 83 x $3-
+This larger symmetry group would be appropriate if we had two separate
+preparing devices and two separate arrays of detectors,one for each
+particle, all of which could be independently acted upon by 83 (see
+
+diagram below),
+NE Ae ee
+
+——S 2
+i: nl
+ii te Dy
+
+u u U u =D,
+and we discovered that moving PD, by &4 € 63 and PD, by So € 83 had the
+
+same effect as moving Dy by si; and Do by ZS. This would certainly be
+
+the case for "non-interacting" particles. (But, of course, we wouldn't
+
+--- Page 87 ---
+86
+
+call particles non-interacting unless this was the case!) In this
+case, one can show that the irreducible systems of imprimitivity for
+(Rr? x R°, és x 83) all naturally decompose into a tensor product of
+two one-particle such systems. A similar result holds for a system of
+N particles based upon cr? x R° X wom X R°, 83 x 83 R cam 63). If
+
+we have only one preparing device (see below),
+
+Pp —=+ \ \
+
+Ut ey
+
+then one might discover that moving PD by g has the same effect as
+
+moving both detectors Dy and Dp by a. In this case we are looking
+
+for systems of imprimitivity for (rR? x a, 83), where 8, acts on
+
+R° x R° via the diagonal map 83 Sad é x 33. Here, $, is not acting
+transitively on R° x -. What do all the systems of imprimitivity for
+cr? x R°, 83) look like? Those which come from a system of imprimitivity
+for (rR? x re 83 x 83) by restricting to the diagonal 83 = 83 x 83 can
+
+be shown to be determined by the Clebsch-Gordan series
+
+D, @ D, = Dy 5 xj Py ju jaa Or++® Pj aie:
+There are other systems of imprimitivity for cr? x -. 63), though they
+are not usually encountered in the physical literature! They describe
+systems with a basic configuration observable in R°, but with only the
+
+momentum and angular momentum observables obtainable from the Lie algebra
+
+of 83. One can decompose such systems of imprimitivity into "direct
+
+--- Page 88 ---
+87
+integrals" of irreducible such systems. A typical orbit of R° x R°
+under 83 is homeomorphic to R° x s?. A system of imprimitivity for
+(R° x e, 83) can be thought of as describing an “oriented rigid bar."
+Possibly some binary molecules could be best described in this way.
+We turn now to the case of two “identical particles", i.e., we
+
+have the experimental arrangement (below)
+
+Pp —>\ \
+
+oi/ tl) U ee ~D
+
+where we know that exactly two of the detectors in D will record a
+positive result. Assuming Euclidean invariance leads us to look for
+system of: imprimitivity for cr? x Bilin, 83)- Two families of such
+systems are obtained by starting with a system of imprimitivity for
+(R®, 83) and forming either the symmetric or anti-symmetric tensor
+product of it with itself. These systems can be realized as spaces of
+symmetric or anti-symmetric 1 -wecxenwarewa functions on R° x R?,
+There are other natural systems of imprimitivity for (R? x 8 /tgsby).
+A typical orbit of 83 acting on R° x R°/Z, is homeomorphic to
+R° x RP’, A system of imprimitivity for cr? x RP“, 83) can be thought
+of as describing an "unoriented rigid bar". Such a system may be
+appropriate for describing molecules composed of two identical atoms,
+e.g. the hydrogen molecule Ho:
+
+The above considerations easily extend to the case of N(< @)
+particles. What about the case of infinitely many particles? (Even
+
+if one doesn't believe that any "real" system has infinitely many particles
+
+one could still be interested in exploring such models. For example,
+
+--- Page 89 ---
+88
+
+they may provide insights into the behavior of very large systems
+(N >> 0) while being computationally simpler (recall the relationship
+between the binomial and normal distributiong. ) Suppose that we have
+a preparing device and a detector and that we expect to record positions
+in a region which occur with a density proportional to the region's
+volume. Such situations occur frequently, and a theory of random sets -
+has been developed (see [53]). Let c(R?) denote the configuration space
+of infinite, locally finite subsets of R°. 83 acts naturally on c(R®).
+What are all the possible systems of imprimitivity for (c(r’), 63)?
+(Work of Mackey and Glimm shows that there is little hope of actually
+being able to "survey" all possible such systems; the best we can expect
+to do is to explicitly construct large families of such systems!) There
+are various possible topologies for c(R®); besides the one usually used
+in the theory of random sets [53], one also has an interesting topology
+which arises in geometric measure theory [20]. In this second topology,
+a small neighborhood of the "vacuum" contains configurations which are
+very complicated; the vacuum in this theory is thus more like a Jackson
+Pollack painting than an empty canvass! If we use the topology described
+in [53], then yp = Bax, where dx is Lebesgue measure on R°, induces an
+associated "Poisson" measure Lg on c(r®). 83 acts ergodically on
+(CCR) 4 ,), and hence we can obtain a system of imprimitivity for
+(c(R*) 64) in L?(C(R9) sug) As 8 varies in R*, the induced Poisson
+measures Ug are mutually singular. We thus obtain an uncountable family
+of distinct systems of imprimitivity for (c(R*) 83). There are many
+more such systems!
+
+So far we've only described the kinematics of interacting particles.
+
+The possible dynamics of interacting particles can also be obtained
+
+--- Page 90 ---
+89
+
+from the group theoretic point of view. Of course, at this point, it
+becomes more natural to replace the Newtonian space-time group 3 x -T
+by the Galilean or Lorentz group and to also consider theories of
+interacting events and trajectories. Such analyses are capable of
+deriving the standard Schrodinger and Dirac equations for N-interacting
+particles. Thus, after a long arduous journey requiring some of the
+deepest results of modern mathematics, we arrive at the place where the
+physicist usually begins! But this trip is well worth taking, because
+in making it, we gain a much deeper understanding of the physicist's
+usual starting point. The trip also suggests other possible starting
+points.
+
+One is now in a position to reap a fantastic harvest. By studying
+the Schrodinger equation with a Coulomb interaction potential, one
+can obtain the spectrum of atoms, molecules, positronium, munomium,
+etc. One can obtain a theoretical understanding of valence and of
+the periodic table. The structure of small molecules can be
+directly predicted, and at least qualitative insights can be
+obtained for the structure of large molecules. These successes have
+been repeated in the study of the structure of nuclei and more
+recently in the study of hadrons. With the recent proliferation of
+quarks having various "flavors, colors, and tastes", one can
+anticipate a similar theory of quark chemistry based upon an even
+more fundamental sub-domain. In all these theories, symmetry
+winciples and group theory play a fundamental role. The importance
+of group theory in analysing these phenomena was first clearly seen
+
+by Weyl B4] and Wigner [90] (see the surveys by Michel and O'Raifeartaigh
+
+--- Page 91 ---
+90
+
+in [98]). All that is further needed for a fundamental comprehensive
+understanding of the physical world is quantum statistical mechanics
+
+and quantum field theory.
+
+--- Page 92 ---
+91
+
+§3.6. Quantum Statistical Mechanics,
+
+The goals of quantum statistical mechanics are identical to those
+of classical statistical mechanics: to derive the bulk properties of
+matter starting from an underlying atomic model. For example, one might
+model a container of gas by first assuming the existence of a microscope
+capable of yielding "the locations of the atoms in the gas", i.e., a
+microscope which outputs a finite subset of the region enclosed by the
+container. If one now assumes. that one is looking at a "composite system
+of interacting quantum mechanical" particles, then one is led to the
+standard description of such a gas. The main problem with this program
+is that the Gibb's state describing a gas in equilibrium turns out not
+to be a pure vector state, but, instead, an impure density matrix state.
+The problem of justifying on the basis of first principles the use of
+the various canonical ensembles is the same for classical and quantum
+statistical mechanics (see [10 for a thorough discussion of the teantam
+tions of both classical and quantum statistical mechanics). We feel the
+"cure" is also the same: to consider all probability measures on our
+logics as capable of describing individual systems and to allow the
+dynamics to be governed by a stochastic process. In this way the many
+successes of quantum statistical mechanics (e.g., its theories of the
+specific heats of gases; of black body radiation; of plasmas; of low
+temperature phenomena; etc.) can be obtained from first principles without
+having to have recourse to (probably sees eeketient) ergodic theorems.
+
+Over the past decade there has been a great deal of activity in the
+study of the limiting properties of atomic models as the number of atoms
+N goes to infinity, (i.e., in the thermodynamical limit see [104]). In
+
+fact, interest has focused upon the explicit construction of models
+
+--- Page 93 ---
+92
+
+containing an infinite number of particles. In these models one can give
+very precise mathematical definitions of phenomena such as phase coma
+tions. Wilson's pioneering work on the renormalization group appears to
+be leading to a satisfactory understanding of many such critical phenomena
+(see [94]). In the study of these models one is led away from the
+standard assumption that ie = Proj(H). Instead, one typically assumes
+that one has a diagram {@, }, where A varies over the bounded subsets of
+
+R° Cor e, or R4, etc.) and where ie is the partial algebra of continuous
+A
+real-valued observables in A. One also assumes that the diagram {@, 3
+A
+
+is isomorphic to the subdiagram of Hermitian elements in a diagram of
+
+C*-algebras {A,}, i.e., that {@, } = {Herm (A ,) }. Instead of working
+n
+
+directly with {Herm (A ,)}, one usually works with Herm(A_), where A_ is the
+
+*
+direct limit C -algebra, Lim {A One of the usual reasons for passing
+
+a}:
+to the direct limit A_is that one can assume that the natural action of
+the Euclidean group 83 on R? induces an action on A, (and, as we've seen,
+symmetry principles are crucial for obtaining results). But $3 also acts
+naturally on the diagram {A 4} if it is thought of as an object in the
+category ginj-(C*-algebras) . One could thus create a satisfactory theory
+based upon the diagram {A 43. while avoiding having to introduce certain
+
+extra ad hoc assumptions to eliminate consideration of "unphysical" states
+
+on AL (see, for instance, the discussion by B. Simon in [69]).
+
+--- Page 94 ---
+93
+
+§3.7. Quantum Field Theory.
+
+The original goal of quantum field theory was to describe such
+phenomena as the interaction of electrons with the electro-magnetic
+field. From the very beginning, all non-trivial models were plagued
+with infinities. This provoked some to attempt to abandon the con-
+tinuum and to work with discrete space-times or to make other radical
+departures from the traditional formalism. But the collection of
+ad hoc tricks to remove the infinities, called renormalization theory,
+yielded such accurate predictions that it was clear that there was
+at least some "truth" in the traditional formalism. The traditional
+formalism assumed the existence of observable fields o(t,x) and n(t,x)
+
+obeying the canonical commutation relations
+
+[o(t,x),e(t,y)] = O = [wlt,x),n(t,y)]
+(3.7.22 [o(t,x),a(t,y)] = ihe(x-y) ,
+
+and of a Hamiltonian given (for example) by
+
+(357.2) n= f [n? + (ve)? + my" + do“ Jax .
+
+R°
+For systems having finitely many degrees of freedom, von Neumann showed
+that the corresponding Heisenberg commutation relations (in Weyl
+form) had a unique representation; but von Neumann's result does not
+extend to systems having infinitely many degrees of freedom. In fact,
+work of Mackey and Glimm shows that there are so many representations
+of (3.7.1) that they cannot even be parametrized by countably many
+
+real-valued parameters. Thus, one cannot "Survey" all the possibilities
+
+The traditional favorite was the Fock representation. But, during the
+
+--- Page 95 ---
+94
+
+the 1950's it was realized that the Fock representation could almost
+never be used to describe Euclidean invariant interacting systems
+(e.g., one in which sense could be made of (3.7,2)). Over the past
+ten years one has learned how to make (3.7.1) and (3.7.2) precise,
+at least in two-dimensional space-time (see [66]). In four-dimensional
+space-time there are arguments which suggest that the equal time
+commutators in (3.7.1) will not exist in interesting models (even
+after being smeared in the space variables). Thus, one will have to
+begin by making more basic assumptions, (Note that in our approach
+the commutation relations for systems of finitely many degrees of
+freedom was not a basic assumption, but, instead, a consequence of
+looking for systems of imprimitivity for (n°, £3) .)
+
+In general, a (smeared, scalar) field is defined to be an assign-
+ment f - o(f) of a real-valued observable o(f) to every test function
+f on space-time from an appropriate space , of such test functions
+(e.g., the rapidly decreasing C*-functions). The assignment should be
+linear and continuous. One also usually assumes that the field is
+relativistically invariant (i.e., one has an.action of the inhomogeneous
+Lorentz group L on the partial algebra of real-valued observables such
+that o(g(f)) = gp(f)) and local (i.e., if {f, € 2} have space-Like
+separated supports, then the family of observables {o(f,)} is compatible
+In classical field theory one usually models a field by a continuous
+function g(x) on space-time. Associated with such a g(x) one has the
+
+smeared field f - hy f£(x)o(x)dx. Smeared fields can be very singular
+4
+R
+locally. In quantum field theory one usually assumes that ones fieids
+
+--- Page 96 ---
+95
+
+satisfy the Wightman axioms. Namely, that there is a complex
+
+separable Hilbert space of states H on which we are given a (projective)
+representation of L which satisfies the spectral condition that the
+spectral resolution of the energy-momentum vector observable is
+supported on the positive light cone. Furthermore, there is a unique
+invariant vector Yo € H (the "vacuum"), and a dense invariant domain
+
+D CH such that each o(f) is represented by a Hermitian operator on
+
+D. Major successes of the Wightman axioms include the PCT Theorem,
+
+the Spin-Statistics Theorem, and.the Haag-Ruelle scattering theory.
+
+The Spin-Statistics Theorem provides a fundamental justification. for
+
+a rule that was introduced ad hoc into particle physics and is crucial
+for the theoretical explanation of the Mendeleev table and many other
+important phenomena, The Haag-Ruelle scattering theory is important
+because in most scattering experiments one has direct information
+
+only about the incoming and outgoing states and physicists tend to
+prefer to describe the incoming and outgoing states using a particle
+
+as opposed to field language. A major weakness of the Wightman axioms
+is that there are still no known non-trivial models in four-dimensional
+space-time. Non-trivial models have been constructed in two-and
+three-dimensional space-times and they exhibit all the phenomena one
+expected of them from perturbation theory arguments. It is not clear
+at this point whether more hard analysis will yield the appropriate
+four-dimensional models or, instead, one will need a major departure
+from the Wightman axioms to obtain the desired models. One alternative
+approach is to start with the diagram of local partial algebras of
+
+observables {@,}) where A is a bounded subset of space-time, and make
+
+--- Page 97 ---
+96
+direct assumptions on its structure. Using such an approach,
+Araki [102] was able to derive an analog of the Haag-Ruelle scattering
+theory and Haag and Kastler [103] were able to give a theoretical
+
+explanation of super-selection sectors.
+
+--- Page 98 ---
+97
+
+§3.8. Final Remarks.
+
+We have presented a coherent approach to quantum mechanics which
+yields all its positive results while simultaneously short-circuiting
+all its paradoxes. For example, we have no "measurement problem".
+
+The measurement problem is avoided by not introducing the notion of
+the "system itself". Our fundamental axioms relate directly to the
+structure of the deep logic which itself represents interlocking modes
+of perceiving. E-P-R type paradoxes are avoided in a similar fashion.
+In particular, even if the probability is one of yielding the value
+
+a upon measurement of the observable A, we say nothing about "its
+value" if a measurement is not made. On the other hand, we have no
+ontology, not even when the deep logic is Boolean, We thus have an
+adequate formulation of how the world appears, but not of what it
+
+actually is.
+
+--- Page 99 ---
+i.
+
+>
+.
+
+10.
+
+ll.
+
+12.
+
+13.
+
+14,
+
+15.
+
+References
+
+Aronson, J. L. and Edwards, D. A., "Quantum Logics: I-IV"(mimeographed notes).
+
+Bell, J. S., "On the Problem of Hidden Variables in Quantum Mechanics,"
+Reviews of Modern Phys. 38, 447 (1966).
+
+Birkhoff, G. and MacLane, S., A Survey of Modern Algebra , MacMillan,
+New York, 1964,
+
+Birkhoff, G. and von Neumann, J., "The Logic of Quantum Mechanics,"
+Annals of Mathematics 37, 823 (1936).
+
+Bohm, D., "A Suggested Interpretation of the Quantum Theory in Terms
+of 'Hidden Variables’ I," Physical Review 85, 166 (1952).
+
+Bohm, D., "A Suggested Interpretation of the Quantum Theory in Terms
+of 'Hidden Variables’ II," Physical Review 85, 180 (1952).
+
+Bohm, D., "Quantum Theory as the Indication of a New Order in Physics,"
+Foundations of Physics.
+
+Bohr, N., "Can Quantum-Mechanical Description of Physical Reality Be
+Considered Complete?" Physical Review 48, 696 (1935).
+
+Bohr, N., Kramers, H. A., and Slater, J. C., "The Quantum Theory of
+Radiation," Philosophical Magazine 47, 785 (1924).
+
+Bohr, N. and Rosenfeld, L., "Field and Charge Measurement in Quantum
+Electrodynamics," Physical Review 78, 794 (1950).
+
+Bopp, F., "The Principles of the Statistical Equations of Motion in
+Quantum Theory," in S, Karner (ed,), Observation and Interpretation
+in the Philosophy of’ Physics, Dover Publication, New York, 1962.
+
+Bub, J., "On the Completeness of Quantum Mechanics," in C. A. Hooker (ed.),
+
+Contemporary Research in the Foundations and Philosophy of Quantum
+Theory, Re del, Dordrecht 197s eee; a
+
+Bub, J., "The Interpretation of Quantum Mechanics," D. Reidel Pub. Co.
+Dordrecht, 1974.
+
+Colodny, R. G., ‘Paradigms and Paradoxes: R.G. (ed.), The Philosophical Chalkr
+of the Quantum Domain," University of Pitts. Series in the Phil.
+of Science, vol. 5, (1972).
+
+Dirac, P. A. M., The Principles of Quantum Mechanics, Oxford University
+Press, London, 1958 .
+
+--- Page 100 ---
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+Domoter, Z., "The Probability Structure of Quantum Mechanical Systems,"
+Synthese 29, 155 (1974).
+
+Einstein, A., "Remarks to the Essays Appearing in This Collective Volume,"
+in PA; Schilpp (ed.), Albert Einstein: Philosopher-Scientist, Harpe
+and Row, New York, 1959.
+
+Einstein, A., Podolsky, B., and Rosen, N., "Can Quantum-Mechanical
+Description of Physical Reality be Considered Complete?" Physical
+Review 47, 777 (1935).
+
+Emch, G. G., Algebraic Methods in Statistical Mechanics and Quantum
+Field Theory, iley - Interscience, New York, 1972 .
+
+Federer, H. Geometric Measure Theory, Springer-Verlag, New York,
+(1969).
+
+Feynman, R. P., "Concept of Probability in Quantum Mechanics,"
+
+Proceedings of the Second Berkeley Symposium on Mathematical
+Statistics and Probability, Berkeley, pp. -o41
+
+Feynman, R. P., "Space-time Approach to Non-Relativistic Quantum °
+Mechanics," Reviews of Modern Physics 20, 367 (1948).
+
+Feynman, R. P. and Leighton, R. B. and Sands, M., The Feynman Lectures
+
+on Physics, Addison-Wesley, 1963.
+
+Finkelstein, D., "The Physics of Logic", in Paradigms and Paradoxes:
+The Philosophical Challenge of the Quantum Domain, ed. R. G. Colodny.
+Univ. of Pittsburgh Press, 1972.
+
+Foulis, D. J. and Randall, C. H., "Empirical Logic and Quantum Mechanics,”
+Synthese 29, 81 (1974).
+
+Freistadt, G., "The Causal Formulation of Quantum Mechanics of Particles,"
+Supplemento del Nouvo Cimento 5, 1 (1957).
+
+Gleason, A. M., "Measures on the Closed Subspaces of a Hilbert Space,"
+Journal of Mathematics and Mechanics 6, 567 (1957),
+
+Greechie, R. J., "An Orthomodular PO set with a Full Set of States Not
+Embeddable in Hilbert Space," Caribbean Journal of Science and
+Mathematics 1, 15 (1969).
+
+Greechie, R. J., "Some Results From the Combinatorial Approach to Quantum
+Logic," Synthese 2, 113 (1974).
+
+Greechie, R. J. and Gudder, S., "Quantum Logics," in C,A. Hooker (ed.),
+Contemporary Research in the Foundations and Philosophy of Quantum
+Theory, Reidel, Dordrecht, 1973,
+
+Grothendieck, A., "Technique De Decente Et Theorems D' Existence En
+
+Geometrie Algebrique I-IV", Seminar Bourbaki, Exp. 190, 195, 212,
+221, 1959-60, 1960-61.
+
+--- Page 101 ---
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44,
+
+45.
+
+46.
+
+47.
+
+Gudder, S., "Hidden Variables in Quantum Mechanics Reconsidered,
+
+Review of Modern Physics 40, 229 (1958).
+
+Halmos, P. R., Measure Theory, D. van Nostrand Company, Princeton,
+1950 .
+
+Heisenberg, W., Physics and Philosophy, New York: Harper and Row,
+
+Hilbert, D., Foundations of Geometry, The Open Court Publishing Co.,
+1965 . :
+
+Jammer, M., The Conceptual Development of Quantum Mechanics, McGraw-Hill,
+New York, z ;
+
+Jammer, M., The Philosophy of Quantum Mechanics, Wiley -Interscience,
+New York, n
+
+Jauch, J.) Foundations of Quantum Theory, New York: Addison-Wesley,
+New York, 1968.
+
+Jordan, P., von Neumann, J., and Wigner, E. P., "On an Algebraic
+Generalization of the Quantum Mechanical Formalism, " Annals of
+
+Mathematics 35, 29(1934).
+
+Kadison, R., "Transformations of States in Operator Theory and Dynamics,"
+Topology Vol. 3, Suppl. 2, 1965, pp. 177-198.
+
+Kochen, S., and Specker, E., "The Problem of Hidden Variables in Quantum
+Mechanics," Journal of Mathematics and Mechanics 17, 59 (1967).
+
+Kuhn, T., The Structure of Scientific Revolutions, Chicago: University
+of Chicago Press, Chicago, 196
+
+Lawvere, F., "The Category of Categories as a Foundation for Mathematics,"
+Proc. of the Conf. on Categorical Algebra, La Jolla, 1965, ed.
+S. Eilenberg, et al., Springer-Verlag, New York, 1966.
+
+Ludwig, G., "The Measuring Process and an Axiomatic Foundation of Quantum
+
+Mechanics," In Foundations of Quantum Mechanics, 1971, Il Corso,
+Academic Press Inc., New York, ,
+
+Mackey, G. W., The Mathematical Foundations of Quantum Mechanics
+
+W. A. Benjamin, Inc., New York 1960.
+
+Mackey, W. G., "Infinite Dimensional Group Representations," Bulletin
+of the American Mathematical Society 69, 628 (1963).
+
+Mackey, G. W., ‘Induced Representations of GaOups and Quantum Mechanics,
+New York: W. A. Benjamin, Inc., 19
+
+--- Page 102 ---
+48.
+
+49.
+
+50.
+51.
+
+52.
+
+53.
+
+54.
+
+55.
+
+57.
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+Mackey, G. W., "Ergodic Actions of the Euclidean Group and the Canonical
+
+Commutation Relations," In Proceeding of the 1967 International
+Conference on Particles and Fields, ed. Hagen, C., Garalnik, G. and
+Mathur, V. Interscience Pub., (1
+
+Mackey, G. W. ) "Ergodic Theory and Its Significance for Statistical
+Mechanics and Probability Theory," Advances in Mathematics iL,
+pp. 178-268 (1974). ae
+
+MacLane, S.) "Categorical Algebra", Bull. Amer. Math. Soc. (1965).
+
+MacLane, S. and Birkhoff, G., Algebra , MacMillan, New York, 1970.
+
+Mandelbrot, B., ‘Fractals: Form, Chance and Dimension, W. H. Freeman
+and Co., San Francisco, 1977,
+
+Matheron, G., Random Sets and Integral Geometr > New York: John
+Wiley and Sons, Ltd., 1975 .
+
+Messiah, A. Quantum Mechanics, Amsterdam: North Holland Publishing
+Co., 1964,
+
+Murray, F. J. and von Neumann, J., "On Rings of Operators," Annals
+of Mathematics 37, 116 (1936).
+
+Nelson, E., "Derivation of the Schrodinger Equation from Newtonian
+Mechanics, "* Physical Review 150B, 1079 (1966).
+
+Newton, T. D. and Wigner, E. P., "Localized States for Elementary
+Systems," Reviews of Modera Physics 21, 400 (1949).
+
+Putnam, H., "Is Logic Empirical?" in Proceedings of the Boston
+oOlloquium in the Philosophy of Science, 1966-1968. ed. R. S. Cohen.
+New York: Humanities Press, 1969.
+
+Reid, C.y Hilbert, Springer-Verlag, 1972 ,
+
+Sachs, M., "A New Approach to the Theory of Fundamental Processes
+British Journal for the Philosophy of Science 15, 213 (1964).
+
+Schilpp, P. A., ed. Albert Einstein: Philosopher-Scientist. 2 volumes.
+New York: Harper and Bros., Harper forchbooks- (1959). Now
+published by The Open Court Publishing Co., La Salle, Ill.
+
+Schweber, S., An Introduction to Relativistic Quantum Field Theory;
+Row, Peterson and Company, Evanston and New York,
+
+Segal, I. E., "Postulates for General Quantum Mechanics," Annals of
+Mathematics 48, 930 (1947).
+
+--- Page 103 ---
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+80.
+
+81.
+
+82.
+
+83.
+
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+Segal, I. E. Mathematical Problems of Relativistic Physics,
+Lectures in Applied Mathematics, American Mathematical Society,
+Providence, I. R., 1963 .
+
+Segal, I. E. "Algebraic Integration Theory", Bull. Amer. Math. Soc.
+May, (1965).
+
+Simon, B., TheEuclidean (Quantum) Field Theory , Princeton: Princeton
+Univ. Press 1974 .
+
+Sneed, J. D., "Quantum Mechanics and Classical Probability Theory",
+Synthese 21, 34 (1970).
+
+Stein, H. "On the Conceptual Structure of Quantum Mechanics,"
+
+In Paradigms and Paradoxes, ed. Colodny, Univ. of Pittsburg
+Press, 1972.
+
+Streater, R. F.. Mathematics of Contemporar hysic Academic Press,
+New York, 1972 .
+
+Streater, R. F. and Wightman, A. S., i
+That, New York: W. A. Benjamin, Inc., 1964 ,
+
+Varadarajan, V. S., "Probability in Physics and a Theorem on Simultaneous
+
+Observability," Communications in Pure and Applied Mathematics
+15, 189 (1962).
+
+Varadarajan, V. S., Geometry of Quantum Mechanics, 0D. von Nostrand
+Co., Princeton, N. J., 1968... —
+
+Velo, G. and Wightman, A., Constructive Quantum Field Theory,
+Springer Lectures Notes in Physics, Vol. 25, New York, 1973 .
+
+von Neumann, J.) Mathematical Foundations of Quantum Mechanics,
+
+Princeton: Princeton Univ. Press, 1955 .
+
+Weyl, H., ‘The Theory of Groups and Quantum Mechanics, Dover
+Publications, Inc., New York, 1931 .
+
+Weyl, H., The Classical Groups, Princeton: Princeton Univ. Press,
+1946 :
+
+>
+
+Weyl, H., ‘Space, Time, Matter, Dover Publications, Inc., 1950.
+
+Whittaker, E. A., A History of the Theories of Ether and Electricity,
+2 volumes. New York: Harper and Row, Harper Torchbooks, (1960),
+
+Wick, G. C., Wightman, A. S. and Wigner, E. P., "The Intrinsic Parity
+of Elementary Particles," The Physical Review 88, 101 (1952).
+
+Wightman, A. S., "On the Localizability of Quantum Mechanical Systems,"
+Reviews of Modern Physics 34, 845 (1962).
+
+--- Page 104 ---
+90.
+
+91.
+
+92,
+
+93,
+
+94,
+
+95.
+
+96.
+
+Wigner, E. P.. "Unitary Representations of the Inhomogeneous Lorentz
+Group," Annals of Mathematics 40, 149 (1939).
+
+Simms, D. and Woodhouse, N., Lectures on Geometric Quantization, Springer
+Lectures Notes in Physics #53, New York, 1976.
+
+Bleuler, K. and Teetz, A. Differential Geometrical Methods in Mathematical
+Physics, Lecture Notes in Math. #570, New York, 1
+
+Guillemin, V. and S. Sternberg, Geometric Asymptotics, Mathematical Surveys
+#14, American Math. Soc., Providence, R. I., 1977..
+
+Brey, J. and Jones, B., Critical Phenomena, Springer Lecture Notes in Physics
+#54, New York, 1976.
+
+Nelson, E., Dynamical Theories of Brownian Motion , Princeton University
+Press 1967 .
+
+Wightman, A. S., "Hilbert's sixth problem: mathematical treatment of
+axioms of physics", in Mathematical Developments Arising from Hilbert
+Problems, Proceedings of Symposia in Pure Mathematics, Vol. XXVIII,
+Part 1, American Mathematical Society, Providence, Rhode Island,
+
+1976.
+
+--- Page 105 ---
+97.
+
+98.
+
+99.
+
+100.
+
+101.
+
+102.
+
+103.
+
+104.
+
+P. D. Finch, "On the Structure of Quantum Logic", Journal of
+Symbolic Logic, 1969, 34, 275-282,
+
+Vv. Bargmann, Group Representations in Mathematics and Physics,
+Lecture Notes in Physics 6, Springer-Verlag, New York, 1970.
+E. Wigner, Group Theory, Academic Press, New York, 1959 .
+
+R. Jancel, Foundations of Classical and Quantum Statistical
+Mechanics, Pergamon Press, New York, 1969.
+
+A. Volkel, Fields, Particles and Currents, Lecture Notes in
+Physics, 66, Springer, New York, 1977,
+
+H. Araki, "Local Quantum Theory I", in Local Quantum Theory,
+Proceedings of the Int. School of Phys. Enrico Fermi, Course 45,
+Ed. R. Jost, Academic Press, New York, 1969, p. 65-96.
+
+R. Haag and D. Kastler, "An Algebraic Approach to Quantum
+Field Theory", Jour. Math. Phys. 5, 1969, p. 848-61.
+
+Ruelle, D., Statistical Mechanics Rigorous Results, W. A. Benjamin,
+New York, .
+
+--- Page 106 ---
+Pty
+
+ala
+”
+
+uM
+
+pM
+
+"
+
+.
+I
+' a
+1
+.
+¥
+i Lay
+»
+©
+ai = LJ
+-
+=
+1
+*
+i
+i} # i
+a
+Pa
+a?
+. mJ
+-
+_ :
+x1
+r
+©
+bl
+*
+oe
+* a
+a?
+u
+-
+E
+I I
+le.
+i
+"
+®
+
+it

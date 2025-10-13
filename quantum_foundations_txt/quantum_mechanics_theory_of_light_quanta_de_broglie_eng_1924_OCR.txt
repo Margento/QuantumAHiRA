@@ -1,0 +1,742 @@
+
+--- Page 1 ---
+This article was downloaded by:
+
+On: 25 May 2010
+
+Access details: Access Details: Free Access
+
+Publisher Taylor & Francis
+
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House, 37-
+41 Mortimer Street, London W1T 3JH, UK
+
+Philosophical Magazine Letters
+Philoso p hical Publication details, including instructions for authors and subscription information:
+http://www.informaworld.com/smpp/title~content=t713695410
+
+Magazine
+
+-
+
+XXXV. A Tentative Theory of Light Quanta
+Louis De Broglie
+
+To cite this Article De Broglie, Louis(2006) "XXXV. A Tentative Theory of Light Quanta’, Philosophical Magazine Letters,
+86: 7, 411 — 423
+
+To link to this Article: DOI: 10.1080/09500830600914721
+URL: http://dx.doi.org/10.1080/095008306009 14721
+
+PLEASE SCROLL DOWN FOR ARTICLE
+
+Full terms and conditions of use: http://www.informaworld.com/terms-and-conditions-of-access.pdf
+
+This article may be used for research, teaching and private study purposes. Any substantial or
+systematic reproduction, re-distribution, re-selling, loan or sub-licensing, systematic supply or
+distribution in any form to anyone is expressly forbidden.
+
+The publisher does not give any warranty express or implied or make any representation that the contents
+will be complete or accurate or up to date. The accuracy of any instructions, formulae and drug doses
+should be independently verified with primary sources. The publisher shall not be liable for any loss,
+actions, claims, proceedings, demand or costs or damages whatsoever or howsoever caused arising directly
+or indirectly in connection with or arising out of the use of this material.
+
+
+--- Page 2 ---
+Downloaded At: 17:39 25 May 2010
+
+446 M. L. de Broglie on a
+
+XXXV. A Tentative Theory of Light Quanta.
+By Lours pr Broerrm *.
+
+I, The Light Quantum.
+
+Tt experimental evidence accumulated in recent years
+seems to be quite conclusive in favour of the actual
+reality of light quanta. The photoelectric effect, which is
+the chief mechanism, of energy exchange between radiation
+and matter, seems with increasing probability. to be always
+governed by Einstein’s photoelectric law. Hxperiments on
+the photographic actions, the recent results of A. H. Compton
+on the change in wave-length of. scattered X-rays, would
+be very difficult to explain without using the notion of the
+light quantum. On the theoretical side Bohr’s theory, which
+is supported by so many experimental proofs, is grounded
+on the postulate that atoms can only emit or absorb
+radiant energy of frequency v by finito amounts equal to
+lw, and Finstein’s theory of energy fluctuations in the
+black radiation leads us necessarily to the same ideas.
+
+I shall in the present paper assume the real existence
+of light quanta, and try to see how it would be possible
+to reconcile with it the strong experimental evidence on
+which was based the wave theory.
+
+For the sake of simplicity, it is a very natural assumption
+to admit that all light quanta are identical and ‘that only
+
+* Communicated by R. H. Fowler, M.A,
+
+
+--- Page 3 ---
+Downloaded At: 17:39 25 May 2010
+
+Tentative Theory of Light. Quanta. 447
+
+their velocities are different. We shall then assume that the
+“mass at rest’? of every light quantum has a given
+value my: since the atoms of light have velocities very
+nearly equal to the Hinstein’s limiting velocity. ¢, they
+must have an extremely small mass (not infinitely smail
+in a mathematical sense) ; the frequency of the corre-
+sponding radiation must be related to the whole energy
+of a quantum by the relation
+
+amo =°),
+ha = Ti (s= ‘i
+but, since 1—@? is very small, we can write
+
+1 myc?
+
+2 hey?’
+
+The light quanta would have velocities of slightly different
+values, but such that they cannot be diseriminated from ¢ b
+any experimental means. It then seems that my should be
+at most of the order of 10~° gr.
+
+Naturally, the light quantum must have an internal binary
+symmetry corresponding to the symmetry of an. clectro-
+magnetic wave and defined by some axis of polarization.
+We shall refer again later to this remark.
+
+A=le1-
+
+Il. The Black Radiation as a Gas of Light Quanta.
+
+Let us consider a gas made up by the light quanta we
+have described above. At a given temperature (not too
+near to the absolute zero) almost all these atoms of light
+would have velocities v= 8c very nearly equal to «. The
+whole energy of one of these atoms is
+
+mye?
+Wa
+/1—p”
+and its momentum is
+qa,
+V1i—p’
+so we have approximately
+G=—.
+¢
+
+The pressure of such a gas on the walls of the enclosure is
+easily seen to be
+p= a 2G¢ = 4nW,
+
+if m is the number of light quanta in an element of volume.
+
+--- Page 4 ---
+Downloaded At: 17:39 25 May 2010
+
+‘energy hy is
+
+148 MM. L. de Broglie on a
+
+This expression is the same as the one given by the electro-
+magnetic theory, whilst without using the Relativity formule
+wwe should have found a result twice as great as this.
+
+Now the question arises, Can we use for the quanta gas
+Maxwell’s energy partition law? In Hinstein’s dynamics,
+Liouville’s theorem, on which is based all Statistical
+Dynamics, is still valid; we can then use for the cle-
+mentary cell of extension-in-phase a value proportional to
+du dy dzdpdgdr, if 2, y, = ave rectangular coordinates
+and p,q? the corresponding momenta. In consequence
+of the canonical distribution law, the number of atoms whose
+representative poimts are in the element da dy de dp dq dr
+must be proportional to
+
+-w wv
+e da dy de dp dg dr = eT. 4nG? dG-du,
+if de is the element of volume and G the momentum. But,
+
+since a=W, this number is also given by
+¢€
+
+te
+Cx et w* dw dv.
+
+Bach quantum has a total energy hv ; then the whole energy
+contained in the voluine dv and carried by light quanta of
+
+hy
+(fem du de.
+This is obviously Wien’s limiting form of the radiation law.
+
+Two years ago * I was able to show that, by using the hypo-
+theses made by Planck that the element of extension in
+
+phase was pee dy dzdpdgdr, it was possible to find for
+8
+
+the radiant energy density the value
+8rh ,
+
+u, dy are v8 git dy,
+
+This was an encouraging result, but not quite complete.
+The assumption of finite elements of extension in phase
+seemed to have a somewhat arbitrary and mysterious
+character. Moreover, Wien’s law is only a limiting form
+of the actual radiation law, and I was obliged to suppose
+some kind of quanta aggregation for explaining the other
+terms of the series,
+
+It seems that these difficulties are now removed, but we
+shall first of all explain many other ideas ; we shall later on
+return to the “ black radiation” gas.
+
+* See Journal de Physique, November 1922.
+
+--- Page 5 ---
+Downloaded At: 17:39 25 May 2010
+
+Tentative Theory of Light Quanta. 449
+
+III. An important Theorem on the Motion of Bodies.
+
+Let us consider a moving body whose “mass at rest”
+is mg; it moves with regard to a given observer with
+velocity v=Be (8<1). In consequence of the principle of
+energy inertia, it must contain an internal energy equal to mec’.
+Moreover, the quantum relation suggests the ascription of
+this internal energy to a periodical phenomenon whose fre-
+
+quency is Yo 7, moe". For the fixed observer, the whole
+
+energy is
+
+and the corresponding frequency is
+
+But it the fixed observer is looking at the internal
+periodical phenomenon, he will see its trequency lowered
+and equal to »,=v,/1—, that is to say this phenomenon
+seems for him to vary as sin2av,t. The frequency 1 is
+widely different from the frequency y; but they are related
+by an important theorem which gives us the physical interpre-
+tation of v.
+
+Let us suppose that, at time 0, the moving body coincides
+in space with a wave whose frequency y has the value given
+
+2
+above and which spreads with velocity a=5° This wave,
+
+&
+however, cannot carry energy, aceording to Hinstein’s ideas,
+Oar theorem is the following :—* Jf, at the beginning, the
+internal phenomenon of the moving body is in phase with
+the wave, this harmony of phase will always persist.’ In
+fact, at time ¢, the moving body is at a distance from tue
+origin # = vé and its internal phenomenon is proportional
+
+: ie . .
+to sin 2am,—; at the same place the wave is given by
+v
+
+sin 2orv 1—F2) = sin 2m a(2—2), The two sines will
+be equal; the harmony of phase will again occur if the
+following condition is realized :
+
+vw, = v(1—),
+
+a condition clearly satisfied by the definitions of vy and y.
+This important result is implicitly contained in Lorentz’s
+
+time transformation. If 7 ‘is ‘the local time of an observer
+
+carried along with the moving body, he will define the
+Phil. Mag. 8. 6. Vol. 47. No. 278, Feb. 1924. 2G
+
+--- Page 6 ---
+Downloaded At: 17:39 25 May 2010
+
+‘game phenomenon by the function sin 2a, aa (22),
+
+450 M. IL, de Broglie on a
+internal phenomenon by the function sin 2arvg7. According to
+Lorentz’s transformation, the fixed observer must describe the
+
+— i ¢
+
+which can be interpreted as the representation of a Wave,
+
+ot frequency 7 = re spreading along the a axis with
+: ¢
+velocity 4.
+
+We are then inclined to admit that any moving body may
+be accompanied by a wave and that it is impossible to disjoin
+motion of body and propagation of wave.
+
+This idea can also be expressed in another way. A group
+of waves whose frequencies are very nearly equal has a
+‘group velocity’ U, which has been studied by the late
+Lord Rayleigh, and which in the usual theory is the velocity
+of “energy propagation.” This group velocity is linked
+with the “ phase velocity” V by the relation
+
+y
+1_ a(¥)
+v
+
+UT ad
+6 : é
+If » is equal to ner and V to gp we find U=fe—
+
+that is to say, “ The velocity of the moving body is the energy
+. 7
+velocity of a group of' waves having frequencies vel, — a
+; i vi—~p
+and velocities = corresponding to very slightly diferent
+
+values of 8.”
+
+IV. Dynamics and Geometrical Optics,
+
+Trying to extend the former ideas to the case of variable
+velocity is a rather difficult but very suggestive problem.
+J£ in any medium a moving body describes a curved path.
+we say that there is a field of foree ; at each point the
+potential energy may be calculated, and the body when
+crossing this point has a velocity determined. by the constant
+value of its whole energy, Now, it seems natural to suppose
+that the phase wave must have at any point a velocity and a
+frequency fixed by the value which B would have if the
+body were there. During its propagation the phase wave
+has a constant frequency vy and a constantly variable
+velocity V.
+
+--- Page 7 ---
+Downloaded At: 17:39 25 May 2010
+
+Tentative Theory of Light Quanta. 451
+
+Perhaps a new electromagnetism will give us the laws of
+this complicated propagation, but it seems that we know
+beforehand the final result: “ The rays of the phase wave
+are identical with the paths which are dynamically possible.”
+In fact, the paths of the rays can be computed as in a
+medium of variable dispersion by means of Fermat’s
+principle, which may be written here (a wave-length,
+ds element of path) :
+
+‘ds _ x {'vds_ .(" moBe
+| x= | w= 3 | Vine = 0.
+
+The principle of least action in its Maupertuisian form
+gives the dynamical paths by the equation
+
+moBe
+vie = 0,
+a result which justifies the above statement.
+
+It is now so simple a matter to show that the theorem of
+phase harmony is always valid that it seems not necessary to
+develop the proof.
+
+The present theory suggests an interesting oxplanation of
+Bohr’s stability conditions. At time 0 the electron is in a
+point A of its trajectory. The phase wave starting at this
+instant from A will deseribe all the path and meet again the
+electronin A’. It seems quite necessary that the phase wave
+shall find the electron in phase with itself. This is to say:
+«The motion can only be stable if the phase wave is tuned
+with the length of the path.” The tune relation is then :
+
+(eu 7 _mapSiet
+Ud So AW TB?
+
+(x whele number ; T revolution period),
+
+dt=n
+
+Now, we can write the stability condition of the quantum
+theory in a general form given by Einstein which degenerates
+into the manifold Sommerteld’s conditions for quasi-periodical
+cases in consequence of the infinite number of the pseudo-
+periods. Let us call py, py'p, the momenta ; then Hinstein’s
+general condition is
+
+(cr. de +pydy+ped2) = nk {n whole number),
+262
+
+--- Page 8 ---
+Downloaded At: 17:39 25 May 2010
+
+452 M. L. de Broglie on a
+
+or also
+
+Mp 2 2 2
+pele (U2 + 0y +0,7) dt =
+{ vine y +02")
+
+which is precisely the result obtained above.
+
+Mo
+
+wap et nh
+
+V. The Propagation of Light Quanta and the Coherence
+Problem.
+
+We will now make use of our results for studying the
+propagation of free light quanta whose velocities are always
+slightly lower than ¢. We can say: “The atom of light
+whose whole energy is equal to fv is the seat of an internal
+periodical phenomenon which, for a fixed observer, has at
+each point of space the same phase as a wave spreading in
+the same direction with velocity very nearly equal to ¢
+(very little greater).” Tho light quantum is in some manner
+a part of the wave, but for explaining interferences and
+other phenomena of the wave optics it is necessary to see
+how several light quanta can be parts of the same wave,
+This is the coherence problem.
+
+In the light quanta, theory, it seems necessary to make
+the following hypothesis: “ When a phase wave crosses an
+excited atom, this atom has a certain probability of emitting
+a light quantum determined at each instant by the intensity
+of the wave.” Perhaps this hypothesis will seem arbitary,
+but I think that any theory of coherence must adopt some
+postulate of this kind.
+
+The emissions of y-rays by radioactive substances are
+known. to be quite independent, but this cannot be con-
+sidered as an objection against our view because the “mean
+life” of any. known radioactive atom is always so much
+greater than the period of the y-rays.
+
+Thus when an atom emits a light quantum, a spherical
+phase wave is simultaneously emitted and, crossing over the
+neighbouring’ atoms of the point source, will excite other
+emissions. ‘Che non-material phase wave will carry many
+little drops of energy which slide slowly upon it and whose
+internal phenomena are coherent.
+
+VI. Diffraction by a Screen Edge and the Inertia Principle.
+
+The corpuscular theory of light meets here a great diff-
+culty, Ibis known since Newton that the light rays passing
+within a short distance of a screen edge are no longer straight
+
+--- Page 9 ---
+Downloaded At: 17:39 25 May 2010
+
+Tentative Theory of Light Quanta, 453
+
+but that some penetrate into the geometrical shadow. Newton
+ascribed this deviation to the action of some forces which
+would be exerted by the edge upon the light corpuscle. It
+seems to me that this phenomenon is .perhaps worthy of a
+more general explanation. Since an intimate connexion
+soems to exist between motion of bodies and propagation of
+waves, and since the rays of the phase wave may now be
+considered as the paths (the possible paths) of the energy
+quanta, we are inclined to give up the inertia principle and
+to say :.“¢A moving body must always follow the’ same ray
+of its phase wave.” In the continuous spreading of the
+svave, the form of the surfaces of equal phase will change
+continuously and the body will always follow the common
+perpendicular to two infinitely near surfaces.
+
+When Fermat’s principle is no longer valid for computing
+the vay path, the principle of least action is no longer valid
+for computing the body path. I think that these ideas may
+he considered as a kind of synthesis of optics and dynamics.
+
+We must still specify some points. ‘The ray which now
+assumes in our ideas an important physical significance
+may be defined as above by the continuous spreading of a
+small part of the phase wave ; it cannot be defined at each
+point by the geometrical sum for all the waves of the vector
+which is called in electromagnetic theory “radiant or
+Poynting’s vector.” Let us consider a sort of Wiener’s
+experiment. We send a train of plane waves on a perfectly
+reflecting plane mixror in the normal direetion; standing
+waves are set up; the reflecting mirror is a nodal plane for
+the electric vector, the plane at a distance 4’ from the
+mirror is a nodal plane for the magnetic vector, the plane at
+a distance 44 of the mirror is again a nodal plane for the
+electric vector, and so on. In each nodal plane the radiant
+vector is null, May we say that these planes are not crossed
+by any energy? Evidently not, we can only say that the
+interference states in these planes are always the same. In
+avery interference case we should tind similar intricacies.
+In the wave theory, the propagation of energy has a some~
+what fictitious character, but, in return, the exact calculation
+of the interference fringes is easily made; we shall try in
+the next paragraph to see why it is so.
+
+VIL. A new Explanation of Interference Fringes.
+Consider how we can detect the presence of light ata point
+in space—by direct perception of the scattered light, by
+photographic tests, by calorific effects, and perhaps by some
+
+--- Page 10 ---
+Downloaded At: 17:39 25 May 2010
+
+454 M. L. de Broglie on a
+
+other means. It seems that all these means can, in fact, be
+reduced to photoelectric actions and scattering. Now, when
+a light quantum crosses a material atom, it has a certain
+probability of being absorbed or scattered, which can depend
+on external agencies. If then a theory succeeds in deter-
+mining these probabilities without taking account of the
+actual motion of energy, it may be able to predict correctly
+the ayerage reaction between radiation and matter at each
+place. Following the electromagnetic theory (and Bohr’s
+correspondence principle is consistent with this view) I have
+been inclined to suppose that, for a material atom, the pro-
+bability of absorbing or scattering a light quantum is deter-
+mined by the geometrical sum of one of the defining vectors
+of the phase waves crossing upon it. The last hypothesis
+is, in fact, quite analogous to that which is admitted by
+electromagnetic theory when it links intensity of disclosable
+light with the intensity of the resultant electric vector.
+Thus, in the Wiener’s experiment, the photographic action
+only oceurs in the nodal planes of the electric vector;
+according to the electromagnetic theory, the luminous mag-
+netic energy is not disclosable.
+
+Let us now consider Young’s interference experiment.
+Some atoms of light pass through the holes and diffract
+along the ray of the neighbouring part of their phase waves.
+In the space behind the wall, their capacity of photoelectric
+action will vary from point to point according to the inter-
+ference state of the two phase waves which have crossed the
+two holes. We shall then see interference fringes, however
+small may be the number of diffracted quanta, however
+feeble may be the incident light intensity. The light quanta
+do cross all the dark and bright fringes; only their ability
+to act on matter is constantly changing. This kind of
+explanation, which seems to remove at the same time the
+objections against light quanta and against the energy pro-
+pagation through dark fringes, may be generalized for all
+interference and diffraction phenomena.
+
+VII. The Quanta and the Dynamical Theory of Gases.
+
+For the sake of calculating the entropy constants and the
+so-called “chemical constants,” Planck and Nernst have
+been obliged to introduce the quantum idea into the theory
+of gases. As explained above, Planck chooses an element of
+extension in phase equal to
+
+ean dy dzdpdgqdr or a gh? /2Qw dw da dy dz.
+
+--- Page 11 ---
+Downloaded At: 17:39 25 May 2010
+
+Tentative Theory of Light Quanta. 455
+We shall now try to justify this assumption,
+Flach atom of velocity Bc may be considered as linked
+
+with a group of waves whose phase velocity is V=5
+Lo mg?
+
+frequency a Vine , and group velocity U=fc. The
+
+state of the gas can only be stable if the waves corre-
+sponding to all the atoms make up a system of standing
+waves. Using a well-known methed given by Jeans, we
+find for the number of waves per unit of volume whose
+frequencies are included in the interval »,»+dv*:
+
+dor dor
+ny = Tw" dy = pA dv.
+If w is the kinetic energy of an atom and y the corre-
+sponding frequency, then :
+
+ly = ange? ° 4
+hy = Vine w+mgc? = mge*(1t 2),
+
+where 4 =——j-
+Me’
+
+It is now very easy to find that n,dv is given by the
+equation :
+
+nly = a magto(L +a)Va(2+a) dw.
+
+Each phase wave can curry with it one, two, or more atoms,
+so that, according to the canonical law, the number of atoms
+whose energy is 4.v, will be proportional to:
+— CJ nhy
+4m mngto(1 + 4) Vad a) dw de dy de Se
+1
+
+Let us first consider a material gas whose atoms have
+relatively great mass ‘and relatively small velocities. We
+can then neglect all the terms of the series except the first,
+and we can-also put L+a==1. The number of atoms whose
+kinetic energy is w will be, neglecting a constant factor,
+
+a mat V2w dw da dy dz e~ Bi,
+
+a result which justifies Planck’s method and leads. to the
+usual form of Maxwell’s law.
+
+In the case of the light quanta gas « is always great, and,
+moreover, we must use all the series, In consequence of the
+
+* Léon Brillouin, Théorte des Quanta, p. 38. Paris: A. Blanchard.
+
+--- Page 12 ---
+Downloaded At: 17:39 25 May 2010
+
+456 M. L. de Broglie on a
+
+internal binary symmetry of the light quantum, we must
+introduce a factor 2, and we find that the radiant enorgy
+density is proportional to:
+
+8 S _nhy 8rh v8
+——wte iMtdw = dv.
+Ae 2
+
+eit —~1
+
+A method developed in the Journal de Physique, of
+November 1922, shows that the proportionality factor. is
+unity, so that we obtain the actual radiation law.
+
+TX. Open Questions.
+
+The conceptions stated in this paper, if they are received,
+will necessitate a wide modification of the electromagnetic
+theory. ‘he so-called ‘electric and magnetic energies”
+must be only a kind of average value, all the real energy of
+the fields being probably of a corpuscular fine-grained struc-
+ture. Tho building up of a new electromagnetism seems to
+be a very difficult task, but we have’ one directive idea:
+according to the correspondence principle and to the above
+statements, the defining vectors of the old electromagnetic
+theory would give the probability of the reaction between
+matter and the fine-grained energy.
+
+The new electromagnetism will give the solution of many
+
+roblems. The laws of propagation of waves given by
+Faxwell’s theory will probably be valid for the energyless
+light phase waves, and the scattering of the radiant energy
+will be explained by the resulting curvature of the rays
+(viz., light quanta paths). There seems to be a great
+analogy between scattering of radiation and scattering of
+corpuscles ; lowering of particles’ velocities by crossing
+through a screen may also be similar to the lowering of
+X-ray frequencies by scattering, which recently has been
+computed and experimentally checked by A. H.. Compton.
+
+Explaining optical dispersion will be more difficult. The
+classical theories (including the electron theory) gives only
+an average view of this phenomenon, which is produced by
+complex elementary reactions between radiation and atoms ;
+we shall certainly be obliged here also to distinguish ac-
+curately the real motion of energy from the propagation of
+the resulting interference state: The kind of “resonance”
+shown by the variations of refractive index seems no longer
+to be irreconcilable with discontinuity of light.
+
+Many other questions remain open : What is the mechanism
+
+--- Page 13 ---
+Downloaded At: 17:39 25 May 2010
+
+Tentative Theory of Light Quanta. 457
+
+of Bragg’s absorption? What occurs when an atom passes
+from a stable state to another, and how does it eject a single
+quantum? How may we introduce the granular structure
+of energy into our conceptions of elastic waves and into
+Debyo’s theory of specific heats?
+
+Finally, we must remark that .the quantum relation
+remains still a kind of postulate defining the constant h
+whose actual significance is not at all cleared up ; but it
+seems that the quantum enigma is now reduced to this
+unique point.
+
+Summary.
+
+In the present paper it is assumed that the light is
+essentially made up of light quanta, all having the same
+extraordinarily small mass. It is shown mathematically
+that the Lorentz-Kinstein transformation joined with the
+quantum relation leads us necessarily to associate motion
+of body and propagation of wave, and that this idea gives a
+physical interpretation of Bohy’s analytical stability con-
+ditions. Diffraction seems to be consistent with an exten-
+sion of the Newtonian Dynamics. It is then possible to
+save both the corpuscular and the undulatory characters of
+light, and, by means of hypotheses suggested by the electro-
+magnetic theory and the correspondence -principle, to give a
+plausible explanation of cohorence and interference fringes.
+Finally, it is shown why quanta must take a part in the
+dynamical theory of gases and how Planck’s law is the
+limiting form of Maxwell’s law for a light quanta gas.
+
+Many of these ideas may be criticized and perhaps re-
+formed, but it seems that now little doubt should remain of
+the real existence of light quanta. Moreover, if our opinions
+are received, as they are grounded on the relativity of time,
+all the enormous experimental evidence of the “quantum ”
+will turn in favour of Binstein’s conceptions.
+
+1 October, 1928.
+
+Note.—Since J. have written this paper, I have been able to
+give to the results contained in the fourth section a somewhat
+different, but much more general form.
+
+The principle of least. action for'a material point can be
+expressed in the space-time notation by the equation :—
+
+F
+3f 2Iidei=0,
+
+if the J; are the covariant components of a four-dimensional
+
+--- Page 14 ---
+Downloaded At: 17:39 25 May 2010
+
+458 Mr. J. . Congdon on the Kinetic Energy of
+
+vector whose time component is the energy of the point
+divided by ¢ and space components are the components of its
+momentum.
+
+Similarly, in studying the propagation of waves, we have
+to write :—
+
+JE Ordet=0,
+
+if the O; are the covariant components of a four-dimensional
+vector whose time component is the frequency divided by ¢
+and space components the components of a vector drawn
+
+along the ray and equal to Jed (v phase velocity).
+Now, the quantum relation ys that JyxhO,y More
+
+generally, I suggest putting j= h 6. From this statement,
+the identity of the two principles of Fermat and Maupertins
+follows immediately, and it is possible to.deduce rigorously
+the velocity of the phase wave in any electromagnetic
+field.
+

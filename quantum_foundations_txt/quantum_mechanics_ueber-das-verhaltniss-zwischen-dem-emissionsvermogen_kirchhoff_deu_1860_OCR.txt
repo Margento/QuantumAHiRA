@@ -1,0 +1,1216 @@
+
+--- Page 1 ---
+275
+
+Als Hindernisse bei der praktischen Anwendung dürften
+sowohl die Farbenunterschiede der mit dieser Einheit ver-
+glichenen Lichtquelle, als auch das schnelle Wachsen der
+ausgestrablten Lichtmenge mit steigender Stromstärke be-
+zeichnet werden. Dennoch möchten sich bei Anwendung
+anderer Lichtquellen zu dem genannten Zweck vielleicht
+noch gröfsere Schwierigkeiten in den Weg siellen, da sich
+die Umstände, welche die Leuchtkraft modificiren, schwer-
+lich auf so einfache Bedingungen wie im vorliegenden Falle
+zurückführen lassen.
+
+IV. Ueber das Verhältni/s zwischen dem Emis-
+sionsvermögen und dem Absorptionsvermögen der
+Körper für /Värme und Licht;
+von G. Kirchhoff.
+
+Eu» Körper, der in einer Hülle sich befindet, deren Tem-
+peratur der seinigen gleich ist, ändert durch Wärmestrah-
+lung nicht seine Temperatur, absorbirt also in einer ge-
+wissen Zeit eben so viel Strahlen als er aussendet. Schon
+vor langer Zeit hat man hieraus den Schlufs gezogen, dafs
+bei derselben Temperatur das Verhälinifs zwischen dem
+Emissionsvermögen und dem Absorplionsvermögen für alle
+Körper das gleiche ist. Dabei hat man vorausgesetzt, dafs
+die Körper nur Strahlen einer Gattung aussenden. Dieser
+Satz ist durch Versuche, namentlich von den Hrn. de la
+Provostaye und Desains in vielen Fällen bestätigt ge-
+fuuden, in denen die Gleichartigkeit der ausgesendeien
+Strahlen wenigstens näherungsweise in sofern vorausgesetzt
+werden konnte, als die Strahlen dunkle waren. Ob ein
+ähnlicher Satz gilt, wenn die Körper gleichzeitig Strablen
+verschiedener Gattung aussenden, was strenge genommen
+18 *
+
+--- Page 2 ---
+276
+
+wohl immer der Fall ist, darüber ist bisher weder durch
+theoretische Betrachtungen noch durch Versuche eiwas er-
+mitielt. Ich habe nun gefunden, dafs jener Satz seine Gül-
+tigkeit auch dann behält, sobald man nur unter dem Emis-
+sionsvermögen die Intensität der ausgesendeten Strahlen
+einer Gattung versteht und das Absorptionsvermögen auf
+Strahlen derselben Gattung bezieht. Das Verkältnifs zwi-
+schen dem Emissionsvermögen und dem Absorptionsvermö-
+gen, diese Begriffe in der bezeichneten Weise genommen,
+ist für alle Körper bei derselben Temperatur dasselbe. Ich
+will bier den theoretischen Beweis dieses Satzes führen und
+dann einige merkwürdige Folgerungen entwickeln, die un-
+mittelbar aus demselben fliefsen, und die theils bekannte
+Erscheinungen erklären, theils neue Erscheinungen kennen
+lehren.
+
+Ein jeder Körper sendet Strahlen aus, deren Qualität
+und Intensität von seiner Natur und seiner Temperalur ab-
+hängig sind. Zu diesen können unter gewissen Umständen
+noch andere Strahlen hinzukommen; es findet das z. B.
+statt, wenn der Körper bis zu einem genügenden Grade
+elekirisirt ist, oder wenn er phosphorescirt oder fluores-
+eirt. Solche Fälle sollen hier ausgeschlossen seyn. Wird
+der Körper von Aufsen her von Strahlen getroffen, so ab-
+sorbirt er einen Theil derselben und verwandelt ihn in
+Wärme. Zu dieser Absorption kann unter gewissen Ver-
+hältnissen noch eine andere kommen, was z. B. geschieht,
+wenn der Körper ein Lichtsauger ist, oder wenn er fluo-
+rescirt. Es wird hier vorausgeseizt, dafs alle absorbirten
+Strahlen in Wärme verwandelt werden.
+
+$. 1. Vor einen Körper C Fig. 1, Taf. III denke man
+sich zwei Schirme S, und S, aufgestellt, in welchen die
+beiden Oeffuungen 1 und 2 sich befinden, deren Dimensio-
+nen unendlich klein gegen ihre Entfernung sind, und von
+denen eine jede einen Mittelpunkt hat. Durch diese Oeff-
+nungen tritt von dem Körper C ein Strahlenbündel. Von
+diesem betrachte man den Theil, dessen Wellenlängen zwi-
+schen 2 und A-+-dA liegen, und zerlege denselben in zwei
+
+--- Page 3 ---
+277
+
+polarisirte Componenten, deren Polarisationsebenen die auf
+einander rechtwinkligen, durch die Axe des Strahlenbün-
+dels gehenden Ebenen a und 5 sind. Die Intensität. der
+nach @ polarisirten Componente sey Edi: E heilse das
+Emissionsvermögen des Körpers.
+
+Auf den Körper € falle umgekehrt durch die Oeffnun-
+gen 2 und 1 ein Strahlenbündel von der Wellenlänge A,
+das nach der Ehene a polarisirt ist; von diesem absorbirt
+der Körper einen Theil, während er das Uebrige. theils
+durchläfst, theils reflectirt; das Verhältnifs der Intensität der
+absorbirten Strahlen zu der der auffallenden sey A und
+heifse das Absorptionsvermögen des Körpers.
+
+Die Gröfsen E und A hängen ab von der Natur und
+Temperatur des Körpers C, von der Lage und Gestalt der
+Oeffnungen 1 und 2, von der Wellenlänge A und der
+Richtung der Ebene a. Es soll nachgewiesen werden, dafs
+das Verhältnifs von E zu A von der Natur des Körpers
+unabhängig ist; es wird sich dabei von selbst ergeben, dafs
+dieses Verhältnifs auch nicht veränderlich mit der Richtung
+der Ebene @ ist,-und seine Abhängigkeit von der Lage
+und Gestalt der Oeffnungen 1 und 2 wird sich leicht aus-
+drücken lassen, so dafs nur unbekannt bleibt, wie es von
+der Temperatur und der Wellenlänge A abhängt.
+
+Der Beweis, welcher für die ausgesprochene Behaup-
+tung hier gegeben werden soll, beruht auf der Annahme,
+dafs Körper denkbar sind, welche bei unendlich kleiner
+Dicke alle Strahlen, die auf sie fallen, vollkommen absor-
+biren, also Strahlen weder reflectiren noch hindurchlassen.
+Ich will solche Körper vollkommen schwarze, oder kürzer
+schwarze, nennen. Es ist nöthig, zuerst die Strahlung sol-
+cher schwarzen Körper zu untersuchen. "
+
+$. 2. Es sey C ein schwarzer Körper; sein Emissions-
+vermögen, das im Allgemeinen durch E bezeichnet ist, werde
+e genannt; es soll bewiesen werden, dafs e ungeändert
+bleibt, wenn © durch irgend einen andern schwarzen Kör-
+per von derselben Temperatur ersetzt wird.
+
+Man denke sich den Körper C in eine schwarze Hülle
+
+--- Page 4 ---
+278
+
+eingeschlossen, von der der Schirm S, einen Theil aus-
+macht; der zweite Schirm sey, wie der erste, aus einer
+schwarzen Substanz gebildet und beide seyen durch schwarze
+Seitenwände ringsum mit einander verbunden, Fig.2 Taf. II.
+Die Oeffnung 2 denke man sich zuerst durch eine gleich-
+falls schwarze Fläche, die ich die Fläche 2 nennen will,
+verschlossen. Das ganze System soll dieselbe Temperatur
+besitzen und durch eine für Wärme undurchdringliche Hülle,
+etwa durch eine geschlossene, vollkommen spiegelnde Fläche,
+vor Wärmeverlust nach Aufsen geschützt seyn. Die Tem-
+peratur des Körpers C bleibt sich dann gleich, es mufs
+daher die Summe der Intensitäten der Strahlen, die ihn tref-
+fen (und die er der Voraussetzung gemäls vollständig ab-
+sorbirt) gleich seyn der Summe der Intensitäten der Strah-
+len, die er aussendet. Nun stelle man sich vor, dafs die
+Fläche 2 entfernt und die frei gemachte Oeffnung verschlos-
+sen werde durch ein unmittelbar dahinter geseiztes Stück
+einer vollkommen spiegelnden Kugelfläche, die ihren Mit-
+telpunkt in dem Mittelpunkte der Oeffnung 1 hat. Das
+Gleichgewicht der Temperatur. wird auch dann bestehen.
+Jene Gleichheit der Intensität der Strahlen, die der Kör-
+per C aussendet, uud derer, von welchen er getroffen
+wird, mufs also auch jetzt stattfinden. Da aber der Kör-
+per C jetzt dieselben Strahlen aussendet, wie in dem vor-
+her gedachten Falle, so folgt, dafs die Intensität der Strah-
+len, welche in beiden Fällen den Körper € treffen, die-
+selbe ist. Durch die Entfernung der Fläche 2 sind dem
+Körper € die Strahlen entzogen, die jene durch die Oeff-
+nung 1 hindurchsendete; dafür wirft der an der Oeffnung 2
+angebrachte Hohlspiegel diejenigen Strahlen zu dem Kör-
+per C zurück, die dieser selbst durch die Oeffnungen 1
+und 2 hindurchsendet '). Es ergiebt sich hieraus, dafs die
+
+1) Es ist hierbei die Beugung vernachlässigt, die die Strahlen an den
+Rändern der Oeffnung 2 erfahren; es ist dieses gerechifertigt, wenn man
+sieh die Oeffoungen 1 und 2, die zwar unendlich klein gegen ihre Ent-
+fernung seyn sollen, noch sehr grols gegen die WVellenlänge der Sırah-
+len denkt.
+
+--- Page 5 ---
+279
+
+Intensität des Strahlenbündels, welches der Körper € durch
+die Oeffnungen 1 und 2 ausschickt, gleich ist der Intensi-
+tät des Strahlenbündels, welches die schwarze Fläche 2: bei-
+derselben Temperatur durch .die Oeffnung 1 entsendet. Jene
+Intensität ist also unabhängig von der Gestalt und weite-
+ren Beschaffenheit des schwarzen Körpers €. Es wäre
+hiermit der ausgesprochene Satz bewiesen, wenn alle Strah-
+len der beiden eben mit einander verglichenen Strahlen-
+bündel von der Wellenlänge A und nach der Ebene a po-
+larisirt wären. Die Rücksicht auf die Verschiedenartigkeit
+dieser Strahlen macht etwas verwickeltere Betrachtungen
+nötbig.
+
+8. 3. Bei der Fig. 2 Taf. IIL dargestellten Anordnung
+denke man sich zwischen die Oeffnungen 1 und 2 eine
+kleine Plaite P (Fig. 3) gebracht, die in den sichtbaren
+Strahlen die Farben dünner Blättchen zeigt, und die theils
+wegen ihrer geringen Dicke, theils wegen ihrer substantiellen
+Beschaffenheit eine merkliche Strahlenmenge weder aussen-
+det noch absorbirt. Die Platte sey so gerichtet, dafs das
+durch die Oeffnungen 1 und 2 tretende Strahlenbündel sie
+unter dem Polarisationswinkel trifft und die Einfallsebene
+die Ebene «a ist. Die Wand, welche die Schirme S, und S,
+mit einander verbindet, sey so gestaltet, dafs das Spiegel-
+bild, welches die Platte P von der Oefinung 2 entwirft,
+in ihr liegt; an dem Orte und von der Gestalt dieses Spie-
+gelbildes deuke man sich eine Oeffnung, welche ich die
+Oeffnung 3 nennen will. Die Oeffnung 2 sey durch eine
+schwarze Fläche von der Temperatur des ganzen Systemes,
+die Oeffnung 3 einmal durch eine eben solche Fläche, die
+ich als die Fläche 3 bezeichnen werde, das andere Mal
+durch einen vollkommnen Hohlspiegel verschlossen, der
+seinen Mittelpunkt an dem Orte des Spiegelbildes hat, das
+die Platte P von dem Mittelpunkte der Oeffnung 1 ent-
+wirft. In beiden Fällen findet ein Gleichgewicht der Wärme
+statt; durch eine Betrachtung, wie sie im vorigen $. durch-
+geführt ist, folgt daraus, dafs die Summe der Intensitäten
+der Strahlen, die durch Entfernung der Fläche 3 dem Kör-
+
+--- Page 6 ---
+280
+
+per € entzogen werden, gleich ist der Summe der Intensi-
+täten der Strahlen, die diesem durch Anbringung des Hohl-
+spiegels zugeführt werden. Ein schwarzer Schirm (von
+der Temperatur des ganzen Systemes), S,, sey so aufge-
+stellt, dafs direct keine von den Strahlen, die die Fläche 3
+aussendet, die Oeffnung I treffen. Die erste Summe ist
+dann die Intensität der Strahlen, die von der Fläche 3 aus-
+gegangen, au der Platte P reflectirt und durch die Oeff-
+nung 1 getreten sind; sie werde durch Q bezeichnet. Die
+zweite Summe setzt sich aus zwei Theilen zusammen; der
+eine Theil rührt von dem Körper C her und ist:
+
+= fürer,
+
+o
+wo r eine von der Beschaffenheit der Platte P und der
+Wellenlänge A abhängige Gröfse bedeutet; der zweite Theil
+rührt von Strahlen her, welche von einem Theile der schwar-
+zen Wand ausgegangen sind, die die Schirme S, und S,
+verbindet, die Platte ? durchdrungen haben, von dem Hohl-
+spiegel und dann von der Platte P reflectirt sind; dieser
+Theil werde durch R bezeichnet. Es ist unnöthig den
+Werth von R näher zu untersuchen; es genügt zu bemer-
+ken, dafs R, ebenso wie Q, von der Beschaffenheit des
+Körpers C unabhängig ist. Zwischen den eingeführten Grö-
+fsen besteht die Gleichung:
+
+S der #R=(Q.
+o
+Denkt man sich nun den Körper C durch einen andern
+schwarzen Körper von derselben Temperatur ersetzt, und
+bezeichnet man für diesen mit e', was man für jenen mit e
+bezeichnet hat, so gilt auch die Gleichung:
+Sarer +R=0.
+Hieraus folgt: "
+Sre-onr=0.
+o
+
+--- Page 7 ---
+281
+
+Man nehme nun an, dafs das Brechungsverhältnifs der
+Platte P unendlich wenig von der Einheit verschieden ist.
+Aus der Theorie der Farben dünner Blättchen folgt dann, dafs
+
+r = 0 sin? 2
+
+gesetzt werden kann, wo p eine mit der Dicke der Platte P
+proportionale, von 4 unabhängige, o eine von dieser Dicke
+unabhängige Gröfse bedeutet. Hierdurch wird die abgelei-
+tete Gleichung:
+
+Sere—e) eo? sin* & =0.
+o
+
+Daraus, dafs diese Gleichung für jede Dicke der Platte P,
+als für jedeu Werth von p bestehen mufs, läfst sich schlie-
+fsen, dafs für jeden Werth von A
+
+e—e—=0
+ist. Um den Beweis hierfür zu führen, setze man in jene
+Gleichung für sin*® &:
+
++ (cos 4 240052 2+3)
+und differentiire sie zweimal nach p; man erhält dadurch:
+
+Jar =PE (0042 — 0022) = 0.
+&
+
+An Stelle von A führe man nun eine neue Gröfse « durch
+die Gleichung:
+
+>|»
+
+(l
+8
+
+ein und setze:
+
+e—e)o’=f(a).
+Man erhält dadurch:
+
+Sde f(e) (cos2p « — cospe) = 0.
+
+o
+Erwägt man, dafs, wenn p(«) eine beliebige Function von
+a bedeutet,
+
+Sau pe) eos2pa =: fdag(&) cosp«
+. o
+
+--- Page 8 ---
+282
+
+&
+
+ist, wovon man sich überzeugt, weun man für « 3
+
+setzt,
+so kaun man dafür schreiben:
+
+Jar (r&)-21w ) 0sp«—=0.
+
+0}
+Diese Gleichung multiplicire man mit
+dp coszp,
+wo x eine willkührliche Gröfse bedeutet, und integrire sie
+von p=0 bis p=w. Nach dem Fourier’schen Satze,
+der durch die Gleichung
+
+Sa cospa [day (e) cospe = 7 20)
+v v
+ausgesprochen ist, erhält man dadurch:
+
+(5) =2f@
+oder
+fG)=21@.
+Hieraus folgt, dafs f(«) entweder für alle Werthe von «
+verschwindet oder unendlich grols werden mufs, wenn «@
+sich der Null nähert. Wenn « sich der Null nähert, wird A
+unendlich. Erinnert man. sich an die Bedeutung von f(e)
+und erwägt, dafs e ein ächter Bruch ist, und dafs weder
+e noch e' unendlich werden können, wenn A ins Unendliche
+wächst, so sieht man ein, dafs der zweile Fall nicht statt-
+finden kann und dafs daher für alle Werthe von A
+e=e
+
+seyn mufs.
+
+$. 4. Wenn das Strahlenbündel, welches der schwarze
+Körper C durch die Oeffnungen I und 2 aussendet, theil-
+weise geradlinig polarisirt wäre, so mülste die Polarisations-
+ebene des polarisirten Antheiles sich drehen, wenn der Kör-
+per C um die Axe des Strahlenbündels gedreht würde.
+Eine solche Drehung mülste daber den Werth von e än-
+dern. Da nach der bewiesenen Gleichung eine solche Aen-
+derung nicht eintreten kann, so hat das Strahlenbündel kei-
+nen geradlinig polarisirten Theil. Es läfst sich beweisen,
+
+--- Page 9 ---
+283
+
+dafs dasselbe auch keinen circular polarisirten Theil haben
+kann. Der Beweis dafür soli aber hier nicht geführt wer-
+den. Auch ohne densenlben giebt man zu, dafs schwarze
+Körper sich denken lassen, in deren Structur kein Grund
+liegt, weshalb sie in irgend einer Richtung mehr circular
+polarisirte Strahlen der einen Art als circular polarisirte
+Strahlen der anderen Art aussenden sollten. Von dieser
+Beschaffenheit. sollen die schwarzen Körper, die in der wei-
+teren Betrachtung vorkommen, vorausgesetzt werden; sie
+geben in allen Richtungen nichtpolarisirte Strahlen aus.
+
+& 5. Die mit e bezeichnete Gröfse hängt aufser von
+der Temperatur und der Wellenlänge von der Gestalt und
+relativen Lage der Oeffnungen I und 2 ab. Bezeichnet
+man durch w, und w, die Projectionen der Oeffnungen
+auf Ebenen, die senkrecht auf der Axe des betrachteten
+Strahlenbündels stehen, und nennt s die Entferunng der
+Oeffnungen, so ist:
+
+-— [9:83
+e=I ’
+
+wo / nur eine Function der Wellenlänge und der Tempe-
+ratur bedeutet.
+
+$. 6. Da die Gestalt des Körpers C eine willkührliche
+ist, so kann wan für denselben auch eine Fläche substi-
+tuiren, welche die Oeffnung 1 gerade ausfüllt, und welche
+ich die Fläche 1 nennen will; der Schirm S, kann dann
+fortgedacht werden. Auch der Schirm S, kann fortgedacht
+werden, wenn man das Strahlenbündel, auf welches sich e
+bezieht, als dasjenige definirt, das von der Fläche I auf
+die Fläche 2 fällt, welche die Oeffnung 2 gerade ausfüllt.
+
+$. 7. Eine Folgerung aus der letzten Gleichung, die
+sich unmittelbar darbietet, und die später benutzt werden
+wird, ist die, dafs der Werth von e ungeändert bleibt, wenn
+man die Oeffnungen 1 und 2 mit einander vertauscht denkt.
+
+8.8. Es soll jetzt ein Satz bewiesen werden, welcher
+als eine Verallgemeinerung des im letzten $. ausgesproche-
+nen Satzes betrachtet werden kann,
+
+Zwischen den beiden schwarzen Flächen gleicher Tem-
+
+--- Page 10 ---
+284
+
+peratur, 1 und 2, stelle man sich Körper vor, welche die
+Strahlen, die jene einander zusenden, auf beliebige Weise
+brechen, reflectiren und absorbiren. Es können mehrere
+Strahlenbündel von der Fläche 1 nach der Fläche 2 gelan-
+gen; unter diesen wähle man eins, betrachte von demsel-
+ben bei 1 den Theil, dessen Wellenlängen zwischen A und
+A -+ di liegen, und zerlege diesen in zwei Componenten,
+deren Polarisationsebenen die auf einander senkrechten
+(sonst beliebigen) Ebenen a, und 5, sind. Was von der
+ersten Componente in 2 ankommt, zerlege man in zwei
+Componenten, deren Polarisationsebenen die auf einander
+senkrechten (sonst beliebigen) Ebenen a, und b, sind. Die
+Intensität der nacha, polarisirten Componente sey KdA.’Von
+dem Strahlenbündel, welches auf demselben Wege wie das
+vorige von 2 nach 1 geht, betrachte man bei 2 den Theil,
+dessen Wellenlängen zwischen A und 4 -+d4 liegen, und
+zerlege diesen in zwei nach a, und d, polarisirte Compo-
+nenten. Was von der ersten Componente in 1 ankommt,
+zerlege man in zwei Componenten, deren Polarisationsebe-
+nen a, und 5, sind. Die Intensität der nach a, polarisir-
+ten Componente sey K'd}. Dann ist
+> K-=K.
+
+Der Beweis dieses Satzes soll zunächst unter der Vor-
+aussetzung geführt werden, dafs die betrachteten Strahlen
+auf ihrem Wege keine Schwächung erleiden, unter der Vor-
+ausselzung also, dafs die Brechungen und Reflexionen ohne
+Verlust geschehen, dafs Absorption nicht stattfindet, und
+dafs die aus I nach a, polarisirt austretenden Strahlen in
+2 nach a, polarisirt ankommen, so wie umgekehrt.
+
+Durch den Mittelpunkt von 1 lege man eine Ebene
+senkrecht zur Axe des hier austretenden oder ankommen-
+den Strahlenbündels und denke sich in dieser ein rechtwin-
+kliges Coordinatensystem, dessen Anfangspunkt jener Mit-
+telpunkt ist. z,, y, seyen die Coordinaten eines Punktes
+der Ebene, Fig. 4 Taf. III. In der Einheit der Entfernung
+von dieser Ebene denke man sich eine zweite, ihr parallele
+und in dieser ein Coordinatensystem, dessen Axen parallel
+
+--- Page 11 ---
+285
+
+denen jenes sind und dessen Anfangspunkt in der Axe des
+Strablenbündels liegt. ©,, 4, seyen die Coordinaten eines
+Punktes dieser Ebene. In ähnlicher Weise lege man durch
+den Mittelpunkt von 2 eine Ebene senkrecht zur Axe des
+bier austretenden oder auffallenden Strahlenbündels und
+führe in dieser ein rechtwinkliges Coordinatensystem ein,
+dessen Anfangspunkt der genannte Mittelpunkt ist. x,, %,
+seyen die Coordinaten eines Punktes der Ebene. In der
+Einheit der Entfernung von dieser Ebene und ihr parallel
+denke man sich endlich eine vierte und in derselben ein
+Coordinatensystem, dessen Axen den Axen der z,, y, pa-
+rallel sind und dessen Anfangspunkt in der Axe des Strah-
+lenbündels liegt. &,, y, seyen die Coordinaten eines Punk-
+tes dieser vierten Ebene.
+
+Von einem beliebigen Punkte (x,, y,) geht ein Strahl
+nach einem beliebigen Punkte (z,, y,); die Zeit, die er ge-
+braucht, um von jenem Punkte nach diesem zu gelangen,
+sey T; sie ist eine Funclion von @&,, Y,, %,, %,, welche
+als bekannt vorausgesetzt werden soll. Wenn die Punkte
+(&,, Y,) und (@,, y,) auf dem Wege des genannten Strah-
+les liegen, so ist (wenn der Kürze wegen die Foripflan_
+zungsgeschwindigkeit des Strahles im leeren Raume als Ein-
+heit angenommen wird) die Zeit, die der Strahl gebraucht,
+um von (@,, 4,) nach (z,, y,) zu gelangen,
+
+= T-VIir@ —2,)' +4)"
+
+— yı +@,—- 2)’ +9).
+Gesetzt die Punkte (&,, Y,), (@,, 4.) wären gegeben
+nd die Punkte (w,, Y,), (@2, %.) gesucht, so würde man
+wese finden können aus der Bedingung, dafs der eben auf-
+gestellte Ausdruck ein Minimum ist. Nimmt man an, dafs
+die 8 Coordinaien ©, Yı, 2» Ya 2 Ya, 24, Y, unendlich
+lein sind, so drücken hiernach die folgenden Gleichungen
+e Bedingung däfür aus, dafs die vier Punkte (z,, y,),
+
+@ Yı) (2, Ya) (@,, Y,) auf einem Strahle liegen:
+a
+
+2m _dr 2 ar
+un, man,
+
+st OT
+Ymyı ET ,=h 3
+
+--- Page 12 ---
+286
+
+Nun sey (@,, y,) ein Punkt der Projection der Fläche I
+auf die Ebene der z,, y,, de, dy, ein Element dieser Pro-
+jection, in dem der Punkt (z,, y,) liegt und das von einer
+höheren Ordnung unendlich klein ist, als die Flächen 1 und
+2 es sind. (@,, y,) sey ein Punkt eines Strahls, der von
+(z,, y,) ausgehend die Fläche 2 trifft, dx, dy, ein Flächen-
+element, in dem der Punkt (x,, 4,) liegt, von derselben
+Ordnung wie de, dy,. Die Intensität der Strahlen von
+den bezeichneten Wellenlängen und der gewählten Polari-
+sationsrichlung, die von de, dy, ausgehend durch dir, dy,
+treten, ist dann nach $. 5:
+
+di Idx, dy, de, dy,.
+
+Nach der gemachten Voraussetzung gelangt die Strahlen-
+menge ungeschwächt auf die Fläche 2 und bildet ein Ele-
+ment der mit KdA bezeichneten Gröfse. Es ist K das ge-
+hörig begränzte Integral
+
+ffJ ar. au. dw, au,
+
+Hier ist die Integration nach ©, und y, über diejenigen
+Werihe auszudehnen, welche diese Gröfsen nach den für
+sie aufgestellten Gleichungen erhalten, während x, und y,
+constante Werthe behalten und x,, y, alle Werthe anneh-
+men, die den Punkten der Projection der Fläche 2 auf die
+Ebene der x,, y, entsprechen; dann ist die Integration nach
+©,, 4, über die Projection der Fläche I auszuführen. Das
+in der bezeichneten Weise begränzte Doppelintegral
+
+SI :%.
+
+_. dx; dys Or, Alys
+=/f ad Er) de, dy,
+oder nach den Gleichungen für ©,, Y,
+_ AT 8T eT 27T
+=/ 5- ayıdya u 92,8% Bu) dr dm
+
+wo die Integration über die Projection der Fläche 2 aus-
+zudehnen ist. Hiernach wird:
+
+—_ T &T Tr 2T
+x=1/fJ} 82,02, dyıdy, dmöyı a)
+
+ist aber
+
+
+--- Page 13 ---
+287
+
+wo. die Integration über die Projectionen der Flächen 1
+und 2 zu nehmen ist,
+
+Behandelt man auf dieselbe Weise die mit K’ bezeich-
+nete Gröfse und benutzt dabei, dafs ein Strahl dieselbe
+Zeit gebraucht, um den Weg zwischen zwei Punkten in
+dem einen oder in dem anderen Sinne zurückzulegen, so
+findet man für K’ denselben Ausdruck, der für K gefun-
+den ist.
+
+Hierdurch ist der ausgesprochene Satz bewiesen unter der
+beschränkenden Voraussetzung, unter der er zunächst bewie-
+sen werden sollte. Diese Beschränkung wird aber unmittel-
+bar gehoben durch eine von Helmholtz in seiner physio-
+logischen Optik S. 169 gemachte Bemerkung. Helmholtz
+sagt hier (bei etwas anderer Bezeichnung): »Ein Lichtstrahl
+gelange nach beliebig vielen Brechungen, Reflexionen u. s. w.
+von dem Punkte 1 nach dem Punkte 2. In I lege man
+durch seine Richtung zwei beliebige auf einander senkrechte
+Ebenen a, und b,, nach welchen seine Schwingungen zer.
+legt gedacht werden. Zwei eben solche Ebenen a, und b,
+werden durch den Strahl in 2 gelegt. Alsdann läfst sich
+Folgendes beweisen: Wenn die Quantität ö nach der Ebene
+a, polarisirten Lichts von 1 in-der Richtung des besproche.
+nen Strahls ausgeht und davon die Quantität k nach der
+Ebene a, polarisirten Lichts in 2 ankommt, so wird rück-
+wärts, wenn die Quantität ö nach a, polarisirten Lichts von
+2 ausgeht, dieselbe Quantität k nach a, polarisirten Lichts
+in 1 ankommen ').«
+
+Benutzt man diesen Satz und bezeichnet mit 7 den Werth
+
+1) Der Satz von Helmholtz gilt, wie dieser bemerkt, nicht, wenn die
+Polarisationsebene des Strahles eine Drehung erfährt, wie magnetische
+Kräfte sie nach der Entdeckung Faraday’s hervorbringen; man hat
+daher bei den folgenden Betrachtungen magnetische Kräfte sich als nicht
+wirksam zu denken. Helmholtz beschränkt seinen Satz auch durch
+die Annahme, dals das Licht keine Aenderung der Brechbarkeit er-
+fahre, wie sie bei der Fluorescenz vorkommt; diese Beschränkung hört
+auf nöthig zu seyn, wenn man bei der Anwendung des Satzes immer
+aur Strahlen einer WVellenlänge ins Auge falst.
+
+--- Page 14 ---
+288
+
+des Verhältnisses + für die beiden Strahlen, die zwischen
+
+den Punkten (x,, y,) und (z,, y,) in dem einen und dem
+andern Sinne sich bewegen, so erhält man sowohl für K
+als für X’ einen Ausdruck, der vom dem gefundenen nur
+dadurch sich unterscheidet, dafs unter den Integralzeichen
+noch y als Factor auftritt.
+
+Die Gleichheit von K und K' findet biernach auch dann
+statt, wenn y einen verschiedenen Werth für die Strahlen
+hat, in welche eines der verglichenen Strahlenbündel getbeilt
+werden kann; sie hört z. B. nicht auf, wenn ein Theil des
+Strahlenbündels durch einen Schirm aufgefangen wird.
+
+$. 9. Von denselben Strahlenbündeln, die im vorigen $.
+mit einander verglichen sind, gilt auch der folgende Satz:
+Von dem Strahlenbündel, welches von 1 nach 2 geht, be-
+trachte man bei 2 den Theil, dessen Wellenlängen zwi-
+schen A und A-+dA liegen, und zerlege diesen in zwei
+Componenten, die nach a, und 5, polarisirt sind: die In-
+tensität der ersten Componente sey Hd. Von dem Strah-
+lenbündel, welches von 2 nach 1 geht, betrachte man bei 2
+den Theil, dessen Wellenlängen zwischen 4 und A-+di
+liegen, und zerlege diesen in 2 Componenten, die nach a,
+und 5, polarisirt sind. Was von der ersten Componente
+in I ankommt, sey H’dA. Dann ist
+
+H=MH.
+
+Der Beweis dieses Satzes ist der folgende. K und K’
+sollen dieselbe Bedeutung wie im vorigen $. haben; Lund L’
+seyen die Gröfsen, die aus K und K’ entstehen, wenn die
+Ebene a, mit der Ebene 5, vertauscht wird. Dann ist
+L=L, ebenso wie K=--K'. Weiter ist
+
+H=K-+L,
+weil senkrecht auf einander polarisirte Strahlen nicht inter-
+feriren, wenn sie auf eine gemeinschaftliche Polarisations-
+ebene zurückgeführt sind, falls sie Theile eines nicht po-
+larisirten Strahles sind, und nach $. 4 die Fläche 1 nicht-
+polarisirte Strahlen aussendet.
+
+Endlich hat man
+
+--- Page 15 ---
+289
+
+H=K-+L,
+weil zwei Strahlen, deren Polarisationsebenen senkrecht
+auf einander sind, nicht interferiren. Aus diesen Gleichun-
+gen folgt: H=H'.
+
+$.10. Es habe Fig. 2 dieselbe Bedeutung, die in $.3
+angegeben ist, nur sey der Körper © kein schwarzer, son-
+dern ein beliebiger. Die Oeffnung 2 sey durch die Fläche 2
+verschlossen. Diese Fläche sendet durch die Oeffnung 1
+auf den Körper C ein Strahlenbündel, das von diesem zum
+Theil absorbirt, zum Theil durch Brechungen und Reflexio-
+nen nach verschiedenen Richtungen zerstreut wird. Von
+diesem Strahlenbündel betrachte man zwischen 2 und 1
+den Theil, dessen Wellenlängen zwischen A und A-+d}
+liegen, und zerlege denselben in zwei Componenten, die
+nach der Ebene a und der auf dieser senkrechten Ebene
+polarisirt sind. Was von der ersten Componente der Ab-
+sorption durch den Körper C entgeht, also die schwarze
+Hülle trifft, in die der Körper © eingeschlossen ist, sey
+M'dı. Von den Strahlen, welche die Theile dieser Hülle
+dem Körper C zusenden, werden gewisse durch die Oeff-
+nung I auf die Fläche 2 fallen; durch die Vermittelung
+des Körpers C wird so ein Strahlenbündel erzeugt, wel-
+ches durch die Oeffnung 1 nach der Fläche 2 geht. Von
+diesem betrachte man den Theil, dessen Wellenlängen zwi-
+schen A und A-+d2 liegen, und zerlege denselben in zwei
+Componenten, die nach « und der auf a senkrechten Ebene
+polarisirt sind. Die Intensität der ersten Componente sey
+Md}. Dann ist
+
+M=M'.
+
+Die Richtigkeit dieses Satzes ergiebt sich aus dem Satze
+des vorigen $., wenn man diesen auf alle Strahlenbündel
+anwendet, welche die Fläche 2 und je ein Element der
+schwarzen Hülle, die den Körper C umgiebt, durch Ver-
+mittlung des Körpers C mit einander austauschen; und dann
+die Summe der Gleichungen bildet, die man so erhält.
+
+$. 11. Man denke sich die in Fig. 3 Taf. II dargestellte
+und in $. 3 beschriebene Anordnung; nur der Körper C.
+
+PoggendorfPs Annal. Bd. CIX. 19
+
+--- Page 16 ---
+290
+
+sey kein schwarzer, sondern ein beliebiger. In den bei-
+den dort bezeichneten Fällen findet auch dann das Gleich-
+gewicht der Wärme statt; auch dann mufs daher die le-
+bendige Kraft, die durch Entfernung der schwarzen Fläche 3
+dem Körper C entzogen wird, der lebendigen Kraft gleich
+seyn, die diesem durch Anbringung des Hohlspiegels zuge-
+führt wird. Die in $. 3 gebrauchten Zeichen sollen in un-
+veränderter Bedeutung hier benutzt werden; die Zeichen
+E und A sollen die in $. 1 angegebene Bedeutung haben.
+Die lebendige Kraft, die dem Körper © durch Entfernung
+der Fläche 3 entzogen wird, ist dann bei Rücksicht auf 8.7
+
+—far er A.
+
+Die lebendige Kraft, die der Körper € durch Vermittlung
+des Hohlspiegels gewinnt, setzt sich aus drei Theilen zu-
+sammen. Der erste dieser Theile rührt von Strablen her,
+die der Körper C selbst aussendet; er ist
+
+far Er? A.
+
+Der zweite Theil rührt her von Strahlen, die von der dem
+Hoblspiegel gegenüberliegenden schwarzen Wand ausgegan-
+gen sind, die Platte P durchdrungen, an dem Hohlspiegel
+eine, und an der Platte P eine zweite Reflexion erlitten
+haben; er ist nach $. 9:
+
+= far eri—n) A.
+Y
+
+Der dritte Theil endlich rührt her von Strahlen, die von
+verschiedenen Punkten der schwarzen Hülle, welche den
+Körper. C umgiebt, auf diesen gefallen, durch Reflexionen
+oder Brechungen von ihm durch die Oeffnung 1 nach der
+Fläche 2 hingeworfen, und durch eine Reflexion an der
+Platte P, eine zweite am Hohlspiegel und eine dritte wie-
+der an der Platte P durch die Oeffnung 1 zurückgetrieben
+
+--- Page 17 ---
+291
+
+sind. Benutzt man das $. 10 definirte Zeichen M, so ist
+dieser Theil
+
+—fai Mr? A.
+
+Es kann zweifelhaft erscheinen, ob der erste und der dritte
+Theil richtig angegeben sind, wenn der Körper C gerade
+eine solche Lage hat, dafs ein endlicher Theil des Strah-
+lenbündels, welches die Fläche 2 durch die Oeffnung 1 ihm
+zusendet, von ihm wieder zur Fläche 2 zurückgeworfen
+wird. Solche Fälle sollen daher vorläufig ausgeschlos-
+sen seyn.
+
+Nach $. 10 hat man M=M', und nach der Definition
+von M' ist
+
+Mze(l—A).
+
+Jener dritte Theil ist daher
+
+= far e(l—A)r?A,
+und es ergiebt sich die Gleichung:
+SE -4o Ar—0.
+
+Durch dieselben Betrachtungen, die in $. 3 in Bezug auf
+eine ähnliche Gleichung angestellt sind, gelaugt man von
+dieser zu dem Schlusse, dafs für jeden Werth von 4
+7=%
+
+oder, wenn man für e seinen Werth aus $. 5 setzt:
+
+E wı wa
+
+Fir
+ist.
+
+Hierdurch ist der Satz, der in dieser Abhandlung be-
+wiesen werden sollte, bewiesen unter der Voraussetzung,
+dafs von dem Strahlenbündel, welches von der Fläche 2
+durch die Oeffnung 1 auf den Körper € fällt, kein end-
+licher Theil durch diesen nach der Fläche 2 zurückgewor-
+fen wird; dafs der Satz auch ohne diese Beschränkung
+
+19*
+
+--- Page 18 ---
+292
+
+gilt, sicht wan ein, wenn man erwägt, dafs, wenn die ge-
+nannte Voraussetzung nicht erfüllt ist, man den Körper €
+nur unendlich wenig zu drehen braucht, um ihr zu genü-
+gen, und dafs durch eine solche Drehung die Gröfsen E
+und A nur unendlich kleine Aenderungen erleiden können.
+
+Die mit J bezeichnete Gröfse ist, wie in $. 5 bemerkt,
+eine Function der Wellenlänge und der Temperatur. Es
+ist eine Aufgabe von hoher Wichtigkeit, diese Function
+zu finden. Der experimentellen Bestimmung derselben ste-
+hen grofse Schwierigkeiten im Wege; trotzdem scheint die
+Hoffnung gegründet, sie durch Versuche ermitteln zu kön-
+nen, da sie unzweifelhaft von einfacher Form ist, wie alle
+Functionen es sind, die nicht von den Eigenschaften ein-
+zelner Körper abhängen, und die man bisher kennen ge-
+lernt hat. Erst wenn diese Aufgabe gelöst ist, wird die
+ganze Fruchtbarkeit des bewiesenen Satzes sich zeigen kön-
+nen; aber auch jetzt schon lassen sich wichtige Schlüsse
+aus demselben ziehen.
+
+8 12. Wenn man einen bestimmten Körper, einen Pla-
+tindraht z. B., allmählig erhitzt, so sendet er, bis seine Tem-
+peratur eine gewisse geworden ist, nur Strahlen aus, deren
+Wellenlängen gröfser sind, als die der sichtbaren Strahlen.
+Bei einer gewissen Temperatur fangen Strahlen von der
+Wellenlänge des äufsersten Roth an sich zu zeigen; steigt
+die Teınperatur höher und höher, so kommen Strahlen von
+kleinerer und kleinerer Wellenlänge hinzu, in der Art,
+dafs bei jeder Temperatur Strahlen von einer entsprechen-
+den Wellenlänge auftreten, während die Intensität der Sirah-
+len gröfserer Wellenlängen wächst. Wendet man den be-
+wiesenen Satz auf diesen Fall an, so sieht man, dafs die
+Function J, für eine Wellenlänge, gleich Null ist für alle
+Temperaturen unterhalb einer gewissen der Wellenlänge
+entsprechenden Temperatur und für höhere Temperaturen
+mit diesen wächst. Hieraus folgt, wenn man nun densel-
+ben Satz auf andere Körper anwendet, dafs alle Körper,
+wenn ihre Temperatur allmählig erhöht wird, bei derselben
+Temperatur Strahlen von derselben Wellenlänge auszusen-
+
+--- Page 19 ---
+293
+
+den beginnen, also bei derselben Temperatur roth zu glü-
+hen, bei einer höheren, allen gemeinsamen, Temperatur
+gelbe Strahlen u. s. w. auszugeben anfangen '), Die In-
+tensität der Strahlen von gewisser Wellenlänge, welche
+verschiedene Körper bei derselben Temperatur ausschicken,
+kann aber eine sehr verschiedene seyn; sie ist proportio-
+nal mit dem Absorptionsvermögen der Körper für Strahlen
+der in Rede stehenden Wellenlänge. Bei derselben Tem-
+peratur glüht deshalb Metall lebhafter als Glas, und dieses
+mehr als ein Gas. Ein Körper, der bei den höchsten Tem-
+peraturen ganz durchsichtig bliebe, würde niemals glühen.
+In einen aus Platindraht gebogenen Riug von eiwa 5°"
+Durchmesser brachte ich etwas phosphorsaures Natron und
+erhitzte dasselbe iu der wenig leuchtenden Flamme der
+Bunsen’schen Gaslampe. Das Salz schmolz, bildete eine
+flüssige Linse und blieb dabei vollkommen klar; aber es
+leuchtete auch gar nicht, während der dasselbe berührende
+Platinring das lebhafteste Licht ausstrahlte.
+
+$. 13. Für eine constante Temperatur ändert sich die
+Function J continuirlich mit der Wellenlänge, so lange diese
+nur nicht denjenigen Werth erhält, bei dem für jene Tem-
+peralur J zu verschwinden beginnt. Die Richtigkeit dieser
+Behauptung kann man schlielsen aus der Continuität des
+Spectrums eines glühenden Platindrahtes, sobald wan an-
+nimmt, dafs das Absorptionsvermögen dieses Körpers eine
+continuirliche Function der Wellenlänge der auffallenden
+Strahlen ist. Mit dem höchsten Grade der Wahrscheinlich-
+keit läfst sich auch aussprechen, dafs die Function J bei
+gleichbleibender Temperatur keine stark hervortretenden
+Maxima oder Minima darbietet, wenn die Wellenlänge sich
+ändert. Es folgt hieraus, dafs, wenn in dem Spectrum ei-
+nes glühenden Körpers Sprünge, stark hervortretende Ma-
+xima oder Minima sich zeigen, das Absorptionsvermögen
+desselben, als Function der Wellenlänge der auffallenden
+Strahlen betrachtet, Sprünge, stark hervortretende Maxima
+oder Minima bei denselben Werthen der Wellenlänge ha-
+1) Draper, Phil. Mag. XXX, p. 345; Berl. Ber. 1847.
+
+--- Page 20 ---
+291
+
+ben mufs. Spectren mit sehr auffallenden Maximis erhält
+man, wenn man in die Flamme der Bunsen’schen Lampe
+gewisse Salze bringt. Ein besonders interessantes Beispiel
+hierfür liefert das Chlorlithium. Wenn man ein Kügelchen
+von diesem Salze an einen Platindraht schmilzt und in den
+Mantel der Gasflamme bringt, so zeigt sich das Spectrum
+der Flamme (wenn diese nicht durch andere Salze verun-
+reinigt und die Lichtstärke nicht zu sehr gesteigert ist) als
+eine einzige, glänzende, rothe Linie, deren Wellenlänge
+etwa das arithmetische Mittel aus den den Fraunhofer'-
+schen Linien B und C entsprechenden Wellenlängen ist.
+Für diese Wellenlänge hat das Ewmissionsvermögen der
+Flamme einen grofsen Werth, während es für alle ande-
+ren, sichtbaren Strahlen entsprechenden, Wellenlängen ver-
+schwindend klein ist. Demgemäfs mufs auch das Absorp-
+tionsvermögen der Lithiumflamme für die genannte Wel-
+lenlänge einen erheblichen Werth haben, für &lle anderen
+sichtbaren Strahlen aber unmerklich seyn. Wenn man da-
+her von einer geeigneten Lichtquelle ein continuirliches
+Spectrum bildet, und zwischen sie und den Spalt, der hierzu
+nöthig ist, eine Lithiumflamme bringt, so ändert diese die
+Helligkeit im Spectrum nur an dem Orte der Lilhiumlinie.
+Sie erhöht hier die Helligkeit durch ihr eigenes Licht,
+schwächt diese aber durch die Absorption, die sie auf die
+durch sie hindurchtretenden Strahlen der entsprechenden
+Wellenlänge ausübt. Gesetzt diese Absorption sey 4. Es
+würde das, dem bewiesenen Satze zufolge, der Fall seyn,
+wenn die Helligkeit der hellen Linie der Lithiumflamme 4
+von der Helligkeit an derselben Stelle des Spectrums wäre,
+welches bei demselben Apparate ein vollkommen schwar-
+zer Körper von der Temperatur der Flamme geben würde.
+Ungeändert würde dann die Lithiumflamme die Helligkeit
+an dem betrachteten Orte des Spectrums lassen, wenn die
+Helligkeit der Lithiumlinie, während die Strahlen der hin-
+teren Lichtquelle abgeblendet sind, 4 von der Helligkeit
+ist, welche an derselben Stelle des Specirums stattfindet,
+während die hintere Lichtquelle allein wirkt. Hat diese
+
+--- Page 21 ---
+295
+
+hiniere Lichtquelle eine gröfsere, als die hierdurch be-
+stimmte Helligkeit, so zeigt sich bei gleichzeitiger Wirkung
+beider die Litbiumlinie dunkel auf hellerem Grunde, im
+entgegengesetzten Falle hell auf dunklereın Grunde. Fin-
+det das Erste stait, so wird die Linie um so dunkler er-
+scheinen, je gröfser die Lichtstärke der ‚hinteren Quelle ist;
+denn je mehr diese Lichtstärke vergröfsert wird, desto un-
+merklicher wird das eigene Licht der Lithiumflamme. Bei
+dem für die Absorption der letzteren angenommenen Zah-
+lenwerthe kann indessen die Helligkeit der Linie nie unter
+2 der Helligkeit der Umgebung sinken. Diese Gränze wird
+aber herabgedrückt, wenn man die Dicke der Lithiumflamme,
+und damit ihre Absorption vergröfsert.
+
+Ein kleines Kügelchen Chlorlithium in die Flamme der
+Bunsen’schen Lampe gebracht, ertheilt dieser schon ein
+so grofses Absorptionsvermögen für die Strahlen der be-
+zeichneten Wellenlänge, dafs, weun man Sonnenstrahlen
+durch die Flamme auf den Spalt des Apparates treten läfst,
+der das Spectrum bildet, an dem entsprechenden Orte eine
+schwarz erscheinende, feine Linie sich zeigt.
+
+Die Spectren, welche andere Salze, wenn sie in die
+Flamme gebracht werden, hervorrufen, sind meistens weni-
+ger einfach und bieten selten Linien dar, die so hell als
+die Lithiumlinie sind. Alle diese Spectren mufs man aber
+auf ähnliche Weise umkehren können; giebt man der Flamme
+die hinreichende Dicke und läfst Licht von genügender In-
+tensität durch sie hindurchgehn, so müssen die vorher hellen
+Linien in dunkle übergehn. Eine Ausnahme könnte nur
+eintreten bei einer Flamme, bei der ein Theil des Lichtes
+unmittelbar durch chemischen Proceis hervorgerufen würde,
+oder bei einer Flamme, die fluorescirte. Die Versuche
+müssen entscheiden, ob es solche Flammen giebt.
+
+Ist die hintere Lichtquelle ein glühender Körper, so
+hängt ihre Intensität von der Temperatur dieses ab; die In-
+tensität hat bei einer gegebenen Temperatur ihren höchsten
+Werth, wenn der Körper ein vollkommen schwarzer ist.
+Ist diese Bedingung erfüllt und ist die Temperatur der bei-
+
+--- Page 22 ---
+296
+
+den Lichtquellen dieselbe, so läfst die vordere das Spec-
+trum der hinteren gerade ungeändert. Die hintere Licht-
+quelle kann daher das Spectrum der vorderen nur umkeh-
+ren, wenn sie eine höhere Temperatur als diese besitzt,
+und das umgekehrte Spectrum wird eine desto gröfsere
+Deutlichkeit haben, je gröfser der Temperaturunterschied
+beider Lichtquellen ist.
+
+Bis jetzt gelungen ist mir die Umkehrung der Spectren
+aufser bei der Lithiumflamme noch bei der Kochsalzflaınme.
+Das Spectrum dieser besteht, wie bekannt, aus zwei sehr
+nahen, glänzenden, gelben Linien, deren Wellenlängen mit
+den Wellenlängen der beiden Fraunhofer’schen Linien D
+übereinstimmen. Läfst man die Strahlen des Drummond’-
+schen Lichtes durch eine Kochsalzflanme von nicht zu ho-
+her Temperatur hindurgehn, so verwandeln sich die hellen
+Linien in dunkle, welche also an dem Orte der Fraun-
+hofer’schen Linien D sich befinden, und welche in jeder
+. Beziehung denselben Anblick, wie diese, gewähren.
+
+$. 14. Wie an einem anderen Orte ausführlich ausein-
+andergesetzt werden wird, sind die Wellenlängen, für wel-
+che Maxima des Emissionsvermögens und des Absorptions-
+vermögens stattfinden, von der Temperatur in den weitesten
+Gränzen unabhängig; ferner sind es bei den Salzen, welche
+solche Maxima bei einer Flamme hervorrufen, die Metalle,
+welche diese bedingen. Man denke sich einen Körper von
+sehr hoher Temperatur, in dessen Spectrum die dunkle Dop-
+pellinie D nicht vorkommt, umgeben von- einer gasförmigen
+Atmosphäre von etwas niedrigerer Temperatur. Wenn in die-
+ser Natrium vorhanden ist, so kann in dem Spectrum der so
+zusammengesetzten Lichtquelle die dunkle Doppellinie D sich
+zeigen; aus dem Daseyn dieser mufs auf den Natriumgehalt
+der Atmosphäre geschlossen werden. Nun ist die Sonne
+unzweifelhaft ein Körper der gedachten Art '); aus der Li-
+
+1) Die Frage, ob der innere Theil der Sonne, von dem hauptsächlich das
+Licht ausstrahlt, fest, flüssig oder gasförmig sey, kann hierbei als eine
+offene betrachtet werden,
+
+--- Page 23 ---
+297
+
+nie D des Sonnenspectrums ist daher auf den Natriumgehalt
+der Sonnenatmosphäre zu schlielsen.
+
+Ein Einwand läfst sich gegen die Richtigkeit dieses Schlus-
+ses erheben: es könnte in der Atmosphäre der Erde die
+Ursache der Linie D gesucht werden müssen. Dieser Einwand
+wird aber durch folgende Gründe widerlegt;
+
+1) Die genügende Menge Natrium in Dampfform kann
+nicht wohl in unserer Atmosphäre vorhanden seyn,
+und die Dampfform wäre nöthig den in Rede stehen-
+den Effect hervorzubringen;
+
+2) wenn die Linie D von unserer Atmosphäre berrührte,
+so mülste sie in dem Maafse deutlicher werden, in
+dem die Sonne dem Horizonte sich nähert; dem ent-
+sprechende Aenderungen in der Deutlichkeit derselben
+habe ich aber nie wahrgenommen, während mir solche
+gerade bei benachbarten Linien oft sehr auffallend
+gewesen sind;
+
+3) wenn die Linie D nicht in der Somne selbst ihren
+Grund hätte, so ıwüfste sie auch in den Spectren aller
+Fizsterne, die hell genug sind, gefunden werden; nach
+den Angaben von Fraunhofer und Brewster fehlt
+sie aber in den Spectren einiger Fixsterne, während
+sie in denen anderer vorhanden ist.
+
+Die genaue Concidenz der Natriumlinien mit den Fraun-
+hofer’schen Linien D kann man am sichersten nachweisen,
+wenn man die Sonnenstrahlen durch eine Natriumflamme
+gehen lälst, bevor sie zu dem Spalt des Apparates gelan-
+gen. Die Wirkung der Natriumflamme zeigt sich dann
+darin, dafs die Linien D viel deutlicher, schwärzer und brei-
+ter hervorireten. Es hat im ersten Augenblicke etwas Be-
+fremdendes, dafs das Natrium in der kleinen Flamme die Wir-
+kung noch merklich verstärken kann, welche das Natrium
+in der ungeheuren Sonnenatmosphäre auf die Lichtstrahlen
+ausgeübt hat. Das Befremdende verschwindet aber, wenn
+man erwägt, dafs die Helligkeit der Linien D im Sonnen-
+speeirum durch die Temperatur der Sonnenatmosphäre, vor-
+nehmlich ihrer äufsersten Schichten, bedingt ist, und dafs die
+
+--- Page 24 ---
+298
+
+Temperatur dieser sicher sehr viel gröfser, als die einer
+Leuchtgasflamme ist. Denkt man sich eine Natriumflamme,
+deren Dicke als unendlich betrachtet werden kann in Bezug
+auf die Absorption der Strahlen, die den Linien D entspre-
+chen, und nimmt an, dafs durch diese die Strahlen einer
+hinteren Lichtquelle gehen und dann zu einem Spectrum
+auseinandergelegt werden, so hängt die Helligkeit an den
+Orten der Linien D allein von der Temperatur jener Flamme
+ab. Stellt man vor diese eine Natrium-Flamme von der-
+selben Temperatur, so ändert diese Nichts im Spectrum;
+hat die hinzugefügte Flamme aber eine niedrigere Tempe-
+ratur, so mufs sie die Linien D dunkler hervortreten lassen.
+Die Wirkung der Leuchtgasflamme, in die Natrium gebracht
+ist, auf das Sonnenspectrum erklärt sich hiernach, sobald
+man nur zugiebt, dafs ihre Temperatur niedriger ist als die
+Temperatur der äufsersten Schichten der Sonnenatmosphäre;
+dieses ist aber sicher der Fall, da die äufsersten Schichten
+der Sonnenatmosphäre keine niedrigere Temperatur haben
+können, als sie in dem Brenspunkte eines auf die Sonne
+gerichteten, sehr wirksamen Hohlspiegels stattfindet.
+
+Aehnliches, wie vom Natrium, gilt von jedem anderen
+Stoffe, der, in eine Flamme gebracht, helle Linien in dem
+Spectrum derselben hervortreten läfst. Fallen diese Linien
+mit dunkeln des Sonnenspectrums zusammen, so mufs man
+auf dic Anwesenheit dieses Stoffes in der Sonnenatmosphäre
+schliefsen, vorausgesetzt, dafs die in Rede stehenden dunkeln
+Linien nicht in der Erdatmosphäre ihren Grund haben kön-
+nen. So ist ein Weg gefunden, die chemische Beschaffen-
+heit der Sonnenatmosphäre zu ermitteln, und derselbe Weg
+verspricht auch einige Auskunft über die chemische Beschaf-
+fenheit der helleren Fixsterne !).
+
+1) In zwei Mittheilungen von mir, die der Berl. Acad. d. Wiss. am
+27. Oct. und am 15. Dec. 1859 vorgelegt sind, befinden sich noch einige,
+hier nicht angeführte, Angaben, die sich auf die chemische Beschaffenheit
+der Sonnenatmosphäre beziehen. In der zweiten dieser Mitiheilungen
+ist aufserdem der Satz, der den Hauptinhalt dieser Abhandlung bildet,
+auf einem andern Wege, aber in geringerer Allgemeinheit als hier, be-
+wiesen,
+
+--- Page 25 ---
+299
+
+$. 15. Aus dem Satze, der in dem ersten Theile dieser
+Abhandlung bewiesen ist, folgt, dafs ein Körper, der von
+Strahlen einer Polarisationsrichtuug mehr absorbirt, als von
+denen einer anderen, in demselben Verhältnifs Strahlen von
+der ersten Polarisationsrichtung mehr aussendet, als von de-
+nen der zweiten. Es mufs hiernach, wie es bekanntlich ge-
+schieht, ein glühender undurchsichtiger Körper, der eine
+glatte Oberfläche hat, in Richtungen, die schief zu dieser
+Oberfläche sind, Licht aussenden, das theilweise polarisirt
+ist, und zwar seukrecht zu der Ebene, die durch den Strahl
+und die Normale der Oberfläche geht; denn von einfallen-
+den Strahlen, die senkrecht zur Einfallsebene polarisirt sind,
+refleclirt der Körper weniger, absorbirt also mehr, als von
+Strablen, deren Polarisationsebene die Einfallsebene ist.
+Man kann nach jenem Satze den Polarisationszustand der
+ausgesendeten Strahlen leicht angeben, wenn man das Ge-
+setz der Reflexion auffallender Strahlen kennt.
+
+Eine zur optischen Axe parallel geschliffene Turmalin-
+platte absorbirt bei gewöhnlicher Temperatur von Strahlen,
+die sie senkrecht treffen, mehr, wenn die Polarisationsebene
+dieser der Axe parallel ist, als wenn die Polarisationsebene
+senkrecht zur Axe steht. Vorausgesetzt, dafs die Turmalin-
+platte diese Eigenschaft bei der Glühhitze behält, mufs sie
+bei dieser in einer zu ihr senkrechten Richtung‘ Strahlen
+aussenden, die theilweise polarisirt sind, und zwar in der
+durch die optische Axe gelegten Ebene, in einer Ebene
+also, die senkrecht zu derjenigen ist, die die Polarisations-
+ebene des Turmalins genannt wird. Ich habe diese auffal-
+lende, aus der entwickelten Theorie sich ergebende, Folge-
+rung durch den Versuch geprüft, und sie hat sich bestätigt.
+Die benutzten Turmalinplatten ertrugen, in die Flamme der
+Bunsen’schen Lampe gebracht, lange Zeit eine mälsige
+Glühhitze, ohne eine bleibende Veränderung zu erleiden;
+nur an den Ecken zeigten sie sich nach dem Erkalten ge-
+trübt. Die Eigenschaft, hindurchgehendes Licht zu polari-
+siren, kam ihnen auch in der Glühhitze zu, wenngleich in
+erheblich geringerem Grade, als bei niederer Temperatur.
+
+--- Page 26 ---
+300
+
+Es zeigte sich dieses, indem man durch ein doppeltbrechen-
+des Prisma durch die Turmalinplatte hindurch nach einem
+Platindrahte sah, der in derselben Flamme glühte. Die
+beiden Bilder des Platindrahtes hatten eine ungleiche Hel-
+‚ligkeit, doch war ihr Unterschied viel geringer, als wenn
+die Turmalinplatte aufserhalb der Flamme sich befand. Es
+wurde dem doppeltbrechenden Prisma die Stellung gegeben,
+bei der der Unterschied der Lichtstärke der beiden Bilder
+des Platindrahtes ein Maximum war; gesetzt es wäre das
+hellere Bild das obere gewesen; es wurden dann, nach Ent-
+fernung des Platindrahtes, die beiden Bilder der Turmalin-
+platte mit einander verglichen. Es war das obere Bild,
+nicht auffallend, aber unzweifelhaft, dunkler als das untere;
+die beiden Bilder erschienen gerade, wie zwei gleiche, glü-
+hende Körper erschienen wären, von denen der obere eine
+niedrigere Temperatur als der untere besessen hätte.
+
+$. 16. Noch eine Folgerung aus dem bewiesenen Satze
+möge hier zum Schlusse Platz finden. Wenn ein Raum
+von Körpern gleicher Temperatur umschlossen ist, und durch
+diese Körper keine Strahlen hindurchdringen können, so
+ist ein jedes Strahlenbündel im Innern des Raumes seiner
+Qualität und Intensität nach gerade so beschaffen, als ob
+es von einem vollkommen schwarzen Körper derselben
+Temperatur herkäme, ist also unabhängig von der Beschaf-
+fenheit und Gestalt der Körper und nur durch die Tempera-
+tur bedingt. Die Richtigkeit dieser Behauptung sieht man
+ein, wenn man erwägt, dafs ein Strahlenbündel, welches
+dieselbe Gestalt und die entgegengesetzte Richtung, als das
+gewählte hat, bei den unendlich vielen Reflexionen, die es
+nach einander an den gedachten Körpern erleidet, vollstän-
+dig absorbirt wird. In dem Innern eines undurchsichtigen,
+glühenden Körpers von gewisser Temperatur findet hier-
+nach auch immer dieselbe Helligkeit statt, welches auch im
+Uebrigen die Beschaffenheit desselben seyn möge.
+
+Der in diesem $. ausgesprochene Satz kann, wie beiläufig
+bemerkt werden möge, auch nicht aufhören zu gelten, wenn
+unter den gedachten Körpern sich fluoreseirende befinden.
+
+--- Page 27 ---
+301
+
+Ein fluorescirender Körper läfst sich definiren als einer,
+bei dem das Emissionsvermögen abhängt von den Strahlen,
+die ihn in dem betrachteten Augenblicke treffen. Die Glei-
+
+E
+
+chung -— e kann allgemein für einen solchen Körper nicht
+
+gelten, aber sie gilt für ihn, wenn er in eine vollkommen
+schwarze Hülle von derselben Temperatur eingeschlossen
+ist, denn dieselben Betrachtungen, durch welche diese Glei-
+chung für jenen Körper C unter der Voraussetzung be-
+wiesen ist, dafs derselbe nicht fluorescirt, gelten auch, wenn
+man annimmt, dafs er fluorescirt. Um dieses einzusehen, mufs
+man nur beachten, dafs, wenn die Gröfse E auch zwei
+verschiedene Werihe haben kann bei den beiden betrach-
+teten Anordnungen des in Fig. 3, Taf. III dargestellten Sy-
+steımes, falls der Körper C fluorescirt, doch diese beiden
+Werthe nur um ein unendlich Kleines sich unterscheiden
+können.
+Heidelberg, im Januar 1860.
+
+V. Ueber zwei neue Reihen organischer Säuren;
+eon F/V. Heintz.
+
+Von R. Hofmann !) ist bekanntlich eine Methode ange-
+geben worden, mit deren Hülfe man mit Leichtigkeit gröfsere
+Mengen derjenigen Säure zu gewinnen im Stande ist, welche,
+ein Substitutionsproduct der Essigsäure, als diese Säure be-
+trachtet werden kann, in welcher ein Aequivalent Wasser-
+stoff durch ein Aequivalent Chlor vertreten ist. Diese
+Säure, die Monochloressigsäure verbindet sich mit Kali zu
+einem Salze, welches in seiner wässerigen Lösung durch
+Kochen allmählich so zersetzt wird, dafs sich alles Chlor
+mit allem Kalium zu Chlorkalium vereinigt. Hofmann,
+1) Ann. d. Chem. u. Pharm, Bd. 102, S, 1*.
+
+--- Page 28 ---
+IS
+NL
+I Se
+|. I
+|
+IT
+I |
+IRN_
+Dez
+I 8
+u
+
+MER URUOSEERIELKONEENN
+
+i
+

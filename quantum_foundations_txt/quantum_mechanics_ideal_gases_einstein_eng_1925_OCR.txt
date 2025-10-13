@@ -1,0 +1,320 @@
+
+--- Page 1 ---
+Quantum Theory of a Monoatomic Ideal Gas
+A translation of Quantentheorie des einatomigen idealen Gases (Einstein, 1924)
+
+A. Einstein
+Translation by L. Amendola, ITP, University of Heidelberg
+(Dated: January 9, 2015)
+
+This is a translation of the paper appeared in Sitzungsber. phys.-math. Kl. 1924, Gesamtsitzung
+vom 10. Juli 1924, p.261-267. It seems this paper has never been translated in English so far.
+In this paper Einstein develops for the first time the Bose-Einstein statistics, applying the ideas
+first discussed in a paper by D. Bose and extending them to massive particles (here called atoms or
+molecules). In 1925 Einstein publishes a second part of this paper (Sitzungsberichte der Preussischen
+Akademie der Wissenschaften, Berlin, Physikalisch-mathematische Klasse, 1925, p. 3-14; we refer
+to this as the second paper) in which he investigates, among other, the existence of what is now known
+as the Bose-Einstein condensates. Except for abstract, footnotes in italic and final acknowledgments,
+all the test is from the original paper (o.p. in the following). The equation numbering does not
+conform to the original one.
+
+A quantum theory of ideal gases free from arbitrary Ansa&tzen does not yet exist today. This gap will be filled in
+the following on the basis of a new approach proposed by Mr. D. Bose, from which that author has obtained a most
+remarkable derivation of Planck’s radiation formula [1].
+
+The method following Bose can be characterized as follows. The phase space of an elementary object (in this case
+monoatomic molecules) with respect to a given (three dimensional) volume is divided into "cells" of extension h°.
+Considering many elementary objects, their thermodynamic can be characterized by how the objects are distributed
+among these cells. The "probability" of a macroscopically defined state (in Planck’s sense) is equal to the number of
+different microscopic states through which the macroscopic state can be thought realized. The entropy of the macro-
+scopic state and thus the statistical and thermodynamic behavior of the system is then determined by Boltzmann’s
+theorem.
+
+I. THE CELLS
+
+The phase-space volume to which a certain range of coordinates x,y,z and corresponding momenta pz, py, pz of a
+monoatomic molecule belongs, can be estimated through the integral
+
+= [ eedudedredryar. (1)
+
+If V is the volume available to the molecule, then the phase volume of all states whose energy E = a (Pp? + Py +p?)
+is smaller than a certain value E, is given by
+
+@=V- ; - t(2mE)>/? (2)
+The number As of the cells belonging to a given elementary range AF of energy is as follows
+4
+As= 2g (2m) PEPAE (3)
+
+No matter how small a AE/E is given, one can always choose V so large that As is a very large number.
+
+II. STATE PROBABILITY AND ENTROPY
+
+We define now the macroscopic state of the gases.
+Let be present in the volume V a number n [2]of molecules with mass m. A number An of these will have energies
+between E and E + AE. These will distribute themselves among the As cells. Of these As cells, a number
+
+poAs, contain no molecules
+pids, contain 1 molecule
+
+poAs, contain 2 molecules
+
+--- Page 2 ---
+and so on. The probability p, associated to the s-th cell is then clearly function of the cell number s and of the integer
+r and will be therefore denoted in the following wth p%. It is evident that for any s
+
+dora (4)
+
+For a given p* and a given An the number of possible distributions of the An molecules over the considered energy
+range is
+
+As!
+TT-=o (pts)!
+which can be replaced by[3]
+1
+by employing Stirling’s formula[4] and Eq. (4), which can also be written as a productory over all values of r and s
+1
+IL, 7)?"
+
+By extending the product to all values of s from 1 to oo, the expression (7) represents clearly the total number of
+complexions[5], i.e. the probability in the Planckian sense of the macroscopic state of a gas defined though the p%.
+The Boltzmann theorem gives for the entropy S' of these states the expression|6]
+
+5 = —klog }*(p} log p}) (8)
+
+r,s
+
+(7)
+
+Ill. THERMODYNAMIC EQUILIBRIUM
+
+In thermodynamic equilibrium S$ is a maximum, for which additional conditions to be satisfied, beside Eq. (4), are
+that the total number n of atoms and their total energy E are fixed. These conditions can be clearly expressed as[7|
+
+n = Sores (9)
+
+"8
+EB Ss E*rp;, (10)
+"8
+
+where E£* denotes the energy of a molecule that belongs to the s-th phase-space cell. From Eq. (3) it follows that
+
+Es = ¢s?/8 (11)
+
+2
+3
+
+(2m)tn2( Sav)?
+
+Cc
+
+Performing the variation [8] with the ps as variables, one finds with an appropriate choice of the constants 6°, A and
+
+B [9] that [10]
+
+ph = pee’? (12)
+(13)
+
+Because of Eq. (4) one has therefore
+Be =1-e" (14)
+
+This results in the average number of molecules per cell
+
+; Sp d 3 d
+Drv = a rere = wee) = 8 ee ee (15)
+
+Tr
+
+
+--- Page 3 ---
+The equations (9) and (10) become then
+
+n= (16)
+
+8
+
+Cla (17)
+
+cain
+
+les]
+ll
+
+which, together with
+a® = A+ Bs3 (18)
+
+determine the constants A and B. In this way the distribution law in thermodynamic equilibrium is completely
+detemined.
+Inserting the results of this paragraph in Eq. (8) gives the following expression for the equilibrium entropy
+
+S=-k {r [log(t — e*)| — An— 0 (19)
+
+We should now estimate the temperature of the system. To this scope we employ the definition of entropy in a
+infinitesimally small isopycnal heating [11] and obtain
+
+= daé E E
+dE =Td, —kT —ndA——dB-— Bd 20
+scarf Hts Bana 2)} “"
+which in consideration of Eqs. (12,9 and 10) gives
+dE =kTBd (=) = wreak (21)
+c c
+or
+1 B
+at 22
+KT oc (22)
+
+In this way the temperature is also expressed indirectly through the energy and the other quantities given above.
+From Eq. (21) and (22) it follows also that the free energy F' of the system is given by
+
+p= p-1s= 10 {og 0 —e")— anh (23)
+
+The pressure p of the gas is given by
+
+OF EOB ~Jloge 2E
+- —kT E =
+Pav ca av BV
+This yields the remarkable result that the relation between the kinetic energy and the pressure is the same as in the
+classical theory, where it is obtained by the virial theorem.
+
+(24)
+
+IV. THE CLASSICAL THEORY AS LIMITING CASE
+
+By discarding the unity next to e®” one recovers the result of the classical theory; in the following it will be shown
+under which conditions this is legitimate. In view of (15), (12) and (22), the average number n* of molecules per cell
+is given by
+
+no =e“ =e Ae (25)
+
+Because of (11) the number of molecules with energy within the small range dE* is also given by
+
+--- Page 4 ---
+in agreement with the classical theory. Eq. (9) gives then, under the same condition of neglecting the unity term,
+
+3
+
+A = nin Yama)! (27)
+n
+
+For hydrogen at atmospheric pressure this quantity is roughly 6 - 10+, that is much larger then unity. This shows
+that the classical theory is a rather good approximation. The error however grows with larger densities and smaller
+temperatures and for helium at the critical state is quite considerable; in this case however one can not any longer
+speak of an ideal gas.
+
+We now estimate from (21) the entropy for our limiting case. Replacing log(1 — e~°’) with —e®” and this with
+—1/(e* — 1), one obtains, also in view of (16),
+
+S=vRlog e2 ~ (QamkT)? (28)
+
+n3n,
+
+where v is the number of moles of gas and R is the ideal gas constant. This result for the absolute value of entropy
+is in agreement with well-known results of quantum statistics.
+
+According to the theory presented here, Nernst theorem[12] is satisfied for ideal gases. In reality, our formulas can
+not be applied directly to extremely low temperatures, as we have assumed in their derivation that the p* change only
+relatively infinitely little when s changes by 1. However, one can see immediately that the entropy must vanish at
+absolute zero. In fact, in that case all the molecules lie in the first cell; for this state there is only a single distribution
+of molecules according to our counting. From this it immediately follows the correctness of the assertion.
+
+V. THE DEPARTURE OF THE GAS EQUATION FROM THE CLASSICAL THEORY
+
+Our results for as concerns the equation of state are contained into the following equations[13]:
+
+n= oy (29)
+
+B= Sev = cy) = i (30)
+: 8
+a’ = At a (31)
+ES h2 (4 —3
+c= SF om (Fv) (32)
+
+We wish now to transform and discuss these results. From the argument in Sect. 4 it follows that the quantity e~4,
+
+which we will denote with \ [14], is smaller than unity. This is a measure of the “degeneration” of the gas. We can
+now put Eqs. (29) and (30) in form of a double sum
+
+ex?/3,
+n= Soave “er= (33)
+= 2 es2/3_
+
+E= cy) st Me~ aT (34)
+
+where 7 is to be summed for all s from 1 to oo.
+The sum over s can be performed by replacing it with an integration from 0 to oo. This is allowed since the
+exponential function is slowly changing with s[15]. We obtain then
+
+n= WE (MY ey (35)
+
+Cc
+7
+
+B a (2) ore (36)
+
+Cc
+
+7
+
+--- Page 5 ---
+Eq. (35) determines the degeneracy parameter A as a function of V,T and n, while Eq. (36) gives the energy and
+therefore also the pressure of the gas. A general discussion of these equations consists in finding the function that
+expresses the sum in (36) through the sum in (35). One obtains through division
+
+EB
+= 37
+Z (37)
+
+The average energy of the gas molecules for a given temperature (and also the pressure) is then always smaller than the
+classical value and in fact the factor that expresses this reduction is the smaller the larger the degeneracy parameter
+X. In turn this parameter, in view of Eqs (35) and (32), is a function of (V/n)3mT.
+
+If \ is so small that \? is negligible with respect to unity then one obtains[16]
+
+BE: :
+—= Ser [1 - 0.0318h°F (2nmkT)~2| (38)
+
+We consider now in which way the Maxwellian distribution is influenced by the quantum effects. Expanding Eq.
+(15) in powers of \ and taking into account Eq. (31) one obtains
+
+n> = const x e~*F (1 + New #F +...) (39)
+
+The parenthesis expresses the quantum effects on the Maxwellian distribution. One sees that there are more slow
+molecules with respect to fast ones than would be the case with Maxwell law.
+
+Finally, I would like to draw attention to a paradox whose resolution I have not succeeded to obtain [17]. There is
+no difficulty to handle by the method given here also the case of the mixture of two different gases. In this case, each
+type of molecule has its special “cell”. This yields the additivity of the entropy of the components of the mixture. Each
+component behaves, with respect to molecular energy, pressure and statistical distribution, as if it alone were present.
+A mixture of molecule numbers n1,n2, with molecules of the first and second kind no matter how little different
+from each other (in particular with respect to the molecular mass m), yields a different pressure and a different state
+distribution when compared to a single gas of nj + nz molecules at the same temperature having practically the same
+molecular mass and the same volume. But this seems really impossible.
+
+Acknowledgments
+
+I thank Davide Amendola for help with the German translation. The original paper can be found at
+http://nausikaa2.mpiwg-berlin.mpg.de/cgi-bin/toc/toc.x.cgi?dir=PG8B073X. An English translation of the second pa-
+per by Einstein and of Bose’s paper can be found at wavewatching.net/lost-papers/
+
+‘0 appear in “Zeitschr. fuer sik”.
+1| To appear in “Zeitschr. fuer Physik”
+[2] (in the o.p. the symbols V,n appeared as if multiplied together)
+[3] (in the o.p. the symbol p>. at exponent appeared without subscript and superscript)
+[4] (ie. nla n"e")
+[5] (i.e. microstates)
+[6] (Boltzmann’s constant k was denoted as x in the o.p.)
+[7] n° = Y. rp; is the corresponding number of molecules in the s-th cell.
+[8] (of the entropy)
+[9] (in the symbols p;., 0°, 8°, E* the symbol s is a superscript index, not an exponent)
+[10] (The constant A turns out to be related to what in modern notation is called the chemical potential 4, A = —p/kT )
+[11] (i.e. a@ constant density transformation; since the number of particle is here also assumed constant, constant density implies
+constant volume)
+[12] (that the entropy vanishes at zero absolute temperature)
+in the o.p. the sum index is denoted by o
+13] (in th A index is denoted b
+[14] (this quantity if often called fugacity in modern literature)
+o| (“with o” in the o.p.
+15| (“with o” in thi
+[16] (The numerical factor was corrected to 0.1768 in the second paper by Einstein)
+is is sometimes called Gibbs’ paradox; Einstein solves it in the second paper.
+17| (This 7. i lled Gibbs’ dox; Einstet IL it in th d
+

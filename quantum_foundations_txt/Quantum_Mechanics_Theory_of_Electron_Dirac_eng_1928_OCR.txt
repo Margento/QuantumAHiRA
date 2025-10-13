@@ -1,0 +1,804 @@
+
+--- Page 1 ---
+"s- Royal Society Publishing
+
+of the future
+
+The Quantum Theory of the Electron
+
+Author(s): P. A. M. Dirac
+
+Reviewed work(s):
+
+Source: Proceedings of the Royal Society of London. Series A, Containing Papers of a
+Mathematical and Physical Character, Vol. 117, No. 778 (Feb. 1, 1928), pp. 610-624
+Published by: The Royal Society
+
+Stable URL: http://www jstor.org/stable/9498 1
+
+Accessed: 24/12/2012 10:29
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://www jstor.org/page/info/about/policies/terms jsp
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support @jstor.org.
+
+The Royal Society is collaborating with JSTOR to digitize, preserve and extend access to Proceedings of the
+Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character.
+
+http://www jstor.org
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 2 ---
+610
+
+The Quantum Theory of the Electron.
+
+By P. A. M. Dirac, St. John’s College, Cambridge.
+(Communicated by R. H. Fowler, F.R.S.—Received January 2, 1928.)
+
+The new quantum mechanics, when applied to the problem of the structure
+of the atom with point-charge electrons, does not give results in agreement
+with experiment. The discrepancies consist of “ duplexity ” phenomena, the
+observed number of stationary states for an electron in an atom being twice
+the number given by the theory. To meet the difficulty, Goudsmit and Uhlen-
+beck have introduced the idea of an electron with a spin angular momentum
+of half a quantum and a magnetic moment of one Bohr magneton. This model
+for the electron has been fitted into the new mechanics by Pauli,* and Darwin,
+working with an equivalent theory, has shown that it gives results in agreement
+with experiment for hydrogen-like spectra to the first order of accuracy.
+
+The question remains as to why Nature should have chosen this particular
+
+model for the electron instead of being satisfied with the point-charge. One
+would like to find some incompleteness in the previous methods of applying
+quantum mechanics to the point-charge electron such that, when removed,
+the whole of the duplexity phenomena follow without arbitrary assumptions.
+In the present paper it is shown that this is the case, the incompleteness of
+
+the previous theories lying in their disagreement with relativity, or, alternate-
+tively, with the general transformation theory of quantum mechanics. It
+appears that the simplest Hamiltonian for a point-charge electron satistying
+the requirements of both relativity and the general transformation theory
+leads to an explanation of all duplexity phenomena without further assumption.
+All the same there is a great deal of truth in the spinning electron model, at
+least as a first approximation. The most important failure of the model seems
+to be that the magnitude of the resultant orbital angular momentum of an
+electron moving in an orbit in a central field of force is not a constant, as the
+model leads one to expect.
+
+* Pauli, ‘ Z. £. Physik,’ vol. 43, p. 601 (1927).
++ Darwin, ‘ Roy. Soc. Proc.,’ A, vol. 116, p. 227 (1927).
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 3 ---
+Quantum Theory of Electron. 611
+
+$1. Previous Relativity Treatments.
+
+The relativity Hamiltonian according to the classical theory for a point
+electron moving in an arbitrary electro-magnetic field with scalar potential Ay
+and vector potential A is
+
+F= (@ + £ay) + (p + < Ay + mec,
+
+where p is the momentum vector. It has been suggested by Gordon* that the
+operator of the wave equation of the quantum theory should be obtained from
+this F by the same procedure as in non-relativity theory, namely, by putting
+
+1 0
+the
+
+mathe, 1H,
+
+W=
+
+in it. This gives the wave equation
+
+the wave function ~) being a function of 21, 2, 23, t. This gives rise to two
+difficulties. :
+
+The first is in connection with the physical interpretation of J. Gordon,
+and also independently Klein,} from considerations of the conservation theorems,
+make the assumption that if },,, |, are two solutions
+
+— “fa ( 1 (duds 7, 288) | 2ebobada}
+
+and
+
+@ 7 - = A --
+In = = {— ih (dy grad Go—G, grad Yq) +2 £ Anda da}
+are to be interpreted as the charge and current associated with the transition
+m->%n. This appears to be satisfactory so far as emission and absorption of
+radiation are concerned, but is not so general as the interpretation of the non-
+relativity quantum mechanics, which has been developed{ sufficiently to enable
+one to answer the question : What is the probability of any dynamical variable
+
+* Gordon, ‘ Z. f. Physik,’ vol. 40, p. 117 (1926).
+
++ Klein, ‘ Z. £. Physik,’ vol. 41, p. 407 (1927).
+
++ Jordan, ‘ Z. f. Physik,’ vol. 40, p. 809 (1927); Dirac, ‘ Roy. Soc. Proc.,’ A, vol. 113,
+p. 621 (1927).
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 4 ---
+612 P. A. M. Dirac.
+
+at any specified time having a value lying between any specified limits, when the
+system is represented by a given wave function |)? The Gordon-Klein inter-
+pretation can answer such questions if they refer to the position of the electron
+(by the use of o,.), but not if they refer to its momentum, or angular momentum
+or any other dynamical variable. We should expect the interpretation of the
+relativity theory to be just as general as that of the non-relativity theory.
+
+The general interpretation of non-relativity quantum mechanics is based on
+the transformation theory, and is made possible by the wave equation being of
+the form , .
+
+(H — W) } = 0, (2)
+ie., being linear in W or 0/0, so that the wave function at any time determines
+the wave function at any later time. The wave equation of the relativity
+theory must also be linear in W if the general interpretation is to be possible.
+
+The second difficulty in Gordon’s interpretation arises from the fact that if
+one takes the conjugate imaginary of equation (1), one gets
+
+[[- E+ ga +(- e+ gay tmelema
+
+which is the same as one would get if one put —e fore. The wave equation
+
+(1) thus refers equally well to an electron with charge e as to one with charge
+—e. If one considers for definiteness the limiting case of large quantum numbers
+one would find that some of the solutions of the wave equation are wave packets
+moving in the way a particle of charge — e would move on the classical theory,
+while others are wave packets moving in the way a particle of charge e would
+move classically. For this second class of solutions W has a negative value.
+One gets over the difficulty on the classical theory by arbitrarily excluding
+those solutions that have a negative W. One cannot do this on the quantum
+theory, since in general a perturbation will cause transitions from states with
+W positive to states with W negative. Such a transition would appear experi-
+mentally as the electron suddenly changing its charge from —e to e, a
+phenomenon which has not been observed. The true relativity wave equation
+should thus be such that its solutions split up into two non-combining sets,
+referring respectively to the charge — e and the charge e.
+
+In the present paper we shall be concerned only with the removal of the first
+of these two difficulties. The resulting theory is therefore still only an approxi-
+mation, but it appears to be good enough to account for all the duplexity
+phenomena without arbitrary assumptions.
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 5 ---
+Quantum Theory of Electron. 6138
+
+§2. The Hamilionian for No Field.
+
+Our problem is to obtain a wave equation of the form (2) which shall be
+invariant under a Lorentz transformation and shall be equivalent to (1) in the
+limit of large quantum numbers. We shall consider first the case of no field,
+when equation (1) reduces to
+
+(— p+ p? + mick) | = 0 (3)
+if one puts
+=Wig2
+ras
+
+The symmetry between py and p,, Po, Ps required by relativity shows that,
+since the Hamiltonian we want is linear in yo, it must also be linear in 9,, po
+and pz. Our wave equation is therefore of the form
+
+(Po +P: + %2P2 + taps + B) b = 0, (4)
+where for the present all that is known about the dynamical variables or
+operators 0%, %, %3, 8 is that they are independent of Mo, );, Po, Pz, 2.€., that they
+commute with ¢, 2, %», %. Since we are considering the case of a particle
+moving in empty space, so that all points in space are equivalent, we should
+expect the Hamiltonian not to involve t, 7, %, 23. This means that «4, a,
+&%g, & are independent of ¢, x, %g, %g, 4.¢., that they commute with pp, 71, Po,
+pz We are therefore obliged to have other dynamical variables besides the
+co-ordinates and momenta of the electron, in order that «,, %2, «3, @ may be
+functions of them. The wave function ) must then involve more variables
+than merely 1, %, Ws, t.
+
+Equation (4) leads to
+
+0 = (— po t+ py + &ePo + MPs + B) (Po + Py + %eP2 + &3P3 + B)
+= [pe + Lah? +E (4429 + 2%) MPs + B+ B (B+ Boy) pl, (5)
+
+where the & refers to cyclic permutation of the suffixes 1, 2,3. This agrees with
+(3) if
+a? = 1, OtyOts + Oty = O (4 #8) °
+r,s = 1, 2,3.
+G2 = mPc?, ay + Boy = 0
+If we put 8 = ame, these conditions become
+2 = 1 Oyty + Hep, = O (ux v) vu, v= 1, 2, 3, 4. (6)
+
+We can suppose the «,’s to be expressed as matrices in some matrix scheme.
+pp a Pp y
+the matrix elements of «, being, say, %, (¢’ ¢”). The wave function ) must
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 6 ---
+614 P. A. M. Dirac.
+
+now be a function of ¢ as well as x,, 72, #3, t. The result of «, multiplied into )
+will be a function (x, )) of 2, #, ag, t, ¢ defined by
+
+(a) (a, t, 9) = Ly on 4 ¢) v (a, t, ¢’).
+
+We must now find four matrices «, to satisfy the conditions (6). We make
+use of the matrices
+
+01 0-i 1 0
+oy = o,=(— O35
+1 0, i 0 0-1
+
+which Pauli introduced* to describe the three components of spin angular
+momentum. These matrices have just the properties
+
+oP = 1 G55 + G50, = 0, (7 # 8), (7)
+
+that we require for our «’s. We cannot, however, just take the o’s to be three
+of our «’s, because then it would not be possible to find the fourth. We must
+extend the o’s in a diagonal manner to bring in two more rows and columns,
+so that we can introduce three more matrices 9,, 95, e3 of the same form as
+Oj, Og, G3, but referring to different rows and columns, thus :—
+
+o=f(0 1 0 0) o=f0 -i 0 °| o3=(1 0 0 0)
+
+1 0 0 0 i 0 0 0 0-1 0 O|
+r 4 . p>
+0 0 0 1 0 0 0 —t 0 0 1 0
+lo 0. 1 OJ lo 0 «@ OJ 0 0 0-1)
+
+ax=f0 0 1 0} p=f0 0 -« 0) p=fl 0 0 07
+
+0 0 01 0 0 0% 0 1 0 0
+4 ‘a 4. r
+
+1 0 0 0 i 0 0 0 0 0-1 0
+lo 1 0 0J lo «0 oJ} 0 60 0-1
+
+The ’s are obtained from the o’s by interchanging the second and third rows,
+and the second and third columns. We now have, in addition to equations (7)
+
+oP = Pr0s + PsP = 9 (#8), )
+| 5 (7)
+
+and also
+PrTt = TtPy-
+
+* Pauli, loc. cit.
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 7 ---
+Quantum Theory of Electron. 615
+If we now take
+= 0191 2 = P1S2, OX = 0193, Oy = Pgs
+all the conditions (6) are satisfied, ¢.g.,
+
+2 — 26.2 —
+Oy” = 9404910, = po," = 1
+
+2 2
+Hyg == 0191P1F_ = 91°94Og Py O20, Hoy.
+
+The following equations are to be noted for later reference
+
+0182 = 03 = — 201
+, (8)
+
+0459 = og = — 0,0,
+together with the equations obtained by cyclic permutation of the suffixes.
+The wave equation (4) now takes the form
+[pot 01 (F, P) + pgme] p =0, (9)
+
+where o denotes the vector (61, 62, 63).
+
+§ 3. Proof of Invariance under a Lorentz Transformation.
+
+Multiply equation (9) by e3 on the left-hand side. It becomes, with the help
+of (8),
+[esPo + tes (1p, + 622+ ogps) + me] p = 0.
+
+Putting
+Po= Py
+P3=Ya Pr =Yn =r =I, 2, 3, (10)
+we have .
+[DyePat me] b=0, w=, 2,3,4. (11)
+
+The p, transform under a Lorentz transformation according to the law
+Pu! = ZL dwyPr,
+where the coefficients a,, are c-numbers satisfying
+LG Our = Sir5 Lyle = Spy.
+
+The wave equation therefore transforms into
+
+[t2yy'pul + me] b =0, (12)
+where
+Yul = DiGyur\r-
+Now the y,, like the «,, satisfy
+
+W=1, Wi be =9, (pA).
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 8 ---
+616 P, A. M. Dirac.
+These relations can be summed up in the single equation
+We + Yen = uw
+We have . . .
+alte” Bye! = Zan Gur Or (Vx -F Yar)
+= 2D pa Our bya Sra
+
+= Wy diye Oye = Wyre
+
+Thus the y,’ satisfy the same relations as the y,. Thus we can put, analogously
+to (10)
+va = Ps" Yr = P27
+
+where the o’’s and o’’s are easily verified to satisfy the relations corresponding
+to (7), (7’) and (8), if g9’ and ;’ are defined by ge’ = — ty1'y2"7s', 91. = — tpe’ps’:
+
+We shall now show that, by a canonical transformation, the p”’s and o”s
+may be brought into the form of the p’s and o’s. From the equation pe,” = I,
+it follows that the only possible characteristic values for p,’ are-++1. If one
+applies to gp,’ a canonical transformation with the transformation function 9’,
+the result is
+
+01/03 (er) + = — p2’py’ (ey) t = — 0
+
+Since characteristic values are not changed by a canonical transformation,
+g3/ must have the same characteristic values as — p,’. Hence the characteristic
+values of p,/ are + 1 twice and — 1 twice. The same argument applies to each
+of the other 9”’s, and to each of the o’’s.
+
+Since pe,’ and,’ commute, they can be brought simultaneously to the diagonal
+form by a canonical transformation. They will then have for their diagonal
+elements each + 1 twice and —1 twice. Thus, by suitably rearranging the
+tows and columns, they can be brought into the form e, and og respectively.
+(The possibility 9,’ = -+ o3' is excluded by the existence of matrices that
+commute with one but not with the other.)
+
+Any matrix containing four rows and columns can be expressed as
+
+© A Lylpoy + Lily’ Py + VyslrsPrFs (13)
+
+where the sixteen coefficients c, ¢,, ¢,’, C,, are cnumbers. By expressing o,'
+in this way, we see, from the fact that it commutes with 9,’ = 3 and anti-
+commutes* with os’ = 3, that it must be of the form
+
+,
+Gy = 6,6, + CQ6q ++ 6310301 + Cg203Fe,
+
+* We say that a anticommutes with b when ab == — ba.
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 9 ---
+Quantum Theory of Electron. 617
+
+t.e., of the form
+
+0 0 0 digg
+lO 0 a, 0 |
+The condition o)? = 1 shows that ayo4, = 1, @gyayg3== 1. If we now apply
+the canonical transformation : first row to be multiplied by (@2,/4,2)* and third
+row to be multiplied by (a43/¢3,)?, and first and third columns to be divided
+by the same expressions, o,’ will be brought into the form of o,, and the diagonal
+matrices o,’ and 9,’ will not be changed.
+
+If we now express ,’ in the form (13) and use the conditions that it commutes
+with o,/ =o, and o,’ =, and anticommutes with 9,’ = p3, we see that it
+must be of the form
+
+er) = y'0y + C9’ pe.
+
+The condition oe, = 1 shows that c, + c= 1, or ¢,/ = cos 0, ¢’ = sin 0.
+Hence p,’ is of the form
+
+If we now apply the canonical transformation : first and second rows to be
+multiplied by e® and first and second columns to be divided by the same
+expression, 9,’ will be brought into the form ,, and oj, o3, es will not be altered.
+2, and oy’ must now be of the form pe, and og, on account of the relations
+tps’ = 03/01’, tog’ = 0,'0y’.
+
+Thus by a succession of canonical transformations, which can be combined
+to form a single canonical transformation, the e”s and o’’s can be brought into
+the form of the 9’s and o’s. The new wave equation (12) can in this way be
+brought back into the form of the original wave equation (11) or (9), so that
+the results that follow from this original wave equation must be independent
+of the frame of reference used.
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 10 ---
+618 P. A. M. Dirac.
+
+§4. The Hamiltoman for an Arbitrary Field,
+
+To obtain the Hamiltonian for an electron in an electromagnetic field with
+scalar potential Ay and vector potential A, we adopt the usual procedure of
+substituting py + e/c. Ay for py and p+ e/e.A.for p in the Hamiltonian
+for no field. From equation (9) we thus obtain
+
+[p+ £A0+ a(e,p+2a)+ pyme | = 0. (14)
+
+This wave equation appears to be sufficient to account for all the duplexity
+phenomena. On account of the matrices p and o containing four rows and
+columns, it will have four times as many solutions as the non-relativity wave
+equation, and twice as many as the previous relativity wave equation (1).
+Since half the solutions must be rejected as referring to the charge + ¢ on the
+electron, the correct number will be left to account for duplexity phenomena.
+The proof given in the preceding section of invariance under a Lorentz trans-
+formation applies equally well to the more general wave equation (14).
+
+We can obtain a rough idea of how (14) differs from the previous relativity
+wave equation (1) by multiplying it up analogously to (5). This gives, if we
+write e’ for e/c
+
+0 = [— (po + Ag) + 01(o, P+ eA) + page]
+X [(Po + eo) + e1(F, P+e'A) + pgmel Y
+= [— (pp + e'Ap)? +(e, p+ eA)? + mic?
+Ferl(o, P+ eA) (Po + ee) — (Pot eA) (S, P+eAIY. (15)
+
+We now use the general formula, that if B and C are any two vectors that com-
+mute with o
+(o, B)(o, C) = 2 of BC, +E (6,92 B,C, + 026, BLCy)
+= (B, C)+7 Xo, (B,C, — B,C,)
+= (B, C)+i(c,BxC). (16)
+
+Taking B= C = p+e’A, we find
+
+(o,p+eA = (p+eAP+idos
+(pit e'Ay) (Po + e’Ay) — (Po + e’Ag)(py + eA,)]
+= (p+ e’A)®-+ he’ (co, curl A).
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 11 ---
+Quantum Theory of Electron. 619
+
+Thus (15) becomes
+0=[—(, 4 eAy)? + (pt eA + mck -+ eho, curl A)
+
+—teho, (<, grad Ay + t a) y
+
+[— (po +e'Ao)?® + (p+ eA)? + mic? + eh (oe, H) + te’he,(, E)] $,
+where E and H are the electric and magnetic vectors of the field.
+This differs from (1) by the two extra terms
+
+fo, n) +o (0, 8)
+
+in F. These two terms, when divided by the factor 2m, can be regarded as the
+additional potential energy of the electron due to its new degree of freedom.
+The electron will therefore behave as though it has a magnetic moment ¢h/2me. o
+and an electric moment ieh/2mc.e,o. This magnetic moment is just that
+assumed in the Spinning electron model. The electric moment, being a pure
+imaginary, we should not expect to appear in the model. It is doubtful whether
+the electric moment has any physical meaning, since the Hamiltonian in (14)
+that we started from is real, and the imaginary part only appeared when we
+multiplied it up in an artificial way in order to make it resemble the Hamiltonian.
+of previous theories.
+
+§5. The Angular Momentum Integrals for Motion in a Central Field.
+
+We shall consider in greater detail the motion .of an electron in a central
+field of force. We put A =0 and e’Ap = V(r), an arbitrary function of the
+radius 7, so that the Hamiltonian in (14) becomes
+
+FE pot V+ e(o, p) + eye.
+We shall determine the periodic solutions of the wave equation F ) = 0, which
+means that py is to be counted as a parameter instead of an operator ; it is, in
+fact, just 1/c times the energy level.
+
+We shall first find the angular momentum integrals of the motion. The
+orbital angular momentum m is defined by
+
+m=x X p,
+and satisfies the following ‘“‘ Vertauschungs ”’ relations
+
+M0, — 2m, = 0; My — Lym, = tha:
+‘1/1 ohhhe 12 2m 3
+
+MP, — Pym = 0, MP, — Pm, = thps ¢>» (17)
+
+mxXm=ihm, m’m,—mm?=0, J
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 12 ---
+620 P, A. M. Dirac.
+
+together with similar relations obtained by permuting the suffixes. Also m
+commutes with 7, and with p,, the momentum canonically conjugate to 7.
+We have
+mE — Fm, = ey (1m (F, B) —(F, p) m,}
+=, (S, mP — pm)
+= tho, (6293 — 532),
+and so ;
+mF — I'm = the,  X Pp. (18)
+
+Thus m is nof a constant of the motion. We have further
+oF — Fo, = 9, {o,(9,p) —(, p) a}
+
+= 9, (0,5 — F6, P)
+
+= 2ipy (G32 — O2Ps)s
+with the help of (8), and so
+
+oF —Fo = — 2%, ox p.
+Hence
+(m+ 4ho)F—F(m+ fhe) =0.
+
+Thus m -+ 44 (= M say) is a constant of the motion. We can interpret this
+result by saying that the electron has a spin angular momentum of $4, which,
+added to the orbital angular momentum m, gives the total angular momentum
+M, which is a constant of the motion.
+
+The Vertauschungs relations (17) all hold when M’s are written for the m’s.
+
+In particular
+MxM=thM and M?M, = M,M?.
+
+Ms; will be an action variable of the system. Since the characteristic values of
+mg must be integral multiples of in order that the wave function may be
+single-valued, the characteristic values of M, must be half odd integral multiples
+of h. If we put :
+
+MP = (7? — a) R?, (19)
+j will be another quantum number, and the characteristic values of M, will
+extend from (j — 4)h to (—j + 4)4.* Thus j takes integral values.
+
+One easily verifies from (18) that m? does not commute with F, and is thus
+not a constant of the motion. This makes a difference between the present
+theory and the previous spinning electron theory, in which m? is constant,
+and defines the azimuthal quantum number & by a relation similar to (19).
+We shall find that our j plays the same part as the & of the previous theory.
+
+* See ‘ Roy. Soc. Proc.,’ A, vol. 111, p. 281 (1926).
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 13 ---
+Quantum Theory of Electron. 621
+
+§6. The Energy Levels for Motion in a Central Field.
+
+We shall now obtain the wave equation as a differential equation in r, with
+the variables that specify the orientation of the whole system removed. We
+can do this by the use only of elementary non-commutative algebra in the
+following way.
+
+In formula (16) take B= C=m. This gives
+
+(¢, m)?=m%+7(c,m x m) (20)
+=(m-+thkoY—h(o, m)— o2—h(o, m)
+
+== M? — 2h(¢, m) — 3h.
+Hence
+
+{(o, m) + A}? = M2 + Ye = pe
+
+Up to the present we have defined j only through 7”, so that we could now, if
+we liked, take jh equal to (@, m) -++-h. This would not be convenient since we
+want j to be a constant of the motion while (o, m) +f is not, although its
+square is. We have, in fact, by another application of (16),
+
+(e, m)(o, p)=71(o, mx p)
+since (m, p) = 0, and similarly
+
+(o, p)(o, m)=7(e, p x m),
+so that
+
+(o,m)(o,p)+(o, p) (o, m) = 2d, (maps — Msp. + Pog — Paglia)
+= 1X0, . 2thp, = —2h(e, p),
+or
+{(o, m) +2} (¢, p)-+(¢, p) {(e, m) + A} =0.
+Thus (¢, m) -+ A anticommutes with one of the terms in F, namely, e, (¢, p),
+and commutes with the other three. Hence pe, {(o, m) + 4} commutes with all
+four, and is therefore a constant of the motion. But the square of p,{( o, m)--A}
+must also equal j?h?. We therefore take
+gh = eg{(F, m) +h}. (21)
+We have, by a further application of (16)
+(o, x) (o, p) = (x, Pp) +74 (oe, m).
+Now a permissible definition of p, is
+(x, Pp) == rp, + th,
+and from (21)
+(o, m) = psjh — h.
+
+Hence
+
+(o, X)(o, D) = 1p + tpgjh. (22)
+
+VOL. CXVIL.-—-A. 2u
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 14 ---
+622 P. A. M. Dirac.
+
+Introduce the quantity < defined by
+re = py (a, X). (23)
+
+Since 7 commutes with p, and with (o, x), it must commute with c. We thus
+have
+Pe =[p)(c,x)P=(o,xP= x= 7?
+or
+== 1.
+
+Since there is symmetry between x and p so far as angular momentum is con-
+
+cerned, o, (&, x), like 9, (@, p), must commute with M andj. Hence ¢ com-
+
+mutes with M andj. Further, ¢ must commute with p,, since we have
+(, x) (x, P) — (&, Pp) (o, x) = th(, x),
+
+which gives
+
+re (rp, + th) — (rp, + th) re = thre,
+which reduces to :
+
+Py — Pre = 0.
+From (22) and (23) we now have
+
+769, (O, P) = My + tpggh
+or
+01 (, P) = ep, + tepsjh/r.
+Thus
+F = po + V + ep, + tepggh/r -+ egme. (24)
+
+Equation (23) shows that ¢ anticommutes with o3. We can therefore by a
+canonical transformation (involving perbaps the 2’s and p’s as well as the o’s
+and ¢’s) bring ¢ into the form of the op, of § 2 without changing p3, and without
+changing any of the other variables occurring on the right-hand side of (24),
+since these other variables all commute with ¢. dep, will now be of the form
+503 = — (4, 80 that the wave equation takes the form
+
+Fu = [po + V + cape — ersh/r + pgme] p = 0.
+
+If we write this equation out in full, calling the components of referring to
+the first and third rows (or columns) of the matrices |, and tg respectively,
+we get
+
+FYe= Pot V) deh de Mbp + mca = 0,
+
+PVs = (Po V) Wet OZ da — Ly, — mop = 0.
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 15 ---
+Quantum Theory of Electron. 623
+
+The second and fourth components give just a repetition of these two equations.
+We shall now eliminate |. If we write AB for py + V ++ me, the first equation
+becomes
+
+(2 + 4) be = Bye
+
+which gives on differentiating
+
+0 j CG) 0B
+aa eae i Ue= Byte Or
+
+~Heneromise ets
+Madge see
+
+This reduces to
+
+o TotVPa me FGt)],  10V/9 4 fj), _
+anv + iP ? ] Ye ~ Bh or (5; + ) Ye = 0. (2)
+The values of the parameter py for which this equation has a solution finite
+at r = 0 andr = © are 1/c times the energy levels of the system. To compare
+this _ with those of ee theories, we put ts = ry, so that
+
+afte EY, 28 Ltt) a
+
+o2
+oe* +2 r Pu
+(26)
+
+If one neglects the last term, which is small on account of B being large, this
+equation becomes the same as the ordinary Schroedinger equation for the system,
+with relativity correction included. Since j has, from its definition, both
+positive and negative integral characteristic values, our equation will give
+twice as many energy levels when the last term is not neglected.
+
+We shall now compare the last term of (26), which is of the same order of
+magnitude as the relativity correction, with the spin correction given by Darwin
+and Pauli. To do this we must eliminate the dy/dr term by a further trans-
+formation of the wave function. We put
+
+X= By,
+which gives
+02 + VP — me? ytleg|
+Fam ts 2 By + [Pot eam 5 mee eh i+),
+1 jaV_,138V,, 1 av
++t 3, tay oe tte (Gy) fn 0. (27)
+2u2
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions
+
+--- Page 16 ---
+624 Quantum Theory of Electron.
+
+The correction is now, to the first order of accuracy
+
+ca ea)
+Balt Or? Or? /?
+
+where Bh == 2me (provided py is positive). For the hydrogen atom we must put
+V=e/er. The first order correction now becomes
+
+(j-+ 1). © (28)
+
+Amer ™
+
+ea
+
+If we write — j for j + 1 in (27), we do not alter the terms representing the
+
+unperturbed system, so
+
+e
+
+28
+Ime j (28)
+will give a second possible correction for the same unperturbed term.
+In the theory of Pauli and Darwin, the corresponding correcting term is
+ee
+
+Qmhers?
+
+(eo, m)
+
+when the Thomas factor $ is included. We must remember that in the Pauli-
+Darwin theory, the resultant orbital angular momentum & plays the part of
+our j. We must define & by
+
+m? = k (k + 1) #?
+
+instead of by the exact analogue of (19), in order that it may have integral
+characteristic values, like 7. We have from (20)
+(o, m)? =k (k -+- 1) 4 — h( oe, m)
+
+or
+
+{(@, m) + Shy = (kh + $Ph2,
+hence
+
+(o, m) = khor —(k+ 1h
+The correction thus becomes
+
+ok f(b + 1),
+
+Ima OF Sond Snakes (F
+which agrees with (28) and (28’). The present theory will thus, in the first
+approximation, lead to the same energy levels as those obtained by Darwin,
+which are in agreement with experiment.
+
+This content downloaded on Mon, 24 Dec 2012 10:29:21 AM
+All use subject to JSTOR Terms and Conditions

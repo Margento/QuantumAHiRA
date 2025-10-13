@@ -1,0 +1,1748 @@
+
+--- Page 1 ---
+The 1925 Born and Jordan paper “On quantum mechanics”
+
+William A. Fedak” and Jeffrey J. Prentis”
+
+Department of Natural Sciences, University of Michigan—Dearborn, Dearborn, Michigan 48128
+(Received 12 September 2007; accepted 9 October 2008)
+
+The 1925 paper “On quantum mechanics” by M. Born and P. Jordan, and the sequel “On quantum
+mechanics II” by M. Born, W. Heisenberg, and P. Jordan, developed Heisenberg’s pioneering theory
+into the first complete formulation of quantum mechanics. The Born and Jordan paper is the subject
+of the present article. This paper introduced matrices to physicists. We discuss the original postulates
+of quantum mechanics, present the two-part discovery of the law of commutation, and clarify the
+origin of Heisenberg’s equation. We show how the 1925 proof of energy conservation and Bohr’s
+frequency condition served as the gold standard with which to measure the validity of the new
+quantum mechanics. © 2009 American Association of Physics Teachers.
+
+(DOI: 10.1119/1.3009634]
+
+I. INTRODUCTION
+
+The name “quantum mechanics” was coined by Max
+Born.' For Born and others, quantum mechanics denoted a
+canonical theory of atomic and electronic motion of the same
+level of generality and consistency as classical mechanics.
+The transition from classical mechanics to a true quantum
+mechanics remained an elusive goal prior to 1925.
+
+Heisenberg made the breakthrough in his historic 1925
+paper, “Quantum- theoretical reinterpretation of kinematic
+and mechanical relations.” ? Heisenberg’ s bold idea was to
+retain the classical equations of Newton but to replace the
+classical position coordinate with a “quantum-theoretical
+quantity.” The new position quantity contains information
+about the measurable line spectrum of an atom rather than
+the unobservable orbit of the electron. Born realized that
+Heisenberg’s kinematical rule for multiplying position quan-
+tities was equivalent to the mathematical rule for multiplying
+matrices. The next step was to formalize Heisenberg’s theory
+using the language of matrices.
+
+The first comprehensive exposition on quantum mechanics
+in matrix form was written by Born and Jordan,’ and the
+sequel was written by Born, Heisenberg, and Jordan.° Dirac
+independently discovered the general equations of quantum
+mechanics without using matrix theory.° These papers devel-
+oped a Hamiltonian mechanics of the atom in a completely
+new quantum (noncommutative) format. These papers ush-
+ered in a new era in theoretical physics where Hermitian
+matrices, commutators, and eigenvalue problems became the
+mathematical trademark of the atomic world. We discuss the
+first paper “On quantum mechanics. aa
+
+This formulation of quantum mechanics, now referred to
+as matrix mechanics,’ marked one of the most intense peri-
+ods of discovery in physics. The ideas and formalism behind
+the original matrix mechanics are absent in most textbooks.
+Recent articles discuss the correspondence between classical
+harmonics and quantum jumps, * the calculational details of
+Heisenberg’s paper,” and the role of Born in the creation of
+quantum theory. References 11-19 represent a sampling of
+the many sources on the development of quantum mechan-
+ics.
+
+Given Born and Jordan’s pivotal role in the discovery of
+quantum mechanics, it is natural to wonder why there are no
+equations named after them,” and why they did not share the
+Nobel Prize with others.”! In 1933 Heisenberg wrote Born
+saying “The fact that I am to receive the Nobel Prize alone,
+128
+
+Am. J. Phys. 77 (2), February 2009 http://aapt.org/ajp
+
+for work done in Gottingen in collaboration—you, Jordan,
+and I, this fact depresses me and I hardly know what to write
+to you. I am, of course, glad that our common efforts are
+now appreciated, and I enjoy the recollection of the beautiful
+time of collaboration. I also believe that all good physicists
+know how great was your and Jordan’s contribution to the
+structure of quantum mechanics—and this remains un-
+changed by a wrong decision from outside. Yet I myself can
+do nothing but thank you again for all the fine collaboration
+and feel a little ashamed.””
+
+Engraved on Max Born’s tombstone is a one-line epitaph:
+Pq-qp=h/27i. Born composed this elegant equation in
+early July 1925 and called it “die verschirfte
+Quantenbedingung”™ —the sharpened quantum condition.
+This equation is now known as the law of commutation and
+is the hallmark of quantum algebra.
+
+In the contemporary approach to teaching quantum me-
+chanics, matrix mechanics is usually introduced after a thor-
+ough discussion of wave mechanics. The Heisenberg picture
+is viewed as a unitary transformation of the Schrodinger
+picture. * How was matrix mechanics formulated in 1925
+when the Schrédinger picture was nowhere in sight? The
+Born and Jordan paper’ represents matrix mechanics in its
+purest form.
+
+Il. BACKGROUND TO “ON QUANTUM
+MECHANICS”
+
+Heisenberg’ S program, as indicated by the title of his
+paper,” consisted of constructing quantum-theoretical rela-
+tions by reinterpreting the classical relations. To appreciate
+what Born and Jordan did with Heisenberg’s reinterpreta-
+tions, we discuss in, the Appendix four key relations from
+Heisenberg’s paper.” Heisenberg wrote the classical and
+quantum versions of each relation in parallel—as formula
+couplets. Heisenberg has been likened to an “expert decoder
+who reads a cryptogram.” °° The correspondence principle*
+acted as a “code book” for translating a classical relation into
+its quantum counterpart. Unlike his predecessors who used
+the correspondence principle to produce specific relations,
+Heisenberg produced an entirely new theory—complete with
+a new representation of position and a new rule of multipli-
+cation, together with an equation of motion and a quantum
+condition whose solution determined the atomic observables
+(energies, frequencies, and transition amplitudes).
+
+© 2009 American Association of Physics Teachers 128
+
+--- Page 2 ---
+Matrices are not explicitly mentioned in Heisenberg’s pa-
+per. He did not arrange his quantum-theoretical quantities
+into a table or array. In looking back on his discovery,
+Heisenberg wrote, “At that time I must confess I did not
+know what a matrix was and did not know the rules of ma-
+trix multiplication.”!® In the last sentence of his paper he
+wrote “whether this method after all represents far too rough
+an approach to the physical program of constructing a theo-
+retical quantum mechanics, an obviously very involved prob-
+lem at the moment, can be decided only by a more intensive
+mathematical investigation of the method which has been
+very superficially employed here.”
+
+Born took up Heisenberg’s challenge to pursue “a more
+intensive mathematical investigation.” At the time Heisen-
+berg wrote his paper, he was Born’s assistant at the Univer-
+sity of Gottingen. Born recalls the moment of inspiration
+when he realized that position and momentum were
+matrices:**
+
+After having sent Heisenberg’s paper to the
+Zeitschrift fiir Physik for publication, I began to
+ponder about his symbolic multiplication, and was
+soon so involved in it...For I felt there was some-
+thing fundamental behind it...And one morning,
+about 10 July 1925, I suddenly saw the light:
+Heisenberg’s symbolic multiplication was nothing
+but the matrix calculus, well known to me since
+my student days from the lectures of Rosanes in
+Breslau.
+
+I found this by just simplifying the notation a little:
+instead of g(n,n+7), where n is the quantum num-
+ber of one state and 7 the integer indicating the
+transition, I wrote g(n,m), and rewriting Heisen-
+berg’s form of Bohr’s quantum condition, I recog-
+nized at once its formal significance. It meant that
+the two matrix products pq and qp are not identi-
+cal. I was familiar with the fact that matrix multi-
+plication is not commutative; therefore I was not
+too much puzzled by this result. Closer inspection
+showed that Heisenberg’s formula gave only the
+value of the diagonal elements (m=n) of the ma-
+trix pq—qp; it said they were all equal and had the
+value h/27i where h is Planck’s constant and i
+=\-1. But what were the other elements (m#n)?
+
+Here my own constructive work began. Repeating
+Heisenberg’s calculation in matrix notation, I soon
+convinced myself that the only reasonable value of
+the nondiagonal elements should be zero, and I
+wrote the strange equation
+
+h
+pq-qp=-—l, (1)
+
+2a
+
+where 1 is the unit matrix. But this was only a
+guess, and all my attempts to prove it failed.
+
+On 19 July 1925, Born invited his former assistant Wolf-
+
+129 Am. J. Phys., Vol. 77, No. 2, February 2009
+
+gang Pauli to collaborate on the matrix program. Pauli de-
+clined the invitation.” The next day, Born asked his student
+Pascual Jordan to assist him. Jordan accepted the invitation
+and in a few days proved Born’s conjecture that all nondi-
+agonal elements of pq—qp must vanish. The rest of the new
+quantum mechanics rapidly solidified. The Born and Jordan
+paper was received by the Zeitschrift fiir Physik on 27 Sep-
+tember 1925, two months after Heisenberg’s paper was re-
+ceived by the same journal. All the essentials of matrix me-
+chanics as we know the subject today fill the pages of this
+paper.
+
+In the abstract Born and Jordan wrote “The recently pub-
+lished theoretical approach of Heisenberg is here developed
+into a systematic theory of quantum mechanics (in the first
+place for systems having one degree of freedom) with the aid
+of mathematical matrix methods.”*° In the introduction they
+go on to write “The physical reasoning which led Heisenberg
+to this development has been so clearly described by him
+that any supplementary remarks appear superfluous. But, as
+he himself indicates, in its formal, mathematical aspects his
+approach is but in its initial stages. His hypotheses have been
+applied only to simple examples without being fully carried
+through to a generalized theory. Having been in an advanta-
+geous position to familiarize ourselves with his ideas
+throughout their formative stages, we now strive (since his
+investigations have been concluded) to clarify the math-
+ematically formal content of his approach and present some
+of our results here. These indicate that it is in fact possible,
+starting with the basic premises given by Heisenberg, to
+build up a closed mathematical theory of quantum mechanics
+which displays strikingly close analogies with classical me-
+chanics, but at the same time preserves the characteristic
+features of quantum phenomena.”
+
+The reader is introduced to the notion of a matrix in the
+third paragraph of the introduction: “The mathematical basis
+of Heisenberg’s treatment is the law of multiplication of
+quantum-theoretical quantities, which he derived from an in-
+genious consideration of correspondence arguments. The de-
+velopment of his formalism, which we give here, is based
+upon the fact that this rule of multiplication is none other
+than the well-known mathematical rule of matrix multiplica-
+tion. The infinite square array which appears at the start of
+the next section, termed a matrix, is a representation of a
+physical quantity which is given in classical theory as a func-
+tion of time. The mathematical method of treatment inherent
+in the new quantum mechanics is thereby characterized by
+the employment of matrix analysis in place of the usual
+number analysis.”
+
+The Born-Jordan paper* is divided into four chapters.
+Chapter | on “Matrix calculation” introduces the mathemat-
+ics (algebra and calculus) of matrices to physicists. Chapter 2
+on “Dynamics” establishes the fundamental postulates of
+quantum mechanics, such as the law of commutation, and
+derives the important theorems, such as the conservation of
+energy. Chapter 3 on “Investigation of the anharmonic oscil-
+lator” contains the first rigorous (correspondence free) calcu-
+lation of the energy spectrum of a quantum-mechanical har-
+monic oscillator. Chapter 4 on “Remarks = on
+electrodynamics” contains a procedure—the first of its
+kind—to quantize the electromagnetic field. We focus on the
+material in Chap. 2 because it contains the essential physics
+of matrix mechanics.
+
+William A. Fedak and Jeffrey J. Prentis 129
+
+--- Page 3 ---
+II. THE ORIGINAL POSTULATES OF QUANTUM
+MECHANICS
+
+Current presentations of quantum mechanics frequently
+are based on a set of postulates.* The Born—Jordan postu-
+lates of quantum mechanics were crafted before wave me-
+chanics was formulated and thus are quite different than the
+Schrédinger-based postulates in current textbooks. The origi-
+nal postulates come as close as possible to the classical-
+mechanical laws while maintaining complete quantum-
+mechanical integrity.
+
+Section Il, “The basic laws,” in Chap. 2 of the Born—
+Jordan paper is five pages long and contains approximately
+thirty equations. We have imposed a contemporary postula-
+tory approach on this section by identifying five fundamental
+passages from the text. We call these five fundamental ideas
+“the postulates.” We have preserved the original phrasing,
+notation, and logic of Born and Jordan. The labeling and the
+naming of the postulates is ours.
+
+Postulate 1. Position and Momentum. Born and Jordan
+introduce the position and momentum matrices by writing
+that*®
+
+The dynamical system is to be described by the
+spatial coordinate q and the momentum p, these
+being represented by the matrices
+
+2 ari v(aun)ty
+
+(q=q(nm)e
+
+(p = p(nm)e2™re)t) (2)
+
+Here the (nm) denote the quantum-theoretical fre-
+quencies associated with the transitions between
+states described by the guantum numbers n and m.
+The matrices (2) are to be Hermitian, e.g., on trans-
+position of the matrices, each element is to go over
+into its complex conjugate value, a condition
+which should apply for all real t. We thus have
+
+q(nm)q(mn) = |q(nm)|? (3)
+
+and
+
+v(nm) =— v(mn). (4)
+
+If q is a Cartesian coordinate, then the expression
+(3) is a measure of the probabilities of the transi-
+tions n=m.
+
+The preceding passage placed Hermitian matrices into the
+physics limelight. Prior to the Born—Jordan paper, matrices
+were rarely seen in physics.” Hermitian matrices were even
+stranger. Physicists were reluctant to accept such an abstract
+mathematical entity as a description of physical reality.
+
+For Born and Jordan, q and p do not specify the position
+and momentum of an electron in an atom. Heisenberg
+stressed that quantum theory should focus only on the ob-
+servable properties, namely the frequency and intensity of
+the atomic radiation and not the position and period of the
+electron. The quantities q and p represent position and mo-
+mentum in the sense that q and p satisfy matrix equations of
+motion that are identical in form to those satisfied by the
+
+130 Am. J. Phys., Vol. 77, No. 2, February 2009
+
+position and momentum of classical mechanics. In the Bohr
+atom the electron undergoes periodic motion in a well de-
+fined orbit around the nucleus with a certain classical fre-
+quency. In the Heisenberg—Born—Jordan atom there is no
+longer an orbit, but there is some sort of periodic “quantum
+motion” of the electron characterized by the set of frequen-
+cies v(nm) and amplitudes q(nm). Physicists believed that
+something inside the atom must vibrate with the right fre-
+quencies even though they could not visualize what the
+quantum oscillations looked like. The mechanical properties
+(q,p) of the quantum motion contain complete information
+on the spectral properties (frequency, intensity) of the emit-
+ted radiation.
+
+The diagonal elements of a matrix correspond to the
+states, and the off-diagonal elements correspond to the tran-
+sitions. An important property of all dynamical matrices is
+that the diagonal elements are independent of time. The Her-
+mitian rule in Eq. (4) implies the relation v(nn)=0. Thus the
+time factor of the nth diagonal term in any matrix is
+
+27)! 1 As we shall see, the time-independent entries in
+a diagonal matrix are related to the constant values of a con-
+served quantity.
+
+In their purely mathematical introduction to matrices
+(Chap. 1), Born and Jordan use the following symbols to
+denote a matrix
+
+a(00) a(Ol) a(02)
+
+a(10) a(11) a(12)
+a=(a(nm)) = a(20) a(21) a(22) . (5)
+
+The bracketed symbol (a(nm)), which displays inner ele-
+ments a(nm) contained within outer brackets (), is the short-
+hand notation for the array in Eq. (5). By writing the matrix
+elements as a(nm), rather than a,,,,, Born and Jordan made
+direct contact with Heisenberg’s quantum- theoretical quanti-
+ties a(n,n—a) (see the Appendix). They wrote*? “Matrix
+multiplication is defined by the rule ‘rows times columns,”
+familiar from the ordinary theory of determinants:
+
+Ed
+
+a=be means a(nm) = >, b(nk)c(km) .” (6)
+k=0
+
+This multiplication rule was first given (for finite square ma-
+trices) by Arthur Cayley.*° Little did Cayley know in 1855
+that his mathematical “row times column” expression
+b(nk)c(km) would describe the physical process of an elec-
+tron making the transition n—k—m in an atom.
+
+Born and Jordan wrote in Postulate 1 that the quantity
+|q(nm)/? provides “a measure of the probabilities of the tran-
+sitions nm. ” They justify this profound claim in the last
+chapter.*” Born and Jordan’s one-line claim about transition
+probabilities is the only statistical statement in their postu-
+lates. Physics would have to wait several months before
+Schrédinger’s wave function (x) and Born’s probability
+function |W(x)|? entered the scene. Born discovered the con-
+nection between |V(x)|? and position probability, and was
+also the first physicist (with Jordan) to formalize the connec-
+tion between |q(nm)|? and the transition probability via a
+“quantum electrodynamic” argument.*® As a pioneer statisti-
+cal interpreter of quantum mechanics, it is interesting to
+speculate that Born might have discovered how to form a
+
+William A. Fedak and Jeffrey J. Prentis 130
+
+--- Page 4 ---
+linear superposition of the periodic matrix elements
+q(nm)e?7"""" in order to obtain another statistical object,
+namely the expectation value (q). Early on, Born, Heisen-
+berg, and Jordan did superimpose matrix elements,” but did
+not supply the statistical interpretation.
+
+Postulate 2. Frequency Combination Principle. After de-
+fining q and p, Born and Jordan wrote” “Further, we shall
+require that
+
+v(jk) + v(kl) + v(lj) =0.” (7)
+
+The frequency sum rule in Eq. (7) is the fundamental con-
+straint on the quantum-theoretical frequencies. This rule is
+based on the Ritz combination principle, which explains the
+relations of the spectral lines of atomic spectroscopy." ° Equa-
+tion (7) is the quantum analogue of the “Fourier combination
+principle”, v(k—j)+v(I-k)+v({-)=0, where v(a)=avr(1)
+is the frequency of the ath harmonic component of a Fourier
+series. The frequency spectrum of classical periodic motion
+obeys this Fourier sum rule. The equal Fourier spacing of
+classical lines is replaced by the irregular Ritzian spacing of
+quantal lines. In the correspondence limit of large quantum
+numbers and small quantum jumps the atomic spectrum of
+Ritz reduces to the harmonic spectrum of Fourier.*”° Be-
+cause the Ritz rule was considered an exact law of atomic
+spectroscopy, and because Fourier series played a vital role
+in Heisenberg’s analysis, it made sense for Born and Jordan
+to posit the frequency rule in Eq. (7) as a basic law.
+
+One might be tempted to regard Eq. (7) as equivalent to
+the Bohr frequency condition, E(n)-E(m)=hv(nm), where
+E(n) is the energy of the nny state n. For Born and
+Jordan, Eq. (7) says nothing about energy. They note that
+
+Eqs. (4) and (7) imply that there exists spectral terms W,,
+such that
+hv(nm) = W,,- Wry. (8)
+
+At this postulatory stage, the term W,, of the spectrum is
+unrelated to the energy E(n) of the state. Heisenberg empha-
+sized this distinction between “term” and ‘ “energy” in a letter
+to Pauli summarizing the Born-Jordan theory.” Born and
+Jordan adopt Eq. (7) as a postulate—one based solely on the
+observable spectral quantities v(m) without reference to any
+mechanical quantities E(n). The Bohr frequency condition is
+not something they assume a priori, it is something that must
+be rigorously proved.
+
+The Ritz rule insures that the nm element of any dynami-
+cal matrix (any function of p and q) oscillates with the same
+frequency v(nm) as the nm element of p and q. For example,
+if the 32 elements of p and q oscillate at 500 MHz, then
+the 3—+2 elements of p?, q’, pq, q°, p?+q/, etc. each oscil-
+late at 500 MHz. In all calculations involving the canonical
+matrices p and q, no new frequencies are generated. A con-
+sistent quantum theory must preserve the frequency spectrum
+of a particular atom because the spectrum is the spectro-
+scopic signature of the atom. The calculations must not
+change the identity of the atom. Based on the rules for ma-
+nipulating matrices and combining frequencies, Born and
+Jordan wrote that “it follows that a function g(pq) invariably
+takes on the form
+
+=(g(nm)e2™ mm)t) °
+
+and the matrix (g(nm)) therein results from identically the
+same process applied to the matrices (g(nm)), (p(nm)) as
+
+131 Am. J. Phys., Vol. 77, No. 2, February 2009
+
+was employed to find g from q, p.”“” Because e27"""™ is the
+
+universal time factor common to all dynamical matrices, they
+note that it can be dropped from Eq. (2) in favor of the
+shorter notation q=(q(nm)) and p=(p(nm)).
+
+Why does the Ritz rule insure that the time factors of
+g(pq) are identical to the time factors of p and q? Consider
+the potential energy function q?. The nm element of q?,
+which we denote by @(nm), is obtained from the elements of
+q via the multiplication rule
+
+q2(nm) = Dalnkye Ami Akt a (feyq) e2MIM I, (10)
+
+Given the Ritz relation v(nm)=v(nk)+ (km), which follows
+from Eqs. (4) and (7), Eq. (10) reduces to
+
+q?(nm) = |= anki) |e (1)
+k
+
+It follows that the nm time factor of q? is the same as the nm
+time factor of q.
+
+We see that the theoretical rule for multiplying mechanical
+amplitudes, a(nm)=>,b(nk)c(km), is intimately related to
+the experimental rule for adding spectral frequencies,
+v(nm)=v(nk)+ (km). The Ritz rule occupied a prominent
+place in Heisenberg’s discovery of the multiplication rule
+(see the Appendix). Whenever a contemporary physicist cal-
+culates the total amplitude of the quantum jump n—k—m,
+the steps involved can be traced back to the frequency com-
+bination principle of Ritz.
+
+Postulate 3. The Equation of Motion. Born and Jordan
+introduce the law of quantum dynamics by writing®®
+
+In the case of a Hamilton function having the form
+
+1
+=5,,P*+Ulq), (12)
+m
+
+we shall assume, as did Heisenberg, that the equa-
+tions of motion have just the same form as in the
+classical theory, so that we can write:
+
+. Al (13a)
+=—=—p, a
+q ap nP
+HAH wv
+p=-—=-—. (13b)
+aq aq
+
+This Hamiltonian formulation of quantum dynamics general-
+ized Heisenberg’s Newtonian approach." The assumption by
+Heisenberg and Born and Jordan that quantum dynamics
+looks the same as classical dynamics was a bold and deep
+assumption. For them, the problem with classical mechanics
+was not the dynamics (the form of the equations of motion),
+but rather the kinematics (the meaning of position and mo-
+mentum).
+
+Postulate 4. Energy Spectrum. Born and Jordan reveal the
+connection between the allowed energies of a conservative
+system and the numbers in the Hamiltonian matrix:
+
+“The diagonal elements H(nn) of H are inter-
+preted, according to Heisenberg, as the energies of
+the various states of the system.”
+
+William A. Fedak and Jeffrey J. Prentis 131
+
+--- Page 5 ---
+This statement introduced a radical new idea into main-
+stream physics: calculating an energy spectrum reduces to
+finding the components of a diagonal matrix.*° Although
+Born and Jordan did not mention the word eigenvalue in Ref.
+4, Born, Heisenberg, and Jordan would soon formalize the
+idea of calculating an energy spectrum by solving an eigen-
+value problem.° The ad hoc rules for calculating a quantized
+energy in the old quantum theory were replaced by a system-
+atic mathematical program.
+
+Born and Jordan considered exclusively conservative sys-
+tems for which H does not depend explicitly on time. The
+connection between conserved quantities and diagonal matri-
+ces will be discussed later. For now, recall that the diagonal
+elements of any matrix are independent of time. For the spe-
+cial case where all the non-diagonal elements of a dynamical
+matrix g(pq) vanish, the quantity g is a constant of the mo-
+tion. A postulate must be introduced to specify the physical
+meaning of the constant elements in g.
+
+In the old quantum theory it was difficult to explain why
+the energy was quantized. The discontinuity in energy had to
+be postulated or artificially imposed. Matrices are naturally
+quantized. The quantization of energy is built into the dis-
+crete row-column structure of the matrix array. In the old
+theory Bohr’s concept of a stationary state of energy E,, was
+a central concept. Physicists grappled with the questions:
+Where does E,, fit into the theory? How is E,, calculated?
+Bohr’s concept of the energy of the stationary state finally
+found a rigorous place in the new matrix scheme.
+
+Postulate 5. The Quantum Condition. Born and Jordan
+state that the elements of p and q for any quantum mechani-
+cal system must satisfy the “quantum condition”:
+
+© (pink) glbn) — glnkplkn)) = 5. (14)
+k Ti
+
+Given the significance of Eq. (14) in the development of
+quantum mechanics, we quote Born and Jordan’s “deriva-
+tion” of this equation:
+
+The equation
+
+l/p
+J=  paa= | pqdt (15)
+0
+
+of “classical” quantum theory can, on introducing
+the Fourier expansions of p and q,
+
+Ea
+
+p= > perm",
+m0
+(16)
+q= ae",
+me
+be transformed into
+1=2 > im ) (17)
+=271 Tm .
+a LP-r
+
+sd
+
+The following expressions should correspond:
+
+132 Am. J. Phys., Vol. 77, No. 2, February 2009
+
+Ed
+
+a
+> Ty AP-2) (18)
+
+Te
+
+with
+
+Ea
+
+1 > (q(n+ 7,n)p(n,n + 7)
+
+hh on
+
+—q(n,n— 7)p(n—7,n)), (19)
+
+where in the right-hand expression those q(nm),
+p(nm) which take on a negative index are to be set
+equal to zero. In this way we obtain the quantiza-
+tion condition corresponding to Eq. (17) as
+
+D (pinkalbn)— glnkptkm)) =~. 20)
+i Ti
+
+This is a system of infinitely many equations,
+namely one for each value of nJ®
+
+Why did Born and Jordan take the derivative of the action
+integral in Eq. (15) to arrive at Eq. (17)? Heisenberg per-
+formed a similar maneuver (see the Appendix). One reason is
+to eliminate any explicit dependence on the integer variable
+n from the basic laws. Another reason is to generate a differ-
+ential expression that can readily be translated via the corre-
+spondence principle into a difference expression containing
+only transition quantities. In effect, a state relation is con-
+verted into a change-in-state relation. In the old quantum
+theory the Bohr-Sommerfeld quantum condition, pdg=nh,
+determined how all state quantities depend on n. Such an ad
+hoc quantization algorithm has no proper place in a rigorous
+quantum theory, where n should not appear explicitly in any
+of the fundamental laws. The way in which q(nm), p(nm),
+v(nm) depend on (nm) should not be artificially imposed, but
+should be naturally determined by fundamental relations in-
+volving only the canonical variables q and p, without any
+explicit dependence on the state labels n and m. Equation
+(20) is one such fundamental relation.
+
+In 1924 Born introduced the technique of replacing differ-
+entials by differences to make the “formal passage from clas-
+sical mechanics to a ‘quantum mechanics’.”"” This corre-
+spondence rule played an important role in allowing Born
+and others to develop the equations of quantum mechanics.~’
+To motivate Born’s rule note that the fundamental orbital
+frequency of a classical periodic system is equal to dE/dJ (E
+is energy and J=¢pdq is an action)! whereas the spectral
+frequency of an atomic system is equal to AE/h. Hence, the
+passage from a classical to a quantum frequency is made by
+replacing the derivative dE/dJ by the difference AE/h.
+Born conjectured that this correspondence is valid for any
+quantity ®. He wrote “We are therefore as good as forced to
+adopt the rule that we have to replace a classically calculated
+quantity, whenever it is of the form 7d®/0J by the_linear
+average or difference quotient [®(n+7)-®(n)|/h.” The
+correspondence between Eqs. (18) and (19) follows from
+
+William A. Fedak and Jeffrey J. Prentis 132
+
+--- Page 6 ---
+Born’s rule by letting ® be ®(n)=g(n,n-7)p(n-7,n),
+where g(n,n—7) corresponds to g, and p(n—7,n) corre-
+sponds to p_, or p..
+
+Born and Jordan remarked that Eq. (20) implies that p and
+q can never be finite matrices.” For the special case p
+=mgq they also noted that the general condition in Eq. (20)
+reduces to Heisenberg’s form of the quantum condition (see
+the Appendix). Heisenberg did not realize that his quantiza-
+tion rule was a relation between pq and qp.>
+
+Planck’s constant / enters into the theory via the quantum
+condition in Eq. (20). The quantum condition expresses the
+following deep law of nature: All the diagonal components of
+Pq—qp must equal the universal constant h/2 ai.
+
+What about the nondiagonal components of pq—qp? Born
+claimed that they were all equal to zero. Jordan proved
+Born’s claim. It is important to emphasize that Postulate 5
+says nothing about the nondiagonal elements. Born and Jor-
+dan were careful to distinguish the postulated statements
+(laws of nature) from the derivable results (consequences of
+the postulates). Born’s development of the diagonal part of
+pq-—gqp and Jordan’s derivation of the nondiagonal part con-
+stitute the two-part discovery of the law of commutation.
+
+IV. THE LAW OF COMMUTATION
+
+Born and Jordan write the following equation in Sec. IV of
+“On quantum mechanics”:
+
+h
+Pq-ap= 57 “1. (21)
+T1
+
+They call Eq. (21) the “sharpened quantum condition” be-
+cause it sharpened the condition in Eq. (20), which only fixes
+the diagonal elements, to one which fixes all the elements. In
+a letter to Pauli, Heisenberg referred to Eq. (21) as a “fun-
+damental law of this mechanics” and as “Born’s very clever
+idea.””° Indeed, the commutation law in Eq. (21) is one of
+the most fundamental relations in quantum mechanics. This
+equation introduces Planck’s constant and the imaginary
+number i into the theory in the most basic way possible. It is
+the golden rule of quantum algebra and makes quantum cal-
+culations unique. The way in which all dynamical properties
+of a system depend on / can be traced back to the simple
+way in which pq—qp depend on A. In short, the commuta-
+tion law in Eq. (21) stores information on the discontinuity,
+the non-commutativity, the uncertainty, and the complexity
+of the quantum world.
+
+In their paper Born and Jordan proved that the off-
+diagonal elements of pq—qp are equal to zero by first estab-
+lishing a “diagonality theorem,” which they state as follows:
+“If v(nm)#0 when n#m, a condition which we wish to
+assume, then the formula g=0 denotes that g is a diagonal
+matrix with g(nm)=6,,g(nn).”>’ This theorem establishes
+the connection between the structural (diagonality) and the
+temporal (constancy) properties of a dynamical matrix. It
+provided physicists with a whole new way to look at conser-
+vation principles: Jn quantum mechanics, conserved quanti-
+ties are represented by diagonal matrices.
+
+Born and Jordan proved the diagonality theorem as fol-
+lows. Because all dynamical matrices g(pq) have the form in
+Eq. (9), the time derivative of g is
+
+133 Am. J. Phys., Vol. 77, No. 2, February 2009
+
+& =27i(v(nm)g(nm)e2™"").. (22)
+
+If g=0, then Eq. (22) implies the relation »(nm)g(nm)=0 for
+all (nm). This relation is always true for the diagonal ele-
+ments because v(nn) is always equal to zero. For the off-
+diagonal elements, the relation v(nm)g(nm)=0 implies that
+g(nm) must equal zero, because it is assumed that v(nm)
+#0 for n#m. Thus, g is a diagonal matrix.
+
+Hence, to show that pq—qp is a diagonal matrix, Born
+and Jordan showed that the time derivative of pq—gqp is
+equal to zero. They introduced the matrix d=pq-—gqp and
+expressed the time derivative of d as
+
+d= pq + pq- 4p — ap. (23)
+They used the canonical equations of motion in Eq. (13) to
+write Eq. (23) as
+
+d=a - Sas pata. (24)
+
+aq oq op op
+
+They next demonstrated that the combination of derivatives
+in Eq. (24) leads to a vanishing result” and say that “
+
+follows that d=0 and d is a diagonal matrix. The dinsonal
+elements of d are, however, specified by the quantum condi-
+tion (20). Summarizing, we obtain the equation
+
+Pq - 4p = ty (25)
+2a
+
+on introducing the unit matrix 1. We call Eq. (25) the ‘sharp-
+
+nes quantum condition’ and base all further conclusions on
+
+° Fundamental results that propagate from Eq. (25) in-
+
+clude the equation of motion, g=(27i/h)(Hg—gH) (see Sec.
+
+V), the Heisenberg uncertainty principle, ApAqg=h/47, and
+the Schrédinger operator, p=(h/277i)d/dq.
+
+It is important to emphasize the two distinct origins of
+pq-qp=(h/27i)1. The diagonal part, (pq—qP)aiagonal
+=h/277i is a law—an exact decoding of the approximate law
+¢pdqz=nh. The nondiagonal part, (Pq—QP)nondiagonal=9, iS a
+theorem—a logical consequence of the equations of motion.
+From a practical point of view Eq. (25) represents vital in-
+formation on the line spectrum of an atom by defining a
+system of algebraic equations that place strong constraints on
+the magnitudes of g(nm), p(nm), and v(nm).
+
+V. THE EQUATION OF MOTION
+
+Born and Jordan proved that the equation of motion de-
+scribing the time evolution of any dynamical quantity g(pq)
+is
+
+oni
+= =~ (He- gH). (26)
+
+Equation (26) is now often referred to as the Heisenberg
+equation.° "In Ref. 2 the only equation of motion is Newton’s
+second law, which Heisenberg wrote as ¥+f(x)=0 (see the
+Appendix).
+
+The “commutator” of mechanical quantities is a recurring
+theme in the Born—Jordan theory. The quantity pq—qp lies at
+the core of their theory. Equation (26) reveals how the quan-
+tity Hg—gH is synonymous with the time evolution of g.
+Thanks to Born and Jordan, as well as Dirac who established
+the connection between commutators and classical Poisson
+
+William A. Fedak and Jeffrey J. Prentis 133
+
+--- Page 7 ---
+brackets,° the commutator is now an integral part of modern
+quantum theory. The change in focus from commuting vari-
+ables to noncommuting variables represents a paradigm shift
+in quantum theory.
+
+The original derivation of Eq. (26) is different from
+present-day derivations. In the usual textbook presentation
+Eq. (26) is derived from a unitary transformation of the states
+and operators in the Schrodinger picture.” “In 1925, the
+Schrédinger picture did not exist. To derive Eq. (26) from
+their postulates Born and Jordan developed a new quantum-
+theoretical technology that is now referred to as ““commuta-
+tor algebra.” They began the proof by stating the following
+generalizations of Eq. (25):
+
+h
+P’q=qp"+n5—p"", (27)
+
+h
+
+a'p = pq" —n>—4"", (28)
+which can readily be derived by induction. They considered
+Hamiltonians of the form
+
+H=H,(p) + Ho(q), (29)
+where H,(p) and H,(q) are represented by power series
+H,= >> ap",
+5
+H= > bq’. (30)
+5
+
+After writing these expressions, they wrote” “Formulae (27)
+
+and (28) indicate that
+
+H H=——, 31
+4-qH= 5p (31)
+H H = a (32)
+Pe oni aq”
+Comparison with the equations of motion (13) yields
+_ Qa
+a= (Haq), (33)
+Qa
+b= ——(Hp - pH). (34)
+Denoting the matrix Hg—gH by lel for brevity, one has
+H H H
+= b+al_ |, (35)
+ab a
+from which generally for g=g(pq) one may conclude that
+2mi|H| 27
+=F |—]/ =) (He-sH).” (36)
+
+The derivation of Eq. (36) clearly displays Born and Jordan’s
+expertise in commutator algebra. The essential step to go
+from Eq. (27) to Eq. (31) is to note that Eq. (27) can be
+rewritten as a commutator-derivative relation, p"q—qp”
+=(h/277i)dp"/dp, which is equivalent to the nth term of the
+series representation of Eq. (31). The generalized commuta-
+tion rules in Eqs. (27) and (28), and the relation between
+
+134 Am. J. Phys., Vol. 77, No. 2, February 2009
+
+commutators and derivatives in Eqs. (31) and (32) are now
+standard operator equations of contemporary quantum
+theory.
+
+With the words, “Denoting the matrix Hg—gH by lh
+Born and Jordan formalized the notion of a commutator and
+introduced physicists to this important quantum-theoretical
+object. The appearance of Eq. (36) in Ref. 4 marks the first
+printed statement of the general equation of motion for a
+dynamical quantity in quantum mechanics.
+
+VI. THE ENERGY THEOREMS
+
+Heisenberg, Born, and Jordan considered the conservation
+of energy and the Bohr frequency condition as universal laws
+that should emerge as logical consequences of the fundamen-
+tal postulates. Proving energy conservation and the fre-
+quency condition was the ultimate measure of the power of
+the postulates and the validity of the theory. Born and Jor-
+dan began Sec. IV of Ref. 4 by writing “The content of the
+preceding paragraphs furnishes the basic rules of the new
+quantum mechanics in their entirety. All the other laws of
+quantum mechanics, whose general validity is to be verified,
+must be derivable from these basic tenets. As instances of
+such laws to be proved, the law of energy conservation and
+the Bohr frequency condition primarily enter into
+consideration.”
+
+The energy theorems are stated as follows:
+
+H=0 (energy conservation), (37)
+
+hv(nm) = H(nn) - H(mm) (frequency condition). (38)
+
+Equations (37) and (38) are remarkable statements on the
+temporal behavior of the system and the logical structure of
+the theory. Equation (37) says that H, which depends on
+the matrices p and q is always a constant of the motion even
+though p=p(¢) and q=q(t) depend on time. In short, the ¢ in
+H(p(1),q(t)) must completely disappear. Equation (37) re-
+veals the time independence of H, and Eq. (38) specifies how
+H itself determines the time dependence of all other dynami-
+cal quantities.
+
+Why should v(nm), H(nn), and H(mm) be related? These
+quantities are completely different structural elements of dif-
+ferent matrices. The parameter v(m) is a transition quantity
+that characterizes the off-diagonal, time-dependent part of q
+and p. In contrast, H(nn) is a state quantity that characterizes
+the diagonal, time-independent part of H(pq). It is a non-
+trivial claim to say that these mechanical elements are re-
+lated.
+
+It is important to distinguish between the Bohr meaning of
+E,-E,=hv and the Born—Jordan meaning of H(nn)
+—H(mm)=hv(nm). For Bohr, E, denotes the mechanical en-
+ergy of the electron and v denotes the spectral frequency of
+the radiation. In the old quantum theory there exists ad hoc,
+semiclassical rules to calculate E,. There did not exist any
+mechanical rules to calculate v, independent of E,, and E,,.
+The relation between E,,—E,, and v was postulated. Born and
+Jordan did not postulate any connection between H(nn),
+H(mm), and v(nm). The basic mechanical laws (law of mo-
+tion and law of commutation) allow them to calculate the
+frequencies (nm) which paramaterize q and the energies
+H(nn) stored in H. The theorem in Eq. (38) states that the
+
+William A. Fedak and Jeffrey J. Prentis 134
+
+--- Page 8 ---
+calculated values of the mechanical parameters H(nn),
+H(mm), and v(nm) will always satisfy the relation H(nn)
+—H(mm)=hv(nm).
+
+The equation of motion (36) is the key to proving the
+energy theorems. Born and Jordan wrote “In particular, if in
+Eq. (36) we set g=H, we obtain
+
+H=0. (39)
+
+Now that we have verified the energy-conservation law and
+recognized the matrix H to be diagonal [by the diagonality
+theorem, H=0=H is diagonal], Eqs. (33) and (34) can be
+put into the form
+
+hv(nm)q(nm) = (A(nn) — H(mm))q(nm), (40)
+
+hv(nm)p(nm) = (H(nn) — H(mm))p(nm), (41)
+
+from which the frequency condition follows.”®” Given the
+importance of this result, it is worthwhile to elaborate on the
+proof. Because the nm component of any matrix g is
+g(nm)e27""™)", the nm component of the matrix relation in
+Eq. (33) is
+
+Qui v(nm)q(nm)e2™""
+
+= TY (H(nk)qlkm)
+k
+
+= q(nk)H(k) e274 ken (42)
+
+Given the diagonality of H, A(nk)=H(nn)6,, and H(km)
+=H(mm) 6», and the Ritz rule, v(nk)+v(km)=v(nm), Eq.
+(42) reduces to
+
+v(nm) = = (H(an) —H(mm)). (43)
+
+In this way Born and Jordan demonstrated how Bohr’s fre-
+quency condition, hv(nm)=H(nn)—H(mm), is simply a sca-
+lar component of the matrix equation, hq=27i(Hq-qH). In
+any presentation of quantum mechanics it is important to
+explain how and where Bohr’s frequency condition logically
+fits into the formal structure.°*
+
+According to Postulate 4, the nth diagonal element H(nn)
+of H is equal to the energy of the nth stationary state. Logi-
+cally, this postulate is needed to interpret Eq. (38) as the
+original frequency condition conjectured by Bohr. Born and
+Jordan note that Eqs. (8) and (38) imply that the mechanical
+energy H(nn) is related to the spectral term W,, as follows:
+W,,=H(nn)+constant.”
+
+This mechanical proof of the Bohr frequency condition
+established an explicit connection between time evolution
+and energy. In the matrix scheme all mechanical quantities
+(p, q, and g(pq)) evolve in time via the set of factors
+e2munm)t where v(nm)=(H(nn)—H(mm))/h. Thus, all
+g-functions have the form”?
+
+g= (g(nm)e2™Hn—Hlmm))tihy (44)
+
+Equation (44) exhibits how the difference in energy between
+state n and state m is the “driving force” behind the time
+evolution (quantum oscillations) associated with the change
+of state nm.
+
+In the introduction of their paper, Born and Jordan write
+“With the aid of [the equations of motion and the quantum
+
+135 Am. J. Phys., Vol. 77, No. 2, February 2009
+
+condition], one can prove the general validity of the law of
+conservation of energy and the Bohr frequency relation in the
+sense conjectured by Heisenberg: this proof could not be
+carried through in its entirety by him even for the simple
+examples which he considered.” ' Because p and q do not
+commute, the mechanism responsible for energy conserva-
+tion in quantum mechanics is significantly different than the
+classical mechanism. Born and Jordan emphasize this differ-
+ence by writing “Whereas in classical mechanics energy con-
+
+servation (H=0) is directly apparent from the canonical
+equations, the same law of energy conservation in quantum
+
+mechanics, H=0 lies, as one can see, more deeply hidden
+beneath the surface. That its demonstrability from the as-
+sumed postulates is far from being trivial will be appreciated
+if, following more closely the classical method of proof, one
+
+sets out to prove H to be constant simply by evaluating H””?
+We carry out Born and Jordan’s suggestion “to prove H to
+
+be constant simply by evaluating H” for the special Hamil-
+tonian
+
+H=p'+q°. (45)
+
+In order to focus on the energy calculus of the p and q
+matrices, we have omitted the scalar coefficients in Eq. (45).
+
+If we write Eq. (45) as H=pp+qqq, calculate H, and use the
+equations of motion q=2p, p=—3q?, we find”
+
+H = q(pq- ap) + (qp - pa)a. (46)
+Equation (46) reveals how the value of pq—qp uniquely
+determines the value of H. The quantum condition, pq—qp
+
+=(h/277i)1, reduces Eq. (46) to H=0. In classical mechanics
+the classical condition, pqg—qp=0, is taken for granted in
+proving energy conservation. In quantum mechanics the con-
+dition that specifies the nonzero value of pq—qp plays a
+nontrivial role in establishing energy conservation. This non-
+triviality is what Born and Jordan meant when they wrote
+that energy conservation in quantum mechanics “lies more
+deeply hidden beneath the surface.”
+
+Proving the law of energy conservation and the Bohr fre-
+quency condition was the decisive test of the theory—the
+final validation of the new quantum mechanics. All of the
+pieces of the “quantum puzzle” now fit together. After prov-
+ing the energy theorems, Born and Jordan wrote that “The
+fact that energy-conservation and frequency laws could be
+proved in so general a context would seem to us to furnish
+strong grounds to hope that this theory embraces truly deep-
+seated physical laws.””*
+
+VII. CONCLUSION
+
+To put the discovery of quantum mechanics in matrix form
+into perspective, we summarize the contributions of Heisen-
+berg and Born—Jordan. Heisenberg’s breakthrough consists
+of four quantum-theoretical reinterpretations (see the Appen-
+dix):
+
+1. Replace the position coordinate x(t) by the set of transi-
+tion components a(n,n— ae",
+2. Replace x°(t) with the set L,a(n,n-a)eio'"a(n
+
+_ a,n— Beira PI,
+
+3. Keep Newton’s second law, +/(x)=0, but replace x as
+before.
+
+William A. Fedak and Jeffrey J. Prentis 135
+
+--- Page 9 ---
+4. Replace the old quantum condition, nh=mxdt, with h
+=4am> fla(nta,n)?o(n+a,n)—la(n,n—a)Po(n,n
+
+—a)}.
+
+The quantum mechanics of Born and Jordan consists of
+five postulates:
+
+qz= (q(nm) e277?) p=(p(nm)e27""™),
+v(jk) + v(kl) + (lj) =0,
+
+4=0H/ op, p=-dH/ aq,
+
+E,,=H(nn), and
+
+(P9-4P) giagona=// 27,
+
+YRYN ES
+
+and four theorems
+
+1. (PQ GP) nondiagonar=0;
+
+2. g=(27i/h)(Hg-gH),
+
+3. H=0, and
+
+4. hv(nm)=H(nn)-H(mm).
+
+Quantum mechanics evolved at a rapid pace after the pa-
+pers of Heisenberg and Born—Jordan. Dirac’s paper was re-
+ceived on 7 November 1925.° Born, Heisenberg, and Jor-
+dan’s paper was received on 16 November 1925. The first
+“textbook” on quantum mechanics appeared in 1926.” Ina
+series of papers during the spring of 1926, Schrédinger set
+forth the theory of wave mechanics.” In a paper received
+June 25, 1926 Born introduced the statistical interpretation of
+the wave function.’’ The Nobel Prize was awarded to
+Heisenberg in 1932 (delayed until 1933) to Schrédinger and
+Dirac in 1933, and to Born in 1954.
+
+APPENDIX: HEISENBERG’S FOUR
+BREAKTHROUGH IDEAS
+
+We divide Heisenberg’s paper” into four major reinterpre-
+tations. For the most part we will preserve Heisenberg’s
+original notation and arguments.
+
+Reinterpretation 1: Position. Heisenberg considered one-
+dimensional periodic systems. The classical motion of the
+system (in a stationary state labeled n) is described by the
+time-dependent position x(n, ny.’ Heisenberg represents this
+periodic function by the Fourier series
+
+x(n, =>, a,(njeion", (Al)
+
+Unless otherwise noted, sums over integers go from —~ to ~.
+The ath Fourier component related to the nth stationary state
+has amplitude a,(n) and frequency aw(n). According to the
+correspondence principle, the ath Fourier component of the
+classical motion in the state n corresponds to the quantum
+jump from state n to state n—a@. 826 Motivated by this prin-
+ciple, Heisenberg replaced the classical component
+ag(nye" by the transition component —a(n,n
+-a)eio- We could say that the Fourier harmonic is
+replaced by a “Heisenberg harmonic.” Unlike the sum over
+the classical components in Eq. (Al), Heisenberg realized
+that a similar sum over the transition components is mean-
+ingless. Such a quantum Fourier series could not describe the
+electron motion in one stationary state (n) because each term
+in the sum describes a transition process associated with two
+states (n and n-a).
+
+Heisenberg’s next step was bold and ingenious. Instead of
+
+136 Am. J. Phys., Vol. 77, No. 2, February 2009
+
+reinterpreting x(t) as a swm over transition components, he
+represented the position by the ser of transition components.
+We symbolically denote Heisenberg’s reinterpretation as
+
+(A2)
+
+x — fa(n, n— aeionn on.
+Equation (A2) is the first breakthrough relation.
+
+Reinterpretation 2: Multiplication. To calculate the energy
+of a harmonic oscillator, Heisenberg needed to know the
+quantity x’. How do you square a set of transition compo-
+nents? Heisenberg posed this fundamental question twice in
+his paper.* ° His answer gave birth to the algebraic structure
+of quantum mechanics. We restate Heisenberg’s question as
+“If x is represented by {a(n,n—a)ei""-"} and x? is repre-
+sented by {b(n,n— Bei"), how is b(n,n—£) related to
+a(n,n—a)?”
+
+Heisenberg answered this question by reinterpreting the
+square of a Fourier series with the help of the Ritz principle.
+He evidently was convinced that quantum multiplication,
+whatever it looked like, must reduce to Fourier-series multi-
+plication in the classical limit. The square of Eq. (A1) gives
+
+x?(n,t) = = bolnyebo, (A3)
+where the Sth Fourier amplitude is
+bol) =X ag(n)ap_aln). (A4)
+
+@
+
+In the new quantum theory Heisenberg replaceed Eqs. (A3)
+and (A4) with
+
+= {d(n,n- peer", (AS)
+where the n—n-f transition amplitude is
+b(nsn- B) => a(n,n- a)a(n- a,n- B). (A6)
+
+a
+
+In constructing Eq. (A6) Heisenberg uncovered the symbolic
+algebra of atomic processes.
+The logic behind the quantum rule of multiplication can be
+summarized as follows. Ritz’s sum rule for atomic frequen-
+cies, w(n,n-B)=o0(n,n-a)+(n—a,n-B), implies the
+product rule for Heisenberg’s kinematic elements, e("~9)!
+= elolnn-a)igio(n—a.n-B)! which is the backbone of the multipli-
+cation rule in Eq. (A6). Equation (A6) allowed Heisenberg to
+algebraically manipulate the transition components.
+Reinterpretation 3: Motion. Equations (A2), (A5), and
+(A6) represent the new “kinematics” of quantum theory—the
+new meaning of the position x. Heisenberg next turned his
+attention to the new “mechanics.” The goal of Heisenberg’s
+mechanics is to determine the amplitudes, frequencies, and
+energies from the given forces. Heisenberg noted that in the
+old quantum theory a,(7) and w(n) are determined by soly-
+ing the classical equation of motion
+
+#+ f(x) =0
+
+and quantizing the classical solution—making it depend on
+n—via the quantum condition
+
+p mxdx =nh.
+
+In Eqs. (A7) and (A8)
+and m is the mass.
+
+(A7)
+
+(A8)
+
+f(x) is the force (per mass) function
+
+William A. Fedak and Jeffrey J. Prentis 136
+
+--- Page 10 ---
+Heisenberg assumed that Newton’s second law in Eq. (A7)
+is valid in the new quantum theory provided that the classical
+quantity x is replaced by the set of quantities in Eq. (A2), and
+f(x) is calculated according to the new rules of amplitude
+algebra. Keeping the same form of Newton’s law of dynam-
+ics, but adopting the new kinematic meaning of x is the third
+Heisenberg breakthrough.
+
+Reinterpretation 4: Quantization. How did Heisenberg re-
+interpret the old quantization condition in Eq. (A8)? Given
+the Fourier series in Eq. (A1), the quantization condition,
+nh= ¢mx"dt, can be expressed in terms of the Fourier param-
+eters a,(n) and w(n) as
+
+nh=20m>, lag(n)?a? o(n). (A9)
+
+For Heisenberg, setting $pdx equal to an integer multiple of
+h was an arbitrary rule that did not fit naturally into the
+dynamical scheme. Because his theory focuses exclusively
+on transition quantities, Heisenberg needed to translate the
+old quantum condition that fixes the properties of the states
+to a new condition that fixes the properties of the transitions
+between states. Heisenberg believed'* that what matters is
+the difference between pdx evaluated for neighboring
+states: [fpdx],,-[fpdx],,_;. He therefore took the derivative
+of Eq. (A9) with respect to n to eliminate the forced n de-
+pendence and to produce a differential relation that can be
+reinterpreted as a difference relation between transition
+quantities. In short, Heisenberg converted
+
+h=27m> a (la,(n)Paw(n)) (A10)
+a an
+to
+h=4am>, {la(n + a,n)Po(n + a,n)
+a=0
+—|a(n,n- a)|?o(n,n - a)}. (All)
+
+In a sense Heisenberg’s “amplitude condition” in Eq. (A11)
+is the counterpart to Bohr’s frequency condition (Ritz’s fre-
+quency combination rule). Heisenberg’s condition relates the
+amplitudes of different lines within an atomic spectrum and
+Bohr’s condition relates the frequencies. Equation (A11) is
+the fourth Heisenberg breakthrough.*!
+
+Equations (A7) and (A11) constitute Heisenberg’s new
+mechanics. In principle, these two equations can be solved to
+find a(n,n—a@) and w(n,n-a). No one before Heisenberg
+knew how to calculate the amplitude of a quantum jump.
+Equations (A2), (A6), (A7), and (A11) define Heisenberg’s
+program for constructing the line spectrum of an atom from
+the given force on the electron.
+
+“Electronic mail: bfedak@umd.umich.edu
+
+Electronic mail: jprentis@umd.umich.edu
+
+'The name “quantum mechanics” appeared for the first time in the litera-
+ture in M. Born, “Uber Quantenmechanik,” Z. Phys. 26, 379-395 (1924).
+
+Ww. Heisenberg, “Uber quantentheoretische Umdeutung kinematischer
+und mechanischer Beziehungen,” Z. Phys. 33, 879-893 (1925), trans-
+lated in Ref. 3, paper 12.
+
+3 Sources of Quantum Mechanics, edited by B. L. van der Waerden (Dover,
+New York, 1968).
+
+4M. Born and P. Jordan, “Zur Quantenmechanik,” Z. Phys. 34, 858-888
+(1925); English translation in Ref. 3, paper 13.
+
+5M. Born, W. Heisenberg, and P. Jordan, “Zur Quantenmechanik II,” Z.
+
+137 Am. J. Phys., Vol. 77, No. 2, February 2009
+
+Phys. 35, 557-615 (1926), English translation in Ref. 3, paper 15.
+
+°P A.M. Dirac, “The fundamental equations of quantum mechanics,”
+Proc. R. Soc. London, Ser. A 109, 642-653 (1925), reprinted in Ref. 3,
+paper 14.
+
+The name “matrix mechanics” did not appear in the original papers of
+1925 and 1926. The new mechanics was most often called “quantum
+
+mechanics.” At Géttingen, some began to call it “matrix physics.”
+Heisenberg disliked this terminology and tried to eliminate the math-
+ematical term “matrix” from the subject in favor of the physical expres-
+sion “quantum-theoretical magnitude.” [Ref. 17, p. 362]. In his Nobel
+Lecture delivered 11 December 1933, Heisenberg referred to the two
+versions of the new mechanics as “quantum mechanics” and “wave me-
+chanics.” See Nobel Lectures in Physics 1922-194] (Elsevier, Amster-
+dam, 1965)].
+
+SW. A. Fedak and J. J. Prentis, “Quantum jumps and classical harmonics,”
+Am. J. Phys. 70, 332-344 (2002).
+
+°LER. Aitchison, D. A. MacManus, and T. M. Snyder, “Understanding
+
+Heisenberg’s ‘magical’ paper of July 1925: A new look at the calcula-
+
+tional details,” Am. J. Phys. 72 1370-1379 (2004).
+
+J. Bernstein, “Max Born and the quantum theory,” Am. J. Phys. 73,
+
+999-1008 (2005).
+
+Ns Tomonaga, Quantum Mechanics (North-Holland, Amsterdam, 1962),
+Vol. 1.
+
+°M. Jammer, The Conceptual Development of Quantum Mechanics
+(McGraw-Hill, New York, 1966).
+
+'3J. Mehra and H. Rechenberg, The Historical Development of Quantum
+Theory (Springer, New York, 1982), Vol. 3.
+
+Duncan, A. and Janssen, M., “On the verge of Umdeutung in Minnesota:
+Van Vleck and the correspondence principle,” Arch. Hist. Exact Sci. 61,
+553-624 (2007).
+
+Sp, MacKinnon, “Heisenberg, models and the rise of matrix mechanics,”
+Hist. Stud. Phys. Sci. 8, 137-188 (1977).
+
+6G. Birtwistle, The New Quantum Mechanics (Cambridge U.P., London,
+1928).
+
+'7C, Jungnickel and R. McCormmach, Intellectual Mastery of Nature (Uni-
+versity of Chicago Press, Chicago, 1986), Vol. 2.
+
+Sw. Heisenberg, “Development of concepts in the history of quantum
+theory,” Am. J. Phys. 43, 389-394 (1975).
+
+'°M. Bowen and J. Coster, “Born’s discovery of the quantum-mechanical
+matrix calculus,” Am. J. Phys. 48, 491-492 (1980).
+
+2°M. Born, My Life: Recollections of a Nobel Laureate (Taylor & Francis,
+New York, 1978). Born wrote that (pp. 218-219) “This paper by Jordan
+and myself contains the formulation of matrix mechanics, the first printed
+statement of the commutation law, some simple applications to the har-
+monic and anharmonic oscillator, and another fundamenal idea: the quan-
+tization of the electromagnetic field (by regarding the components as
+matrices). Nowadays, textbooks speak without exception of Heisenberg’s
+matrices, Heisenberg’s commutation law and Dirac’s field quantization.”
+
+21Tn 1928 Einstein nominated Heisenberg, Born, and Jordan for the Nobel
+Prize [See A. Pais, Subtle Is the Lord: The Science and the Life of Albert
+Einstein (Oxford U.P., New York, 1982), p. 515]. Possible explanations of
+why Born and Jordan did not receive the Nobel Prize are given in Ref. 10
+and Ref. 22, pp. 191-193.
+
+22N_ Greenspan, The End of the Certain World: The Life and Science of
+Max Born (Basic Books, New York, 2005).
+
+3See Ref. 20, p. 220.
+
+4B, Merzbacher, Quantum Mechanics (Wiley, New York, 1998), pp. 320-—
+323.
+
+5 Reference 11, p. 205.
+
+?°N_ Bohr, “On the quantum theory of line-spectra,” reprinted in Ref. 3,
+paper 3.
+
+*7Reference 3 p. 276 paper 12.
+
+Reference 20, pp. 217-218.
+
+Reference 20, p. 218.
+
+Reference 3, pp. 277, paper 13.
+
+>! Reference 3, pp. 277-278, paper 13.
+
+PRL. Liboff, Introductory Quantum Mechanics (Addison-Wesley, San
+Francisco, 2003), Chap. 3; R. Shankar, Principles of Quantum Mechanics
+(Plenum, New York, 1994), Chap. 4; C. Cohen-Tannoudji, B. Diu, and F.
+Laloé, Quantum Mechanics (Wiley, New York, 1977), Chap. III.
+
+Reference 3, p. 287, paper 13.
+
+Reference 12, pp. 217-218.
+
+Reference 3, p. 280, paper 13.
+
+*°A_ Cayley, “Sept différents mémoires d’analyse,” Mathematika 50, 272-
+
+10
+
+William A. Fedak and Jeffrey J. Prentis 137
+
+--- Page 11 ---
+317 (1855); A. Cayley, “A memoir on the theory of matrices,” Philos.
+Trans. R. Soc. London, Ser. A 148, 17-37 (1858).
+
+°’The last chapter (Bemerkungen zur Elektrodynamik) is not translated in
+Ref. 3. See Ref. 13, pp. 87-90 for a discussion of the contents of this
+section.
+
+In Heisenberg’s paper (see Ref. 2) the connection between |q(nm)|? and
+transition probability is implied but not discussed. See Ref. 3, pp. 30-32,
+for a discussion of Heisenberg’s assertion that the transition amplitudes
+determine the transition probabilibities. The relation between a squared
+amplitude and a transition probability originated with Bohr who conjec-
+tured that the squared Fourier amplitude of the classical electron motion
+provides a measure of the transition probability (see Refs. 8 and 26). The
+correspondence between classical intensities and quantum probabilities
+was studied by several physicists including H. Kramers, Intensities of
+Spectral Lines (A. F. Host and Sons, Kobenhaven, 1919); R. Ladenburg
+in Ref. 3, paper 4, and J. H. Van Vleck, “Quantum principles and line
+spectra,” Bulletin of the National Research Council, Washington, DC,
+1926, pp. 118-153.
+
+Reference 3, p. 287, paper 13.
+
+iow. Ritz, “Uber ein neues Gesetz der Serienspektren,” Phys. Z. 9, 521—
+529 (1908); W. Ritz, “On a new law of series spectra,” Astrophys. J. 28,
+237-243 (1908). The Ritz combination principle was crucial in making
+sense of the regularities in the line spectra of atoms. It was a key principle
+that guided Bohr in constructing a quantum theory of line spectra. Ob-
+servations of spectral lines revealed that pairs of line frequencies combine
+(add) to give the frequency of another line in the spectrum. The Ritz
+combination rule is v(nk)+v(km)= (nm), which follows from Eqs. (4)
+and (7). As a universal, exact law of spectroscopy, the Ritz rule provided
+a powerful tool to analyze spectra and to discover new lines. Given the
+measured frequencies vy; and vy, of two known lines in a spectrum, the
+Ritz rule told spectroscopists to look for new lines at the frequencies 1;
++2 OF Yj V2
+
+"Tn the letter dated 18 September 1925 Heisenberg explained to Pauli that
+the frequencies vz in the Born—Jordan theory obey the “combination
+relation V+ Y= Vi) OF Vi,=(Wi-W,)/h but naturally it is not to be as-
+sumed that W is the energy.” See Ref. 3, p. 45.
+
+Reference 3, p. 287, paper 13.
+
+Reference 3, p. 289, paper 13.
+
+“Born and Jordan devote a large portion of Chap. 1 to developing a matrix
+calculus to give meaning to matrix derivatives such as dq/dt and dH/ op.
+They introduce the process of “symbolic differentiation” for constructing
+the derivative of a matrix with respect to another matrix. For a discussion
+of Born and Jordan’s matrix calculus, see Ref. 13, pp. 68-71. To deal
+with arbitrary Hamiltonian functions, Born and Jordan formulated a more
+general dynamical law by converting the classical action principal,
+SLdt=extremum, into a quantal action principal, D(pq—H(pq))
+=extremum, where D denotes the trace (diagonal sum) of the Lagrangian
+matrix, pq—H. See Ref. 3, pp. 289-290.
+
+Reference 3, p. 292. This statement by Born and Jordan appears in Sec.
+IV of their paper following the section on the basic laws. We have in-
+cluded it with the postulates because it is a deep assumption with far-
+reaching consequences.
+
+In contemporary language the states labeled n=0,1,2,3,... in Heisen-
+berg’s paper and the Born—Jordan paper are exact stationary states (eigen-
+states of H). The Hamiltonian matrix is automatically a diagonal matrix
+with respect to this basis.
+
+“7 Although Heisenberg, Born, and Jordan made the “energy of the state”
+and the “transition between states” rigorous concepts, it was Schrédinger
+who formalized the concept of the “state” itself. It is interesting to note
+that “On quantum mechanics II” by Born, Heisenberg, and Jordan was
+published before Schrédinger and implicitly contains the first mathemati-
+cal notion of a quantum state. In this paper (Ref. 3, pp. 348-353), each
+Hermitian matrix a is associated with a “bilinear form” Enmanm)x x
+Furthermore, they identified the “energy spectrum” of a system with the
+set of “eigenvalues” W in the equation Wx,— ,H(k/)x,=0. In present-day
+symbolic language the bilinear form and eigenvalue problem are (V|a|‘V)
+and H|‘V)=W|'P), respectively, where the variables x,, are the expansion
+coefficients of the quantum state |W). At the time, they did not realize the
+physical significance of their eigenvector (x,,x7,...) as representing a
+stationary state.
+
+‘8Reference 3, pp. 290-291, paper 13.
+
+This is the sentence from Born’s 1924 paper (See Ref. 1) where the name
+“quantum mechanics” appears for the first time in the physics literature
+[Ref. 3, p. 182].
+
+138 Am. J. Phys., Vol. 77, No. 2, February 2009
+
+*°See the chapter “The transition to quantum mechanics” in Ref. 12, pp.
+181-198 for applications of “Born’s correspondence rule.” The most im-
+portant application was deriving Kramer’s dispersion formula. See Ref. 3,
+papers 6-10 and Ref. 14.
+
+*' Reference 11, pp. 144-145.
+
+The exact relation between the orbital frequency and the optical fre-
+quency is derived as follows. Consider the transition from state n of
+energy E(n) to state n—7 of energy E(n-7). In the limit n> 7, that is,
+large “orbit” and small “jump,” the difference E(n)—E(n-7) is equal to
+the derivative 7dE/dn. Given the old quantum condition J=nh, it follows
+that dE/dn=hdE/dJ. Thus for n> 7 and J=nh, we have the relation
+[E(n)-E(n-7)]/h=7dE/dJ, or equivalently, v(n,n—7)=7v(n). This rela-
+tion proves an important correspondence theorem: In the limit n> 7, the
+frequency »(n,n—7) associated with the quantum jump n—n-7 is equal
+to the frequency 7v(n) associated with the 7th harmonic of the classical
+motion in the state n. See Refs. 8 and 26.
+
+Reference 3, p. 191, paper 7.
+
+*4Suppose that the number of states is finite and equal to the integer N.
+Then, according to Eq. (20), the diagonal sum (trace) of pq—qp would be
+D(pq-qp)=Nh/27i. This nonzero value of the trace contradicts the
+purely mathematical relation D(pq—qp)=0, which must be obeyed by all
+finite matrices.
+
+Heisenberg interview quoted in Ref. 12, p. 281, footnote 45.
+
+Reference 17, p. 361.
+
+*7Reference 3, p. 288, paper 13. The name “Diagonality theorem” is ours.
+The condition v(nm) #0 when n#m implies that the system is nonde-
+generate.
+
+*Tn contemporary language a conserved quantity is an operator that com-
+mutes with the Hamiltonian operator H. For such commuting operators
+there exists a common set of eigenvectors. In the energy eigenbasis that
+underlies the Born—Jordan formulation, the matrices representing H and
+all conserved quantities are automatically diagonal.
+
+Born and Jordan’s proof that Eq. (24) vanishes is based on a purely
+mathematical property of “symbolic differentiation” discussed in Sec. II
+of their paper (See Ref. 4). For a separable Hamiltonian of the form H
+
+=p?/2m+U(q), the proof is simpler. For this case Eq. (24) becomes d
+
+=q(dU/dq)—(JU/dq)q+p(p/m)-(p/m)p. Because p and q are sepa-
+
+rated in this expression, we do not have to consider the inequality pq
+
+#qp. The expression reduces to d=0.
+
+Reference 3, p. 292, paper 13. In Ref. 4, Born and Jordan refer to pq
+
+-qp=(h/27i)1 as the “vershirfte Quantenbedingung,” which has been
+
+translated as “sharpened quantum condition” (Ref. 13, p. 77), “stronger
+
+quantum condition” (Ref. 3, p. 292), and “exact quantum condition” (Ref.
+
+12, p. 220).
+
+J. J. Sakurai, Modern Quantum Mechanics (Addison-Wesley, San Fran-
+
+cisco, 1994), pp. 83-84; A. Messiah, Quantum Mechanics (J Wiley, New
+
+York, 1958), Vol. I, p. 316.
+
+Reference 3, p. 293, paper 13.
+
+° Proving the frequency condition—the second general principle of Bohr—
+was especially important because this purely quantal condition was gen-
+erally regarded as a safely established part of physics. Prior to Born and
+Jordan’s mechanical proof of the frequency condition, there existed a
+“thermal proof” given by Einstein in his historic paper, “On the quantum
+theory of radiation,” Phys. Z. 18, 121 (1917), translated in Ref. 3, pp,
+63-77. In this paper Einstein provides a completely new derivation of
+Planck’s thermal radiation law by introducing the notion of transition
+probabilities (A and B coefficients). Bohr’s frequency condition emerges
+as the condition necessary to reduce the Boltzmann factor exp[(E,
+-E,,)/kT] in Einstein’s formula to the “Wien factor” exp(hv/kT) in
+Planck’s formula.
+
+“Reference 3, p. 291, paper 13.
+
+“Reference 3, pp. 291-292, paper 13. Born and Jordan do not refer to the
+
+consequences in Eqs. (37) and (38) as theorems. The label “Energy theo-
+
+rems” is ours.
+
+Instead of postulating the equations of motion and deriving the energy
+
+theorems, we could invert the proof and postulate the energy theorems
+
+and derive the equations of motion. This alternate logic is mentioned in
+
+Ref. 3, p. 296 and formalized in Ref. 5 (Ref. 3, p. 329). Also see J. H. Van
+
+Vleck, “Note on the postulates of the matrix quantum dynamics,” Proc.
+
+Natl. Acad. Sci. U.S.A. 12, 385-388 (1926).
+
+°’Reference 3, pp. 293-294, paper 13. The proof of the energy theorems
+was based on separable Hamiltonians defined in Eq. (29). To generalize
+the proof Born and Jordan consider more general Hamiltonian functions
+
+60
+
+61
+
+66
+
+William A. Fedak and Jeffrey J. Prentis 138
+
+--- Page 12 ---
+H(pq) and discover the need to symmetrize the functions. For example,
+for H*=p’q, it does not follow that H*=0. However, they note that H
+=(p°q+qp’)/2 yields the same equations of motion as H* and also con-
+serves energy, H=0. The symmetrization rule reflects the noncommuta-
+tivity of p and q.
+
+°SIn the Heisenberg, Born-Jordan approach the transition components of
+the “matter variables” q and p are simply assumed to oscillate in time
+with the radiation frequencies. In contemporary texts a rigorous proof of
+Bohr’s frequency condition involves an analysis of the interaction be-
+tween matter and radiation (radiative transitions) using time-dependent
+perturbation theory. See Ref. 24, Chap. 19.
+
+Reference 3, p. 292, paper 13.
+
+Using the language of state vectors and bra-kets, the matrix element of an
+operator g is g,,,(t)=(V,,(0|g/V,,(), where the energy eigenstate is
+|W,())=exp(—2 7iE,,t/h)|V,,(0)). This Schrédinger element is equivalent
+to the Born—Jordan element in Eq. (44).
+
+7!'Reference 3, p. 279, paper 13. Heisenberg was able to demonstrate en-
+ergy conservation and Bohr’s frequency condition for two systems (an-
+harmonic oscillator and rotator). The anharmonic oscillator analysis was
+limited to second-order perturbation theory.
+
+” Reference 3. Born and Jordan do not pursue this direct method of proof
+noting that for the most general Hamiltonians the calculation “becomes
+so exceedingly involved that it seems hardly feasible.” (Ref. 3, p. 296).
+In a footnote on p. 296, they note that for the special case
+H=p?/2m+U(q), the proof can be carried out immediately. The details
+of this proof can be found in Ref. 73.
+
+733, J. Prentis and W. A. Fedak, “Energy conservation in quantum mechan-
+ics,” Am. J. Phys. 72, 580-590 (2004).
+
+™Reference 3, p. 296, paper 13.
+
+™M. Born, Problems of Atomic Dynamics (MIT Press, Cambridge, 1970).
+
+TR, Schrédinger, Collected Papers on Wave Mechanics (Chelsea, New
+York, 1978).
+
+™. Born, “Zur Quantenmechanik der StoBvorginge,” Z. Phys. 37, 863-
+867 (1926).
+
+8 Heisenberg’s “classical” quantity x(n,t) is the classical solution x(t) of
+Newton’s equation of motion subject to the old quantum condition
+¢mxdx=nh. For example, given the purely classical position function
+x(t)=a cos wt of a harmonic oscillator, the condition ¢mx?dt=nh quan-
+tizes the amplitude, making a depend on n as follows: a(n)=\nh/ a7mw.
+Thus, the motion of the harmonic oscillator in the stationary state n is
+described by x(n,1)= \nh/ mw cos wt.
+
+The introduction of transition components a(n,n—nel"-" into the
+formalism was a milestone in the development of quantum theory. The
+one-line abstract of Heisenberg’s paper reads “The present paper seeks to
+establish a basis for theoretical quantum mechanics founded exclusively
+upon relationships between quantities which in principle are observable”
+(Ref. 3, p. 261). For Heisenberg, the observable quantities were a(n,n
+—7) and w(n,n—7), that is, the amplitudes and the frequencies of the
+spectral lines. Prior to 1925, little was known about transition amplitudes.
+There was a sense that Einstein’s transition probabilities were related to
+the squares of the transition amplitudes. Heisenberg made the transition
+amplitudes (and frequencies) the central quantities of his theory. He dis-
+covered how to manipulate them, relate them, and calculate their values.
+
+Reference 3, pp. 263-264, paper 12.
+
+8! Heisenberg notes (Ref. 3, p. 268, paper 12) that Eq. (A11) is equivalent to
+the sum rule of Kuhn and Thomas (Ref. 3, paper 11). For a discussion of
+Heisenberg’s development of the quantum condition, see Mehra and H.
+Rechenberg, The Historical Development of Quantum Theory (Springer,
+New York, 1982), Vol. 2, pp. 243-245, and Ref. 14.
+
+p. 170.
+
+SCIENTIFIC APTITUDE AND AUTISM
+
+There’s even some evidence that scientific abilities are associated with traits characteristic of
+autism, the psychological disorder whose symptoms include difficulties in social relationships and
+communication, or its milder version, Asperger syndrome. One recent study, for instance, exam-
+ined different groups according to the Autism-Spectrum Quotient test, which measures autistic
+traits. Scientists scored higher than nonscientists on this test, and within the sciences, mathema-
+ticians, physical scientists, and engineers scored higher than biomedical scientists.
+
+Sidney Perkowitz, Hollywood Science: Movies, Science, and the End of the World (Columbia University Press, 2007),
+
+139 Am. J. Phys., Vol. 77, No. 2, February 2009
+
+William A. Fedak and Jeffrey J. Prentis 139
