@@ -1,5 +1,5 @@
 # QuantumAHiRA
-IntermediaPoetry ; IntermediaComputation ; Creative AI ; NLP ; NLPPoetry ; MachineLearning ; MachineLearningPoetry ; Quantum Mechanics ; Science Writing Tropes ; Cross-genre Computation ; AutomatedIntermediaCreativity ; IntermediaTranslation ; LLM Poetics ; Classification & Annotation by LLMs
+#IntermediaPoetry ; #IntermediaComputation ; #CreativeAI ; #NLP ; #NLPPoetry ; #MachineLearning ; #MachineLearningPoetry ; #QuantumMechanics ; #ScienceWritingTropes ; Cross-genre Computation ; #AutomatedIntermediaCreativity ; #IntermediaTranslation ; #LLMPoetics ; Classification & Annotation by LLMs
 
 “Quantum AHiRA” 
 forms part of a broader project that maps the rhetoric of foundational quantum mechanics ('quantum_foundations_txt') onto large literary and cultural periodical corpora for analytical and creative purposes.
@@ -18,10 +18,8 @@ The journal sentences identified as most akin to these scientific metaphors were
 
 The intermedia process began with sound and evolved toward moving image. The discrete qualities of each stanza—-prosodic, affective, and temporal—-were converted into analog sound frequencies. Textual features such as meter, rhythmic variation/energy, and fricative/plosive density were mapped to base frequency, amplitude, noise, and transient clicks. Affective parameters (e.g., arousal or smoothness) became spectral brightness and filter cutoff; lastly, temporal structures (linear, cyclical, recursive) were rendered as stereo motion, pacing oscillations, or feedback loops. These values were interpolated via SigTo and low-frequency oscillators (LFOs), translating linguistic/stylistic features into evolving sonic modulations.
 
-The resulting acoustic space—-an instance of mathematical machinic metasonification (coinnage mine)—-set the foundation for the video component. The sonic contigousness was thus complemented by a specific kind of discreteness: a topological and diagrammatic unfolding of the poem as both analytical instrument and exploratory nomadism.
+The resulting acoustic space—-an instance of mathematical machinic metasonification (my coinnage)—-set the foundation for the video component. The sonic contigousness was thus complemented by a specific kind of discreteness: a topological and diagrammatic unfolding of the poem as both analytical instrument and exploratory nomadism.
 
 In orbiting_recursions, this took the form of dynamic visualizations of network graphs that trace the evolving recombination of word fragments from the Latin American corpus. In pulse_flash_spectral, the visualization shifted outward—diagramming the tension between translingual sonic similarity and widening semantic divergence between each Spanish line and its Creolized English counterpart.
 
-The intermedia poem has been submitted to a literary journal that features computational poetry (stay tuned!).
-
-In the meantime, the code available in this repo ('Margento_World_Poem_1_Rich_Sonification_n_Video_Automation.ipynb) can be run to generate your own piece.
+The intermedia poem "Quantum AHiRA" has been submitted to a literary journal that features computational poetry (stay tuned!). In the meantime, the code available in this repo ('Margento_World_Poem_1_Rich_Sonification_n_Video_Automation.ipynb) can be run to generate your own piece.
