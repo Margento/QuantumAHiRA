@@ -1,7 +1,7 @@
 # QuantumAHiRA
 #IntermediaPoetry ; #IntermediaComputation ; #CreativeAI ; #NLP ; #NLPPoetry ; #MachineLearning ; #MachineLearningPoetry ; #QuantumMechanics ; #ScienceWritingTropes ; Cross-genre Computation ; #AutomatedIntermediaCreativity ; #IntermediaTranslation ; #LLMPoetics ; Classification & Annotation by LLMs
 
-“Quantum AHiRA” 
+“World Poem I. Quantum AHiRA” 
 forms part of a broader project that maps the rhetoric of foundational quantum mechanics ('quantum_foundations_txt') onto large literary and cultural periodical corpora for analytical and creative purposes.
 
 Metaphors, paradoxes, and argumentation flows from early quantum physics texts were computationally paired with analogous tropes and reasoning patterns in journals from AHiRA and CMoLA (the Argentine Historical Journal Archives and Cultural Magazines of Latin America, 1896–1959; https://recerca.uoc.edu/documentos/67bc32b7478fbf5d29390dc6?lang=en, Tanasescu & Roig-Sanz 2025).
@@ -22,4 +22,4 @@ The resulting acoustic space—-an instance of mathematical machinic metasonific
 
 In orbiting_recursions, this took the form of dynamic visualizations of network graphs that trace the evolving recombination of word fragments from the Latin American corpus. In pulse_flash_spectral, the visualization shifted outward—diagramming the tension between translingual sonic similarity and widening semantic divergence between each Spanish line and its Creolized English counterpart.
 
-The intermedia poem "Quantum AHiRA" has been submitted to a literary journal that features computational poetry (stay tuned!). In the meantime, the code available in this repo ('Margento_World_Poem_1_Rich_Sonification_n_Video_Automation.ipynb) can be run to generate your own piece.
+The intermedia poem "World Poem I. Quantum AHiRA" has been submitted to a literary journal that features computational poetry (stay tuned!). In the meantime, the code available in this repo ('Margento_World_Poem_1_Rich_Sonification_n_Video_Automation.ipynb) can be run to generate your own piece.
