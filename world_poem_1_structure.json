@@ -1,0 +1,1266 @@
+{
+  "stanzas": [
+    {
+      "id": 1,
+      "mode": "orbiting_recursions",
+      "duration": 15,
+      "lines": [
+        {
+          "id": "1a",
+          "text": "W   que            S  outh",
+          "orbit_units": [
+            {
+              "text": "W",
+              "radius": 80,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["in", "quirimos", "ad"]
+            },
+            {
+              "text": "que",
+              "radius": 100,
+              "speed": 0.4,
+              "can_recombine": true,
+              "combine_with": ["ad", "quirimos", "con", "per"]
+            },
+            {
+              "text": "S",
+              "radius": 180,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["outh", "ad", "per", "con", "in", "to", "W", "chase", "the", "quirimos", "quirir", "que"]
+            },
+            {
+              "text": "outh",
+              "radius": 200,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["S", "in", "ad", "quirir", "the", "W", "con"]
+            }
+          ]
+        },
+        {
+          "id": "1b",
+          "text": "in         quirir        to           chase",
+	  "orbit_units": [
+	    {
+              "text": "in",
+              "radius": 60,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["S", "ad", "quirir", "W", "con", "to", "que"]
+            },
+	    {
+              "text": "quirir",
+              "radius": 120,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["in", "S", "ad", "W", "con", "to", "que"]
+            },
+	    {
+              "text": "to",
+              "radius": 140,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["in", "S", "ad", "W", "con", "per", "quirir"]
+            },
+	    {
+              "text": "chase",
+              "radius": 220,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["in", "S", "ad", "con", "per", "quirir", "to", "outh", "the"]
+            }
+          ]
+        },
+        {
+          "id": "1c",
+          "text": "con     quirimos      the      chases",
+	  "orbit_units": [
+	    {
+              "text": "con",
+              "radius": 70,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["S", "ad", "quirir", "W", "per", "to", "que", "quirimos", "chase"]
+            },
+	    {
+              "text": "quirimos",
+              "radius": 110,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["in", "S", "ad", "W", "con", "to", "que", "per"]
+            },
+	    {
+              "text": "the",
+              "radius": 160,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["in", "S", "ad", "W", "con", "per", "quirir", "chase", "chases"]
+            },
+	    {
+              "text": "chases",
+              "radius": 230,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["in", "ad", "con", "per", "quirir", "to", "outh", "the"]
+            }
+          ]
+        },
+    	{
+          "id": "1d",
+          "text": "ad                       per",
+	  "orbit_units": [
+	    {
+              "text": "ad",
+              "radius": 105,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["S", "quirir", "W", "que", "quirimos", "chases", "outh", "per", "con", "to"]
+            },
+	    {
+              "text": "per",
+              "radius": 210,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["in", "S", "ad", "W", "con", "to", "que", "chase", "chases", "outh", "quirir", "quirimos"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "mode": "pulse_flash_spectral",
+      "duration": 25,
+      "lines": [
+        {
+          "id": "2a",
+          "lang": "es",
+          "text": "uje adujo adujiste adari adz adâncu dus d(vr)ut",
+          "glyphs": [
+            {
+              "char": "ad",
+              "target_word": "uje", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+            {
+              "char": "ad",
+              "target_word": "dus", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+	    {
+              "char": "per",
+              "target_word": "dus", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+	    {
+              "char": "per",
+              "target_word": "d(vr)ut", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            }
+          ]
+        },
+        {
+	  "id": "2b",          
+	  "lang": "en",
+          "text": "duce ado thaws injudicious, odd-airy $nazzy Duke’s di(¢)tion (Φ)root",
+          "glyphs": [
+            {
+              "char": "ad",
+              "target_word": "duce", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+	    {
+              "char": "ad",
+              "target_word": "di(¢)tion", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+	    {
+              "char": "per",
+              "target_word": "di(¢)tion", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            }
+          ]
+        },
+	{
+	  "id": "2c",          
+	  "lang": "es",
+          "text": "Ocaso que no hemos todavía podido averisnar quién es el auto",
+          "glyphs": []
+        },
+	{
+	  "id": "2d",          
+	  "lang": "en",
+          "text": "acasă un sun$eth to dive in, airpods on, getting aut(h)o® ads",
+          "glyphs": []
+        },
+	{
+	  "id": "2e",          
+	  "lang": "es",
+          "text": "La obra musical, como el animal, transmite la vida que ha recibido",
+          "glyphs": []
+        },
+	{
+	  "id": "2f",          
+	  "lang": "en",
+          "text": "for being musical is being animal, trans smithing avidly the recipe tome",
+          "glyphs": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "mode": "orbiting_recursions",
+      "duration": 25,
+      "lines": [
+        {
+          "id": "3a",
+          "text": "No",
+          "orbit_units": [
+            {
+              "text": "ℕo",
+              "radius": 105,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["fici", "$(i)on", "¢€", "¢$", "re", "®", "ghτer", "Δau"]
+            }
+          ]
+        },
+        {
+          "id": "3b",
+          "text": "pue           son",
+	  "orbit_units": [
+	    {
+              "text": "pue",
+              "radius": 85,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["den", "son", "sí", "del", "Φi", "$(i)on", "¢€", "¢$", "re", "®", "ghτer"]
+            },
+	    {
+              "text": "son",
+              "radius": 160,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["den", "sí", "del", "Arte", "o", "¢$", "re", "®", "Aut(E)o", "outer", "oughta", "the", "Δau"]
+            }	    
+          ]
+        },
+        {
+          "id": "3c",
+          "text": "den",
+	  "orbit_units": [
+	    {
+              "text": "den",
+              "radius": 100,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["sí", "del", "Arte", "o", "¢$", "fici", "Φi", "$(i)on", "Aut(E)o", "Δau"]
+            }
+          ]
+        },
+    	{
+          "id": "3d",
+          "text": "ser                   sí",
+	  "orbit_units": [
+	    {
+              "text": "ser",
+              "radius": 110,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["f", "fici", "Φi", "$(i)on", "Aut(E)o", "o", "¢$", "re", "®", "Aut(E)o", "Δau"]
+            },
+	    {
+              "text": "sí",
+              "radius": 190,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["fici", "Φi", "$(i)on", "Aut(E)o", "o", "¢$", "re", "®", "Aut(E)o"]
+            }
+          ]
+        },
+    	{
+          "id": "3e",
+          "text": "hijos",
+	  "orbit_units": [
+	    {
+              "text": "hijos",
+              "radius": 150,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["Arti", "Arte", "re", "®", "Aut(E)o", "ghτer"]
+            }
+          ]
+        },
+    	{
+          "id": "3f",
+          "text": "del              legítimos",
+	  "orbit_units": [
+	    {
+              "text": "del",
+              "radius": 120,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["Arti", "f", "Φi", "fici", "¢€", "Aut(E)o", "outer", "oughta", "ghτer", "Δau"]
+            },
+	    {
+              "text": "legítimos",
+              "radius": 150,
+              "speed": 0.8,
+              "can_recombine": false,
+              "combine_with": []
+            }
+          ]
+        },
+    	{
+          "id": "3g",
+          "text": "Arti            Arte",
+	  "orbit_units": [
+	    {
+              "text": "Arti",
+              "radius": 105,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["f", "Φi", "fici", "¢€", "Aut(E)o", "outer", "oughta", "ghτer", "Δau", "del", "ser", "ℕo", "son"]
+            },
+	    {
+              "text": "Arte",
+              "radius": 155,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["¢$", "re", "®", "Aut(E)o"]
+            }
+          ]
+        },
+    	{
+          "id": "3h",
+          "text": "fici",
+	  "orbit_units": [
+	    {
+              "text": "fici",
+              "radius": 145,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["$(i)on", "Φi", "fici", "¢€", "Aut(E)o", "ghτer", "Δau", "del", "ser", "ℕo", "re", "®", "son", "¢$"]
+            }
+          ]
+        },
+    	{
+          "id": "3i",
+          "text": "o",
+	  "orbit_units": [
+	    {
+              "text": "o",
+              "radius": 145,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["fici", "$(i)on", "Φi", "¢€", "Aut(E)o", "ghτer", "Δau", "ser", "ℕo", "re", "®", "son", "¢$"]
+            }
+          ]
+        },
+    	{
+          "id": "3j",
+          "text": "f",
+	  "orbit_units": [
+	    {
+              "text": "f",
+              "radius": 145,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["o", "fici", "$(i)on", "Φi", "fici", "Aut(E)o", "re", "®", "son", "¢$"]
+            }
+          ]
+        },
+    	{
+          "id": "3k",
+          "text": "Φi     $(i)on",
+	  "orbit_units": [
+	    {
+              "text": "Φi",
+              "radius": 145,
+              "speed": 0.4,
+              "can_recombine": true,
+              "combine_with": ["o", "fici", "Aut(E)o", "re", "®", "son", "¢$", "hijos", "ser", "ℕo", "del", "$(i)on"]
+            },
+	    {
+              "text": "$(i)on",
+              "radius": 155,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["ℕo", "o", "Aut(E)o", "re", "®", "son", "¢$", "hijos", "ser", "oughta", "del", "ghτer", "Δau"]
+            }
+          ]
+        },
+    	{
+          "id": "3l",
+          "text": "¢€       ¢$",
+	  "orbit_units": [
+	    {
+              "text": "¢€",
+              "radius": 145,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["$(i)on", "Aut(E)o", "re", "®", "Δau", "sí", "den", "ℕo", "son", "¢$"]
+            },
+	    {
+              "text": "¢$",
+              "radius": 160,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["Aut(E)o", "sí", "son", "outer", "oughta", "o", "$(i)on"]
+            }
+          ]
+        },
+    	{
+          "id": "3m",
+          "text": "re",
+	  "orbit_units": [
+	    {
+              "text": "re",
+              "radius": 110,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["$(i)on", "Aut(E)o", "®", "Δau", "sí", "den", "ℕo", "son", "¢$", "fici"]
+            }
+          ]
+        },
+    	{
+          "id": "3n",
+          "text": "®",
+	  "orbit_units": [
+	    {
+              "text": "®",
+              "radius": 125,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["$(i)on", "Aut(E)o", "son", "¢$", "outer", "oughta", "o"]
+            }
+          ]
+        },
+    	{
+          "id": "3o",
+          "text": "Aut(E)o",
+	  "orbit_units": [
+	    {
+              "text": "Aut(E)o",
+              "radius": 100,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["$(i)on", "son", "¢$", "outer", "oughta", "o", "Arte", "Arti", "fici", "Φi", "®", "Δau", "hijos", "ser", "sí", "son", "ghτer", "ℕo",  "sí", "den", "del", "re"]
+            }
+          ]
+        },
+    	{
+          "id": "3p",
+          "text": "outer",
+	  "orbit_units": [
+	    {
+              "text": "outer",
+              "radius": 117,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["$(i)on", "son", "Arte", "Arti", "fici", "Φi", "®", "hijos", "ser", "sí", "son", "ghτer", "den", "del", "re", "Φi", "$(i)on"]
+            }
+          ]
+        },
+    	{
+          "id": "3q",
+          "text": "oughta",
+	  "orbit_units": [
+	    {
+              "text": "oughta",
+              "radius": 115,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["®", "son", "ghτer", "del", "re", "Φi", "$(i)on", "ℕo"]
+            }
+          ]
+        },
+        {
+          "id": "3r",
+          "text": "ghτer",
+	  "orbit_units": [
+	    {
+              "text": "ghτer",
+              "radius": 111,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["®", "son", "re", "Φi", "$(i)on", "ℕo", "f", "®", "ser", "sí", "¢$", "¢€", "Arti", "ℕo", "Aut(E)o"]
+            }
+          ]
+        },
+        {
+          "id": "3s",
+          "text": "the           Δau",
+	  "orbit_units": [
+	    {
+              "text": "the",
+              "radius": 60,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["®", "re", "Φi", "ℕo", "ser", "sí", "¢$", "¢€", "ghτer", "son"]
+            },
+	    {
+              "text": "Δau",
+              "radius": 75,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["®", "re", "Φi", "ℕo", "ser", "sí", "¢€", "¢$", "$(i)on", "son", "ghτer"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "mode": "pulse_flash_spectral",
+      "duration": 35,
+      "lines": [
+        {
+          "id": "4a",
+          "lang": "es",
+          "text": "Y el afán de identificarse con tualidad; porque en $uma",
+          "glyphs": []
+        },
+        {
+	  "id": "4b",          
+	  "lang": "en",
+          "text": "a fan for trendy farces by con dads, tu-i porcu’i muma",
+          "glyphs": []
+        },
+	{
+	  "id": "4c",          
+	  "lang": "es",
+          "text": "¿qué son los poetas más – ella no lleva a la muerte",
+          "glyphs": []
+        },
+	{
+	  "id": "4d",          
+	  "lang": "en",
+          "text": "de sonorous poetic mess, mass, Ella & Billie-style assertive",
+          "glyphs": []
+        },
+	{
+	  "id": "4e",          
+	  "lang": "es",
+          "text": "sino a una vida – que los poseedores del maravilloso",
+          "glyphs": []
+        },
+	{
+	  "id": "4f",          
+	  "lang": "en",
+          "text": "sinning ’n g’ luna void, key low, posey odors, a deli marries via Zoso …",
+          "glyphs": []
+        },
+	{
+	  "id": "4g",          
+	  "lang": "es",
+          "text": "poder expreso – más plena y más completa …",
+          "glyphs": []
+        },
+	{
+	  "id": "4h",          
+	  "lang": "en",
+          "text": "power ’v X-press oh—my ass, plain, I must complain …",
+          "glyphs": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "mode": "orbiting_recursions",
+      "duration": 20,
+      "lines": [
+        {
+          "id": "5a",
+          "text": "soñ   EN señ      son     E$  sign",
+          "orbit_units": [
+            {
+              "text": "soñ",
+              "radius": 100,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["ab[β]a"]
+            },
+            {
+              "text": "EN",
+              "radius": 120,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["sign", "son", "E$", "lib", "εr®", "gr"]
+            },
+            {
+              "text": "señ",
+              "radius": 130,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["EN", "ab[β]a", "t @t €", "ic", "εr®"]
+            },
+            {
+              "text": "son",
+              "radius": 150,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["sign", "E$", "lib", "ic", "t @t €", "ni", "gr", "un", "ion", "lib", "εr®"]
+            },
+            {
+              "text": "E$",
+              "radius": 170,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["sign", "εr®", "ic", "t @t €", "ion", "que"]
+            },
+            {
+              "text": "sign",
+              "radius": 185,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["εr®", "ic", "t @t €", "ion", "gr"]
+            }
+          ]
+        },
+        {
+          "id": "5b",
+          "text": "que        ab[β]a        ic       lava",
+	  "orbit_units": [
+	    {
+              "text": "que",
+              "radius": 80,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["εr®"]
+            },
+	    {
+              "text": "ab[β]a",
+              "radius": 110,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["sign", "son", "ni", "que", "ro", "ion"]
+            },
+	    {
+              "text": "ic",
+              "radius": 140,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["t @t €", "ni", "ro", "son", "εr®", "lava"]
+            },
+	    {
+              "text": "lava",
+              "radius": 160,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["son", "sign", "t @t €", "lib"]
+            }
+          ]
+        },
+        {
+          "id": "5c",
+          "text": "ni            t @t €",
+	  "orbit_units": [
+	    {
+              "text": "ni",
+              "radius": 120,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["son", "t @t €", "que", "son", "sign", "ro", "gr"]
+            },
+	    {
+              "text": "t @t €",
+              "radius": 165,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["ion"]
+            }
+          ]
+        },
+    	{
+          "id": "5d",
+          "text": "ro         un           gr           ion",
+	  "orbit_units": [
+	    {
+              "text": "ro",
+              "radius": 100,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["ic", "que", "EN", "señ", "E$", "ni", "εr®", "t @t €"]
+            },
+	    {
+              "text": "un",
+              "radius": 110,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["ni", "t @t €", "gr", "son", "εr®", "ic", "ion"]
+            },
+	    {
+              "text": "gr",
+              "radius": 140,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["ic", "que", "EN", "señ", "E$", "εr®", "ion", "son", "t @t €", "sign", "ab[β]a", "un"]
+            },
+	    {
+              "text": "ion",
+              "radius": 162,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["ic", "EN", "señ", "E$", "εr®", "son", "t @t €", "sign", "ni", "que", "un"]
+            }
+          ]
+        },
+    	{
+          "id": "5e",
+          "text": "lib             εr®",
+	  "orbit_units": [
+	    {
+              "text": "lib",
+              "radius": 110,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["EN", "señ", "E$", "son", "un", "ro", "εr®", "t @t €"]
+            },
+	    {
+              "text": "εr®",
+              "radius": 150,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["ni", "t @t €", "gr", "son", "εr®", "ic", "ion"]
+            },
+	    {
+              "text": "gr",
+              "radius": 140,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["ic", "que", "EN", "señ", "E$", "εr®", "ion", "son", "t @t €", "sign", "ab[β]a", "un"]
+            },
+	    {
+              "text": "ion",
+              "radius": 162,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["ic", "EN", "señ", "E$", "εr®", "son", "t @t €", "sign", "ni", "que", "un"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "mode": "pulse_flash_spectral",
+      "duration": 63,
+      "lines": [
+        {
+          "id": "6a",
+          "lang": "es",
+          "text": "El hombre que conSt mi sueño, los ojos, el fardo, nos dicen – amor, su alfabeto –",
+          "glyphs": [
+            {
+              "char": "en secreto",
+              "target_word": "dicen", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            }
+	  ]
+        },
+        {
+	  "id": "6b",          
+	  "lang": "en",
+          "text": "all amber, Zoque it, mine me sayin’, insecure sod: a morsel, all, the fabri¢ back-to",
+          "glyphs": [
+            {
+              "char": "minä’ tejin’ käminä’",
+              "target_word": "insecure", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+            {
+              "char": "ὕ",
+              "target_word": "fabri¢", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            }
+	  ]
+        },
+	{
+	  "id": "6c",          
+	  "lang": "es",
+          "text": "profundizar ES materias, nuidad de la existencia, entra o toma un organismo físico",
+          "glyphs": [
+            {
+              "char": "posesión de",
+              "target_word": "toma", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            }
+	  ]
+        },
+	{
+	  "id": "6d",          
+	  "lang": "en",
+          "text": "professionals ’n’ materials, nudity delete extinction, enter ol’ Thomas and comes mystically",
+          "glyphs": [
+            {
+              "char": "τ ℕ",
+              "target_word": "professionals", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+            {
+              "char": "$",
+              "target_word": "materials", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+            {
+              "char": "Poseidon’s twin",
+              "target_word": "Thomas", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            }
+	  ]
+        },
+	{
+	  "id": "6e",          
+	  "lang": "es",
+          "text": "en nOS tribunales, penetrar    el médium y darle expresión % escritura automática",
+          "glyphs": [
+            {
+              "char": "cn que se trata",
+              "target_word": "en", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+            {
+              "char": "en la mente d",
+              "target_word": "penetrar", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            }
+	  ]
+        },
+	{
+	  "id": "6f",          
+	  "lang": "en",
+          "text": "in matriarchal menace, prota amari, e-al£ made in his im®age, ex-carbON ton(€)omous Arcti¢a",
+          "glyphs": [
+            {
+              "char": "as the letter c",
+              "target_word": "matriarchal", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+            {
+              "char": "a lamented d",
+              "target_word": "e-al£", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+            {
+              "char": "Zong!",
+              "target_word": "im®age", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+            {
+              "char": "ray",
+              "target_word": "ex-carbON", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+            {
+              "char": "awe",
+              "target_word": "ton(€)omous", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            },
+            {
+              "char": "τ",
+              "target_word": "Arcti¢a", 
+              "jitter": [12, 6],
+              "pulse_sync": true
+            }
+	      ]
+        }
+      ]
+    },
+	{
+      "id": 7,
+      "mode": "orbiting_recursions",
+      "duration": 25,
+      "lines": [
+        {
+          "id": "7a",
+          "text": "es una",
+          "orbit_units": [
+            {
+              "text": "es",
+              "radius": 105,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["wa", "AM"]
+            },
+            {
+              "text": "una",
+              "radius": 120,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["anu", "que", "no", "wa", "da", "$α", "Φ", "ic", "i"]
+            }
+          ]
+        },
+        {
+          "id": "7b",
+          "text": "e££a               his",
+	  "orbit_units": [
+	       {
+              "text": "e££a",
+              "radius": 100,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["®t", "no", "$α", "da", "vi", "£", "$tep", "by", "s(To)p"]
+            },
+	        {
+              "text": "his",
+              "radius": 125,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["is", "tor", "i", "a"]
+            }	    
+          ]
+        },
+        {
+          "id": "7c",
+          "text": "nov            tor              que",
+	  "orbit_units": [
+	        {
+              "text": "nov",
+              "radius": 95,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["i", "a", "tor", "es", "una", "is", "anu", "AM", "e££a"]
+            },
+	        {
+              "text": "tor",
+              "radius": 130,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["i", "a", "es", "una", "is", "anu", "AM", "e££a", "anu", "$", "Φ", "ic"]
+            },
+	        {
+              "text": "que",
+              "radius": 220,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["Φ", "£"]
+            }
+          ]
+        },
+    	{
+          "id": "7d",
+          "text": "i            Φ is i     x",
+	  "orbit_units": [
+	        {
+              "text": "i",
+              "radius": 100,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["Φ", "$", "£", "nov", "a", "tor"]
+            },
+	        {
+              "text": "Φ",
+              "radius": 222,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["a", "®t", "ic", "al","$α", "da", "do", "AM", "anu", "se", "is", "i", "x"]
+            },
+	        {
+              "text": "is",
+              "radius": 226,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["a", "ic", "al","$α", "AM", "anu", "se", "i", "x", "tor", "$α", "dă", "$tep", "s(To)p"]
+            },
+	        {
+              "text": "i",
+              "radius": 235,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["Φ", "$", "£", "nov", "a", "tor"]
+            },
+	        {
+              "text": "x",
+              "radius": 245,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["a", "i", "£"]
+            }
+          ]
+        },
+    	{
+          "id": "7e",
+          "text": "anu se        a                       $",
+	  "orbit_units": [
+	        {
+              "text": "anu",
+              "radius": 100,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["$", "se", "nov", "e££a", "una", "da", "£", "AM", "vi"]
+            },
+	        {
+              "text": "se",
+              "radius": 110,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["$", "e££a", "£", "AM", "vi", "$α", "no", "wa", "Φ", "ic", "tor"]
+            },
+	        {
+              "text": "a",
+              "radius": 140,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["$", "e££a", "£", "dă", "vi", "$α", "no", "wa", "Φ", "ic", "tor", "i", "da", "do", "®t"]
+            },
+	        {
+              "text": "$",
+              "radius": 222,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["e££a", "wa", "Φ", "ic", "tor", "i", "a", "AM", "anu", "es", "una"]
+            }
+          ]
+        },
+    	{
+          "id": "7f",
+          "text": "®t                     no",
+	  "orbit_units": [
+	        {
+              "text": "®t",
+              "radius": 130,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["a", "tor", "e££a", "i", "Φ", "ic", "is", "£", "al", "$", "$α"]
+            },
+	        {
+              "text": "no",
+              "radius": 222,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["$", "®t", "dă", "wa", "a", "do", "i", "Φ", "ic", "al", "a", "£", "$α", "e££a", "tor", "anu", "se", "x", "vi"]
+            }
+          ]
+        },
+    	{
+          "id": "7g",
+          "text": "i      Φ ic i    al    $α",
+	  "orbit_units": [
+	        {
+              "text": "i",
+              "radius": 135,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["Φ", "$", "£", "nov", "a", "tor", "ic", "i", "al", "$α", "$", "wa", "a", "do", "da", "dă", "vi"]
+            },
+	        {
+              "text": "Φ",
+              "radius": 180,
+              "speed": 0.5,
+              "can_recombine": true,
+              "combine_with": ["a", "®t", "ic", "al","$α", "da", "do", "AM", "anu", "se", "is", "i", "x", "wa", "$", "que", "vi"]
+            },
+	        {
+              "text": "ic",
+              "radius": 185,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["i", "al","a", "$α", "x", "wa", "$", "vi", "AM"]
+            },
+	        {
+              "text": "i",
+              "radius": 190,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["Φ", "$", "£", "nov", "a", "tor", "ic", "i", "al", "$α", "$", "wa", "a", "do", "da", "dă", "vi"]
+            },
+	        {
+              "text": "al",
+              "radius": 195,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["Φ", "$", "£", "nov", "a", "tor", "ic", "i", "$α", "$", "wa", "a", "do", "da", "dă", "vi", "anu", "AM", "litter", "be", "es"]
+            },
+	        {
+              "text": "$α",
+              "radius": 222,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["Φ", "$", "£", "nov", "tor", "ic", "i", "wa", "a", "do", "da", "vi", "anu", "AM", "be", "is", "vi", "®t", "que"]
+            }
+          ]
+        },
+    	{
+          "id": "7h",
+          "text": "da         dă          wa    a do",
+	  "orbit_units": [
+	        {
+              "text": "da",
+              "radius": 60,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["wa", "Φ", "ic", "i", "da", "dă", "do", "AM", "be", "is", "vi", "$", "£", "nov", "tor", "wa", "$α", "$", "que", "®t"]
+            },
+	        {
+              "text": "dă",
+              "radius": 100,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["i", "da", "do", "AM", "tor", "wa", "vi", "$α", "$"]
+            },
+	        {
+              "text": "wa",
+              "radius": 185,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["Φ", "ic", "i", "da", "do", "AM", "be", "is", "vi", "$", "£", "nov", "tor", "wa", "$α", "$", "que", "AM"]
+            },
+	        {
+              "text": "a",
+              "radius": 195,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["$", "e££a", "£", "dă", "vi", "$α", "no", "wa", "Φ", "ic", "tor", "i", "da", "do", "x", "®t", "que"]
+            },
+	        {
+              "text": "do",
+              "radius": 222,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["wa", "Φ", "i", "da", "dă", "do", "AM", "be", "is", "vi", "$", "£", "nov", "tor", "$α", "$", "que", "no", "$tep"]
+            }
+          ]
+        },
+    	{
+          "id": "7i",
+          "text": "vi        vi",
+	  "orbit_units": [
+	        {
+              "text": "vi",
+              "radius": 65,
+              "speed": 0.6,
+              "can_recombine": true,
+              "combine_with": ["wa", "Φ", "i", "da", "dă", "do", "AM", "vi", "$", "£", "nov", "tor", "$α", "no", "x", "$tep", "s(To)p", "ic", "®t", "e££a", "anu", "se", "be"]
+            },
+	        {
+              "text": "vi",
+              "radius": 110,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["wa", "Φ", "i", "da", "dă", "do", "AM", "vi", "$", "£", "nov", "tor", "$α", "no", "x", "$tep", "s(To)p", "ic", "®t", "e££a", "anu", "se", "be"]
+            }
+          ]
+        },
+    	{
+          "id": "7j",
+          "text": "£",
+	  "orbit_units": [
+	        {
+              "text": "£",
+              "radius": 130,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["i", "da", "dă", "do", "AM", "$", "tor", "$α", "no", "x", "$tep", "s(To)p", "ic", "®t", "e££a", "anu", "se", "®t", "litter", "a", "Φ", "al"]
+            }
+          ]
+        },
+    	{
+          "id": "7k",
+          "text": "pAso  a    PaSo",
+	  "orbit_units": [
+	        {
+              "text": "pAso",
+              "radius": 60,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["da", "dă", "do", "AM", "$", "tor", "$α", "no", "x", "$tep", "s(To)p", "ic", "®t", "e££a", "anu", "se", "litter", "a", "Φ", "al", "vi", "wa", "£"]
+            },
+	        {
+              "text": "a",
+              "radius": 110,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["$", "e££a", "£", "dă", "vi", "$α", "no", "wa", "Φ", "ic", "tor", "i", "da", "do", "x", "®t", "que"]
+            },
+	        {
+              "text": "pAso",
+              "radius": 120,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["da", "dă", "do", "AM", "$", "tor", "$α", "no", "x", "$tep", "s(To)p", "ic", "®t", "e££a", "anu", "se", "litter", "a", "Φ", "al", "vi", "wa", "£"]
+            }
+          ]
+        },
+    	{
+          "id": "7l",
+          "text": "$tep by     s(To)p       litter",
+	  "orbit_units": [
+	        {
+              "text": "$tep",
+              "radius": 140,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["a", "es", "®t", "anu", "$", "e££a", "Φ", "is", "i", "x"]
+            },
+	        {
+              "text": "by",
+              "radius": 160,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["®t", "Φ", "is", "no", "$α", "wa", "da", "do", "tor", "anu", "que", "x"]
+            },
+	        {
+              "text": "s(To)p",
+              "radius": 180,
+              "speed": 0.9,
+              "can_recombine": true,
+              "combine_with": ["a", "es", "®t", "anu", "$", "e££a", "Φ", "is", "i", "x", "litter", "AM", "do", "Φ", "is", "i", "x", "tor"]
+            },
+	        {
+              "text": "litter",
+              "radius": 200,
+              "speed": 0.7,
+              "can_recombine": true,
+              "combine_with": ["a", "es", "®t", "anu", "$", "e££a", "Φ", "is", "i", "x", "do", "da", "dă", "vi", "wa", "al", "$tep", "by", "s(To)p", "Φ", "is", "i", "x", "tor", "AM"]
+            }
+          ]
+        },
+    	{
+          "id": "7m",
+          "text": "be        AM",
+	  "orbit_units": [
+	        {
+              "text": "be",
+              "radius": 170,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["da", "do", "$", "tor", "$α", "no", "x", "$tep", "s(To)p", "ic", "®t", "e££a", "anu", "se", "litter", "a", "Φ", "al", "vi", "wa", "£", "anu", "es", "litter", "x", "i", "$α", "que", "una", "nov", "no", "AM"]
+            },
+	        {
+              "text": "AM",
+              "radius": 190,
+              "speed": 0.8,
+              "can_recombine": true,
+              "combine_with": ["da", "do", "$", "tor", "$α", "no", "x", "$tep", "s(To)p", "ic", "®t", "e££a", "anu", "se", "litter", "a", "Φ", "al", "vi", "wa", "£", "anu", "es", "litter", "x", "i", "$α", "que", "una", "nov", "no", "AM"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
