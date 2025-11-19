@@ -1,0 +1,260 @@
+[
+  {
+    "paragraph": "Zur Quantenmechanik der Stoßvorgänge.\n[Vorläufige Mitteilung. ?)]\nVon Max Born, Göttingen.\n(Eingegangen am 25. Juni 1926.)\nDurch eine Untersuchung der Stoßvorgänge wird die Auffassung entwickelt, daß",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "die Quantenmechanik in der Schrödingerschen Form nicht nur die stationären\nZustände, sondern auch die Quantensprünge zu beschreiben gestattet.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die von Heisenberg begründete Quantenmechanik ist bisher aus-\nschließlich angewandt worden zur Berechnung der stationären Zustände\nund der den Übergängen zugeordneten Schwingungsamplituden (ich ver-\nmeide absichtlich das Wort „Übergangswahrscheinlichkeiten“). Dabei\nscheint sich der inzwischen weit entwickelte Formalismus gut zu be-\nwähren. Aber diese Fragestellung betrifft nur eine Seite der quanten-\ntheoretisehen Probleme; daneben erhebt sich als ebenso wichtig die Frage\nnach dem Wesen der „Übergänge“ selbst. Hinsichtlich dieses Punktes\nscheint die Meinung geteilt zu sein; viele nehmen an, daß das Problem\nder Übergänge von der Quantenmechanik in der vorliegenden Form nicht\nerfaßt wird, sondern daß hier neue Begriffsbildungen nötig sein werden.\nIch selbst kam durch den Eindruck der Geschlossenheit des logischen\nAufbaues der Quantenmechanik zu der Vermutung, daß diese Theorie\nvollständig sein und das Übergangsproblem mit enthalten müsse. Ich\nglaube, daß es mir jetzt gelungen ist, dies nachzuweisen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Schon Bohr hat die Aufmerksamkeit darauf gerichtet, daß alle\nprinzipiellen Schwierigkeiten der Quantenvorstellungen, die uns bei der\nEmission und Absorption von Licht durch Atome begegnen, auch bei der\nWechselwirkung von Atomen auf kurze Entfernung auftreten, also bei\nden Stoßvorgängen. Bei diesen hat man es statt mit dem noch sehr\ndunklen Wellenfelde ausschließlich mit Systemen materieller Teilchen zu\ntun, die dem Formalismus der Quantenmechanik unterliegen. Ich habe\ndaher das Problem in Angriff genommen, die Wechselwirkung eines\nfreien Teilchens (u-Strahls oder Elektrons) und eines beliebigen Atoms\nnäher zu untersuchen und festzustellen, ob nicht innerhalb des Rahmens\nder vorliegenden Theorie eine Beschreibung des Stoßvorganges möglich ist.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "3) Diese Mitteilung war ursprünglich für die „Naturwissenschaften® bestimmt,\nkonnte aber dort wegen Raummangel nicht aufgenommen werden. Ich hoffe, daß\nihre Veröffentlichung an dieser Stelle nicht überflüssig erscheint.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Zeitschrift für Physik. Bd. XXXVIL 57",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Von den verschiedenen Formen der Theorie hat sich hierbei allem\ndie Schrödingersche als geeignet erwiesen, und ich möchte gerade aus\ndiesem Grunde sie als die tiefste Fassung der Quantengesetze ansehen.\nDer Gedankengang meiner Überlegung ist num der folgende:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wenn man quantenmechanisch die Wechselwirkung zweier Systeme\nberechnen will, so kann man bekanntlich nicht, wie in der klassischen,\nMechanik, einen Zustand des einen Systems herausgreifen und feststellen,\nwie dieser von einem Zustande des anderen Systems beeinflußt wird,\nsondern alle Zustände beider Systeme koppeln sich in verwickelter Weise.\nDas gilt auch bei einem aperiodischen Vorgang, wie einem Stoße, wo ein\nTeilchen, sagen wir ein Elektron, aus dem Unendlichen kommt und wieder\nim Unendlichen verschwindet. Aber hier drängt sich die Vorstellung\nauf, daß doch sowohl vor als auch nach dem Stoße, wenn das Elektron\nweit genug entfernt und die Koppelung klein ist, ein bestimmter Zustand\ndes Atoms und eine bestimmte, geradlinig-gleichförmige Bewegung des\nElektrons definierbar sein muß. Es handelt sich darum, dies asympto-\ntische Verhalten der gekoppelten Teilchen mathematisch zu fassen. Mit\nder Matrixform der Quantenmechanik ist mir das nicht gelungen, wohl\naber mit der Schrödingerschen Formulierung.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nach Schrödinger ist das Atom im n-ten Quantenzustand ein\nSchwingungsvorgang einer Zustandsgröße im ganzen Raume mit kon-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1 .\nstanter Frequenz ” W?. Ein geradlinig bewegtes Elektron ist speziell",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ein solcher Schwingungsvorgang, der einer ebenen Welle entspricht.\nKommen beide in Wechselwirkung, entsteht eine verwickelte Schwingung.\nAber man sieht sogleich, daß man diese durch ihr asymptotisches Ver-\nhalten im Umendlichen festlegen kann. Man hat ja nichts als eim\n„Beugungsproblem“, bei dem eine einfallende ebene Welle an dem Atom\ngebeugt oder zerstreut wird; an Stelle der Randbedingungen, die man in\nder Optik zur Beschreibung der Schirme verwendet, hat man hier die\npotentielle Energie der Wechselwirkung von Atom und Elektron.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Aufgabe ist also: man solldie Schrödingersche Wellengleichung\nfür die Kombination Atom-Elektron lösen unter der Randbedingung, daß\ndie Lösung in einer bestimmten Richtung des Elektronenraumes asymp-\ntotisch übergeht in eine ebene Welle eben dieser Fortschreitungsrichtung\n(das ankommende Elektron). Von der so gekennzeichneten Lösung\ninteressiert uns nun wieder hauptsächlich das Verhalten der „gestreuten“\nWelle im Unendlichen; denn diese beschreibt das Verhalten des Systems\nnach dem Stoß. Wir führen das etwas näher aus. Es seien 1 (gr),",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 3 ---\nZur Quantenmechanik der Stoßvorgänge. 865",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "%% (gu), -.. die Eigenfunktionen des ungestörten Atoms (wir nehmen an,\nes gäbe nur eine diskrete Folge); dem ‚ungestört (geradlinig) bewegten",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Elektron entsprechen die Eigenfunktionen sin ar (+ By+Yy2+0)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "die eine kontinuierliche Mannigfaltigkeit ebener Wellen bilden, deren\nWellenlänge (nach de Broglie) mit der Energie x der Translations-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "f}\n2wA?\nfunktion des ungestörten Zustandes, bei dem das Elektron aus der\n+ z-Riehtung kommt, ist also",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "bewegung durch die Relation r = verknüpft ist. Die Eigen-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nun sei 7(x, 9, 2; 9x) die potentielle Energie der Wechselwirkung von\nAtom und Elektron. Man kann dann mit Hilfe einfacher Störungs-\nrechnungen zeigen, daß es eine eindeutig bestimmte Lösung der\nSchrödingerschen Differentialgleichung bei Berücksichtigung der\nWechselwirkung V gibt, die für z— + oc asymptotisch in obige Funk-\ntion übergeht.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es kommt nun darauf an, wie diese Lösungsfunktion sich „nach\ndem Stoß“ verhält.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nun ergibt die Rechnung: die durch die Störung erzeugte, gestreute\nWelle hat im Unendlichen asymptotisch den Ausdruck",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Mans = D| 200... 8 Ysinkumtwraytye+d una)\nm ar+ßy+ 4 >o “",
+    "paragraph_type": "Unknown",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Das bedeutet: die Störung läßt sich im Unendlichen auffassen als Super-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "position von Lösungen des ungestörten Vorgangs. Berechnet man die",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "zur Wellenlänge A,„ gehörige Energie nach der oben angegebenen",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "r\nde Broglieschen Formel, so findet man",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wım =hvmmt tr,\n«\nwobei v9 „ die Frequenzen des ungestörten Atoms sind.\nWill man nun dieses Resultat korpuskular umdeuten, so ist nur eine\nInterpretation möglich: ©, (&, ß, 7) bestimmt die Wahrscheinlichkeit')\nz\ndafür, daß das aus der z-Richtung kommende Elektron in die durch o, ß, y\n1) Anmerkung bei der Korrektur: Genauere Überlegung zeigt, daß die\nWahrscheinlichkeit dem Quadrat der Größe ®nm proportional ist.\n=\n57*",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "bestimmte Richtung (und mit einer Phasenänderung 6) geworfen wird,\nwobei seine Energie r um ein Quant Av%., auf Kosten der Atomenergie\nzugenommen hat (Stoß erster Art für WP < W, hvd <.0; Stoß zweiter\nArt für WI > WA, hun <0).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Schrödingersche Quantenmechanik gibt also auf die Frage\nnach dem Eifekt eines Zusammenstoßes eine ganz bestimmte Antwort;\naber es handelt sich um keine Kausalbeziehung. Man bekommt keine\nAntwort auf die Frage, „wie ist der Zustand nach dem. Zusammenstoße*,\nsondern nur auf die Frage, „wie wahrscheinlich. ist ein vorgegebener Effekt\ndes Zusammenstoßes“ (wobei natürlich der quantenmechanische Energie-\nsatz gewahrt sein muß).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hier erhebt sich die ganze Problematik des Determinismus. Vom\nStandpunkt unserer Quantenmechanik gibt es keine Größe, die im Einzel-\nfalle den Effekt eines Stoßes kausal festlegt; aber auch in der Erfahrung\nhaben wir bisher keinen Anhaltspunkt dafür, daß es innere Eigenschaften\nder Atome gibt, die einen bestimmten Stoßerfolg bedingen. Sollen wir\nhoffen, später solche Eigenschaften (etwa Phasen der inneren Atom-\nbewegungen) zu entdecken und im Einzelfalle zu bestimmen ? Oder sollen\nwir glauben, daß die Übereinstimmung von Theorie und Erfahrung in der\nUnfähigkeit, Bedingungen für den kausalen Ablauf anzugeben, eine prä-\nstabilierte Harmonie ist, die auf der Nichtexistenz solcher Bedingungen\nberuht? Ich selber neige dazu, die Determiniertheit in der atomaren\nWelt aufzugeben. Aber das ist eine philosophische Frage, für die\nphysikalische Argumente nicht allein maßgebend sind.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Praktisch besteht jedenfalls sowohl für den experimentellen als auch\nden theoretischen Physiker der Indeterminismus. Die von den Experi-\nmentatoren viel untersuchte „Ausbeutefunktion“ ® ist jetzt auch theo-\nretisch streng faßbar. Man kann sie aus der potentiellen Energie der\nWechselwirkung V (x, 9, 2; gu) finden; doch sind die hierzu nötigen\nRechenprozesse zu verwickelt, um sie an dieser Stelle mitzuteilen. Ich\nwill nur die Bedeutung der Funktion ®,,„ mit einigen Worten erläutern.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "T\nIst z. B. das Atom vor dem Stoß im Normalzustand n — 1, so folgt aus\ntv = Thin — Wim >0,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "?\ndaß für ein Elektron mit kleinerer Energie als die kleinste Anregungs-\nstufe des Atoms notwendig auch m = 1, also W,, — r sein muß; es",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "?\nerfolgt also „elastische Reflexion“ des Elektrons mit der Ausbeute-\nfunktion ®,,. Übersteigt r die erste Anregungsstufe, so gibt es außer",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 5 ---\nZur Quantenmechanik der Stoßvorgänge. 867",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "der Reflexion auch Anregung mit der Ausbeute ®,, usw. Ist das",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "getroffene Atom im angeregtehi Zustand n — 2 und r <hvl,, so gibt",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "es Reflexion mit der Ausbeute ®,, und Stöße zweier Art mit der\n=",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ausbeute ®,,. Ist > hv},, tritt dazu weitere Anregung usw.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Formeln geben also das qualitative Verhalten bei Stößen voll-\nkommen wieder. Die quantitative Ausschöpfung der Formeln für spezielle\nFälle muß einer ausführlichen Untersuchung vorbehalten bleiben.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es scheint mir nicht ausgeschlossen, daß die enge Verknüpfung von\nMechanik und Statistik, wie sie hier zum Vorschein kommt, eine Revision\nder thermodynamisch-statistischen Grundbegriffe erfordern wird.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ich glaube ferner, daß auch das Problem der Ein- und Ausstrahlung\nvon Licht in ganz analoger Weise als „Randwertaufgabe“ der Wellen-\ngleichung behandelt werden muß und auf eine rationelle Theorie der\nDämpfung und Linienbreite im Einklang mit der Lichtquantenvorstellung\nführen wird.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Eine eingehende Darstellung wird demnächst in dieser Zeitschrift",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]

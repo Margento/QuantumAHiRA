@@ -1,0 +1,793 @@
+[
+  {
+    "paragraph": "Als Hindernisse bei der praktischen Anwendung dürften\nsowohl die Farbenunterschiede der mit dieser Einheit ver-\nglichenen Lichtquelle, als auch das schnelle Wachsen der\nausgestrablten Lichtmenge mit steigender Stromstärke be-\nzeichnet werden. Dennoch möchten sich bei Anwendung\nanderer Lichtquellen zu dem genannten Zweck vielleicht\nnoch gröfsere Schwierigkeiten in den Weg siellen, da sich\ndie Umstände, welche die Leuchtkraft modificiren, schwer-\nlich auf so einfache Bedingungen wie im vorliegenden Falle\nzurückführen lassen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "IV. Ueber das Verhältni/s zwischen dem Emis-\nsionsvermögen und dem Absorptionsvermögen der\nKörper für /Värme und Licht;\nvon G. Kirchhoff.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Eu» Körper, der in einer Hülle sich befindet, deren Tem-\nperatur der seinigen gleich ist, ändert durch Wärmestrah-\nlung nicht seine Temperatur, absorbirt also in einer ge-\nwissen Zeit eben so viel Strahlen als er aussendet. Schon\nvor langer Zeit hat man hieraus den Schlufs gezogen, dafs\nbei derselben Temperatur das Verhälinifs zwischen dem\nEmissionsvermögen und dem Absorplionsvermögen für alle\nKörper das gleiche ist. Dabei hat man vorausgesetzt, dafs\ndie Körper nur Strahlen einer Gattung aussenden. Dieser\nSatz ist durch Versuche, namentlich von den Hrn. de la\nProvostaye und Desains in vielen Fällen bestätigt ge-\nfuuden, in denen die Gleichartigkeit der ausgesendeien\nStrahlen wenigstens näherungsweise in sofern vorausgesetzt\nwerden konnte, als die Strahlen dunkle waren. Ob ein\nähnlicher Satz gilt, wenn die Körper gleichzeitig Strablen\nverschiedener Gattung aussenden, was strenge genommen\n18 *",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wohl immer der Fall ist, darüber ist bisher weder durch\ntheoretische Betrachtungen noch durch Versuche eiwas er-\nmitielt. Ich habe nun gefunden, dafs jener Satz seine Gül-\ntigkeit auch dann behält, sobald man nur unter dem Emis-\nsionsvermögen die Intensität der ausgesendeten Strahlen\neiner Gattung versteht und das Absorptionsvermögen auf\nStrahlen derselben Gattung bezieht. Das Verkältnifs zwi-\nschen dem Emissionsvermögen und dem Absorptionsvermö-\ngen, diese Begriffe in der bezeichneten Weise genommen,\nist für alle Körper bei derselben Temperatur dasselbe. Ich\nwill bier den theoretischen Beweis dieses Satzes führen und\ndann einige merkwürdige Folgerungen entwickeln, die un-\nmittelbar aus demselben fliefsen, und die theils bekannte\nErscheinungen erklären, theils neue Erscheinungen kennen\nlehren.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ein jeder Körper sendet Strahlen aus, deren Qualität\nund Intensität von seiner Natur und seiner Temperalur ab-\nhängig sind. Zu diesen können unter gewissen Umständen\nnoch andere Strahlen hinzukommen; es findet das z. B.\nstatt, wenn der Körper bis zu einem genügenden Grade\nelekirisirt ist, oder wenn er phosphorescirt oder fluores-\neirt. Solche Fälle sollen hier ausgeschlossen seyn. Wird\nder Körper von Aufsen her von Strahlen getroffen, so ab-\nsorbirt er einen Theil derselben und verwandelt ihn in\nWärme. Zu dieser Absorption kann unter gewissen Ver-\nhältnissen noch eine andere kommen, was z. B. geschieht,\nwenn der Körper ein Lichtsauger ist, oder wenn er fluo-\nrescirt. Es wird hier vorausgeseizt, dafs alle absorbirten\nStrahlen in Wärme verwandelt werden.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$. 1. Vor einen Körper C Fig. 1, Taf. III denke man\nsich zwei Schirme S, und S, aufgestellt, in welchen die\nbeiden Oeffuungen 1 und 2 sich befinden, deren Dimensio-\nnen unendlich klein gegen ihre Entfernung sind, und von\ndenen eine jede einen Mittelpunkt hat. Durch diese Oeff-\nnungen tritt von dem Körper C ein Strahlenbündel. Von\ndiesem betrachte man den Theil, dessen Wellenlängen zwi-\nschen 2 und A-+-dA liegen, und zerlege denselben in zwei",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "sentence": "Durch diese Öffnungen tritt von dem Körper C ein Strahlenbündel.",
+        "figurative_expression": "Strahlenbündel",
+        "type": "Ontological Metaphor",
+        "conceptual_mapping": "Abstract light energy and its movement is expressed concretely as a 'beam of rays' passing through an opening."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "polarisirte Componenten, deren Polarisationsebenen die auf\neinander rechtwinkligen, durch die Axe des Strahlenbün-\ndels gehenden Ebenen a und 5 sind. Die Intensität. der\nnach @ polarisirten Componente sey Edi: E heilse das\nEmissionsvermögen des Körpers.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Auf den Körper € falle umgekehrt durch die Oeffnun-\ngen 2 und 1 ein Strahlenbündel von der Wellenlänge A,\ndas nach der Ehene a polarisirt ist; von diesem absorbirt\nder Körper einen Theil, während er das Uebrige. theils\ndurchläfst, theils reflectirt; das Verhältnifs der Intensität der\nabsorbirten Strahlen zu der der auffallenden sey A und\nheifse das Absorptionsvermögen des Körpers.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Gröfsen E und A hängen ab von der Natur und\nTemperatur des Körpers C, von der Lage und Gestalt der\nOeffnungen 1 und 2, von der Wellenlänge A und der\nRichtung der Ebene a. Es soll nachgewiesen werden, dafs\ndas Verhältnifs von E zu A von der Natur des Körpers\nunabhängig ist; es wird sich dabei von selbst ergeben, dafs\ndieses Verhältnifs auch nicht veränderlich mit der Richtung\nder Ebene @ ist,-und seine Abhängigkeit von der Lage\nund Gestalt der Oeffnungen 1 und 2 wird sich leicht aus-\ndrücken lassen, so dafs nur unbekannt bleibt, wie es von\nder Temperatur und der Wellenlänge A abhängt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Der Beweis, welcher für die ausgesprochene Behaup-\ntung hier gegeben werden soll, beruht auf der Annahme,\ndafs Körper denkbar sind, welche bei unendlich kleiner\nDicke alle Strahlen, die auf sie fallen, vollkommen absor-\nbiren, also Strahlen weder reflectiren noch hindurchlassen.\nIch will solche Körper vollkommen schwarze, oder kürzer\nschwarze, nennen. Es ist nöthig, zuerst die Strahlung sol-\ncher schwarzen Körper zu untersuchen. \"",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$. 2. Es sey C ein schwarzer Körper; sein Emissions-\nvermögen, das im Allgemeinen durch E bezeichnet ist, werde\ne genannt; es soll bewiesen werden, dafs e ungeändert\nbleibt, wenn © durch irgend einen andern schwarzen Kör-\nper von derselben Temperatur ersetzt wird.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Man denke sich den Körper C in eine schwarze Hülle",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "eingeschlossen, von der der Schirm S, einen Theil aus-\nmacht; der zweite Schirm sey, wie der erste, aus einer\nschwarzen Substanz gebildet und beide seyen durch schwarze\nSeitenwände ringsum mit einander verbunden, Fig.2 Taf. II.\nDie Oeffnung 2 denke man sich zuerst durch eine gleich-\nfalls schwarze Fläche, die ich die Fläche 2 nennen will,\nverschlossen. Das ganze System soll dieselbe Temperatur\nbesitzen und durch eine für Wärme undurchdringliche Hülle,\netwa durch eine geschlossene, vollkommen spiegelnde Fläche,\nvor Wärmeverlust nach Aufsen geschützt seyn. Die Tem-\nperatur des Körpers C bleibt sich dann gleich, es mufs\ndaher die Summe der Intensitäten der Strahlen, die ihn tref-\nfen (und die er der Voraussetzung gemäls vollständig ab-\nsorbirt) gleich seyn der Summe der Intensitäten der Strah-\nlen, die er aussendet. Nun stelle man sich vor, dafs die\nFläche 2 entfernt und die frei gemachte Oeffnung verschlos-\nsen werde durch ein unmittelbar dahinter geseiztes Stück\neiner vollkommen spiegelnden Kugelfläche, die ihren Mit-\ntelpunkt in dem Mittelpunkte der Oeffnung 1 hat. Das\nGleichgewicht der Temperatur. wird auch dann bestehen.\nJene Gleichheit der Intensität der Strahlen, die der Kör-\nper C aussendet, uud derer, von welchen er getroffen\nwird, mufs also auch jetzt stattfinden. Da aber der Kör-\nper C jetzt dieselben Strahlen aussendet, wie in dem vor-\nher gedachten Falle, so folgt, dafs die Intensität der Strah-\nlen, welche in beiden Fällen den Körper € treffen, die-\nselbe ist. Durch die Entfernung der Fläche 2 sind dem\nKörper € die Strahlen entzogen, die jene durch die Oeff-\nnung 1 hindurchsendete; dafür wirft der an der Oeffnung 2\nangebrachte Hohlspiegel diejenigen Strahlen zu dem Kör-\nper C zurück, die dieser selbst durch die Oeffnungen 1\nund 2 hindurchsendet '). Es ergiebt sich hieraus, dafs die",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Es ist hierbei die Beugung vernachlässigt, die die Strahlen an den\nRändern der Oeffnung 2 erfahren; es ist dieses gerechifertigt, wenn man\nsieh die Oeffoungen 1 und 2, die zwar unendlich klein gegen ihre Ent-\nfernung seyn sollen, noch sehr grols gegen die WVellenlänge der Sırah-\nlen denkt.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Es ist hierbei die Beugung vernachlässigt, die die Strahlen an den Rändern der Oeffnung 2 erfahren;",
+        "Bildhafter Ausdruck": "die Beugung vernachlässigt",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Beugung von Licht wird als Prozess dargestellt, der vernachlässigt werden kann, ähnlich wie man ein Detail in einer größeren Aufgabe ignorieren kann."
+      },
+      {
+        "Satz": "es ist dieses gerechifertigt, wenn man sieh die Oeffoungen 1 und 2, die zwar unendlich klein gegen ihre Entfernung seyn sollen, noch sehr grols gegen die WVellenlänge der Sırahlen denkt.",
+        "Bildhafter Ausdruck": "unendlich klein",
+        "Typ": "Ontologisch",
+        "Konzeptuelle Zuordnung": "Die Größe der Öffnungen im Vergleich zu ihrer Entfernung wird als 'unendlich klein' beschrieben, was ein abstraktes Konzept (Unendlichkeit) nutzt, um den Größenunterschied zu verdeutlichen."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Intensität des Strahlenbündels, welches der Körper € durch\ndie Oeffnungen 1 und 2 ausschickt, gleich ist der Intensi-\ntät des Strahlenbündels, welches die schwarze Fläche 2: bei-\nderselben Temperatur durch .die Oeffnung 1 entsendet. Jene\nIntensität ist also unabhängig von der Gestalt und weite-\nren Beschaffenheit des schwarzen Körpers €. Es wäre\nhiermit der ausgesprochene Satz bewiesen, wenn alle Strah-\nlen der beiden eben mit einander verglichenen Strahlen-\nbündel von der Wellenlänge A und nach der Ebene a po-\nlarisirt wären. Die Rücksicht auf die Verschiedenartigkeit\ndieser Strahlen macht etwas verwickeltere Betrachtungen\nnötbig.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8. 3. Bei der Fig. 2 Taf. IIL dargestellten Anordnung\ndenke man sich zwischen die Oeffnungen 1 und 2 eine\nkleine Plaite P (Fig. 3) gebracht, die in den sichtbaren\nStrahlen die Farben dünner Blättchen zeigt, und die theils\nwegen ihrer geringen Dicke, theils wegen ihrer substantiellen\nBeschaffenheit eine merkliche Strahlenmenge weder aussen-\ndet noch absorbirt. Die Platte sey so gerichtet, dafs das\ndurch die Oeffnungen 1 und 2 tretende Strahlenbündel sie\nunter dem Polarisationswinkel trifft und die Einfallsebene\ndie Ebene «a ist. Die Wand, welche die Schirme S, und S,\nmit einander verbindet, sey so gestaltet, dafs das Spiegel-\nbild, welches die Platte P von der Oefinung 2 entwirft,\nin ihr liegt; an dem Orte und von der Gestalt dieses Spie-\ngelbildes deuke man sich eine Oeffnung, welche ich die\nOeffnung 3 nennen will. Die Oeffnung 2 sey durch eine\nschwarze Fläche von der Temperatur des ganzen Systemes,\ndie Oeffnung 3 einmal durch eine eben solche Fläche, die\nich als die Fläche 3 bezeichnen werde, das andere Mal\ndurch einen vollkommnen Hohlspiegel verschlossen, der\nseinen Mittelpunkt an dem Orte des Spiegelbildes hat, das\ndie Platte P von dem Mittelpunkte der Oeffnung 1 ent-\nwirft. In beiden Fällen findet ein Gleichgewicht der Wärme\nstatt; durch eine Betrachtung, wie sie im vorigen $. durch-\ngeführt ist, folgt daraus, dafs die Summe der Intensitäten\nder Strahlen, die durch Entfernung der Fläche 3 dem Kör-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "per € entzogen werden, gleich ist der Summe der Intensi-\ntäten der Strahlen, die diesem durch Anbringung des Hohl-\nspiegels zugeführt werden. Ein schwarzer Schirm (von\nder Temperatur des ganzen Systemes), S,, sey so aufge-\nstellt, dafs direct keine von den Strahlen, die die Fläche 3\naussendet, die Oeffnung I treffen. Die erste Summe ist\ndann die Intensität der Strahlen, die von der Fläche 3 aus-\ngegangen, au der Platte P reflectirt und durch die Oeff-\nnung 1 getreten sind; sie werde durch Q bezeichnet. Die\nzweite Summe setzt sich aus zwei Theilen zusammen; der\neine Theil rührt von dem Körper C her und ist:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "o\nwo r eine von der Beschaffenheit der Platte P und der\nWellenlänge A abhängige Gröfse bedeutet; der zweite Theil\nrührt von Strahlen her, welche von einem Theile der schwar-\nzen Wand ausgegangen sind, die die Schirme S, und S,\nverbindet, die Platte ? durchdrungen haben, von dem Hohl-\nspiegel und dann von der Platte P reflectirt sind; dieser\nTheil werde durch R bezeichnet. Es ist unnöthig den\nWerth von R näher zu untersuchen; es genügt zu bemer-\nken, dafs R, ebenso wie Q, von der Beschaffenheit des\nKörpers C unabhängig ist. Zwischen den eingeführten Grö-\nfsen besteht die Gleichung:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "S der #R=(Q.\no\nDenkt man sich nun den Körper C durch einen andern\nschwarzen Körper von derselben Temperatur ersetzt, und\nbezeichnet man für diesen mit e', was man für jenen mit e\nbezeichnet hat, so gilt auch die Gleichung:\nSarer +R=0.\nHieraus folgt: \"\nSre-onr=0.\no",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Man nehme nun an, dafs das Brechungsverhältnifs der\nPlatte P unendlich wenig von der Einheit verschieden ist.\nAus der Theorie der Farben dünner Blättchen folgt dann, dafs",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "gesetzt werden kann, wo p eine mit der Dicke der Platte P\nproportionale, von 4 unabhängige, o eine von dieser Dicke\nunabhängige Gröfse bedeutet. Hierdurch wird die abgelei-\ntete Gleichung:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Daraus, dafs diese Gleichung für jede Dicke der Platte P,\nals für jedeu Werth von p bestehen mufs, läfst sich schlie-\nfsen, dafs für jeden Werth von A",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "e—e—=0\nist. Um den Beweis hierfür zu führen, setze man in jene\nGleichung für sin*® &:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "+ (cos 4 240052 2+3)\nund differentiire sie zweimal nach p; man erhält dadurch:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "An Stelle von A führe man nun eine neue Gröfse « durch\ndie Gleichung:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "e—e)o’=f(a).\nMan erhält dadurch:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sde f(e) (cos2p « — cospe) = 0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "o\nErwägt man, dafs, wenn p(«) eine beliebige Function von\na bedeutet,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sau pe) eos2pa =: fdag(&) cosp«\n. o",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ist, wovon man sich überzeugt, weun man für « 3",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "setzt,\nso kaun man dafür schreiben:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "0}\nDiese Gleichung multiplicire man mit\ndp coszp,\nwo x eine willkührliche Gröfse bedeutet, und integrire sie\nvon p=0 bis p=w. Nach dem Fourier’schen Satze,\nder durch die Gleichung",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sa cospa [day (e) cospe = 7 20)\nv v\nausgesprochen ist, erhält man dadurch:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(5) =2f@\noder\nfG)=21@.\nHieraus folgt, dafs f(«) entweder für alle Werthe von «\nverschwindet oder unendlich grols werden mufs, wenn «@\nsich der Null nähert. Wenn « sich der Null nähert, wird A\nunendlich. Erinnert man. sich an die Bedeutung von f(e)\nund erwägt, dafs e ein ächter Bruch ist, und dafs weder\ne noch e' unendlich werden können, wenn A ins Unendliche\nwächst, so sieht man ein, dafs der zweile Fall nicht statt-\nfinden kann und dafs daher für alle Werthe von A\ne=e",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$. 4. Wenn das Strahlenbündel, welches der schwarze\nKörper C durch die Oeffnungen I und 2 aussendet, theil-\nweise geradlinig polarisirt wäre, so mülste die Polarisations-\nebene des polarisirten Antheiles sich drehen, wenn der Kör-\nper C um die Axe des Strahlenbündels gedreht würde.\nEine solche Drehung mülste daber den Werth von e än-\ndern. Da nach der bewiesenen Gleichung eine solche Aen-\nderung nicht eintreten kann, so hat das Strahlenbündel kei-\nnen geradlinig polarisirten Theil. Es läfst sich beweisen,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dafs dasselbe auch keinen circular polarisirten Theil haben\nkann. Der Beweis dafür soli aber hier nicht geführt wer-\nden. Auch ohne densenlben giebt man zu, dafs schwarze\nKörper sich denken lassen, in deren Structur kein Grund\nliegt, weshalb sie in irgend einer Richtung mehr circular\npolarisirte Strahlen der einen Art als circular polarisirte\nStrahlen der anderen Art aussenden sollten. Von dieser\nBeschaffenheit. sollen die schwarzen Körper, die in der wei-\nteren Betrachtung vorkommen, vorausgesetzt werden; sie\ngeben in allen Richtungen nichtpolarisirte Strahlen aus.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "& 5. Die mit e bezeichnete Gröfse hängt aufser von\nder Temperatur und der Wellenlänge von der Gestalt und\nrelativen Lage der Oeffnungen I und 2 ab. Bezeichnet\nman durch w, und w, die Projectionen der Oeffnungen\nauf Ebenen, die senkrecht auf der Axe des betrachteten\nStrahlenbündels stehen, und nennt s die Entferunng der\nOeffnungen, so ist:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wo / nur eine Function der Wellenlänge und der Tempe-\nratur bedeutet.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$. 6. Da die Gestalt des Körpers C eine willkührliche\nist, so kann wan für denselben auch eine Fläche substi-\ntuiren, welche die Oeffnung 1 gerade ausfüllt, und welche\nich die Fläche 1 nennen will; der Schirm S, kann dann\nfortgedacht werden. Auch der Schirm S, kann fortgedacht\nwerden, wenn man das Strahlenbündel, auf welches sich e\nbezieht, als dasjenige definirt, das von der Fläche I auf\ndie Fläche 2 fällt, welche die Oeffnung 2 gerade ausfüllt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$. 7. Eine Folgerung aus der letzten Gleichung, die\nsich unmittelbar darbietet, und die später benutzt werden\nwird, ist die, dafs der Werth von e ungeändert bleibt, wenn\nman die Oeffnungen 1 und 2 mit einander vertauscht denkt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8.8. Es soll jetzt ein Satz bewiesen werden, welcher\nals eine Verallgemeinerung des im letzten $. ausgesproche-\nnen Satzes betrachtet werden kann,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Zwischen den beiden schwarzen Flächen gleicher Tem-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "peratur, 1 und 2, stelle man sich Körper vor, welche die\nStrahlen, die jene einander zusenden, auf beliebige Weise\nbrechen, reflectiren und absorbiren. Es können mehrere\nStrahlenbündel von der Fläche 1 nach der Fläche 2 gelan-\ngen; unter diesen wähle man eins, betrachte von demsel-\nben bei 1 den Theil, dessen Wellenlängen zwischen A und\nA -+ di liegen, und zerlege diesen in zwei Componenten,\nderen Polarisationsebenen die auf einander senkrechten\n(sonst beliebigen) Ebenen a, und 5, sind. Was von der\nersten Componente in 2 ankommt, zerlege man in zwei\nComponenten, deren Polarisationsebenen die auf einander\nsenkrechten (sonst beliebigen) Ebenen a, und b, sind. Die\nIntensität der nacha, polarisirten Componente sey KdA.’Von\ndem Strahlenbündel, welches auf demselben Wege wie das\nvorige von 2 nach 1 geht, betrachte man bei 2 den Theil,\ndessen Wellenlängen zwischen A und 4 -+d4 liegen, und\nzerlege diesen in zwei nach a, und d, polarisirte Compo-\nnenten. Was von der ersten Componente in 1 ankommt,\nzerlege man in zwei Componenten, deren Polarisationsebe-\nnen a, und 5, sind. Die Intensität der nach a, polarisir-\nten Componente sey K'd}. Dann ist\n> K-=K.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Der Beweis dieses Satzes soll zunächst unter der Vor-\naussetzung geführt werden, dafs die betrachteten Strahlen\nauf ihrem Wege keine Schwächung erleiden, unter der Vor-\nausselzung also, dafs die Brechungen und Reflexionen ohne\nVerlust geschehen, dafs Absorption nicht stattfindet, und\ndafs die aus I nach a, polarisirt austretenden Strahlen in\n2 nach a, polarisirt ankommen, so wie umgekehrt.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Der Beweis dieses Satzes soll zunächst unter der Voraussetzung geführt werden, dafs die betrachteten Strahlen auf ihrem Wege keine Schwächung erleiden.",
+        "Bildhafter Ausdruck": "Strahlen auf ihrem Wege keine Schwächung erleiden",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Strahlen repräsentieren Informationen oder Daten, der 'Weg' steht für den Prozess der Informationsübertragung, und 'Schwächung erleiden' steht symbolisch für Informationsverlust."
+      },
+      {
+        "Satz": "unter der Voraussetzung also, dafs die Brechungen und Reflexionen ohne Verlust geschehen",
+        "Bildhafter Ausdruck": "Brechungen und Reflexionen ohne Verlust geschehen",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Brechungen und Reflexionen repräsentieren symbolisch Transformationen oder Änderungen, die stattfinden, während Informationen oder Daten übertragen oder verarbeitet werden, und 'ohne Verlust' steht für die Aufrechterhaltung der Integrität der ursprünglichen Informationen oder Daten."
+      },
+      {
+        "Satz": "dafs Absorption nicht stattfindet",
+        "Bildhafter Ausdruck": "Absorption nicht stattfindet",
+        "Typ": "Ontologisch",
+        "Konzeptuelle Zuordnung": "'Absorption' steht metaphorisch für das Verschwinden oder Verlieren von Informationen oder Daten."
+      },
+      {
+        "Satz": "dafs die aus I nach a, polarisirt austretenden Strahlen in 2 nach a, polarisirt ankommen, so wie umgekehrt.",
+        "Bildhafter Ausdruck": "polarisirt austretenden Strahlen in 2 nach a, polarisirt ankommen",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "'Polarisiert austreten' und 'polarisiert ankommen' repräsentieren den Zustand und die Konsistenz von Informationen oder Daten während und nach der Übertragung."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Durch den Mittelpunkt von 1 lege man eine Ebene\nsenkrecht zur Axe des hier austretenden oder ankommen-\nden Strahlenbündels und denke sich in dieser ein rechtwin-\nkliges Coordinatensystem, dessen Anfangspunkt jener Mit-\ntelpunkt ist. z,, y, seyen die Coordinaten eines Punktes\nder Ebene, Fig. 4 Taf. III. In der Einheit der Entfernung\nvon dieser Ebene denke man sich eine zweite, ihr parallele\nund in dieser ein Coordinatensystem, dessen Axen parallel",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "denen jenes sind und dessen Anfangspunkt in der Axe des\nStrablenbündels liegt. ©,, 4, seyen die Coordinaten eines\nPunktes dieser Ebene. In ähnlicher Weise lege man durch\nden Mittelpunkt von 2 eine Ebene senkrecht zur Axe des\nbier austretenden oder auffallenden Strahlenbündels und\nführe in dieser ein rechtwinkliges Coordinatensystem ein,\ndessen Anfangspunkt der genannte Mittelpunkt ist. x,, %,\nseyen die Coordinaten eines Punktes der Ebene. In der\nEinheit der Entfernung von dieser Ebene und ihr parallel\ndenke man sich endlich eine vierte und in derselben ein\nCoordinatensystem, dessen Axen den Axen der z,, y, pa-\nrallel sind und dessen Anfangspunkt in der Axe des Strah-\nlenbündels liegt. &,, y, seyen die Coordinaten eines Punk-\ntes dieser vierten Ebene.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Von einem beliebigen Punkte (x,, y,) geht ein Strahl\nnach einem beliebigen Punkte (z,, y,); die Zeit, die er ge-\nbraucht, um von jenem Punkte nach diesem zu gelangen,\nsey T; sie ist eine Funclion von @&,, Y,, %,, %,, welche\nals bekannt vorausgesetzt werden soll. Wenn die Punkte\n(&,, Y,) und (@,, y,) auf dem Wege des genannten Strah-\nles liegen, so ist (wenn der Kürze wegen die Foripflan_\nzungsgeschwindigkeit des Strahles im leeren Raume als Ein-\nheit angenommen wird) die Zeit, die der Strahl gebraucht,\num von (@,, 4,) nach (z,, y,) zu gelangen,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "— yı +@,—- 2)’ +9).\nGesetzt die Punkte (&,, Y,), (@,, 4.) wären gegeben\nnd die Punkte (w,, Y,), (@2, %.) gesucht, so würde man\nwese finden können aus der Bedingung, dafs der eben auf-\ngestellte Ausdruck ein Minimum ist. Nimmt man an, dafs\ndie 8 Coordinaien ©, Yı, 2» Ya 2 Ya, 24, Y, unendlich\nlein sind, so drücken hiernach die folgenden Gleichungen\ne Bedingung däfür aus, dafs die vier Punkte (z,, y,),",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "@ Yı) (2, Ya) (@,, Y,) auf einem Strahle liegen:\na",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nun sey (@,, y,) ein Punkt der Projection der Fläche I\nauf die Ebene der z,, y,, de, dy, ein Element dieser Pro-\njection, in dem der Punkt (z,, y,) liegt und das von einer\nhöheren Ordnung unendlich klein ist, als die Flächen 1 und\n2 es sind. (@,, y,) sey ein Punkt eines Strahls, der von\n(z,, y,) ausgehend die Fläche 2 trifft, dx, dy, ein Flächen-\nelement, in dem der Punkt (x,, 4,) liegt, von derselben\nOrdnung wie de, dy,. Die Intensität der Strahlen von\nden bezeichneten Wellenlängen und der gewählten Polari-\nsationsrichlung, die von de, dy, ausgehend durch dir, dy,\ntreten, ist dann nach $. 5:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nach der gemachten Voraussetzung gelangt die Strahlen-\nmenge ungeschwächt auf die Fläche 2 und bildet ein Ele-\nment der mit KdA bezeichneten Gröfse. Es ist K das ge-\nhörig begränzte Integral",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hier ist die Integration nach ©, und y, über diejenigen\nWerihe auszudehnen, welche diese Gröfsen nach den für\nsie aufgestellten Gleichungen erhalten, während x, und y,\nconstante Werthe behalten und x,, y, alle Werthe anneh-\nmen, die den Punkten der Projection der Fläche 2 auf die\nEbene der x,, y, entsprechen; dann ist die Integration nach\n©,, 4, über die Projection der Fläche I auszuführen. Das\nin der bezeichneten Weise begränzte Doppelintegral",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "_. dx; dys Or, Alys\n=/f ad Er) de, dy,\noder nach den Gleichungen für ©,, Y,\n_ AT 8T eT 27T\n=/ 5- ayıdya u 92,8% Bu) dr dm",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wo die Integration über die Projection der Fläche 2 aus-\nzudehnen ist. Hiernach wird:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "—_ T &T Tr 2T\nx=1/fJ} 82,02, dyıdy, dmöyı a)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wo. die Integration über die Projectionen der Flächen 1\nund 2 zu nehmen ist,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Behandelt man auf dieselbe Weise die mit K’ bezeich-\nnete Gröfse und benutzt dabei, dafs ein Strahl dieselbe\nZeit gebraucht, um den Weg zwischen zwei Punkten in\ndem einen oder in dem anderen Sinne zurückzulegen, so\nfindet man für K’ denselben Ausdruck, der für K gefun-\nden ist.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hierdurch ist der ausgesprochene Satz bewiesen unter der\nbeschränkenden Voraussetzung, unter der er zunächst bewie-\nsen werden sollte. Diese Beschränkung wird aber unmittel-\nbar gehoben durch eine von Helmholtz in seiner physio-\nlogischen Optik S. 169 gemachte Bemerkung. Helmholtz\nsagt hier (bei etwas anderer Bezeichnung): »Ein Lichtstrahl\ngelange nach beliebig vielen Brechungen, Reflexionen u. s. w.\nvon dem Punkte 1 nach dem Punkte 2. In I lege man\ndurch seine Richtung zwei beliebige auf einander senkrechte\nEbenen a, und b,, nach welchen seine Schwingungen zer.\nlegt gedacht werden. Zwei eben solche Ebenen a, und b,\nwerden durch den Strahl in 2 gelegt. Alsdann läfst sich\nFolgendes beweisen: Wenn die Quantität ö nach der Ebene\na, polarisirten Lichts von 1 in-der Richtung des besproche.\nnen Strahls ausgeht und davon die Quantität k nach der\nEbene a, polarisirten Lichts in 2 ankommt, so wird rück-\nwärts, wenn die Quantität ö nach a, polarisirten Lichts von\n2 ausgeht, dieselbe Quantität k nach a, polarisirten Lichts\nin 1 ankommen ').«",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Benutzt man diesen Satz und bezeichnet mit 7 den Werth",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Der Satz von Helmholtz gilt, wie dieser bemerkt, nicht, wenn die\nPolarisationsebene des Strahles eine Drehung erfährt, wie magnetische\nKräfte sie nach der Entdeckung Faraday’s hervorbringen; man hat\ndaher bei den folgenden Betrachtungen magnetische Kräfte sich als nicht\nwirksam zu denken. Helmholtz beschränkt seinen Satz auch durch\ndie Annahme, dals das Licht keine Aenderung der Brechbarkeit er-\nfahre, wie sie bei der Fluorescenz vorkommt; diese Beschränkung hört\nauf nöthig zu seyn, wenn man bei der Anwendung des Satzes immer\naur Strahlen einer WVellenlänge ins Auge falst.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Der Satz von Helmholtz gilt, wie dieser bemerkt, nicht, wenn die Polarisationsebene des Strahles eine Drehung erfährt, wie magnetische Kräfte sie nach der Entdeckung Faraday’s hervorbringen;",
+        "Bildhafter Ausdruck": "Polarisationsebene des Strahles eine Drehung erfährt",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Veränderung der Polarisationsebene des Lichtstrahls wird als 'Drehung' beschrieben, was ein konkretes, physisches Konzept ist, das benutzt wird, um ein abstraktes wissenschaftliches Phänomen zu beschreiben."
+      },
+      {
+        "Satz": "man hat daher bei den folgenden Betrachtungen magnetische Kräfte sich als nicht wirksam zu denken.",
+        "Bildhafter Ausdruck": "magnetische Kräfte sich als nicht wirksam zu denken",
+        "Typ": "Ontologisch",
+        "Konzeptuelle Zuordnung": "Die magnetischen Kräfte werden als 'nicht wirksam' gedacht, was ein menschliches, subjektives Konzept ist, das verwendet wird, um das Fehlen oder die Auslassung von magnetischen Kräften in den folgenden Überlegungen zu beschreiben."
+      },
+      {
+        "Satz": "Helmholtz beschränkt seinen Satz auch durch die Annahme, dals das Licht keine Aenderung der Brechbarkeit erfahre, wie sie bei der Fluorescenz vorkommt;",
+        "Bildhafter Ausdruck": "Licht keine Aenderung der Brechbarkeit erfahre",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Änderung in der Brechung des Lichts wird als 'Erfahrung' beschrieben, was ein menschliches, subjektives Konzept ist, das verwendet wird, um die physikalische Interaktion des Lichts mit Materialien zu beschreiben."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "des Verhältnisses + für die beiden Strahlen, die zwischen",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "den Punkten (x,, y,) und (z,, y,) in dem einen und dem\nandern Sinne sich bewegen, so erhält man sowohl für K\nals für X’ einen Ausdruck, der vom dem gefundenen nur\ndadurch sich unterscheidet, dafs unter den Integralzeichen\nnoch y als Factor auftritt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Gleichheit von K und K' findet biernach auch dann\nstatt, wenn y einen verschiedenen Werth für die Strahlen\nhat, in welche eines der verglichenen Strahlenbündel getbeilt\nwerden kann; sie hört z. B. nicht auf, wenn ein Theil des\nStrahlenbündels durch einen Schirm aufgefangen wird.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$. 9. Von denselben Strahlenbündeln, die im vorigen $.\nmit einander verglichen sind, gilt auch der folgende Satz:\nVon dem Strahlenbündel, welches von 1 nach 2 geht, be-\ntrachte man bei 2 den Theil, dessen Wellenlängen zwi-\nschen A und A-+dA liegen, und zerlege diesen in zwei\nComponenten, die nach a, und 5, polarisirt sind: die In-\ntensität der ersten Componente sey Hd. Von dem Strah-\nlenbündel, welches von 2 nach 1 geht, betrachte man bei 2\nden Theil, dessen Wellenlängen zwischen 4 und A-+di\nliegen, und zerlege diesen in 2 Componenten, die nach a,\nund 5, polarisirt sind. Was von der ersten Componente\nin I ankommt, sey H’dA. Dann ist",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Der Beweis dieses Satzes ist der folgende. K und K’\nsollen dieselbe Bedeutung wie im vorigen $. haben; Lund L’\nseyen die Gröfsen, die aus K und K’ entstehen, wenn die\nEbene a, mit der Ebene 5, vertauscht wird. Dann ist\nL=L, ebenso wie K=--K'. Weiter ist",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "H=K-+L,\nweil senkrecht auf einander polarisirte Strahlen nicht inter-\nferiren, wenn sie auf eine gemeinschaftliche Polarisations-\nebene zurückgeführt sind, falls sie Theile eines nicht po-\nlarisirten Strahles sind, und nach $. 4 die Fläche 1 nicht-\npolarisirte Strahlen aussendet.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "H=K-+L,\nweil zwei Strahlen, deren Polarisationsebenen senkrecht\nauf einander sind, nicht interferiren. Aus diesen Gleichun-\ngen folgt: H=H'.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$.10. Es habe Fig. 2 dieselbe Bedeutung, die in $.3\nangegeben ist, nur sey der Körper © kein schwarzer, son-\ndern ein beliebiger. Die Oeffnung 2 sey durch die Fläche 2\nverschlossen. Diese Fläche sendet durch die Oeffnung 1\nauf den Körper C ein Strahlenbündel, das von diesem zum\nTheil absorbirt, zum Theil durch Brechungen und Reflexio-\nnen nach verschiedenen Richtungen zerstreut wird. Von\ndiesem Strahlenbündel betrachte man zwischen 2 und 1\nden Theil, dessen Wellenlängen zwischen A und A-+d}\nliegen, und zerlege denselben in zwei Componenten, die\nnach der Ebene a und der auf dieser senkrechten Ebene\npolarisirt sind. Was von der ersten Componente der Ab-\nsorption durch den Körper C entgeht, also die schwarze\nHülle trifft, in die der Körper © eingeschlossen ist, sey\nM'dı. Von den Strahlen, welche die Theile dieser Hülle\ndem Körper C zusenden, werden gewisse durch die Oeff-\nnung I auf die Fläche 2 fallen; durch die Vermittelung\ndes Körpers C wird so ein Strahlenbündel erzeugt, wel-\nches durch die Oeffnung 1 nach der Fläche 2 geht. Von\ndiesem betrachte man den Theil, dessen Wellenlängen zwi-\nschen A und A-+d2 liegen, und zerlege denselben in zwei\nComponenten, die nach « und der auf a senkrechten Ebene\npolarisirt sind. Die Intensität der ersten Componente sey\nMd}. Dann ist",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Richtigkeit dieses Satzes ergiebt sich aus dem Satze\ndes vorigen $., wenn man diesen auf alle Strahlenbündel\nanwendet, welche die Fläche 2 und je ein Element der\nschwarzen Hülle, die den Körper C umgiebt, durch Ver-\nmittlung des Körpers C mit einander austauschen; und dann\ndie Summe der Gleichungen bildet, die man so erhält.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$. 11. Man denke sich die in Fig. 3 Taf. II dargestellte\nund in $. 3 beschriebene Anordnung; nur der Körper C.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "PoggendorfPs Annal. Bd. CIX. 19",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "sey kein schwarzer, sondern ein beliebiger. In den bei-\nden dort bezeichneten Fällen findet auch dann das Gleich-\ngewicht der Wärme statt; auch dann mufs daher die le-\nbendige Kraft, die durch Entfernung der schwarzen Fläche 3\ndem Körper C entzogen wird, der lebendigen Kraft gleich\nseyn, die diesem durch Anbringung des Hohlspiegels zuge-\nführt wird. Die in $. 3 gebrauchten Zeichen sollen in un-\nveränderter Bedeutung hier benutzt werden; die Zeichen\nE und A sollen die in $. 1 angegebene Bedeutung haben.\nDie lebendige Kraft, die dem Körper © durch Entfernung\nder Fläche 3 entzogen wird, ist dann bei Rücksicht auf 8.7",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die lebendige Kraft, die der Körper € durch Vermittlung\ndes Hohlspiegels gewinnt, setzt sich aus drei Theilen zu-\nsammen. Der erste dieser Theile rührt von Strablen her,\ndie der Körper C selbst aussendet; er ist",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Der zweite Theil rührt her von Strahlen, die von der dem\nHoblspiegel gegenüberliegenden schwarzen Wand ausgegan-\ngen sind, die Platte P durchdrungen, an dem Hohlspiegel\neine, und an der Platte P eine zweite Reflexion erlitten\nhaben; er ist nach $. 9:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Der dritte Theil endlich rührt her von Strahlen, die von\nverschiedenen Punkten der schwarzen Hülle, welche den\nKörper. C umgiebt, auf diesen gefallen, durch Reflexionen\noder Brechungen von ihm durch die Oeffnung 1 nach der\nFläche 2 hingeworfen, und durch eine Reflexion an der\nPlatte P, eine zweite am Hohlspiegel und eine dritte wie-\nder an der Platte P durch die Oeffnung 1 zurückgetrieben",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "sind. Benutzt man das $. 10 definirte Zeichen M, so ist\ndieser Theil",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es kann zweifelhaft erscheinen, ob der erste und der dritte\nTheil richtig angegeben sind, wenn der Körper C gerade\neine solche Lage hat, dafs ein endlicher Theil des Strah-\nlenbündels, welches die Fläche 2 durch die Oeffnung 1 ihm\nzusendet, von ihm wieder zur Fläche 2 zurückgeworfen\nwird. Solche Fälle sollen daher vorläufig ausgeschlos-\nsen seyn.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nach $. 10 hat man M=M', und nach der Definition\nvon M' ist",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "= far e(l—A)r?A,\nund es ergiebt sich die Gleichung:\nSE -4o Ar—0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Durch dieselben Betrachtungen, die in $. 3 in Bezug auf\neine ähnliche Gleichung angestellt sind, gelaugt man von\ndieser zu dem Schlusse, dafs für jeden Werth von 4\n7=%",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "oder, wenn man für e seinen Werth aus $. 5 setzt:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hierdurch ist der Satz, der in dieser Abhandlung be-\nwiesen werden sollte, bewiesen unter der Voraussetzung,\ndafs von dem Strahlenbündel, welches von der Fläche 2\ndurch die Oeffnung 1 auf den Körper € fällt, kein end-\nlicher Theil durch diesen nach der Fläche 2 zurückgewor-\nfen wird; dafs der Satz auch ohne diese Beschränkung",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "gilt, sicht wan ein, wenn man erwägt, dafs, wenn die ge-\nnannte Voraussetzung nicht erfüllt ist, man den Körper €\nnur unendlich wenig zu drehen braucht, um ihr zu genü-\ngen, und dafs durch eine solche Drehung die Gröfsen E\nund A nur unendlich kleine Aenderungen erleiden können.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die mit J bezeichnete Gröfse ist, wie in $. 5 bemerkt,\neine Function der Wellenlänge und der Temperatur. Es\nist eine Aufgabe von hoher Wichtigkeit, diese Function\nzu finden. Der experimentellen Bestimmung derselben ste-\nhen grofse Schwierigkeiten im Wege; trotzdem scheint die\nHoffnung gegründet, sie durch Versuche ermitteln zu kön-\nnen, da sie unzweifelhaft von einfacher Form ist, wie alle\nFunctionen es sind, die nicht von den Eigenschaften ein-\nzelner Körper abhängen, und die man bisher kennen ge-\nlernt hat. Erst wenn diese Aufgabe gelöst ist, wird die\nganze Fruchtbarkeit des bewiesenen Satzes sich zeigen kön-\nnen; aber auch jetzt schon lassen sich wichtige Schlüsse\naus demselben ziehen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8 12. Wenn man einen bestimmten Körper, einen Pla-\ntindraht z. B., allmählig erhitzt, so sendet er, bis seine Tem-\nperatur eine gewisse geworden ist, nur Strahlen aus, deren\nWellenlängen gröfser sind, als die der sichtbaren Strahlen.\nBei einer gewissen Temperatur fangen Strahlen von der\nWellenlänge des äufsersten Roth an sich zu zeigen; steigt\ndie Teınperatur höher und höher, so kommen Strahlen von\nkleinerer und kleinerer Wellenlänge hinzu, in der Art,\ndafs bei jeder Temperatur Strahlen von einer entsprechen-\nden Wellenlänge auftreten, während die Intensität der Sirah-\nlen gröfserer Wellenlängen wächst. Wendet man den be-\nwiesenen Satz auf diesen Fall an, so sieht man, dafs die\nFunction J, für eine Wellenlänge, gleich Null ist für alle\nTemperaturen unterhalb einer gewissen der Wellenlänge\nentsprechenden Temperatur und für höhere Temperaturen\nmit diesen wächst. Hieraus folgt, wenn man nun densel-\nben Satz auf andere Körper anwendet, dafs alle Körper,\nwenn ihre Temperatur allmählig erhöht wird, bei derselben\nTemperatur Strahlen von derselben Wellenlänge auszusen-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "den beginnen, also bei derselben Temperatur roth zu glü-\nhen, bei einer höheren, allen gemeinsamen, Temperatur\ngelbe Strahlen u. s. w. auszugeben anfangen '), Die In-\ntensität der Strahlen von gewisser Wellenlänge, welche\nverschiedene Körper bei derselben Temperatur ausschicken,\nkann aber eine sehr verschiedene seyn; sie ist proportio-\nnal mit dem Absorptionsvermögen der Körper für Strahlen\nder in Rede stehenden Wellenlänge. Bei derselben Tem-\nperatur glüht deshalb Metall lebhafter als Glas, und dieses\nmehr als ein Gas. Ein Körper, der bei den höchsten Tem-\nperaturen ganz durchsichtig bliebe, würde niemals glühen.\nIn einen aus Platindraht gebogenen Riug von eiwa 5°\"\nDurchmesser brachte ich etwas phosphorsaures Natron und\nerhitzte dasselbe iu der wenig leuchtenden Flamme der\nBunsen’schen Gaslampe. Das Salz schmolz, bildete eine\nflüssige Linse und blieb dabei vollkommen klar; aber es\nleuchtete auch gar nicht, während der dasselbe berührende\nPlatinring das lebhafteste Licht ausstrahlte.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$. 13. Für eine constante Temperatur ändert sich die\nFunction J continuirlich mit der Wellenlänge, so lange diese\nnur nicht denjenigen Werth erhält, bei dem für jene Tem-\nperalur J zu verschwinden beginnt. Die Richtigkeit dieser\nBehauptung kann man schlielsen aus der Continuität des\nSpectrums eines glühenden Platindrahtes, sobald wan an-\nnimmt, dafs das Absorptionsvermögen dieses Körpers eine\ncontinuirliche Function der Wellenlänge der auffallenden\nStrahlen ist. Mit dem höchsten Grade der Wahrscheinlich-\nkeit läfst sich auch aussprechen, dafs die Function J bei\ngleichbleibender Temperatur keine stark hervortretenden\nMaxima oder Minima darbietet, wenn die Wellenlänge sich\nändert. Es folgt hieraus, dafs, wenn in dem Spectrum ei-\nnes glühenden Körpers Sprünge, stark hervortretende Ma-\nxima oder Minima sich zeigen, das Absorptionsvermögen\ndesselben, als Function der Wellenlänge der auffallenden\nStrahlen betrachtet, Sprünge, stark hervortretende Maxima\noder Minima bei denselben Werthen der Wellenlänge ha-\n1) Draper, Phil. Mag. XXX, p. 345; Berl. Ber. 1847.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ben mufs. Spectren mit sehr auffallenden Maximis erhält\nman, wenn man in die Flamme der Bunsen’schen Lampe\ngewisse Salze bringt. Ein besonders interessantes Beispiel\nhierfür liefert das Chlorlithium. Wenn man ein Kügelchen\nvon diesem Salze an einen Platindraht schmilzt und in den\nMantel der Gasflamme bringt, so zeigt sich das Spectrum\nder Flamme (wenn diese nicht durch andere Salze verun-\nreinigt und die Lichtstärke nicht zu sehr gesteigert ist) als\neine einzige, glänzende, rothe Linie, deren Wellenlänge\netwa das arithmetische Mittel aus den den Fraunhofer'-\nschen Linien B und C entsprechenden Wellenlängen ist.\nFür diese Wellenlänge hat das Ewmissionsvermögen der\nFlamme einen grofsen Werth, während es für alle ande-\nren, sichtbaren Strahlen entsprechenden, Wellenlängen ver-\nschwindend klein ist. Demgemäfs mufs auch das Absorp-\ntionsvermögen der Lithiumflamme für die genannte Wel-\nlenlänge einen erheblichen Werth haben, für &lle anderen\nsichtbaren Strahlen aber unmerklich seyn. Wenn man da-\nher von einer geeigneten Lichtquelle ein continuirliches\nSpectrum bildet, und zwischen sie und den Spalt, der hierzu\nnöthig ist, eine Lithiumflamme bringt, so ändert diese die\nHelligkeit im Spectrum nur an dem Orte der Lilhiumlinie.\nSie erhöht hier die Helligkeit durch ihr eigenes Licht,\nschwächt diese aber durch die Absorption, die sie auf die\ndurch sie hindurchtretenden Strahlen der entsprechenden\nWellenlänge ausübt. Gesetzt diese Absorption sey 4. Es\nwürde das, dem bewiesenen Satze zufolge, der Fall seyn,\nwenn die Helligkeit der hellen Linie der Lithiumflamme 4\nvon der Helligkeit an derselben Stelle des Spectrums wäre,\nwelches bei demselben Apparate ein vollkommen schwar-\nzer Körper von der Temperatur der Flamme geben würde.\nUngeändert würde dann die Lithiumflamme die Helligkeit\nan dem betrachteten Orte des Spectrums lassen, wenn die\nHelligkeit der Lithiumlinie, während die Strahlen der hin-\nteren Lichtquelle abgeblendet sind, 4 von der Helligkeit\nist, welche an derselben Stelle des Specirums stattfindet,\nwährend die hintere Lichtquelle allein wirkt. Hat diese",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "hiniere Lichtquelle eine gröfsere, als die hierdurch be-\nstimmte Helligkeit, so zeigt sich bei gleichzeitiger Wirkung\nbeider die Litbiumlinie dunkel auf hellerem Grunde, im\nentgegengesetzten Falle hell auf dunklereın Grunde. Fin-\ndet das Erste stait, so wird die Linie um so dunkler er-\nscheinen, je gröfser die Lichtstärke der ‚hinteren Quelle ist;\ndenn je mehr diese Lichtstärke vergröfsert wird, desto un-\nmerklicher wird das eigene Licht der Lithiumflamme. Bei\ndem für die Absorption der letzteren angenommenen Zah-\nlenwerthe kann indessen die Helligkeit der Linie nie unter\n2 der Helligkeit der Umgebung sinken. Diese Gränze wird\naber herabgedrückt, wenn man die Dicke der Lithiumflamme,\nund damit ihre Absorption vergröfsert.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ein kleines Kügelchen Chlorlithium in die Flamme der\nBunsen’schen Lampe gebracht, ertheilt dieser schon ein\nso grofses Absorptionsvermögen für die Strahlen der be-\nzeichneten Wellenlänge, dafs, weun man Sonnenstrahlen\ndurch die Flamme auf den Spalt des Apparates treten läfst,\nder das Spectrum bildet, an dem entsprechenden Orte eine\nschwarz erscheinende, feine Linie sich zeigt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Spectren, welche andere Salze, wenn sie in die\nFlamme gebracht werden, hervorrufen, sind meistens weni-\nger einfach und bieten selten Linien dar, die so hell als\ndie Lithiumlinie sind. Alle diese Spectren mufs man aber\nauf ähnliche Weise umkehren können; giebt man der Flamme\ndie hinreichende Dicke und läfst Licht von genügender In-\ntensität durch sie hindurchgehn, so müssen die vorher hellen\nLinien in dunkle übergehn. Eine Ausnahme könnte nur\neintreten bei einer Flamme, bei der ein Theil des Lichtes\nunmittelbar durch chemischen Proceis hervorgerufen würde,\noder bei einer Flamme, die fluorescirte. Die Versuche\nmüssen entscheiden, ob es solche Flammen giebt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ist die hintere Lichtquelle ein glühender Körper, so\nhängt ihre Intensität von der Temperatur dieses ab; die In-\ntensität hat bei einer gegebenen Temperatur ihren höchsten\nWerth, wenn der Körper ein vollkommen schwarzer ist.\nIst diese Bedingung erfüllt und ist die Temperatur der bei-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "den Lichtquellen dieselbe, so läfst die vordere das Spec-\ntrum der hinteren gerade ungeändert. Die hintere Licht-\nquelle kann daher das Spectrum der vorderen nur umkeh-\nren, wenn sie eine höhere Temperatur als diese besitzt,\nund das umgekehrte Spectrum wird eine desto gröfsere\nDeutlichkeit haben, je gröfser der Temperaturunterschied\nbeider Lichtquellen ist.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Bis jetzt gelungen ist mir die Umkehrung der Spectren\naufser bei der Lithiumflamme noch bei der Kochsalzflaınme.\nDas Spectrum dieser besteht, wie bekannt, aus zwei sehr\nnahen, glänzenden, gelben Linien, deren Wellenlängen mit\nden Wellenlängen der beiden Fraunhofer’schen Linien D\nübereinstimmen. Läfst man die Strahlen des Drummond’-\nschen Lichtes durch eine Kochsalzflanme von nicht zu ho-\nher Temperatur hindurgehn, so verwandeln sich die hellen\nLinien in dunkle, welche also an dem Orte der Fraun-\nhofer’schen Linien D sich befinden, und welche in jeder\n. Beziehung denselben Anblick, wie diese, gewähren.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$. 14. Wie an einem anderen Orte ausführlich ausein-\nandergesetzt werden wird, sind die Wellenlängen, für wel-\nche Maxima des Emissionsvermögens und des Absorptions-\nvermögens stattfinden, von der Temperatur in den weitesten\nGränzen unabhängig; ferner sind es bei den Salzen, welche\nsolche Maxima bei einer Flamme hervorrufen, die Metalle,\nwelche diese bedingen. Man denke sich einen Körper von\nsehr hoher Temperatur, in dessen Spectrum die dunkle Dop-\npellinie D nicht vorkommt, umgeben von- einer gasförmigen\nAtmosphäre von etwas niedrigerer Temperatur. Wenn in die-\nser Natrium vorhanden ist, so kann in dem Spectrum der so\nzusammengesetzten Lichtquelle die dunkle Doppellinie D sich\nzeigen; aus dem Daseyn dieser mufs auf den Natriumgehalt\nder Atmosphäre geschlossen werden. Nun ist die Sonne\nunzweifelhaft ein Körper der gedachten Art '); aus der Li-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Die Frage, ob der innere Theil der Sonne, von dem hauptsächlich das\nLicht ausstrahlt, fest, flüssig oder gasförmig sey, kann hierbei als eine\noffene betrachtet werden,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "nie D des Sonnenspectrums ist daher auf den Natriumgehalt\nder Sonnenatmosphäre zu schlielsen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ein Einwand läfst sich gegen die Richtigkeit dieses Schlus-\nses erheben: es könnte in der Atmosphäre der Erde die\nUrsache der Linie D gesucht werden müssen. Dieser Einwand\nwird aber durch folgende Gründe widerlegt;",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Die genügende Menge Natrium in Dampfform kann\nnicht wohl in unserer Atmosphäre vorhanden seyn,\nund die Dampfform wäre nöthig den in Rede stehen-\nden Effect hervorzubringen;",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2) wenn die Linie D von unserer Atmosphäre berrührte,\nso mülste sie in dem Maafse deutlicher werden, in\ndem die Sonne dem Horizonte sich nähert; dem ent-\nsprechende Aenderungen in der Deutlichkeit derselben\nhabe ich aber nie wahrgenommen, während mir solche\ngerade bei benachbarten Linien oft sehr auffallend\ngewesen sind;",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "sentence": "wenn die Linie D von unserer Atmosphäre berrührte, so mülste sie in dem Maafse deutlicher werden, in dem die Sonne dem Horizonte sich nähert; dem ent- sprechende Aenderungen in der Deutlichkeit derselben habe ich aber nie wahrgenommen, während mir solche gerade bei benachbarten Linien oft sehr auffallend gewesen sind;",
+        "contradictory_terms": [
+          "mülste sie in dem Maafse deutlicher werden",
+          "habe ich aber nie wahrgenommen"
+        ],
+        "explanation": "Der Autor stellt fest, dass die Linie D deutlicher werden sollte, wenn sie von unserer Atmosphäre berührt wird und die Sonne sich dem Horizont nähert. Aber er hat nie solche Änderungen in der Deutlichkeit wahrgenommen, obwohl er solche Änderungen bei benachbarten Linien oft bemerkt hat. Dies stellt ein Paradox dar, da die erwartete Veränderung nicht beobachtet wurde."
+      }
+    ]
+  },
+  {
+    "paragraph": "3) wenn die Linie D nicht in der Somne selbst ihren\nGrund hätte, so ıwüfste sie auch in den Spectren aller\nFizsterne, die hell genug sind, gefunden werden; nach\nden Angaben von Fraunhofer und Brewster fehlt\nsie aber in den Spectren einiger Fixsterne, während\nsie in denen anderer vorhanden ist.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die genaue Concidenz der Natriumlinien mit den Fraun-\nhofer’schen Linien D kann man am sichersten nachweisen,\nwenn man die Sonnenstrahlen durch eine Natriumflamme\ngehen lälst, bevor sie zu dem Spalt des Apparates gelan-\ngen. Die Wirkung der Natriumflamme zeigt sich dann\ndarin, dafs die Linien D viel deutlicher, schwärzer und brei-\nter hervorireten. Es hat im ersten Augenblicke etwas Be-\nfremdendes, dafs das Natrium in der kleinen Flamme die Wir-\nkung noch merklich verstärken kann, welche das Natrium\nin der ungeheuren Sonnenatmosphäre auf die Lichtstrahlen\nausgeübt hat. Das Befremdende verschwindet aber, wenn\nman erwägt, dafs die Helligkeit der Linien D im Sonnen-\nspeeirum durch die Temperatur der Sonnenatmosphäre, vor-\nnehmlich ihrer äufsersten Schichten, bedingt ist, und dafs die",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Temperatur dieser sicher sehr viel gröfser, als die einer\nLeuchtgasflamme ist. Denkt man sich eine Natriumflamme,\nderen Dicke als unendlich betrachtet werden kann in Bezug\nauf die Absorption der Strahlen, die den Linien D entspre-\nchen, und nimmt an, dafs durch diese die Strahlen einer\nhinteren Lichtquelle gehen und dann zu einem Spectrum\nauseinandergelegt werden, so hängt die Helligkeit an den\nOrten der Linien D allein von der Temperatur jener Flamme\nab. Stellt man vor diese eine Natrium-Flamme von der-\nselben Temperatur, so ändert diese Nichts im Spectrum;\nhat die hinzugefügte Flamme aber eine niedrigere Tempe-\nratur, so mufs sie die Linien D dunkler hervortreten lassen.\nDie Wirkung der Leuchtgasflamme, in die Natrium gebracht\nist, auf das Sonnenspectrum erklärt sich hiernach, sobald\nman nur zugiebt, dafs ihre Temperatur niedriger ist als die\nTemperatur der äufsersten Schichten der Sonnenatmosphäre;\ndieses ist aber sicher der Fall, da die äufsersten Schichten\nder Sonnenatmosphäre keine niedrigere Temperatur haben\nkönnen, als sie in dem Brenspunkte eines auf die Sonne\ngerichteten, sehr wirksamen Hohlspiegels stattfindet.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Aehnliches, wie vom Natrium, gilt von jedem anderen\nStoffe, der, in eine Flamme gebracht, helle Linien in dem\nSpectrum derselben hervortreten läfst. Fallen diese Linien\nmit dunkeln des Sonnenspectrums zusammen, so mufs man\nauf dic Anwesenheit dieses Stoffes in der Sonnenatmosphäre\nschliefsen, vorausgesetzt, dafs die in Rede stehenden dunkeln\nLinien nicht in der Erdatmosphäre ihren Grund haben kön-\nnen. So ist ein Weg gefunden, die chemische Beschaffen-\nheit der Sonnenatmosphäre zu ermitteln, und derselbe Weg\nverspricht auch einige Auskunft über die chemische Beschaf-\nfenheit der helleren Fixsterne !).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) In zwei Mittheilungen von mir, die der Berl. Acad. d. Wiss. am\n27. Oct. und am 15. Dec. 1859 vorgelegt sind, befinden sich noch einige,\nhier nicht angeführte, Angaben, die sich auf die chemische Beschaffenheit\nder Sonnenatmosphäre beziehen. In der zweiten dieser Mitiheilungen\nist aufserdem der Satz, der den Hauptinhalt dieser Abhandlung bildet,\nauf einem andern Wege, aber in geringerer Allgemeinheit als hier, be-\nwiesen,",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "In der zweiten dieser Mittheilungen ist außerdem der Satz, der den Hauptinhalt dieser Abhandlung bildet, auf einem anderen Wege, aber in geringerer Allgemeinheit als hier, bewiesen",
+        "Bildhafter Ausdruck": "der Satz, der den Hauptinhalt dieser Abhandlung bildet",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Abhandlung wird als ein Gebäude dargestellt, und der Satz ist das Fundament oder die tragende Struktur."
+      },
+      {
+        "Satz": "In der zweiten dieser Mittheilungen ist außerdem der Satz, der den Hauptinhalt dieser Abhandlung bildet, auf einem anderen Wege, aber in geringerer Allgemeinheit als hier, bewiesen",
+        "Bildhafter Ausdruck": "auf einem anderen Wege",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Der Beweisprozess wird als eine Reise oder ein Pfad dargestellt."
+      }
+    ],
+    "paradoxes": [
+      {
+        "sentence": "In der zweiten dieser Mittheilungen ist außerdem der Satz, der den Hauptinhalt dieser Abhandlung bildet, auf einem anderen Wege, aber in geringerer Allgemeinheit als hier, bewiesen.",
+        "contradictory_terms": [
+          "auf einem anderen Wege",
+          "in geringerer Allgemeinheit"
+        ],
+        "explanation": "Der Autor stellt einen Widerspruch dar, indem er sagt, dass der Hauptinhalt der Abhandlung in einer anderen Mitteilung auf einem anderen Weg bewiesen wurde, aber in geringerer Allgemeinheit. Dies impliziert, dass die Beweisführung in der anderen Mitteilung weniger umfassend oder weniger allgemeingültig war, was im Widerspruch zu der Idee steht, dass es sich um den gleichen Hauptinhalt handelt."
+      }
+    ]
+  },
+  {
+    "paragraph": "$. 15. Aus dem Satze, der in dem ersten Theile dieser\nAbhandlung bewiesen ist, folgt, dafs ein Körper, der von\nStrahlen einer Polarisationsrichtuug mehr absorbirt, als von\ndenen einer anderen, in demselben Verhältnifs Strahlen von\nder ersten Polarisationsrichtung mehr aussendet, als von de-\nnen der zweiten. Es mufs hiernach, wie es bekanntlich ge-\nschieht, ein glühender undurchsichtiger Körper, der eine\nglatte Oberfläche hat, in Richtungen, die schief zu dieser\nOberfläche sind, Licht aussenden, das theilweise polarisirt\nist, und zwar seukrecht zu der Ebene, die durch den Strahl\nund die Normale der Oberfläche geht; denn von einfallen-\nden Strahlen, die senkrecht zur Einfallsebene polarisirt sind,\nrefleclirt der Körper weniger, absorbirt also mehr, als von\nStrablen, deren Polarisationsebene die Einfallsebene ist.\nMan kann nach jenem Satze den Polarisationszustand der\nausgesendeten Strahlen leicht angeben, wenn man das Ge-\nsetz der Reflexion auffallender Strahlen kennt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Eine zur optischen Axe parallel geschliffene Turmalin-\nplatte absorbirt bei gewöhnlicher Temperatur von Strahlen,\ndie sie senkrecht treffen, mehr, wenn die Polarisationsebene\ndieser der Axe parallel ist, als wenn die Polarisationsebene\nsenkrecht zur Axe steht. Vorausgesetzt, dafs die Turmalin-\nplatte diese Eigenschaft bei der Glühhitze behält, mufs sie\nbei dieser in einer zu ihr senkrechten Richtung‘ Strahlen\naussenden, die theilweise polarisirt sind, und zwar in der\ndurch die optische Axe gelegten Ebene, in einer Ebene\nalso, die senkrecht zu derjenigen ist, die die Polarisations-\nebene des Turmalins genannt wird. Ich habe diese auffal-\nlende, aus der entwickelten Theorie sich ergebende, Folge-\nrung durch den Versuch geprüft, und sie hat sich bestätigt.\nDie benutzten Turmalinplatten ertrugen, in die Flamme der\nBunsen’schen Lampe gebracht, lange Zeit eine mälsige\nGlühhitze, ohne eine bleibende Veränderung zu erleiden;\nnur an den Ecken zeigten sie sich nach dem Erkalten ge-\ntrübt. Die Eigenschaft, hindurchgehendes Licht zu polari-\nsiren, kam ihnen auch in der Glühhitze zu, wenngleich in\nerheblich geringerem Grade, als bei niederer Temperatur.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es zeigte sich dieses, indem man durch ein doppeltbrechen-\ndes Prisma durch die Turmalinplatte hindurch nach einem\nPlatindrahte sah, der in derselben Flamme glühte. Die\nbeiden Bilder des Platindrahtes hatten eine ungleiche Hel-\n‚ligkeit, doch war ihr Unterschied viel geringer, als wenn\ndie Turmalinplatte aufserhalb der Flamme sich befand. Es\nwurde dem doppeltbrechenden Prisma die Stellung gegeben,\nbei der der Unterschied der Lichtstärke der beiden Bilder\ndes Platindrahtes ein Maximum war; gesetzt es wäre das\nhellere Bild das obere gewesen; es wurden dann, nach Ent-\nfernung des Platindrahtes, die beiden Bilder der Turmalin-\nplatte mit einander verglichen. Es war das obere Bild,\nnicht auffallend, aber unzweifelhaft, dunkler als das untere;\ndie beiden Bilder erschienen gerade, wie zwei gleiche, glü-\nhende Körper erschienen wären, von denen der obere eine\nniedrigere Temperatur als der untere besessen hätte.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$. 16. Noch eine Folgerung aus dem bewiesenen Satze\nmöge hier zum Schlusse Platz finden. Wenn ein Raum\nvon Körpern gleicher Temperatur umschlossen ist, und durch\ndiese Körper keine Strahlen hindurchdringen können, so\nist ein jedes Strahlenbündel im Innern des Raumes seiner\nQualität und Intensität nach gerade so beschaffen, als ob\nes von einem vollkommen schwarzen Körper derselben\nTemperatur herkäme, ist also unabhängig von der Beschaf-\nfenheit und Gestalt der Körper und nur durch die Tempera-\ntur bedingt. Die Richtigkeit dieser Behauptung sieht man\nein, wenn man erwägt, dafs ein Strahlenbündel, welches\ndieselbe Gestalt und die entgegengesetzte Richtung, als das\ngewählte hat, bei den unendlich vielen Reflexionen, die es\nnach einander an den gedachten Körpern erleidet, vollstän-\ndig absorbirt wird. In dem Innern eines undurchsichtigen,\nglühenden Körpers von gewisser Temperatur findet hier-\nnach auch immer dieselbe Helligkeit statt, welches auch im\nUebrigen die Beschaffenheit desselben seyn möge.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Der in diesem $. ausgesprochene Satz kann, wie beiläufig\nbemerkt werden möge, auch nicht aufhören zu gelten, wenn\nunter den gedachten Körpern sich fluoreseirende befinden.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ein fluorescirender Körper läfst sich definiren als einer,\nbei dem das Emissionsvermögen abhängt von den Strahlen,\ndie ihn in dem betrachteten Augenblicke treffen. Die Glei-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "chung -— e kann allgemein für einen solchen Körper nicht",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "gelten, aber sie gilt für ihn, wenn er in eine vollkommen\nschwarze Hülle von derselben Temperatur eingeschlossen\nist, denn dieselben Betrachtungen, durch welche diese Glei-\nchung für jenen Körper C unter der Voraussetzung be-\nwiesen ist, dafs derselbe nicht fluorescirt, gelten auch, wenn\nman annimmt, dafs er fluorescirt. Um dieses einzusehen, mufs\nman nur beachten, dafs, wenn die Gröfse E auch zwei\nverschiedene Werihe haben kann bei den beiden betrach-\nteten Anordnungen des in Fig. 3, Taf. III dargestellten Sy-\nsteımes, falls der Körper C fluorescirt, doch diese beiden\nWerthe nur um ein unendlich Kleines sich unterscheiden\nkönnen.\nHeidelberg, im Januar 1860.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "V. Ueber zwei neue Reihen organischer Säuren;\neon F/V. Heintz.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Von R. Hofmann !) ist bekanntlich eine Methode ange-\ngeben worden, mit deren Hülfe man mit Leichtigkeit gröfsere\nMengen derjenigen Säure zu gewinnen im Stande ist, welche,\nein Substitutionsproduct der Essigsäure, als diese Säure be-\ntrachtet werden kann, in welcher ein Aequivalent Wasser-\nstoff durch ein Aequivalent Chlor vertreten ist. Diese\nSäure, die Monochloressigsäure verbindet sich mit Kali zu\neinem Salze, welches in seiner wässerigen Lösung durch\nKochen allmählich so zersetzt wird, dafs sich alles Chlor\nmit allem Kalium zu Chlorkalium vereinigt. Hofmann,\n1) Ann. d. Chem. u. Pharm, Bd. 102, S, 1*.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 28 ---\nIS\nNL\nI Se\n|. I\n|\nIT\nI |\nIRN_\nDez\nI 8\nu",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]

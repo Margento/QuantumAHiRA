@@ -1,0 +1,1281 @@
+[
+  {
+    "paragraph": "The statistical interpretation of quantum\nmechanics",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nobel Lecture, December 11, 1954",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The work, for which I have had the honour to be awarded the Nobel Prize\nfor 1954, contains no discovery of a fresh natural phenomenon, but rather\nthe basis for a new mode of thought in regard to natural phenomena. This\nway of thinking has permeated both experimental and theoretical physics to\nsuch a degree that it hardly seems possible to say anything more about it that\nhas not been already so often said. However, there are some particular\naspects which I should like to discuss on whatis, for me, such a festive occa-\nsion. The first point is this: the work at the Géttingen school, which I\ndirected at that time (1926-1927), contributed to the solution of an intellec-\ntual crisis into which our science had fallen as a result of Planck’s discovery\nof the quantum of action in 1900. Today, physics finds itself in a similar\ncrisis - I do not mean here its entanglement in politics and economics as a\nresult of the mastery of a new and frightful force of Nature, but I am con-\nsidering more the logical and epistemological problems posed by nuclear\nphysics. Perhaps it is well at such a time to recall what took place earlier in\na similar situation, especially as these events are not without a definite dramat-\nic flavour.",
+    "paragraph_type": "Hybrid",
+    "metaphors": [
+      {
+        "Full Sentence": "The work, for which I have had the honour to be awarded the Nobel Prize for 1954, contains no discovery of a fresh natural phenomenon, but rather the basis for a new mode of thought in regard to natural phenomena.",
+        "Metaphorical Phrase": "the basis for a new mode of thought",
+        "Type": "Structural",
+        "Conceptual Mapping": "Discovery is a new mode of thought"
+      },
+      {
+        "Full Sentence": "Today, physics finds itself in a similar crisis - I do not mean here its entanglement in politics and economics as a result of the mastery of a new and frightful force of Nature, but I am considering more the logical and epistemological problems posed by nuclear physics.",
+        "Metaphorical Phrase": "physics finds itself in a similar crisis",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific problems are crises"
+      },
+      {
+        "Full Sentence": "I do not mean here its entanglement in politics and economics as a result of the mastery of a new and frightful force of Nature, but I am considering more the logical and epistemological problems posed by nuclear physics.",
+        "Metaphorical Phrase": "its entanglement in politics and economics",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific impact is an entanglement"
+      },
+      {
+        "Full Sentence": "I do not mean here its entanglement in politics and economics as a result of the mastery of a new and frightful force of Nature, but I am considering more the logical and epistemological problems posed by nuclear physics.",
+        "Metaphorical Phrase": "the mastery of a new and frightful force of Nature",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Scientific discovery is mastery of a force"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The second point I wish to make is that when I say that the physicists had\naccepted the concepts and mode of thought developed by us at the time, I\nam not quite correct. There are some very noteworthy exceptions, partic-\nularly among the very workers who have contributed most to building up\nthe quantum theory. Planck, himself, belonged to the sceptics until he died.\nEinstein, De Broglie, and Schrédinger have unceasingly stressed the unsatis-\nfactory features of quantum mechanics and called for a return to the con-\ncepts of classical, Newtonian physics while proposing ways in which this\ncould be done without contradicting experimental facts. Such weighty views\ncannot be ignored. Niels Bohr has gone to a great deal of trouble to refute\nthe objections. I, too, have ruminated upon them and believe I can make\nsome contribution to the clarification of the position. The matter concerns\nthe borderland between physics and philosophy, and so my physics lecture",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full Sentence": "There are some very noteworthy exceptions, particularly among the very workers who have contributed most to building up the quantum theory.",
+        "Metaphorical Phrase": "building up the quantum theory",
+        "Type": "Structural",
+        "Conceptual Mapping": "Developing a scientific theory is like building a structure"
+      },
+      {
+        "Full Sentence": "I, too, have ruminated upon them and believe I can make some contribution to the clarification of the position.",
+        "Metaphorical Phrase": "clarification of the position",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding a scientific theory is like clarifying a position"
+      },
+      {
+        "Full Sentence": "The matter concerns the borderland between physics and philosophy, and so my physics lecture",
+        "Metaphorical Phrase": "the borderland between physics and philosophy",
+        "Type": "Contextual",
+        "Conceptual Mapping": "The intersection of different disciplines is like a borderland"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Einstein, De Broglie, and Schrédinger have unceasingly stressed the unsatisfactory features of quantum mechanics and called for a return to the concepts of classical, Newtonian physics while proposing ways in which this could be done without contradicting experimental facts.",
+        "terms_in_conflict": [
+          "Quantum mechanics",
+          "Classical, Newtonian physics"
+        ],
+        "short_explanation": "The paradox lies in the tension between the desire to return to classical, Newtonian physics and the need to not contradict experimental facts that support quantum mechanics. The two are fundamentally different in their understanding of the universe, with quantum mechanics allowing for phenomena that classical physics cannot explain."
+      }
+    ]
+  },
+  {
+    "paragraph": "--- Page 2 ---\nINTERPRETATION OF QUANTUM MECHANICS 257",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "will partake of both history and philosophy, for which I must crave your\nindulgence.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "First of all, I will explain how quantum mechanics and its statistical inter-\npretation arose. At the beginning of the twenties, every physicist, I think,\nwas convinced that Planck’s quantum hypothesis was correct. According to\nthis theory energy appears in finite quanta of magnitude hv in oscillatory\nprocesses having a specific frequency v (e.g. in light waves). Countless\nexperiments could be explained in this way and always gave the same value\nof Planck’s constant h. Again, Einstein’s assertion that light quanta have\nmomentum hv/c (where c is the speed of light) was well supported by exper-\niment (e.g. through the Compton effect). This implied a revival of the\ncorpuscular theory of light for a certain complex of phenomena. The wave\ntheory still held good for other processes. Physicists grew accustomed to this\nduality and learned how to cope with it to a certain extent.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "This implied a revival of the corpuscular theory of light for a certain complex of phenomena. The wave theory still held good for other processes.",
+        "terms_in_conflict": [
+          "corpuscular theory of light",
+          "wave theory"
+        ],
+        "explanation": "The paradox lies in the simultaneous acceptance of two conflicting theories of light: the corpuscular theory, which views light as a stream of particles, and the wave theory, which views light as a wave phenomenon. These theories are fundamentally different and yet, according to the author, both are used to explain different phenomena in physics."
+      }
+    ]
+  },
+  {
+    "paragraph": "In 1913 Niels Bohr had solved the riddle of line spectra by means of the\nquantum theory and had thereby explained broadly the amazing stability\nof the atoms, the structure of their electronic shells, and the Periodic System\nof the elements. For what was to come later, the most important assumption\nof his teaching was this: an atomic system cannot exist in all mechanically\npossible states, forming a continuum, but in a series of discrete « stationary »\nstates. In a transition from one to another, the difference in energy E,,-\nEn is emitted or absorbed as a light quantum home (according to whether\nE,,is greater or less than E,). This is an interpretation in terms of energy\nof the fundamental law of spectroscopy discovered some years before by\nW. Ritz. The situation can be taken in at a glance by writing the energy\nlevels of the stationary states twice over, horizontally and vertically. This\nproduces a square array",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "In 1913 Niels Bohr had solved the riddle of line spectra by means of the quantum theory and had thereby explained broadly the amazing stability of the atoms, the structure of their electronic shells, and the Periodic System of the elements.",
+        "Metaphorical phrase": "solved the riddle of line spectra",
+        "Type": "Structural",
+        "Conceptual Mapping": "Solving a scientific problem is like solving a riddle"
+      },
+      {
+        "Full sentence": "an atomic system cannot exist in all mechanically possible states, forming a continuum, but in a series of discrete « stationary » states.",
+        "Metaphorical phrase": "forming a continuum",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Atomic states are likened to a continuum"
+      },
+      {
+        "Full sentence": "In a transition from one to another, the difference in energy E,,- En is emitted or absorbed as a light quantum home (according to whether E,,is greater or less than E,).",
+        "Metaphorical phrase": "emitted or absorbed as a light quantum home",
+        "Type": "Structural",
+        "Conceptual Mapping": "Energy transition is conceptualised as a journey or movement from one 'home' to another"
+      },
+      {
+        "Full sentence": "The situation can be taken in at a glance by writing the energy levels of the stationary states twice over, horizontally and vertically.",
+        "Metaphorical phrase": "taken in at a glance",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding complex scientific data is like quickly scanning a familiar scene"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "For what was to come later, the most important assumption of his teaching was this: an atomic system cannot exist in all mechanically possible states, forming a continuum, but in a series of discrete « stationary » states.",
+        "terms_in_conflict": [
+          "all mechanically possible states",
+          "series of discrete « stationary » states"
+        ],
+        "explanation": "The paradox lies in the contradiction between the idea of an atomic system existing in all mechanically possible states (suggesting a continuum of states) and the idea of it existing in a series of discrete, or separate, stationary states. This challenges the traditional understanding of mechanics and introduces the quantum concept of discrete energy levels."
+      }
+    ]
+  },
+  {
+    "paragraph": "E ,, £—,, £,....\nEx ra 12 13 -\nEp 21 22 23 -\nEs 31 32 33 -",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "in which positions on a diagonal correspond to states, and non-diagonal\npositions correspond to transitions.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "It was completely clear to Bohr that the law thus formulated is in conflict\nwith mechanics, and that therefore the use of the energy concept in this",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "connection is problematical. He based this daring fusion of old and new on\nhis principle of correspondence. This consists in the obvious requirement that\nordinary classical mechanics must hold to a high degree of approximation\nin the limiting case where the numbers of the stationary states, the so-called\nquantum numbers, are very large (that is to say, far to the right and to the\nlower part in the above array) and the energy changes relatively little from\nplace to place, in fact practically continuously.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "He based this daring fusion of old and new on his principle of correspondence.",
+        "Metaphorical Phrase": "daring fusion of old and new",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Combining different theories is like fusing old and new materials"
+      },
+      {
+        "Full Sentence": "This consists in the obvious requirement that ordinary classical mechanics must hold to a high degree of approximation in the limiting case where the numbers of the stationary states, the so-called quantum numbers, are very large (that is to say, far to the right and to the lower part in the above array) and the energy changes relatively little from place to place, in fact practically continuously.",
+        "Metaphorical Phrase": "must hold to a high degree of approximation in the limiting case",
+        "Type": "Structural",
+        "Conceptual Mapping": "Applying scientific principles is like reaching an approximation"
+      },
+      {
+        "Full Sentence": "This consists in the obvious requirement that ordinary classical mechanics must hold to a high degree of approximation in the limiting case where the numbers of the stationary states, the so-called quantum numbers, are very large (that is to say, far to the right and to the lower part in the above array) and the energy changes relatively little from place to place, in fact practically continuously.",
+        "Metaphorical Phrase": "energy changes relatively little from place to place",
+        "Type": "Structural",
+        "Conceptual Mapping": "Changes in energy levels is like movement between physical places"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Theoretical physics maintained itself on this concept for the next ten\nyears. The problem was this: an harmonic oscillation not only has a fre-\nquency, but also an intensity. For each transition in the array there must be\na corresponding intensity. The question is how to find this through the\nconsiderations of correspondence? It meant guessing the unknown from the\navailable information on a known limiting case. Considerable success was\nattained by Bohr himself, by Kramers, Sommerfeld, Epstein, and many\nothers. But the decisive step was again taken by Einstein who, by a fresh\nderivation of Planck’s radiation formula, made it transparently clear that the\nclassical concept of intensity of radiation must be replaced by the statistical\nconcept of transition probability. To each place in our pattern or array there\nbelongs (together with the frequency ¥mp = (Ex— Em){h) a definite prob-\nability for the transition coupled with emission or absorption.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Theoretical physics maintained itself on this concept for the next ten years.",
+        "Metaphorical phrase": "Theoretical physics maintained itself on this concept",
+        "Type": "Structural",
+        "Conceptual Mapping": "The theoretical physics is presented as a structure or an entity that can maintain itself on a concept"
+      },
+      {
+        "Full sentence": "It meant guessing the unknown from the available information on a known limiting case.",
+        "Metaphorical phrase": "guessing the unknown",
+        "Type": "Ontological",
+        "Conceptual Mapping": "The unknown is seen as a hidden object that can be guessed or discovered"
+      },
+      {
+        "Full sentence": "But the decisive step was again taken by Einstein who, by a fresh derivation of Planck’s radiation formula, made it transparently clear that the classical concept of intensity of radiation must be replaced by the statistical concept of transition probability.",
+        "Metaphorical phrase": "the decisive step was again taken by Einstein",
+        "Type": "Structural",
+        "Conceptual Mapping": "The progress in scientific understanding is mapped onto a journey where steps are taken"
+      },
+      {
+        "Full sentence": "But the decisive step was again taken by Einstein who, by a fresh derivation of Planck’s radiation formula, made it transparently clear that the classical concept of intensity of radiation must be replaced by the statistical concept of transition probability.",
+        "Metaphorical phrase": "made it transparently clear",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding or realization is represented as seeing through a transparent object"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The problem was this: an harmonic oscillation not only has a frequency, but also an intensity. For each transition in the array there must be a corresponding intensity. The question is how to find this through the considerations of correspondence?",
+        "terms_in_conflict": [
+          "harmonic oscillation",
+          "intensity",
+          "transition",
+          "correspondence"
+        ],
+        "explanation": "The paradox lies in the difficulty of determining the intensity of each transition in the array through the considerations of correspondence. The harmonic oscillation has both frequency and intensity, but how to find the intensity for each transition is a paradoxical problem."
+      },
+      {
+        "full_sentence": "But the decisive step was again taken by Einstein who, by a fresh derivation of Planck’s radiation formula, made it transparently clear that the classical concept of intensity of radiation must be replaced by the statistical concept of transition probability.",
+        "terms_in_conflict": [
+          "classical concept of intensity of radiation",
+          "statistical concept of transition probability"
+        ],
+        "explanation": "The paradox here is the conflict between the classical concept of intensity of radiation and the statistical concept of transition probability. Einstein's derivation of Planck’s radiation formula suggests that the former must be replaced by the latter, which contradicts the traditional understanding of radiation intensity."
+      }
+    ]
+  },
+  {
+    "paragraph": "In Gottingen we also took part in efforts to distil the unknown mechanics\nof the atom from the experimental results. The logical difficulty became ever\nsharper. Investigations into the scattering and dispersion of light showed that\nEinstein’s conception of transition probability as a measure of the strength of\nan oscillation did not meet the case, and the idea of an amplitude of oscillation\nassociated with each transition was indispensable. In this connection, work by\nLadenburg', Kramer’, Heisenberg’, Jordan and me'should be mentioned.\nThe art of guessing correct formulae, which deviate from the classical for-\nmulae, yet contain them as a limiting case according to the correspondence\nprinciple, was brought to a high degree of perfection. A paper of mine,\nwhich introduced, for the first time I think, the expression quantum mechanics\nin its title, contains a rather involved formula (still valid today) for the recip-\nrocal disturbance of atomic systems.",
+    "paragraph_type": "Hybrid",
+    "metaphors": [
+      {
+        "Full Sentence": "In Gottingen we also took part in efforts to distil the unknown mechanics of the atom from the experimental results.",
+        "Metaphorical Phrase": "distil the unknown mechanics of the atom",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding scientific concepts is distilling a pure substance"
+      },
+      {
+        "Full Sentence": "The art of guessing correct formulae, which deviate from the classical formulae, yet contain them as a limiting case according to the correspondence principle, was brought to a high degree of perfection.",
+        "Metaphorical Phrase": "The art of guessing correct formulae",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Scientific discovery is an art"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The logical difficulty became ever sharper. Investigations into the scattering and dispersion of light showed that Einstein’s conception of transition probability as a measure of the strength of an oscillation did not meet the case, and the idea of an amplitude of oscillation associated with each transition was indispensable.",
+        "terms_in_conflict": [
+          "Einstein’s conception of transition probability",
+          "amplitude of oscillation associated with each transition"
+        ],
+        "explanation": "The paradox lies in the conflict between Einstein's conception of transition probability as a measure of the strength of an oscillation and the indispensable idea of an amplitude of oscillation associated with each transition. The two concepts seem to contradict each other, creating a logical difficulty."
+      },
+      {
+        "full_sentence": "The art of guessing correct formulae, which deviate from the classical formulae, yet contain them as a limiting case according to the correspondence principle, was brought to a high degree of perfection.",
+        "terms_in_conflict": [
+          "deviate from the classical formulae",
+          "contain them as a limiting case according to the correspondence principle"
+        ],
+        "explanation": "The paradox here is the tension between the deviation from classical formulae and the inclusion of these formulae as a limiting case according to the correspondence principle. The two concepts seem to be in conflict, as deviation implies difference, while inclusion as a limiting case implies a certain level of similarity or continuity."
+      }
+    ]
+  },
+  {
+    "paragraph": "Heisenberg, who at that time was my assistant, brought this period to a\nsudden end’. He cut the Gordian knot by means of a philosophical prin-",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full sentence": "Heisenberg, who at that time was my assistant, brought this period to a sudden end'. He cut the Gordian knot by means of a philosophical prin-",
+        "Metaphorical Phrase": "He cut the Gordian knot",
+        "Type": "Structural",
+        "Conceptual Mapping": "Resolving a complex problem is like cutting the Gordian knot"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ciple and replaced guess-work by a mathematical rule. The principle states\nthat concepts and representations that do not correspond to physically ob-\nservable facts are not to be used in theoretical description. Einstein used the",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The principle states that concepts and representations that do not correspond to physically observable facts are not to be used in theoretical description.",
+        "Metaphorical Phrase": "concepts and representations that do not correspond to physically observable facts",
+        "Type": "Structural",
+        "Conceptual Mapping": "Concepts and representations are like physically observable facts"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 4 ---\nINTERPRETATION OF QUANTUM MECHANICS 259",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "same principle when, in setting up his theory of relativity, he eliminated the\nconcepts of absolute velocity of a body and of absolute simultaneity of two\nevents at different places. Heisenberg banished the picture of electron orbits\nwith definite radii and periods of rotation because these quantities are not\nobservable, and insisted that the theory be built up by means of the square\narrays mentioned above. Instead of describing the motion by giving a co-\nordinate as a function of time, x(¢), an array of transition amplitudes Xn\nshould be determined. To me the decisive part of his work is the demand\nto determine a rule by which from a given",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Heisenberg banished the picture of electron orbits with definite radii and periods of rotation because these quantities are not observable, and insisted that the theory be built up by means of the square arrays mentioned above.",
+        "Metaphorical Phrase": "Heisenberg banished the picture of electron orbits",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific theories are creations (pictures) that can be altered (banished)"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Heisenberg banished the picture of electron orbits with definite radii and periods of rotation because these quantities are not observable, and insisted that the theory be built up by means of the square arrays mentioned above.",
+        "terms_in_conflict": [
+          "electron orbits with definite radii and periods of rotation",
+          "square arrays"
+        ],
+        "explanation": "The paradox lies in the conflict between the traditional understanding of electron orbits with definite properties and Heisenberg's insistence on using unobservable quantities to build up the theory."
+      }
+    ]
+  },
+  {
+    "paragraph": "array | X21 X22 .---+-s the array for the square | (x*)2; (x@)22 ...--",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "can be found (or, more general, the multiplication rule for such arrays).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "By observation of known examples solved by guess-work he found this\ntule and applied it successfully to simple examples such as the harmonic and\nanharmonic oscillator.",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This was in the summer of 1925. Heisenberg, plagued by hay fever took\nleave for a course of treatment by the sea and gave me his paper for publica-\ntion if I thought I could do something with it.",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The significance of the idea was at once clear to me and I sent the manu-\nscript to the Zeitschrift fiir Physik. I could not take my mind off Heisenberg’s\nmultiplication rule, and after a week of intensive thought and trial I suddenly\nremembered an algebraic theory which I had learned from my teacher,\nProfessor Rosanes, in Breslau. Such square arrays are well known to math-\nematicians and, in conjunction with a specific rule for multiplication, are\ncalled matrices. I applied this rule to Heisenberg’s quantum condition and\nfound that this agreed in the diagonal terms. It was easy to guess what the\nremaining quantities must be, namely, zero; and at once there stood before\nme the peculiar formula",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full sentence": "and at once there stood before me the peculiar formula",
+        "Metaphorical phrase": "there stood before me the peculiar formula",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding a concept is like seeing an object"
+      },
+      {
+        "Full sentence": "It was easy to guess what the remaining quantities must be, namely, zero",
+        "Metaphorical phrase": "It was easy to guess",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Understanding a scientific concept is like guessing a result"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "I applied this rule to Heisenberg’s quantum condition and found that this agreed in the diagonal terms.",
+        "terms_in_conflict": [
+          "Heisenberg’s quantum condition",
+          "rule for multiplication"
+        ],
+        "explanation": "The paradox arises from the application of a mathematical rule (multiplication) to a quantum condition. In quantum physics, multiplication doesn't always follow the traditional rules of mathematics, leading to a conceptual tension."
+      },
+      {
+        "full_sentence": "It was easy to guess what the remaining quantities must be, namely, zero; and at once there stood before me the peculiar formula",
+        "terms_in_conflict": [
+          "guess",
+          "peculiar formula"
+        ],
+        "explanation": "The paradox lies in the tension between the ease of guessing the remaining quantities and the resulting peculiar formula. The simplicity of the guess contrasts with the complexity of the resulting formula."
+      }
+    ]
+  },
+  {
+    "paragraph": "This meant that coordinates q and momenta p cannot be represented by\nfigure values but by symbols, the product of which depends upon the order\nof multiplication - they are said to be « non-commuting ».",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "I was as excited by this result as a sailor would be who, after a long voyage,\nsees from afar, the longed-for land, and I felt regret that Heisenberg was not",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full sentence": "I was as excited by this result as a sailor would be who, after a long voyage, sees from afar, the longed-for land",
+        "Metaphorical phrase": "as excited by this result as a sailor would be who, after a long voyage, sees from afar, the longed-for land",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific discovery is a long voyage"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "there. I was convinced from the start that we had stumbled on the right path.\nEven so, a great part was only guess-work, in particular, the disappearance\nof the non-diagonal elements in the above-mentioned expression. For help\nin this problem I obtained the assistance and collaboration of my pupil\nPascual Jordan, and in a few days we were able to demonstrate that I had\nguessed correctly. The joint paper by Jordan and myself* contains the most\nimportant principles of quantum mechanics including its extension to elec-\ntrodynamics. There followed a hectic period of collaboration among the\nthree of us, complicated by Heisenberg’s absence. There was a lively ex-\nchange of letters; my contribution to these, unfortunately, have been lost in\nthe political disorders. The result was a three-author paper’ which brought\nthe formal side of the investigation to a definite conclusion. Before this paper\nappeared, came the first dramatic surprise: Paul Dirac’s paper on the same\nsubject’. The inspiration afforded by a lecture of Heisenberg’s in Cambridge\nhad led him to similar results as we had obtained in Géttingen except that\nhe did not resort to the known matrix theory of the mathematicians, but\ndiscovered the tool for himself and worked out the theory of such non-\ncommutating symbols.",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full sentence": "I was convinced from the start that we had stumbled on the right path.",
+        "Metaphorical phrase": "stumbled on the right path",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific discovery is a journey"
+      },
+      {
+        "Full sentence": "Even so, a great part was only guess-work, in particular, the disappearance of the non-diagonal elements in the above-mentioned expression.",
+        "Metaphorical phrase": "a great part was only guess-work",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific exploration is solving a puzzle"
+      },
+      {
+        "Full sentence": "There followed a hectic period of collaboration among the three of us, complicated by Heisenberg’s absence.",
+        "Metaphorical phrase": "hectic period of collaboration",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Scientific collaboration is a social gathering"
+      },
+      {
+        "Full sentence": "There was a lively exchange of letters; my contribution to these, unfortunately, have been lost in the political disorders.",
+        "Metaphorical phrase": "lively exchange of letters",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Scientific communication is a conversation"
+      },
+      {
+        "Full sentence": "Before this paper appeared, came the first dramatic surprise: Paul Dirac’s paper on the same subject.",
+        "Metaphorical phrase": "first dramatic surprise",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Scientific discovery is a theater performance"
+      },
+      {
+        "Full sentence": "The inspiration afforded by a lecture of Heisenberg’s in Cambridge had led him to similar results as we had obtained in Géttingen except that he did not resort to the known matrix theory of the mathematicians, but discovered the tool for himself and worked out the theory of such non-commutating symbols.",
+        "Metaphorical phrase": "discovered the tool for himself",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific theory is a tool"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The first non-trivial and physically important application of quantum\nmechanics was made shortly afterwards by W. Pauli’'who calculated the\nstationary energy values of the hydrogen atom by means of the matrix method\nand found complete agreement with Bohr’s formulae. From this moment\nonwards there could no longer be any doubt about the correctness of the\ntheory.",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full sentence": "From this moment onwards there could no longer be any doubt about the correctness of the theory.",
+        "Metaphorical phrase": "no longer be any doubt",
+        "Type": "Structural",
+        "Conceptual Mapping": "Doubt is an obstacle"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "What this formalism really signified was, however, by no means clear.\nMathematics, as often happens, was cleverer than interpretative thought.\nWhile we were still discussing this point there came the second dramatic\nsurprise, the appearance of Schrédinger’s famous papers”. He took up quite\na different line of thought which had originated from Louis de Broglie”.",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full sentence": "Mathematics, as often happens, was cleverer than interpretative thought.",
+        "Metaphorical phrase": "Mathematics, as often happens, was cleverer than interpretative thought.",
+        "Type": "Structural",
+        "Conceptual Mapping": "Mathematics is a clever being"
+      },
+      {
+        "Full sentence": "While we were still discussing this point there came the second dramatic surprise, the appearance of Schrédinger’s famous papers.",
+        "Metaphorical phrase": "there came the second dramatic surprise, the appearance of Schrédinger’s famous papers.",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Discovering new scientific papers is like experiencing a dramatic surprise"
+      },
+      {
+        "Full sentence": "He took up quite a different line of thought which had originated from Louis de Broglie.",
+        "Metaphorical phrase": "He took up quite a different line of thought",
+        "Type": "Structural",
+        "Conceptual Mapping": "Thinking is following a line"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "A few years previously, the latter had made the bold assertion, supported\nby brilliant theoretical considerations, that wave-corpuscle duality, familiar\nto physicists in the case of light, must also be valid for electrons. To each\nelectron moving free of force belongs a plane wave of a definite wavelength\nwhich is determined by Planck’s constant and the mass. This exciting disser-\ntation by De Broglie was well known to us in Géttingen. One day in\n1925 I received a letter from C. J. Davisson giving some peculiar results on\nthe reflection of electrons from metallic surfaces. I, and my colleague on the\nexperimental side, James Franck, at once suspected that these curves of",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full sentence": "A few years previously, the latter had made the bold assertion, supported by brilliant theoretical considerations, that wave-corpuscle duality, familiar to physicists in the case of light, must also be valid for electrons.",
+        "Metaphorical phrase": "made the bold assertion",
+        "Type": "Structural",
+        "Conceptual Mapping": "Asserting a theory is like making a bold move"
+      },
+      {
+        "Full sentence": "To each electron moving free of force belongs a plane wave of a definite wavelength which is determined by Planck’s constant and the mass.",
+        "Metaphorical phrase": "electron moving free of force belongs a plane wave",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Electrons are like entities that possess things"
+      },
+      {
+        "Full sentence": "This exciting dissertation by De Broglie was well known to us in Géttingen.",
+        "Metaphorical phrase": "exciting dissertation",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Dissertations are like thrilling events"
+      },
+      {
+        "Full sentence": "One day in 1925 I received a letter from C. J. Davisson giving some peculiar results on the reflection of electrons from metallic surfaces.",
+        "Metaphorical phrase": "peculiar results",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Scientific results are like surprising discoveries"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "A few years previously, the latter had made the bold assertion, supported by brilliant theoretical considerations, that wave-corpuscle duality, familiar to physicists in the case of light, must also be valid for electrons.",
+        "terms_in_conflict": [
+          "wave-corpuscle duality",
+          "electrons"
+        ],
+        "explanation": "The paradox lies in the application of wave-corpuscle duality, which is a concept traditionally associated with light, to electrons. This presents a conceptual tension as it challenges the traditional understanding of electrons as particles, suggesting instead that they also exhibit wave-like properties."
+      }
+    ]
+  },
+  {
+    "paragraph": "--- Page 6 ---\nINTERPRETATION OF QUANTUM MECHANICS 261",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Davisson’s were crystal-lattice spectra of De Broglie’s electron waves, and\nwe made one of our pupils, Elsasser'’, to investigate the matter. His result\nprovided the first preliminary confirmation of the idea of De Broglie’s, and\nthis was later proved independently by Davisson and Germer’ and G. P.\nThomson\" by systematic experiments.",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "But this acquaintance with De Broglie’s way of thinking did not lead us\nto an attempt to apply it to the electronic structure in atoms. This was left\nto Schrédinger. He extended De Broglie’s wave equation which referred to\nforce-free motion, to the case where the effect of force is taken into account,\nand gave an exact formulation of the subsidiary conditions, already suggested\nby De Broglie, to which the wave function y must be subjected, namely that\nit should be single-valued and finite in space and time. And he was successful\nin deriving the stationary states of the hydrogen atom in the form of those\nmonochromatic solutions of his wave equation which do not extend to\ninfinity.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "But this acquaintance with De Broglie’s way of thinking did not lead us to an attempt to apply it to the electronic structure in atoms.",
+        "Metaphorical phrase": "acquaintance with De Broglie’s way of thinking",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding a theory is being acquainted with a person's way of thinking"
+      },
+      {
+        "Full sentence": "He extended De Broglie’s wave equation which referred to force-free motion, to the case where the effect of force is taken into account",
+        "Metaphorical phrase": "extended De Broglie’s wave equation",
+        "Type": "Structural",
+        "Conceptual Mapping": "Developing a theory further is extending it"
+      },
+      {
+        "Full sentence": "And he was successful in deriving the stationary states of the hydrogen atom in the form of those monochromatic solutions of his wave equation which do not extend to infinity.",
+        "Metaphorical phrase": "monochromatic solutions of his wave equation",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Solutions to a scientific problem are colors in a spectrum"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "For a brief period at the beginning of 1926, it looked as though there\nwere, suddenly, two self-contained but quite distinct systems of explanation\nextant: matrix mechanics and wave mechanics. But Schrédinger himself\nsoon demonstrated their complete equivalence.",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full sentence": "For a brief period at the beginning of 1926, it looked as though there were, suddenly, two self-contained but quite distinct systems of explanation extant: matrix mechanics and wave mechanics.",
+        "Metaphorical phrase": "two self-contained but quite distinct systems of explanation",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific theories are systems of explanation"
+      },
+      {
+        "Full sentence": "But Schrédinger himself soon demonstrated their complete equivalence.",
+        "Metaphorical phrase": "demonstrated their complete equivalence",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theoritical congruence is equivalence"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "For a brief period at the beginning of 1926, it looked as though there were, suddenly, two self-contained but quite distinct systems of explanation extant: matrix mechanics and wave mechanics.",
+        "terms_in_conflict": [
+          "two self-contained but quite distinct systems of explanation",
+          "matrix mechanics",
+          "wave mechanics"
+        ],
+        "explanation": "The paradox lies in the fact that two distinct systems of explanation, matrix mechanics and wave mechanics, are presented as self-contained yet different, implying they cannot be reconciled."
+      },
+      {
+        "full_sentence": "But Schrédinger himself soon demonstrated their complete equivalence.",
+        "terms_in_conflict": [
+          "two self-contained but quite distinct systems of explanation",
+          "complete equivalence"
+        ],
+        "explanation": "The paradox is resolved when Schrédinger demonstrates that the two distinct systems of explanation, previously thought to be irreconcilable, are in fact completely equivalent."
+      }
+    ]
+  },
+  {
+    "paragraph": "Wave mechanics enjoyed a very great deal more popularity than the\nGéttingen or Cambridge version of quantum mechanics. It operates with a\nwave function y, which in the case of one particle at least, can be pictured\nin space, and it uses the mathematical methods of partial differential equations\nwhich are in current use by physicists. Schrédinger thought that his wave\ntheory made it possible to return to deterministic classical physics. He propos-\ned (and he has recently emphasized his proposal anew’s), to dispense with the\nparticle representation entirely, and instead of speaking of electrons as par-\nticles, to consider them as a continuous density distribution ipl (or electric\ndensity e|y/).",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Wave mechanics enjoyed a very great deal more popularity than the Géttingen or Cambridge version of quantum mechanics.",
+        "Metaphorical phrase": "Wave mechanics enjoyed a very great deal more popularity",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific theories are like people who can enjoy popularity."
+      },
+      {
+        "Full sentence": "Schrédinger thought that his wave theory made it possible to return to deterministic classical physics.",
+        "Metaphorical phrase": "return to deterministic classical physics",
+        "Type": "Structural",
+        "Conceptual Mapping": "The process of scientific discovery is likened to a journey where one can return to a previous location (i.e., previous scientific paradigm)."
+      },
+      {
+        "Full sentence": "He proposed (and he has recently emphasized his proposal anew’s), to dispense with the particle representation entirely, and instead of speaking of electrons as particles, to consider them as a continuous density distribution ipl (or electric density e|y/).",
+        "Metaphorical phrase": "speaking of electrons as particles",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Electrons, abstract entities, are spoken of as if they were concrete particles that one can speak about."
+      }
+    ],
+    "paradoxes": [
+      {
+        "Full sentence": "Schrédinger thought that his wave theory made it possible to return to deterministic classical physics.",
+        "Terms/concepts in conflict": [
+          "Wave theory",
+          "Deterministic classical physics"
+        ],
+        "Short explanation of the paradox": "Wave theory, as part of quantum mechanics, is inherently probabilistic and not deterministic. This is in conflict with the deterministic nature of classical physics, where outcomes can be precisely predicted. Schrödinger's belief that his wave theory could return physics to determinism is paradoxical."
+      },
+      {
+        "Full sentence": "He proposed (and he has recently emphasized his proposal anew’s), to dispense with the particle representation entirely, and instead of speaking of electrons as particles, to consider them as a continuous density distribution ipl (or electric density e|y/).",
+        "Terms/concepts in conflict": [
+          "Particle representation",
+          "Continuous density distribution"
+        ],
+        "Short explanation of the paradox": "The paradox lies in the conceptual conflict between treating electrons as discrete particles versus treating them as a continuous density distribution. These are fundamentally different ways of understanding the nature of electrons, and it's paradoxical to propose that one could simply switch from one to the other."
+      }
+    ]
+  },
+  {
+    "paragraph": "To us in Géttingen this interpretation seemed unacceptable in face of\nwell established experimental facts. At that time it was already possible to\ncount particles by means of scintillations or with a Geiger counter, and to\nphotograph their tracks with the aid of a Wilson cloud chamber.",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "It appeared to me that it was not possible to obtain a clear interpretation\nof the y-function, by considering bound electrons. I had therefore, as early\nas the end of 1925, made an attempt to extend the matrix method, which\nobviously only covered oscillatory processes, in such a way as to be\napplicable to aperiodic processes. I was at that time a guest of the Mas-",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "sachusetts Institute of Technology in the USA, and I found there in Norbert\nWiener an excellent collaborator. In our joint paper we replaced the\nmatrix by the general concept of an operator, and thus made it possible to\ndescribe aperiodic processes. Nevertheless we missed the correct approach.\nThis was left to Schrédinger, and I immediately took up his method since it\nheld promise of leading to an interpretation of the yfunction. Again an idea\nof Einstein’s gave me the lead. He had tried to make the duality of particles -\nlight quanta or photons - and waves comprehensible by interpreting the\nsquare of the optical wave amplitudes as probability density for the occur-\nrence of photons. This concept could at once be carried over to the yfunc-\ntion: |y? ought to represent the probability density for electrons (or other\nparticles). It was easy to assert this, but how could it be proved?",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full sentence": "Again an idea of Einstein’s gave me the lead.",
+        "Metaphorical phrase": "gave me the lead",
+        "Type": "Structural",
+        "Conceptual Mapping": "Idea is a guide"
+      },
+      {
+        "Full sentence": "This was left to Schrédinger, and I immediately took up his method since it held promise of leading to an interpretation of the yfunction.",
+        "Metaphorical phrase": "held promise of leading",
+        "Type": "Structural",
+        "Conceptual Mapping": "Method is a path"
+      },
+      {
+        "Full sentence": "This concept could at once be carried over to the yfunction",
+        "Metaphorical phrase": "carried over",
+        "Type": "Structural",
+        "Conceptual Mapping": "Applying a concept is a movement of carrying"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The atomic collision processes suggested themselves at this point. A swarm\nof electrons coming from infinity, represented by an incident wave of\nknown intensity (i.e., yy), impinges upon an obstacle, say a heavy atom.\nIn the same way that a water wave produced by a steamer causes secondary\ncircular waves in striking a pile, the incident electron wave is partially\ntransformed into a secondary spherical wave whose amplitude of oscillation\ny differs for different directions. The square of the amplitude of this wave at\na great distance from the scattering centre determines the relative probability\nof scattering as a function of direction. Moreover, if the scattering atom it-\nself is capable of existing in different stationary states, then Schrédinger’s\nwave equation gives automatically the probability of excitation of these\nstates, the electron being scattered with loss of energy, that is to say, inelastic-\nally, as it is called. In this way it was possible to get a theoretical basis” for\nthe assumptions of Bohr’s theory which had been experimentally confirmed\nby Franck and Hertz. Soon Wentzel\" succeeded in deriving Rutherford’s\namous formula for the scattering of o-particles from my theory.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "A swarm of electrons coming from infinity, represented by an incident wave of known intensity (i.e., yy), impinges upon an obstacle, say a heavy atom.",
+        "Metaphorical phrase": "A swarm of electrons coming from infinity",
+        "Type": "Structural",
+        "Conceptual Mapping": "Electrons are depicted as a swarm (group of insects) coming from infinity"
+      },
+      {
+        "Full sentence": "In the same way that a water wave produced by a steamer causes secondary circular waves in striking a pile, the incident electron wave is partially transformed into a secondary spherical wave whose amplitude of oscillation y differs for different directions.",
+        "Metaphorical phrase": "In the same way that a water wave produced by a steamer causes secondary circular waves in striking a pile",
+        "Type": "Structural",
+        "Conceptual Mapping": "Electron wave is compared to a water wave caused by a steamer"
+      },
+      {
+        "Full sentence": "The square of the amplitude of this wave at a great distance from the scattering centre determines the relative probability of scattering as a function of direction.",
+        "Metaphorical phrase": "at a great distance from the scattering centre",
+        "Type": "Ontological",
+        "Conceptual Mapping": "The electron's position relative to the scattering center is depicted as a great distance"
+      },
+      {
+        "Full sentence": "Moreover, if the scattering atom itself is capable of existing in different stationary states, then Schrédinger’s wave equation gives automatically the probability of excitation of these states, the electron being scattered with loss of energy, that is to say, inelastically, as it is called.",
+        "Metaphorical phrase": "the electron being scattered with loss of energy",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Electron scattering is described in terms of energy loss"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "However, a paper by Heisenberg”, containing his celebrated uncertainty\nrelationship, contributed more than the above-mentioned successes to the\nswift acceptance of the statistical interpretation of the ywfunction. It was\nhrough this paper that the revolutionary character of the new conception\nbecame clear. It showed that not only the determinism of classical physics\nmust be abandonded, but also the naive concept of reality which looked upon\nthe particles of atomic physics as if they were very small grains of sand. At\nevery instant a grain of sand has a definite position and velocity. This is not\nhe case with an electron. If its position is determined with increasing ac-",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "It showed that not only the determinism of classical physics must be abandonded, but also the naive concept of reality which looked upon the particles of atomic physics as if they were very small grains of sand.",
+        "Metaphorical phrase": "looked upon the particles of atomic physics as if they were very small grains of sand",
+        "Type": "Structural",
+        "Conceptual Mapping": "Particles of atomic physics are compared to very small grains of sand"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "It showed that not only the determinism of classical physics must be abandonded, but also the naive concept of reality which looked upon the particles of atomic physics as if they were very small grains of sand.",
+        "terms_in_conflict": [
+          "Determinism of classical physics",
+          "Concept of reality"
+        ],
+        "explanation": "The paradox lies in the conflict between the deterministic nature of classical physics, which assumes that every event is determined by its preceding conditions, and the concept of reality in quantum physics, which suggests that particles do not have definite positions and velocities like classical objects (e.g., grains of sand)."
+      }
+    ]
+  },
+  {
+    "paragraph": "curacy, the possibility of ascertaining the velocity becomes less and vice",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 8 ---\nINTERPRETATION OF QUANTUM MECHANICS 263",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "versa. Ishall return shortly to these problems in a more general connection,\nbut would first like to say a few words about the theory of collisions.\nThe mathematical approximation methods which I used were quite prim-\nitive and soon improved upon. From the literature, which has grown to a\npoint where I cannot cope with, I would like to mention only a few of\nhe first authors to whom the theory owes great progress: Faxén in",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full sentence": "The mathematical approximation methods which I used were quite primitive and soon improved upon.",
+        "Metaphorical phrase": "mathematical approximation methods which I used were quite primitive",
+        "Type": "Structural",
+        "Conceptual Mapping": "Mathematical approximation methods are tools"
+      },
+      {
+        "Full sentence": "From the literature, which has grown to a point where I cannot cope with, I would like to mention only a few of the first authors to whom the theory owes great progress.",
+        "Metaphorical phrase": "literature, which has grown to a point where I cannot cope with",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Literature is a living organism"
+      },
+      {
+        "Full sentence": "From the literature, which has grown to a point where I cannot cope with, I would like to mention only a few of the first authors to whom the theory owes great progress.",
+        "Metaphorical phrase": "the theory owes great progress",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theory is a debtor"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sweden, Holtsmark in Norway”, Bethe in Germany”, Mott and Massey\nin England*.\nToday, collision theory is a special science with its own big, solid text-\nbooks which have grown completely over my head. Of course in the last\nresort all the modern branches of physics, quantum electrodynamics, the\nheory of mesons, nuclei, cosmic rays, elementary particles and their trans-\n‘ormations, all come within range of these ideas and no bounds could be set\n0 a discussion on them.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Today, collision theory is a special science with its own big, solid textbooks which have grown completely over my head.",
+        "Metaphorical Phrase": "have grown completely over my head",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific knowledge is a growing entity"
+      },
+      {
+        "Full Sentence": "Of course in the last resort all the modern branches of physics, quantum electrodynamics, the theory of mesons, nuclei, cosmic rays, elementary particles and their transformations, all come within range of these ideas and no bounds could be set to a discussion on them.",
+        "Metaphorical Phrase": "all come within range of these ideas",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific ideas are targets"
+      },
+      {
+        "Full Sentence": "Of course in the last resort all the modern branches of physics, quantum electrodynamics, the theory of mesons, nuclei, cosmic rays, elementary particles and their transformations, all come within range of these ideas and no bounds could be set to a discussion on them.",
+        "Metaphorical Phrase": "no bounds could be set to a discussion on them",
+        "Type": "Structural",
+        "Conceptual Mapping": "Discussion is a territory with boundaries"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ishould also like to mention that in 1926 and 1927 I tried another way of\nsupporting the statistical concept of quantum mechanics, partly in collabora-\nion with the Russian physicist Fock**. In the above-mentioned three-",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "author paper there is a chapter which anticipates the Schrédinger function,\nexcept that it is not thought of as a function p(x) in space, but as a function\nWn of the discrete index n = 1, 2,... which enumerates the stationary states.\nIf the system under consideration is subject to a force which is variable with\ntime, yn becomes also time-dependent, and | yp (t) |? signifies the prob-\nability for the existence of the state n at time f. Starting from an initial\ndistribution where there is only one state, transition probabilities are ob-\ntained, and their properties can be examined. What interested me in partic-\nular at the time, was what occurs in the adiabatic limiting case, that is, for\nvery slowly changing action. It was possible to show that, as could have been\nexpected, the probability of transitions becomes ever smaller. The theory of\ntransition probabilities was developed independently by Dirac with great\nsuccess. It can be said that the whole of atomic and nuclear physics works\nwith this system of concepts, particularly in the very elegant form given to",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "If the system under consideration is subject to a force which is variable with time, yn becomes also time-dependent",
+        "Metaphorical Phrase": "subject to a force which is variable with time",
+        "Type": "Structural",
+        "Conceptual Mapping": "The force is a changing environment"
+      },
+      {
+        "Full Sentence": "Starting from an initial distribution where there is only one state, transition probabilities are obtained, and their properties can be examined.",
+        "Metaphorical Phrase": "Starting from an initial distribution where there is only one state",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific state is a location"
+      },
+      {
+        "Full Sentence": "It was possible to show that, as could have been expected, the probability of transitions becomes ever smaller.",
+        "Metaphorical Phrase": "the probability of transitions becomes ever smaller",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific change is a physical movement"
+      },
+      {
+        "Full Sentence": "It can be said that the whole of atomic and nuclear physics works with this system of concepts, particularly in the very elegant form given to",
+        "Metaphorical Phrase": "the whole of atomic and nuclear physics works with this system of concepts",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific field is a labourer"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "them by Dirac**. Almost all experiments lead to statements about relative\nfrequencies of events, even when they occur concealed under such names as\neffective cross section or the like.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "How does it come about then, that great scientists such as Einstein, Schré-\ndinger, and De Broglie are nevertheless dissatisfied with the situation? Of\ncourse, all these objections are levelled not against the correctness of the",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "formulae, but against their interpretation. Two closely knitted points of view",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Two closely knitted points of view",
+        "Metaphorical phrase": "closely knitted",
+        "Type": "Structural",
+        "Conceptual Mapping": "Ideas are physical objects that can be knitted together"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "are to be distinguished: the question of determinism and the question of reality.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Newtonian mechanics is deterministic in the following sense:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If the initial state (positions and velocities of all particles) of a system is\naccurately given, then the state at any other time (earlier or later) can be\ncalculated from the laws of mechanics. All the other branches of classical\nphysics have been built up according to this model. Mechanical determinism\ngradually became a kind of article of faith: the world as a machine, an\nautomaton. As far as I can see, this idea has no forerunners in ancient and\nmedieval philosophy. The idea is a product of the immense success of\nNewtonian mechanics, particularly in astronomy. In the 19th century it be-\ncame a basic philosophical principle for the whole of exact science. I asked\nmyself whether this was really justified. Can absolute predictions really be\nmade for all time on the basis of the classical equations of motion? It can\neasily be seen, by simple examples, that this is only the case when the\npossibility of absolutely exact measurement (of position, velocity, or other\nquantities) is assumed. Let us think of a particle moving without friction on\na straight line between two end-points (walls), at which it experiences com-\npletely elastic recoil. It moves with constant speed equal to its initial speed\nv backwards and forwards, and it can be stated exactly where it will be at\na given time provided that v,is accurately known. But if a small inaccuracy\nAv, is allowed, then the inaccuracy of prediction of the position at time t is\nt Av, which increases with t. If one waits long enough until time f= Avo\nwhere | is the distance between the elastic walls, the inaccuracy 4x will have\nbecome equal to the whole space /. Thus it is impossible to forecast anything\nabout the position at a time which is later than t,. Thus determinism lapses\ncompletely into indeterminism as soon as the slightest inaccuracy in the data\non velocity is permitted. Is there any sense - and I mean any physical sense,\nnot metaphysical sense - in which one can speak of absolute data? Is one\njustified in saying that the coordinate x = mcm where nm = 3.1415. . is the\nfamiliar transcendental number that determines the ratio of the circumfer-\nence of a circle to its diameter? As a mathematical tool the concept of a real\nnumber represented by a nonterminating decimal fraction is exceptionally\nimportant and fruitful. As the measure of a physical quantity it is nonsense. If\nmis taken to the 20th or the 25th place of decimals, two numbers are ob-\ntained which are indistinguishable from each other and the true value of 7\nby any measurement. According to the heuristic principle used by Einstein\nin the theory of relativity, and by Heisenberg in the quantum theory, con-\ncepts which correspond to no conceivable observation should be eliminated",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Mechanical determinism gradually became a kind of article of faith: the world as a machine, an automaton.",
+        "Metaphorical phrase": "the world as a machine, an automaton",
+        "Type": "Structural",
+        "Conceptual Mapping": "The world is modeled as a mechanical system, with consistent, predictable movements and interactions"
+      },
+      {
+        "Full sentence": "Thus determinism lapses completely into indeterminism as soon as the slightest inaccuracy in the data on velocity is permitted.",
+        "Metaphorical phrase": "determinism lapses completely into indeterminism",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Determinism and Indeterminism are portrayed as states that can be transitioned between, like physical locations or statuses"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "If the initial state (positions and velocities of all particles) of a system is accurately given, then the state at any other time (earlier or later) can be calculated from the laws of mechanics.",
+        "terms_in_conflict": [
+          "initial state",
+          "state at any other time"
+        ],
+        "explanation": "The paradox lies in the assumption that if the initial state of a system is known, the state at any other time can be calculated. However, this assumes perfect knowledge and measurement, which is not possible in reality."
+      },
+      {
+        "full_sentence": "Thus determinism lapses completely into indeterminism as soon as the slightest inaccuracy in the data on velocity is permitted.",
+        "terms_in_conflict": [
+          "determinism",
+          "indeterminism"
+        ],
+        "explanation": "The paradox here is that the deterministic model of physics, which assumes that the future state of a system can be predicted from its current state, lapses into indeterminism as soon as any inaccuracy is allowed. This contradicts the deterministic model."
+      },
+      {
+        "full_sentence": "As the measure of a physical quantity it is nonsense.",
+        "terms_in_conflict": [
+          "mathematical tool",
+          "measure of a physical quantity"
+        ],
+        "explanation": "The paradox here is that while nonterminating decimal fractions are useful as mathematical tools, they are nonsensical when used to measure physical quantities. This is because physical measurements cannot be infinitely precise."
+      }
+    ]
+  },
+  {
+    "paragraph": "--- Page 10 ---\nINTERPRETATION OF QUANTUM MECHANICS 265",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "from physics. This is possible without difficulty in the present case also. It is\nonly necessary to replace statements like x = cm by: the probability of\ndistribution of values of x has a sharp maximum at x = mcm, and (if it is\ndesired to be more accurate) to add: of such and such a breadth. In short,\nordinary mechanics must also be statistically formulated. I have occupied\nmyself with this problem a little recently, and have realized that it is pos-\nsible without difficulty. This is not the place to go into the matter more\ndeeply. Ishould like only to say this: the determinism of classical physics\nturns out to be an illusion, created by overrating mathematico-logical con-\ncepts. It is an idol, not an ideal in scientific research and cannot, therefore,\nbe used as an objection to the essentially indeterministic statistical interpre-\ntation of quantum mechanics.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "I should like only to say this: the determinism of classical physics turns out to be an illusion, created by overrating mathematico-logical concepts.",
+        "Metaphorical Phrase": "the determinism of classical physics turns out to be an illusion",
+        "Type": "Structural",
+        "Conceptual Mapping": "Determinism is an illusion"
+      },
+      {
+        "Full Sentence": "It is an idol, not an ideal in scientific research and cannot, therefore, be used as an objection to the essentially indeterministic statistical interpretation of quantum mechanics.",
+        "Metaphorical Phrase": "It is an idol, not an ideal in scientific research",
+        "Type": "Structural",
+        "Conceptual Mapping": "Determinism is an idol"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Ishould like only to say this: the determinism of classical physics turns out to be an illusion, created by overrating mathematico-logical concepts.",
+        "terms_in_conflict": [
+          "Determinism of classical physics",
+          "Illusion"
+        ],
+        "explanation": "The paradox lies in the assertion that the determinism of classical physics, which is a fundamental principle stating that the state of the universe at any given time is a direct result of its state at all previous times, is an illusion. This contradicts the basic understanding of classical physics."
+      },
+      {
+        "full_sentence": "It is an idol, not an ideal in scientific research and cannot, therefore, be used as an objection to the essentially indeterministic statistical interpretation of quantum mechanics.",
+        "terms_in_conflict": [
+          "Idol in scientific research",
+          "Indeterministic statistical interpretation of quantum mechanics"
+        ],
+        "explanation": "The paradox here is that the deterministic nature of classical physics, which is revered ('idol') in scientific research, is being contrasted with the indeterministic nature of quantum mechanics. This presents a paradox as it challenges the traditional deterministic understanding of physics."
+      }
+    ]
+  },
+  {
+    "paragraph": "Much more difficult is the objection based on reality. The concept of a",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "particle, e.g. a grain of sand, implicitly contains the idea that it is in a definite\nposition and has definite motion. But according to quantum mechanics it\nis impossible to determine simultaneously with any desired accuracy both\nposition and velocity (more precisely : momentum, i.e. mass times velocity) .\nThus two questions arise: what prevents us, in spite of the theoretical asser-\ntion, to measure both quantities to any desired degree of accuracy by refined\nexperiments? Secondly, if it really transpires that this is not feasible, are we\nstill justified in applying to the electron the concept of particle and therefore\nthe ideas associated with it?",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "particle, e.g. a grain of sand, implicitly contains the idea that it is in a definite position and has definite motion.",
+        "Metaphorical Phrase": "a grain of sand",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Particle is a grain of sand"
+      },
+      {
+        "Full Sentence": "what prevents us, in spite of the theoretical assertion, to measure both quantities to any desired degree of accuracy by refined experiments?",
+        "Metaphorical Phrase": "refined experiments",
+        "Type": "Structural",
+        "Conceptual Mapping": "Experiment is a refining process"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "particle, e.g. a grain of sand, implicitly contains the idea that it is in a definite position and has definite motion. But according to quantum mechanics it is impossible to determine simultaneously with any desired accuracy both position and velocity (more precisely : momentum, i.e. mass times velocity).",
+        "terms_in_conflict": [
+          "Particle",
+          "Quantum mechanics"
+        ],
+        "explanation": "The concept of a 'particle' implies a definite position and motion, but quantum mechanics states that it's impossible to accurately determine both position and velocity at the same time. This creates a paradox between the traditional understanding of a particle and the quantum mechanical understanding."
+      },
+      {
+        "full_sentence": "Secondly, if it really transpires that this is not feasible, are we still justified in applying to the electron the concept of particle and therefore the ideas associated with it?",
+        "terms_in_conflict": [
+          "Electron",
+          "Particle"
+        ],
+        "explanation": "The paradox here is whether we can still consider an electron as a 'particle' if we cannot accurately determine its position and velocity simultaneously, as the concept of a particle implies."
+      }
+    ]
+  },
+  {
+    "paragraph": "Referring to the first question, it is clear that if the theory is correct - and\nwe have ample grounds for believing this - the obstacle to simultaneous\nmeasurement of position and motion (and of other such pairs of so-called\nconjugate quantities) must lie in the laws of quantum mechanics themselves.\nIn fact, this is so. But it is not a simple matter to clarify the situation. Niels\nBohr himself has gone to great trouble and ingenuity” to develop a theory\nof measurements to clear the matter up and to meet the most refined and\ningenious attacks of Einstein, who repeatedly tried to think out methods of\nmeasurement by means of which position and motion could be measured\nsimultaneously and accurately. The following emerges: to measure space\ncoordinates and instants of time, rigid measuring rods and clocks are re-\nquired. On the other hand, to measure momenta and energies, devices are\nnecessary with movable parts to absorb the impact of the test object and to\nindicate the size of its momentum. Paying regard to the fact that quantum\nmechanics is competent for dealing with the interaction of object and appa-\nratus, it is seen that no arrangement is possible that will fulfil both require-",
+    "paragraph_type": "Hybrid",
+    "metaphors": [
+      {
+        "Full Sentence": "Niels Bohr himself has gone to great trouble and ingenuity to develop a theory of measurements to clear the matter up and to meet the most refined and ingenious attacks of Einstein, who repeatedly tried to think out methods of measurement by means of which position and motion could be measured simultaneously and accurately.",
+        "Metaphorical Phrase": "Niels Bohr himself has gone to great trouble and ingenuity",
+        "Type": "Structural",
+        "Conceptual Mapping": "Effort and ingenuity in scientific theory development is a difficult journey"
+      },
+      {
+        "Full Sentence": "Niels Bohr himself has gone to great trouble and ingenuity to develop a theory of measurements to clear the matter up and to meet the most refined and ingenious attacks of Einstein, who repeatedly tried to think out methods of measurement by means of which position and motion could be measured simultaneously and accurately.",
+        "Metaphorical Phrase": "to meet the most refined and ingenious attacks of Einstein",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific debate and criticism is a battle"
+      },
+      {
+        "Full Sentence": "On the other hand, to measure momenta and energies, devices are necessary with movable parts to absorb the impact of the test object and to indicate the size of its momentum.",
+        "Metaphorical Phrase": "devices are necessary with movable parts to absorb the impact of the test object and to indicate the size of its momentum",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Scientific devices are sentient beings that absorb and indicate"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Referring to the first question, it is clear that if the theory is correct - and we have ample grounds for believing this - the obstacle to simultaneous measurement of position and motion (and of other such pairs of so-called conjugate quantities) must lie in the laws of quantum mechanics themselves.",
+        "terms_in_conflict": [
+          "theory",
+          "simultaneous measurement of position and motion"
+        ],
+        "explanation": "The paradox lies in the fact that the theory, which is believed to be correct, inherently prevents the simultaneous measurement of position and motion, a task that one would expect to be possible if the theory is indeed correct."
+      },
+      {
+        "full_sentence": "The following emerges: to measure space coordinates and instants of time, rigid measuring rods and clocks are required. On the other hand, to measure momenta and energies, devices are necessary with movable parts to absorb the impact of the test object and to indicate the size of its momentum.",
+        "terms_in_conflict": [
+          "measure space coordinates and instants of time",
+          "measure momenta and energies"
+        ],
+        "explanation": "The paradox here is that to measure different aspects of the same system (space-time coordinates and momenta-energies), fundamentally different types of measurement devices are required - rigid for the former and movable for the latter. This creates a tension in the practical application of the theory."
+      }
+    ]
+  },
+  {
+    "paragraph": "--- Page 11 ---\n266 1954 M.BORN",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ments simultaneously. There exist, therefore, mutually exclusive though\ncomplementary experiments which only as a whole embrace everything\nwhich can be experienced with regard to an object.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "There exist, therefore, mutually exclusive though complementary experiments which only as a whole embrace everything which can be experienced with regard to an object.",
+        "Metaphorical phrase": "experiments which only as a whole embrace everything",
+        "Type": "Structural",
+        "Conceptual Mapping": "Experiments are like arms that can embrace"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "There exist, therefore, mutually exclusive though complementary experiments which only as a whole embrace everything which can be experienced with regard to an object.",
+        "terms_in_conflict": [
+          "mutually exclusive",
+          "complementary"
+        ],
+        "explanation": "The paradox lies in the idea that experiments can be both mutually exclusive (cannot occur at the same time or in the same context) and complementary (each adding something the others lack, thus together providing a complete picture). This suggests a tension between the need for distinct, separate experiments and the need for a comprehensive understanding of an object."
+      }
+    ]
+  },
+  {
+    "paragraph": "This idea of complementarity is now regarded by most physicists as the\nkey to the clear understanding of quantum processes. Bohr has generalized\nthe idea to quite different fields of knowledge, e.g. the connection be-\ntween consciousness and the brain, to the problem of free will, and other\nbasic problems of philosophy. To come now to the last point: can we call\nsomething with which the concepts of position and motion cannot be asso-\nciated in the usual way, a thing, or a particle? And if not, what is the reality\nwhich our theory has been invented to describe?",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "This idea of complementarity is now regarded by most physicists as the key to the clear understanding of quantum processes.",
+        "Metaphorical phrase": "key to the clear understanding",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding is unlocking"
+      },
+      {
+        "Full sentence": "And if not, what is the reality which our theory has been invented to describe?",
+        "Metaphorical phrase": "our theory has been invented to describe",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theory is an invention"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "To come now to the last point: can we call something with which the concepts of position and motion cannot be associated in the usual way, a thing, or a particle?",
+        "terms_in_conflict": [
+          "thing or particle",
+          "concepts of position and motion"
+        ],
+        "explanation": "The paradox lies in the question of whether an entity can be considered a 'thing' or 'particle' if it does not conform to the traditional concepts of position and motion, as is the case in quantum physics. This challenges our conventional understanding of reality."
+      },
+      {
+        "full_sentence": "And if not, what is the reality which our theory has been invented to describe?",
+        "terms_in_conflict": [
+          "reality",
+          "theory"
+        ],
+        "explanation": "This question presents a paradox by suggesting that our theories, designed to describe reality, may not be able to accurately represent it if the entities they describe do not conform to traditional concepts."
+      }
+    ]
+  },
+  {
+    "paragraph": "The answer to this is no longer physics, but philosophy, and to deal with\nit thoroughly would mean going far beyond the bounds of this lecture. I\nhave given my views on it elsewhere **. Here I will only say that I am em-\nphatically in favour of the retention of the particle idea. Naturally, it is\nnecessary to redefine what is meant. For this, well-developed concepts are\navailable which appear in mathematics under the name of invariants in trans-\nformations. Every object that we perceive appears in innumerable aspects.\nThe concept of the object is the invariant of all these aspects. From this point\nof view, the present universally used system of concepts in which particles\nand waves appear simultaneously, can be completely justified.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The concept of the object is the invariant of all these aspects.",
+        "Metaphorical phrase": "The concept of the object is the invariant of all these aspects.",
+        "Type": "Structural",
+        "Conceptual Mapping": "Concept is an invariant"
+      },
+      {
+        "Full sentence": "From this point of view, the present universally used system of concepts in which particles and waves appear simultaneously, can be completely justified.",
+        "Metaphorical phrase": "particles and waves appear simultaneously",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Scientific concepts are physical entities"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "From this point of view, the present universally used system of concepts in which particles and waves appear simultaneously, can be completely justified.",
+        "terms_in_conflict": [
+          "particles",
+          "waves"
+        ],
+        "explanation": "The paradox lies in the simultaneous existence of particles and waves in the same system. In classical physics, these are distinct concepts - particles are discrete, localized entities, while waves are continuous and spread out. The author acknowledges this paradox, but suggests it can be resolved by redefining our understanding of these concepts."
+      }
+    ]
+  },
+  {
+    "paragraph": "The latest research on nuclei and elementary particles has led us, how-\never, to limits beyond which this system of concepts itself does not appear to\nsuffice. The lesson to be learned from what I have told of the origin of\nquantum mechanics is that probable refinements of mathematical methods\nwill not suffice to produce a satisfactory theory, but that somewhere in our\ndoctrine is hidden a concept, unjustified by experience, which we must elim-\ninate to open up the road.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The latest research on nuclei and elementary particles has led us, however, to limits beyond which this system of concepts itself does not appear to suffice.",
+        "Metaphorical phrase": "limits beyond which this system of concepts itself does not appear to suffice",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding is a journey"
+      },
+      {
+        "Full sentence": "The lesson to be learned from what I have told of the origin of quantum mechanics is that probable refinements of mathematical methods will not suffice to produce a satisfactory theory, but that somewhere in our doctrine is hidden a concept, unjustified by experience, which we must eliminate to open up the road.",
+        "Metaphorical phrase": "somewhere in our doctrine is hidden a concept, unjustified by experience, which we must eliminate to open up the road",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific progress is a road"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The lesson to be learned from what I have told of the origin of quantum mechanics is that probable refinements of mathematical methods will not suffice to produce a satisfactory theory, but that somewhere in our doctrine is hidden a concept, unjustified by experience, which we must eliminate to open up the road.",
+        "terms_in_conflict": [
+          "refinements of mathematical methods",
+          "concept, unjustified by experience"
+        ],
+        "explanation": "The paradox lies in the idea that while scientific theories are often refined and improved through mathematical methods, the author suggests that in the case of quantum mechanics, this approach is insufficient. Instead, they propose that there is a concept, not justified by experience, that needs to be eliminated. This presents a tension between the traditional scientific method of refining theories through mathematics and the need to eliminate unjustified concepts."
+      }
+    ]
+  },
+  {
+    "paragraph": "1. R. Ladenburg, Z. Physik, 4 (192.1) 451 ; R. Ladenburg and F. Reiche, Naturwiss.,\n11 (1923 ) 584.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". H. A. Kramers, Nature , 113 (1924) 673.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". H. A. Kramers and W. Heisenberg, Z. Physik, 31 (1925) 681.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". M. Born, Z. Physik, 26 (1924) 379; M. Born and P. Jordan, Z. Physik, 33 (1925)\n479.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". W. Heisenberg, Z. Physik, 33 (1925) 879.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "6. M. Born and P. Jordan, Z. Physik, 34 (1925) 858.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "15.\n. M. Born and N. Wiener, Z. Physik, 36 (1926) 174.\n. M. Born, Z. Physik, 37 (1926) 863 ; 38 (1926) 803 ; Géttinger Nachr. Math. Phys.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "INTERPRETATION OF QUANTUM MECHANICS 267",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". M. Born, W. Heisenberg, and P. Jordan, Z. Physik, 35 (1926) 557.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". P. A. M. Dirac, Proc. Roy. Soc. (London), A 109 (1925) 642.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". W. Pauli, Z. Physik, 36 (1926) 336.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". E. Schrodinger, Ann. Physik, [4] 79 (1926) 361,489,734; 80 (1926) 437; 81(1926)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". L. de Broglie, Thesis Paris, 1924; Ann. Phys. (Paris), [10] 3 (1925) 22.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "W. Elasser, Naturwiss., 13 (1925) 711.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". C. J. Davisson and L. H. Germer, Phys. Rev., 30 (1927) 707.\n. G. P. Thomson and A. Reid, Nature, 119 (1927) 890; G. P. Thomson, Proc. Roy.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Soc. (London), A 117 (1928) 600.\nE. Schrodinger, Brit. J. Phil. Sci., 3 (1952) 109, 233.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". G. Wentzel, Z. Physik, 40 (1926) 590.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". W. Heisenberg, Z. Physik, 43 (1927) 172.\n20.\n21.\n22.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "H. Faxén and J. Holtsmark, Z. Physik, 45 (1927) 307.\nH. Bethe, Ann. Physik, 5 (1930) 325.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "N. F. Mott, Proc. Roy. Soc. (London), A 124 (1929) 422, 425; Proc. Cambridge Phil.\nSoc., 25 (1929) 304.\nM. Born, Z. Physik, 40 (1926) 167; M. Born and V. Fock, Z. Physik, 51 (1928)\n165.\nP. A. M. Dirac, Proc. Roy. Soc. (London), A 109 (1925) 642; 110 (1926) 561; 111\n(1926) 281; 112 (26) 674.\nN. Bohr, Naturwiss., 16 (1928) 245; 17 (1929) 483; 21 (1933) 13 . «Kausalitat und\nKomplementaritat» (Causality and Complementarity), Die Erkenntnis, 6 (1936) 293.\nM. Born, Phil. Quart., 3 (1953) 134; Physik. BI., 10 (1954) 49.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]
