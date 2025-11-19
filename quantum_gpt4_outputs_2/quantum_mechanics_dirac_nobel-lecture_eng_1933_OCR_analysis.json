@@ -1,0 +1,637 @@
+[
+  {
+    "paragraph": "--- Page 1 ---\nPauLt A. M. Dirac",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Theory of electrons and positrons",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nobel Lecture, December 12, 1933",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Matter has been found by experimental physicists to be made up of small\nparticles of various kinds, the particles of each kind being all exactly alike.\nSome of these kinds have definitely been shown to be composite, that is,\nto be composed of other particles of a simpler nature. But there are other\nkinds which have not been shown to be composite and which one expects\nwill never be shown to be composite, so that one considers them as elemen-\ntary and fundamental.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "Some of these kinds have definitely been shown to be composite, that is, to be composed of other particles of a simpler nature. But there are other kinds which have not been shown to be composite and which one expects will never be shown to be composite, so that one considers them as elementary and fundamental.",
+        "terms_in_conflict": [
+          "composite particles",
+          "elementary and fundamental particles"
+        ],
+        "explanation": "The paradox lies in the idea that some particles are composite, meaning they are made up of simpler particles, while others are considered elementary and fundamental, implying they are not made up of simpler particles. This raises the question of what makes a particle 'elementary' or 'fundamental', and whether these terms are truly mutually exclusive with 'composite'."
+      }
+    ]
+  },
+  {
+    "paragraph": "From general philosophical grounds one would at first sight like to have\nas few kinds of elementary particles as possible, say only one kind, or at most\ntwo, and to have all matter built up of these elementary kinds. It appears\nfrom the experimental results, though, that there must be more than this. In\nfact the number of kinds of elementary particle has shown a rather alarming\ntendency to increase during recent years.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "From general philosophical grounds one would at first sight like to have as few kinds of elementary particles as possible, say only one kind, or at most two, and to have all matter built up of these elementary kinds.",
+        "Metaphorical phrase": "all matter built up of these elementary kinds",
+        "Type": "Structural",
+        "Conceptual Mapping": "Matter is a construction made of elementary particles"
+      },
+      {
+        "Full sentence": "In fact the number of kinds of elementary particle has shown a rather alarming tendency to increase during recent years.",
+        "Metaphorical phrase": "number of kinds of elementary particle has shown a rather alarming tendency to increase",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Increase in particle types is an alarming growth"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "From general philosophical grounds one would at first sight like to have as few kinds of elementary particles as possible, say only one kind, or at most two, and to have all matter built up of these elementary kinds.",
+        "terms_in_conflict": [
+          "philosophical grounds",
+          "elementary particles"
+        ],
+        "explanation": "The philosophical desire for simplicity and elegance in the universe conflicts with the scientific reality of multiple elementary particles."
+      },
+      {
+        "full_sentence": "It appears from the experimental results, though, that there must be more than this. In fact the number of kinds of elementary particle has shown a rather alarming tendency to increase during recent years.",
+        "terms_in_conflict": [
+          "experimental results",
+          "number of kinds of elementary particle"
+        ],
+        "explanation": "The experimental results contradict the initial assumption of having a limited number of elementary particles, as the number of identified particles keeps increasing."
+      }
+    ]
+  },
+  {
+    "paragraph": "The situation is perhaps not so bad, though, because on closer investiga-\ntion it appears that the distinction between elementary and composite par-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ticles cannot be made rigorous. To get an interpretation of some modern\nexperimental results one must suppose that particles can be created and anni-\nhilated. Thus if a particle is observed to come out from another particle, one\ncan no longer be sure that the latter is composite. The former may have been\ncreated. The distinction between elementary particles and composite particles\nnow becomes a matter of convenience. This reason alone is sufficient to\ncompel one to give up the attractive philosophical idea that all matter is\nmade up of one kind, or perhaps two kinds of bricks.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "This reason alone is sufficient to compel one to give up the attractive philosophical idea that all matter is made up of one kind, or perhaps two kinds of bricks.",
+        "Metaphorical phrase": "all matter is made up of one kind, or perhaps two kinds of bricks.",
+        "Type": "Structural",
+        "Conceptual Mapping": "Matter is constructed like a building"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "To get an interpretation of some modern experimental results one must suppose that particles can be created and annihilated.",
+        "terms_in_conflict": [
+          "interpretation of experimental results",
+          "creation and annihilation of particles"
+        ],
+        "explanation": "The paradox lies in the need to interpret experimental results based on the assumption that particles can be created and annihilated, which contradicts the traditional understanding of matter conservation."
+      },
+      {
+        "full_sentence": "The distinction between elementary particles and composite particles now becomes a matter of convenience.",
+        "terms_in_conflict": [
+          "distinction between elementary and composite particles",
+          "matter of convenience"
+        ],
+        "explanation": "The paradox here is that the distinction between elementary and composite particles, which should be a fundamental scientific classification, is reduced to a matter of convenience."
+      },
+      {
+        "full_sentence": "This reason alone is sufficient to compel one to give up the attractive philosophical idea that all matter is made up of one kind, or perhaps two kinds of bricks.",
+        "terms_in_conflict": [
+          "philosophical idea of matter composition",
+          "compulsion to give up the idea"
+        ],
+        "explanation": "The paradox is in the conflict between the philosophical idea that all matter is made up of one or two kinds of 'bricks' and the compulsion to abandon this idea due to the observed behavior of particles."
+      }
+    ]
+  },
+  {
+    "paragraph": "I should like here to discuss the simpler kinds of particles and to consider\nwhat can be inferred about them from purely theoretical arguments. The simpler\nkinds of particle are:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(i) the photons or light-quanta, of which light is composed;\n(ii) the electrons, and the recently discovered positrons (which appear to be",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a sort of mirror image of the electrons, differing from them only in the\nsign of their electric charge) ;\n(iii) the heavier particles - protons and neutrons.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "a sort of mirror image of the electrons, differing from them only in the sign of their electric charge",
+        "Metaphorical Phrase": "a sort of mirror image",
+        "Type": "Structural",
+        "Conceptual Mapping": "Particles are images"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 2 ---\nTHEORY OF ELECTRONS AND POSITRONS 321",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Of these, I shall deal almost entirely with the electrons and the positrons\n- not because they are the most interesting ones, but because in their case\nthe theory has been developed further. There is, in fact, hardly anything that\ncan be inferred theoretically about the properties of the others. The photons,\non the one hand, are so simple that they can easily be fitted into any theoret-\nical scheme, and the theory therefore does not put any restrictions on their\nproperties. The protons and neutrons, on the other hand, seem to be too\ncomplicated and no reliable basis for a theory of them has yet been dis-\ncovered.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The photons, on the one hand, are so simple that they can easily be fitted into any theoretical scheme, and the theory therefore does not put any restrictions on their properties.",
+        "Metaphorical phrase": "fitted into any theoretical scheme",
+        "Type": "Structural",
+        "Conceptual Mapping": "Photons are pieces in a puzzle"
+      },
+      {
+        "Full sentence": "The protons and neutrons, on the other hand, seem to be too complicated and no reliable basis for a theory of them has yet been discovered.",
+        "Metaphorical phrase": "too complicated and no reliable basis for a theory of them has yet been discovered",
+        "Type": "Structural",
+        "Conceptual Mapping": "Protons and neutrons are complex puzzles"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The photons, on the one hand, are so simple that they can easily be fitted into any theoretical scheme, and the theory therefore does not put any restrictions on their properties.",
+        "terms_in_conflict": [
+          "photons",
+          "theory"
+        ],
+        "explanation": "The paradox lies in the idea that the simplicity of photons allows them to fit into any theoretical scheme, yet this same simplicity means that the theory does not restrict their properties. This suggests a tension between the theory's ability to accommodate and yet not constrain the properties of photons."
+      },
+      {
+        "full_sentence": "The protons and neutrons, on the other hand, seem to be too complicated and no reliable basis for a theory of them has yet been discovered.",
+        "terms_in_conflict": [
+          "protons and neutrons",
+          "theory"
+        ],
+        "explanation": "The paradox here is that the complexity of protons and neutrons prevents a reliable theoretical basis from being established. This implies a contradiction between the inherent complexity of these particles and the ability of theory to account for them."
+      }
+    ]
+  },
+  {
+    "paragraph": "The question that we must first consider is how theory can give any in-\nformation at all about the properties of elementary particles. There exists\nat the present time a general quantum mechanics which can be used to de-\nscribe the motion of any kind of particle, no matter what its properties are.\nThe general quantum mechanics, however, is valid only when the particles\nhave small velocities and fails for velocities comparable with the velocity of\nlight, when effects of relativity come in. There exists no relativistic quantum\nmechanics (that is, one valid for large velocities) which can be applied to\nparticles with arbitrary properties. Thus when one subjects quantum me-\nchanics to relativistic requirements, one imposes restrictions on the proper-\nties of the particle. In this way one can deduce information about the particles\nfrom purely theoretical considerations, based on general physical principles.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Thus when one subjects quantum mechanics to relativistic requirements, one imposes restrictions on the properties of the particle.",
+        "Metaphorical Phrase": "subjects quantum mechanics to relativistic requirements",
+        "Type": "Structural",
+        "Conceptual Mapping": "Applying a theory to a system is like subjecting something to certain requirements"
+      },
+      {
+        "Full Sentence": "In this way one can deduce information about the particles from purely theoretical considerations, based on general physical principles.",
+        "Metaphorical Phrase": "deduce information about the particles from purely theoretical considerations",
+        "Type": "Structural",
+        "Conceptual Mapping": "Deriving information from theory is like deducing conclusions from evidence"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The general quantum mechanics, however, is valid only when the particles have small velocities and fails for velocities comparable with the velocity of light, when effects of relativity come in.",
+        "terms_in_conflict": [
+          "General quantum mechanics",
+          "Relativity"
+        ],
+        "explanation": "The paradox lies in the fact that general quantum mechanics, which is supposed to describe the motion of any kind of particle, fails when the particles have velocities comparable with the velocity of light, where the effects of relativity come into play."
+      },
+      {
+        "full_sentence": "There exists no relativistic quantum mechanics (that is, one valid for large velocities) which can be applied to particles with arbitrary properties.",
+        "terms_in_conflict": [
+          "Relativistic quantum mechanics",
+          "Particles with arbitrary properties"
+        ],
+        "explanation": "The paradox here is that while there is a need for a relativistic quantum mechanics to describe particles with high velocities, no such theory exists that can be applied to particles with arbitrary properties."
+      }
+    ]
+  },
+  {
+    "paragraph": "This procedure is successful in the case of electrons and positrons. It is to\nbe hoped that in the future some such procedure will be found for the case\nof the other particles. I should like here to outline the method for electrons\nand positrons, showing how one can deduce the spin properties of the elec-\ntron, and then how one can infer the existence of positrons with similar spin\nproperties and with the possibility of being annihilated in collisions with\nelectrons.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We begin with the equation connecting the kinetic energy W and mo-\nmentum pr(r = 1, 2, 3), of a particle in relativistic classical mechanics",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "From this we can get a wave equation of quantum mechanics, by letting the\nleft-hand side operate on the wave function wy and understanding W and pr",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "to be the operators ihd/@t and —ihd/@x;, With this understanding, the wave",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 3 ---\n322 1933 P. A. M. DIRAC\nw2\n[em pt — me yp=o\nNow it is a general requirement of quantum mechanics that its wave equa-\ntions shall be linear in the operator W or fet, so this equation will not do. We\nmust replace it by some equation linear in W, and in order that this equation\nmay have relativistic invariance it must also be linear in the p’s.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We are thus led to consider an equation of the type\nWw\nTT Pr — Home| py = 0",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This involves four new variables a and @, which are operators that can",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "operate on Y, We assume they satisfy the following conditions,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Oy? = I Opty + ayey = O\nfor\nwxyv and py =0,1,2,3",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "and also the ofs commute with the p’s and W. These special properties for\nthe ofs make Eq. (3) to a certain extent equivalent to Eq. (2), since if we\nthen multiply (3) on the left-hand side by We + OfPr + Home we get ex-\nactly (2).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The new variables 9, which we have to introduce to get a relativistic wave\nequation linear in W, give rise to the spin of the electron. From the general\nprinciples of quantum mechanics one can easily deduce that these variables a\ngive the electron a spin angular momentum of half a quantum and a mag-\nnetic moment of one Bohr magneton in the reverse direction to the angular\nmomentum. These results are in agreement with experiment. They were, in\nfact, first obtained from the experimental evidence provided-by spectros-\ncopy and afterwards confirmed by the theory,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The variables o also give rise to some rather unexpected phenomena con-\ncerning the motion of the electron. These have been fully worked out by\nSchrédinger. It is found that an electron which seems to us to be moving\nslowly, must actually have a very high frequency oscillatory motion of small\namplitude superposed on the regular motion which appears to us. As a result\nof this oscillatory motion, the velocity of the electron at any time equals the\nvelocity of light. This is a prediction which cannot be directly verified by",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "It is found that an electron which seems to us to be moving slowly, must actually have a very high frequency oscillatory motion of small amplitude superposed on the regular motion which appears to us.",
+        "terms_in_conflict": [
+          "moving slowly",
+          "very high frequency oscillatory motion"
+        ],
+        "explanation": "The paradox lies in the fact that an electron that appears to be moving slowly is actually undergoing a high frequency oscillatory motion. This is counterintuitive as high frequency motion is typically associated with high speed."
+      },
+      {
+        "full_sentence": "As a result of this oscillatory motion, the velocity of the electron at any time equals the velocity of light.",
+        "terms_in_conflict": [
+          "velocity of the electron",
+          "velocity of light"
+        ],
+        "explanation": "The paradox here is that the velocity of an electron, which is typically much slower, equals the velocity of light due to its oscillatory motion. This contradicts our understanding of the speed of light as the maximum possible speed in the universe."
+      }
+    ]
+  },
+  {
+    "paragraph": "experiment, since the frequency of the oscillatory motion is so high and its",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 4 ---\nTHEORY OF ELECTRONS AND POSITRONS 323",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "amplitude is so small. But one must believe in this consequence of the theory,\nsince other consequences of the theory which are inseparably bound up with\nthis one, such as the law of scattering of light by an electron, are confirmed\nby experiment.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "one must believe in this consequence of the theory, since other consequences of the theory which are inseparably bound up with this one",
+        "Metaphorical Phrase": "inseparably bound up",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theory consequences are things that can be bound together"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "There is one other feature of these equations which I should now like to\ndiscuss, a feature which led to the prediction of the positron. If one looks at\nEq. (1), one sees that it allows the kinetic energy W to be either a positive\nquantity greater than mc’ or a negative quantity less than - mc’. This result\nis preserved when one passes over to the quantum equation (2) or (3). These\nquantum equations are such that, when interpreted according to the general\nscheme of quantum dynamics, they allow as the possible results of a measure-\nment of Weither something greater than mc’or something less than - mc’.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "There is one other feature of these equations which I should now like to discuss, a feature which led to the prediction of the positron.",
+        "Metaphorical phrase": "feature which led to the prediction",
+        "Type": "Structural",
+        "Conceptual Mapping": "Features of an equation are pathways leading to discoveries"
+      },
+      {
+        "Full sentence": "These quantum equations are such that, when interpreted according to the general scheme of quantum dynamics, they allow as the possible results of a measurement of Weither something greater than mc’or something less than - mc’.",
+        "Metaphorical phrase": "equations...allow as the possible results",
+        "Type": "Structural",
+        "Conceptual Mapping": "Equations are gatekeepers controlling possible outcomes"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "If one looks at Eq. (1), one sees that it allows the kinetic energy W to be either a positive quantity greater than mc’ or a negative quantity less than - mc’.",
+        "terms_in_conflict": [
+          "kinetic energy",
+          "positive quantity",
+          "negative quantity"
+        ],
+        "explanation": "The paradox lies in the concept of kinetic energy being either a positive or a negative quantity. In classical physics, kinetic energy, being a measure of an object's motion, is always a non-negative quantity. The idea of negative kinetic energy contradicts this fundamental understanding."
+      }
+    ]
+  },
+  {
+    "paragraph": "Now in practice the kinetic energy of a particle is always positive. We\nthus see that our equations allow of two kinds of motion for an electron, only\none of which corresponds to what we are familiar with. The other corre-\nsponds to electrons with a very peculiar motion such that the faster they\nmove, the less energy they have, and one must put energy into them to bring\nthem to rest.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The other corresponds to electrons with a very peculiar motion such that the faster they move, the less energy they have, and one must put energy into them to bring them to rest.",
+        "Metaphorical Phrase": "one must put energy into them to bring them to rest",
+        "Type": "Structural",
+        "Conceptual Mapping": "Adding energy to a system is like pushing an object to stop its motion"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The other corresponds to electrons with a very peculiar motion such that the faster they move, the less energy they have, and one must put energy into them to bring them to rest.",
+        "terms_in_conflict": [
+          "faster motion",
+          "less energy"
+        ],
+        "explanation": "This is a paradox because in classical physics, the kinetic energy of a particle increases with its speed. However, the authors describe a situation where the faster the electrons move, the less energy they have, which contradicts the traditional understanding of kinetic energy."
+      }
+    ]
+  },
+  {
+    "paragraph": "One would thus be inclined to introduce, as a new assumption of the\ntheory, that only one of the two kinds of motion occurs in practice. But this\ngives rise to a difficulty, since we find from the theory that if we disturb\nthe electron, we may cause a transition from a positive-energy state of mo-\ntion to a negative-energy one, so that, even if we suppose all the electrons\nin the world to be started off in positive-energy states, after a time some of\nthem would be in negative-energy states.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "One would thus be inclined to introduce, as a new assumption of the theory, that only one of the two kinds of motion occurs in practice.",
+        "Metaphorical Phrase": "One would thus be inclined to introduce",
+        "Type": "Structural",
+        "Conceptual Mapping": "Introducing a theory is like introducing a person or thing"
+      },
+      {
+        "Full Sentence": "But this gives rise to a difficulty, since we find from the theory that if we disturb the electron, we may cause a transition from a positive-energy state of motion to a negative-energy one",
+        "Metaphorical Phrase": "this gives rise to a difficulty",
+        "Type": "Structural",
+        "Conceptual Mapping": "A problem is like a physical obstacle that rises"
+      },
+      {
+        "Full Sentence": "But this gives rise to a difficulty, since we find from the theory that if we disturb the electron, we may cause a transition from a positive-energy state of motion to a negative-energy one",
+        "Metaphorical Phrase": "we may cause a transition",
+        "Type": "Structural",
+        "Conceptual Mapping": "Change in state is like a physical movement from one place to another"
+      },
+      {
+        "Full Sentence": "so that, even if we suppose all the electrons in the world to be started off in positive-energy states, after a time some of them would be in negative-energy states.",
+        "Metaphorical Phrase": "started off",
+        "Type": "Structural",
+        "Conceptual Mapping": "Initiating a process is like beginning a journey"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "One would thus be inclined to introduce, as a new assumption of the theory, that only one of the two kinds of motion occurs in practice.",
+        "terms_in_conflict": [
+          "new assumption",
+          "two kinds of motion"
+        ],
+        "explanation": "The author suggests introducing a new assumption that only one type of motion occurs, which contradicts the existing understanding that there are two kinds of motion."
+      },
+      {
+        "full_sentence": "But this gives rise to a difficulty, since we find from the theory that if we disturb the electron, we may cause a transition from a positive-energy state of motion to a negative-energy one, so that, even if we suppose all the electrons in the world to be started off in positive-energy states, after a time some of them would be in negative-energy states.",
+        "terms_in_conflict": [
+          "positive-energy state of motion",
+          "negative-energy state of motion"
+        ],
+        "explanation": "The author points out a paradox that even if all electrons start in a positive-energy state, they can transition to a negative-energy state when disturbed, contradicting the proposed assumption that only one kind of motion occurs."
+      }
+    ]
+  },
+  {
+    "paragraph": "Thus in allowing negative-energy states, the theory gives something which\nappears not to correspond to anything known experimentally, but which we\ncannot simply reject by a new assumption. We must find some meaning for\nthese states.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Thus in allowing negative-energy states, the theory gives something which appears not to correspond to anything known experimentally, but which we cannot simply reject by a new assumption.",
+        "Metaphorical Phrase": "the theory gives something",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theory is a provider"
+      },
+      {
+        "Full Sentence": "We must find some meaning for these states.",
+        "Metaphorical Phrase": "find some meaning",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding is a search"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Thus in allowing negative-energy states, the theory gives something which appears not to correspond to anything known experimentally, but which we cannot simply reject by a new assumption.",
+        "terms_in_conflict": [
+          "Negative-energy states",
+          "Experimental evidence"
+        ],
+        "explanation": "The paradox lies in the fact that the theory allows for negative-energy states, which do not correspond to any known experimental evidence, yet these states cannot be simply dismissed by a new assumption. This creates a tension between theoretical possibility and empirical validation."
+      }
+    ]
+  },
+  {
+    "paragraph": "An examination of the behaviour of these states in an electromagnetic field\nshows that they correspond to the motion of an electron with a positive\ncharge instead of the usual negative one - what the experimenters now call\na positron. One might, therefore, be inclined to assume that electrons in\nnegative-energy states are just positrons, but this will not do, because the\nobserved positrons certainly do not have negative energies. We can, how-\never, establish ‘a connection between electrons in negative-energy states and\npositrons, in a rather more indirect way.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "One might, therefore, be inclined to assume that electrons in negative-energy states are just positrons, but this will not do, because the observed positrons certainly do not have negative energies.",
+        "terms_in_conflict": [
+          "electrons in negative-energy states",
+          "positrons"
+        ],
+        "explanation": "The paradox arises from the fact that electrons in negative-energy states behave like positrons in an electromagnetic field, suggesting they might be the same. However, this is contradicted by the observation that positrons do not have negative energies."
+      }
+    ]
+  },
+  {
+    "paragraph": "We make use of the exclusion principle of Pauli, according to which",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 5 ---\n324 1933 P.A.M.DIRAC",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "there can be only one electron in any state of motion. We now make the\nassumptions that in the world as we know it, nearly all the states of negative\nenergy for the electrons are occupied, with just one electron in each state,\nand that a uniform filling of all the negative-energy states is completely un-\nobservable to us. Further, any unoccupied negative-energy state, being a departure\nfrom uniformity, is observable and is just a positron.\nAn unoccupied negative-energy state, or hole, as we may call it for brevity,\nwill have a positive energy, since it is a place where there is a shortage of\nnegative energy. A hole is, in fact, just like an ordinary particle, and its\nidentification with the positron seems the most reasonable way of getting\nover the difficulty of the appearance of negative energies in our equations.\nOn this view the positron is just a mirror-image of the electron, having\nexactly the same mass and opposite charge. This has already been roughly\nconfirmed by experiment. The positron should also have similar spin prop-\nerties to the electron, but this has not yet been confirmed by experiment.\nFrom our theoretical picture, we should expect an ordinary electron, with\npositive energy, to be able to drop into a hole and fill up this hole, the energy\nbeing liberated in the form of electromagnetic radiation. This would mean\na process in which an electron and a positron annihilate one another. The\nconverse process, namely the creation of an electron and a positron from\nelectromagnetic radiation, should also be able to take place. Such processes\nappear to have been found experimentally, and are at present being more\nclosely investigated by experimenters.\nThe theory of electrons and positrons which I have just outlined is a self-\nconsistent theory which fits the experimental facts so far as is yet known.\nOne would like to have an equally satisfactory theory for protons. One\nmight perhaps think that the same theory could be applied to protons. This\nwould require the possibility of existence of negatively charged protons\norming a mirror-image of the usual positively charged ones. There is, how-\never, some recent experimental evidence obtained by Stern about the spin\nmagnetic moment of the proton, which conflicts with this theory for the\nproton. As the proton is so much heavier than the electron, it is quite likely\nhat it requires some more complicated theory, though one cannot at the\npresent time say what this theory is.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "An unoccupied negative-energy state, or hole, as we may call it for brevity, will have a positive energy, since it is a place where there is a shortage of negative energy.",
+        "Metaphorical Phrase": "hole",
+        "Type": "Structural",
+        "Conceptual Mapping": "Unoccupied negative-energy state is a hole"
+      },
+      {
+        "Full Sentence": "On this view the positron is just a mirror-image of the electron, having exactly the same mass and opposite charge.",
+        "Metaphorical Phrase": "mirror-image",
+        "Type": "Structural",
+        "Conceptual Mapping": "Positron is a mirror-image of the electron"
+      },
+      {
+        "Full Sentence": "From our theoretical picture, we should expect an ordinary electron, with positive energy, to be able to drop into a hole and fill up this hole, the energy being liberated in the form of electromagnetic radiation.",
+        "Metaphorical Phrase": "drop into a hole and fill up this hole",
+        "Type": "Structural",
+        "Conceptual Mapping": "Electron interacting with unoccupied negative-energy state is like dropping into and filling up a hole"
+      },
+      {
+        "Full Sentence": "This would mean a process in which an electron and a positron annihilate one another.",
+        "Metaphorical Phrase": "annihilate one another",
+        "Type": "Structural",
+        "Conceptual Mapping": "Interaction of an electron and a positron is like annihilation"
+      },
+      {
+        "Full Sentence": "The converse process, namely the creation of an electron and a positron from electromagnetic radiation, should also be able to take place.",
+        "Metaphorical Phrase": "creation",
+        "Type": "Structural",
+        "Conceptual Mapping": "Emergence of an electron and a positron from electromagnetic radiation is like creation"
+      }
+    ],
+    "paradoxes": [
+      {
+        "Full sentence": "An unoccupied negative-energy state, or hole, as we may call it for brevity, will have a positive energy, since it is a place where there is a shortage of negative energy.",
+        "Terms/concepts in conflict": [
+          "unoccupied negative-energy state",
+          "positive energy"
+        ],
+        "Short explanation of the paradox": "The paradox lies in the concept that an unoccupied negative-energy state, which by definition should have negative energy, is described as having positive energy due to a shortage of negative energy."
+      },
+      {
+        "Full sentence": "On this view the positron is just a mirror-image of the electron, having exactly the same mass and opposite charge.",
+        "Terms/concepts in conflict": [
+          "mirror-image",
+          "opposite charge"
+        ],
+        "Short explanation of the paradox": "The paradox arises from the idea that the positron is a mirror-image of the electron, which implies similarity, yet it has an opposite charge, which implies difference."
+      },
+      {
+        "Full sentence": "One might perhaps think that the same theory could be applied to protons. This would require the possibility of existence of negatively charged protons forming a mirror-image of the usual positively charged ones.",
+        "Terms/concepts in conflict": [
+          "same theory",
+          "negatively charged protons"
+        ],
+        "Short explanation of the paradox": "The paradox here is that the same theory that applies to electrons and positrons, which are oppositely charged, is suggested to apply to protons, which would require the existence of negatively charged protons, contradicting the known positive charge of protons."
+      }
+    ]
+  },
+  {
+    "paragraph": "In any case I think it is probable that negative protons can exist, since as\n‘ar as the theory is yet definite, there is a complete and perfect symmetry",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "In any case I think it is probable that negative protons can exist, since as ‘ar as the theory is yet definite, there is a complete and perfect symmetry",
+        "Metaphorical phrase": "there is a complete and perfect symmetry",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theory is a symmetric object"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "between positive and negative electric charge, and if this symmetry is really\nfundamental in nature, it must be possible to reverse the charge on any kind",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "between positive and negative electric charge, and if this symmetry is really fundamental in nature, it must be possible to reverse the charge on any kind",
+        "Metaphorical Phrase": "reverse the charge",
+        "Type": "Structural",
+        "Conceptual Mapping": "Changing charge is like reversing direction"
+      },
+      {
+        "Full Sentence": "between positive and negative electric charge, and if this symmetry is really fundamental in nature, it must be possible to reverse the charge on any kind",
+        "Metaphorical Phrase": "symmetry is really fundamental in nature",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Symmetry is a fundamental building block"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 6 ---\nTHEORY OF ELECTRONS AND POSITIONS 325",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "of particle. The negative protons would of course be much harder to pro-\nduce experimentally, since a much larger energy would be required, corre-\nsponding to the larger mass.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "The negative protons would of course be much harder to produce experimentally, since a much larger energy would be required, corresponding to the larger mass.",
+        "terms_in_conflict": [
+          "negative protons",
+          "larger mass"
+        ],
+        "explanation": "The paradox lies in the concept of 'negative protons' having a 'larger mass'. In reality, protons, whether they are negative or positive, have the same mass. The contradiction arises from the assertion that a negative proton would have a larger mass and thus require more energy to produce."
+      }
+    ]
+  },
+  {
+    "paragraph": "If we accept the view of complete symmetry between positive and nega-\ntive electric charge so far as concerns the fundamental laws of Nature, we\nmust regard it rather as an accident that the Earth (and presumably the\nwhole solar system), contains a preponderance of negative electrons and\npositive protons. It is quite possible that for some of the stars it is the other\nway about, these stars being built up mainly of positrons and negative pro-\ntons. In fact, there may be half the stars of each kind. The two kinds of stars\nwould both show exactly the same spectra, and there would be no way\nof distinguishing them by present astronomical methods.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "If we accept the view of complete symmetry between positive and negative electric charge so far as concerns the fundamental laws of Nature, we must regard it rather as an accident that the Earth (and presumably the whole solar system), contains a preponderance of negative electrons and positive protons.",
+        "Metaphorical Phrase": "regard it rather as an accident",
+        "Type": "Structural",
+        "Conceptual Mapping": "The distribution of electric charges is an accident"
+      },
+      {
+        "Full Sentence": "The two kinds of stars would both show exactly the same spectra, and there would be no way of distinguishing them by present astronomical methods.",
+        "Metaphorical Phrase": "there would be no way of distinguishing them",
+        "Type": "Structural",
+        "Conceptual Mapping": "Distinguishing different stars is a path to follow"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "If we accept the view of complete symmetry between positive and negative electric charge so far as concerns the fundamental laws of Nature, we must regard it rather as an accident that the Earth (and presumably the whole solar system), contains a preponderance of negative electrons and positive protons.",
+        "terms_in_conflict": [
+          "complete symmetry between positive and negative electric charge",
+          "preponderance of negative electrons and positive protons"
+        ],
+        "explanation": "The paradox lies in the assertion of complete symmetry between positive and negative charges, while simultaneously acknowledging an imbalance in the distribution of these charges in the Earth and solar system."
+      },
+      {
+        "full_sentence": "The two kinds of stars would both show exactly the same spectra, and there would be no way of distinguishing them by present astronomical methods.",
+        "terms_in_conflict": [
+          "two kinds of stars",
+          "show exactly the same spectra"
+        ],
+        "explanation": "The paradox here is the assertion that there are two distinct types of stars, yet they are indistinguishable by their spectra, which contradicts the notion of them being different."
+      }
+    ]
+  }
+]

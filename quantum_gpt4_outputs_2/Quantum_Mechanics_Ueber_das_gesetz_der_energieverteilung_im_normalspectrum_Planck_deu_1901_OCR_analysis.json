@@ -1,0 +1,606 @@
+[
+  {
+    "paragraph": "--- Page 1 ---\nAnnalen der Physik 309 (1901)553",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "9. Ueber das Gesetz\nder Energieverteilung im Normalspectrum;\nvon Max Planck.\n(In anderer Form mitgeteilt in der Deutschen Physikalischen Gesellschaft,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sitzung vom 19. October und vom 14. December 1900, Verhandlungen\n2. p. 202 und p. 237. 1900.)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die neueren Spectralmessungen von 0. Lummer und\nE. Pringsheim!) und noch auffälliger diejenigen von\nH. Rubens und F. Kurlbaum?), welche zugleich ein früher\nvon H. Beckmann?) erhaltenes Resultat bestätigten, haben\ngezeigt, dass das zuerst von W. Wien aus molecularkinetischen\nBetrachtungen und später von mir aus der Theorie der elektro-\nmagnetischen Strahlung abgeleitete Gesetz der Energieverteilung\nim Normalspectrum keine allgemeine Gültigkeit besitzt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Theorie bedarf also in jedem Falle einer Verbesserung,\nund ich will im Folgenden den Versuch machen, eine solche\nauf der Grundlage der von mir entwickelten Theorie der\nelektromagnetischen Strahlung durchzuführen. Dazu wird es\nvor allem nötig sein, in der Reihe der Schlussfolgerungen,\nwelche zum Wien’schen Energieverteilungsgesetz führten, das-\njenige Glied ausfindig zu machen, welches einer Abänderung\nfähig ist; sodann aber wird es sich darum handeln, dieses\nGlied aus der Reihe zu entfernen und einen geeigneten Ersatz\ndafür zu schaffen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Dass die physikalischen Grundlagen der elektromagnetischen\nStrahlungstheorie, einschliesslich der Hypothese der „natür-\nlichen Strahlung“, auch einer geschärften Kritik gegenüber\nStand halten, habe ich in meinem letzten Aufsatz*) über diesen",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) O. Lummer u. E. Pringsheim, Verhandl. der Deutsch. Physikal.\nGesellsch. 2. p. 163. 1900.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2) H. Rubens und F. Kuribaum, Sitzungsber. d. k. Akad. d.\nWissensch. zu Berlin vom 25. October 1900, p. 929.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "3) H. Beckmann, Inaug.-Dissertation, Tübingen 1898. Vgl. auch\nH. Rubens, Wied. Ann. 69. p. 582. 1899.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "4) M. Planck, Aun. d. Phys. 1. p. 719. 1900.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Annalon der Physik. IV. Folge. 4. 36",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Gegenstand dargelegt; und da auch die Rechnungen meines\nWissens keinen Fehler enthalten, so bleibt auch der Satz be-\nstehen, dass das Gesetz der Energieverteilung im Normal-\nspectrum vollkommen bestimmt ist, wenn es gelingt, die\nEntropie $ eines bestrahlten, monochromatisch schwingenden\nResonators als Function seiner Schwingungsenergie U zu be-\nrechnen. Denn dann erhält man aus der Beziehung d$/4U=1/9\ndie Abhängigkeit der Energie U von der Temperatur 9, und\nda andererseits die Energie U durch eine einfache Beziehung’)\nmit der Strahlungsdichte der entsprechenden Schwingungszahl\nverknüpft ist, auch die Abhängigkeit dieser Strahlungsdichte\nvon der Temperatur. Die normale Energieverteilung ist dann\ndiejenige, bei welcher die Strahlungsdichten aller verschiedenen\nSchwingungszahlen die nämliche Temperatur besitzen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Somit redueirt sich das ganze Problem auf die eine Auf-\ngabe, S als Function von U zu bestimmen, und der Lösung\ndieser Aufgabe ist auch der wesentlichste Teil der folgenden\nUntersuchung gewidmet. In meiner ersten Abhandlung über\ndiesen Gegenstand hatte ich $ direct durch Definition, ohne\nweitere Begründung, als einen einfachen Ausdruck von U hin-\ngestellt, und mich damit begnügt nachzuweisen, dass diese\nForm der Entropie allen Anforderungen, welche die Thermo-\ndynamik an sie stellt, Genüge leistet. Ich glaubte damals,\ndass sie auch die einzige ihrer Art sei, und dass somit das\nWien’sche Gesetz, welches aus ihr folgt, notwendig allgemeine\nGültigkeit besitze. Bei einer späteren näheren Untersuchung?)\nzeigte sich mir indessen, dass es auch noch andere Ausdrücke\ngeben muss, welche dasselbe leisten, und dass es deshalb\njedenfalls noch einer weiteren Bedingung bedarf, um $ ein-\ndeutig berechnen zu können. Eine solche Bedingung glaubte\nich gefunden zu haben in dem mir damals unmittelbar plau-\nsibel scheinenden Satz, dass bei einer unendlich kleinen\nirreversibeln Aenderung eines nahezu im thermischen Gleich-\ngewicht befindlichen Systems von N gleichbeschaffenen, im\nnämlichen stationären Strahlungsfeld befindlichen Resonatoren\ndie damit verbundene Vermehrung ihrer Gesamtentropie $y= N 8",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Vgl. unten Gleichung (8).\n2) M. Planck, L. e, p. 730 f.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 3 ---\nTesetz der Energieverteilung im Normalspectrum. 555",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "nur abhängt von ihrer Gesamtenergie Uy= NU und deren\nAenderungen, nicht aber von der Energie U der einzelnen\nResonatoren. Dieser Satz führt wiederum mit Notwendigkeit\nzum Wien’schen Energieverteilungsgesetz. Da nun aber\nletzteres durch die Erfahrung nicht bestätigt wird, so ist man\nzu dem Schlusse gezwungen, dass auch jener Satz in seiner\nAllgemeinheit nicht richtig sein kann und daher aus der Theorie\nzu entfernen ist.!)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es muss also nun eine andere Bedingung eingeführt\nwerden, welche die Berechnung von $ gestattet, und um dies\nzu bewerkstelligen, ist ein näheres Eingehen auf die Bedeutung\ndes Entropiebegriffes notwendig. Für die Richtung des dabei\neinzuschlagenden Gedankenganges giebt der Hinblick auf die\nUnhaltbarkeit der früher gemachten Voraussetzung einen Finger-\nzeig. Im Folgenden wird nun ein Weg beschrieben, auf dem sich\nein neuer einfacher Ausdruck der Entropie und damit auch eine\nneue Strahlungsformel ergiebt, welche mit keiner der bisher\nfestgestellten Thatsachen in Widerspruch zu stehen scheint.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Im Folgenden wird nun ein Weg beschrieben, auf dem sich ein neuer einfacher Ausdruck der Entropie und damit auch eine neue Strahlungsformel ergiebt, welche mit keiner der bisher festgestellten Thatsachen in Widerspruch zu stehen scheint.",
+        "Bildhafter Ausdruck": "ein Weg beschrieben",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Der wissenschaftliche Prozess zur Entwicklung neuer Theorien wird als Weg dargestellt."
+      },
+      {
+        "Satz": "Für die Richtung des dabei einzuschlagenden Gedankenganges giebt der Hinblick auf die Unhaltbarkeit der früher gemachten Voraussetzung einen Fingerzeig.",
+        "Bildhafter Ausdruck": "einzuschlagenden Gedankenganges",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Der Prozess des Denkens wird als Pfad oder Weg dargestellt."
+      },
+      {
+        "Satz": "Für die Richtung des dabei einzuschlagenden Gedankenganges giebt der Hinblick auf die Unhaltbarkeit der früher gemachten Voraussetzung einen Fingerzeig.",
+        "Bildhafter Ausdruck": "einen Fingerzeig",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Hinweise oder Anhaltspunkte in der Wissenschaft werden als physische Zeichen dargestellt."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "I. Berechnung der Entropie eines Resonators als Function\nseiner Energie.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "& 1. Entropie bedingt Unordnung, und diese Unordnung\nberuht nach der elektromagnetischen Strahlungstheorie bei den\nmonochromatischen Schwingungen eines Resonators, auch wenn\ner sich in einem dauernd stationären Strahlungsfelde befindet,\nin der Unregelmässigkeit, mit der er beständig seine Amplitude\nund seine Phase wechselt, sofern man Zeitepochen betrachtet,\nwelche gross sind gegen die Zeit einer Schwingung, aber klein\ngegen die Zeit einer Messung. Wäre Amplitude und Phase\nabsolut constant, also die Schwingungen vollkommen homogen,\nso könnte keine Entropie existiren und die Schwingungsenergie\nmüsste vollkommen frei in Arbeit verwandelbar sein. Die\nconstante Energie U eines einzelnen stationär schwingenden\nResonators ist danach nur als ein zeitlicher Mittelwert auf-\nzufassen, oder, was ganz auf dasselbe hinauskommt, als der\ngleichzeitige Mittelwert der Energien einer grossen Anzahl N",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Man vergleiche hierzu die Kritiken, die dieser Satz bereits ge-\nfunden hat: von W. Wien (Rapport für den Pariser Congress 2. p. 40.\n1900) und von O0. Lummer (l. e. 2. p. 92. 1900).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "von gleichbeschaffenen Resonatoren, die sich in dem nämlichen\nstationären Strahlungsfelde befinden, weit genug voneinander\nentfernt, um sich nicht gegenseitig direct zu beeinflussen. In\ndiesem Sinne wollen wir künftig von der mittleren Energie U\neines einzelnen Resonators sprechen. Dann entspricht der ge-\nsamten Energie",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "eines solchen Systems von N Resonatoren eine gewisse Ge-\nsamtentropie",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "desselben Systems, wobei 8 die mittlere Entropie eines einzelnen\nResonators darstellt, und diese Entropie Sy beruht auf der\nUnordnung, mit der sich die gesamte Energie U, auf die\neinzelnen Resonatoren verteilt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$ 2. Wir setzen nun die Entropie $, des Systems, bis\nauf eine willkürlich bleibende additive Constante, proportional\ndem Logarithmus der Wahrscheinlichkeit # dafür, dass die\nN Resonatoren insgesamt die Energie U, besitzen, also:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Diese Festsetzung kommt nach meiner Meinung im Grunde\nauf eine Definition der genannten Wahrscheinlichkeit W hinaus;\ndenn wir besitzen in den Voraussetzungen, welche der elektro-\nmagnetischen Theorie der Strahlung zu Grunde liegen, gar\nkeinen Anhaltspunkt, um von einer solchen Wahrscheinlichkeit\nin einem bestimmten Sinne zu reden. Für die Zweckmässig-\nkeit der so getroffenen Festsetzung lässt sich von vornherein\nihre Einfachheit und ihre nahe Verwandtschaft mit einem\nSatze der kinetischen Gastheorie!) anführen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "& 3. Es kommt nun darauf an, die Wahrscheinlichkeit W\ndafür zu finden, dass die N Resonatoren insgesamt die Schwin-\ngungsenergie Uy besitzen. Hierzu ist es notwendig, Uy nicht\nals eine stetige, unbeschränkt teilbare, sondern als eine dis-\ncrete, aus einer ganzen Zahl von endlichen gleichen Teilen\nzusammengesetzte Grösse aufzufassen. Nennen wir einen solchen\nTeil ein Energieelement &, so ist mithin zu setzen:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) L. Boltzmann, Sitzungsber. d. k. Akad. d. Wissensch. zu Wien\n(U) 76. p. 428, 1877,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 5 ---\nGesetz der Energieverteilung im Normalspectrum. 557",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wobei P eine ganze, im allgemeinen grosse Zahl bedeutet,\nwährend wir den Wert von e noch dahingestellt sein lassen.\nNun ist einleuchtend, dass die Verteilung der P Energie-\nelemente auf die N Resonatoren nur auf eine endliche ganz\nbestimmte Anzahl von Arten erfolgen kann. Jede solche Art\nder Verteilung nennen wir nach einem von L. Boltzmann für\neinen ähnlichen Begriff gebrauchten Ausdruck eine „Complexion“.\nBezeichnet man die Resonatoren mit den Ziffern 1,2,8... N,\nschreibt diese der Reihe nach nebeneinander und setzt unter\njeden Resonator die Anzahl der bei irgend einer willkürlich\nvorgenommenen Verteilung auf ihn entfallenden Kinergie-\nelemente, so erhält man für jede Complexion ein Symbol von\nfolgender Form:\nN 2 3 4 5 6 7 8 9 10\ni 38 u 0 9 2 20 4 4 E]",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hier ist N=10, P=100 angenommen. Die Anzahl 9: aller\nmöglichen Complexionen ist offenbar gleich der Anzahl aller\nmöglichen Ziffernbilder, die man auf diese Weise, bei be-\nstimmtem N und P, für die untere Reihe erhalten kann. Der\nDeutlichkeit halber sei noch bemerkt, dass zwei Complexionen\nals verschieden anzusehen sind, wenn die entsprechenden\nZiffernbilder dieselben Ziffern, aber in verschiedener An-\nordnung, enthalten.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Aus der Combinationslehre ergiebt sich so die Anzahl\naller möglichen Complexionen zu",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ro NAN+DAN+D...(N+P-N = N+HPon!,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nun ist nach dem Stirling’schen Satze in erster An-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "folglich in entsprechender Annäherung",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "& 4. Die Hypothese, welche wir jetzt der weiteren Rech-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "nung zu Grunde legen wollen, lautet folgendermaassen: Die",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wahrscheinlichkeit W dafür, dass die N Resonatoren insgesamt",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "die Schwingungsenergie U, besitzen, ist proportional der An-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "zahl % aller bei der Verteilung der Energie U auf die N Re-\nsonatoren möglichen Complexionen; oder mit anderen Worten:\nirgend eine bestimmte Complexion ist ebenso wahrscheinlich,\nwie irgend eine andere bestimmte Complexion. Ob diese Hypo-\nthese in der Natur wirklich zutrifft, kann in letzter Linie nur\ndurch die Erfahrung geprüft werden. Dafür wird es aber\numgekehrt möglich sein, falls die Erfahrung einmal zu ihren\nGunsten entschieden haben sollte, aus der Gültigkeit dieser\nHypothese weitere Schlüsse zu ziehen auf die speciellere Natur\nder Resonatorschwingungen, nämlich auf den Charakter der dabei\nauftretenden ‚„indifferenten und ihrer Grösse nach vergleich-\nbaren ursprünglichen Spielräume“, in der Ausdrucksweise von\nJ. v. Kries.!) Bei dem jetzigen Stande der Frage dürfte\nallerdings ein weiteres Beschreiten dieses Gedankenganges noch\nverfrüht erscheinen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "& 5. Nach der eingeführten Hypothese in Verbindung\nmit Gleichung (3) ist die Entropie des betrachteten Systems\nvon Resonatoren bei passender Bestimmung der additiven\nConstanten:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "6) | Sy= klogR\n= kXN + Pylog(N + P}— NlogN — Plog P}\nund mit Berücksichtigung von (4) und (1):",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Also nach (2) die Entropie 8 eines Resonators als Function\nseiner Energie U:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(6) S=allt+ D)tog(1+ 9) Eiog dl.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "II. Einführung des Wien’schen Verschiebungsgesetzes.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8 6. Nächst dem Kirchhoff’schen Satz von der Pro-\nportionalität des Emissions- und des Absorptionsvermögens\nbildet das von W. Wien?) entdeckte und nach ihm benannte",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Joh. v. Kries, Die Prineipien der Wahischeinlichkeitsrechnung\np. 36. Freiburg 1886.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2) W. Wien, Sitzungsber. d. k. Akad, d. Wissensch. zu Berlin vom\n9. Febr. 1893. p. 55.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 7 ---\nGesetz der Energieverteilung im Normalspectrum. 559",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "sogenannte Verschiebungsgesetz, welches das Stefan-Boltz-\nmann’sche Gesetz der Abhängigkeit der Gesamtstrahlung von\nder Temperatur als specielle Anwendung mit umfasst, in dem\nfest begründeten Fundament der Theorie der Wärmestrahlung\nden wertvollsten Bestandteil. Es lautet in der ihm von\nM. Thiesen!) gegebenen Fassung:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wo A die Wellenlänge, #dA die räumliche Dichte der dem\nSpectralbezirk A bis A + dA angehörenden „schwarzen“ Strah-\nlung?), # die Temperatur, und (x) eine gewisse Function des\neinzigen Arguments z bezeichnet.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8 7. Wir wollen nun untersuchen, was das Wien’sche\nVerschiebungsgesetz über die Abhängigkeit der Entropie $\nunseres Resonators von seiner Energie U und seiner Eigen-\nperiode aussagt, und zwar gleich in dem allgemeinen Falle,\ndass der Resonator sich in einem beliebigen diathermanen\nMedium befindet. Zu diesem Zwecke verallgemeinern wir zu-\nnächst die Thiesen’sche Form des Gesetzes auf die Strahlung\nin einem beliebigen diathermanen Medium mit der Lichtfort-\npflanzungsgeschwindigkeit e. Da wir nicht die Gesamtstrahlung,\nsondern monochromatische Strahlung zu betrachten haben, so\nwird es beim Vergleich verschiedener diathermaner Medien\nnötig, statt der Wellenlänge A die Schwingungszahl » ein-\nzuführen.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Wir wollen nun untersuchen, was das Wien’sche Verschiebungsgesetz über die Abhängigkeit der Entropie $ unseres Resonators von seiner Energie U und seiner Eigenperiode aussagt",
+        "Bildhafter Ausdruck": "das Wien’sche Verschiebungsgesetz",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Das Gesetz wird als Mittel zur Untersuchung der Abhängigkeiten innerhalb des Systems dargestellt"
+      },
+      {
+        "Satz": "dass der Resonator sich in einem beliebigen diathermanen Medium befindet",
+        "Bildhafter Ausdruck": "Resonator sich in einem Medium befindet",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Der Resonator und das Medium werden als physische Orte oder Objekte dargestellt, um die Interaktion zwischen ihnen zu erklären"
+      },
+      {
+        "Satz": "Zu diesem Zwecke verallgemeinern wir zunächst die Thiesen’sche Form des Gesetzes auf die Strahlung in einem beliebigen diathermanen Medium mit der Lichtfortpflanzungsgeschwindigkeit e",
+        "Bildhafter Ausdruck": "Thiesen’sche Form des Gesetzes",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Das Gesetz wird als eine Form dargestellt, die verändert oder angepasst werden kann, um verschiedene Situationen zu behandeln"
+      },
+      {
+        "Satz": "wird es beim Vergleich verschiedener diathermaner Medien nötig, statt der Wellenlänge A die Schwingungszahl » einzuführen",
+        "Bildhafter Ausdruck": "Schwingungszahl » einzuführen",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Einführung der Schwingungszahl wird als eine Handlung dargestellt, um die Notwendigkeit ihrer Berücksichtigung in der Analyse zu betonen"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Bezeichnen wir also die räumliche Dichte der dem Spectral-\nbezirk » bis » + dv angehörenden strahlenden Ennergie mit ud,\nso ist zu schreiben: ud» statt Zd2, c/v statt A, und cdv/»?\nstatt dA. Dadurch ergiebt sich:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nun ist nach dem bekannten Kirchhoff-Clausius’scheun\nGesetz die von einer schwarzen Fläche pro Zeiteinheit in ein\ndiathermanes Medium emittirte Energie von bestimmter Trem-\nperatur 9 und bestimmter Schwingungszahl » umgekehrt pro-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) M. Thiesen, Verhandl. d. Deutsch. Phys. Gesellsch. 2, p. 66. 1900.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2) Man könnte vielleicht noch passender von einer „weissen‘\nStrahlung sprechen, in sachgemässer Verallgemeinerung dessen, was man\nschon jetzt unter vollkommen weissem Licht versteht.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Man könnte vielleicht noch passender von einer „weissen‘ Strahlung sprechen, in sachgemässer Verallgemeinerung dessen, was man schon jetzt unter vollkommen weissem Licht versteht.",
+        "Bildhafter Ausdruck": "weisse Strahlung",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Metapher 'weiße Strahlung' stellt ein komplexes physikalisches Konzept dar und bezieht sich auf eine Strahlung, die alle Frequenzen oder Wellenlängen gleichmäßig enthält - ähnlich wie weißes Licht, das alle Farben des Lichtspektrums kombiniert."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "portional dem Quadrate c? der Fortpflanzungsgeschwindigkeit;\nalso ist die räumliche Energiedichte u umgekehrt proportional",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "c?, und wir erhalten:\nba 3\n= Era z)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wobei die Oonstanten der Function f von ce unabhängig sind.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Statt dessen können wir auch schreiben, wenn f jedesmal,\nauch im Folgenden, eine neue Function eines einzigen Arguments\nbezeichnet: j",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "y b\n0) = ar(&)\nund ersehen unter anderem daraus, wie bekannt, dass die iu\ndem Cubus einer Wellenlänge enthaltene strahlende Energie\nvon bestimmter Temperatur und Schwingungszahl: ı 4° für alle\ndiathermanen Medien dieselbe ist.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "88. Um nun von der räumlichen Strahlungsdichte u zur\nEnergie U eines in dem Strahlungsfelde befindlichen, stationär\nmitschwingenden Resonators mit der nämlichen Schwingungs-\nzahl » überzugehen, benutzen wir die in Gleichung (34) meiner\nAbhandlung über irreversible Strahlungsvorgänge') ausgedrückte\nBeziehung:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(R ist die Intensität eines monochromatischen, geradlinig\npolarisirten Strahles), welche zusammen mit der bekannten\nGleichung:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "vor\nc\ndie Beziehung liefert:\nBr!\n(8) us ZU.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hieraus und aus (7) folgt:\n3\nU= vr(> ) R",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wo nun c überhaupt nicht mehr vorkommt. Statt dessen\nkönnen wir auch schreiben:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ")) M. Planck, Ann. d, Phys. 1. p. 99. 1900.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 9 ---\nGesetz der Energieverteilung im Normalspectrum. 561",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8 9. Endlich führen wir auch noch die Entropie $ des\nResonators ein, indem wir setzen:\n1 ds\n9) s Tau\nDann ergiebt sich:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(10) s=r(?).\nd. h, die Entropie des in einem beliebigen diathermanen Medium\nschwingenden Resonators ist von der einzigen Variabeln U/»\nabhängig und enthält ausserdem nur universelle Constante.\nDies ist die einfachste mir bekannte Fassung des Wien’schen\nVerschiebungsgesetzes.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Dies ist die einfachste mir bekannte Fassung des Wien’schen Verschiebungsgesetzes.",
+        "Bildhafter Ausdruck": "die einfachste mir bekannte Fassung",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Komplexität des Gesetzes wird als eine Art 'Form' oder 'Version' dargestellt, die vereinfacht werden kann."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8 10. Wenden wir das Wien’sche Verschiebungsgesetz\nin der letzten Fassung auf den Ausdruck (6) der Entropie 8\nan, so erkennen wir, dass das Energieelement e proportional\nder Schwingungszahl » sein muss, also:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "y UN 00 U Ü U\nSeh Id + %) log (ı + %) — „,108 Ai °\nHierbei sind A und A universelle Constante,\nDurch Substitution in (9) erhält man:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "und aus (8) folgt dann das gesuchte Energieverteilungsgesetz:\n(12) = Eu Bu:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "er? _ 1\noder auch, wenn man mit den in &$ 7 angegebenen Substitu-\ntionen statt der Schwingungszahl » wieder die Wellenlänge A\neinführt:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Ausdrücke für die Intensität und für die Entropie\nder im diathermanen Medium fortschreitenden Strahlung, sowie\nden Satz der Vermehrung der gesamten Entropie bei nicht-\nstationären Strahlungsvorgängen denke ich an anderer Stelle\nabzuleiten.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8 11. Die Werte der beiden Naturconstanten A und A\nlassen sich mit Hülfe der vorliegenden Messungen ziemlich\ngenau berechnen. F. Kurlbaum!?) hat gefunden, dass, wenn\nman mit $, die gesamte Energie bezeichnet, die von lgem\neines auf £°C. befindlichen schwarzen Körpers in 1sec in die\nLuft gestrahlt wird:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Daraus ergiebt sich die räumliche Dichte der gesamten",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Strahlungsenergie in der Luft bei der absoluten Temperatur 1:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Andererseits ist nach (12) die räumliche Dichte der ge-\nsamten strahlenden Energie für = 1:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "und durch gliedweise Integration:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8ınh k\\4 1 ı 1\nu 3.64) (+4 ' tat)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ht\n= 5 1,0823.\nSetzt man dies = 7,061.10-15, so ergiebt sich, dac = 3.10%,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) F. Kurlbaum, Wied. Ann. 65. p. 759. 1898.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 11 ---\nGesetz der Energieverteilung im Normalspeetrum. 563",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8 12. O. Lummer und E. Pringsheim!) haben das\nProduct 4,9%, wo A, die Wellenlänge des Maximums von Z\nin Luft bei der Temperatur 9 bedeutet, zu 2940 w.grad be-\nstimmt. Also in absolutem Maass:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Andererseits folgt aus (13), wenn man den Differential-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "quotienten von # nach A gleich Null setzt, wodurch A = A, wird:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "hm t\nund aus dieser transcendenten Gleichung:\nch\nDer\nFolglich:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "k 3.1010\nHieraus und aus (14) ergeben sich die Werte der Natur-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "_ -16.08.\n(16) h= 1,346.10-0 SE,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Das sind dieselben Zahlen, welche ich in meiner früheren\nMitteilung angegeben habe.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) O. Lummer und E. Pringsheim, Verhandl. der Deutschen\nPhysikal. Gesellsch. 2. p. 176. 1900.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]
