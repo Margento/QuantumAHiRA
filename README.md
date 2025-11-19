@@ -6,7 +6,7 @@ forms part of a broader project that maps the rhetoric of foundational quantum m
 
 Metaphors, paradoxes, and argumentation flows from early quantum physics texts were computationally paired with analogous tropes and reasoning patterns in journals from AHiRA and CMoLA (the Argentine Historical Journal Archives and Cultural Magazines of Latin America, 1896–1959; https://recerca.uoc.edu/documentos/67bc32b7478fbf5d29390dc6?lang=en, Tanasescu & Roig-Sanz 2024).
 
-Using LLMs, metaphors were first identified in the physics corpus (via GPT-4) and then classified (via Mixtral) as common-speech or field-specific. Automated searches then located passages in the Latin American journals where the semantic contrasts between terms mirrored those in the physics corpus—particularly where both were similarly incongruent within their contexts.
+Using LLMs, metaphors were first identified in the physics corpus (via GPT-4, see the folder 'quantum_gpt4_outputs_2' in this repos) and then classified (via Mixtral, see the folder 'quantum_mixtral_sorting_gpt-4_metaphors_paradoxes') as common-speech or field-specific. Automated searches then located passages in the Latin American journals where the semantic contrasts between terms mirrored those in the physics corpus—particularly where both were similarly incongruent within their contexts.
 
 For this poem, I selected the closest matches: the passages from the Spanish articles ('quantum_cmola_ahira_metaphors_slice_0054.jsonl') corresponding to no more than a couple of metaphors from Arnold Sommerfeld’s Atombau und Spektrallinien (1929), a revised and expanded version of his 1919 classic.
 
