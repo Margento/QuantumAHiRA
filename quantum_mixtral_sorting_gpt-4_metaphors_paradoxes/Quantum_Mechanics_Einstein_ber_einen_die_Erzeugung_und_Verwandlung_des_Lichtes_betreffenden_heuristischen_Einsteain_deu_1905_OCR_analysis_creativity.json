@@ -1,0 +1,858 @@
+[
+  {
+    "paragraph": "--- Page 1 ---\n® Check for updates",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "6. Über einen\ndie Erzeugung und Verwandlung des Lichtes\nbetreffenden heuristischen Gesichtspunkt;\nvon A. Einstein.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Zwischen den theoretischen Vorstellungen, welche sich die\nPhysiker über die Gase und andere ponderable Körper ge-\nbildet haben, und der Maxwellschen Theorie der elektro-\nmagnetischen Prozesse im sogenannten leeren Raume besteht\nein tiefgreifender formaler Unterschied. Während wir uns\nnämlich den Zustand eines Körpers durch die Lagen und Ge-\nschwindigkeiten einer zwar sehr großen, jedoch endlichen An-\nzahl von Atomen und Elektronen für vollkommen bestimmt\nansehen, bedienen wir uns zur Bestimmung des elektromagne-\ntischen Zustandes eines Raumes kontinuierlicher räumlicher\nFunktionen, so daß also eine endliche Anzahl von Größen\nnicht als genügend anzusehen ist zur vollständigen Festlegung\ndes elektromagnetischen Zustandes eines Raumes. Nach der\nMaxwellschen Theorie ist bei allen rein elektromagnetischen\nErscheinungen, also auch beim Licht, die Energie als konti-\nnuierliche Raumfunktion aufzufassen, während die Energie\neines ponderabeln Körpers nach der gegenwärtigen Auffassung\nder Physiker als eine über die Atome und Elektronen er-\nstreckte Summe darzustellen ist. Die Energie eines ponderabeln\nKörpers kann nicht in beliebig viele, beliebig kleine Teile zer-\nfallen, während sich die Energie eines von einer punktförmigen\nLichtquelle ausgesandten Lichtstrahles nach ‘der Maxwell-\nschen Theorie (oder Allgemeiner nach jeder Undulationstheorie)\ndes Lichtes auf ein stets wachsendes Volumen sich kontinuier-\nlich verteilt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die mit kontinuierlichen Raumfunktionen operierende Un-\ndulationstheorie des Lichtes hat sich zur Darstellung der rein\noptischen Phänomene vortrefflich bewährt und wird wohl nie\ndurch eine andere T'heorie ersetzt werden. Es ist jedoch im\nAuge zu behalten, daß sich die optischen Beobachtungen auf\nzeitliche Mittelwerte, nicht aber auf Momentanwerte beziehen,\nund es ist trotz der vollständigen Bestätigung der Theorie der\nBeugung, Reflexion, Brechung, Dispersion etc. durch das",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 2 ---\nErzeugung und Verwandlung des Lichtes. 133",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Experiment wohl denkbar, daß die mit kontinuierlichen Raum-\nfunktionen operierende Theorie des Lichtes zu Widersprüchen\nmit der Erfahrung führt, wenn man sie auf die Erscheinungen\nder Lichterzeugung und Lichtverwandlung anwendet.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es scheint mir nun in der Tat, daß die Beobachtungen\nüber die „schwarze Strahlung‘, Photolumineszenz, die Er-\nzeugung von Kathodenstrahlen durch ultraviolettes Licht und\nandere die Erzeugung bez. Verwandlung des Lichtes betreffende\nErscheinungsgruppen besser verständlich erscheinen unter der\nAnnahme, daß die Fnergie des Lichtes diskontinuierlich im\nRaume verteilt sei. Nach der hier ins Auge zu fassenden\nAnnahme ist bei Ausbreitung eines von einem Punkte aus-\ngehenden Lichtstrahles die Energie nicht kontinuierlich auf\ngrößer und größer werdende Räume verteilt, sondern es be-\nsteht dieselbe aus einer endlichen Zahl von in Raumpunkten\nlokalisierten Energiequanten, welche sich bewegen, ohne sich\nzu teilen und nur als Ganze absorbiert und erzeugt werden\nkönnen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Im folgenden will ich den Gedankengang mitteilen und\ndie Tatsachen anführen, welche mich auf diesen Weg geführt\nhaben, in der Hoffnung, daß der darzulegende Gesichtspunkt\nsich einigen Forschern bei ihren Untersuchungen als brauch-\nbar erweisen möge.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$ 1. Über eine die Theorie der „schwarzen Strahlung“ betreffende\nSchwierigkeit.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir stellen uns zunächst auf den Standpunkt der Max-\nwellschen Theorie und Elektronentheorie und betrachten folgen-\nden Fall. In einem von vollkommen reflektierenden Wänden\neingeschlossenen Raumes befinde sich eine Anzahl Gasmole-\nküle und Elektronen, welche freibeweglich sind und aufeinander\nkonservative Kräfte ausüben, wenn sie einander sehr nahe\nkommen, d. h. miteinander wie Gasmoleküle nach der kine-\ntischen Gastheorie zusammenstoßen können.) Eine Anzahl",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Diese Annahme ist gleichbedeutend mit der Voraussetzung, daß\ndie mittleren kinetischen Energien von Gasmolekülen und Elektronen bei\nTemperaturgleichgewicht einander gleich seien. Mit Hilfe letzterer Voraus-\nsetzung hat Hr. Drude bekanntlich das Verhältnis von thermischem und",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Diese Annahme ist gleichbedeutend mit der Voraussetzung, daß die mittleren kinetischen Energien von Gasmolekülen und Elektronen bei Temperaturgleichgewicht einander gleich seien.",
+        "Bildhafter Ausdruck": "ist gleichbedeutend mit",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Annahme und die Voraussetzung werden als strukturell identisch dargestellt."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "elektrischem Leitungsvermögen der Metalle auf theoretischem Wege ab-\ngeleitet.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "110 Kam CRIVOR HONYASNHLIVAH KU",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 3 ---\n134 A. Einstein.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Elektronen sei ferner an voneinander weit entfernte Punkte\ndes Raumes gekettet durch nach diesen Punkten gerichtete,\nden Elongationen proportionale Kräfte. Auch diese Elektronen\nsollen mit den freien Molekülen und Elektronen in konservative\nWechselwirkung treten, wenn ihnen letztere sehr nahe kommen.\nWir nennen die an Raumpunkte geketteten Elektronen „Reso-\nnatoren‘“; sie senden elektromagnetische Wellen bestimmter\nPeriode aus und absorbieren solche.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nach der gegenwärtigen Ansicht über die Entstehung des\nLichtes müßte die Strahlung im betrachteten Raume, welche\nunter Zugrundelegung der Maxwellschen Theorie für den Fall\ndes dynamischen Gleichgewichtes gefunden wird, mit der\n„schwarzen Strahlung“ identisch sein — wenigstens wenn\nResonatoren aller in Betracht zu ziehenden Frequenzen als\nvorhanden angesehen werden.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir sehen vorläufig von der von den Resonatoren emit-\ntierten und absorbierten Strahlung ab und fragen nach der\nder Wechselwirkung (den Zusammenstößen) von Molekülen und\nElektronen entsprechenden Bedingung für das dynamische\nGleichgewicht. Die kinetische Gastheorie liefert für letzteres\ndie Bedingung, daß die mittlere lebendige Kraft eines Resonator-\nelektrons gleich der mittleren kinetischen Energie der fort-\nschreitenden Bewegung eines Gasmoleküles sein muß. Zer-\nlegen wir die Bewegung des Resonatorelektrons in drei auf-\neinander senkrechte Schwingungsbewegungen, so finden wir\nfür den Mittelwert Z der Energie einer solchen geradlinigen\nSchwingungsbewegung",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wobei 2 die absolute Gaskonstante, N die Anzahl der „wirk-\nlichen Moleküle“ in einem Grammäquivalent und 7 die abso-\nlute Temperatur bedeutet. Die Energie E ist nämlich wegen\nder Gleichheit der zeitlichen Mittelwerte von kinetischer und\npotentieller Energie des Resonators ?/‚,mal so groß wie die\nlebendige Kraft eines freien, einatomigen Gasmoleküles.. Würde\nnun durch irgend eine Ursache — in unserem Falle durch\nStrahlungsvorgänge — bewirkt, daß die Energie eines Reso-\nnators einen größeren oder kleineren zeitlichen Mittelwert als\nE besitzt, so würden die Zusammenstöße mit den freien Blek-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 4 ---\nErzeugung und Verwandlung des Lichtes. 135",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "tronen und Molekülen zu einer im Mittel von Null verschie-\ndenen Energieabgabe an das Gas bez. Energieaufnahme von\ndem Gas führen. Es ist also in dem von uns betrachteten\nFalle dynamisches Gleichgewicht nur dann möglich, wenn jeder\nResonator die mittlere Energie E besitzt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Eine ähnliche Überlegung machen wir jetzt bezüglich der\nWechselwirkung der Resonatoren und der im Raume vorhan-\ndenen Strahlung. Hr. Planck hat für diesen Fall die Be-\ndingung des dynamischen Gleichgewichtes abgeleitet‘) unter\nder Voraussetzung, daß die Strahlung als ein denkbar unge-\nordnetster Prozeß?) betrachtet werden kann. Er fand:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "= gan\nE, ist hierbei die mittlere Energie eines Resonators von der\nEigenfrequenz » (pro Schwingungskomponente), Z die Licht-\ngeschwindigkeit, » die Frequenz und o,d» die Energie pro\nVolumeinheit desjenigen Teiles der Strahlung, dessen Schwin-\ngungszahl zwischen » und » + dv liegt,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) M. Planck, Ann. d. Phys. 1. p. 99. 1900.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2) Diese Voraussetzung läßt sich folgendermaßen formulieren. Wir\nentwickeln die Z-Komponente der elektrischen Kraft (Z) in einem be-\nliebigen Punkte des betreffenden Raumes zwischen den Zeitgrenzen t=0\nund £= 7 (wobei 7 eine relativ zu allen in Betracht zu ziehenden\nSchwingungsdauern sehr große Zeit bedeute) in eine Fouriersche Reihe",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wobei ,=>0 undO=<w,=2n. Denkt man sich in demselben Raum-\npunkte eine solche Entwickelung beliebig oft bei zufällig gewählten An-\nfangspunkten der Zeit ausgeführt, so wird man für die Größen A, und a,\nverschiedene Wertsysteme erhalten. Es existieren dann für die Häufig-\nkeit der verschiedenen Wertekombinationen der Größen 4, und m\n(statistische) Wahrscheinlicbkeiten d W von der Form:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "daW=fAA:..: 1%, :.)JdAAdA..: dmdo...\nDie Strahlung ist dann eine denkbar ungeordnetste, wenn",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "FA Ar a0... )= FlA)Rrla).. fa) ..-;\nd. h. wenn die Wahrscheinlichkeit eines bestimmten Wertes einer der\nGrößen A bez. « von den Werten, welche die anderen Größen A bez. x\nbesitzen, unabhängig ist. Mit je größerer Annäherung die Bedingung\nerfüllt ist, daß die einzelnen Paare von Größen A, und «, von Emissions-\nund Absorptionsprozessen besonderer Resonatorengruppen abhängen, mit\ndesto größerer Annäherung wird also in dem von uns betrachteten Falle\ndie Strahlung als eine „denkbar ungeordnetste“ anzusehen sein.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 5 ---\n136 A. Einstein.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Soll die Strahlungsenergie von der Frequenz » nicht be-\nständig im Ganzen weder vermindert noch vermehrt werden,\nso muß gelten:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "R a 2}\nNTTR Rn gas tn\nR 8n»:\nu u 2 T",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Diese als Bedingung des dynamischen Gleichgewichtes ge-\nfundene Beziehung entbehrt nicht nur der Übereinstimmung\nmit der Erfahrung, sondern sie besagt auch, daß in unserem\nBilde von einer bestimmten Energieverteilung zwischen Äther\nund Materie nicht die Rede sein kann. Je weiter nämlich\nder Schwingungszahlenbereich der Resonatoren gewählt wird,\ndesto größer wird die Strahlungsenergie des Raumes, und wir\nerhalten in der Grenze",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "v {f\n$2. Über die Plancksche Bestimmung der Elementarquanta.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir wollen im folgenden zeigen, daß die von Hrn. Planck\ngegebene Bestimmung der Elementarquanta von der von ihm\naufgestellten Theorie der „schwarzen Strahlung‘ bis zu einem\ngewissen Grade unabhängig ist.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die allen bisherigen Erfahrungen genügende Plancksche\nFormel!) für o, lautet",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ß = 4,866. 10-1.\nFür große Werte von 7/v, d.h. für große Wellenlängen und\nStrahlungsdichten geht diese Formel in der Grenze in folgende\nüber:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1)M. Planck, Ann. d. Phys. 4. p. 561. 1901.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 6 ---\nErzeugung und Verwandlung des Lichtes. 137",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Man erkennt, daß diese Formel mit der in $ 1 aus der\nMaxwellschen und der Elektronentheorie entwickelten überein-\nstimmt. Durch Gleichsetzung der Koeffizienten beider Formeln\nerhält man:\nRön_o \\\n=\noder Nu ß",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "d.h. ein Atom Wasserstoff wiegt 1/N Gramm = 1,62. 10-?4g.\nDies ist genau der von Hrn, Planck gefundene Wert, welcher\nmit den auf anderen Wegen gefundenen Werten für diese\nGröße befriedigend übereinstimmt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir gelangen daher zu dem Schlusse: Je größer die\nEnergiedichte und die Wellenlänge einer Strahlung ist, als\num so brauchbarer erweisen sich die von uns benutzten theo-\nretischen Grundlagen; für kleine Wellenlängen und kleine\nStrahlungsdichten aber versagen dieselben vollständig.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Im folgenden soll die „schwarze Strahlung‘ im Anschluß\nan die Erfahrung ohne Zugrundelegung eines Bildes über die\nErzeugung und Ausbreitung der Strahlung betrachtet werden.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$ 3. Über die Entropie der Strahlung.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die folgende Betrachtung ist in einer berühmten Arbeit\ndes Hrn. W. Wien enthalten und soll hier nur der Voll-\nständigkeit halber Platz finden.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es liege eine Strahlung vor, welche das Volumen » ein-\nnehme. Wir nehmen an, daß die wahrnehmbaren Eigen-\nschaften der vorliegenden Strahlung vollkommen bestimmt seien,\nwenn die Strahlungsdichte o(v) für alle Frequenzen gegeben\nist.!) Da Strahlungen von verschiedenen Frequenzen als ohne\nArbeitsleistung und ohne Wärmezufuhr voneinander trennbar\nanzusehen sind, so ist die Entropie der Strahlung in der Form",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ao\nS=v[plendr\no\ndarstellbar, wobei 9 eine Funktion der Variabeln o und v\n1) Diese Annahme ist eine willkürliche. Man wird naturgemäß an",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dieser einfachsten Annahme so lange festhalten, als nicht das Experiment\ndazu zwingt, sie zu verlassen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 7 ---\n138 4A. Einstein.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "bedeutet. Es kann auf eine Funktion von nur einer Variabeln\nreduziert werden durch Formulierung der Aussage, daß durch\nadiabatische Kompression einer Strahlung zwischen spiegelnden\nWänden, deren Entropie nicht geändert wird. Wir wollen\njedoch hierauf nicht eintreten, sondern sogleich untersuchen,\nwie die Funktion p aus dem Strahlungsgesetz des schwarzen\nKörpers ermittelt werden kann.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Bei der „schwarzen Strahlung“ ist go eine solche Funktion\nvon », daß die Entropie bei gegebener Energie ein Maximum\nist, d.h. daß",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hieraus folgt, daß für jede Wahl des ög als Funktion von »",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "w\nfi -A)öedn= 0,\n0\nwobei A von » unabhängig ist. Bei der schwarzen Strahlung\nist also öp/ög von » unabhängig.\nFür die Temperaturzunahme einer schwarzen Strahlung\nvom Volumen v=1 um d7 gilt die Gleichung:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "oder, da öy/Öo von » unabhängig ist:\nds= PP AB.\n08",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Da 4E gleich der zugeführten Wärme und der Vorgang um-\nkehrbar ist, so gilt auch:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dS= „dB.\nDurch Vergleich erhält man:\ndp _1\nde  T",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Dies ist das Gesetz der schwarzen Strahlung. Man kann also",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 8 ---\nErzeugung und Verwandlung des Lichtes. 139",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "aus der Funktion @ das Gesetz der schwarzen Strahlung und\numgekehrt aus letzterem die Funktion @ durch Integration be-\nstimmen mit Rücksicht darauf, daB 9 für o=0 verschwindet.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$4. Grenzgesetz für die Entropie der monochromatischen\nStrahlung bei geringer Strahlungsdichte,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Aus den bisherigen Beobachtungen über die „schwarze\nStrahlung‘ geht zwar hervor, daß das ursprünglich von Hrn.\nW. Wien für die „schwarze Strahlung‘ aufgestellte Gesetz",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "oe=uve\nnicht genau gültig ist. Dasselbe wurde aber für große Werte\nvon »/T sehr vollkommen durch das Experiment bestätigt.\nWir legen diese Formel unseren Rechnungen zugrunde, be-\nhalten aber im Sinne, daß unsere Resultate nur innerhalb\ngewisser Grenzen gelten.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Aus dieser Formel ergibt sich zunächst:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "w Br\nund weiter unter Benutzung der in dem vorigen Paragraphen\ngefundenen Beziehung:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es sei nun eine Strahlung von der Energie Z gegeben, deren\nFrequenz zwischen » und v+d» liegt. Die Strahlung nehme\ndas Volumen »v ein. Die Entropie dieser Strahlung ist:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Beschränken wir uns darauf, die Abhängigkeit der Entropie\nvon dem von der Strahlung eingenommenen Volumen zu unter-\nsuchen, und bezeichnen wir die Entropie der Strahlung mit S,,\nfalls dieselbe das Volumen », besitzt, so erhalten wir:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Diese Gleichung zeigt, daß die Entropie einer monochro-\nmatischen Strahlung von genügend kleiner Dichte nach dem\ngleichen Gesetze mit dem Volumen variiert wie die Entropie\neines idealen Gases oder die einer verdünnten Lösung. Die",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 9 ---\n140 A. Einstein.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "soeben gefundene Gleichung soll im folgenden interpretiert\nwerden unter Zugrundelegung des von Hrn. Boltzmann in\ndie Physik eingeführten Prinzips, nach welchem die Entropie\neines Systems eine Funktion der Wahrscheinlichkeit seines\nZustandes ist.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "85. Molekulartheoretische Untersuchung der Abhängigkeit der\nEntropie von Gasen und verdünnten Lösungen vom Volumen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Bei Berechnung der Entropie auf molekulartheoretischem\nWege wird häufig das Wort „Wahrscheinlichkeit“ in einer\nBedeutung angewendet, die sich nicht mit der Definition der\nWahrscheinlichkeit deckt, wie sie in der Wahrscheinlichkeits-\nrechnung gegeben wird. Insbesondere werden die „Fälle\ngleicher Wahrscheinlichkeit‘ häufig hypothetisch festgesetzt\nin Fällen, wo die angewendeten theoretischen Bilder bestimmt\ngenug sind, um statt jener hypothetischen Festsetzung eine\nDeduktion zu geben. Ich will in einer besonderen Arbeit zeigen,\ndaß man bei Betrachtungen über thermische Vorgänge mit\nder sogenannten „statistischen Wahrscheinlichkeit‘‘ vollkommen\nauskommt und hoffe dadurch eine logische Schwierigkeit zu\nbeseitigen, welche der Durchführung des Boltzmannschen\nPrinzips noch im Wege steht. Hier aber soll nur dessen all-\ngemeine Formulierung und dessen Anwendung auf ganz spezielle\nFälle gegeben werden.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wenn es einen Sinn hat, von der Wahrscheinlichkeit eines\nZustandes eines Systems zu reden, wenn ferner jede Entropie-\nzunahme als ein Übergang zu einem wahrscheinlicheren Zu-\nstande aufgefaßt werden kann, so ist die Entropie 8, eines\nSystems eine Funktion der Wahrscheinlichkeit W, seines\nmomentanen Zustandes. Liegen also zwei nicht miteinander\nin Wechselwirkung stehende Systeme S, und 8, vor, so kann",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "man setzen:\n=):\n= MW):\nBetrachtet man diese beiden Systeme als ein einziges System\nvon der Entropie $ und der Wahrscheinlichkeit W, so ist:\nS=S8+,= gl)\nund\nWV=W.W,.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 10 ---\nErzeugung und Verwandlung des Lichtes. 141",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die letztere Beziehung sagt aus, daß die Zustände der beiden\nSysteme voneinander unabhängige Ereignisse sind,\nAus diesen Gleichungen folgt:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "WM) =9W)+9M)\nund hieraus endlich",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "9 (W)= Clg(W ) + konst.\nDie Größe C ist also eine universelle Konstante; sie hat, wie\naus der kinetischen Gastheorie folgt, den Wert R/N, wobei\nden Konstanten Z und N dieselbe Bedeutung wie oben bei-\nzulegen ist. Bedeutet $, die Entropie bei einem gewissen\nAnfangszustande eines betrachteten Systems und # die rela-\ntive Wahrscheinlichkeit eines Zustandes von der Entropie 5,\nso erhalten wir also allgemein:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir behandeln zunächst folgenden Spezialfall. In einem\nVolumen v, sei eine Anzahl (n) beweglicher Punkte (z. B.\nMoleküle) vorhanden, auf welche sich unsere Überlegung be-\nziehen soll. Außer diesen können in dem Raume noch beliebig\nviele andere bewegliche Punkte irgendwelcher Art vorhanden\nsein. Über das Gesetz, nach dem sich die betrachteten Punkte\nin dem Raume bewegen, sei nichts vorausgesetzt, als daß in\nbezug auf diese Bewegung kein Raumteil (und keine Richtung)\nvon den anderen ausgezeichnet sei. Die Anzahl der betrach-\nteten (ersterwähnten) beweglichen Punkte sei ferner so klein,\ndaß von einer Wirkung der Punkte aufeinander abgesehen\nwerden kann.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Dem betrachteten System, welches z. B. ein ideales Gas\noder eine verdünnte Lösung sein kann, kommt eine gewisse\nEntropie $, zu. Wir denken uns einen Teil des Volumens »,\nvon der Größe » und alle n beweglichen Punkte in das\nVolumen v versetzt, ohne daß an dem System sonst etwas\ngeändert wird. Diesem Zustand kommt offenbar ein anderer\nWert der Entropie (5) zu, und wir wollen nun die Entropie-\ndifferenz mit Hilfe des Boltzmannschen Prinzips be-\nstimmen.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Dem betrachteten System, welches z. B. ein ideales Gas oder eine verdünnte Lösung sein kann, kommt eine gewisse Entropie $, zu.",
+        "Bildhafter Ausdruck": "Dem betrachteten System ... kommt eine gewisse Entropie $, zu",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Entropie, ein abstrakter Zustand oder eine Eigenschaft, wird als etwas dargestellt, das einem System 'gegeben' oder 'zugeordnet' werden kann, ähnlich wie ein physischer Gegenstand, der jemandem gegeben wird."
+      },
+      {
+        "Satz": "Wir denken uns einen Teil des Volumens » von der Größe » und alle n beweglichen Punkte in das Volumen v versetzt, ohne daß an dem System sonst etwas geändert wird.",
+        "Bildhafter Ausdruck": "einen Teil des Volumens » von der Größe » und alle n beweglichen Punkte in das Volumen v versetzt",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Änderung der Position von Partikeln in einem System wird dargestellt als physische Bewegung von einem Ort zum anderen, obwohl es sich eigentlich um Änderungen im Zustand des Systems auf mikroskopischer Ebene handelt."
+      },
+      {
+        "Satz": "Diesem Zustand kommt offenbar ein anderer Wert der Entropie (5) zu, und wir wollen nun die Entropie-differenz mit Hilfe des Boltzmannschen Prinzips bestimmen.",
+        "Bildhafter Ausdruck": "Diesem Zustand kommt offenbar ein anderer Wert der Entropie (5) zu",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Der Wechsel von einem Zustand zu einem anderen wird dargestellt als Wechsel von einem Wert der Entropie zu einem anderen, ähnlich wie das Wechseln von einer Nummer zu einer anderen in einem physischen System."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1 2UNuO Korn \"CAVOR HOYVASDIHLTVAN Aa uceze",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 11 ---\n142 A. Einstein.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir fragen: Wie groß ist die Wahrscheinlichkeit des\nletzterwähnten Zustandes relativ zum ursprünglichen? Oder:\nWie groß ist die Wahrscheinlichkeit dafür, daß sich in einem\nzufällig herausgegriffenen Zeitmoment alle n in einem gegebenen\nVolumen v, unabhängig voneinander beweglichen Punkte (zu-\nfällig) in dem Volumen v befinden?",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Für diese Wahrscheinlichkeit, welche eine „statistische\nWahrscheinlichkeit“ ist, erhält man offenbar den Wert:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "man erhält hieraus durch Anwendung des Boltzmannschen\nPrinzipes:\n5-5 -R(F)1e(})-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es ist bemerkenswert, daß man zur Herleitung dieser\nGleichung, aus welcher das Boyle-Gay-Lussacsche Gesetz\nund das gleichlautende Gesetz des osmotischen Druckes leicht\nthermodynamisch ableiten kann!); keine Voraussetzung über\ndas Gesetz zu machen braucht, nachdem sich die Moleküle\nbewegen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8 6. Interpretation des Ausdruckes für die Abhängigkeit der\nEntropie der monochromatischen Strahlung vom Volumen nach\ndem Boltzmannschen Prinzip.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir haben in $4 für die Abhängigkeit der Entropie der\nmonochromatischen Strahlung vom Volumen den Ausdruck ge-\nfunden:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "E v\ns-5-= le:\nSchreibt man diese Formel in der Gestalt:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Ist E die Energie des Systems, so erhält man:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 12 ---\nErzeugung und Verwandlung des Lichtes. 143",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "und vergleicht man sie mit der allgemeinen, das Boltz-\nmannsche Prinzip ausdrückenden Formel",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "so gelangt man zu folgendem Schluß:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ist monochromatische Strahlung von der Frequenz » und\nder Energie Z in das Volumen v, (durch spiegelnde Wände)\neingeschlossen, so ist die Wahrscheinlichkeit dafür, daß sich\nin einem beliebig herausgegriffenen Zeitmoment die ganze\nStrahlungsenergie in dem Teilvolumens» des Volumens », be-\nfindet:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Monochromatische Strahlung von geringer Dichte (inner-\nhalb des Gültigkeitsbereiches der Wienschen Strahlungsformel)\nverhält sich in wärmetheoretischer Beziehung so, wie wenn\nsie aus voneinander unabhängigen Energiequanten von der\nGröße R@v/N bestünde.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir wollen noch die mittlere Größe der Energiequanten\nder „schwarzen Strahlung“ mit der mittleren lebendigen Kraft\nder Schwerpunktsbewegung eines Moleküls bei der nämlichen\nTemperatur vergleichen. Letztere ist $(R/N)7, während man\nfür die mittlere Größe des Energiequantums unter Zugrunde-\nlegung der Wienschen Formel erhält:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wenn sich nun monochromatische Strahlung (von hin-\nreichend kleiner Dichte) bezüglich der Abhängigkeit der Entropie\nvom Volumen wie ein diskontinuierliches Medium verhält,\nwelches aus Energiequanten von der Größe Rfv/N besteht,\nso liegt es nahe, zu untersuchen, ob auch die Gesetze der",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 13 ---\n144 A. Einstein.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Erzeugung und Verwandlung des Lichtes so beschaffen sind,\nwie wenn das Licht aus derartigen Energiequanten bestünde.\nMit dieser Frage wollen wir uns im folgenden beschäftigen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$ 7. Über die Btokessche Regel.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es werde monochromatisches Licht durch Photolumineszenz\nin Licht anderer Frequenz verwandelt und gemäß dem eben\nerlangten Resultat angenommen, daß sowohl das erzeugende\nwie das erzeugte Licht aus Energiequanten von der Größe\n(R/N)ß» bestehe, wobei » die betreffende Frequenz bedeutet.\nDer Verwandlungsprozeß wird dann folgendermaßen zu deuten\nsein. Jedes erzeugende Energiequant von der Frequenz »,\nwird absorbiert und gibt — wenigstens bei genügend kleiner\nVerteilungsdichte der erzeugenden Energiequanten — für sich\nallein Anlaß zur Entstehung eines Lichtquants von der\nFrequenz »,; eventuell können bei der Absorption des er-\nzeugenden Lichtquants auch gleichzeitig Lichtquanten von den\nFrequenzen »,, », etc. sowie Energie anderer Art (z.B. Wärme)\nentstehen. Unter Vermittelung von was für Zwischenprozessen\ndies Endresultat zustande kommt, ist gleichgültig. Wenn die\nphotolumineszierende Substanz nicht als eine beständige Quelle\nvon Energie anzusehen ist, so kann nach dem Energieprinzip\ndie Energie eines erzeugten Energiequants nicht größer sein\nals die eines erzeugenden Lichtquants; es muß also die Be-\nzeichnung gelten:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ee Een\n=N.\nDies ist die bekannte Stokessche Regel.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Besonders hervorzuheben ist, daß bei schwacher Belichtung\ndie erzeugte Lichtmenge der erregenden unter sonst gleichen\nUmständen nach unserer, Auffassung der erregenden Licht-\nstärke proportional sein muß, da jedes erregende Energiequant\neinen Elementarprozeß von der oben angedeuteten Art ver-\nursachen wird, unabhängig von der Wirkung der anderen er-\nregenden Energiequanten. Insbesondere wird es keine untere\nGrenze für die Intensität des erregenden Lichtes geben, unter-\nhalb welcher das Licht unfähig wäre, lichterregend zu wirken.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 14 ---\nErzeugung und Verwandlung des Lichtes. 145",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Abweichungen von der Stokesschen Regel sind nach der\ndargelegten Auffassung der Phänomene in folgenden Fällen\ndenkbar:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1. wenn die Anzahl der gleichzeitig in Umwandlung be-\ngriffenen Energiequanten pro Volumeneinheit so groß ist, daß\nein Energiequant des erzeugten Lichtes seine Energie von\nmehreren erzeugenden Energieqguanten erhalten kann;",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2. wenn das erzeugende (oder erzeugte) Licht nicht von\nderjenigen energetischen Beschaffenheit ist, die einer „schwarzen\nStrahlung‘ aus dem Gültigkeitsbereich des Wienschen Gesetzes\nzukommt, wenn also z. B. das erregende Licht von einem\nKörper so hoher Temperatur erzeugt ist, daß für die in Betracht\nkommende Wellenlänge das Wiensche Gesetz nicht mehr gilt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die letztgenannte Möglichkeit verdient besonderes Interesse.\nNach der entwickelten Auffassung ist es nämlich nicht aus-\ngeschlossen, daß eine „nicht Wiensche Strahlung“ auch in\ngroßer Verdünnung sich in energetischer Beziehung anders\nverhält als eine „schwarze Strahlung“ aus dem Gültigkeits-\nbereich des Wienschen Gesetzes.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$8. Über die Erzeugung von Kathodenstrahlen durch Belichtung\nfester Körper.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die übliche Auffassung, daß die Energie des Lichtes\nkontinuierlich über den durchstrahlten Raum verteilt sei, findet\nbei dem Versuch, die lichtelektrischen Erscheinungen zu er-\nklären, besonders große Schwierigkeiten, welche in einer bahn-\nbrechenden Arbeit von Hrn. Lenard dargelegt sind.')",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nach der Auffassung, daß das erregende Licht aus Energie-\nquanten von der Energie (?/N)ß» bestehe, läßt sich die Er-\nzeugung von Kathodenstrahlen durch Licht folgendermaßen\nauffassen. In die oberflächliche Schicht des Körpers dringen\nEnergiequanten ein, und deren Energie verwandelt sich wenig-\nstens zum Teil in kinetische Energie von Elektronen. Die\neinfachste Vorstellung ist die, daß ein Lichtquant seine ganze\nEnergie an ein einziges Elektron abgibt; wir wollen annehmen,\ndaß dies vorkomme. Es soll jedoch nicht ausgeschlossen sein,\ndaß Elektronen die Energie von Lichtquanten nur teilweise\naufnehmen. Ein im Innern des Körpers mit kinetischer Energie",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Annalen der Physik, IV. Folge. 17. 10",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 15 ---\n146 A. Einstein.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "versehenes Elektron wird, wenn es die Oberfläche erreicht hat,\neinen Teil seiner kinetischen Energie eingebüßt haben. Außer-\ndem wird anzunehmen sein, daß jedes Elektron beim Verlassen\ndes Körpers eine (für den Körper charakteristische) Arbeit ?\nzu leisten hat, wenn es den Körper verläßt. Mit der größten\nNormalgeschwindigkeit werden die unmittelbar an der Ober-\nfläche normal zu dieser erregten Elektronen den Körper ver-\nlassen. Die kinetische Energie solcher Elektronen ist",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ist der Körper zum positiven Potential 7 geladen und\nvon Leitern vom Potential Null umgeben und ist IT eben\nimstande, einen Elektrizitätsverlust des Körpers zu verhindern,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wobei & die elektrische Masse des Elektrons bedeutet, oder\nDE=Rßv—P,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wobei Z die Ladung eines Grammäquivalentes eines einwertigen",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ions und ?’ das Potential dieser Menge negativer Elektrizität",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "in bezug auf den Körper bedeutet.})",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Setzt man E = 9,6.10°, so ist I7.10-8 das Potential in\nVolts, welches der Körper bei Bestrahlung im Vakuum annimmt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Um zunächst zu sehen, ob die abgeleitete Beziehung der\nGrößenordnung nach mit der Erfahrung übereinstimmt, setzen\nwir P'= 0, v= 1,03. 10\" (entsprechend der Grenze des Sonnen-\nspektrums nach dem Ultraviolett hin) und $ = 4,866. 10-1,\nWir erhalten I7. 10° = 4,3 Volt, welches Resultat der Größen-\nordnung nach mit den Resultaten von Hrn. Lenard überein-\nstimmt. ?)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ist die abgeleitete Formel richtig, so muß /Z, als Funktion\nder Frequenz des erregenden Lichtes in kartesischen Koordi-\nnaten dargestellt, eine Gerade sein, deren Neigung von der\nNatur der untersuchten Substanz unabhängig ist.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Nimmt man an, daß das einzelne Elektron durch das Licht aus\neinem neutralen Molekül unter Aufwand einer gewissen Arbeit losgelöst\nwerden muß, so hat man an der abgeleiteten Beziehung nichts zu ändern;\nnur ist dann P’ als Summe von zwei Summanden aufzufassen.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "sentence": "Nimmt man an, daß das einzelne Elektron durch das Licht aus einem neutralen Molekül unter Aufwand einer gewissen Arbeit losgelöst werden muß...",
+        "figurative_expression": "das einzelne Elektron durch das Licht aus einem neutralen Molekül unter Aufwand einer gewissen Arbeit losgelöst werden muß",
+        "type": "Structural",
+        "conceptual_mapping": "The process of ionizing a neutral molecule by light is portrayed as a type of 'work' that involves 'loosening' an electron. In this metaphor, the electron is like an object that has to be 'pried loose' from the molecule, and the light is like a tool that performs this 'work'. This metaphor vividly illustrates the abstract concept of the photoelectric effect.",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2) P. Lenard, Ann. d. Phya. 8. p.165 u. 184. Taf. 1, Fig. 2. 1902.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "aVOR HONVASSRIHLTVaH &0 LODOTZESOSI run /coO 1 O1 An",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 16 ---\nErzeugung und Verwandlung des Lichtes. 147",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Mit den von Hrn. Lenard beobachteten Eigenschaften\nder lichtelektrischen Wirkung steht unsere Auffassung, soweit\nich sehe, nicht im Widerspruch. Wenn jedes Energiequant\ndes erregenden Lichtes unabhängig von allen übrigen seine\nEnergie an Elektronen abgibt, so wird die Geschwindigkeits-\nverteilung der Elektronen, d.h. die Qualität der erzeugten\nKathodenstrahlung von der Intensität des erregenden Lichtes\nunabhängig sein; andererseits wird die Anzahl der den Körper\nverlassenden Elektronen der Intensität des erregenden Lichtes\nunter sonst gleichen Umständen proportional sein. ')",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Über die mutmaßlichen Gültigkeitsgrenzen der erwähnten\nGesetzmäßigkeiten wären ähnliche Bemerkungen zu machen\nwie bezüglich der mutmaßlichen Abweichungen von der Stokes-\nschen Regel.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Im vorstehenden ist angenommen, daß die Energie wenig-\nstens eines Teiles der Energiequanten des erzeugenden Lichtes\nje an ein einziges Elektron vollständig abgegeben werde. Macht\nman diese naheliegende Voraussetzung nicht, so erhält man\nstatt obiger Gleichung die folgende:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Für die Kathodenlumineszenz, welche den inversen Vor-\ngang zu dem eben betrachteten bildet, erhält man durch eine\nder durchgeführten analoge Betrachtung:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Bei den von Hrn. Lenard untersuchten Substanzen ist PE\nstets bedeutend größer als RA», da die Spannung, welche die\nKathodenstrahlen durchlaufen haben müssen, um eben sicht-\nbares Licht erzeugen zu können, in einigen Fällen einige\nHundert, in anderen Tausende von Volts beträgt.?2) Es ist\nalso anzunehmen, daß die kinetische Energie eines Elektrons\nzur Erzeugung vieler Lichtenergiequanten verwendet wird.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "3 9. Über die Ionisierung der Gase durch ultraviolettes Licht.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir werden anzunehmen haben, daß bei der Ionisierung\neines Gases durch ultraviolettes Licht je ein absorbiertes Licht-\n1) P. Lenard, I. e. p. 150 und p. 166—168.\n2) P. Lenard, Ann. d. Phys. 12. p. 469. 1903.\n10*",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 17 ---\n148 4. Einstein. Erzeugung und Verwandlung des Lichtes.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "energieguant zur Ionisierung je eines Gasmoleküles verwendet\nwird. Hieraus folgt zunächst, daß die Ionisierungsarbeit (d. h.\ndie zur Ionisierung theoretisch nötige Arbeit) eines Moleküles\nnicht größer sein kann als die Energie eines absorbierten\nwirksamen Lichtenergiequantes, Bezeichnet man mit J die\n(theoretische) Ionisierungsarbeit pro Grammäquivalent, so muß\nalso sein:\nRd.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nach Messungen Lenards ist aber die größte wirksame\nWellenlänge für Luft ca. 1,9.10-5cm, also",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Eine obere Grenze für die Ionisierungsarbeit gewinnt\nman auch aus den Ionisierungsspannungen in verdünnten Gasen.\nNach J. Stark)) ist die kleinste gemessene lonisierungs-\nspannung (an Platinanoden) für Luft ca. 10 Volt.2) Es ergibt\nsich also für J die obere Grenze 9,6.1022, welche nahezu\ngleich der eben gefundenen ist. Es ergibt sich noch eine\nandere Konsequenz, deren Prüfung durch das Experiment mir\nvon großer Wichtigkeit zu sein scheint. Wenn jedes absor-\nbierte Lichtenergiequant ein Molekül ionisiert, so muß zwischen\nder absorbierten Lichtmenge Z und der Anzahl j der durch\ndieselbe ionisierten Grammoleküle die Beziehung bestehen:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ZT ra\nDiese Beziehung muß, wenn unsere Auffassung der Wirklich-\nkeit entspricht, für jedes Gas gelten, welches (bei der betreffen-\nden Frequenz) keine merkliche nicht von Ionisation begleitete\nAbsorption aufweist.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Bern, den 17. März 1905.\n1) J. Stark, Die Elektrizität in Gasen p. 57. Leipzig 1902.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2) Im Gasinnern ist die Ionisierungsspannung für negative Ionen\nallerdings fünfmal größer.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]

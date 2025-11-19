@@ -1,0 +1,1056 @@
+[
+  {
+    "paragraph": "The Fundamental Equations of Quantum Mechanics",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Source: Proceedings of the Royal Society of London. Series A, Containing Papers of a\nMathematical and Physical Character, Vol. 109, No. 752 (Dec. 1, 1925), pp. 642-653\nPublished by: Royal Society",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Stable URL: http://www.jstor.org/stable/94441",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide\nrange of content in a trusted digital archive. We use information technology and tools to increase productivity and",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "CF Royal Society is collaborating with JSTOR to digitize, preserve and extend access to\n~Es bY Proceedings of the Royal Society of London. Series A, Containing Papers of a\ne& joi Mathematical and Physical Character",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The Fundamental Equations of Quantum Mechanics.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "By P. A. M. Drrac, 1851 Exhibition Senior Research Student, St. John’s\nCollege, Cambridge.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(Communicated by R. H. Fowler, F.R.S.—Received November 7th, 1925.)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "It is well known that the experimental facts of atomic physics necessitate\na departure from the classical theory of electrodynamics in the description of\natomic phenomena. This departure takes the form, in Bohr’s theory, of the\nspecial assumptions of the existence of stationary states of an atom, in which it\ndoes not radiate, and of certain rules, called quantum conditions, which fix\nthe stationary states and the frequencies of the radiation emitted during tran-\nsitions between them. These assumptions are quite foreign to the classical\ntheory, but have been very successful in the interpretation of a restricted region\nof atomic phenomena. The only way in which the classical theory is used is\nthrough the assumption that the classical laws hold for the description of the\nmotion in the stationary states, although they fail completely during transitions,\nand the assumption, called the Correspondence Principle, that the classical\ntheory gives the right results in the limiting case when the action per cycle of\nthe system is large compared to Planck’s constant h, and in certain other special\ncases.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "This departure takes the form, in Bohr’s theory, of the special assumptions of the existence of stationary states of an atom, in which it does not radiate, and of certain rules, called quantum conditions, which fix the stationary states and the frequencies of the radiation emitted during transitions between them.",
+        "Metaphorical phrase": "This departure takes the form",
+        "Type": "Structural",
+        "Conceptual Mapping": "Changing scientific theories is like physically moving or changing shapes"
+      },
+      {
+        "Full sentence": "The only way in which the classical theory is used is through the assumption that the classical laws hold for the description of the motion in the stationary states, although they fail completely during transitions, and the assumption, called the Correspondence Principle, that the classical theory gives the right results in the limiting case when the action per cycle of the system is large compared to Planck’s constant h, and in certain other special cases.",
+        "Metaphorical phrase": "the classical laws hold for the description",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theories functioning correctly is like physically holding up a structure"
+      }
+    ],
+    "paradoxes": [
+      {
+        "Full sentence": "The only way in which the classical theory is used is through the assumption that the classical laws hold for the description of the motion in the stationary states, although they fail completely during transitions, and the assumption, called the Correspondence Principle, that the classical theory gives the right results in the limiting case when the action per cycle of the system is large compared to Planck’s constant h, and in certain other special cases.",
+        "Terms/concepts in conflict": [
+          "Classical theory of electrodynamics",
+          "Bohr's theory",
+          "Correspondence Principle"
+        ],
+        "Short explanation of the paradox": "The paradox lies in the simultaneous reliance on and rejection of the classical theory of electrodynamics. While the classical theory is deemed inadequate for describing atomic phenomena, it is still used to describe motion in stationary states and in certain limiting cases. This creates a tension between the need for a new theory (Bohr's theory) and the continued use of the old theory (classical electrodynamics)."
+      }
+    ]
+  },
+  {
+    "paragraph": "In a recent paper* Heisenberg puts forward a new theory, which suggests\nthat it is not the equations of classical mechanics that are in any way at fault,\nbut that the mathematical operations by which physical results are deduced\nfrom them require modification. All the information supplied by the classical\ntheory can thus be made use of in the new theory.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "In a recent paper* Heisenberg puts forward a new theory, which suggests that it is not the equations of classical mechanics that are in any way at fault, but that the mathematical operations by which physical results are deduced from them require modification.",
+        "Metaphorical phrase": "equations of classical mechanics that are in any way at fault",
+        "Type": "Structural",
+        "Conceptual Mapping": "Equations are entities that can be at fault"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "In a recent paper* Heisenberg puts forward a new theory, which suggests that it is not the equations of classical mechanics that are in any way at fault, but that the mathematical operations by which physical results are deduced from them require modification.",
+        "terms_in_conflict": [
+          "equations of classical mechanics",
+          "mathematical operations"
+        ],
+        "explanation": "The paradox lies in the assertion that the equations of classical mechanics are not at fault, but the mathematical operations used to deduce physical results from them need modification. This implies that the equations themselves are correct, but the way they are used is not, which is a contradiction because the use of equations is inherent to their correctness.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "All the information supplied by the classical theory can thus be made use of in the new theory.",
+        "terms_in_conflict": [
+          "classical theory",
+          "new theory"
+        ],
+        "explanation": "The paradox here is that the new theory, which suggests a modification in the mathematical operations of the classical theory, can still make use of all the information supplied by the classical theory. This implies that the new theory is both a departure from and a continuation of the classical theory, which is a contradiction.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "Consider a multiply periodic non-degenerate dynamical system of w degrees\nof freedom, defined by equations connecting the co-ordinates and their time\ndifferential coefficients. We may solve the problem on the classical theory in\nthe following way. Assume that each of the co-ordinates 2 can be expanded\nin the form of a multiple Fourier series in the time ¢, thus,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "B= Day anh (rhe «6+ Oy) EXP. 4 (1 + oe +... + ayy)\n= Lx, exp. 1 (aw) t,\n* Heisenberg, ‘Zeits. f. Phys.,’ vol. 33, p. 879 (1925).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 3 ---\nFundamental Equations of Quantum Mechanics. 643",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "say, for brevity. Substitute these values in the equations of motion, and equate\nthe coefficients on either side of each harmonic term. The equations obtained\nin this way (which we shall call the A equations) will determine each of the\namplitudes x, and frequencies (xw), (the frequencies being measured in radians\nper unit time). The solution will not be unique. There will be a u-fold\ninfinity of solutions, which may be labelled by taking the amplitudes and\nfrequencies to be functions of uw constants x,... ty, Each #, and (aw) is\nnow a function of two sets of numbers, the «’s and the «’s, and may be written\nLany (KW).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In the quantum solution of the problem, according to Heisenberg, we still\nassume that each co-ordinate can be represented by harmonic components\nof the form exp. twé, the amplitude and frequency of each depending on two\nsets of numbers n,... 7%, and m,...m,, in this case all integers, and being\nwritten (nm), (nm). The differences n, — m, correspond to the previous\n%,, but neither the n’s nor any functions of the n’s and m’s play the part of the\nprevious «’s in pointing out to which solution each particular harmonic\ncomponent belongs. We cannot, for instance, take together all the components\nfor which the n’s have a given set of values, and say that these by themselves\nform a single complete solution of the equations of motion. The quantum\nsolutions are all interlocked, and must be considered as a single whole. The\neffect of this mathematically is that, while on the classical theory each of the\nA equations is a relation between amplitudes and frequencies having one\nparticular set of «’s, the amplitudes and frequencies occurring in a quantum\nA equation do not have one particular set of values for the n’s, or for any\nfunctions of the n’s and m’s, but have their n’s and m’s related in a special way,\nwhich will appear later.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The quantum solutions are all interlocked, and must be considered as a single whole.",
+        "Metaphorical phrase": "The quantum solutions are all interlocked, and must be considered as a single whole.",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantum solutions are puzzles"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The quantum solutions are all interlocked, and must be considered as a single whole.",
+        "terms_in_conflict": [
+          "quantum solutions",
+          "single whole"
+        ],
+        "explanation": "The paradox lies in the idea that quantum solutions, which are typically considered as individual, discrete entities, are here described as being interlocked and needing to be considered as a single whole. This contradicts the common understanding of quantum solutions as separate and distinct.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "The effect of this mathematically is that, while on the classical theory each of the A equations is a relation between amplitudes and frequencies having one particular set of «’s, the amplitudes and frequencies occurring in a quantum A equation do not have one particular set of values for the n’s, or for any functions of the n’s and m’s, but have their n’s and m’s related in a special way, which will appear later.",
+        "terms_in_conflict": [
+          "classical theory",
+          "quantum A equation"
+        ],
+        "explanation": "The paradox here is the contrast between the classical theory, where each equation has a specific set of values, and the quantum A equation, where the values are not specific but are related in a special way. This presents a tension between the predictability and specificity of classical theory and the uncertainty and interconnectedness of quantum theory.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "On the classical theory we have the obvious relation",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Following Heisenberg, we assume that the corresponding relation on the\nquantum theory is",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "@ (n,n — 4) + @(n — a, mM —a—B) = w(n, n— a — B)\nor",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This means that w (nm) is of the form Q (n) — Q (m), the 0’s being frequency\nlevels. On Bohr’s theory these would be 27/h times the energy levels, but we\ndo not need to assume this.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 4 ---\n644 P. A. M. Dirac.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "On the classical theory we can multiply two harmonic components related to\nthe same set of «’s, as follows :—",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Gag EXP. % (HOD), E. Dee EXP. 7 (BO). = (Ab) ate CXP-t(% + B, O)eb\nwhere\n(ab) a+.6,6 = FaxDpee\nIn a corresponding manner on the quantum theory we can multiply an (nm)\nand an (mk) component",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a (nm) exp. t@ (nm) t.b (mk) exp. iw (mk) t = ab (nk) exp. iw (nk) t\nwhere ab (nk) = a (nm) b (mk).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We are thus led to consider the product of the amplitudes of an (nm) and\nan (mk) component as an (vk) amplitude. This, together with the rule that\nonly amplitudes related to the same pair of sets of numbers can occur added\ntogether in an A equation, replaces the classical rule that all amplitudes\noccurring in an A equation have the same set of «’s.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We are now in a position to perform the ordinary algebraic operations on\nquantum variables. The sum of and y is determined by the equations",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "{e+ y} (am) = a (nm) + y (nm)\nand the product by\nay (nm). Ly, a(n) y (km) (2)\nsimilar to the classical product\n(ty) ax = DirYar, ws",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "An important difference now occurs between the two algebras. In general\nay (nm) = yx (nm)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "and quantum multiplication is not commutative, although, as is easily verified,\nit is associative and distributive. The quantity with components zy (nm)\ndefined by (2) we shall call the Heisenberg product of « and y, and shall write\nsimply as zy. Whenever two quantum quantities occur multiplied together,\nthe Heisenberg product will be understood. Ordinary multiplication is, of\ncourse, implied in the products of amplitudes and frequencies and other\nquantities that are related. to sets of n’s which are explicitly stated.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The reciprocal of a quantum quantity « may be defined by either of the",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "relations\nIfje.n=1 or w.lfo=l, (3)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "These two equations are equivalent, since if we multiply both sides of the",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 5 ---\nFundamental Equations of Quantum Mechanics. 645",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "former by « in front and divide by x behind we get the latter. In a similar\nway the square root of « may be defined by",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "former by « in front and divide by x behind we get the latter.",
+        "Metaphorical phrase": "« in front and divide by x behind",
+        "Type": "Structural",
+        "Conceptual Mapping": "Mathematical operation is a physical movement"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "It is not obvious that there always should be solutions to (3) and (4). In\nparticular, one may have to introduce sub-harmonics, 7.e., new intermediate\nfrequency levels, in order to express4/z. One may evade these difficulties by\nrationalising and multiplying up each equation before interpreting it on the\nquantum theory and obtaining the A equations from it.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We are now able to take over each of the equations of motion of the system\ninto the quantum theory provided we can decide the correct order of the\nquantities in each of the products. Any equation deducible from the equations\nof motion by algebraic processes not involving the interchange of the factors\nof a product, and by differentiation and integration with respect to ¢, may\nalso be taken over into the quantum theory. In particular, the energy\nequation may be thus taken over.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The equations of motion do not suffice to solve the quantum problem. On\nthe classical theory the equations of motion do not determine the x,, (2),\nas functions of the «’s until we assume something about the «’s which serves\nto define them. We could, if we liked, complete the solution by choosing\nthe «’s such that 0E/0«, = «,/2nx, where E is the energy of the system,\nwhich would make the «, equal the action variables J,. There must be corre:\nsponding equations on the quantum theory, and these constitute the quantum\nconditions.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "The equations of motion do not suffice to solve the quantum problem.",
+        "terms_in_conflict": [
+          "equations of motion",
+          "quantum problem"
+        ],
+        "explanation": "This sentence presents a paradox in that the equations of motion, which should theoretically be able to describe all physical phenomena, are insufficient for solving quantum problems. This suggests a fundamental tension between classical and quantum physics.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "On the classical theory the equations of motion do not determine the x,, (2), as functions of the «’s until we assume something about the «’s which serves to define them.",
+        "terms_in_conflict": [
+          "classical theory",
+          "equations of motion",
+          "x,, (2)",
+          "«’s"
+        ],
+        "explanation": "This sentence presents a paradox in that the classical theory's equations of motion cannot determine certain variables until assumptions are made about those same variables. This suggests a circular dependency and a limitation of the classical theory.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "There must be corresponding equations on the quantum theory, and these constitute the quantum conditions.",
+        "terms_in_conflict": [
+          "corresponding equations",
+          "quantum theory",
+          "quantum conditions"
+        ],
+        "explanation": "This sentence presents a paradox in that it suggests there must be equations in quantum theory that correspond to those in classical theory, yet the earlier sentences have established that the classical equations are insufficient for quantum problems. This suggests a tension between the need for correspondence and the distinctness of quantum phenomena.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "Up to the present the only differentiation that we have considered on the\nquantum theory is that with respect to the time ¢. We shall now determine\nthe form of the most general quantum operation d/dv that satisfies the laws",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "@ gt yy =egt ft\ndy OT N= et Ah ®\nand\nd d ad\nDOG yt say. (II)",
+    "paragraph_type": "Unknown",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(Note that the order of « and y is preserved in the last equation.)\nThe first of these laws requires that the amplitudes of the components of\ndx/dv shall be linear functions of those of a, 7.e.,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "da|dv (nm) = Xam a (nm; n'm’) x (n'm’). (5)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 6 ---\n646 P. A. M. Dirac.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "There is one coefficient a (nm; n’m’) for any four sets of integral values for\nthe n’s, m’s, n”s and m'’s. The second law imposes conditions on the a’s.\nSubstitute for the differential coefficients in II their values according to (5)\nand equate the (nm) components on either side. The result is",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Lame &(nm 3 n'm’) x (n’k) y (kim’) = Xp a (nk 5 nk’) x (n'k’) y (km)\n+ Zim & (nk) a (km; k'm’) y (k'm’).\nThis must be true for all values of the amplitudes of # and y, so that we can\nequate the coefficients of a (n’k) y(k'm’) on either side. Using the symbol",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sn to have the value unity when m= (i.e., when each m, = m,) and zero\nwhen m#n, we get",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Say @ (nm 3 n'm’) = Simm @ (nk; n'k) + Says @ (km; k’m’).\nTo proceed further, we have to consider separately the various cases of equality\nand inequality between the kk’, mm’ and nn’.\nTake first the case when k =k’, mm’, nn’. This gives\na(nm; n'm’) = 0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hence all the a (nm; n'm’) vanish except those for which either » =n’ or\nm= m’ (or both). The cases k 4k’, m=m', n#~n' andk#Ak', mAm,\nn=n' do not give us anything new. Now take the case k= hk’, m= wm’,\nn#n'. This gives",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hence a (nm ; n’m) is independent of m provided n # n’. Similarly, the case\nk=k',m A m’,n =n’ tells us that a (nm; nm’) is independent of n provided\nm#m'. The casek £k', m=m', n =n’ now gives\na(nk'; nk) +-a(km; k'm) = 0.\nWe can sum up these results by putting\na (nk! ; nk) = a (kk) == — a (km; k’m), (6)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "provided k 4k’. The two-index symbol a (kk’) depends, of course, only on\nthe two sets of integers k and k’. The only remaining case is k = kh’, m =m’,\nn =n’, which gives\na(nm; nm) = a (nk; nk) + a (km; km).\nThis means we can put\na (nm; nm) = a(mm) — a (nn). (7)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Equation (7) completes equation (6) by defining a (kk’) when k = kh’.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 7 ---\nFundamental Equations of Quantum Mechanics. 647",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dx|dv (nm) = Xin ~ma (nm; nm’) « (nm) + Ly en a (nm; n'm) x (n'm)\n-+ a{nm ; nm) x (nm)\n= Za xm @ (m'm) x (nm) — Xn an a(n’) & (n'm)\n+ {a (mm) — a (nn)}x (nm)\n== Li, {x (nk) a (km) — a (nk) x (km)}.\nHence\ndafdv = xa — az. (8)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Thus the most general operation satisfying the laws I and II that one can\nperform upon a quantum variable is that of taking the difference of its Heisen-\nberg products with some other quantum variable. It is easily seen that one\ncannot in general change the order of differentiations, 7.¢.,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "As an example in quantum differentiation we may take the case when (a)\nis a constant, so that a (nm) == 0 except when n =m. We get",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dx|dv (nm) = x (nm) a (mm) — a (nn) x (nm).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In particular, if 1a (mm) = Q (m), the frequency level previously introduced,\nwe have",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dx|dv (nm) == tw (nm) x (nm),\nand our differentiation with respect to v becomes ordinary differentiation with\nrespect to ¢.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We shall now consider to what the expression (zy — yx) corresponds on the\nclassical theory. To do this we suppose that 2 (2,Q—2) varies only slowly\nwith the n’s, the n’s being large numbers and the «’s small ones, so that we\ncan put",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "L(N, M— 0) = Cox\nwhere «, = n,h or (n,-+ «,) h, these being practically equivalent. We now have\n&(n, n—a) y (n—a, N—a—f) — y(n, n—B) a (n—B, n—a—B)\n{a (n, n—a)—x (n—B, n—B—a)} y (n—a«, n—a—B)\n{y (n,n —B)—y (n—a, n—a—B)} # (n—B, m—a—B).\n_ O@an, Yen |\n= 13, {8 SE Yn Sy an f+ (9)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 8 ---\n648 P. A. M. Dirac.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Now\n2718 yp exp. i (Ba) t = a {yp exp. + (Bo) t",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where the w, are the angle variables, equal to o,t/2. Hence the (nm)\ncomponent of (ay — yx) corresponds on the classical theory to",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "th fa] . 3 .\nFe Pappa nmB{ (ae exp. i (00) 1} 5 yp exp. (Ba)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "_ et exp. 4 (Bo) ¢} se {a, exp. i (ao) i",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "or (zy — yx) itself corresponds to\nth (32 oy oy ge\nIn\" (Ox, Ow, Ox, Ow,S”\nIf we make the «, equal the action variables J,, this becomes ih/2x times\nthe Poisson (or Jacobi) bracket expression\ntoa) = 256, ah bora ~ \"log dn otek\nwhere the p’s and q’s are any set of canonical variables of the system.\nThe elementary Poisson bracket expressions for various combinations of",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "the p’s and q’s are\n[4G] = 9, [pp pel = 0,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "[ges Pal = Sy = 0 (#8) (10)\n=l. (r= s))\nThe general bracket expressions satisfy the laws I and II, which now read\n(x, 2] + [yz] =[e+y, 2], Ia\n(ay, z] = [#, z]y + &[y, 2]. Ila\nBy means of these laws, together with [#,y] = — [y, x], if # and y are",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "given as algebraic functions of the p, and q,, [x,y] can be expressed in terms\nof the [q,, ds], [p» pe] and [q,,p,], and thus evaluated, without using the\ncommutative law of multiplication (except in so far as it is used implicitly on\naccount of the proof of Ila requiring it). The bracket expression [w, y] thus\nhas a meaning on the quantum theory when x and y are quantum variables,\nif we take the elementary bracket expressions to be still given by (10).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We make the fundamental assumption that the difference between the Heisen-\nberg products of two quantum quantities is equal to th/2m times their Poisson\nbracket expression. In symbols,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 9 ---\nFundamental Equations of Quantum Mechanics. 649",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We have seen that this is equivalent, in the limiting case of the classical\ntheory, to taking the arbitrary quantities x, that label a solution equal to\nthe J,, and it seems reasonable to take (11) as constituting the general quantum\nconditions.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "lt is not obvious that all the information supplied by equation (11) is con-\nsistent. Owing to the fact that the quantities on either side of (11) satisfy\nthe same laws I and IT or Ia and Ia, the only independent conditions given by\n(11) are those for which x and y are p’s or q’s, namely",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "PDs — PsPp = 0 fae (12)\nVPs — Pdr = Sis th [2 J",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If the only grounds for believing that the equations (12) were consistent with\neach other and with the equations of motion were that they are known to be\nconsistent in the limit when 4-> 0, the case would not be very strong, since\none might be able to deduce from them the inconsistency that h = 0, which\nwould not be an inconsistency in the limit. There is much stronger evidence\nthan this, however, owing to the fact that the classical operations obey the\nsame laws as the quantum ones, so that if, by applying the quantum operations,\none can get an inconsistency, by applying the classical operations in the same\nway one must also get an inconsistency. If a series of classical operations\nleads to the equation 0 = 0, the corresponding series of quantum operations\nmust also lead to the equation 0 = 0, and not to h = 0, since there is no way\nof obtaining a quantity that does not vanish by a quantum operation with\nquantum variables such that, the corresponding classical operation with the\ncorresponding classical variables gives a quantity that does vanish. The\npossibility mentioned above of deducing by quantum operations the incon-\nsistency h = 0 thus cannot occur. The correspondence between the quantum\nand classical theories lies not so much in the limiting agreement when h->0 as\nin the fact that the mathematical operations on the two theories obey in many cases\nthe same laws. :",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The correspondence between the quantum and classical theories lies not so much in the limiting agreement when h->0 as in the fact that the mathematical operations on the two theories obey in many cases the same laws.",
+        "Metaphorical phrase": "The correspondence between the quantum and classical theories lies",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantum and classical theories are locations on a map"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "If the only grounds for believing that the equations (12) were consistent with each other and with the equations of motion were that they are known to be consistent in the limit when 4-> 0, the case would not be very strong, since one might be able to deduce from them the inconsistency that h = 0, which would not be an inconsistency in the limit.",
+        "terms_in_conflict": [
+          "Consistency of equations",
+          "Inconsistency that h = 0"
+        ],
+        "explanation": "The paradox arises from the fact that the equations are considered consistent, but there is a possibility of deducing an inconsistency (h = 0) from them. This inconsistency, however, would not be considered an inconsistency in the limit, creating a tension between the concepts of consistency and inconsistency.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "There is much stronger evidence than this, however, owing to the fact that the classical operations obey the same laws as the quantum ones, so that if, by applying the quantum operations, one can get an inconsistency, by applying the classical operations in the same way one must also get an inconsistency.",
+        "terms_in_conflict": [
+          "Quantum operations",
+          "Classical operations"
+        ],
+        "explanation": "The paradox here is that despite the quantum and classical operations obeying the same laws, an inconsistency derived from quantum operations should also be derived from classical operations. This creates a tension between the expected outcomes of quantum and classical operations.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "If a series of classical operations leads to the equation 0 = 0, the corresponding series of quantum operations must also lead to the equation 0 = 0, and not to h = 0, since there is no way of obtaining a quantity that does not vanish by a quantum operation with quantum variables such that, the corresponding classical operation with the corresponding classical variables gives a quantity that does vanish.",
+        "terms_in_conflict": [
+          "Classical operations",
+          "Quantum operations"
+        ],
+        "explanation": "The paradox arises from the expectation that classical and quantum operations, despite being governed by the same laws, should lead to the same results. However, the text suggests that a quantum operation cannot yield a non-vanishing quantity if the corresponding classical operation yields a vanishing quantity, creating a contradiction.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "For a system of one degree of freedom, if we take p = mq, the only quantum",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "condition is\n2rm (9G — Gq) = th.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Equating the constant part of the left-hand side to 7h, we get\ndrm &y, q (nk) ¢ (kn) w (kn) = h,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 10 ---\n650 P. A. M. Dirac.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This is equivalent to Heisenberg’s quantum condition.* By equating the\nremaining components of the left-hand side to zero we get further relations\nnot given by Heisenberg’s theory.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "This is equivalent to Heisenberg’s quantum condition.* By equating the remaining components of the left-hand side to zero we get further relations not given by Heisenberg’s theory.",
+        "terms_in_conflict": [
+          "equivalent to Heisenberg’s quantum condition",
+          "further relations not given by Heisenberg’s theory"
+        ],
+        "explanation": "The paradox arises from the claim that the condition is equivalent to Heisenberg's quantum condition, but also yields further relations not given by Heisenberg's theory. If it is truly equivalent, it should not produce additional results not present in Heisenberg's theory.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "The quantum conditions (12) get over, in many cases, the difficulties concern-\ning the order in which quantities occurring in products in the equations of\nmotion are to be taken. The order does not matter except when a p, and q,\nare multiplied together, and this never occurs in a system describable by a\npotential energy function that depends only on the q’s, and a kinetic energy\nfunction that depends only on the p’s.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "The order does not matter except when a p, and q, are multiplied together, and this never occurs in a system describable by a potential energy function that depends only on the q’s, and a kinetic energy function that depends only on the p’s.",
+        "terms_in_conflict": [
+          "Order of multiplication",
+          "Potential energy function",
+          "Kinetic energy function"
+        ],
+        "explanation": "The paradox lies in the fact that the order of multiplication matters when p and q are multiplied together, but the system described does not allow for this multiplication to occur. This creates a tension between the mathematical operations and the physical system being described.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "It may be pointed out that the classical theory quantity occurring in Kramers’\nand Heisenberg’s theory of scattering by atomst has components which are\nof the form (8) (with «,=J,), and which are interpreted on the quantum\ntheory in a manner in agreement with the present theory. No classical expres-\nsion involving differential coefficients can be interpreted on the quantum\ntheory unless it can be put into this form.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "§5. Properties of the Quantum Poisson Bracket Expressions.\nIn this section we shall deduce certain results that are independent of the\nassumption of the quantum conditions (11) or (12).\nThe Poisson bracket expressions satisfy on the classical theory the identity",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(x, y, 2] = [le yk 2] + [ly 2] #] + [lz #] y] =0. (13)\nOn the quantum theory this result is obviously true when «, y and z are\np’s or gs. Also, from Ia and IIa",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "[y+ %a y, 2] =[%, y, zZ] + [%2, y, 2]",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "and\n[®1, Vg, Y, 2] = © [Z, y, 2] + [%, Y, Z] Vp.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hence the result must still be true on the quantum theory when 2, y and z",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "are expressible in any way as sums and products of p’s and q’s, so that it must\nbe generally true. Note that the identity corresponding to (13) when the\nPoisson bracket expressions are replaced by the differences of the Heisenberg\nproducts (ay — yx) is obviously true, so that there is no inconsistency with\nequation (11).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If H is the Hamiltonian function of the system, the equations of motion\nmay be written classically :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "* Heisenberg, loc. cit. equation (16).\n+ Kramers and Heisenberg, ‘Zeits. f. Phys.,’ vol. 31, p. 681, equation (18), (1925).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 11 ---\nFundamental Equations of Quantum Mechanics. 651",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "These equations will be true on the quantum theory for systems for which\nthe orders of the factors of products occurring in the equations of motion are\nunimportant. They may be taken to be true for systems for which these\norders are important if one can decide upon the orders of the factors in H.\nFrom laws Ia and IIa it follows that",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "& = [#, H] (14)\non the quantum theory for any «.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If A is an integral of the equations of motion on the quantum theory,\nthen.\n[A, H] =0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The action variables J, must, of course, satisfy this condition. If A, and A,\nare two such integrals, then, by a simple application of (13), it follows that",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "[A,, Ag] = const.\nas on the classical theory.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "[A,, Ag] = const. as on the classical theory.",
+        "Metaphorical phrase": "as on the classical theory",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Present theories are compared to classical theories"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The conditions on the classical theory that a set of variables P,, Q, shall be\ncanonical are",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "[Q, Q]=0  [P,, PJ] =9\n[Qys Pl = Sree",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "These equations may be taken over into the quantum theory as the conditions\nfor the quantum variables P,, Q, to be canonical.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "On the classical theory we can introduce the set of canonical variables\nE,, 4, related to the uniformising variables J,, w,, by",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "€, = (2x)? Ip exp. 2niw, yy = — 1 Qn) exp. — 2niw,.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Presumably there will be a corresponding set of canonical variables on the\nquantum theory, each containing only one kind of component, so that\n2, (nm) =0 except when m,=n,— 1 and m, =n, (s #7), and yy (nm) = 0\nexcept when m,=m,+1 and m,=n,(s #7). One may consider the\nexistence of such variables as the condition for the system to be multiply periodic\non the quantum theory. The components of the Heisenberg products of\n&, and », satisfy the relation",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "En, (nn) = &, (nm) np (mn) = hy (mn) &, (mm) = npb, (mm) (15)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where the m’s are related to the ”’s by the formule m, = n,—1, m, = 7, (8 #1).\nThe classical &’s and 7’s satisfy n= — 7/2x.J,. This relation does not\nnecessarily hold between the quantum &’s and y’s. The quantum relation",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 12 ---\n652 P. A. M. Dirac.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "may, for instance, be 1,€,= —7/2r.J,, or 4 (Ene mb,) = — t/2n. J,\nA detailed investigation of any particular dynamical system is necessary in\norder to decide what it is. In the event of the last relation being true, we\ncan introduce the set of canonical variables ¢,’, n,’ defined by",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Eyl = (Ent tne) 2, ae = (Ue tt) V2\nand shall then have\nSpan 2+ ay).\nThis is the case that actually occurs for the harmonic oscillator. In general\nJ, is not necessarily even a rational function of the &, and y,, an example\nof this being the rigid rotator considered by Heisenberg.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "A quantity C, that does not vary with the time, has all its (nm) components\nzero, except those for which x =m. It thus becomes convenient to suppose\neach set of n’s to be associated with a definite state of the atom, as on Bohr’s\ntheory, so that each C (nn) belongs to a certain state in precisely the same way\nin which every quantity occurring in the classical theory belongs to a certain\nconfiguration. The components of a varying quantum quantity are so inter-\nlocked, however, that it is impossible to associate the sum of certain of them with\na given state.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The components of a varying quantum quantity are so interlocked, however, that it is impossible to associate the sum of certain of them with a given state.",
+        "Metaphorical phrase": "The components of a varying quantum quantity are so interlocked",
+        "Type": "Structural",
+        "Conceptual Mapping": "Components of a quantum quantity are interlocked pieces"
+      },
+      {
+        "Full sentence": "A quantity C, that does not vary with the time, has all its (nm) components zero, except those for which x =m.",
+        "Metaphorical phrase": "A quantity C, that does not vary with the time, has all its (nm) components zero",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantity is a container with components"
+      },
+      {
+        "Full sentence": "It thus becomes convenient to suppose each set of n’s to be associated with a definite state of the atom, as on Bohr’s theory, so that each C (nn) belongs to a certain state in precisely the same way in which every quantity occurring in the classical theory belongs to a certain configuration.",
+        "Metaphorical phrase": "each set of n’s to be associated with a definite state of the atom",
+        "Type": "Structural",
+        "Conceptual Mapping": "Sets of values are associated with states of the atom"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The components of a varying quantum quantity are so interlocked, however, that it is impossible to associate the sum of certain of them with a given state.",
+        "terms_in_conflict": [
+          "association of components with a given state",
+          "interlocked components of a varying quantum quantity"
+        ],
+        "explanation": "The paradox arises from the assertion that each set of n's (components of a quantity C) can be associated with a definite state of the atom, while simultaneously stating that the interlocked nature of varying quantum quantity components makes it impossible to associate the sum of certain components with a given state.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "A relation between quantum quantities reduces, when all the quantities are\nconstants, to a relation between C(nm)’s belonging to a definite stationary state n.\nThis relation will be the same as the classical theory relation, on the assumption\nthat the classical laws hold for the description of the stationary states ; in\nparticular, the energy will be the same function of the J’s as on the classical",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "A relation between quantum quantities reduces, when all the quantities are constants, to a relation between C(nm)’s belonging to a definite stationary state n.",
+        "terms_in_conflict": [
+          "quantum quantities",
+          "constants"
+        ],
+        "explanation": "Quantum quantities are inherently probabilistic and not constant, so the idea of them reducing to constants is paradoxical.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "This relation will be the same as the classical theory relation, on the assumption that the classical laws hold for the description of the stationary states ; in particular, the energy will be the same function of the J’s as on the classical",
+        "terms_in_conflict": [
+          "classical theory relation",
+          "quantum relation"
+        ],
+        "explanation": "Classical physics and quantum physics are fundamentally different in their descriptions of the universe, so the idea that a quantum relation could be the same as a classical relation under certain conditions is paradoxical.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "theory. We have here a justification for Bohr’s assumption of the mechanical\nnature of the stationary states. It should be noted though, that the variable\nquantities associated with a stationary state on Bohr’s theory, the amplitudes\nand frequencies of orbital motion, have no physical meaning and are of no\nmathematical importance.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If we apply the fundamental equation (11) to the quantities « and H we get,\nwith the help of (14),",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a (nm) H (mm) — H (nn) « (nm) = th/2n . & (nm) = — h/2x . w (nm) x (nm),\nor H (nn) — H (mm) = h/2n . w (nm).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This is just Bohr’s relation connecting the frequencies with the energy\ndifferences.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 13 ---\nFundamental Hquations of Quantum Mechames. 653",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The quantum condition (11) applied to the previously introduced canonical\nvariables &,, jp gives\nEqn (nm) — heb, (nm) == th [27 . [Ep No] = th/2re.\nThis equation combined with (15) shows that\nE,ny» (nn) = — 1, th/27m + const.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "It is known physically that an atom has a normal state in which it does not\nradiate. This is taken account of in the theory by Heisenberg’s assumption\nthat all the amplitudes C (mm) having a negative n, or m, vanish, or rather do\nnot exist, if we take the normal state to be the one for which every n, is zero.\nThis makes &,n, (nn) = 0 when n, = 0 on account of equation (15). Hence in\ngeneral",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If Eq, = — 1/20. J,, then J, = 2,h. This is just the ordinary rule for quan-\ntising the stationary states, so that in this case the frequencies of the system\nare the same as those given by Bohr’s theory. If 4 (En, + 8) = — /2n.J,,\nthen J, = (n,-+4)h. Hence in general in this case, half quantum numbers\nwould have to be used to give the correct frequencies by Bohr’s theory.*",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Up to the present we have considered only multiply periodic systems. There\ndoes not seem to be any reason, however, why the fundamental equations (11)\nand (12) should not apply as well to non-periodic systems, of which none of\nthe constituent particles go off to infinity, such as a general atom. One would\nnot expect the stationary states of such a system to classify, except perhaps\nwhen there are pronounced periodic motions, and so one would have to assign\na single number n to each stationary state according to an arbitrary plan. Our\nquantum variables would still have harmonic components, each related to\ntwo n’s, and Heisenberg multiplication could be carried out exactly as before,\nThere would thus be no ambiguity in the interpretation of equations (12) or\nof the equations of motion.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Our quantum variables would still have harmonic components, each related to two n’s, and Heisenberg multiplication could be carried out exactly as before,",
+        "Metaphorical phrase": "harmonic components",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantum variables are like musical notes"
+      },
+      {
+        "Full sentence": "There would thus be no ambiguity in the interpretation of equations (12) or of the equations of motion.",
+        "Metaphorical phrase": "no ambiguity",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Understanding is seeing clearly"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "There does not seem to be any reason, however, why the fundamental equations (11) and (12) should not apply as well to non-periodic systems, of which none of the constituent particles go off to infinity, such as a general atom.",
+        "terms_in_conflict": [
+          "multiply periodic systems",
+          "non-periodic systems"
+        ],
+        "explanation": "The author suggests that equations previously applied to multiply periodic systems should also apply to non-periodic systems. This is paradoxical because the nature of these two types of systems is fundamentally different, which could imply that the same equations may not be applicable.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "One would not expect the stationary states of such a system to classify, except perhaps when there are pronounced periodic motions, and so one would have to assign a single number n to each stationary state according to an arbitrary plan.",
+        "terms_in_conflict": [
+          "stationary states",
+          "pronounced periodic motions"
+        ],
+        "explanation": "The author suggests that stationary states of a non-periodic system may not classify, except when there are pronounced periodic motions. This is paradoxical because the presence of pronounced periodic motions in a non-periodic system contradicts the very definition of a non-periodic system.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "I would like to express my thanks to Mr. R. H. Fowler, F.R.S., for many\nvaluable suggestions in the writing of this paper.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "* In the special case of the Planck oscillator, since the energy is a linear function of J,\nthe frequency would come right in any case.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded from 128.103.149.52 on Mon, 18 Dec 2017 18:24:31 UTC\nAll use subject to http://about jstor.org/terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]

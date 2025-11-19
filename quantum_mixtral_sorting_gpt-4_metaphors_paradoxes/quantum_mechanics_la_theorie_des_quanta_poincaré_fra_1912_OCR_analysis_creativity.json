@@ -1,0 +1,1618 @@
+[
+  {
+    "paragraph": "H. Poincaré. Sur la théorie des quanta.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "J. Phys. Theor. Appl., 1912, 2 (1), pp.5-34.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "10.1051/jphystap:0191200200500 .… jpa-00241783",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "HAL Id: jpa-00241783\nhttps://hal.science/jpa-00241783v1\nSubmitted on 4 Feb 2008",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "HAL is à multi-disciplinary open access\narchive for the deposit and dissemination of sci-\nentific research documents, whether they are pub-\nlished or not. The documents may come from\nteaching and research institutions in France or\nabroad, or from public or private research centers.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "L'’archive ouverte pluridisciplinaire HAL, est\ndestinée au dépôt et à la diffusion de documents\nscientifiques de niveau recherche, publiés ou non,\némanant des établissements d’enseignement et de\nrecherche français ou étrangers, des laboratoires\npublics ou privés.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 2 ---\nJOURNAL\nDE PHYSIQUE",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "On sait à quelle hypothèse M. Planck a été conduit par ses re-\ncherches sur les lois du rayonnement. D'après lui, l'énergie des ra-\n‘ diateurs lumineux varierait d'une manière discontinue, et c'est ce\nqu'on appelle la théorie des Quanta. Il est à peine nécessaire de\nfaire remarquer combien cette conception s’écarte de tout ce qu'on\navait imaginé jusqu'ici; les phénomènes physiques cesseraient\nd’obéir à des lois exprimables par des équations différentielles, et ce\nserait là, sans aucun doute, la plus grande révolution et la plus pro-\nfonde que la philosophie naturelle ait subie depuis Newton. Je ne\nparlerai pas des difficultés de détail, elles sautent à tous les yeux et\nM. Planck est le premier à s’en préoccuper.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Peut-on néanmoins échapper à cette conséquence ? Bien des per-\nsonnes l'ont pensé; lors du récent Congrès de Bruxelles, M. Nernst\nm'avait communiqué certaines suggestions ; il pensait qu’on pourrait\nrendre compte des faits, en supposant que les masses, au lieu d’être\nconstantes comme dans la mécanique classique, au lieu de dépendre\nseulement de la vitesse, comme dans la mécanique nouvelle fondée\nsur le principe de relativité, soient dépendantes à la fois des compo-\nsantes de la vitesse et de celles de l'accélération. Ce sont ces sug-\ngestions de M. Nernst qui m'ont déterminé à entreprendre ce tra-\nvail, et je dois dire tout de suite que j'ai été conduit à répondre\nnégativement à la question posée par l'éminent physicien.",
+    "paragraph_type": "Unknown",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "M. Planck se représente le rayonnement des solides comme dû à\nun très grand nombre de résonnateurs hertziens. Chacun de ces réson-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Article published online by EDP Sciences and available at http://dx.doi.org/10.1051/jphystap:0191200200500",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "nateurs a une période propre unique et émet une lumière rigoureu-\nsement monochromatique. Par suite des échanges d'énergie entre\nces résonnateurs, il s'établit entre eux un partage del’énergie suivant\nune certaine loi, et il en résulte une certaine distribution de l'énergie\nrayonnée dans le spectre. Ceci suppose que ces échanges d’énergie\nsont possibles, bien que chaque résonnateur ne puisse ni absorber,'ni\némettre que de la lumière d’une couleur donnée; car, si l'échange ne\npouvait avoir lieu, on ne tendrait pas vers une distribution finale et\nla distribution initiale persisterait indéfiniment. Maïs ces échanges\npeuvent se faire par deux mécanismes entièrement différents :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1° Par le jeu du principe de Düppler-Fizeau ; soit que les réson-\nnateurs soient supposés en mouvement, soit que la lumière rayonnée\npuisse être réfléchie, réfractée, diffractée ou diffusée par des corps\nen mouvement. Dans ce cas, les résonnateurs de longueurs d'ondes\ndifférentes pourraient échanger leurs énergies par l'intermédiaire de\nl'éther ; |",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2 Par des phénomènes mécaniques et en particulier par des\nchocs. On ne peut supposer qu’il y ait une influence directe d'un ré-\nsonnateur sur l’autre. La théorie des quanta ne s'y préterait pas,\npuisque l'un des résonnateurs ne pourrait gagner d'énergie que par\nmultiples d’un certain quantum, tandis que l’autre ne pourrait en\nperdre que par multiples d’un autre quantum, incommensurable avec\nle premier. D'ailleurs, abstraction faite de la théorie des quanta, il\nne manquerait pas de bonnes raisons pour lesquelles un échange\nimmédiat serait invraisemblable et ne pourrait en tout cas qu'être\nexceptionnel. Mais il doit circuler entre lesrésonnateurs des atomes\nmatériels qui, en choquant les résonnateurs, peuvent leur commu-\nniquer ou leur emprunter de l'énergie; les échanges se feraient\nalors par l'intermédiaire de la matière.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Bien que cette conception des résonnateurs de M. Planck soit assez\nparticulière et n’ait d'autre but que de fixer les idées, nous n'avons\naucune raison de ne pas l’adopter, puisqu'elle semble ne devoir\nen aucun cas modifier les résultats essentiels. D'un autre côté, nous\nadmettrons la possibilité des deux modes d'échange, mais nous\nétudierons plus particulièrement dans cet article le second mode,\nc'est-à-dire l'échange mécanique par l'intermédiaire de la matière.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Imaginons d’abord un système dont l'état est défini à chaque ins-\ntant par # paramètres",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 4 ---\nTHÉORIE DES QUANTA 7\nSupposons que les lois qui nous font connaître les variations de\nces paramètres s'expriment par les équations différentielles :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "où les X sont des fonctions des x. Nous pouvons représenter l'état\ndu système par le point de l’espace à n dimensions dont les coor-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "données sont æ,,#,, …...,. La probabilité pour que ce point soit\nintérieur à un élément de volume d= de cet espace à x dimensions\nsera War, W étant une certaine fonction de »,, æ,, ..…, æ,. La pro-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "babilité pour que ce point soit intérieur à un volume de l’espace à n\nP q P P",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dimensions sera f War, l'intégration étant étendue à ce volume.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Par une pareille probabilité, j'entends le rapport _ T désignant",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "une très longue durée s'étendant depuis l'époque 6 jusqu'à l’époque\n9 + T, et { le temps pendant lequel, entre ces deux mêmes époques,\nle point représentatif s’est trouvé à l’intérieur du volume considéré.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Phrase complète": "le point représentatif s’est trouvé à l’intérieur du volume considéré.",
+        "Expression figurée": "le point représentatif s’est trouvé à l’intérieur du volume considéré.",
+        "Type": "Structurelle",
+        "Correspondance conceptuelle": "Le point représentatif est une référence à une entité ou un objet dans l'espace de représentation, tandis que 'à l'intérieur du volume considéré' fait référence à un certain espace ou domaine dans l'espace de représentation."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Cette probabilité n'aura donc aucun sens, si ce rapport T 2e peut",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "pas être considéré comme indépendant de 0 et de T, pourvu que #4\nsoit très grand. Si cette condition est remplie et si la fonction W\npeut être définie, elle devra satisfaire à l'équation aux dérivées par-\ntielles :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "c'est-à-dire que W doit être un « dernier multiplicateur » des équa-\ntions (1). Si donc ces équations n’admettent pas de dernier multi-\nplicateur uniforme, la fonction W n’existera pas, on ne pourra\nparler de l'état moyen du système pendant un intervalle très long ; et\nmême si on considère un ensemble formé d'un très grand nombre de.\npareils systèmes, cet ensemble de systèmes ne tendra pas vers un\nétat final; cela est contraire au second principe de la thermodyna-\nmique qui exige que le monde tende vers un état final d'où il ne peut\nplus sortir une fois qu'il l'a atteint. Les équations qui représentent\nles phénomènes naturels doivent donc posséder au moins un dernier\nmulliplicateur uniforme.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Dans le cas de la mécanique classique, les équations différen-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "tielles sont celles de Hamilton :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dti _dF dys | dF\ndd — = dt = dx,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dX; SE\nDEEE TE\nc'est-à-dire que le dernier multiplicateur W est égal à 1. On sait\nque cette hypothèse conduit au théorème de l'équipartition de\nl'énergie.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$ 2. — Cas DE DEUX RÉSONNATEURS.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Envisageons un système formé de deux résonnateurs, l’un à longue,\nl’autre à courte période. Chacun de ces résonnateurs pourra être con-\nsidéré comme une masse mobile oscillant autour de sa position\nd'équilibre d'après la loi pendulaire. Pour le premier, celui dont la",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "an ee h\npériode est longue, nous désignerons par m1, sa masse, par 2 V2:\n4",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "sa période, par x, son élongation, par y, sa quantité de mouve-\nment, par £ son énergie, et par + la phase de son mouvement; de\ntelle façon que l’on ait :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ee es + de Ph\n= Yi = V2E cosy, Vluz, — V2E sine, a =Vr\nM t my\net que les équations du mouvement, quand ce mouvement n’est pas\ntroublé par des chocs, s'écrivent :\nds dyi\n= My = — hs.\ny 1 dt 171\nÀ Nous désignerons pour le second résonnateur par M, h;, &2, Ya,\nn. Ÿ, les quantités correspondantes à m»,, h,, «,, y,, &, +, de sorte\nqu’on aura :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1 — — = dy he\n— 2 COS Ÿ hot = V?n sin, + —\\/—:\nY2 ñ COS, V LT van sin? & M?",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nous supposerons que les deux résonnateurs oscillent sur la même",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 6 ---\nTHÉORIE DES QUANTA 9",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "droite (mais autour de positions d'équilibre différentes), de façon à\npouvoir se choquer. Les équations du mouvement troublé par les\nchocs s’écriront :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dæi d .\n(3) Yi Mi Fri L = — hr; + Li (i = 1,2",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Les fonctions Z sont négligeables, sauf au moment des chocs ; ce\nsont donc des fonctions des æ et des y qui seront sensiblement\nnulles quand la différence æ, — x, n'aura pas une valeur voisine de\ncelle qui correspond au choc, et extrêmement grandes dans le cas\ncontraire.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Je ne cherche pas une expression plus précise des fonctions Z\nen m'appuyant sur les lois connues du choc. Nous sommes obligés,\nen effet, de supposer, et c'est précisément là l'objet de ce travail,\nque les lois du choc sont modifiées d'une façon qui déroute toutes\nles prévisions. En revanche, nous ne toucherons pas aux termes de\nnos équations, autres que les termes Z; ces termes expriment seu-\nlement, en effet, que le mouvement de chaque résonnateur reste sinu-\nsoïdal en l'absence de toute perturbation, et c’est là une hypothèse\nqui s'impose, si nous voulons que chaque résonnateur donne une\nradiation monochromatique.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "En ce qui concerne le résonnateur à longue période, nous pouvons\nsupposer à la fois que X, est très petit et que l'amplitude des oscil-\nlations est très grande ; nous arrivons à la limite au cas d’un atome\nse mouvant librement, et’dont le mouvement est rectiligne et uni-\nforme dans l'intervalle des chocs.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Sentence": "En ce qui concerne le résonnateur à longue période, nous pouvons supposer à la fois que X, est très petit et que l'amplitude des oscillations est très grande ; nous arrivons à la limite au cas d’un atome se mouvant librement, et’dont le mouvement est rectiligne et uniforme dans l'intervalle des chocs.",
+        "Figurative Expression": "nous arrivons à la limite",
+        "Type": "Structurelle",
+        "Conceptual Correspondence": "Atteindre une limite dans un processus d'analyse correspond à atteindre un point extrême ou un cas particulier dans l'analyse scientifique."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Cela posé, nous devrons avoir un dernier multiplicateur ÆW, %\nétant un facteur constant dont je me réserve de disposer; la proba-\nbilité est exprimée par l'intégrale :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ce qui peut s'écrire en passant aux variables £, n, ®, Ÿ :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Mia Ed ee\n(4) Lire x f Wdëdrdzdy.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "La fonction W doit rester un dernier multiplicateur en dehors des\nchocs, c'est-à-dire quand on annule les termes Z, cela exige :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "DL RW UN\n{2 T (PTE\nmi dt IA dy mi dm 22 ya",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ou avec les nouvelles variables :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "W — fonc. (e. n ® Va — Ÿ le).\nmy M",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Re Îs ;\nLes coefficients V2: et Var étant généralement incommensu-\nmn M",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "rables, la seule solution qui soit uniforme en æ,, y, &2, Ya, et par\nconséquent périodique en + et, c’est une fonction arbitraire deË£ et »..",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Pour avoir la probabilité pour que les énergies soient comprises\nrespectivement entre £ et € + dé, et entre n et n + dn, il faut\nintégrer l'expression (4) par rapport à & et à 4 depuis 0 jusqu'à 2x;\non trouve ainsi :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ce qui, en prenant l'arbitraire:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "hiha\n5 PER\nse réduit à Wdëdn.\nSi donc on représente l’état du système par le point du plan dont\nles coordonnées sont £ et n, la probabilité pour que le point repré-\nsentatif soit intérieur à une certaine aire sera :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "La fonction W peut dépendre de # etde n, mais le résonnateur à\ntrès longue période étant assimilable à un atome, nous devons\nadmettre qu'il suit les lois dela mécanique ordinaire et que les déro-\ngations à ces lois ne pourront provenir que de la présence de l’autre\nrésonnateur, ce qui signifie que W ne dépend que de n; cette hypo-\nthèse sera mieux justifiée dans la suite.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Je dois rechercher quelle est la partition de l'énergie, c'est-à-dire\nquelles vont être les valeurs probables de £et de x, valeurs que\nj'appelle X et Y. J'observe que £ et n sont liés par l'équation des\nforces vives :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 8 ---\nTHÉORIE DES QUANTA 11",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "où h est une constante donnée. Je poserai alors :\nMai = f War, .",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "où l'intégration est étendue au domaine défini par les inégalités :\nE>0, n>o, R<E+n<h+ dh",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "J'aurai alors par définition : - L\nMXdh — f EE : MYdh = JL 1WdEdr.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Il est clair que je pourrais écrire également :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "he 1/3 hi\n(G) M =fw (x) di; MX = fu — 5) Wfn)dn; MY = frw(o dn.\n0 0 0",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Si W — 1, il vient comme on sait X — Y. Dans tous les cas, nous\ndevons admettre que le résonnateur à longue période suit les lois\nactuelles, et par conséquent que X représente la température absolue\n(à un facteur constant près que nous pouvons supposer égal à À par\nun choix convenable des unités). Si la loi de Planck est vraie, on",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "e étant une constante. Il serait aisé, à l’aide des formules (5), de\ndéterminer W de façon à retrouver cette loi, mais cela n'aurait aucun\nintérêt, le cas de la nature étant entièrement différent.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$ 3. — Cas DE PLUSIEURS RÉSONNATEURS.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nous devons imaginer, en effet, non pas deux résonnateurs, mais\ndes résonnateurs en très grand nombre; nous supposerons qu’il y en\nait p à longue période, tous semblables entre eux et ayant respec-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "tivement pour énergie 4,,5,, ...,?,; et en outre » résonnateurs à courte",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "période, tous semblables entre eux et ayant respectivement pour",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "énergie, 3, n2 ..., nn. Nous pourronsd'ailleurs désigner ces réson-\nnateurs par R,, R,. …, R,, d'une part, par R;, R{, …, R}, d'autre\npart; nous représenterons leurs phases par Gis Por +. PP et par\nVs Vas +, Vn. Les équations différentielles devront alors admettre\nun dernier multiplicateur AU (où 4 est un facteur constant dont nous\nnous réservons de disposer); de telle façon qu'en représentant l'état\ndu système par un point de l'espace à 2n + 2p dimensions des£,\ndes n, des 4 et des +, la probabilité pour que le point représentatif\nsoit intérieur à un certain volume de cet espace sera :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "où d& est le produit des d£, des dn, des de et des dy.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Considérons maintenant l'effet des chocs entre les résonnateurs R;\net R{, et soit W, ce que serait le dernier multiplicateur si ces\ndeux résonnateurs existaient seuls; nous avons vu au paragraphe\nprécédent que W est une fonction de E; et de 7; nous avions même\nété conduits à supposer que W dépendait de »; seulement, mais\nj'abandonne pour un instant cette hypothèse. Un choc entre R;\net R} fera varier brusquement (ou très rapidement) les variables £;,\nma, %a Va, relatives à ces deux résonnateurs et ne changera pas les\nvariables relatives aux autres résonnateurs. Pour que la distribution\ndes probabilités n’en soit pas altérée, il faut que AU soit de la forme :,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "W (Gi, mx) étant le dernier multiplicateur, tel qu'il serait si les deux\nrésonnateurs existaient seuls el F étant une fonction des variables\nrelatives aux autres résonnateurs. Si donc nous envisageons en par-\nticulier les résonnateurs R,, R, et R{ par exemple, nous pourrons\nécrire :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "AU = Fi(ës ) Wom)\net d'autre part:\nbee) WE mu),",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "F, dépendant seulement des résonnateurs autres que R, et R{ et\nF, seulement des résonnateurs autres que R,et R;. Cela n’est possible\nque si l'on a :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "& (4), &° (82), 6 (as) étant des fonctions d’une seule variable ne",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 10 ---\nTHÉORIE DES QUANTA 43\ndépendant respectivement que de ,. de £, et de r,. tandis que ® ne\ndépend que des variables relatives aux résonnateurs autres que R,.\nR,etR;. On trouvera ainsi finalement :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "RU — Au (E) n° (E) 2 0 (Ep) 00 (no) 26 (ra) ee 20 (rm).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "C'est le moment de revenir à l'hypothèse faite plus haut et\nque nous discuterons plus complètement plus loin et de supposer\nw'(£;) = 1, de telle façon que notre probabilité ne dépende que des n\net pas des £.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Dans tous les cas, cette probabilité ne dépend pas des phases. Si\ndonc nous représentons la distribution des énergies dans le système\npar un point de l'espace à » + p dimensions des £ et des r, la loi des\npYobabilités s’obtiendra en intégrant l'expression :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "par rapport aux + et aux 4 depuis 0 jusqu'à 2+; on trouve ainsi:\nk(2r}+r Judas,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "où ds désigne le produit des dn et dr celui des d£. Nous disposerons\nde Æ de ‘telle façon que :\nE(2r}e tr — 1,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "et, en nous rappelant que les w’ sont supposés égaux à 1 et que U se\nréduit au produit des +, nous aurons pour l'expression de la proba-\nbilité :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(6) J'uds = frutn ao (na) ee (np) d5dz.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "L'équation des forces vives s'écrira :\nXE+E—=h.\nLes valeurs moyennes des £; seront toutes les mêmes par raison de\nsymétrie et il en est de même de celles des 14; j'appelle X la valeur",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "moyenne des£; et Y celle des 7, et j'ai pour définir ces quantités les\néquations :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(D) Mdh = f Udsdz;  MXdh — f EjUdsd=;  MYdh — f° riUdodr,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "les intégrations étant étendues au domaine défini par les inégalités :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(8) H>0, w> O0, h<EF + En <h+ dh.\n$ #. — Discussion pes FORMULES.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Il y a lieu de se demander d’abord si la relation entre X et Y est\nindépendante des nombres entiers # et p. Il y a un cas où il en est\neffectivement ainsi, c’est celui où # (1) est une puissance de n, soit y.\nPour nous en rendre compte, nous allons nous appuyer sur la for-\nmule suivante.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Répartissons arbitrairement en deux classes les résonnateurs soit à\nlongue, soit à courte période, et désignons par £/ et r/ les éner-\ngies des résonnateurs de la première classe, par £} et r{ celles des\nrésonnateurs de la deuxième classe. Soit U’ ce que serait le produit U\nsi les résonnateurs de lapremière classe existaient seuls et U” ce qu'il\nserait si ceux de la deuxième classe existaient seuls, on aura donc :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "nous désignerons par ds’, dr’, de”, dx” les produits des d', des d£’,\ndes dn”, des d£” et nous aurons :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Mdh = fuv'asararar.\nCommençons par calculer l'intégrale du second membre en l'éten-\ndant au domaine défini par les inégalités :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(8 bis) F>o, n>0, #>0, n>0;\nVOUUR<SE + En <N + dn'; RO < EE + En <h + dh,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "les variables se trouvent séparées et l'intégrale se décomposera en",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "deux facteurs:\nf D'asd= J V'és'dr\".",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ces deux facteurs ne sont autre chose que M'dh’ et M’dh”, en dési-\ngnant par M’ (ou par M”) ce que deviendrait M si les résonnateurs de\nla première classe (ou de la seconde) existaient seuls. Pour retrou-\nver l'intégrale étendue au domaine (8), il suffit d'intégrer de nouveau\npar rapport à k' et »” dans le domaine défini par :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 12 ---\nTHÉORIE DES QUANTA 15",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "on trouve ainsi :\nMdh = fwwraan : WToN>oRLKHENLRE AN\nou ce qui revient au même :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "li\n(9) MA) = f[W'(a) M'(h— à) dr.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Comme M est une fonction qui dépend de n et de p et que je puis\nécrire &n. » (A), je puis écrire la formule (9) sous la forme :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "oh,\n(9 dis) gmincp+ gl) = [rm (&) en-g(h — 2) dx.\n0",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Si nous désignons par X'Y’ (ou par X”Y”) ce que seraient les\nvaleurs moyennes des £ et des n si les résonnateurs de la première\nclasse (ou de la deuxième) existaient seuls, on trouvera de même:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "où Ÿ’ et M’ sont des fonctions de æ, et M” de A — x.\nSi nous supposons # (n) — r”, je trouve :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "he\nSo = À, Se = pem +1 fran (s — x)\" da.\n0\nJe dis que nous aurons en général :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Quep = KhMn+R +=,\nK étant un facteur numérique. Il suffit de remarquer que l'intégrale",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "est proportionnelle à A#+B+1 et d'appliquer la formule (9 bis) pour\nreconnaître que la proposition vraie pour les petites valeurs de n et\nde p doit être également vraie par récurrence pour toutes les valeurs\nde ces entiers.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Si nous plaçons dans la première classe tous les résonnateurs\nà courte période et dans la seconde tous ceux de période longue,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "nous aurons donc :\nM=Khmn+n- 1, M'= K'h'r-1.\nd'a 1 gr LR :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "On devra avoir d’ailleurs Y' — 7 X\"— FL puisque dans le cas,\npar exemple, où les # résonnateurs à courte période existent seuls,\ncomme ils sont tous identiques, l'énergie moyenne Ÿ’ de chacun\nd'eux devra être la n° partie de l'énergie totale X'; on aura donc,\npour les formules (9) et (10) :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "M=K c f'amr tn (h — æ)r—1 de,\n0",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "h\n2/11 h _—_\nES TETE MX KR\" fonte aa,\n, .",
+    "paragraph_type": "Unknown",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Mais l'intégration par parties nous donne :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "n LA ph .\nfast a de ES far (h = 284! da.\nÈ",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "On voit que la répartition de l'énergie ne dépend pas des nombres\n‘net p, mais c'est là le seul cas où cette indépendance ait lieu.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Considérons le cas de n — 1, p —2; de sorte que nous aurons\ntrois résonnateurs dont les énergies seront respectivement n, &, etë, ;\net on aura :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "M = fudids, XM = f'hndrd, YM — f nudndë,,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "où # dépend seulement de n, où l'état du système est représenté\npar le point du plan dont les coordonnées sont n et £, et où les inté-\ngrations sont étendues au triangle :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 14 ---\nTHÉORIE DES QUANTA 17",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Si alors est considéré comme représentant la densité de la ma-\ntière, M représentera la masse du triangle, X et Y son centre de\ngravité. Ce centre de gravité sera sur la médiane correspondant au\ncôté qui est sur l’axe des £,, puisque la densité est constante le long\ndes droites parallèles à cet axe; on a donc :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Quand on fera varier , ce centre de gravité XY décrira une cer-\ntaine courbe C, et l'équation de cette courbe nous donnera la relation\ncherchée entre X et Y.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Pour passer au cas de n — 1, p — 1, nous n'avons qu'à faire :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "M=— f'odr,  XM = f'iwan = fn —r)uwdn,  YM = fadn,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "en étendant les intégrations à la droite :\nH+n—h,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "qui sert de base à notre triangle; le point XY représente alors le\ncentre de gravité de cette base. Si nous voulons que la loi de parti-\ntion de l'énergie soit la même pour n —‘1, p — 1, que pour n — 1,\np = 2, il faut que le lieu de ce nouveau centre de gravité, quand on\nfait varier À, soit encore la courbe C.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Je dis que cela n'est possible que si la courbe C est une droite\npassant par l'origine ; si, en effet, ce n’était pas une droite, c'est-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "à-dire si le rapport + n’était pas une constante, nous pourrions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "X\nprendre k assez petit pour que, de O jusqu’à k, cette courbe ne pré-\nsente pas de point d'inflexion et soit par conséquent convexe. Décom-\nposons le triangle en trapèzes infiniment étroits en menant des\nparallèles à la base £, + n — *; chacun de ces trapèzes aura son\ncentre de gravité sur C; le centre de gravité total du triangle ne\nchangera pas si on concentre la masse de chacun de ces trapèzes en\nson centre de gravité : c’est donc le centre de gravité de la courbe C\nen attribuant à cette courbe une densité partout positive. Or, le\ncentre de gravité d'une courbe convexe ne peut se trouver sur cette\ncourbe; donc le centre de gravité du triangle ne pourrait se trouver\nsur C, ce qui est contraire à l'hypothèse.\nJ. de Phys., 5° série, t. II. (Janvier 1912.) 2",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "La courbe C est donc une droite :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Le rapport des deux intégrales étant indépendant de X, nous\nobtiendrons encore le même rapport en différentiant le numérateur\net le dénominateur par rapport à k; mais",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a f a\nü Jr — nl (), a Ja\" wdr = fur,\no 0",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ce n'est donc que dans des cas très exceptionnels que la loi de\npartition de l'énergie est indépendante des entiers n et p; il semble\nd’abord qu'il en résulte qu'aucun équilibre thermique ne soit pos-\nsible et que cela soit en contradiction avec le second principe de la\nthermodynamique, mais il faut se rappeler que les nombres # et p\nsont toujours très grands. Il convient donc de se poser la question\nautrement : Za loi de partition de l'énergie est-elle indépendante du",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "n\nrapport ñ quand les entiers n et p sont très grands ?",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Si cette indépendance n'avait pas lieu, l'équilibre thermodyna-\nmique serait impossible ; tous les théorèmes de Boltzmann, qui pos-\ntulent la possibilité de cet équilibre seraient en défaut; la notion\nmême d’entropie n'aurait plus aucun sens. Tant donc que cette indé-\npendance n'est pas établie, il peut rester des doutes sur les raison-\nnements de M. Planck, qui reposent sur l'existence de l'entropie et\nles théorèmes de Boltzmann. Cela suffirait pour justifier le travail\nque j'ai entrepris ici.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 16 ---\nTHÉORIE DES QUANTA 19",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Reprenons, dans le cas général {c'est-à-dire pour « quelconque),",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "les équations (9) à (10) en classant dans une même classe, comme\nplus haut, les résonnateurs de même période ; nous pourrons écrire :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "M — qu (h'), M'= K'xr- 1, v=}, x —À',\nn P\net il viendra :\nhe\n(11) M=—K\" Je (æ) (h — x)r 1 dz ;\n(2) AN 2% far (k— x)-1dx; M = fre (h— x)r dæ.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Supposons que pour n très grand, », (x) puisse se mettre sous la\nforme suivante :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "F et 4 sont deux fonctions de F la première élevée à la puissance n ;",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "N est un coefficient numérique ne dépendant que de », H est une\nexpression qui tend vers 1 quand n tend vers l'infini ; nous poserons\np = in, et nous suposerons que n et p sont très grands, mais que\nleur rapport X est fini.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "= a = D—F(»)(8 — w)#,\nil viendra :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "NN [È do\nMK x J'uo (o) @r(e) D;\n—%\n0\nal 22",
+    "paragraph_type": "Unknown",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "MY — nPKN f %H6 (w) a () 5 de: MX — Es * fin (w) DA (&) de.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sous le signe f'figure une fonction d élevée à une puissance très",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "grande ; l'élément de cette intégrale, qui correspond au maximum de\n:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 17 ---\n20 POINCARÉ\n®, aura donc une influence très prépondérante. Le rapport des inté-\ngrales :\nMY MX\nM” M”\npourra donc se calculer en tenant compte seulement de cet élément;",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "w étant la valeur qui rend maximum %; or cette valeur sera donnée\npar l'équation :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "C’est là la loi de partition de l'énergie, c’est-à-dire la relation\ncherchée entre X et Y. On voit qu’elle est indépendante du rapport n",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Qu =Kemntnt,\nœ\\ati x\\—1 F'(Y)_m+1\n= (* : 8—(*) , H— = Kwmnta=i. EU LME\nF— (5) : 0 (£) HA, Nam EN ET\net enfin :\nX—\nSoit maintenant x = er; il viendra :\ngn(æ) de = feras,\nl'intégrale étant étendue au domaine :\n>, En <Lr+ dx;\non en déduit :\nYrgn — A\nge) de = ete [as = LÉ\nd'où, en faisant À = x = nv :\n* 1 : LR F'(N) 1\nEm () Yo _ « 1,41\nFete, nr HER NE pyerte",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 18 ---\nTHÉORIE DES QUANTA 2",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "d'où enfin : .\nX=X\n$ 6. — La Lor DE PLraxck.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Dans l'hypothèse de M. Planck, l'énergie d'un résonnateur ne peut\nêtre égale qu’à un multiple de e, e étant un quantum; la probabilité\nest donc discontinue; la fonction æ (1) est nulle toutes les fois que à\nn'est pas multiple de <; si n devient multiple de e, la fonction\ndevient au contraire infinie et cela de telle façon que l'intégrale",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "soit égale au nombre des multiples de e compris entre », et n,;\nvoyons quelles sont les conséquences de cette hypothèse et voyons\nen particulier ce que devient la fonction +, (x); on a par définition :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "l'intégration devant être étendue au domaine :\nni > 0, æ £ En < x + dx.\nDans le cas qui nous occupe, notre intégrale doit être remplacée\npar une somme finie, puisque la fonction sous le signe f'est discon-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "tinue, elle sera égale au nombre des points situés à l'intérieur du\ndomaine et dont les n coordonnées n; sont des multiples de e (les\nlimites du domaine sont supposées contenues dans le domaine).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Considérons l'intégrale J'en (æ) dæ étendue à un petit intervalle : de",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "deux choses l’une, ou bien cet intervalle contiendra un multiple ÿe\ndes, ou il n’en contiendra aucun; dans le second cas, l'intégrale sera\nnulle ; dans le premier, elle sera égale au nombre de partitions de\nl’entier ; en une somme de » entiers, positifs ou nuls. Ce nombre de\npartitions est donné par la formule :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Dans les formules (11) et (12), les intégrales doivent être rem-\nplacées par des sommes, et on aura par exemple :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "la sommation étant étendue à tous les entiers y tels que y< soit plus\npetit que 2. Les formules qui donnent MY et MX se déduiraient de",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "la précédente en multipliant sous le signe f par :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nous allons maintenant remplacer les factorielles par leurs valeurs\napprochées :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "v1= v'e-T Very; ni mte-r \\2rn,\nd'où :\ny+n—d)!l _(g+n)i!l n (: ea) +2) Y+n_n\nvit yln!t y+n y, Un 2ryn y +n\nNous avons d'ailleurs :\nD = NO = Ye,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "GHn=0t_/, Let ou) 1 we\nPARC ET Üe) Von w w+e",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Cela nous montre que l'on peut prendre :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "etle second membre se réduira comme il convient à F”6N. Nos raison-\nnements s’appliqueront a nos sommes commeils s’appliquaient à nos\nintégrales, les seuls éléments de la somme qui donneront un effet\nsensible sont ceux qui correspondent au maximum de F, et nous\nretomberons sur la formule (14). Or on trouve aisément :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 20 ---\nTHÉORIE DES QUANTA 23\nd'où :\n€",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ce qui est bien la loi de Planck. !",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Cela ne nous donne toutefois pas entière satisfaction : nous ne\nsavons pas encore, en effet : 1° si la loi de partition sera indépendante",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "du rapport L quelle que soit la fonction « ; 2 si l'hypothèse du",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "paragraphe précédent est la seule qui conduise à la loi de Planck.\nPour répondre à ces deux questions, je vais employer un autre\nmode de calcul, fondé sur l'emploi de l'intégrale de Fourier. Posons :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Si la fonction & (1) reste finie pour n — æ, ou devient infinie à la\nfaçon d'un polynôme entier en *, et si « a sa partie réelle positive,\nl'intégrale du second membre est finie. Si la formule restait vraie\nquand la partie réelle de « est nulle, nous pourrions écrire :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ÿ (n) étant une fonction qui est égale à # pour x > 0 et à O0 pour\nn < 0, et nous aurions ainsi l'intégrale de Fourier sous sa forme\nordinaire et nous en déduirions :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1 pee ñ\nw(n) = ae J vs) eizd3.\n—e",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Mais cela n’est possible que si la fonction # (1) tend vers O0 pour\nn = , dans le cas contraire, la formule de Fourier n'est pas établie.\nElle reste vraie néanmoins, mutatis mutandis ; donnons, en eflet, à\næune valeur complexe 7 + :8 où la partie réelle y soit positive,\nnous aurons alors :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Cette fois la quantité 4 (5! e—1: tend vers 0 pour n — +, la formule\nde Fourier peut donc s'appliquer sans difficulté, ce qui donne:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "La partie réelle + est regardée comme une constante, et 8 prend\ntoutes les valeurs de — œà+ , donc le point « décrit une droite\nperpendiculaire à l’axe des quantités réelles ; on a d’ailleurs :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "La formule (15) nous donne en l’élevant à la puissance n:\ndr (a) = fu (ru) (ne) (nn) e—\"1de,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "en intégrant par rapport aux # variables depuis 0 jusqu'à l'infini;\nétendons d'abord l'intégration au domaine:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "il reste à intégrer pour toutes les valeurs de x depuis 0 jusqu’à l'infini,\nce qui donne: |",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(15 bis) (a) — 11 On (æ) e-txda,\net en la traitant comme la formule (15), nous en déduirons:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "L'intégrale {16 bis), comme l'intégrale (16), doit être prise le long\nd'une droite perpendiculaire à l’axe des quantités réelles; mais ce\nchemin d'intégration peut être déformé, pourvu que la partie réelle\nde x reste toujours positive et que sa partie imaginaire varie de\n— œ à + <, et, en effet, la fonction ® (&) est holomorphe dans tout\nle demi-plan où la partie réelle de x est positive.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 22 ---\nTHÉORIE DES QUANTA 25",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Si nous substituons à w, (x) sa valeur (16 Zis) dans les équations\n*(44) et (12), il viendra:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Y or JF an (x) ex (h — x)! drda:\n(12 bis) L\nme f fee eax(h — x) dxda,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "— fee.\n= sde. . , __nPK\" B— did\na [fe ze Li [fe FE E—w",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "L'intégration est prise depuis O jusqu’à & par rapport à w et par\nrapport à « tout le long d’une droite perpendiculaire à l'axe des\nquantités réelles.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Les seuls éléments des intégrales qu'il y ait à prendre en considé-\nration sont ceux qui rendent maximum la fonction ©, qui est élevée\nà une très grande puissance, pourvu toutefois que le chemin d'inté-\ngration passe par cet élément; mais, comme nous l’avons remarqué\nplus haut, nous pouvons déformer ce chemin, et nous le ferons de\nfaçon que cette condition soit remplie. On aura donc :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "w étant la valeur qui correspond à ce maximum. Pour exprimer que\nla fonction © passe par un maximum, nous exprimerons que ses\ndérivées logarithmiques partielles par rapport à « et à w sont nulles,\nce qui donne :\nd'(«) k\nLo a — = 0.\nP(2) 8—",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 23 ---\n26 POINCARÉ\nOn a donc :\n(2) - ._A\n2) +, NE\n(17) Ba) LE z\nEn éliminant « entre ces deux équations, on aura la relation cher-\nchée entre X et Y. On voit que, quel que soit », la loi de partition ne\ndépend pas du rapport des deux entiers n et p, pourvu que ces deux\nentiers soient très grands.\nPour & — 1%\", on a :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "D — Y= (nm + Ai) X.\nPour # = e“,on a:\n1 , X\n= = x",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "On remarquera que dans ce dernier cas l'intégrale (15) n'est finie\net par conséquent la fonction ® définie que quand la partie réelle\nde « est plus grande que 7.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Passons à l'hypothèse de Planck ; dans ce cas l'intégrale (15) doit\nêtre remplacée par une somme; on ne doit conserver que les valeurs",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "de qui sont multiples de e, soit n = me; l'intégrale fiodn, géné-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ralement nulle, est égale à 1 si on l’étend à un petit intervalle compre-\nnant une de ces valeurs exceptionnelles ; la formule 15 devient donc :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "on en déduit par la formule (17) :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 24 ---\nTHÉORIE DES QUANTA 27\n$ 8. — NÉCESSITÉ DE L'HYPOTHÈSE DE PLANCKk.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nous pouvons maintenant répondre à la question que nous nous\nétions posée au début.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Lorsque la loi qui lie Ÿ à X est déterminée, la dérivée logarith-\nÊ CE A Ê A PAS\nmique & l'est également ; il en est donc de même de la fonction æ",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "à un facteur constant près et par conséquent ‘par la formule (16);\nde w. L'hypothèse des quanta est donc la seule qui conduise à la loi\nde Planck.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Mais une loi expérimentale n'est jamais qu'approximative; ne\npourrait-on imaginer des lois dont les différences avec celle de\nPlanck seraient inférieures aux erreurs d'observation et qui condui-\nraient à une fonction æ continue? Si la fonction # est continue, je\ndis que ® est nul pour « — w , c’est-à-dire à basse température. En\neffet, qui représente une probabilité est essentiellement positive,\nil en résulte que l'intégrale (13) décroît quand « croit, puisque tous\nses éléments décroissent. Soit « — à, + «’ et n, une valeur quel-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "conque, il viendra :\n0 œ\nfred + füe-crdn.\n“0",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "La première intégrale est plus petite que Jodn. la seconde est\n0\nplus petite que :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "æ\ne—%o fée-run << e— \"10 (29),\n“0",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(a) < fran 62500 (29),\n0\net comme 4’ tend vers l'infini en même temps que +, on aura :\n7\nD() < fan.\n0",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "+ (æ ) est la limite vers laquelle tend la fonction décroissante ® (x)\nquand + tend vers l'infini ; si donc ® n'est pas nul, c'est que l'intégrale",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "du second membre de notre inégalité ne tend pas vers zéro avec 14.\nCela n'est pas possible si la fonction # est continue ou même finie;\nil faudrait au contraire que cette fonction présentât, pour n = 0, pré-\ncisément le même genre de discontinuité que dans l'hypothèse de\nPlanck.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Si b(æ) — 0, cela veut dire que l'intégrale :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "“\nest infinie ; la fonction sous le signe J peut devenir nulle pour « — ®,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ": 1, : 1\nmais au plus comme —; si elle devenait nulle comme => où 4 > 1,\nœ La",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "l'intégrale serait finie. Pour aller plus loin, rappelons quelques-uns\ndes principes de la théorie du rayonnement. D'après la loi de Wien,\nl'énergie du rayonnement noir, entre les longueurs d'onde À et\nÀ + dX, est représentée par la formule :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "où T est la température absolue. D'autre part, si nous désignons\npar v la fréquence et par w,dv l'énergie de rayonnement comprise\nentre les fréquences v et v + dv, M. Planck a démontré (Acad. de\nBerlin, Sitzungsber., 1899, p. 461; Physik. Zeüschrift, 1900-1901)\nque l’on a :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "où K est un coefticient numérique et où Ÿ représente comme plus\nhaut l'énergie moyenne des résonnateurs de longueur d'onde. On en\ndéduit :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Or T n'est autre chose que X, en supposant les unités convena-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "blement choisies et X — e On a donc, d’après (17) :\n2",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Yda = — dlog P(x), YaX = Xl log ®,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 26 ---\nTHÉORIE DES QUANTA 29",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Dans cette relation, on suppose que } est une constante ; elle nous\nmontre que le premier membre ne change pas quand on change X\nÀ é\nen uX et À en —; y étant une constante quelconque : donc ® est fonc-\n(2",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "tion de XX, et on a en regardant maintenant } et X comme variables :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "K' Dr = dog #,\nou si X est regardé comme constant :\n, FOX) dx\nK ie = dlog +,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ou enfin :\nar = E dog &\nX 28\nLe rayonnement total est alors :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Si la fonction w était continue,  s'annulerait et log & deviendrait\ninfini pour « —æ, c'est-à-dire pour ÀX — 0; la fonction sous le",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "signe f'devient donc infinie pour À = o, et cela de telle façon que",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Donc, quelle que soit la loi du rayonnement, si l'on suppose que le\nrayonnement total est fini, on sera conduit à une fonction w pré-\nsentant des discontinuités analogues à celles que donne l'hypothèse\ndes quanta.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Cela suppose toutefois l'exactitude de la formule (18), et sur ce\npoint des doutes restent permis, puisque M. Planck n'a pu l'établir",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "qu'en s'appuyant sur les principes de l'Électrodynamique classique,\nque sa théorie a précisément pour objet de remplacer.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$ 9. — La DEUXIÈME THÉORIE DE M. PLancx.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "On sait que M. Planck a proposé une seconde théorie un peu dif-\nférente de la première. Dans sa première théorie les résonnateurs ne\npeuvent émettre ni absorber d'énergie que par bonds; dans la\nseconde, ils ne peuvent en émettre que par bonds, mais ils peuvent\nen absorber d’une manière continue. Dans cette théorie nouvelle,\nM. Planck pose :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "En se reportant à la formule (15), on voit que cela veut dire que\n«est nul, sauf pour des valeurs exceptionnelles pour lesquelles il\nest infini et que ces valeurs exceptionnelles sont les multiples im-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "pairs de Si Ce n'est pas là l'hypothèse d’où M. Planck était parti; si\nen effet, l'énergie d'un résonnateur devait toujours être un multiple\nimpair de à il serait impossible que ce résonnateur absorbât de",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "l'énergie d’une manière continue.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "11 serait curieux de rechercher comment deux raisonnements en\nàpparence identiques ont pu conduire dans un cas à un résultat\nexact, dans un autre à un résultat inexact. J’observerai seulement\nque dans son raisonnement M. Planck ne fait pas intervenir les\néchanges d'énergie par choc, mais seulement par émission et\nabsorption. .",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 28 ---\nTHÉORIE DES QUANTA 31",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$ 10. — JusriFicATION DES HYPOTHÈSES RESTRICTIVES.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nous avons, pour simplifier et surtout pour fixer les idées, fait un\ncertain nombre d'hypothèses assez particulières et un peu restric-\ntives; on peut se demander si elles jouent un rôle essentiel. auquel\ncas leur caractère artificiel pourrait éveiller de la méfiance. Nous\navons d'abord supposé que, dans le cas simple de deux résonnateurs,\nle dernier multiplicateur W (£, n) ne dépendait pas de; nous avons\nvu ensuite que, sans faire aucune hypothèse restrictive, on devrait",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "avoir dans tous les cas:\nWE, n) = w(n) wi(E);",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "posons alors par une formule analogue à (15) :\nc\n(45 ter) ds (a) = fut edf.\nè",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(en posant XE = y, En = +, & + y = XE + En —=h):",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "M— 11 D (a) Di (ay) etre drdaday.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "æ = no, h — x = pu, w == — ko,\nn\net nous aurons à un même facteur constant près :\nM = for () DP (ai) entwertoidwdada ;\nMY =/ wbrDrentwertiwidwdadx ; MX = fodrérersoermorduddui.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nous verrions alors que l'on a :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "en donnant à w, « eta, les valeurs qui rendent maximum l'expression :\nD (2 PA (a) etmgltion,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "En égalant à zéro les dérivées logarithmiques de cette expression",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 29 ---\n32 | POINCARÉ\npar rapport à x, «, et à w (w, étant supposée remplacée par sa valeur\nen fonction de w), il vient :\nP'()\nBa Dia)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "qui peuvent remplacer les formules (17). D'où la loi suivante pour la\npartition de l'énergie.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "A chacun des résonnateurs est attachée une certaine fonction ® (x),\net son énergie moyenne à une température donnée est représentée\npar — a a étant une fonction de la température, qui est la même\npour tous les résonnateurs; or l'expérience nous apprend qu’il y a des\ncorps dont l'énergie est proportionnelle (nous dirons égale en choi-\nsissant convenablement les unités) à la température absolue; et que\ncela arrive en particulier pour les résonnateurs à très longue période.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Dans les formules (17 bis), X et Y sont exprimés en fonction d'une\nvariable auxiliaire &.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Supposons que nous connaissions par l'expérience la relation\nentre X et Y; nous pourrions choisir arbitrairement l’une des fonc-\ntions & ou ®,, c'est-à-dire l’une des relations (17 Dés); l'autre s'en\ndéduirait. 1l est clair que ce choix pourrait toujours être fait de telle\nsorte que les intégrales :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "soient infinies, c'est-à-dire de telle façon que w et, soient des fonc-\ntions continues; mais ce serait renoncer à l'hypothèse w, — 1. Qu'en\nrésulterait-il ?",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Les chocs entre les atomes (résonnateurs à longue période) seraient\nalors régis, au point de vue de la Mécanique statique, par l’inté-\ngrale:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "qui jouerait le rôle de l'intégrale M dans l'analyse précédente. On\nretrouverait pour ces atomes la loi d'équipartition; mais on devrait",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 30 ---\nTHÉORIE DES QUANTA 33",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "renoncer à la loi de Maxwell pour la distribution des vitesses: les\nchocs entre atomes ne pourraient plus se faire d’après les lois ordi-\nnaires de la Mécanique, et en particulier d'après la loi de la conser-\nvation des quantités de mouvement. Ces conséquences ne semblent\nguère admissibles et il paraît préférable de supposer , = 1.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Les formules (17), appliquées à deux résonnateurs à courte période\nmontrent que la loi de partition ne sera pas altérée, si des chocs se\nproduisent non pas entre un résonnateur à longue et un autre à courte\npériode, mais entre deux résonnateurs de périodes différentes, mais\ncourtes.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Au lieu des résonnateurs simples de M. Planck, nous pourrons aussi\navoir des systèmes plus compliqués; alors W, en supposant deux\nsystèmes, pourra dépendre non seulement des énergies £ et n, mais\nd'autres variables £', £”, .…., relatives au premier système, et d'autres\nencore %, 1”, …, relatives au second système. On devra avoir d’ail-\nleurs pour les raisons exposées plus haut :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "W=winnns ee) to (s 8, 8, ).\nL'ensemble des systèmes satisfait à l'intégrale des forces vives :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Je n'en suppose pas d'autre; j'envisage alors l'intégrale :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "u(r) = fo (a, n', 0\", …) d'dn\" …",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "étendue à toutes les valeurs que peuvent prendreles variables 1’, 9”, ...;\nalors #(n) et la fonction analogue u, (£) formée avec +, joueront le\nméme rôle que nous avions donné à # (n) et æ, (£), nous pourrons\nposer (s'il y a n + p systèmes) :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "U — ü (ny) u (no)  ü (nu) ds (Es) ds (&) «ee du (Ep); M = fut;\nMY — frvdsas; MX — Ji EUdsd=,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "et notre analyse pourra se poursuivre jusqu'au bout sans changement",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Après avoir formé le dernier multiplicateur, il conviendrait de",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "chercher des équations différentielles qui admettent ce dernier mul-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "tiplicateur, ou de voir quelles sont les équations à sauts brusques",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "qui pourraient jouer le rôle de ces équations différentielles quand le\nJ. de Phys., 5° série, t. IL. (Janvier 4912.) 3",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dernier multiplicateur « n'est pas continu. C'est là un problème qui\nne serait sans doute pas sans difficulté. Je ne m'en occuperai pas\npour le moment.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Rappelons en terminant que les échanges d'énergie peuvent se\nfaire de deux manières: par le jeu du principe de Düppler-Fizeau et\npar les chocs. Dans cet article, nous n'avons étudié que la seconde\nmanière. Je reviendrai sur la première dans un autre article; mais je\ndois faire observer que, si l'on admet la possibilité des chocs, les deux\nmanières doivent conduire à la même loi de partition, sans quoi le\nsecond principe de la thermodynamique serait en défaut. C'est ce qui\nm'a permis de me borner à l'étude d’un seul mode d'échange.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]

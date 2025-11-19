@@ -1,0 +1,2821 @@
+[
+  {
+    "paragraph": "--- Page 1 ---\nThe 1925 Born and Jordan paper “On quantum mechanics”",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "William A. Fedak” and Jeffrey J. Prentis”",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Department of Natural Sciences, University of Michigan—Dearborn, Dearborn, Michigan 48128\n(Received 12 September 2007; accepted 9 October 2008)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The 1925 paper “On quantum mechanics” by M. Born and P. Jordan, and the sequel “On quantum\nmechanics II” by M. Born, W. Heisenberg, and P. Jordan, developed Heisenberg’s pioneering theory\ninto the first complete formulation of quantum mechanics. The Born and Jordan paper is the subject\nof the present article. This paper introduced matrices to physicists. We discuss the original postulates\nof quantum mechanics, present the two-part discovery of the law of commutation, and clarify the\norigin of Heisenberg’s equation. We show how the 1925 proof of energy conservation and Bohr’s\nfrequency condition served as the gold standard with which to measure the validity of the new\nquantum mechanics. © 2009 American Association of Physics Teachers.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "We show how the 1925 proof of energy conservation and Bohr’s frequency condition served as the gold standard with which to measure the validity of the new quantum mechanics.",
+        "Metaphorical Phrase": "served as the gold standard",
+        "Type": "Structural",
+        "Conceptual Mapping": "Proof of a theory is a gold standard",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The name “quantum mechanics” was coined by Max\nBorn.' For Born and others, quantum mechanics denoted a\ncanonical theory of atomic and electronic motion of the same\nlevel of generality and consistency as classical mechanics.\nThe transition from classical mechanics to a true quantum\nmechanics remained an elusive goal prior to 1925.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Heisenberg made the breakthrough in his historic 1925\npaper, “Quantum- theoretical reinterpretation of kinematic\nand mechanical relations.” ? Heisenberg’ s bold idea was to\nretain the classical equations of Newton but to replace the\nclassical position coordinate with a “quantum-theoretical\nquantity.” The new position quantity contains information\nabout the measurable line spectrum of an atom rather than\nthe unobservable orbit of the electron. Born realized that\nHeisenberg’s kinematical rule for multiplying position quan-\ntities was equivalent to the mathematical rule for multiplying\nmatrices. The next step was to formalize Heisenberg’s theory\nusing the language of matrices.",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full Sentence": "Heisenberg made the breakthrough in his historic 1925 paper, “Quantum- theoretical reinterpretation of kinematic and mechanical relations.”",
+        "Metaphorical Phrase": "Heisenberg made the breakthrough",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding is breaking through a barrier",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "The new position quantity contains information about the measurable line spectrum of an atom rather than the unobservable orbit of the electron.",
+        "Metaphorical Phrase": "The new position quantity contains information",
+        "Type": "Structural",
+        "Conceptual Mapping": "Information is a contained object",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "The next step was to formalize Heisenberg’s theory using the language of matrices.",
+        "Metaphorical Phrase": "The next step",
+        "Type": "Structural",
+        "Conceptual Mapping": "Progress is a journey",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The first comprehensive exposition on quantum mechanics\nin matrix form was written by Born and Jordan,’ and the\nsequel was written by Born, Heisenberg, and Jordan.° Dirac\nindependently discovered the general equations of quantum\nmechanics without using matrix theory.° These papers devel-\noped a Hamiltonian mechanics of the atom in a completely\nnew quantum (noncommutative) format. These papers ush-\nered in a new era in theoretical physics where Hermitian\nmatrices, commutators, and eigenvalue problems became the\nmathematical trademark of the atomic world. We discuss the\nfirst paper “On quantum mechanics. aa",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "These papers ushered in a new era in theoretical physics where Hermitian matrices, commutators, and eigenvalue problems became the mathematical trademark of the atomic world.",
+        "Metaphorical Phrase": "ushered in a new era",
+        "Type": "Structural",
+        "Conceptual Mapping": "Introduction of a new concept is like the start of a new era",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "These papers ushered in a new era in theoretical physics where Hermitian matrices, commutators, and eigenvalue problems became the mathematical trademark of the atomic world.",
+        "Metaphorical Phrase": "mathematical trademark of the atomic world",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Unique mathematical features are seen as a 'trademark' of a specific field of study",
+        "creativity": "uncertain"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This formulation of quantum mechanics, now referred to\nas matrix mechanics,’ marked one of the most intense peri-\nods of discovery in physics. The ideas and formalism behind\nthe original matrix mechanics are absent in most textbooks.\nRecent articles discuss the correspondence between classical\nharmonics and quantum jumps, * the calculational details of\nHeisenberg’s paper,” and the role of Born in the creation of\nquantum theory. References 11-19 represent a sampling of\nthe many sources on the development of quantum mechan-\nics.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Given Born and Jordan’s pivotal role in the discovery of\nquantum mechanics, it is natural to wonder why there are no\nequations named after them,” and why they did not share the\nNobel Prize with others.”! In 1933 Heisenberg wrote Born\nsaying “The fact that I am to receive the Nobel Prize alone,\n128",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Am. J. Phys. 77 (2), February 2009 http://aapt.org/ajp",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "for work done in Gottingen in collaboration—you, Jordan,\nand I, this fact depresses me and I hardly know what to write\nto you. I am, of course, glad that our common efforts are\nnow appreciated, and I enjoy the recollection of the beautiful\ntime of collaboration. I also believe that all good physicists\nknow how great was your and Jordan’s contribution to the\nstructure of quantum mechanics—and this remains un-\nchanged by a wrong decision from outside. Yet I myself can\ndo nothing but thank you again for all the fine collaboration\nand feel a little ashamed.””",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Engraved on Max Born’s tombstone is a one-line epitaph:\nPq-qp=h/27i. Born composed this elegant equation in\nearly July 1925 and called it “die verschirfte\nQuantenbedingung”™ —the sharpened quantum condition.\nThis equation is now known as the law of commutation and\nis the hallmark of quantum algebra.",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full Sentence": "Engraved on Max Born’s tombstone is a one-line epitaph: Pq-qp=h/27i.",
+        "Metaphorical Phrase": "Engraved on Max Born’s tombstone",
+        "Type": "Contextual",
+        "Conceptual Mapping": "An equation is a significant life achievement",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "This equation is now known as the law of commutation and is the hallmark of quantum algebra.",
+        "Metaphorical Phrase": "is the hallmark of quantum algebra",
+        "Type": "Ontological",
+        "Conceptual Mapping": "An equation is an emblem or symbol of achievement",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In the contemporary approach to teaching quantum me-\nchanics, matrix mechanics is usually introduced after a thor-\nough discussion of wave mechanics. The Heisenberg picture\nis viewed as a unitary transformation of the Schrodinger\npicture. * How was matrix mechanics formulated in 1925\nwhen the Schrédinger picture was nowhere in sight? The\nBorn and Jordan paper’ represents matrix mechanics in its\npurest form.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "How was matrix mechanics formulated in 1925 when the Schrédinger picture was nowhere in sight?",
+        "terms_in_conflict": [
+          "Matrix mechanics",
+          "Schrédinger picture"
+        ],
+        "explanation": "The paradox lies in the fact that matrix mechanics is usually introduced as a transformation of the Schrödinger picture in contemporary teaching. However, historically, matrix mechanics was formulated before the Schrödinger picture was developed, creating a temporal paradox.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "Il. BACKGROUND TO “ON QUANTUM\nMECHANICS”",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Heisenberg’ S program, as indicated by the title of his\npaper,” consisted of constructing quantum-theoretical rela-\ntions by reinterpreting the classical relations. To appreciate\nwhat Born and Jordan did with Heisenberg’s reinterpreta-\ntions, we discuss in, the Appendix four key relations from\nHeisenberg’s paper.” Heisenberg wrote the classical and\nquantum versions of each relation in parallel—as formula\ncouplets. Heisenberg has been likened to an “expert decoder\nwho reads a cryptogram.” °° The correspondence principle*\nacted as a “code book” for translating a classical relation into\nits quantum counterpart. Unlike his predecessors who used\nthe correspondence principle to produce specific relations,\nHeisenberg produced an entirely new theory—complete with\na new representation of position and a new rule of multipli-\ncation, together with an equation of motion and a quantum\ncondition whose solution determined the atomic observables\n(energies, frequencies, and transition amplitudes).",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Heisenberg has been likened to an “expert decoder who reads a cryptogram.”",
+        "Metaphorical Phrase": "Heisenberg has been likened to an “expert decoder who reads a cryptogram.”",
+        "Type": "Structural",
+        "Conceptual Mapping": "Heisenberg is an expert decoder",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "The correspondence principle* acted as a “code book” for translating a classical relation into its quantum counterpart.",
+        "Metaphorical Phrase": "The correspondence principle* acted as a “code book” for translating a classical relation into its quantum counterpart.",
+        "Type": "Structural",
+        "Conceptual Mapping": "The correspondence principle is a code book",
+        "creativity": "uncertain"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Heisenberg’ S program, as indicated by the title of his paper,” consisted of constructing quantum-theoretical relations by reinterpreting the classical relations.",
+        "terms_in_conflict": [
+          "constructing quantum-theoretical relations",
+          "reinterpreting the classical relations"
+        ],
+        "explanation": "The paradox lies in the idea of creating something new (quantum-theoretical relations) by reinterpreting something old (classical relations). This suggests a tension between innovation and reinterpretation.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Unlike his predecessors who used the correspondence principle to produce specific relations, Heisenberg produced an entirely new theory—complete with a new representation of position and a new rule of multiplication, together with an equation of motion and a quantum condition whose solution determined the atomic observables (energies, frequencies, and transition amplitudes).",
+        "terms_in_conflict": [
+          "used the correspondence principle to produce specific relations",
+          "produced an entirely new theory"
+        ],
+        "explanation": "The paradox here is that Heisenberg, while using the same correspondence principle as his predecessors, managed to produce an entirely new theory instead of specific relations. This suggests a tension between the traditional use of the correspondence principle and Heisenberg's innovative approach.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "© 2009 American Association of Physics Teachers 128",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 2 ---\nMatrices are not explicitly mentioned in Heisenberg’s pa-\nper. He did not arrange his quantum-theoretical quantities\ninto a table or array. In looking back on his discovery,\nHeisenberg wrote, “At that time I must confess I did not\nknow what a matrix was and did not know the rules of ma-\ntrix multiplication.”!® In the last sentence of his paper he\nwrote “whether this method after all represents far too rough\nan approach to the physical program of constructing a theo-\nretical quantum mechanics, an obviously very involved prob-\nlem at the moment, can be decided only by a more intensive\nmathematical investigation of the method which has been\nvery superficially employed here.”",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Born took up Heisenberg’s challenge to pursue “a more\nintensive mathematical investigation.” At the time Heisen-\nberg wrote his paper, he was Born’s assistant at the Univer-\nsity of Gottingen. Born recalls the moment of inspiration\nwhen he realized that position and momentum were\nmatrices:**",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "After having sent Heisenberg’s paper to the\nZeitschrift fiir Physik for publication, I began to\nponder about his symbolic multiplication, and was\nsoon so involved in it...For I felt there was some-\nthing fundamental behind it...And one morning,\nabout 10 July 1925, I suddenly saw the light:\nHeisenberg’s symbolic multiplication was nothing\nbut the matrix calculus, well known to me since\nmy student days from the lectures of Rosanes in\nBreslau.",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full Sentence": "After having sent Heisenberg’s paper to the Zeitschrift fiir Physik for publication, I began to ponder about his symbolic multiplication, and was soon so involved in it...For I felt there was something fundamental behind it...And one morning, about 10 July 1925, I suddenly saw the light: Heisenberg’s symbolic multiplication was nothing but the matrix calculus, well known to me since my student days from the lectures of Rosanes in Breslau.",
+        "Metaphorical Phrase": "saw the light",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding is seeing the light",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "I found this by just simplifying the notation a little:\ninstead of g(n,n+7), where n is the quantum num-\nber of one state and 7 the integer indicating the\ntransition, I wrote g(n,m), and rewriting Heisen-\nberg’s form of Bohr’s quantum condition, I recog-\nnized at once its formal significance. It meant that\nthe two matrix products pq and qp are not identi-\ncal. I was familiar with the fact that matrix multi-\nplication is not commutative; therefore I was not\ntoo much puzzled by this result. Closer inspection\nshowed that Heisenberg’s formula gave only the\nvalue of the diagonal elements (m=n) of the ma-\ntrix pq—qp; it said they were all equal and had the\nvalue h/27i where h is Planck’s constant and i\n=\\-1. But what were the other elements (m#n)?",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Here my own constructive work began. Repeating\nHeisenberg’s calculation in matrix notation, I soon\nconvinced myself that the only reasonable value of\nthe nondiagonal elements should be zero, and I\nwrote the strange equation",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where 1 is the unit matrix. But this was only a\nguess, and all my attempts to prove it failed.",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "On 19 July 1925, Born invited his former assistant Wolf-",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "129 Am. J. Phys., Vol. 77, No. 2, February 2009",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "gang Pauli to collaborate on the matrix program. Pauli de-\nclined the invitation.” The next day, Born asked his student\nPascual Jordan to assist him. Jordan accepted the invitation\nand in a few days proved Born’s conjecture that all nondi-\nagonal elements of pq—qp must vanish. The rest of the new\nquantum mechanics rapidly solidified. The Born and Jordan\npaper was received by the Zeitschrift fiir Physik on 27 Sep-\ntember 1925, two months after Heisenberg’s paper was re-\nceived by the same journal. All the essentials of matrix me-\nchanics as we know the subject today fill the pages of this\npaper.",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full Sentence": "The rest of the new quantum mechanics rapidly solidified.",
+        "Metaphorical Phrase": "rapidly solidified.",
+        "Type": "Structural",
+        "Conceptual Mapping": "The development of quantum mechanics is being compared to a solidifying substance, indicating that it became more stable and fixed over time.",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "All the essentials of matrix mechanics as we know the subject today fill the pages of this paper.",
+        "Metaphorical Phrase": "fill the pages",
+        "Type": "Structural",
+        "Conceptual Mapping": "Essential elements of quantum mechanics are being compared to physical objects that fill up space, indicating that the paper contains comprehensive information about the subject.",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In the abstract Born and Jordan wrote “The recently pub-\nlished theoretical approach of Heisenberg is here developed\ninto a systematic theory of quantum mechanics (in the first\nplace for systems having one degree of freedom) with the aid\nof mathematical matrix methods.”*° In the introduction they\ngo on to write “The physical reasoning which led Heisenberg\nto this development has been so clearly described by him\nthat any supplementary remarks appear superfluous. But, as\nhe himself indicates, in its formal, mathematical aspects his\napproach is but in its initial stages. His hypotheses have been\napplied only to simple examples without being fully carried\nthrough to a generalized theory. Having been in an advanta-\ngeous position to familiarize ourselves with his ideas\nthroughout their formative stages, we now strive (since his\ninvestigations have been concluded) to clarify the math-\nematically formal content of his approach and present some\nof our results here. These indicate that it is in fact possible,\nstarting with the basic premises given by Heisenberg, to\nbuild up a closed mathematical theory of quantum mechanics\nwhich displays strikingly close analogies with classical me-\nchanics, but at the same time preserves the characteristic\nfeatures of quantum phenomena.”",
+    "paragraph_type": "Hybrid",
+    "metaphors": [
+      {
+        "Full Sentence": "These indicate that it is in fact possible, starting with the basic premises given by Heisenberg, to build up a closed mathematical theory of quantum mechanics which displays strikingly close analogies with classical mechanics, but at the same time preserves the characteristic features of quantum phenomena.",
+        "Metaphorical Phrase": "build up a closed mathematical theory",
+        "Type": "Structural",
+        "Conceptual Mapping": "Developing a theory is like constructing a building",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "These indicate that it is in fact possible, starting with the basic premises given by Heisenberg, to build up a closed mathematical theory of quantum mechanics which displays strikingly close analogies with classical mechanics, but at the same time preserves the characteristic features of quantum phenomena.",
+        "Metaphorical Phrase": "displays strikingly close analogies with classical mechanics",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Understanding a new theory is like comparing it to a familiar one",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "Having been in an advantageous position to familiarize ourselves with his ideas throughout their formative stages, we now strive (since his investigations have been concluded) to clarify the mathematically formal content of his approach and present some of our results here.",
+        "Metaphorical Phrase": "ideas throughout their formative stages",
+        "Type": "Structural",
+        "Conceptual Mapping": "Ideas are like living entities that grow and develop",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "These indicate that it is in fact possible, starting with the basic premises given by Heisenberg, to build up a closed mathematical theory of quantum mechanics which displays strikingly close analogies with classical mechanics, but at the same time preserves the characteristic features of quantum phenomena.",
+        "terms_in_conflict": [
+          "Quantum mechanics",
+          "Classical mechanics"
+        ],
+        "explanation": "The paradox lies in the attempt to reconcile quantum mechanics with classical mechanics. Quantum mechanics and classical mechanics are fundamentally different in their principles and predictions. The authors are trying to develop a mathematical theory of quantum mechanics that closely resembles classical mechanics, while still preserving the unique features of quantum phenomena. This is paradoxical because the two theories are not typically compatible.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "The reader is introduced to the notion of a matrix in the\nthird paragraph of the introduction: “The mathematical basis\nof Heisenberg’s treatment is the law of multiplication of\nquantum-theoretical quantities, which he derived from an in-\ngenious consideration of correspondence arguments. The de-\nvelopment of his formalism, which we give here, is based\nupon the fact that this rule of multiplication is none other\nthan the well-known mathematical rule of matrix multiplica-\ntion. The infinite square array which appears at the start of\nthe next section, termed a matrix, is a representation of a\nphysical quantity which is given in classical theory as a func-\ntion of time. The mathematical method of treatment inherent\nin the new quantum mechanics is thereby characterized by\nthe employment of matrix analysis in place of the usual\nnumber analysis.”",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The infinite square array which appears at the start of the next section, termed a matrix, is a representation of a physical quantity which is given in classical theory as a function of time.",
+        "Metaphorical phrase": "infinite square array",
+        "Type": "Structural",
+        "Conceptual Mapping": "Matrix is an infinite square array"
+      },
+      {
+        "Full sentence": "The mathematical method of treatment inherent in the new quantum mechanics is thereby characterized by the employment of matrix analysis in place of the usual number analysis.",
+        "Metaphorical phrase": "employment of matrix analysis in place of the usual number analysis",
+        "Type": "Structural",
+        "Conceptual Mapping": "Using matrix analysis is like employing a different tool"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The Born-Jordan paper* is divided into four chapters.\nChapter | on “Matrix calculation” introduces the mathemat-\nics (algebra and calculus) of matrices to physicists. Chapter 2\non “Dynamics” establishes the fundamental postulates of\nquantum mechanics, such as the law of commutation, and\nderives the important theorems, such as the conservation of\nenergy. Chapter 3 on “Investigation of the anharmonic oscil-\nlator” contains the first rigorous (correspondence free) calcu-\nlation of the energy spectrum of a quantum-mechanical har-\nmonic oscillator. Chapter 4 on “Remarks = on\nelectrodynamics” contains a procedure—the first of its\nkind—to quantize the electromagnetic field. We focus on the\nmaterial in Chap. 2 because it contains the essential physics\nof matrix mechanics.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "William A. Fedak and Jeffrey J. Prentis 129",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 3 ---\nII. THE ORIGINAL POSTULATES OF QUANTUM\nMECHANICS",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Current presentations of quantum mechanics frequently\nare based on a set of postulates.* The Born—Jordan postu-\nlates of quantum mechanics were crafted before wave me-\nchanics was formulated and thus are quite different than the\nSchrédinger-based postulates in current textbooks. The origi-\nnal postulates come as close as possible to the classical-\nmechanical laws while maintaining complete quantum-\nmechanical integrity.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The original postulates come as close as possible to the classical-mechanical laws while maintaining complete quantum-mechanical integrity.",
+        "Metaphorical phrase": "come as close as possible",
+        "Type": "Structural",
+        "Conceptual Mapping": "Comparing postulates to physical proximity"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Section Il, “The basic laws,” in Chap. 2 of the Born—\nJordan paper is five pages long and contains approximately\nthirty equations. We have imposed a contemporary postula-\ntory approach on this section by identifying five fundamental\npassages from the text. We call these five fundamental ideas\n“the postulates.” We have preserved the original phrasing,\nnotation, and logic of Born and Jordan. The labeling and the\nnaming of the postulates is ours.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "We have imposed a contemporary postulatory approach on this section by identifying five fundamental passages from the text.",
+        "Metaphorical phrase": "imposed a contemporary postulatory approach",
+        "Type": "Structural",
+        "Conceptual Mapping": "Using a method is like imposing a pattern or structure"
+      },
+      {
+        "Full sentence": "The labeling and the naming of the postulates is ours.",
+        "Metaphorical phrase": "labeling and the naming of the postulates",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Understanding a concept is like labeling and naming it"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Postulate 1. Position and Momentum. Born and Jordan\nintroduce the position and momentum matrices by writing\nthat*®",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The dynamical system is to be described by the\nspatial coordinate q and the momentum p, these\nbeing represented by the matrices",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The dynamical system is to be described by the spatial coordinate q and the momentum p, these being represented by the matrices",
+        "Metaphorical Phrase": "these being represented by the matrices",
+        "Type": "Structural",
+        "Conceptual Mapping": "Spatial coordinates and momentum are matrices",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Here the (nm) denote the quantum-theoretical fre-\nquencies associated with the transitions between\nstates described by the guantum numbers n and m.\nThe matrices (2) are to be Hermitian, e.g., on trans-\nposition of the matrices, each element is to go over\ninto its complex conjugate value, a condition\nwhich should apply for all real t. We thus have",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If q is a Cartesian coordinate, then the expression\n(3) is a measure of the probabilities of the transi-\ntions n=m.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The preceding passage placed Hermitian matrices into the\nphysics limelight. Prior to the Born—Jordan paper, matrices\nwere rarely seen in physics.” Hermitian matrices were even\nstranger. Physicists were reluctant to accept such an abstract\nmathematical entity as a description of physical reality.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The preceding passage placed Hermitian matrices into the physics limelight.",
+        "Metaphorical Phrase": "placed Hermitian matrices into the physics limelight",
+        "Type": "Structural",
+        "Conceptual Mapping": "Gaining recognition or prominence is being placed into the limelight",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "Physicists were reluctant to accept such an abstract mathematical entity as a description of physical reality.",
+        "Metaphorical Phrase": "abstract mathematical entity as a description of physical reality",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Mathematical models are descriptions of reality",
+        "creativity": "genuine"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "For Born and Jordan, q and p do not specify the position\nand momentum of an electron in an atom. Heisenberg\nstressed that quantum theory should focus only on the ob-\nservable properties, namely the frequency and intensity of\nthe atomic radiation and not the position and period of the\nelectron. The quantities q and p represent position and mo-\nmentum in the sense that q and p satisfy matrix equations of\nmotion that are identical in form to those satisfied by the",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "For Born and Jordan, q and p do not specify the position and momentum of an electron in an atom.",
+        "terms_in_conflict": [
+          "q and p",
+          "position and momentum of an electron"
+        ],
+        "explanation": "The paradox arises from the assertion that q and p, which are typically used to represent position and momentum, do not specify these properties for an electron in an atom.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "Heisenberg stressed that quantum theory should focus only on the observable properties, namely the frequency and intensity of the atomic radiation and not the position and period of the electron.",
+        "terms_in_conflict": [
+          "observable properties",
+          "position and period of the electron"
+        ],
+        "explanation": "The paradox here is that Heisenberg is suggesting that quantum theory should focus on observable properties, but then excludes the position and period of the electron, which are typically considered observable properties.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "The quantities q and p represent position and momentum in the sense that q and p satisfy matrix equations of motion that are identical in form to those satisfied by the",
+        "terms_in_conflict": [
+          "q and p",
+          "position and momentum"
+        ],
+        "explanation": "This statement contradicts the earlier assertion that q and p do not specify the position and momentum of an electron. Here, it is stated that they do represent these properties in the context of matrix equations of motion.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "130 Am. J. Phys., Vol. 77, No. 2, February 2009",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "position and momentum of classical mechanics. In the Bohr\natom the electron undergoes periodic motion in a well de-\nfined orbit around the nucleus with a certain classical fre-\nquency. In the Heisenberg—Born—Jordan atom there is no\nlonger an orbit, but there is some sort of periodic “quantum\nmotion” of the electron characterized by the set of frequen-\ncies v(nm) and amplitudes q(nm). Physicists believed that\nsomething inside the atom must vibrate with the right fre-\nquencies even though they could not visualize what the\nquantum oscillations looked like. The mechanical properties\n(q,p) of the quantum motion contain complete information\non the spectral properties (frequency, intensity) of the emit-\nted radiation.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Physicists believed that something inside the atom must vibrate with the right frequencies even though they could not visualize what the quantum oscillations looked like.",
+        "Metaphorical Phrase": "something inside the atom must vibrate with the right frequencies",
+        "Type": "Structural",
+        "Conceptual Mapping": "Atomic particles are vibrating objects",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "The mechanical properties (q,p) of the quantum motion contain complete information on the spectral properties (frequency, intensity) of the emitted radiation.",
+        "Metaphorical Phrase": "mechanical properties (q,p) of the quantum motion contain complete information",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantum motion is a container of information",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "In the Bohr atom the electron undergoes periodic motion in a well defined orbit around the nucleus with a certain classical frequency. In the Heisenberg—Born—Jordan atom there is no longer an orbit, but there is some sort of periodic “quantum motion” of the electron characterized by the set of frequencies v(nm) and amplitudes q(nm).",
+        "terms_in_conflict": [
+          "Bohr atom",
+          "Heisenberg—Born—Jordan atom"
+        ],
+        "explanation": "The paradox lies in the conceptualization of the electron's motion in an atom. In the Bohr model, the electron moves in a well-defined orbit, while in the Heisenberg—Born—Jordan model, there is no defined orbit, but a 'quantum motion'. These are two fundamentally different ways of understanding the same phenomenon.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Physicists believed that something inside the atom must vibrate with the right frequencies even though they could not visualize what the quantum oscillations looked like.",
+        "terms_in_conflict": [
+          "vibration with the right frequencies",
+          "inability to visualize quantum oscillations"
+        ],
+        "explanation": "The paradox here is that physicists believe in the existence of certain phenomena (vibrations with specific frequencies) within the atom, despite not being able to visualize or directly observe these phenomena.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "The diagonal elements of a matrix correspond to the\nstates, and the off-diagonal elements correspond to the tran-\nsitions. An important property of all dynamical matrices is\nthat the diagonal elements are independent of time. The Her-\nmitian rule in Eq. (4) implies the relation v(nn)=0. Thus the\ntime factor of the nth diagonal term in any matrix is",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "27)! 1 As we shall see, the time-independent entries in\na diagonal matrix are related to the constant values of a con-\nserved quantity.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In their purely mathematical introduction to matrices\n(Chap. 1), Born and Jordan use the following symbols to\ndenote a matrix",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a(10) a(11) a(12)\na=(a(nm)) = a(20) a(21) a(22) . (5)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The bracketed symbol (a(nm)), which displays inner ele-\nments a(nm) contained within outer brackets (), is the short-\nhand notation for the array in Eq. (5). By writing the matrix\nelements as a(nm), rather than a,,,,, Born and Jordan made\ndirect contact with Heisenberg’s quantum- theoretical quanti-\nties a(n,n—a) (see the Appendix). They wrote*? “Matrix\nmultiplication is defined by the rule ‘rows times columns,”\nfamiliar from the ordinary theory of determinants:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a=be means a(nm) = >, b(nk)c(km) .” (6)\nk=0",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This multiplication rule was first given (for finite square ma-\ntrices) by Arthur Cayley.*° Little did Cayley know in 1855\nthat his mathematical “row times column” expression\nb(nk)c(km) would describe the physical process of an elec-\ntron making the transition n—k—m in an atom.",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full Sentence": "Little did Cayley know in 1855 that his mathematical “row times column” expression b(nk)c(km) would describe the physical process of an electron making the transition n—k—m in an atom.",
+        "Metaphorical Phrase": "his mathematical “row times column” expression b(nk)c(km) would describe the physical process of an electron making the transition n—k—m in an atom",
+        "Type": "Structural",
+        "Conceptual Mapping": "Mathematical expression is a physical process",
+        "creativity": "uncertain"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Born and Jordan wrote in Postulate 1 that the quantity\n|q(nm)/? provides “a measure of the probabilities of the tran-\nsitions nm. ” They justify this profound claim in the last\nchapter.*” Born and Jordan’s one-line claim about transition\nprobabilities is the only statistical statement in their postu-\nlates. Physics would have to wait several months before\nSchrédinger’s wave function (x) and Born’s probability\nfunction |W(x)|? entered the scene. Born discovered the con-\nnection between |V(x)|? and position probability, and was\nalso the first physicist (with Jordan) to formalize the connec-\ntion between |q(nm)|? and the transition probability via a\n“quantum electrodynamic” argument.*® As a pioneer statisti-\ncal interpreter of quantum mechanics, it is interesting to\nspeculate that Born might have discovered how to form a",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full Sentence": "Physics would have to wait several months before Schrédinger’s wave function (x) and Born’s probability function |W(x)|? entered the scene.",
+        "Metaphorical Phrase": "Physics would have to wait",
+        "Type": "Structural",
+        "Conceptual Mapping": "Time progress is a waiting period",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "Born discovered the connection between |V(x)|? and position probability, and was also the first physicist (with Jordan) to formalize the connection between |q(nm)|? and the transition probability via a “quantum electrodynamic” argument.",
+        "Metaphorical Phrase": "Born discovered the connection",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding is discovering",
+        "creativity": "uncertain"
+      },
+      {
+        "Full Sentence": "Born and Jordan’s one-line claim about transition probabilities is the only statistical statement in their postulates.",
+        "Metaphorical Phrase": "one-line claim",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Claims are physical objects",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Born and Jordan wrote in Postulate 1 that the quantity |q(nm)/? provides “a measure of the probabilities of the transitions nm. ” They justify this profound claim in the last chapter.*” Born and Jordan’s one-line claim about transition probabilities is the only statistical statement in their postulates.",
+        "terms_in_conflict": [
+          "Postulate 1",
+          "statistical statement"
+        ],
+        "explanation": "The paradox lies in the fact that Born and Jordan's Postulate 1, which is a statistical statement about transition probabilities, is said to be the only statistical statement in their postulates. This implies that there are no other statistical statements in their postulates, which contradicts the fact that Postulate 1 itself is a statistical statement.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "William A. Fedak and Jeffrey J. Prentis 130",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 4 ---\nlinear superposition of the periodic matrix elements\nq(nm)e?7\"\"\"\" in order to obtain another statistical object,\nnamely the expectation value (q). Early on, Born, Heisen-\nberg, and Jordan did superimpose matrix elements,” but did\nnot supply the statistical interpretation.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Postulate 2. Frequency Combination Principle. After de-\nfining q and p, Born and Jordan wrote” “Further, we shall\nrequire that",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The frequency sum rule in Eq. (7) is the fundamental con-\nstraint on the quantum-theoretical frequencies. This rule is\nbased on the Ritz combination principle, which explains the\nrelations of the spectral lines of atomic spectroscopy.\" ° Equa-\ntion (7) is the quantum analogue of the “Fourier combination\nprinciple”, v(k—j)+v(I-k)+v({-)=0, where v(a)=avr(1)\nis the frequency of the ath harmonic component of a Fourier\nseries. The frequency spectrum of classical periodic motion\nobeys this Fourier sum rule. The equal Fourier spacing of\nclassical lines is replaced by the irregular Ritzian spacing of\nquantal lines. In the correspondence limit of large quantum\nnumbers and small quantum jumps the atomic spectrum of\nRitz reduces to the harmonic spectrum of Fourier.*”° Be-\ncause the Ritz rule was considered an exact law of atomic\nspectroscopy, and because Fourier series played a vital role\nin Heisenberg’s analysis, it made sense for Born and Jordan\nto posit the frequency rule in Eq. (7) as a basic law.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The equal Fourier spacing of classical lines is replaced by the irregular Ritzian spacing of quantal lines.",
+        "Metaphorical Phrase": "The equal Fourier spacing of classical lines is replaced by the irregular Ritzian spacing of quantal lines.",
+        "Type": "Structural",
+        "Conceptual Mapping": "The concept of Fourier spacing in classical physics is compared to the concept of Ritzian spacing in quantum physics. The former is characterized as 'equal' and 'classical' while the latter is 'irregular' and 'quantal'.",
+        "creativity": "genuine"
+      },
+      {
+        "Full Sentence": "In the correspondence limit of large quantum numbers and small quantum jumps the atomic spectrum of Ritz reduces to the harmonic spectrum of Fourier.",
+        "Metaphorical Phrase": "In the correspondence limit of large quantum numbers and small quantum jumps the atomic spectrum of Ritz reduces to the harmonic spectrum of Fourier.",
+        "Type": "Structural",
+        "Conceptual Mapping": "The transition from quantum physics to classical physics is metaphorically described as a reduction from the 'atomic spectrum of Ritz' to the 'harmonic spectrum of Fourier'. This implies that quantum physics can be seen as a more complex or advanced form of classical physics.",
+        "creativity": "uncertain"
+      },
+      {
+        "Full Sentence": "The frequency sum rule in Eq. (7) is the fundamental constraint on the quantum-theoretical frequencies.",
+        "Metaphorical Phrase": "The frequency sum rule in Eq. (7) is the fundamental constraint on the quantum-theoretical frequencies.",
+        "Type": "Ontological",
+        "Conceptual Mapping": "The frequency sum rule is metaphorically described as a 'fundamental constraint', implying that it limits or restricts quantum-theoretical frequencies in a crucial way.",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The equal Fourier spacing of classical lines is replaced by the irregular Ritzian spacing of quantal lines.",
+        "terms_in_conflict": [
+          "Fourier spacing of classical lines",
+          "Ritzian spacing of quantal lines"
+        ],
+        "explanation": "The paradox lies in the transition from the regularity of Fourier spacing in classical physics to the irregularity of Ritzian spacing in quantum physics. This represents a fundamental shift in understanding and predicting the behavior of physical systems.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "In the correspondence limit of large quantum numbers and small quantum jumps the atomic spectrum of Ritz reduces to the harmonic spectrum of Fourier.",
+        "terms_in_conflict": [
+          "atomic spectrum of Ritz",
+          "harmonic spectrum of Fourier"
+        ],
+        "explanation": "This sentence presents a paradox because it suggests that under certain conditions (large quantum numbers and small quantum jumps), the irregular, quantum-based Ritz spectrum can reduce to the regular, classical-based Fourier spectrum. This is paradoxical because it implies a convergence of quantum and classical physics under certain conditions, despite their fundamentally different principles.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "One might be tempted to regard Eq. (7) as equivalent to\nthe Bohr frequency condition, E(n)-E(m)=hv(nm), where\nE(n) is the energy of the nny state n. For Born and\nJordan, Eq. (7) says nothing about energy. They note that",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Eqs. (4) and (7) imply that there exists spectral terms W,,\nsuch that\nhv(nm) = W,,- Wry. (8)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "At this postulatory stage, the term W,, of the spectrum is\nunrelated to the energy E(n) of the state. Heisenberg empha-\nsized this distinction between “term” and ‘ “energy” in a letter\nto Pauli summarizing the Born-Jordan theory.” Born and\nJordan adopt Eq. (7) as a postulate—one based solely on the\nobservable spectral quantities v(m) without reference to any\nmechanical quantities E(n). The Bohr frequency condition is\nnot something they assume a priori, it is something that must\nbe rigorously proved.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The Ritz rule insures that the nm element of any dynami-\ncal matrix (any function of p and q) oscillates with the same\nfrequency v(nm) as the nm element of p and q. For example,\nif the 32 elements of p and q oscillate at 500 MHz, then\nthe 3—+2 elements of p?, q’, pq, q°, p?+q/, etc. each oscil-\nlate at 500 MHz. In all calculations involving the canonical\nmatrices p and q, no new frequencies are generated. A con-\nsistent quantum theory must preserve the frequency spectrum\nof a particular atom because the spectrum is the spectro-\nscopic signature of the atom. The calculations must not\nchange the identity of the atom. Based on the rules for ma-\nnipulating matrices and combining frequencies, Born and\nJordan wrote that “it follows that a function g(pq) invariably\ntakes on the form",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The Ritz rule insures that the nm element of any dynamical matrix (any function of p and q) oscillates with the same frequency v(nm) as the nm element of p and q.",
+        "Metaphorical phrase": "oscillates with the same frequency",
+        "Type": "Structural",
+        "Conceptual Mapping": "Similarity between matrix elements is an oscillation in frequency"
+      },
+      {
+        "Full sentence": "A consistent quantum theory must preserve the frequency spectrum of a particular atom because the spectrum is the spectroscopic signature of the atom.",
+        "Metaphorical phrase": "the spectrum is the spectroscopic signature of the atom",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Spectrum is a unique identifier"
+      },
+      {
+        "Full sentence": "The calculations must not change the identity of the atom.",
+        "Metaphorical phrase": "change the identity of the atom",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Calculations altering atom's properties is changing its identity"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "In all calculations involving the canonical matrices p and q, no new frequencies are generated. A consistent quantum theory must preserve the frequency spectrum of a particular atom because the spectrum is the spectroscopic signature of the atom.",
+        "terms_in_conflict": [
+          "no new frequencies are generated",
+          "preserve the frequency spectrum"
+        ],
+        "explanation": "The paradox lies in the fact that while the calculations involving the matrices p and q do not generate new frequencies, a consistent quantum theory must preserve the frequency spectrum of a particular atom. This implies that the frequency spectrum of an atom could potentially change, which contradicts the assertion that no new frequencies are generated.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "and the matrix (g(nm)) therein results from identically the\nsame process applied to the matrices (g(nm)), (p(nm)) as",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "131 Am. J. Phys., Vol. 77, No. 2, February 2009",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "was employed to find g from q, p.”“” Because e27\"\"\"™ is the",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "universal time factor common to all dynamical matrices, they\nnote that it can be dropped from Eq. (2) in favor of the\nshorter notation q=(q(nm)) and p=(p(nm)).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Why does the Ritz rule insure that the time factors of\ng(pq) are identical to the time factors of p and q? Consider\nthe potential energy function q?. The nm element of q?,\nwhich we denote by @(nm), is obtained from the elements of\nq via the multiplication rule",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "q2(nm) = Dalnkye Ami Akt a (feyq) e2MIM I, (10)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Given the Ritz relation v(nm)=v(nk)+ (km), which follows\nfrom Eqs. (4) and (7), Eq. (10) reduces to",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "It follows that the nm time factor of q? is the same as the nm\ntime factor of q.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We see that the theoretical rule for multiplying mechanical\namplitudes, a(nm)=>,b(nk)c(km), is intimately related to\nthe experimental rule for adding spectral frequencies,\nv(nm)=v(nk)+ (km). The Ritz rule occupied a prominent\nplace in Heisenberg’s discovery of the multiplication rule\n(see the Appendix). Whenever a contemporary physicist cal-\nculates the total amplitude of the quantum jump n—k—m,\nthe steps involved can be traced back to the frequency com-\nbination principle of Ritz.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Postulate 3. The Equation of Motion. Born and Jordan\nintroduce the law of quantum dynamics by writing®®",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In the case of a Hamilton function having the form",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "we shall assume, as did Heisenberg, that the equa-\ntions of motion have just the same form as in the\nclassical theory, so that we can write:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ". Al (13a)\n=—=—p, a\nq ap nP\nHAH wv\np=-—=-—. (13b)\naq aq",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This Hamiltonian formulation of quantum dynamics general-\nized Heisenberg’s Newtonian approach.\" The assumption by\nHeisenberg and Born and Jordan that quantum dynamics\nlooks the same as classical dynamics was a bold and deep\nassumption. For them, the problem with classical mechanics\nwas not the dynamics (the form of the equations of motion),\nbut rather the kinematics (the meaning of position and mo-\nmentum).",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The assumption by Heisenberg and Born and Jordan that quantum dynamics looks the same as classical dynamics was a bold and deep assumption.",
+        "Metaphorical phrase": "quantum dynamics looks the same as classical dynamics",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantum dynamics is classical dynamics"
+      },
+      {
+        "Full sentence": "For them, the problem with classical mechanics was not the dynamics (the form of the equations of motion), but rather the kinematics (the meaning of position and momentum).",
+        "Metaphorical phrase": "the problem with classical mechanics",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Classical mechanics is a problem"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Postulate 4. Energy Spectrum. Born and Jordan reveal the\nconnection between the allowed energies of a conservative\nsystem and the numbers in the Hamiltonian matrix:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "“The diagonal elements H(nn) of H are inter-\npreted, according to Heisenberg, as the energies of\nthe various states of the system.”",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "William A. Fedak and Jeffrey J. Prentis 131",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 5 ---\nThis statement introduced a radical new idea into main-\nstream physics: calculating an energy spectrum reduces to\nfinding the components of a diagonal matrix.*° Although\nBorn and Jordan did not mention the word eigenvalue in Ref.\n4, Born, Heisenberg, and Jordan would soon formalize the\nidea of calculating an energy spectrum by solving an eigen-\nvalue problem.° The ad hoc rules for calculating a quantized\nenergy in the old quantum theory were replaced by a system-\natic mathematical program.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "calculating an energy spectrum reduces to finding the components of a diagonal matrix",
+        "Metaphorical phrase": "calculating an energy spectrum reduces to finding the components of a diagonal matrix",
+        "Type": "Structural",
+        "Conceptual Mapping": "Calculating an energy spectrum is finding the components of a diagonal matrix"
+      },
+      {
+        "Full sentence": "The ad hoc rules for calculating a quantized energy in the old quantum theory were replaced by a systematic mathematical program.",
+        "Metaphorical phrase": "were replaced by a systematic mathematical program",
+        "Type": "Structural",
+        "Conceptual Mapping": "Ad hoc rules in quantum theory are a systematic mathematical program"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Born and Jordan considered exclusively conservative sys-\ntems for which H does not depend explicitly on time. The\nconnection between conserved quantities and diagonal matri-\nces will be discussed later. For now, recall that the diagonal\nelements of any matrix are independent of time. For the spe-\ncial case where all the non-diagonal elements of a dynamical\nmatrix g(pq) vanish, the quantity g is a constant of the mo-\ntion. A postulate must be introduced to specify the physical\nmeaning of the constant elements in g.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "Born and Jordan considered exclusively conservative systems for which H does not depend explicitly on time.",
+        "terms_in_conflict": [
+          "conservative systems",
+          "H does not depend explicitly on time"
+        ],
+        "explanation": "In physics, a conservative system is one in which energy is conserved. However, the Hamiltonian (H) is often a function of time in non-conservative systems. The authors are considering conservative systems where H does not depend on time, which is a paradoxical situation.",
+        "creativity": "uncertain"
+      },
+      {
+        "full_sentence": "For the special case where all the non-diagonal elements of a dynamical matrix g(pq) vanish, the quantity g is a constant of the motion.",
+        "terms_in_conflict": [
+          "non-diagonal elements vanish",
+          "g is a constant of the motion"
+        ],
+        "explanation": "In a dynamical matrix, the non-diagonal elements usually represent interactions between different degrees of freedom, which can change over time. If these elements vanish, it implies there are no interactions, which contradicts the idea of g being a constant of motion, as this usually implies some form of interaction or change.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "In the old quantum theory it was difficult to explain why\nthe energy was quantized. The discontinuity in energy had to\nbe postulated or artificially imposed. Matrices are naturally\nquantized. The quantization of energy is built into the dis-\ncrete row-column structure of the matrix array. In the old\ntheory Bohr’s concept of a stationary state of energy E,, was\na central concept. Physicists grappled with the questions:\nWhere does E,, fit into the theory? How is E,, calculated?\nBohr’s concept of the energy of the stationary state finally\nfound a rigorous place in the new matrix scheme.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The quantization of energy is built into the discrete row-column structure of the matrix array.",
+        "Metaphorical phrase": "The quantization of energy is built into the discrete row-column structure of the matrix array.",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantization of energy is a structure of a matrix"
+      },
+      {
+        "Full sentence": "Bohr’s concept of the energy of the stationary state finally found a rigorous place in the new matrix scheme.",
+        "Metaphorical phrase": "Bohr’s concept of the energy of the stationary state finally found a rigorous place in the new matrix scheme.",
+        "Type": "Structural",
+        "Conceptual Mapping": "Concepts are locations in a scheme"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "In the old quantum theory it was difficult to explain why the energy was quantized.",
+        "terms_in_conflict": [
+          "old quantum theory",
+          "quantized energy"
+        ],
+        "explanation": "The old quantum theory struggled to explain why energy was quantized, implying a contradiction between the theory and the observed behavior of energy.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "The quantization of energy is built into the discrete row-column structure of the matrix array.",
+        "terms_in_conflict": [
+          "quantization of energy",
+          "matrix array"
+        ],
+        "explanation": "This sentence suggests a paradox in that the quantization of energy, which was difficult to explain in the old quantum theory, is inherently built into the structure of matrices, suggesting a fundamental difference in the understanding of energy between the two theories.",
+        "creativity": "uncertain"
+      },
+      {
+        "full_sentence": "Bohr’s concept of the energy of the stationary state finally found a rigorous place in the new matrix scheme.",
+        "terms_in_conflict": [
+          "Bohr's concept of stationary state energy",
+          "new matrix scheme"
+        ],
+        "explanation": "This sentence presents a paradox in that Bohr's concept of stationary state energy, which was a central concept in the old quantum theory, is now finding a rigorous place in the new matrix scheme, suggesting a shift in the understanding and application of this concept.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "Postulate 5. The Quantum Condition. Born and Jordan\nstate that the elements of p and q for any quantum mechani-\ncal system must satisfy the “quantum condition”:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "© (pink) glbn) — glnkplkn)) = 5. (14)\nk Ti",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Given the significance of Eq. (14) in the development of\nquantum mechanics, we quote Born and Jordan’s “deriva-\ntion” of this equation:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "of “classical” quantum theory can, on introducing\nthe Fourier expansions of p and q,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "p= > perm\",\nm0\n(16)\nq= ae\",\nme\nbe transformed into\n1=2 > im ) (17)\n=271 Tm .\na LP-r",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The following expressions should correspond:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "132 Am. J. Phys., Vol. 77, No. 2, February 2009",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where in the right-hand expression those q(nm),\np(nm) which take on a negative index are to be set\nequal to zero. In this way we obtain the quantiza-\ntion condition corresponding to Eq. (17) as",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "D (pinkalbn)— glnkptkm)) =~. 20)\ni Ti",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This is a system of infinitely many equations,\nnamely one for each value of nJ®",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Why did Born and Jordan take the derivative of the action\nintegral in Eq. (15) to arrive at Eq. (17)? Heisenberg per-\nformed a similar maneuver (see the Appendix). One reason is\nto eliminate any explicit dependence on the integer variable\nn from the basic laws. Another reason is to generate a differ-\nential expression that can readily be translated via the corre-\nspondence principle into a difference expression containing\nonly transition quantities. In effect, a state relation is con-\nverted into a change-in-state relation. In the old quantum\ntheory the Bohr-Sommerfeld quantum condition, pdg=nh,\ndetermined how all state quantities depend on n. Such an ad\nhoc quantization algorithm has no proper place in a rigorous\nquantum theory, where n should not appear explicitly in any\nof the fundamental laws. The way in which q(nm), p(nm),\nv(nm) depend on (nm) should not be artificially imposed, but\nshould be naturally determined by fundamental relations in-\nvolving only the canonical variables q and p, without any\nexplicit dependence on the state labels n and m. Equation\n(20) is one such fundamental relation.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "In effect, a state relation is converted into a change-in-state relation.",
+        "Metaphorical phrase": "a state relation is converted into a change-in-state relation.",
+        "Type": "Structural",
+        "Conceptual Mapping": "State relations are stationary objects; Change in state relations are moving or changing objects"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In 1924 Born introduced the technique of replacing differ-\nentials by differences to make the “formal passage from clas-\nsical mechanics to a ‘quantum mechanics’.”\"” This corre-\nspondence rule played an important role in allowing Born\nand others to develop the equations of quantum mechanics.~’\nTo motivate Born’s rule note that the fundamental orbital\nfrequency of a classical periodic system is equal to dE/dJ (E\nis energy and J=¢pdq is an action)! whereas the spectral\nfrequency of an atomic system is equal to AE/h. Hence, the\npassage from a classical to a quantum frequency is made by\nreplacing the derivative dE/dJ by the difference AE/h.\nBorn conjectured that this correspondence is valid for any\nquantity ®. He wrote “We are therefore as good as forced to\nadopt the rule that we have to replace a classically calculated\nquantity, whenever it is of the form 7d®/0J by the_linear\naverage or difference quotient [®(n+7)-®(n)|/h.” The\ncorrespondence between Eqs. (18) and (19) follows from",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Hence, the passage from a classical to a quantum frequency is made by replacing the derivative dE/dJ by the difference AE/h.",
+        "Metaphorical phrase": "the passage from a classical to a quantum frequency",
+        "Type": "Structural",
+        "Conceptual Mapping": "Transition between scientific theories is a journey"
+      },
+      {
+        "Full sentence": "Born conjectured that this correspondence is valid for any quantity ®.",
+        "Metaphorical phrase": "this correspondence is valid",
+        "Type": "Structural",
+        "Conceptual Mapping": "Mathematical equivalence is a valid correspondence"
+      },
+      {
+        "Full sentence": "We are therefore as good as forced to adopt the rule that we have to replace a classically calculated quantity, whenever it is of the form 7d®/0J by the linear average or difference quotient [®(n+7)-®(n)|/h.",
+        "Metaphorical phrase": "as good as forced to adopt the rule",
+        "Type": "Structural",
+        "Conceptual Mapping": "Mathematical necessity is a compulsion"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "To motivate Born’s rule note that the fundamental orbital frequency of a classical periodic system is equal to dE/dJ (E is energy and J=¢pdq is an action)! whereas the spectral frequency of an atomic system is equal to ΔE/h.",
+        "terms_in_conflict": [
+          "fundamental orbital frequency of a classical periodic system",
+          "spectral frequency of an atomic system"
+        ],
+        "explanation": "The paradox lies in the attempt to equate the classical concept of orbital frequency with the quantum concept of spectral frequency. These two concepts operate under different physical laws and principles, yet Born's rule attempts to bridge them.",
+        "creativity": "uncertain"
+      },
+      {
+        "full_sentence": "Hence, the passage from a classical to a quantum frequency is made by replacing the derivative dE/dJ by the difference ΔE/h.",
+        "terms_in_conflict": [
+          "classical frequency",
+          "quantum frequency"
+        ],
+        "explanation": "The paradox here is the attempt to transition from classical to quantum frequency by simply replacing a derivative with a difference. This implies a direct correspondence between classical and quantum mechanics, which is paradoxical given their fundamentally different principles.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "Born conjectured that this correspondence is valid for any quantity ®.",
+        "terms_in_conflict": [
+          "correspondence",
+          "any quantity"
+        ],
+        "explanation": "The paradox lies in the assumption that the correspondence between classical and quantum mechanics, as established through frequency, can be extended to any quantity. This is paradoxical because it assumes a universality that may not hold given the fundamental differences between classical and quantum mechanics.",
+        "creativity": "uncertain"
+      }
+    ]
+  },
+  {
+    "paragraph": "William A. Fedak and Jeffrey J. Prentis 132",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 6 ---\nBorn’s rule by letting ® be ®(n)=g(n,n-7)p(n-7,n),\nwhere g(n,n—7) corresponds to g, and p(n—7,n) corre-\nsponds to p_, or p..",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Born and Jordan remarked that Eq. (20) implies that p and\nq can never be finite matrices.” For the special case p\n=mgq they also noted that the general condition in Eq. (20)\nreduces to Heisenberg’s form of the quantum condition (see\nthe Appendix). Heisenberg did not realize that his quantiza-\ntion rule was a relation between pq and qp.>",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Planck’s constant / enters into the theory via the quantum\ncondition in Eq. (20). The quantum condition expresses the\nfollowing deep law of nature: All the diagonal components of\nPq—qp must equal the universal constant h/2 ai.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "What about the nondiagonal components of pq—qp? Born\nclaimed that they were all equal to zero. Jordan proved\nBorn’s claim. It is important to emphasize that Postulate 5\nsays nothing about the nondiagonal elements. Born and Jor-\ndan were careful to distinguish the postulated statements\n(laws of nature) from the derivable results (consequences of\nthe postulates). Born’s development of the diagonal part of\npq-—gqp and Jordan’s derivation of the nondiagonal part con-\nstitute the two-part discovery of the law of commutation.",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Born and Jordan write the following equation in Sec. IV of\n“On quantum mechanics”:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "They call Eq. (21) the “sharpened quantum condition” be-\ncause it sharpened the condition in Eq. (20), which only fixes\nthe diagonal elements, to one which fixes all the elements. In\na letter to Pauli, Heisenberg referred to Eq. (21) as a “fun-\ndamental law of this mechanics” and as “Born’s very clever\nidea.””° Indeed, the commutation law in Eq. (21) is one of\nthe most fundamental relations in quantum mechanics. This\nequation introduces Planck’s constant and the imaginary\nnumber i into the theory in the most basic way possible. It is\nthe golden rule of quantum algebra and makes quantum cal-\nculations unique. The way in which all dynamical properties\nof a system depend on / can be traced back to the simple\nway in which pq—qp depend on A. In short, the commuta-\ntion law in Eq. (21) stores information on the discontinuity,\nthe non-commutativity, the uncertainty, and the complexity\nof the quantum world.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "They call Eq. (21) the “sharpened quantum condition” because it sharpened the condition in Eq. (20), which only fixes the diagonal elements, to one which fixes all the elements.",
+        "Metaphorical phrase": "sharpened quantum condition",
+        "Type": "Structural",
+        "Conceptual Mapping": "Equation is a tool that can be sharpened"
+      },
+      {
+        "Full sentence": "It is the golden rule of quantum algebra and makes quantum calculations unique.",
+        "Metaphorical phrase": "the golden rule of quantum algebra",
+        "Type": "Ontological",
+        "Conceptual Mapping": "An equation is a golden rule"
+      },
+      {
+        "Full sentence": "In short, the commutation law in Eq. (21) stores information on the discontinuity, the non-commutativity, the uncertainty, and the complexity of the quantum world.",
+        "Metaphorical phrase": "stores information",
+        "Type": "Structural",
+        "Conceptual Mapping": "Equation is a storage of information"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In their paper Born and Jordan proved that the off-\ndiagonal elements of pq—qp are equal to zero by first estab-\nlishing a “diagonality theorem,” which they state as follows:\n“If v(nm)#0 when n#m, a condition which we wish to\nassume, then the formula g=0 denotes that g is a diagonal\nmatrix with g(nm)=6,,g(nn).”>’ This theorem establishes\nthe connection between the structural (diagonality) and the\ntemporal (constancy) properties of a dynamical matrix. It\nprovided physicists with a whole new way to look at conser-\nvation principles: Jn quantum mechanics, conserved quanti-\nties are represented by diagonal matrices.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "This theorem establishes the connection between the structural (diagonality) and the temporal (constancy) properties of a dynamical matrix.",
+        "Metaphorical Phrase": "establishes the connection",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theorem is a connector",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "It provided physicists with a whole new way to look at conservation principles: Jn quantum mechanics, conserved quantities are represented by diagonal matrices.",
+        "Metaphorical Phrase": "provided physicists with a whole new way to look at",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theory is a lens",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Born and Jordan proved the diagonality theorem as fol-\nlows. Because all dynamical matrices g(pq) have the form in\nEq. (9), the time derivative of g is",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "133 Am. J. Phys., Vol. 77, No. 2, February 2009",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If g=0, then Eq. (22) implies the relation »(nm)g(nm)=0 for\nall (nm). This relation is always true for the diagonal ele-\nments because v(nn) is always equal to zero. For the off-\ndiagonal elements, the relation v(nm)g(nm)=0 implies that\ng(nm) must equal zero, because it is assumed that v(nm)\n#0 for n#m. Thus, g is a diagonal matrix.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hence, to show that pq—qp is a diagonal matrix, Born\nand Jordan showed that the time derivative of pq—gqp is\nequal to zero. They introduced the matrix d=pq-—gqp and\nexpressed the time derivative of d as",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "d= pq + pq- 4p — ap. (23)\nThey used the canonical equations of motion in Eq. (13) to\nwrite Eq. (23) as",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "They next demonstrated that the combination of derivatives\nin Eq. (24) leads to a vanishing result” and say that “",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "follows that d=0 and d is a diagonal matrix. The dinsonal\nelements of d are, however, specified by the quantum condi-\ntion (20). Summarizing, we obtain the equation",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "on introducing the unit matrix 1. We call Eq. (25) the ‘sharp-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "nes quantum condition’ and base all further conclusions on",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "° Fundamental results that propagate from Eq. (25) in-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "clude the equation of motion, g=(27i/h)(Hg—gH) (see Sec.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "V), the Heisenberg uncertainty principle, ApAqg=h/47, and\nthe Schrédinger operator, p=(h/277i)d/dq.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "It is important to emphasize the two distinct origins of\npq-qp=(h/27i)1. The diagonal part, (pq—qP)aiagonal\n=h/277i is a law—an exact decoding of the approximate law\n¢pdqz=nh. The nondiagonal part, (Pq—QP)nondiagonal=9, iS a\ntheorem—a logical consequence of the equations of motion.\nFrom a practical point of view Eq. (25) represents vital in-\nformation on the line spectrum of an atom by defining a\nsystem of algebraic equations that place strong constraints on\nthe magnitudes of g(nm), p(nm), and v(nm).",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The diagonal part, (pq—qP)aiagonal =h/277i is a law—an exact decoding of the approximate law ¢pdqz=nh.",
+        "Metaphorical Phrase": "is a law—an exact decoding",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific law is a decoding process",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "The nondiagonal part, (Pq—QP)nondiagonal=9, iS a theorem—a logical consequence of the equations of motion.",
+        "Metaphorical Phrase": "is a theorem—a logical consequence",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific theorem is a consequence",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "From a practical point of view Eq. (25) represents vital information on the line spectrum of an atom by defining a system of algebraic equations that place strong constraints on the magnitudes of g(nm), p(nm), and v(nm).",
+        "Metaphorical Phrase": "represents vital information",
+        "Type": "Structural",
+        "Conceptual Mapping": "Equation is a representative of vital information",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "From a practical point of view Eq. (25) represents vital information on the line spectrum of an atom by defining a system of algebraic equations that place strong constraints on the magnitudes of g(nm), p(nm), and v(nm).",
+        "Metaphorical Phrase": "defining a system of algebraic equations that place strong constraints",
+        "Type": "Structural",
+        "Conceptual Mapping": "Defining equations is placing constraints",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The diagonal part, (pq—qP)aiagonal =h/277i is a law—an exact decoding of the approximate law ¢pdqz=nh.",
+        "terms_in_conflict": [
+          "law",
+          "approximate law"
+        ],
+        "explanation": "The paradox lies in the idea that an 'exact decoding' can be derived from an 'approximate law'. If the original law is only approximate, it implies some level of uncertainty or inaccuracy, which contradicts the concept of deriving an exact decoding from it.",
+        "creativity": "uncertain"
+      },
+      {
+        "full_sentence": "The nondiagonal part, (Pq—QP)nondiagonal=9, iS a theorem—a logical consequence of the equations of motion.",
+        "terms_in_conflict": [
+          "theorem",
+          "equations of motion"
+        ],
+        "explanation": "The paradox here is that a theorem, which is a proven statement derived from axioms and previously proven theorems, is described as a 'logical consequence' of the equations of motion. This implies that the equations of motion are more fundamental than the theorem, which contradicts the hierarchical nature of mathematical proofs.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "Born and Jordan proved that the equation of motion de-\nscribing the time evolution of any dynamical quantity g(pq)\nis",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Equation (26) is now often referred to as the Heisenberg\nequation.° \"In Ref. 2 the only equation of motion is Newton’s\nsecond law, which Heisenberg wrote as ¥+f(x)=0 (see the\nAppendix).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The “commutator” of mechanical quantities is a recurring\ntheme in the Born—Jordan theory. The quantity pq—qp lies at\nthe core of their theory. Equation (26) reveals how the quan-\ntity Hg—gH is synonymous with the time evolution of g.\nThanks to Born and Jordan, as well as Dirac who established\nthe connection between commutators and classical Poisson",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The commutator of mechanical quantities is a recurring theme in the Born—Jordan theory.",
+        "Metaphorical phrase": "recurring theme",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific theory is like a narrative or story"
+      },
+      {
+        "Full sentence": "The quantity pq—qp lies at the core of their theory.",
+        "Metaphorical phrase": "lies at the core",
+        "Type": "Structural",
+        "Conceptual Mapping": "Key scientific concepts are like the core or heart of a structure"
+      },
+      {
+        "Full sentence": "Equation (26) reveals how the quantity Hg—gH is synonymous with the time evolution of g.",
+        "Metaphorical phrase": "reveals",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific equations are like uncovering hidden truths"
+      },
+      {
+        "Full sentence": "Equation (26) reveals how the quantity Hg—gH is synonymous with the time evolution of g.",
+        "Metaphorical phrase": "is synonymous with",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific relationships are like linguistic synonyms"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "William A. Fedak and Jeffrey J. Prentis 133",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 7 ---\nbrackets,° the commutator is now an integral part of modern\nquantum theory. The change in focus from commuting vari-\nables to noncommuting variables represents a paradigm shift\nin quantum theory.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The change in focus from commuting variables to noncommuting variables represents a paradigm shift in quantum theory.",
+        "Metaphorical phrase": "represents a paradigm shift",
+        "Type": "Structural",
+        "Conceptual Mapping": "Change in scientific focus is a shift"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The original derivation of Eq. (26) is different from\npresent-day derivations. In the usual textbook presentation\nEq. (26) is derived from a unitary transformation of the states\nand operators in the Schrodinger picture.” “In 1925, the\nSchrédinger picture did not exist. To derive Eq. (26) from\ntheir postulates Born and Jordan developed a new quantum-\ntheoretical technology that is now referred to as ““commuta-\ntor algebra.” They began the proof by stating the following\ngeneralizations of Eq. (25):",
+    "paragraph_type": "Hybrid",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a'p = pq\" —n>—4\"\", (28)\nwhich can readily be derived by induction. They considered\nHamiltonians of the form",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "H=H,(p) + Ho(q), (29)\nwhere H,(p) and H,(q) are represented by power series\nH,= >> ap\",\n5\nH= > bq’. (30)\n5",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "After writing these expressions, they wrote” “Formulae (27)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "H H=——, 31\n4-qH= 5p (31)\nH H = a (32)\nPe oni aq”\nComparison with the equations of motion (13) yields\n_ Qa\na= (Haq), (33)\nQa\nb= ——(Hp - pH). (34)\nDenoting the matrix Hg—gH by lel for brevity, one has\nH H H\n= b+al_ |, (35)\nab a\nfrom which generally for g=g(pq) one may conclude that\n2mi|H| 27\n=F |—]/ =) (He-sH).” (36)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The derivation of Eq. (36) clearly displays Born and Jordan’s\nexpertise in commutator algebra. The essential step to go\nfrom Eq. (27) to Eq. (31) is to note that Eq. (27) can be\nrewritten as a commutator-derivative relation, p\"q—qp”\n=(h/277i)dp\"/dp, which is equivalent to the nth term of the\nseries representation of Eq. (31). The generalized commuta-\ntion rules in Eqs. (27) and (28), and the relation between",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "134 Am. J. Phys., Vol. 77, No. 2, February 2009",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "commutators and derivatives in Eqs. (31) and (32) are now\nstandard operator equations of contemporary quantum\ntheory.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "With the words, “Denoting the matrix Hg—gH by lh\nBorn and Jordan formalized the notion of a commutator and\nintroduced physicists to this important quantum-theoretical\nobject. The appearance of Eq. (36) in Ref. 4 marks the first\nprinted statement of the general equation of motion for a\ndynamical quantity in quantum mechanics.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Heisenberg, Born, and Jordan considered the conservation\nof energy and the Bohr frequency condition as universal laws\nthat should emerge as logical consequences of the fundamen-\ntal postulates. Proving energy conservation and the fre-\nquency condition was the ultimate measure of the power of\nthe postulates and the validity of the theory. Born and Jor-\ndan began Sec. IV of Ref. 4 by writing “The content of the\npreceding paragraphs furnishes the basic rules of the new\nquantum mechanics in their entirety. All the other laws of\nquantum mechanics, whose general validity is to be verified,\nmust be derivable from these basic tenets. As instances of\nsuch laws to be proved, the law of energy conservation and\nthe Bohr frequency condition primarily enter into\nconsideration.”",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Proving energy conservation and the frequency condition was the ultimate measure of the power of the postulates and the validity of the theory.",
+        "Metaphorical phrase": "the ultimate measure of the power",
+        "Type": "Structural",
+        "Conceptual Mapping": "Proof is a measure, postulates have power"
+      },
+      {
+        "Full sentence": "All the other laws of quantum mechanics, whose general validity is to be verified, must be derivable from these basic tenets.",
+        "Metaphorical phrase": "must be derivable from these basic tenets",
+        "Type": "Structural",
+        "Conceptual Mapping": "Laws are derived from tenets"
+      },
+      {
+        "Full sentence": "As instances of such laws to be proved, the law of energy conservation and the Bohr frequency condition primarily enter into consideration.",
+        "Metaphorical phrase": "primarily enter into consideration",
+        "Type": "Structural",
+        "Conceptual Mapping": "Laws enter into consideration"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Heisenberg, Born, and Jordan considered the conservation of energy and the Bohr frequency condition as universal laws that should emerge as logical consequences of the fundamental postulates.",
+        "terms_in_conflict": [
+          "conservation of energy",
+          "Bohr frequency condition",
+          "fundamental postulates"
+        ],
+        "explanation": "The paradox lies in the fact that the conservation of energy and the Bohr frequency condition are considered as universal laws that should logically emerge from the fundamental postulates, yet they are also considered as laws that need to be proven. This creates a tension between their assumed universality and the need for their verification.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "Proving energy conservation and the frequency condition was the ultimate measure of the power of the postulates and the validity of the theory.",
+        "terms_in_conflict": [
+          "proving energy conservation",
+          "frequency condition",
+          "power of the postulates",
+          "validity of the theory"
+        ],
+        "explanation": "The paradox here is that the validity of the theory and the power of the postulates are measured by proving the energy conservation and the frequency condition, which are themselves considered as logical consequences of the postulates. This creates a circular logic where the proof of the theory is also its premise.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "All the other laws of quantum mechanics, whose general validity is to be verified, must be derivable from these basic tenets.",
+        "terms_in_conflict": [
+          "other laws of quantum mechanics",
+          "general validity",
+          "derivable from these basic tenets"
+        ],
+        "explanation": "The paradox here is that the other laws of quantum mechanics, whose validity is to be verified, are expected to be derived from the basic tenets. This implies that the validity of these laws is both a prerequisite for and a result of their derivation from the basic tenets.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "The energy theorems are stated as follows:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "H=0 (energy conservation), (37)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "hv(nm) = H(nn) - H(mm) (frequency condition). (38)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Equations (37) and (38) are remarkable statements on the\ntemporal behavior of the system and the logical structure of\nthe theory. Equation (37) says that H, which depends on\nthe matrices p and q is always a constant of the motion even\nthough p=p(¢) and q=q(t) depend on time. In short, the ¢ in\nH(p(1),q(t)) must completely disappear. Equation (37) re-\nveals the time independence of H, and Eq. (38) specifies how\nH itself determines the time dependence of all other dynami-\ncal quantities.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Equations (37) and (38) are remarkable statements on the temporal behavior of the system and the logical structure of the theory.",
+        "Metaphorical phrase": "remarkable statements",
+        "Type": "Structural",
+        "Conceptual Mapping": "Equations are statements"
+      },
+      {
+        "Full sentence": "Equation (37) says that H, which depends on the matrices p and q is always a constant of the motion even though p=p(¢) and q=q(t) depend on time.",
+        "Metaphorical phrase": "Equation (37) says",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Equations are communicative entities"
+      },
+      {
+        "Full sentence": "In short, the ¢ in H(p(1),q(t)) must completely disappear.",
+        "Metaphorical phrase": "must completely disappear",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Absence of a variable in an equation is disappearance"
+      },
+      {
+        "Full sentence": "Equation (37) reveals the time independence of H, and Eq. (38) specifies how H itself determines the time dependence of all other dynamical quantities.",
+        "Metaphorical phrase": "reveals",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Equations are revealing entities"
+      },
+      {
+        "Full sentence": "Equation (37) reveals the time independence of H, and Eq. (38) specifies how H itself determines the time dependence of all other dynamical quantities.",
+        "Metaphorical phrase": "specifies",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Equations are specifying entities"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Equation (37) says that H, which depends on the matrices p and q is always a constant of the motion even though p=p(¢) and q=q(t) depend on time.",
+        "terms_in_conflict": [
+          "H is always a constant",
+          "p and q depend on time"
+        ],
+        "explanation": "The paradox lies in the fact that H is described as a constant, yet it depends on p and q, which are time-dependent. This suggests a contradiction between the constancy of H and the time-dependence of its components.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "In short, the ¢ in H(p(1),q(t)) must completely disappear.",
+        "terms_in_conflict": [
+          "¢ in H(p(1),q(t))",
+          "must completely disappear"
+        ],
+        "explanation": "The paradox here is that ¢ is initially presented as a component of H, but then it is stated that it must completely disappear. This implies a contradiction between the presence and absence of ¢ in the equation.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "Why should v(nm), H(nn), and H(mm) be related? These\nquantities are completely different structural elements of dif-\nferent matrices. The parameter v(m) is a transition quantity\nthat characterizes the off-diagonal, time-dependent part of q\nand p. In contrast, H(nn) is a state quantity that characterizes\nthe diagonal, time-independent part of H(pq). It is a non-\ntrivial claim to say that these mechanical elements are re-\nlated.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "Why should v(nm), H(nn), and H(mm) be related? These quantities are completely different structural elements of different matrices.",
+        "terms_in_conflict": [
+          "v(nm), H(nn), and H(mm)",
+          "different structural elements"
+        ],
+        "explanation": "The paradox lies in the question of how these quantities, which are fundamentally different structural elements from different matrices, could possibly be related.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "The parameter v(m) is a transition quantity that characterizes the off-diagonal, time-dependent part of q and p. In contrast, H(nn) is a state quantity that characterizes the diagonal, time-independent part of H(pq).",
+        "terms_in_conflict": [
+          "v(m) as a transition quantity",
+          "H(nn) as a state quantity"
+        ],
+        "explanation": "The paradox arises from the contrast between v(m) and H(nn), where one is a transition quantity characterizing a time-dependent part and the other is a state quantity characterizing a time-independent part.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "It is a non-trivial claim to say that these mechanical elements are related.",
+        "terms_in_conflict": [
+          "non-trivial claim",
+          "mechanical elements are related"
+        ],
+        "explanation": "The paradox is in the assertion that these fundamentally different mechanical elements are related, which is presented as a non-trivial claim, implying complexity and potential contradiction.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "It is important to distinguish between the Bohr meaning of\nE,-E,=hv and the Born—Jordan meaning of H(nn)\n—H(mm)=hv(nm). For Bohr, E, denotes the mechanical en-\nergy of the electron and v denotes the spectral frequency of\nthe radiation. In the old quantum theory there exists ad hoc,\nsemiclassical rules to calculate E,. There did not exist any\nmechanical rules to calculate v, independent of E,, and E,,.\nThe relation between E,,—E,, and v was postulated. Born and\nJordan did not postulate any connection between H(nn),\nH(mm), and v(nm). The basic mechanical laws (law of mo-\ntion and law of commutation) allow them to calculate the\nfrequencies (nm) which paramaterize q and the energies\nH(nn) stored in H. The theorem in Eq. (38) states that the",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "For Bohr, E, denotes the mechanical energy of the electron and v denotes the spectral frequency of the radiation. There did not exist any mechanical rules to calculate v, independent of E,, and E,,. The relation between E,,—E,, and v was postulated.",
+        "terms_in_conflict": [
+          "E (mechanical energy)",
+          "v (spectral frequency)",
+          "mechanical rules"
+        ],
+        "explanation": "The paradox lies in the fact that while Bohr's theory uses E to denote the mechanical energy of the electron and v to denote the spectral frequency of the radiation, there are no mechanical rules to calculate v independently of E. This implies a contradiction between the physical quantities and the mathematical rules used to calculate them.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Born and Jordan did not postulate any connection between H(nn), H(mm), and v(nm). The basic mechanical laws (law of motion and law of commutation) allow them to calculate the frequencies (nm) which paramaterize q and the energies H(nn) stored in H.",
+        "terms_in_conflict": [
+          "H(nn), H(mm), and v(nm)",
+          "mechanical laws"
+        ],
+        "explanation": "The paradox here is that Born and Jordan did not postulate any connection between H(nn), H(mm), and v(nm), yet they use the basic mechanical laws to calculate these quantities. This suggests a contradiction between the lack of postulated connection and the use of mechanical laws to calculate the quantities.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "William A. Fedak and Jeffrey J. Prentis 134",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 8 ---\ncalculated values of the mechanical parameters H(nn),\nH(mm), and v(nm) will always satisfy the relation H(nn)\n—H(mm)=hv(nm).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The equation of motion (36) is the key to proving the\nenergy theorems. Born and Jordan wrote “In particular, if in\nEq. (36) we set g=H, we obtain",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Now that we have verified the energy-conservation law and\nrecognized the matrix H to be diagonal [by the diagonality\ntheorem, H=0=H is diagonal], Eqs. (33) and (34) can be\nput into the form",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "hv(nm)q(nm) = (A(nn) — H(mm))q(nm), (40)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "hv(nm)p(nm) = (H(nn) — H(mm))p(nm), (41)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "from which the frequency condition follows.”®” Given the\nimportance of this result, it is worthwhile to elaborate on the\nproof. Because the nm component of any matrix g is\ng(nm)e27\"\"™)\", the nm component of the matrix relation in\nEq. (33) is",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Given the diagonality of H, A(nk)=H(nn)6,, and H(km)\n=H(mm) 6», and the Ritz rule, v(nk)+v(km)=v(nm), Eq.\n(42) reduces to",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In this way Born and Jordan demonstrated how Bohr’s fre-\nquency condition, hv(nm)=H(nn)—H(mm), is simply a sca-\nlar component of the matrix equation, hq=27i(Hq-qH). In\nany presentation of quantum mechanics it is important to\nexplain how and where Bohr’s frequency condition logically\nfits into the formal structure.°*",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "According to Postulate 4, the nth diagonal element H(nn)\nof H is equal to the energy of the nth stationary state. Logi-\ncally, this postulate is needed to interpret Eq. (38) as the\noriginal frequency condition conjectured by Bohr. Born and\nJordan note that Eqs. (8) and (38) imply that the mechanical\nenergy H(nn) is related to the spectral term W,, as follows:\nW,,=H(nn)+constant.”",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This mechanical proof of the Bohr frequency condition\nestablished an explicit connection between time evolution\nand energy. In the matrix scheme all mechanical quantities\n(p, q, and g(pq)) evolve in time via the set of factors\ne2munm)t where v(nm)=(H(nn)—H(mm))/h. Thus, all\ng-functions have the form”?",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Equation (44) exhibits how the difference in energy between\nstate n and state m is the “driving force” behind the time\nevolution (quantum oscillations) associated with the change\nof state nm.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Equation (44) exhibits how the difference in energy between state n and state m is the “driving force” behind the time evolution (quantum oscillations) associated with the change of state nm.",
+        "Metaphorical phrase": "driving force",
+        "Type": "Structural",
+        "Conceptual Mapping": "The difference in energy is a driving force"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In the introduction of their paper, Born and Jordan write\n“With the aid of [the equations of motion and the quantum",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "135 Am. J. Phys., Vol. 77, No. 2, February 2009",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "condition], one can prove the general validity of the law of\nconservation of energy and the Bohr frequency relation in the\nsense conjectured by Heisenberg: this proof could not be\ncarried through in its entirety by him even for the simple\nexamples which he considered.” ' Because p and q do not\ncommute, the mechanism responsible for energy conserva-\ntion in quantum mechanics is significantly different than the\nclassical mechanism. Born and Jordan emphasize this differ-\nence by writing “Whereas in classical mechanics energy con-",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Because p and q do not commute, the mechanism responsible for energy conservation in quantum mechanics is significantly different than the classical mechanism.",
+        "Metaphorical Phrase": "p and q do not commute",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantum particles are like commuters",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "the mechanism responsible for energy conservation in quantum mechanics is significantly different than the classical mechanism",
+        "Metaphorical Phrase": "mechanism responsible for energy conservation",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific laws are like mechanisms",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "servation (H=0) is directly apparent from the canonical\nequations, the same law of energy conservation in quantum",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "mechanics, H=0 lies, as one can see, more deeply hidden\nbeneath the surface. That its demonstrability from the as-\nsumed postulates is far from being trivial will be appreciated\nif, following more closely the classical method of proof, one",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "sets out to prove H to be constant simply by evaluating H””?\nWe carry out Born and Jordan’s suggestion “to prove H to",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "be constant simply by evaluating H” for the special Hamil-\ntonian",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In order to focus on the energy calculus of the p and q\nmatrices, we have omitted the scalar coefficients in Eq. (45).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If we write Eq. (45) as H=pp+qqq, calculate H, and use the\nequations of motion q=2p, p=—3q?, we find”",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "H = q(pq- ap) + (qp - pa)a. (46)\nEquation (46) reveals how the value of pq—qp uniquely\ndetermines the value of H. The quantum condition, pq—qp",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "=(h/277i)1, reduces Eq. (46) to H=0. In classical mechanics\nthe classical condition, pqg—qp=0, is taken for granted in\nproving energy conservation. In quantum mechanics the con-\ndition that specifies the nonzero value of pq—qp plays a\nnontrivial role in establishing energy conservation. This non-\ntriviality is what Born and Jordan meant when they wrote\nthat energy conservation in quantum mechanics “lies more\ndeeply hidden beneath the surface.”",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "This nontriviality is what Born and Jordan meant when they wrote that energy conservation in quantum mechanics “lies more deeply hidden beneath the surface.”",
+        "Metaphorical Phrase": "lies more deeply hidden beneath the surface",
+        "Type": "Structural",
+        "Conceptual Mapping": "The concept of energy conservation in quantum mechanics is mapped to the experience of something being hidden beneath the surface, suggesting that it requires deeper understanding or investigation to uncover.",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "In classical mechanics the classical condition, pqg—qp=0, is taken for granted in proving energy conservation. In quantum mechanics the condition that specifies the nonzero value of pq—qp plays a nontrivial role in establishing energy conservation.",
+        "terms_in_conflict": [
+          "classical mechanics",
+          "quantum mechanics",
+          "energy conservation"
+        ],
+        "explanation": "The paradox lies in the different roles the condition pqg—qp=0 plays in classical and quantum mechanics. In classical mechanics, it's taken for granted in proving energy conservation, while in quantum mechanics, its nonzero value plays a nontrivial role in establishing energy conservation. This suggests a fundamental difference in the underlying principles of these two branches of physics.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "Proving the law of energy conservation and the Bohr fre-\nquency condition was the decisive test of the theory—the\nfinal validation of the new quantum mechanics. All of the\npieces of the “quantum puzzle” now fit together. After prov-\ning the energy theorems, Born and Jordan wrote that “The\nfact that energy-conservation and frequency laws could be\nproved in so general a context would seem to us to furnish\nstrong grounds to hope that this theory embraces truly deep-\nseated physical laws.””*",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Proving the law of energy conservation and the Bohr frequency condition was the decisive test of the theory—the final validation of the new quantum mechanics.",
+        "Metaphorical Phrase": "decisive test",
+        "Type": "Structural",
+        "Conceptual Mapping": "Proving a theory is a test",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "All of the pieces of the “quantum puzzle” now fit together.",
+        "Metaphorical Phrase": "pieces of the “quantum puzzle” now fit together",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding a scientific theory is solving a puzzle",
+        "creativity": "uncertain"
+      },
+      {
+        "Full Sentence": "The fact that energy-conservation and frequency laws could be proved in so general a context would seem to us to furnish strong grounds to hope that this theory embraces truly deep-seated physical laws.",
+        "Metaphorical Phrase": "furnish strong grounds to hope",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Proving a theory is furnishing strong grounds",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "To put the discovery of quantum mechanics in matrix form\ninto perspective, we summarize the contributions of Heisen-\nberg and Born—Jordan. Heisenberg’s breakthrough consists\nof four quantum-theoretical reinterpretations (see the Appen-\ndix):",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1. Replace the position coordinate x(t) by the set of transi-\ntion components a(n,n— ae\",\n2. Replace x°(t) with the set L,a(n,n-a)eio'\"a(n",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "3. Keep Newton’s second law, +/(x)=0, but replace x as\nbefore.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "William A. Fedak and Jeffrey J. Prentis 135",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 9 ---\n4. Replace the old quantum condition, nh=mxdt, with h\n=4am> fla(nta,n)?o(n+a,n)—la(n,n—a)Po(n,n",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The quantum mechanics of Born and Jordan consists of\nfive postulates:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "qz= (q(nm) e277?) p=(p(nm)e27\"\"™),\nv(jk) + v(kl) + (lj) =0,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Quantum mechanics evolved at a rapid pace after the pa-\npers of Heisenberg and Born—Jordan. Dirac’s paper was re-\nceived on 7 November 1925.° Born, Heisenberg, and Jor-\ndan’s paper was received on 16 November 1925. The first\n“textbook” on quantum mechanics appeared in 1926.” Ina\nseries of papers during the spring of 1926, Schrédinger set\nforth the theory of wave mechanics.” In a paper received\nJune 25, 1926 Born introduced the statistical interpretation of\nthe wave function.’’ The Nobel Prize was awarded to\nHeisenberg in 1932 (delayed until 1933) to Schrédinger and\nDirac in 1933, and to Born in 1954.",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "APPENDIX: HEISENBERG’S FOUR\nBREAKTHROUGH IDEAS",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We divide Heisenberg’s paper” into four major reinterpre-\ntations. For the most part we will preserve Heisenberg’s\noriginal notation and arguments.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Reinterpretation 1: Position. Heisenberg considered one-\ndimensional periodic systems. The classical motion of the\nsystem (in a stationary state labeled n) is described by the\ntime-dependent position x(n, ny.’ Heisenberg represents this\nperiodic function by the Fourier series",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Unless otherwise noted, sums over integers go from —~ to ~.\nThe ath Fourier component related to the nth stationary state\nhas amplitude a,(n) and frequency aw(n). According to the\ncorrespondence principle, the ath Fourier component of the\nclassical motion in the state n corresponds to the quantum\njump from state n to state n—a@. 826 Motivated by this prin-\nciple, Heisenberg replaced the classical component\nag(nye\" by the transition component —a(n,n\n-a)eio- We could say that the Fourier harmonic is\nreplaced by a “Heisenberg harmonic.” Unlike the sum over\nthe classical components in Eq. (Al), Heisenberg realized\nthat a similar sum over the transition components is mean-\ningless. Such a quantum Fourier series could not describe the\nelectron motion in one stationary state (n) because each term\nin the sum describes a transition process associated with two\nstates (n and n-a).",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "We could say that the Fourier harmonic is replaced by a “Heisenberg harmonic.”",
+        "Metaphorical phrase": "the Fourier harmonic is replaced by a “Heisenberg harmonic.”",
+        "Type": "Structural",
+        "Conceptual Mapping": "The Fourier harmonic is a component in the original system. The 'Heisenberg harmonic' represents a change or shift in the system."
+      },
+      {
+        "Full sentence": "Such a quantum Fourier series could not describe the electron motion in one stationary state (n) because each term in the sum describes a transition process associated with two states (n and n-a).",
+        "Metaphorical phrase": "a quantum Fourier series could not describe the electron motion in one stationary state (n)",
+        "Type": "Ontological",
+        "Conceptual Mapping": "A quantum Fourier series is seen as a language or a tool that 'describes' or interprets the behavior of electrons."
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "According to the correspondence principle, the ath Fourier component of the classical motion in the state n corresponds to the quantum jump from state n to state n—a@. 826 Motivated by this principle, Heisenberg replaced the classical component ag(nye\" by the transition component —a(n,n -a)eio- We could say that the Fourier harmonic is replaced by a “Heisenberg harmonic.”",
+        "terms_in_conflict": [
+          "Correspondence principle",
+          "Heisenberg harmonic"
+        ],
+        "explanation": "The correspondence principle suggests a direct relationship between the Fourier component of classical motion and a quantum jump. However, Heisenberg's replacement of the Fourier harmonic with a 'Heisenberg harmonic' introduces a new concept that doesn't directly correspond to the classical component, creating a conceptual tension.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Unlike the sum over the classical components in Eq. (Al), Heisenberg realized that a similar sum over the transition components is meaningless. Such a quantum Fourier series could not describe the electron motion in one stationary state (n) because each term in the sum describes a transition process associated with two states (n and n-a).",
+        "terms_in_conflict": [
+          "Sum over classical components",
+          "Sum over transition components"
+        ],
+        "explanation": "The paradox arises from the contradiction between the meaningfulness of summing classical components and the meaninglessness of summing transition components. While the former is accepted, the latter is deemed impossible because it involves a transition process between two states, contradicting the concept of a stationary state.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "Heisenberg’s next step was bold and ingenious. Instead of",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "136 Am. J. Phys., Vol. 77, No. 2, February 2009",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "reinterpreting x(t) as a swm over transition components, he\nrepresented the position by the ser of transition components.\nWe symbolically denote Heisenberg’s reinterpretation as",
+    "paragraph_type": "Narrative",
+    "metaphors": [
+      {
+        "Full sentence": "reinterpreting x(t) as a swim over transition components, he represented the position by the ser of transition components.",
+        "Metaphorical phrase": "a swim over transition components",
+        "Type": "Structural",
+        "Conceptual Mapping": "Interpreting x(t) is like swimming"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "x — fa(n, n— aeionn on.\nEquation (A2) is the first breakthrough relation.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Equation (A2) is the first breakthrough relation.",
+        "Metaphorical phrase": "the first breakthrough relation",
+        "Type": "Structural",
+        "Conceptual Mapping": "An equation is a breakthrough"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Reinterpretation 2: Multiplication. To calculate the energy\nof a harmonic oscillator, Heisenberg needed to know the\nquantity x’. How do you square a set of transition compo-\nnents? Heisenberg posed this fundamental question twice in\nhis paper.* ° His answer gave birth to the algebraic structure\nof quantum mechanics. We restate Heisenberg’s question as\n“If x is represented by {a(n,n—a)ei\"\"-\"} and x? is repre-\nsented by {b(n,n— Bei\"), how is b(n,n—£) related to\na(n,n—a)?”",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "His answer gave birth to the algebraic structure of quantum mechanics.",
+        "Metaphorical Phrase": "gave birth to",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Creation of a concept is giving birth",
+        "creativity": "uncertain"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Heisenberg answered this question by reinterpreting the\nsquare of a Fourier series with the help of the Ritz principle.\nHe evidently was convinced that quantum multiplication,\nwhatever it looked like, must reduce to Fourier-series multi-\nplication in the classical limit. The square of Eq. (A1) gives",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "x?(n,t) = = bolnyebo, (A3)\nwhere the Sth Fourier amplitude is\nbol) =X ag(n)ap_aln). (A4)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In the new quantum theory Heisenberg replaceed Eqs. (A3)\nand (A4) with",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "= {d(n,n- peer\", (AS)\nwhere the n—n-f transition amplitude is\nb(nsn- B) => a(n,n- a)a(n- a,n- B). (A6)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In constructing Eq. (A6) Heisenberg uncovered the symbolic\nalgebra of atomic processes.\nThe logic behind the quantum rule of multiplication can be\nsummarized as follows. Ritz’s sum rule for atomic frequen-\ncies, w(n,n-B)=o0(n,n-a)+(n—a,n-B), implies the\nproduct rule for Heisenberg’s kinematic elements, e(\"~9)!\n= elolnn-a)igio(n—a.n-B)! which is the backbone of the multipli-\ncation rule in Eq. (A6). Equation (A6) allowed Heisenberg to\nalgebraically manipulate the transition components.\nReinterpretation 3: Motion. Equations (A2), (A5), and\n(A6) represent the new “kinematics” of quantum theory—the\nnew meaning of the position x. Heisenberg next turned his\nattention to the new “mechanics.” The goal of Heisenberg’s\nmechanics is to determine the amplitudes, frequencies, and\nenergies from the given forces. Heisenberg noted that in the\nold quantum theory a,(7) and w(n) are determined by soly-\ning the classical equation of motion",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The logic behind the quantum rule of multiplication can be summarized as follows.",
+        "Metaphorical phrase": "The logic behind the quantum rule of multiplication",
+        "Type": "Structural",
+        "Conceptual Mapping": "Logic is a method of summarization"
+      },
+      {
+        "Full sentence": "Ritz’s sum rule for atomic frequencies implies the product rule for Heisenberg’s kinematic elements, which is the backbone of the multiplication rule in Eq. (A6).",
+        "Metaphorical phrase": "the backbone of the multiplication rule",
+        "Type": "Structural",
+        "Conceptual Mapping": "Core principles are the backbone (support structure) of a rule"
+      },
+      {
+        "Full sentence": "Equations (A2), (A5), and (A6) represent the new “kinematics” of quantum theory—the new meaning of the position x.",
+        "Metaphorical phrase": "new “kinematics” of quantum theory—the new meaning of the position x",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Equations are the representation of a physical concept"
+      },
+      {
+        "Full sentence": "The goal of Heisenberg’s mechanics is to determine the amplitudes, frequencies, and energies from the given forces.",
+        "Metaphorical phrase": "The goal of Heisenberg’s mechanics",
+        "Type": "Structural",
+        "Conceptual Mapping": "Purpose is a goal"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "and quantizing the classical solution—making it depend on\nn—via the quantum condition",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In Eqs. (A7) and (A8)\nand m is the mass.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "f(x) is the force (per mass) function",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "William A. Fedak and Jeffrey J. Prentis 136",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 10 ---\nHeisenberg assumed that Newton’s second law in Eq. (A7)\nis valid in the new quantum theory provided that the classical\nquantity x is replaced by the set of quantities in Eq. (A2), and\nf(x) is calculated according to the new rules of amplitude\nalgebra. Keeping the same form of Newton’s law of dynam-\nics, but adopting the new kinematic meaning of x is the third\nHeisenberg breakthrough.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "Heisenberg assumed that Newton’s second law in Eq. (A7) is valid in the new quantum theory provided that the classical quantity x is replaced by the set of quantities in Eq. (A2), and f(x) is calculated according to the new rules of amplitude algebra.",
+        "terms_in_conflict": [
+          "Newton’s second law",
+          "new quantum theory"
+        ],
+        "explanation": "The paradox lies in the attempt to apply a classical physics law (Newton's second law) within the framework of quantum theory, which fundamentally challenges the principles of classical physics.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "Keeping the same form of Newton’s law of dynamics, but adopting the new kinematic meaning of x is the third Heisenberg breakthrough.",
+        "terms_in_conflict": [
+          "Newton’s law of dynamics",
+          "new kinematic meaning of x"
+        ],
+        "explanation": "The paradox here is in maintaining the form of a classical law (Newton's law of dynamics) while changing its underlying meaning with a quantum concept (new kinematic meaning of x). This suggests a simultaneous adherence to and departure from classical physics.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "Reinterpretation 4: Quantization. How did Heisenberg re-\ninterpret the old quantization condition in Eq. (A8)? Given\nthe Fourier series in Eq. (A1), the quantization condition,\nnh= ¢mx\"dt, can be expressed in terms of the Fourier param-\neters a,(n) and w(n) as",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "For Heisenberg, setting $pdx equal to an integer multiple of\nh was an arbitrary rule that did not fit naturally into the\ndynamical scheme. Because his theory focuses exclusively\non transition quantities, Heisenberg needed to translate the\nold quantum condition that fixes the properties of the states\nto a new condition that fixes the properties of the transitions\nbetween states. Heisenberg believed'* that what matters is\nthe difference between pdx evaluated for neighboring\nstates: [fpdx],,-[fpdx],,_;. He therefore took the derivative\nof Eq. (A9) with respect to n to eliminate the forced n de-\npendence and to produce a differential relation that can be\nreinterpreted as a difference relation between transition\nquantities. In short, Heisenberg converted",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Because his theory focuses exclusively on transition quantities, Heisenberg needed to translate the old quantum condition that fixes the properties of the states to a new condition that fixes the properties of the transitions between states.",
+        "Metaphorical phrase": "translate the old quantum condition",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding new scientific concepts is like translating from one language to another"
+      },
+      {
+        "Full sentence": "He therefore took the derivative of Eq. (A9) with respect to n to eliminate the forced n dependence and to produce a differential relation that can be reinterpreted as a difference relation between transition quantities.",
+        "Metaphorical phrase": "produce a differential relation that can be reinterpreted as a difference relation",
+        "Type": "Structural",
+        "Conceptual Mapping": "Formulating a scientific concept is like producing a new product"
+      },
+      {
+        "Full sentence": "In short, Heisenberg converted",
+        "Metaphorical phrase": "Heisenberg converted",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding new scientific concepts is like converting from one form to another"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "h=27m> a (la,(n)Paw(n)) (A10)\na an\nto\nh=4am>, {la(n + a,n)Po(n + a,n)\na=0\n—|a(n,n- a)|?o(n,n - a)}. (All)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In a sense Heisenberg’s “amplitude condition” in Eq. (A11)\nis the counterpart to Bohr’s frequency condition (Ritz’s fre-\nquency combination rule). Heisenberg’s condition relates the\namplitudes of different lines within an atomic spectrum and\nBohr’s condition relates the frequencies. Equation (A11) is\nthe fourth Heisenberg breakthrough.*!",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "In a sense Heisenberg’s “amplitude condition” in Eq. (A11) is the counterpart to Bohr’s frequency condition (Ritz’s frequency combination rule).",
+        "Metaphorical phrase": "is the counterpart to",
+        "Type": "Structural",
+        "Conceptual Mapping": "Heisenberg’s 'amplitude condition' is a counterpart to Bohr’s frequency condition"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Equations (A7) and (A11) constitute Heisenberg’s new\nmechanics. In principle, these two equations can be solved to\nfind a(n,n—a@) and w(n,n-a). No one before Heisenberg\nknew how to calculate the amplitude of a quantum jump.\nEquations (A2), (A6), (A7), and (A11) define Heisenberg’s\nprogram for constructing the line spectrum of an atom from\nthe given force on the electron.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "“Electronic mail: bfedak@umd.umich.edu",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Electronic mail: jprentis@umd.umich.edu",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "'The name “quantum mechanics” appeared for the first time in the litera-\nture in M. Born, “Uber Quantenmechanik,” Z. Phys. 26, 379-395 (1924).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ww. Heisenberg, “Uber quantentheoretische Umdeutung kinematischer\nund mechanischer Beziehungen,” Z. Phys. 33, 879-893 (1925), trans-\nlated in Ref. 3, paper 12.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "3 Sources of Quantum Mechanics, edited by B. L. van der Waerden (Dover,\nNew York, 1968).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "4M. Born and P. Jordan, “Zur Quantenmechanik,” Z. Phys. 34, 858-888\n(1925); English translation in Ref. 3, paper 13.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "5M. Born, W. Heisenberg, and P. Jordan, “Zur Quantenmechanik II,” Z.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "137 Am. J. Phys., Vol. 77, No. 2, February 2009",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Phys. 35, 557-615 (1926), English translation in Ref. 3, paper 15.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "°P A.M. Dirac, “The fundamental equations of quantum mechanics,”\nProc. R. Soc. London, Ser. A 109, 642-653 (1925), reprinted in Ref. 3,\npaper 14.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The name “matrix mechanics” did not appear in the original papers of\n1925 and 1926. The new mechanics was most often called “quantum",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "mechanics.” At Géttingen, some began to call it “matrix physics.”\nHeisenberg disliked this terminology and tried to eliminate the math-\nematical term “matrix” from the subject in favor of the physical expres-\nsion “quantum-theoretical magnitude.” [Ref. 17, p. 362]. In his Nobel\nLecture delivered 11 December 1933, Heisenberg referred to the two\nversions of the new mechanics as “quantum mechanics” and “wave me-\nchanics.” See Nobel Lectures in Physics 1922-194] (Elsevier, Amster-\ndam, 1965)].",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "SW. A. Fedak and J. J. Prentis, “Quantum jumps and classical harmonics,”\nAm. J. Phys. 70, 332-344 (2002).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "°LER. Aitchison, D. A. MacManus, and T. M. Snyder, “Understanding",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Heisenberg’s ‘magical’ paper of July 1925: A new look at the calcula-",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Heisenberg’s ‘magical’ paper of July 1925: A new look at the calcula-",
+        "Metaphorical Phrase": "Heisenberg’s ‘magical’ paper",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Paper is magic",
+        "creativity": "uncertain"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "tional details,” Am. J. Phys. 72 1370-1379 (2004).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "J. Bernstein, “Max Born and the quantum theory,” Am. J. Phys. 73,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ns Tomonaga, Quantum Mechanics (North-Holland, Amsterdam, 1962),\nVol. 1.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "°M. Jammer, The Conceptual Development of Quantum Mechanics\n(McGraw-Hill, New York, 1966).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "'3J. Mehra and H. Rechenberg, The Historical Development of Quantum\nTheory (Springer, New York, 1982), Vol. 3.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Duncan, A. and Janssen, M., “On the verge of Umdeutung in Minnesota:\nVan Vleck and the correspondence principle,” Arch. Hist. Exact Sci. 61,\n553-624 (2007).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sp, MacKinnon, “Heisenberg, models and the rise of matrix mechanics,”\nHist. Stud. Phys. Sci. 8, 137-188 (1977).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "6G. Birtwistle, The New Quantum Mechanics (Cambridge U.P., London,\n1928).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "'7C, Jungnickel and R. McCormmach, Intellectual Mastery of Nature (Uni-\nversity of Chicago Press, Chicago, 1986), Vol. 2.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sw. Heisenberg, “Development of concepts in the history of quantum\ntheory,” Am. J. Phys. 43, 389-394 (1975).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "'°M. Bowen and J. Coster, “Born’s discovery of the quantum-mechanical\nmatrix calculus,” Am. J. Phys. 48, 491-492 (1980).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2°M. Born, My Life: Recollections of a Nobel Laureate (Taylor & Francis,\nNew York, 1978). Born wrote that (pp. 218-219) “This paper by Jordan\nand myself contains the formulation of matrix mechanics, the first printed\nstatement of the commutation law, some simple applications to the har-\nmonic and anharmonic oscillator, and another fundamenal idea: the quan-\ntization of the electromagnetic field (by regarding the components as\nmatrices). Nowadays, textbooks speak without exception of Heisenberg’s\nmatrices, Heisenberg’s commutation law and Dirac’s field quantization.”",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "21Tn 1928 Einstein nominated Heisenberg, Born, and Jordan for the Nobel\nPrize [See A. Pais, Subtle Is the Lord: The Science and the Life of Albert\nEinstein (Oxford U.P., New York, 1982), p. 515]. Possible explanations of\nwhy Born and Jordan did not receive the Nobel Prize are given in Ref. 10\nand Ref. 22, pp. 191-193.",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "22N_ Greenspan, The End of the Certain World: The Life and Science of\nMax Born (Basic Books, New York, 2005).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "4B, Merzbacher, Quantum Mechanics (Wiley, New York, 1998), pp. 320-—\n323.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "?°N_ Bohr, “On the quantum theory of line-spectra,” reprinted in Ref. 3,\npaper 3.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Reference 3, pp. 277, paper 13.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ">! Reference 3, pp. 277-278, paper 13.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "PRL. Liboff, Introductory Quantum Mechanics (Addison-Wesley, San\nFrancisco, 2003), Chap. 3; R. Shankar, Principles of Quantum Mechanics\n(Plenum, New York, 1994), Chap. 4; C. Cohen-Tannoudji, B. Diu, and F.\nLaloé, Quantum Mechanics (Wiley, New York, 1977), Chap. III.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "*°A_ Cayley, “Sept différents mémoires d’analyse,” Mathematika 50, 272-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "William A. Fedak and Jeffrey J. Prentis 137",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 11 ---\n317 (1855); A. Cayley, “A memoir on the theory of matrices,” Philos.\nTrans. R. Soc. London, Ser. A 148, 17-37 (1858).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "°’The last chapter (Bemerkungen zur Elektrodynamik) is not translated in\nRef. 3. See Ref. 13, pp. 87-90 for a discussion of the contents of this\nsection.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In Heisenberg’s paper (see Ref. 2) the connection between |q(nm)|? and\ntransition probability is implied but not discussed. See Ref. 3, pp. 30-32,\nfor a discussion of Heisenberg’s assertion that the transition amplitudes\ndetermine the transition probabilibities. The relation between a squared\namplitude and a transition probability originated with Bohr who conjec-\ntured that the squared Fourier amplitude of the classical electron motion\nprovides a measure of the transition probability (see Refs. 8 and 26). The\ncorrespondence between classical intensities and quantum probabilities\nwas studied by several physicists including H. Kramers, Intensities of\nSpectral Lines (A. F. Host and Sons, Kobenhaven, 1919); R. Ladenburg\nin Ref. 3, paper 4, and J. H. Van Vleck, “Quantum principles and line\nspectra,” Bulletin of the National Research Council, Washington, DC,\n1926, pp. 118-153.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "iow. Ritz, “Uber ein neues Gesetz der Serienspektren,” Phys. Z. 9, 521—\n529 (1908); W. Ritz, “On a new law of series spectra,” Astrophys. J. 28,\n237-243 (1908). The Ritz combination principle was crucial in making\nsense of the regularities in the line spectra of atoms. It was a key principle\nthat guided Bohr in constructing a quantum theory of line spectra. Ob-\nservations of spectral lines revealed that pairs of line frequencies combine\n(add) to give the frequency of another line in the spectrum. The Ritz\ncombination rule is v(nk)+v(km)= (nm), which follows from Eqs. (4)\nand (7). As a universal, exact law of spectroscopy, the Ritz rule provided\na powerful tool to analyze spectra and to discover new lines. Given the\nmeasured frequencies vy; and vy, of two known lines in a spectrum, the\nRitz rule told spectroscopists to look for new lines at the frequencies 1;\n+2 OF Yj V2",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The Ritz combination principle was crucial in making sense of the regularities in the line spectra of atoms.",
+        "Metaphorical phrase": "making sense of",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding a scientific principle is like making sense of a pattern"
+      },
+      {
+        "Full sentence": "It was a key principle that guided Bohr in constructing a quantum theory of line spectra.",
+        "Metaphorical phrase": "guided Bohr in constructing",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theoretic principles are like guides in the construction of scientific theories"
+      },
+      {
+        "Full sentence": "As a universal, exact law of spectroscopy, the Ritz rule provided a powerful tool to analyze spectra and to discover new lines.",
+        "Metaphorical phrase": "provided a powerful tool",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific laws are like tools for analysis and discovery in scientific research"
+      },
+      {
+        "Full sentence": "Ritz rule told spectroscopists to look for new lines at the frequencies",
+        "Metaphorical phrase": "told spectroscopists to look for",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific laws are like instructions for researchers"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "\"Tn the letter dated 18 September 1925 Heisenberg explained to Pauli that\nthe frequencies vz in the Born—Jordan theory obey the “combination\nrelation V+ Y= Vi) OF Vi,=(Wi-W,)/h but naturally it is not to be as-\nsumed that W is the energy.” See Ref. 3, p. 45.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "“Born and Jordan devote a large portion of Chap. 1 to developing a matrix\ncalculus to give meaning to matrix derivatives such as dq/dt and dH/ op.\nThey introduce the process of “symbolic differentiation” for constructing\nthe derivative of a matrix with respect to another matrix. For a discussion\nof Born and Jordan’s matrix calculus, see Ref. 13, pp. 68-71. To deal\nwith arbitrary Hamiltonian functions, Born and Jordan formulated a more\ngeneral dynamical law by converting the classical action principal,\nSLdt=extremum, into a quantal action principal, D(pq—H(pq))\n=extremum, where D denotes the trace (diagonal sum) of the Lagrangian\nmatrix, pq—H. See Ref. 3, pp. 289-290.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Reference 3, p. 292. This statement by Born and Jordan appears in Sec.\nIV of their paper following the section on the basic laws. We have in-\ncluded it with the postulates because it is a deep assumption with far-\nreaching consequences.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In contemporary language the states labeled n=0,1,2,3,... in Heisen-\nberg’s paper and the Born—Jordan paper are exact stationary states (eigen-\nstates of H). The Hamiltonian matrix is automatically a diagonal matrix\nwith respect to this basis.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "“7 Although Heisenberg, Born, and Jordan made the “energy of the state”\nand the “transition between states” rigorous concepts, it was Schrédinger\nwho formalized the concept of the “state” itself. It is interesting to note\nthat “On quantum mechanics II” by Born, Heisenberg, and Jordan was\npublished before Schrédinger and implicitly contains the first mathemati-\ncal notion of a quantum state. In this paper (Ref. 3, pp. 348-353), each\nHermitian matrix a is associated with a “bilinear form” Enmanm)x x\nFurthermore, they identified the “energy spectrum” of a system with the\nset of “eigenvalues” W in the equation Wx,— ,H(k/)x,=0. In present-day\nsymbolic language the bilinear form and eigenvalue problem are (V|a|‘V)\nand H|‘V)=W|'P), respectively, where the variables x,, are the expansion\ncoefficients of the quantum state |W). At the time, they did not realize the\nphysical significance of their eigenvector (x,,x7,...) as representing a\nstationary state.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Although Heisenberg, Born, and Jordan made the “energy of the state” and the “transition between states” rigorous concepts, it was Schrédinger who formalized the concept of the “state” itself.",
+        "Metaphorical Phrase": "“energy of the state” and the “transition between states”",
+        "Type": "Structural",
+        "Conceptual Mapping": "States of quantum particles are conceptualized as having physical locations with energy levels, and transitions between these states are metaphorically understood as movements from one location to another.",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "Furthermore, they identified the “energy spectrum” of a system with the set of “eigenvalues” W in the equation Wx, —, H(k/)x, = 0.",
+        "Metaphorical Phrase": "“energy spectrum” of a system",
+        "Type": "Structural",
+        "Conceptual Mapping": "The abstract idea of a system's different energy levels is mapped onto the concrete image of a spectrum or range, suggesting diversity and gradation.",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "It is interesting to note that “On quantum mechanics II” by Born, Heisenberg, and Jordan was published before Schrédinger and implicitly contains the first mathematical notion of a quantum state.",
+        "terms_in_conflict": [
+          "First mathematical notion of a quantum state",
+          "Published before Schrédinger"
+        ],
+        "explanation": "The paradox lies in the fact that while Schrédinger is credited with formalizing the concept of the 'state' itself, the first mathematical notion of a quantum state was implicitly contained in a paper published by Born, Heisenberg, and Jordan before Schrédinger's work.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "At the time, they did not realize the physical significance of their eigenvector (x,,x7,...) as representing a stationary state.",
+        "terms_in_conflict": [
+          "Eigenvector",
+          "Stationary state"
+        ],
+        "explanation": "The paradox here is that the authors, despite having developed the mathematical concept of the eigenvector, did not realize its physical significance as representing a stationary state in their own time.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "‘8Reference 3, pp. 290-291, paper 13.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This is the sentence from Born’s 1924 paper (See Ref. 1) where the name\n“quantum mechanics” appears for the first time in the physics literature\n[Ref. 3, p. 182].",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "138 Am. J. Phys., Vol. 77, No. 2, February 2009",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "*°See the chapter “The transition to quantum mechanics” in Ref. 12, pp.\n181-198 for applications of “Born’s correspondence rule.” The most im-\nportant application was deriving Kramer’s dispersion formula. See Ref. 3,\npapers 6-10 and Ref. 14.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The exact relation between the orbital frequency and the optical fre-\nquency is derived as follows. Consider the transition from state n of\nenergy E(n) to state n—7 of energy E(n-7). In the limit n> 7, that is,\nlarge “orbit” and small “jump,” the difference E(n)—E(n-7) is equal to\nthe derivative 7dE/dn. Given the old quantum condition J=nh, it follows\nthat dE/dn=hdE/dJ. Thus for n> 7 and J=nh, we have the relation\n[E(n)-E(n-7)]/h=7dE/dJ, or equivalently, v(n,n—7)=7v(n). This rela-\ntion proves an important correspondence theorem: In the limit n> 7, the\nfrequency »(n,n—7) associated with the quantum jump n—n-7 is equal\nto the frequency 7v(n) associated with the 7th harmonic of the classical\nmotion in the state n. See Refs. 8 and 26.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "In the limit n> 7, that is, large “orbit” and small “jump,” the difference E(n)—E(n-7) is equal to the derivative 7dE/dn.",
+        "Metaphorical phrase": "large “orbit” and small “jump,”",
+        "Type": "Structural",
+        "Conceptual Mapping": "The transition from one quantum state to another is represented as a spatial movement, specifically a 'jump' from one 'orbit' to another. Here, quantum states are metaphorically structured as locations in space that one can 'jump' between."
+      },
+      {
+        "Full sentence": "This relation proves an important correspondence theorem: In the limit n> 7, the frequency »(n,n—7) associated with the quantum jump n—n-7 is equal to the frequency 7v(n) associated with the 7th harmonic of the classical motion in the state n.",
+        "Metaphorical phrase": "the quantum jump",
+        "Type": "Structural",
+        "Conceptual Mapping": "The transition from one quantum state to another is again represented as a spatial movement, a 'jump'. This reinforces the previous mapping of quantum states as locations in space that one can 'jump' between."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "*4Suppose that the number of states is finite and equal to the integer N.\nThen, according to Eq. (20), the diagonal sum (trace) of pq—qp would be\nD(pq-qp)=Nh/27i. This nonzero value of the trace contradicts the\npurely mathematical relation D(pq—qp)=0, which must be obeyed by all\nfinite matrices.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "This nonzero value of the trace contradicts the purely mathematical relation D(pq—qp)=0, which must be obeyed by all finite matrices.",
+        "terms_in_conflict": [
+          "nonzero value of the trace",
+          "purely mathematical relation D(pq—qp)=0"
+        ],
+        "explanation": "The paradox arises from the contradiction between the calculated nonzero value of the trace and the mathematical rule that the trace of the commutator of two matrices (pq-qp) must be zero. This contradiction implies a tension between the specific case under consideration and the general mathematical rule.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "Heisenberg interview quoted in Ref. 12, p. 281, footnote 45.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "*7Reference 3, p. 288, paper 13. The name “Diagonality theorem” is ours.\nThe condition v(nm) #0 when n#m implies that the system is nonde-\ngenerate.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "*Tn contemporary language a conserved quantity is an operator that com-\nmutes with the Hamiltonian operator H. For such commuting operators\nthere exists a common set of eigenvectors. In the energy eigenbasis that\nunderlies the Born—Jordan formulation, the matrices representing H and\nall conserved quantities are automatically diagonal.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Born and Jordan’s proof that Eq. (24) vanishes is based on a purely\nmathematical property of “symbolic differentiation” discussed in Sec. II\nof their paper (See Ref. 4). For a separable Hamiltonian of the form H",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "=p?/2m+U(q), the proof is simpler. For this case Eq. (24) becomes d",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "=q(dU/dq)—(JU/dq)q+p(p/m)-(p/m)p. Because p and q are sepa-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "rated in this expression, we do not have to consider the inequality pq",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "#qp. The expression reduces to d=0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Reference 3, p. 292, paper 13. In Ref. 4, Born and Jordan refer to pq",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "-qp=(h/27i)1 as the “vershirfte Quantenbedingung,” which has been",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "translated as “sharpened quantum condition” (Ref. 13, p. 77), “stronger",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "quantum condition” (Ref. 3, p. 292), and “exact quantum condition” (Ref.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "J. J. Sakurai, Modern Quantum Mechanics (Addison-Wesley, San Fran-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "cisco, 1994), pp. 83-84; A. Messiah, Quantum Mechanics (J Wiley, New",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "° Proving the frequency condition—the second general principle of Bohr—\nwas especially important because this purely quantal condition was gen-\nerally regarded as a safely established part of physics. Prior to Born and\nJordan’s mechanical proof of the frequency condition, there existed a\n“thermal proof” given by Einstein in his historic paper, “On the quantum\ntheory of radiation,” Phys. Z. 18, 121 (1917), translated in Ref. 3, pp,\n63-77. In this paper Einstein provides a completely new derivation of\nPlanck’s thermal radiation law by introducing the notion of transition\nprobabilities (A and B coefficients). Bohr’s frequency condition emerges\nas the condition necessary to reduce the Boltzmann factor exp[(E,\n-E,,)/kT] in Einstein’s formula to the “Wien factor” exp(hv/kT) in\nPlanck’s formula.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "“Reference 3, p. 291, paper 13.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "“Reference 3, pp. 291-292, paper 13. Born and Jordan do not refer to the",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "consequences in Eqs. (37) and (38) as theorems. The label “Energy theo-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Instead of postulating the equations of motion and deriving the energy",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "theorems, we could invert the proof and postulate the energy theorems",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "and derive the equations of motion. This alternate logic is mentioned in",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ref. 3, p. 296 and formalized in Ref. 5 (Ref. 3, p. 329). Also see J. H. Van",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Vleck, “Note on the postulates of the matrix quantum dynamics,” Proc.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Natl. Acad. Sci. U.S.A. 12, 385-388 (1926).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "°’Reference 3, pp. 293-294, paper 13. The proof of the energy theorems\nwas based on separable Hamiltonians defined in Eq. (29). To generalize\nthe proof Born and Jordan consider more general Hamiltonian functions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "William A. Fedak and Jeffrey J. Prentis 138",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 12 ---\nH(pq) and discover the need to symmetrize the functions. For example,\nfor H*=p’q, it does not follow that H*=0. However, they note that H\n=(p°q+qp’)/2 yields the same equations of motion as H* and also con-\nserves energy, H=0. The symmetrization rule reflects the noncommuta-\ntivity of p and q.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "For example, for H*=p’q, it does not follow that H*=0.",
+        "terms_in_conflict": [
+          "H*=p’q",
+          "H*=0"
+        ],
+        "explanation": "The authors state that the equation H*=p’q does not necessarily lead to H*=0, implying that the product of p’ and q does not always equal zero.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "However, they note that H =(p°q+qp’)/2 yields the same equations of motion as H* and also conserves energy, H=0.",
+        "terms_in_conflict": [
+          "H =(p°q+qp’)/2",
+          "H=0"
+        ],
+        "explanation": "The authors note a paradox where the equation H =(p°q+qp’)/2, which is supposed to yield the same equations of motion as H*, also conserves energy, leading to H=0. This contradicts the earlier statement that H* does not necessarily equal zero.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "°SIn the Heisenberg, Born-Jordan approach the transition components of\nthe “matter variables” q and p are simply assumed to oscillate in time\nwith the radiation frequencies. In contemporary texts a rigorous proof of\nBohr’s frequency condition involves an analysis of the interaction be-\ntween matter and radiation (radiative transitions) using time-dependent\nperturbation theory. See Ref. 24, Chap. 19.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Using the language of state vectors and bra-kets, the matrix element of an\noperator g is g,,,(t)=(V,,(0|g/V,,(), where the energy eigenstate is\n|W,())=exp(—2 7iE,,t/h)|V,,(0)). This Schrédinger element is equivalent\nto the Born—Jordan element in Eq. (44).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "7!'Reference 3, p. 279, paper 13. Heisenberg was able to demonstrate en-\nergy conservation and Bohr’s frequency condition for two systems (an-\nharmonic oscillator and rotator). The anharmonic oscillator analysis was\nlimited to second-order perturbation theory.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "” Reference 3. Born and Jordan do not pursue this direct method of proof\nnoting that for the most general Hamiltonians the calculation “becomes\nso exceedingly involved that it seems hardly feasible.” (Ref. 3, p. 296).\nIn a footnote on p. 296, they note that for the special case\nH=p?/2m+U(q), the proof can be carried out immediately. The details\nof this proof can be found in Ref. 73.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "733, J. Prentis and W. A. Fedak, “Energy conservation in quantum mechan-\nics,” Am. J. Phys. 72, 580-590 (2004).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "™Reference 3, p. 296, paper 13.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "™M. Born, Problems of Atomic Dynamics (MIT Press, Cambridge, 1970).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "TR, Schrédinger, Collected Papers on Wave Mechanics (Chelsea, New\nYork, 1978).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "™. Born, “Zur Quantenmechanik der StoBvorginge,” Z. Phys. 37, 863-\n867 (1926).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8 Heisenberg’s “classical” quantity x(n,t) is the classical solution x(t) of\nNewton’s equation of motion subject to the old quantum condition\n¢mxdx=nh. For example, given the purely classical position function\nx(t)=a cos wt of a harmonic oscillator, the condition ¢mx?dt=nh quan-\ntizes the amplitude, making a depend on n as follows: a(n)=\\nh/ a7mw.\nThus, the motion of the harmonic oscillator in the stationary state n is\ndescribed by x(n,1)= \\nh/ mw cos wt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "Heisenberg’s “classical” quantity x(n,t) is the classical solution x(t) of Newton’s equation of motion subject to the old quantum condition ¢mxdx=nh.",
+        "terms_in_conflict": [
+          "Heisenberg’s “classical” quantity x(n,t)",
+          "old quantum condition ¢mxdx=nh"
+        ],
+        "explanation": "The paradox arises from the attempt to reconcile classical physics, represented by Heisenberg’s quantity x(n,t), with quantum physics, represented by the old quantum condition. These two branches of physics are fundamentally different and often contradictory.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "For example, given the purely classical position function x(t)=a cos wt of a harmonic oscillator, the condition ¢mx?dt=nh quantizes the amplitude, making a depend on n as follows: a(n)=\\nh/ a7mw.",
+        "terms_in_conflict": [
+          "purely classical position function x(t)=a cos wt",
+          "condition ¢mx?dt=nh"
+        ],
+        "explanation": "The paradox here is the application of a quantum condition to a classical position function. The classical function describes a continuous motion, while the quantum condition implies a discrete (quantized) state.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Thus, the motion of the harmonic oscillator in the stationary state n is described by x(n,1)= \\nh/ mw cos wt.",
+        "terms_in_conflict": [
+          "motion of the harmonic oscillator",
+          "stationary state n"
+        ],
+        "explanation": "The paradox lies in the description of a moving (oscillating) object being in a stationary state. In classical physics, 'stationary' implies no motion, while in quantum physics, a 'stationary state' can still involve motion.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "The introduction of transition components a(n,n—nel\"-\" into the\nformalism was a milestone in the development of quantum theory. The\none-line abstract of Heisenberg’s paper reads “The present paper seeks to\nestablish a basis for theoretical quantum mechanics founded exclusively\nupon relationships between quantities which in principle are observable”\n(Ref. 3, p. 261). For Heisenberg, the observable quantities were a(n,n\n—7) and w(n,n—7), that is, the amplitudes and the frequencies of the\nspectral lines. Prior to 1925, little was known about transition amplitudes.\nThere was a sense that Einstein’s transition probabilities were related to\nthe squares of the transition amplitudes. Heisenberg made the transition\namplitudes (and frequencies) the central quantities of his theory. He dis-\ncovered how to manipulate them, relate them, and calculate their values.",
+    "paragraph_type": "Hybrid",
+    "metaphors": [
+      {
+        "FullSentence": "The introduction of transition components a(n,n—nel\"-\" into the formalism was a milestone in the development of quantum theory.",
+        "MetaphoricalPhrase": "was a milestone",
+        "Type": "Structural",
+        "ConceptualMapping": "Progress in quantum theory is a journey"
+      },
+      {
+        "FullSentence": "For Heisenberg, the observable quantities were a(n,n —7) and w(n,n—7), that is, the amplitudes and the frequencies of the spectral lines.",
+        "MetaphoricalPhrase": "observable quantities were",
+        "Type": "Ontological",
+        "ConceptualMapping": "Quantum properties are tangible objects"
+      },
+      {
+        "FullSentence": "He discovered how to manipulate them, relate them, and calculate their values.",
+        "MetaphoricalPhrase": "manipulate them, relate them, and calculate their values",
+        "Type": "Structural",
+        "ConceptualMapping": "Understanding quantum properties is a process of manipulation and calculation"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Reference 3, pp. 263-264, paper 12.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8! Heisenberg notes (Ref. 3, p. 268, paper 12) that Eq. (A11) is equivalent to\nthe sum rule of Kuhn and Thomas (Ref. 3, paper 11). For a discussion of\nHeisenberg’s development of the quantum condition, see Mehra and H.\nRechenberg, The Historical Development of Quantum Theory (Springer,\nNew York, 1982), Vol. 2, pp. 243-245, and Ref. 14.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "There’s even some evidence that scientific abilities are associated with traits characteristic of\nautism, the psychological disorder whose symptoms include difficulties in social relationships and\ncommunication, or its milder version, Asperger syndrome. One recent study, for instance, exam-\nined different groups according to the Autism-Spectrum Quotient test, which measures autistic\ntraits. Scientists scored higher than nonscientists on this test, and within the sciences, mathema-\nticians, physical scientists, and engineers scored higher than biomedical scientists.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sidney Perkowitz, Hollywood Science: Movies, Science, and the End of the World (Columbia University Press, 2007),",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "139 Am. J. Phys., Vol. 77, No. 2, February 2009",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "William A. Fedak and Jeffrey J. Prentis 139",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]

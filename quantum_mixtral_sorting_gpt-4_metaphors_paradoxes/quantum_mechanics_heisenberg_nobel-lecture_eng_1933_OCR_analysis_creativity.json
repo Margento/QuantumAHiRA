@@ -1,0 +1,1092 @@
+[
+  {
+    "paragraph": "--- Page 1 ---\nWERNER HEISENBERG",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The development of quantum mechanics",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nobel Lecture, December 11, 1933",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Quantum mechanics, on which I am to speak here, arose, in its formal con-\ntent, from the endeavour to expand Bohr’s principle of correspondence to\na complete mathematical scheme by refining his assertions. The physically\nnew viewpoints that distinguish quantum mechanics from classical physics\nwere prepared by the researches of various investigators engaged in analysing\nthe difficulties posed in Bohr’s theory of atomic structure and in the radia-\ntion theory of light.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "FullSentence": "Quantum mechanics, on which I am to speak here, arose, in its formal content, from the endeavour to expand Bohr’s principle of correspondence to a complete mathematical scheme by refining his assertions.",
+        "MetaphoricalPhrase": "expand Bohr’s principle of correspondence to a complete mathematical scheme by refining his assertions",
+        "Type": "Structural",
+        "ConceptualMapping": "Developing a theory is like refining and expanding an existing structure"
+      },
+      {
+        "FullSentence": "The physically new viewpoints that distinguish quantum mechanics from classical physics were prepared by the researches of various investigators engaged in analysing the difficulties posed in Bohr’s theory of atomic structure and in the radiation theory of light.",
+        "MetaphoricalPhrase": "The physically new viewpoints that distinguish quantum mechanics from classical physics were prepared",
+        "Type": "Ontological",
+        "ConceptualMapping": "Conceptual shifts in a scientific field are like new viewpoints prepared by researchers"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In 1900, through studying the law of black-body radiation which he had\ndiscovered, Planck had detected in optical phenomena a discontinuous phe-\nnomenon totally unknown to classical physics which, a few years later, was\nmost precisely expressed in Einstein’s hypothesis of light quanta. The im-\npossibility of harmonizing the Maxwellian theory with the pronouncedly\nvisual concepts expressed in the hypothesis of light quanta subsequently\ncompelled research workers to the conclusion that radiation phenomena can\nonly be understood by largely renouncing their immediate visualization. The\nfact, already found by Planck and used by Einstein, Debye, and others, that\nthe element of discontinuity detected in radiation phenomena also plays an\nimportant part in material processes, was expressed systematically in Bohr’s\nbasic postulates of the quantum theory which, together with the Bohr-\nSommerfeld quantum conditions of atomic structure, led to a qualitative\ninterpretation of the chemical and optical properties of atoms. The accept-\nance of these basic postulates of the quantum theory contrasted uncom-\npromisingly with the application of classical mechanics to atomic systems,\nwhich, however, at least in its qualitative affirmations, appeared indispen-\nsable for understanding the properties of atoms. This circumstance was a fresh\nargument in support of the assumption that the natural phenomena in which\nPlanck’s constant plays an important part can be understood only by largely\nforegoing a visual description of them. Classical physics seemed the limiting\ncase of visualization of a fundamentally unvisualizable microphysics, the more\naccurately realizable the more Planck’s constant vanishes relative to the\nparameters of the system. This view of classical mechanics as a limiting case",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Classical physics seemed the limiting case of visualization of a fundamentally unvisualizable microphysics, the more accurately realizable the more Planck’s constant vanishes relative to the parameters of the system.",
+        "Metaphorical phrase": "Classical physics seemed the limiting case of visualization of a fundamentally unvisualizable microphysics",
+        "Type": "Structural",
+        "Conceptual Mapping": "Classical physics is a boundary of visual interpretation"
+      },
+      {
+        "Full sentence": "This circumstance was a fresh argument in support of the assumption that the natural phenomena in which Planck’s constant plays an important part can be understood only by largely foregoing a visual description of them.",
+        "Metaphorical phrase": "This circumstance was a fresh argument",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Circumstance is a new argument"
+      },
+      {
+        "Full sentence": "The acceptance of these basic postulates of the quantum theory contrasted uncompromisingly with the application of classical mechanics to atomic systems",
+        "Metaphorical phrase": "contrasted uncompromisingly",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Acceptance and application are in uncompromising contrast"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 2 ---\nDEVELOPMENT OF QUANTUM MECHANICS 291",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "of quantum mechanics also gave rise to Bohr’s principle of correspondence\nwhich, at least in qualitative terms, transferred a number of conclusions for-\nmulated in classical mechanics to quantum mechanics. In connection with\nthe principle of correspondence there was also discussion whether the quan-\ntum-mechanical laws could in principle be of a statistical nature; the pos-\nsibility became particularly apparent in Einstein’s derivation of Planck’s law\nof radiation. Finally, the analysis of the relation between radiation theory\nand atomic theory by Bohr, Kramers, and Slater resulted in the following\nscientific situation:",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "of quantum mechanics also gave rise to Bohr’s principle of correspondence which, at least in qualitative terms, transferred a number of conclusions formulated in classical mechanics to quantum mechanics.",
+        "Metaphorical phrase": "gave rise to",
+        "Type": "Structural",
+        "Conceptual Mapping": "Generating a scientific principle is like giving birth to an organism"
+      },
+      {
+        "Full sentence": "of quantum mechanics also gave rise to Bohr’s principle of correspondence which, at least in qualitative terms, transferred a number of conclusions formulated in classical mechanics to quantum mechanics.",
+        "Metaphorical phrase": "transferred a number of conclusions",
+        "Type": "Structural",
+        "Conceptual Mapping": "Applying scientific conclusions from one theory to another is like transferring objects from one place to another"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "According to the basic postulates of the quantum theory, an atomic sys-\ntem is capable of assuming discrete, stationary states, and therefore discrete\nenergy values; in terms of the energy of the atom the emission and absorp-\ntion of light by such a system occurs abruptly, in the form of impulses. On\nthe other hand, the visualizable properties of the emitted radiation are des-\ncribed by a wave field, the frequency of which is associated with the dif-\nference in energy between the initial and final states of the atom by the\nrelation",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "According to the basic postulates of the quantum theory, an atomic system is capable of assuming discrete, stationary states, and therefore discrete energy values; in terms of the energy of the atom the emission and absorption of light by such a system occurs abruptly, in the form of impulses. On the other hand, the visualizable properties of the emitted radiation are described by a wave field, the frequency of which is associated with the difference in energy between the initial and final states of the atom by the relation",
+        "terms_in_conflict": [
+          "Discrete, stationary states",
+          "Wave field"
+        ],
+        "explanation": "This is a classic paradox in quantum mechanics known as wave-particle duality. The atomic system is described as having discrete, stationary states, implying a particle-like behavior. However, the emitted radiation is described by a wave field, implying wave-like behavior. These two descriptions are fundamentally different and seem to contradict each other, yet both are necessary to fully describe the behavior of quantum systems.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "To each stationary state of an atom corresponds a whole complex of para-\nmeters which specify the probability of transition from this state to another.\nThere is no direct relation between the radiation classically emitted by an\norbiting electron and those parameters defining the probability of emission;\nnevertheless Bohr’s principle of correspondence enables a specific term of\nthe Fourier expansion of the classical path to be assigned to each transition",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "To each stationary state of an atom corresponds a whole complex of parameters which specify the probability of transition from this state to another.",
+        "Metaphorical phrase": "stationary state of an atom corresponds a whole complex of parameters",
+        "Type": "Structural",
+        "Conceptual Mapping": "Stationary state of an atom is a complex of parameters"
+      },
+      {
+        "Full sentence": "There is no direct relation between the radiation classically emitted by an orbiting electron and those parameters defining the probability of emission",
+        "Metaphorical phrase": "radiation classically emitted by an orbiting electron",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Radiation is classical music emitted by orbiting electron"
+      },
+      {
+        "Full sentence": "Bohr’s principle of correspondence enables a specific term of the Fourier expansion of the classical path to be assigned to each transition",
+        "Metaphorical phrase": "Bohr’s principle of correspondence enables a specific term of the Fourier expansion of the classical path",
+        "Type": "Structural",
+        "Conceptual Mapping": "Bohr’s principle is a translator enabling specific terms of the Fourier expansion"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "There is no direct relation between the radiation classically emitted by an orbiting electron and those parameters defining the probability of emission; nevertheless Bohr’s principle of correspondence enables a specific term of the Fourier expansion of the classical path to be assigned to each transition",
+        "terms_in_conflict": [
+          "No direct relation between the radiation classically emitted by an orbiting electron and those parameters defining the probability of emission",
+          "Bohr’s principle of correspondence"
+        ],
+        "explanation": "The paradox lies in the assertion that there is no direct relationship between the classical radiation emitted by an electron and the parameters that define the probability of that emission. Yet, the author also states that Bohr's principle of correspondence allows for a specific term of the Fourier expansion of the classical path to be assigned to each transition, implying a connection between classical and quantum phenomena.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "of the atom, and the probability for the particular transition follows quali-\ntatively similar laws as the intensity of those Fourier components. Although\ntherefore in the researches carried out by Rutherford, Bohr, Sommerfeld",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "and others, the comparison of the atom with a planetary system of electrons",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "and others, the comparison of the atom with a planetary system of electrons",
+        "Metaphorical phrase": "the atom with a planetary system of electrons",
+        "Type": "Structural",
+        "Conceptual Mapping": "Atom is a planetary system"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "leads to a qualitative interpretation of the optical and chemical properties\nof atoms, nevertheless the fundamental dissimilarity between the atomic\nspectrum and the classical spectrum of an electron system imposes the need\nto relinquish the concept of an electron path and to forego a visual descrip-\ntion of the atom.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "nevertheless the fundamental dissimilarity between the atomic spectrum and the classical spectrum of an electron system imposes the need to relinquish the concept of an electron path and to forego a visual description of the atom.",
+        "Metaphorical Phrase": "relinquish the concept of an electron path",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding of scientific concept is giving up a belief",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "nevertheless the fundamental dissimilarity between the atomic spectrum and the classical spectrum of an electron system imposes the need to relinquish the concept of an electron path and to forego a visual description of the atom.",
+        "Metaphorical Phrase": "forego a visual description of the atom",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding of scientific concept is giving up a belief",
+        "creativity": "uncertain"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "leads to a qualitative interpretation of the optical and chemical properties of atoms, nevertheless the fundamental dissimilarity between the atomic spectrum and the classical spectrum of an electron system imposes the need to relinquish the concept of an electron path and to forego a visual description of the atom.",
+        "terms_in_conflict": [
+          "qualitative interpretation of the optical and chemical properties of atoms",
+          "need to relinquish the concept of an electron path and to forego a visual description of the atom"
+        ],
+        "explanation": "The paradox lies in the fact that while the study leads to a qualitative understanding of the properties of atoms, the fundamental differences between the atomic and classical spectrum of an electron system necessitate the abandonment of the concept of an electron path and a visual description of the atom. This implies that while we can understand the properties of atoms, we cannot visually represent or trace the path of an electron within the atom, creating a conceptual tension.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "The experiments necessary to define the electron-path concept also furnish\nan important aid in revising it. The most obvious answer to the question\nhow the orbit of an electron in its path within the atom could be observed",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The experiments necessary to define the electron-path concept also furnish an important aid in revising it.",
+        "Metaphorical phrase": "furnish an important aid",
+        "Type": "Structural",
+        "Conceptual Mapping": "Experiments are tools"
+      },
+      {
+        "Full sentence": "how the orbit of an electron in its path within the atom could be observed",
+        "Metaphorical phrase": "orbit of an electron",
+        "Type": "Structural",
+        "Conceptual Mapping": "Electron movement is planetary orbit"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 3 ---\n292 1932 W.HEISENBERG",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "namely, will perhaps be to use a microscope of extreme resolving power.\nBut since the specimen in this microscope would have to be illuminated with\nlight having an extremely short wavelength, the first light quantum from\nthe light source to reach the electron and pass into the observer's eye would\neject the electron completely from its path in accordance with the laws of\nthe Compton effect. Consequently only one point of the path would be\nobservable experimentally at any one time.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "But since the specimen in this microscope would have to be illuminated with light having an extremely short wavelength, the first light quantum from the light source to reach the electron and pass into the observer's eye would eject the electron completely from its path in accordance with the laws of the Compton effect.",
+        "terms_in_conflict": [
+          "use of microscope with extreme resolving power",
+          "ejection of electron from its path due to Compton effect"
+        ],
+        "explanation": "The paradox lies in the fact that to observe the electron, a microscope with extreme resolving power is needed, which requires light of extremely short wavelength. However, this very light, according to the Compton effect, would eject the electron from its path, making observation difficult.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "In this situation, therefore, the obvious policy was to relinquish at first\nthe concept of electron paths altogether, despite its substantiation by Wil-\nson’s experiments, and, as it were, to attempt subsequently how much of\nthe electron-path concept can be carried over into quantum mechanics.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "In this situation, therefore, the obvious policy was to relinquish at first the concept of electron paths altogether, despite its substantiation by Wilson’s experiments, and, as it were, to attempt subsequently how much of the electron-path concept can be carried over into quantum mechanics.",
+        "Metaphorical Phrase": "to relinquish at first the concept of electron paths altogether",
+        "Type": "Structural",
+        "Conceptual Mapping": "Relinquishing a concept is giving up a physical object",
+        "creativity": "genuine"
+      },
+      {
+        "Full Sentence": "In this situation, therefore, the obvious policy was to relinquish at first the concept of electron paths altogether, despite its substantiation by Wilson’s experiments, and, as it were, to attempt subsequently how much of the electron-path concept can be carried over into quantum mechanics.",
+        "Metaphorical Phrase": "how much of the electron-path concept can be carried over into quantum mechanics",
+        "Type": "Structural",
+        "Conceptual Mapping": "Applying a concept to a new area is physically transporting it",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "In this situation, therefore, the obvious policy was to relinquish at first the concept of electron paths altogether, despite its substantiation by Wilson’s experiments, and, as it were, to attempt subsequently how much of the electron-path concept can be carried over into quantum mechanics.",
+        "terms_in_conflict": [
+          "Concept of electron paths",
+          "Quantum mechanics"
+        ],
+        "explanation": "The paradox lies in the fact that the concept of electron paths, which has been substantiated by Wilson's experiments, is initially abandoned, only to later attempt to incorporate it into quantum mechanics. The tension arises from the contradiction between the empirical evidence supporting electron paths and the theoretical framework of quantum mechanics, which may not accommodate such a concept.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "In the classical theory the specification of frequency, amplitude, and phase\nof all the light waves emitted by the atom would be fully equivalent to\nspecifying its electron path. Since from the amplitude and phase of an emitted\nwave the coefficients of the appropriate term in the Fourier expansion of\nthe electron path can be derived without ambiguity, the complete electron\npath therefore can be derived from a knowledge of all amplitudes and phases.\nSimilarly, in quantum mechanics, too, the whole complex of amplitudes\nand phases of the radiation emitted by the atom can be regarded as a com-\nplete description of the atomic system, although its interpretation in the sense\nof an electron path inducing the radiation is impossible. In quantum mechan-\nics, therefore, the place of the electron coordinates is taken by a complex\nof parameters corresponding to the Fourier coefficients of classical motion\nalong a path. These, however, are no longer classified by the energy of state\nand the number of the corresponding harmonic vibration, but are in each\ncase associated with two stationary states of the atom, and are a measure for\nthe transition probability of the atom from one stationary state to another.\nA complex of coefficients of this type is comparable with a matrix such as\noccurs in linear algebra. In exactly the same way each parameter of classical\nmechanics, e.g. the momentum or the energy of the electrons, can then be\nassigned a corresponding matrix in quantum mechanics. To proceed from\nhere beyond a mere description of the empirical state of affairs it was nec-\nessary to associate systematically the matrices assigned to the various para-\nmeters in the same way as the corresponding parameters in classical mechan-\nics are associated by equations of motions. When, in the interest of achieving\nthe closest possible correspondence between classical and quantum mechan-",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "A complex of coefficients of this type is comparable with a matrix such as occurs in linear algebra.",
+        "Metaphorical phrase": "A complex of coefficients of this type is comparable with a matrix",
+        "Type": "Structural",
+        "Conceptual Mapping": "Complex of coefficients is a matrix"
+      },
+      {
+        "Full sentence": "In quantum mechanics, therefore, the place of the electron coordinates is taken by a complex of parameters corresponding to the Fourier coefficients of classical motion along a path.",
+        "Metaphorical phrase": "the place of the electron coordinates is taken by a complex of parameters",
+        "Type": "Structural",
+        "Conceptual Mapping": "Electron coordinates are complex of parameters"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Similarly, in quantum mechanics, too, the whole complex of amplitudes and phases of the radiation emitted by the atom can be regarded as a complete description of the atomic system, although its interpretation in the sense of an electron path inducing the radiation is impossible.",
+        "terms_in_conflict": [
+          "complete description of the atomic system",
+          "interpretation in the sense of an electron path inducing the radiation"
+        ],
+        "explanation": "The paradox lies in the fact that while the complex of amplitudes and phases of the radiation emitted by the atom can provide a complete description of the atomic system in quantum mechanics, it is impossible to interpret this information in terms of an electron path inducing the radiation, which is a fundamental concept in classical physics.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "ics, the addition and multiplication of Fourier series were tentatively taken\nas the example for the addition and multiplication of the quantum-theory",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "the addition and multiplication of Fourier series were tentatively taken as the example for the addition and multiplication of the quantum-theory",
+        "Metaphorical Phrase": "the addition and multiplication of Fourier series were tentatively taken as the example for the addition and multiplication of the quantum-theory",
+        "Type": "Structural",
+        "Conceptual Mapping": "Fourier series operations are a model for quantum theory operations",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 4 ---\nDEVELOPMENT OF QUANTUM MECHANICS 293",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "complexes, the product of two parameters represented by matrices appeared\nto be most naturally represented by the product matrix in the sense of linear\nalgebra - an assumption already suggested by the formalism of the Kramers-\nLadenburg dispersion theory.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "It thus seemed consistent simply to adopt in quantum mechanics the equa-\ntions of motion of classical physics, regarding them as a relation between\nthe matrices representing the classicalvariables. The Bohr-Sommerfeld quan-\ntum conditions could also be re-interpreted in a relation between the ma-\ntrices, and together with the equations of motion they were sufficient to\ndefine all matrices and hence the experimentally observable properties of the\natom.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Born, Jordan, and Dirac deserve the credit for expanding the mathemati-\ncal scheme outlined above into a consistent and practically usable theory.\nThese investigators observed in the first place that the quantum conditions\ncan be written as commutation relations between the matrices representing\nthe momenta and the coordinates of the electrons, to yield the equations (p,\nmomentum matrices; q, coordinate matrices) :",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Pr4s — 4spr = * ors qrJs — 4sGr = 0 Prps — PsPbr = 0",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "By means of these commutation relations they were able to detect in quan-\ntum mechanics as well the laws which were fundamental to classical mechan-\nics: the invariability in time of energy, momentum, and angular momentum.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The mathematical scheme so derived thus ultimately bears an extensive\nformal similarity to that of the classical theory, from which it differs out-\nwardly by the commutation relations which, moreover, enabled the equa-\ntions of motion to be derived from the Hamiltonian function.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In the physical consequences, however, there are very profound differ-\nences between quantum mechanics and classical mechanics which impose the\nneed for a thorough discussion of the physical interpretation of quantum\nmechanics. As hitherto defined, quantum mechanics enables the radiation\nemitted by the atom, the energy values of the stationary states, and other\nparameters characteristic for the stationary states to be treated. The theory\nhence complies with the experimental data contained in atomic spectra. In",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 5 ---\n294 1932 W.HEISENBERG",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "all those cases, however, where a visual description is required of a transient\nevent, e.g. wheninterpreting Wilson photographs, the formalism of the theo-\nry does not seem to allow an adequate representation of the experimental\nstate of affairs. At this point Schrédinger’s wave mechanics, meanwhile de-\nveloped on the basis of de Broglie’s theses, came to the assistance of quan-\ntum mechanics.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "At this point Schrédinger’s wave mechanics, meanwhile developed on the basis of de Broglie’s theses, came to the assistance of quantum mechanics.",
+        "Metaphorical phrase": "came to the assistance of quantum mechanics",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific theories are like helpers in solving problems"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In the course of the studies which Mr. Schrédinger will report here him-\nself he converted the determination of the energy values of an atom into an\neigenvalue problem defined by a boundary-value problem in the coordinate\nspace of the particular atomic system. After Schrédinger had shown the\nmathematical equivalence of wave mechanics, which he had discovered,\nwith quantum mechanics, the fruitful combination of these two different\nareas of physical ideas resulted in an extraordinary broadening and enrich-\nment of the formalism of the quantum theory. Firstly it was only wave\nmechanics which made possible the mathematical treatment of complex\natomic systems, secondly analysis of the connection between the two theo-\nries led to what is known as the transformation theory developed by Dirac\nand Jordan. As it is impossible within the limits of the present lecture to give\na detailed discussion of the mathematical structure of this theory, I should\njust like to point out its fundamental physical significance. Through the\nadoption of the physical principles of quantum mechanics into its expanded\nformalism, the transformation theory made it possible in completely general\nterms to calculate for atomic systems the probability for the occurrence of a\nparticular, experimentally ascertainable, phenomenon under given experi-\nmental conditions. The hypothesis conjectured in the studies on the radia-\ntion theory and enunciated in precise terms in Born’s collision theory, name-\nly that the wave function governs the probability for the presence of a cor-\npuscle, appeared to be a special case of a more general pattern of laws and\nto be a natural consequence of the fundamental assumptions of quantum\nmechanics. Schrédinger, and in later studies Jordan, Klein, and Wigner as\nwell, had succeeded in developing as far as permitted by the principles of\nthe quantum theory de Broglie’s original concept of visualizable matter\nwaves occurring in space and time, a concept formulated even before the\ndevelopment of quantum mechanics. But for that the connection between\nSchrédinger’s concepts and de Broglie’s original thesis would certainly have\nseemed a looser one by this statistical interpretation of wave mechanics and\nby the greater emphasis on the fact that Schrédinger’s theory is concerned\nwith waves in multidimensional space. Before proceeding to discuss the",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "FullSentence": "After Schrédinger had shown the mathematical equivalence of wave mechanics, which he had discovered, with quantum mechanics, the fruitful combination of these two different areas of physical ideas resulted in an extraordinary broadening and enrichment of the formalism of the quantum theory.",
+        "MetaphoricalPhrase": "the fruitful combination",
+        "Type": "Structural",
+        "ConceptualMapping": "Combination of ideas is a type of cross-fertilization"
+      },
+      {
+        "FullSentence": "the transformation theory made it possible in completely general terms to calculate for atomic systems the probability for the occurrence of a particular, experimentally ascertainable, phenomenon under given experimental conditions.",
+        "MetaphoricalPhrase": "the transformation theory made it possible",
+        "Type": "Structural",
+        "ConceptualMapping": "Theories are tools that enable us to perform actions"
+      },
+      {
+        "FullSentence": "The hypothesis conjectured in the studies on the radia-\ntion theory and enunciated in precise terms in Born’s collision theory, namely that the wave function governs the probability for the presence of a corpuscle, appeared to be a special case of a more general pattern of laws and\nto be a natural consequence of the fundamental assumptions of quantum mechanics.",
+        "MetaphoricalPhrase": "appeared to be a special case of a more general pattern of laws",
+        "Type": "Structural",
+        "ConceptualMapping": "Concepts are physical objects that can be part of a larger pattern or system"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 6 ---\nDEVELOPMENT OF QUANTUM MECHANICS 295",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "explicit significance of quantum mechanics it is perhaps right for me to deal\nbriefly with this question as to the existence of matter waves in three-dimen-\nsional space, since the solution to this problem was only achieved by com-\nbining wave and quantum mechanics.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "explicit significance of quantum mechanics it is perhaps right for me to deal briefly with this question as to the existence of matter waves in three-dimensional space, since the solution to this problem was only achieved by combining wave and quantum mechanics.",
+        "Metaphorical phrase": "existence of matter waves",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Particles are waves"
+      },
+      {
+        "Full sentence": "explicit significance of quantum mechanics it is perhaps right for me to deal briefly with this question as to the existence of matter waves in three-dimensional space, since the solution to this problem was only achieved by combining wave and quantum mechanics.",
+        "Metaphorical phrase": "combining wave and quantum mechanics",
+        "Type": "Structural",
+        "Conceptual Mapping": "Wave and quantum mechanics are ingredients"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "A long time before quantum mechanics was developed Pauli had inferred\nfrom the laws in the Periodic System of the elements the well-known prin-\nciple that a particular quantum state can at all times be occupied by only a\nsingle electron. It proved possible to transfer this principle to quantum me-\nchanics on the basis of what at first sight seemed a surprising result: the entire\ncomplex of stationary states which an atomic system is capable of adopting\nbreaks down into definite classes such that an atom in a state belonging to\none class can never change into a state belonging to another class under the\naction of whatever perturbations. As finally clarified beyond question by\nthe studies of Wigner and Hund, such a class of states is characterized by a\ndefmite symmetry characteristic of the Schrédinger eigenfunction with re-\nspect to the transposition of the coordinates of two electrons. Owing to the\nfundamental identity of electrons, any external perturbation of the atom\nremains unchanged when two electrons are exchanged and hence causes no\ntransitions between states of various classes. The Pauli principle and the\nFermi-Dirac statistics derived from it are equivalent with the assumption\nthat only that class of stationary states is achieved in nature in which the\neigenfunction changes its sign when two electrons are exchanged. According\nto Dirac, selecting the symmetrical system of terms would lead not to the\nPauli principle, but to Bose-Einstein electron statistics.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "It proved possible to transfer this principle to quantum mechanics on the basis of what at first sight seemed a surprising result: the entire complex of stationary states which an atomic system is capable of adopting breaks down into definite classes such that an atom in a state belonging to one class can never change into a state belonging to another class under the action of whatever perturbations.",
+        "Metaphorical phrase": "the entire complex of stationary states which an atomic system is capable of adopting breaks down into definite classes such that an atom in a state belonging to one class can never change into a state belonging to another class under the action of whatever perturbations",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantum states are classes"
+      },
+      {
+        "Full sentence": "Owing to the fundamental identity of electrons, any external perturbation of the atom remains unchanged when two electrons are exchanged and hence causes no transitions between states of various classes.",
+        "Metaphorical phrase": "any external perturbation of the atom remains unchanged when two electrons are exchanged and hence causes no transitions between states of various classes",
+        "Type": "Structural",
+        "Conceptual Mapping": "Electron exchange is a constant"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "It proved possible to transfer this principle to quantum mechanics on the basis of what at first sight seemed a surprising result: the entire complex of stationary states which an atomic system is capable of adopting breaks down into definite classes such that an atom in a state belonging to one class can never change into a state belonging to another class under the action of whatever perturbations.",
+        "terms_in_conflict": [
+          "stationary states",
+          "definite classes",
+          "perturbations"
+        ],
+        "explanation": "The paradox lies in the idea that an atomic system can adopt a variety of stationary states, yet these states are broken down into definite classes that cannot be changed into another class under any perturbations. This seems contradictory because if the states are truly stationary and unchangeable, how can they be broken down into different classes?",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Owing to the fundamental identity of electrons, any external perturbation of the atom remains unchanged when two electrons are exchanged and hence causes no transitions between states of various classes.",
+        "terms_in_conflict": [
+          "fundamental identity of electrons",
+          "external perturbation",
+          "transitions between states"
+        ],
+        "explanation": "The paradox here is that despite the fundamental identity of electrons, which suggests that exchanging two electrons should not affect the atom, it is stated that this exchange does not cause any transitions between states of different classes. This is paradoxical because if the electrons are fundamentally identical, their exchange should not affect the state of the atom.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "The Pauli principle and the Fermi-Dirac statistics derived from it are equivalent with the assumption that only that class of stationary states is achieved in nature in which the eigenfunction changes its sign when two electrons are exchanged.",
+        "terms_in_conflict": [
+          "Pauli principle",
+          "Fermi-Dirac statistics",
+          "class of stationary states",
+          "eigenfunction changes its sign"
+        ],
+        "explanation": "The paradox lies in the equivalence of the Pauli principle and Fermi-Dirac statistics with the assumption that only a specific class of stationary states is achieved in nature, where the eigenfunction changes its sign when two electrons are exchanged. This is paradoxical because the Pauli principle states that each quantum state can be occupied by only one electron at a time, yet the eigenfunction changes its sign when two electrons are exchanged, suggesting a change in the quantum state.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "Between the classes of stationary states belonging to the Pauli principle\nor to Bose-Einstein statistics, and de Broglie’s concept of matter waves\nthere is a peculiar relation. A spatial wave phenomenon can be treated ac-\ncording to the principles of the quantum theory by analysing it using the\nFourier theorem and then applying to the individual Fourier component of\nthe wave motion, as a system having one degree of freedom, the normal\nlaws of quantum mechanics. Applying this procedure for treating wave\nphenomena by the quantum theory, a procedure that has also proved fruit-\nful in Dirac’s studies of the theory of radiation, to de Broglie’s matter\nwaves, exactly the same results are obtained as in treating a whole complex\nof material particles according to quantum mechanics and selecting the sym-\nmetrical system of terms. Jordan and Klein hold that the two methods are\nmathematically equivalent even if allowance is also made for the interac-\ntion of the electrons, ie. if the field energy originating from the contin-",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Applying this procedure for treating wave phenomena by the quantum theory, a procedure that has also proved fruitful in Dirac’s studies of the theory of radiation, to de Broglie’s matter waves, exactly the same results are obtained as in treating a whole complex of material particles according to quantum mechanics and selecting the symmetrical system of terms.",
+        "Metaphorical phrase": "proved fruitful",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Scientific procedure is a fruit-bearing tree"
+      },
+      {
+        "Full sentence": "Jordan and Klein hold that the two methods are mathematically equivalent even if allowance is also made for the interaction of the electrons, ie.",
+        "Metaphorical phrase": "mathematically equivalent",
+        "Type": "Structural",
+        "Conceptual Mapping": "Mathematical methods are identical twins"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 7 ---\n296 1932 W.HEISENBERG",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "uous space charge is included in the calculation in de Broglie’s wave theory.\nSchrédinger’s considerations of the energy-momentum tensor assigned to\nthe matter waves can then also be adopted in this theory as consistent com-\nponents of the formalism. The studies of Jordan and Wigner show that mod-\nifying the commutation relations underlying this quantum theory of waves\nresults in a formalism equivalent to that of quantum mechanics based on the\nassumption of Pauli’s exclusion principle.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "These studies have established that the comparison of an atom with a plan-\netary system composed of nucleus and electrons is not the only visual picture\nof how we can imagine the atom. On the contrary, it is apparently no less\ncorrect to compare the atom with a charge cloud and use the correspondence",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "These studies have established that the comparison of an atom with a planetary system composed of nucleus and electrons is not the only visual picture of how we can imagine the atom.",
+        "Metaphorical Phrase": "comparison of an atom with a planetary system composed of nucleus and electrons",
+        "Type": "Structural",
+        "Conceptual Mapping": "Atom is a planetary system",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "On the contrary, it is apparently no less correct to compare the atom with a charge cloud and use the correspondence",
+        "Metaphorical Phrase": "compare the atom with a charge cloud",
+        "Type": "Structural",
+        "Conceptual Mapping": "Atom is a charge cloud",
+        "creativity": "uncertain"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "These studies have established that the comparison of an atom with a planetary system composed of nucleus and electrons is not the only visual picture of how we can imagine the atom.",
+        "terms_in_conflict": [
+          "atom",
+          "planetary system composed of nucleus and electrons"
+        ],
+        "explanation": "The paradox lies in the comparison of an atom, which is a microscopic entity, with a planetary system, which is a macroscopic entity. The two are fundamentally different in scale and behavior, yet they are being compared to each other.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "On the contrary, it is apparently no less correct to compare the atom with a charge cloud and use the correspondence",
+        "terms_in_conflict": [
+          "atom",
+          "charge cloud"
+        ],
+        "explanation": "The paradox here is that an atom, which is a discrete entity, is being compared to a charge cloud, which is a continuous entity. This presents a paradox because the two are fundamentally different in nature.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "to the formalism of the quantum theory borne by this concept to derive\nqualitative conclusions about the behaviour of the atom. However, it is the\nconcern of wave mechanics to follow these consequences.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "However, it is the concern of wave mechanics to follow these consequences.",
+        "Metaphorical phrase": "the concern of wave mechanics to follow these consequences",
+        "Type": "Structural",
+        "Conceptual Mapping": "Wave mechanics is a concerned entity"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Reverting therefore to the formalism of quantum mechanics; its applica-\ntion to physical problems is justified partly by the original basic assumptions\nof the theory, partly by its expansion in the transformation theory on the\nbasis of wave mechanics, and the question is now to expose the explicit\nsignificance of the theory by comparing it with classical physics.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Reverting therefore to the formalism of quantum mechanics; its application to physical problems is justified partly by the original basic assumptions of the theory, partly by its expansion in the transformation theory on the basis of wave mechanics, and the question is now to expose the explicit significance of the theory by comparing it with classical physics.",
+        "Metaphorical phrase": "expose the explicit significance of the theory",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding a theory is like uncovering something hidden"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In classical physics the aim of research was to investigate objective pro-\ncesses occurring in space and time, and to discover the laws governing their\nprogress from the initial conditions. In classical physics a problem was con-\nsidered solved when a particular phenomenon had been proved to occur\nobjectively in space and time, and it had been shown to obey the general",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "tules of classical physics as formulated by differential equations. The manner\nin which the knowledge of each process had been acquired, what observa-\ntions may possibly have led to its experimental determination, was com-\npletely immaterial, and it was also immaterial for the consequences of the\nclassical theory, which possible observations were to verify the predictions\nof the theory. In the quantum theory, however, the situation is completely\ndifferent. The very fact that the formalism of quantum mechanics cannot\nbe interpreted as visual description of a phenomenon occurring in space and\ntime shows that quantum mechanics is in no way concerned with the ob-\njective determination of space-time phenomena. On the contrary, the for-\nmalism of quantum mechanics should be used in such a way that the proba-\nbility for the outcome of a further experiment may be concluded from the\ndetermination of an experimental situation in an atomic system, providing\nthat the system is subject to no perturbations other than those necessitated",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The very fact that the formalism of quantum mechanics cannot be interpreted as visual description of a phenomenon occurring in space and time shows that quantum mechanics is in no way concerned with the objective determination of space-time phenomena.",
+        "Metaphorical phrase": "interpreted as visual description of a phenomenon occurring in space and time",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantum mechanics is a visual phenomena"
+      },
+      {
+        "Full sentence": "On the contrary, the formalism of quantum mechanics should be used in such a way that the probability for the outcome of a further experiment may be concluded from the determination of an experimental situation in an atomic system, providing that the system is subject to no perturbations other than those necessitated",
+        "Metaphorical phrase": "the system is subject to no perturbations other than those necessitated",
+        "Type": "Ontological",
+        "Conceptual Mapping": "System is a person subjected to perturbations"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The very fact that the formalism of quantum mechanics cannot be interpreted as visual description of a phenomenon occurring in space and time shows that quantum mechanics is in no way concerned with the objective determination of space-time phenomena.",
+        "terms_in_conflict": [
+          "formalism of quantum mechanics",
+          "objective determination of space-time phenomena"
+        ],
+        "explanation": "The paradox lies in the fact that quantum mechanics, a field of physics, is not concerned with the objective determination of phenomena in space and time, which is a fundamental aspect of physics.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "On the contrary, the formalism of quantum mechanics should be used in such a way that the probability for the outcome of a further experiment may be concluded from the determination of an experimental situation in an atomic system, providing that the system is subject to no perturbations other than those necessitated",
+        "terms_in_conflict": [
+          "formalism of quantum mechanics",
+          "determination of an experimental situation"
+        ],
+        "explanation": "The paradox here is that while quantum mechanics is not concerned with the objective determination of space-time phenomena, it is used to determine the outcome of an experiment in an atomic system, which is a space-time phenomenon.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "--- Page 8 ---\nDEVELOPMENT OF QUANTUM MECHANICS 297",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "by performing the two experiments. The fact that the only definite known\nresult to be ascertained after the fullest possible experimental investigation\nof the system is the probability for a certain outcome of a second experiment\nshows, however, that each observation must entail a discontinuous change in\nthe formalism describing the atomic proces sand therefore also a discontin-\nuous change in the physical phenomenon itself. Whereas in the classical\ntheory the kind of observation has no bearing on the event, in the quantum\ntheory the disturbance associated with each observation of the atomic phe-\nnomenon has a decisive role. Since, furthermore, the result of an observation\nas a rule leads only to assertions about the probability of certain results of\nsubsequent observations, the fundamentally unverifiable part of each per-\nturbation must, as shown by Bohr, be decisive for the non-contradictory\noperation of quantum mechanics. This difference between classical and\natomic physics is understandable, of course, since for heavy bodies such as\nthe planets moving around the sun the pressure of the sunlight which is\nreflected at their surface and which is necessary for them to be observed is\nnegligible; for the smallest building units of matter, however, owing to their\nlow mass, every observation has a decisive effect on their physical behaviour.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Whereas in the classical theory the kind of observation has no bearing on the event, in the quantum theory the disturbance associated with each observation of the atomic phenomenon has a decisive role.",
+        "Metaphorical Phrase": "the disturbance associated with each observation of the atomic phenomenon has a decisive role",
+        "Type": "Structural",
+        "Conceptual Mapping": "Observations in quantum theory are influencers of events",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "Since, furthermore, the result of an observation as a rule leads only to assertions about the probability of certain results of subsequent observations, the fundamentally unverifiable part of each perturbation must, as shown by Bohr, be decisive for the non-contradictory operation of quantum mechanics.",
+        "Metaphorical Phrase": "the fundamentally unverifiable part of each perturbation must, as shown by Bohr, be decisive for the non-contradictory operation of quantum mechanics",
+        "Type": "Structural",
+        "Conceptual Mapping": "Unverifiable parts of perturbations are necessary for the coherence of quantum mechanics",
+        "creativity": "genuine"
+      },
+      {
+        "Full Sentence": "This difference between classical and atomic physics is understandable, of course, since for heavy bodies such as the planets moving around the sun the pressure of the sunlight which is reflected at their surface and which is necessary for them to be observed is negligible; for the smallest building units of matter, however, owing to their low mass, every observation has a decisive effect on their physical behaviour.",
+        "Metaphorical Phrase": "for the smallest building units of matter, however, owing to their low mass, every observation has a decisive effect on their physical behaviour",
+        "Type": "Structural",
+        "Conceptual Mapping": "Observations on small units of matter are impactful forces",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The fact that the only definite known result to be ascertained after the fullest possible experimental investigation of the system is the probability for a certain outcome of a second experiment shows, however, that each observation must entail a discontinuous change in the formalism describing the atomic process and therefore also a discontinuous change in the physical phenomenon itself.",
+        "terms_in_conflict": [
+          "definite known result",
+          "probability for a certain outcome",
+          "discontinuous change in the physical phenomenon"
+        ],
+        "explanation": "The paradox lies in the fact that a definite result is only known in terms of a probability for a certain outcome, implying uncertainty. Yet, each observation is said to cause a discontinuous change in the physical phenomenon, suggesting a definite impact.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Whereas in the classical theory the kind of observation has no bearing on the event, in the quantum theory the disturbance associated with each observation of the atomic phenomenon has a decisive role.",
+        "terms_in_conflict": [
+          "classical theory",
+          "quantum theory",
+          "observation",
+          "disturbance"
+        ],
+        "explanation": "The paradox arises from the conflicting roles of observation in classical and quantum theories. In classical theory, observation doesn't affect the event, while in quantum theory, observation disturbs and decisively influences the event.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Since, furthermore, the result of an observation as a rule leads only to assertions about the probability of certain results of subsequent observations, the fundamentally unverifiable part of each perturbation must, as shown by Bohr, be decisive for the non-contradictory operation of quantum mechanics.",
+        "terms_in_conflict": [
+          "result of an observation",
+          "probability of certain results",
+          "fundamentally unverifiable part",
+          "non-contradictory operation of quantum mechanics"
+        ],
+        "explanation": "The paradox here is that the result of an observation, which only leads to probabilistic assertions, somehow contributes to the non-contradictory operation of quantum mechanics, despite the fundamentally unverifiable part of each perturbation.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "The perturbation of the system to be observed caused by the observation\nis also an important factor in determining the limits within which a visual\ndescription of atomic phenomena is possible. If there were experiments\nwhich permitted accurate measurement of all the characteristics of an atomic\nsystem necessary to calculate classical motion, and which, for example, sup-\nplied accurate values for the location and velocity of each electron in the\nsystem at a particular time, the result of these experiments could not be\nutilized at all in the formalism, but rather it would directly contradict the\nformalism. Again, therefore, it is clearly that fundamentally unverifiable part\nof the perturbation of the system caused by the measurement itself which\nhampers accurate ascertainment of the classical characteristics and thus per-\nmits quantum mechanics to be applied. Closer examination of the for-\nmalism shows that between the accuracy with which the location of a par-\nticle can be ascertained and the accuracy with which its momentum can\nsimultaneously be known, there is a relation according to which the product",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The perturbation of the system to be observed caused by the observation is also an important factor in determining the limits within which a visual description of atomic phenomena is possible.",
+        "Metaphorical phrase": "The perturbation of the system to be observed caused by the observation",
+        "Type": "Structural",
+        "Conceptual Mapping": "Observation is a perturbing factor"
+      },
+      {
+        "Full sentence": "Again, therefore, it is clearly that fundamentally unverifiable part of the perturbation of the system caused by the measurement itself which hampers accurate ascertainment of the classical characteristics and thus permits quantum mechanics to be applied.",
+        "Metaphorical phrase": "perturbation of the system caused by the measurement itself which hampers accurate ascertainment",
+        "Type": "Structural",
+        "Conceptual Mapping": "Measurement is a disrupting process"
+      },
+      {
+        "Full sentence": "Closer examination of the formalism shows that between the accuracy with which the location of a particle can be ascertained and the accuracy with which its momentum can simultaneously be known, there is a relation according to which the product",
+        "Metaphorical phrase": "Closer examination of the formalism",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding is a process of examination"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "If there were experiments which permitted accurate measurement of all the characteristics of an atomic system necessary to calculate classical motion, and which, for example, supplied accurate values for the location and velocity of each electron in the system at a particular time, the result of these experiments could not be utilized at all in the formalism, but rather it would directly contradict the formalism.",
+        "terms_in_conflict": [
+          "accurate measurement of all the characteristics of an atomic system",
+          "the formalism"
+        ],
+        "explanation": "The paradox lies in the fact that even if there were experiments that could accurately measure all the characteristics of an atomic system, these results could not be used in the formalism. Instead, they would contradict it. This presents a paradox because the formalism should ideally be able to incorporate all accurate measurements.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Again, therefore, it is clearly that fundamentally unverifiable part of the perturbation of the system caused by the measurement itself which hampers accurate ascertainment of the classical characteristics and thus permits quantum mechanics to be applied.",
+        "terms_in_conflict": [
+          "unverifiable part of the perturbation of the system caused by the measurement",
+          "accurate ascertainment of the classical characteristics"
+        ],
+        "explanation": "The paradox here is that the unverifiable part of the perturbation caused by the measurement itself hinders the accurate determination of classical characteristics, yet it is this very hindrance that allows for the application of quantum mechanics. This is paradoxical because the inability to verify something should not enable a more accurate understanding or application of a theory.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "of the probable errors in the measurement of the location and momentum\nis invariably at least as large as Planck’s constant divided by 4n. In a very\ngeneral form, therefore, we should have",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 9 ---\n298 1932 W.HEISENBERG",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where p and q are canonically conjugated variables. These uncertainty rela-\ntions for the results of the measurement of classical variables form the nec-\nessary conditions for enabling the result of a measurement to be expressed\nin the formalism of the quantum theory. Bohr has shown in a series of\nexamples how the perturbation necessarily associated with each observation\nindeed ensures that one cannot go below the limit set by the uncertainty\nrelations. He contends that in the final analysis an uncertainty introduced\nby the concept of measurement itself is responsible for part of that perturba-\ntion remaining fundamentally unknown. The experimental determination\nof whatever space-time events invariably necessitates a fixed frame - say the\nsystem of coordinates in which the observer is at rest - to which all meas-\nurements are referred. The assumption that this frame is \"fixed\" implies\nneglecting its momentum from the outset, since \"fixed\" implies nothing\nother, of course, than that any transfer of momentum to it will evoke no\nperceptible effect. The fundamentally necessary uncertainty at this point is\nthen transmitted via the measuring apparatus into the atomic event.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Bohr has shown in a series of examples how the perturbation necessarily associated with each observation indeed ensures that one cannot go below the limit set by the uncertainty relations.",
+        "Metaphorical phrase": "one cannot go below the limit set by the uncertainty relations",
+        "Type": "Structural",
+        "Conceptual Mapping": "Uncertainty relations is a limit"
+      },
+      {
+        "Full sentence": "The fundamentally necessary uncertainty at this point is then transmitted via the measuring apparatus into the atomic event.",
+        "Metaphorical phrase": "uncertainty is then transmitted via the measuring apparatus",
+        "Type": "Structural",
+        "Conceptual Mapping": "Uncertainty is something that can be transmitted"
+      }
+    ],
+    "paradoxes": [
+      {
+        "Full sentence": "The assumption that this frame is \"fixed\" implies neglecting its momentum from the outset, since \"fixed\" implies nothing other, of course, than that any transfer of momentum to it will evoke no perceptible effect.",
+        "Terms/concepts in conflict": [
+          "fixed frame",
+          "momentum"
+        ],
+        "Short explanation of the paradox": "The paradox arises from the assumption that the frame of reference is 'fixed', which implies that it has no momentum or that any transfer of momentum to it will not have a perceptible effect. However, in physics, an object at rest (a 'fixed' frame) still has momentum, which is a contradiction."
+      },
+      {
+        "Full sentence": "Bohr has shown in a series of examples how the perturbation necessarily associated with each observation indeed ensures that one cannot go below the limit set by the uncertainty relations.",
+        "Terms/concepts in conflict": [
+          "observation",
+          "uncertainty relations"
+        ],
+        "Short explanation of the paradox": "The paradox lies in the inherent tension between the act of observation and the uncertainty principle. The act of observation, by its nature, seeks to reduce uncertainty, while the uncertainty principle asserts that there is a fundamental limit to the precision with which certain pairs of physical properties can be known."
+      }
+    ]
+  },
+  {
+    "paragraph": "Since in connection with this situation it is tempting to consider the possi-\nbility of eliminating all uncertainties by amalgamating the object, the meas-\nuring apparatuses, and the observer into one quantum-mechanical system,\nit is important to emphasize that the act of measurement is necessarily vis-\nualizable, since, of course, physics is ultimately only concerned with the sys-\ntematic description of space-time processes. The behaviour of the observer\nas well as his measuring apparatus must therefore be discussed according to\nthe laws of classical physics, as otherwise there is no further physical problem\nwhatsoever. Within the measuring apparatus, as emphasized by Bohr, all\nevents in the sense of the classical theory will therefore be regarded as deter-\nmined, this also being a necessary condition before one can, from a result of\nmeasurements, unequivocally conclude what has happened. In quantum theo-\nry, too, the scheme of classical physics which objectifies the results of ob-\nservation by assuming in space and time processes obeying laws is thus car-\nried through up to the point where the fundamental limits are imposed by\nthe unvisualizable character of the atomic events symbolized by Planck’s\nconstant. A visual description for the atomic events is possible only within\ncertain limits of accuracy - but within these limits the laws of classical phys-\nics also still apply. Owing to these limits of accuracy as defined by the un-\ncertainty relations, moreover, a visual picture of the atom free from am-\nbiguity has not been determined. On the contrary the corpuscular and the\nwave concepts are equally serviceable as a basis for visual interpretation.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The behaviour of the observer as well as his measuring apparatus must therefore be discussed according to the laws of classical physics, as otherwise there is no further physical problem whatsoever.",
+        "Metaphorical Phrase": "there is no further physical problem whatsoever",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding quantum mechanics is likened to solving a physical problem",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "Within the measuring apparatus, as emphasized by Bohr, all events in the sense of the classical theory will therefore be regarded as determined, this also being a necessary condition before one can, from a result of measurements, unequivocally conclude what has happened.",
+        "Metaphorical Phrase": "all events in the sense of the classical theory will therefore be regarded as determined",
+        "Type": "Structural",
+        "Conceptual Mapping": "The predictability of classical physics is understood as events being determined",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "In quantum theory, too, the scheme of classical physics which objectifies the results of observation by assuming in space and time processes obeying laws is thus carried through up to the point where the fundamental limits are imposed by the unvisualizable character of the atomic events symbolized by Planck’s constant.",
+        "Metaphorical Phrase": "the fundamental limits are imposed by the unvisualizable character of the atomic events",
+        "Type": "Structural",
+        "Conceptual Mapping": "The constraints of quantum theory are seen as unvisualizable characteristics of atomic events",
+        "creativity": "genuine"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Since in connection with this situation it is tempting to consider the possibility of eliminating all uncertainties by amalgamating the object, the measuring apparatuses, and the observer into one quantum-mechanical system, it is important to emphasize that the act of measurement is necessarily visualizable, since, of course, physics is ultimately only concerned with the systematic description of space-time processes.",
+        "terms_in_conflict": [
+          "eliminating all uncertainties",
+          "act of measurement is necessarily visualizable"
+        ],
+        "explanation": "The paradox lies in the idea of eliminating all uncertainties by merging the object, measuring apparatuses, and observer into one quantum-mechanical system, while also maintaining that the act of measurement must be visualizable. Quantum mechanics is inherently probabilistic and uncertain, while visualization implies a degree of certainty and determinism.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Within the measuring apparatus, as emphasized by Bohr, all events in the sense of the classical theory will therefore be regarded as determined, this also being a necessary condition before one can, from a result of measurements, unequivocally conclude what has happened.",
+        "terms_in_conflict": [
+          "all events in the sense of the classical theory will therefore be regarded as determined",
+          "quantum theory"
+        ],
+        "explanation": "The paradox here is the conflict between the deterministic nature of classical physics, where all events are regarded as determined, and the inherent uncertainty of quantum theory.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "A visual description for the atomic events is possible only within certain limits of accuracy - but within these limits the laws of classical physics also still apply.",
+        "terms_in_conflict": [
+          "visual description for the atomic events",
+          "laws of classical physics"
+        ],
+        "explanation": "The paradox lies in the attempt to visually describe atomic events, which are quantum in nature and thus inherently uncertain, while also applying the laws of classical physics, which are deterministic and visualizable.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "--- Page 10 ---\nDEVELOPMENT OF QUANTUM MECHANICS 299",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The laws of quantum mechanics are basically statistical. Although the\nparameters of an atomic system are determined in their entirety by an ex-\nperiment, the result of a future observation of the system is not generally\naccurately predictable. But at any later point of time there are observations\nwhich yield accurately predictable results. For the other observations\nonly the probability for a particular outcome of the experiment can be given.\nThe degree of certainty which still attaches to the laws of quantum me-\nchanics is, for example, responsible for the fact that the principles of conser-\nvation for energy and momentum still hold as strictly as ever. They can be\nchecked with any desired accuracy and will then be valid according to the\naccuracy with which they are checked. The statistical character of the laws\nof quantum mechanics, however, becomes apparent in that an accurate\nstudy of the energetic conditions renders it impossible to pursue at the same\ntime a particular event in space and time.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The laws of quantum mechanics are basically statistical.",
+        "Metaphorical Phrase": "The laws of quantum mechanics are basically statistical.",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantum mechanics laws are statistical models",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "The statistical character of the laws of quantum mechanics, however, becomes apparent in that an accurate study of the energetic conditions renders it impossible to pursue at the same time a particular event in space and time.",
+        "Metaphorical Phrase": "an accurate study of the energetic conditions renders it impossible to pursue at the same time a particular event in space and time.",
+        "Type": "Structural",
+        "Conceptual Mapping": "Studying energetic conditions is like trying to follow two events simultaneously",
+        "creativity": "genuine"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "For the clearest analysis of the conceptual principles of quantum mechan-\nics we are indebted to Bohr who, in particular, applied the concept of com-\nplementarity to interpret the validity of the quantum-mechanical laws. The\nuncertainty relations alone afford an instance of how in quantum mechanics\nhe exact knowledge of one variable can exclude the exact knowledge of\nanother. This complementary relationship between different aspects of one\nand the same physical process is indeed characteristic for the whole structure\nof quantum mechanics. I had just mentioned that, for example, the de-\nermination of energetic relations excludes the detailed description of space-\ntime processes. Similarly, the study of the chemical properties of a molecule\nis complementary to the study of the motions of the individual electrons\nin the molecule, or the observation of interference phenomena complemen-",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "FullSentence": "The uncertainty relations alone afford an instance of how in quantum mechanics the exact knowledge of one variable can exclude the exact knowledge of another.",
+        "MetaphoricalPhrase": "the exact knowledge of one variable can exclude the exact knowledge of another",
+        "Type": "Structural",
+        "ConceptualMapping": "Knowledge is a limited resource"
+      },
+      {
+        "FullSentence": "This complementary relationship between different aspects of one and the same physical process is indeed characteristic for the whole structure of quantum mechanics.",
+        "MetaphoricalPhrase": "complementary relationship between different aspects",
+        "Type": "Ontological",
+        "ConceptualMapping": "Quantum mechanics is a complex relationship"
+      },
+      {
+        "FullSentence": "I had just mentioned that, for example, the determination of energetic relations excludes the detailed description of space-time processes.",
+        "MetaphoricalPhrase": "the determination of energetic relations excludes the detailed description of space-time processes",
+        "Type": "Structural",
+        "ConceptualMapping": "Energy knowledge is a barrier to space-time knowledge"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The uncertainty relations alone afford an instance of how in quantum mechanics the exact knowledge of one variable can exclude the exact knowledge of another.",
+        "terms_in_conflict": [
+          "exact knowledge of one variable",
+          "exact knowledge of another"
+        ],
+        "explanation": "This is a paradox because in classical physics, knowing one variable does not exclude the knowledge of another. However, in quantum mechanics, the more precisely one property is known, the less precisely the other can be known. This is known as the Heisenberg Uncertainty Principle.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Similarly, the study of the chemical properties of a molecule is complementary to the study of the motions of the individual electrons in the molecule.",
+        "terms_in_conflict": [
+          "study of the chemical properties of a molecule",
+          "study of the motions of the individual electrons"
+        ],
+        "explanation": "This is a paradox because in classical physics, the study of the chemical properties of a molecule and the study of the motions of the individual electrons in the molecule would be considered separate, independent studies. However, in quantum mechanics, these two studies are complementary, meaning they are mutually exclusive yet necessary to fully understand the system.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "ary to the observation of individual light quanta. Finally, the areas of valid-\nity of classical and quantum mechanics can be marked off one from the other\nas follows: Classical physics represents that striving to learn about Nature\nin which essentially we seek to draw conclusions about objective processes\nfrom observations and so ignore the consideration of the influences which\nevery observation has on the object to be observed; classical physics, therefore,\nhas its limits at the point from which the influence of the observation on the\nevent can no longer be ignored. Conversely, quantum mechanics makes pos-\nsible the treatment of atomic processes by partially foregoing their space-\ntime description and objectification.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "Classical physics represents that striving to learn about Nature in which essentially we seek to draw conclusions about objective processes from observations and so ignore the consideration of the influences which every observation has on the object to be observed;",
+        "Metaphorical Phrase": "Classical physics represents that striving to learn about Nature",
+        "Type": "Structural",
+        "Conceptual Mapping": "Classical physics is a journey of knowledge discovery",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "classical physics, therefore, has its limits at the point from which the influence of the observation on the event can no longer be ignored.",
+        "Metaphorical Phrase": "classical physics, therefore, has its limits at the point",
+        "Type": "Structural",
+        "Conceptual Mapping": "Classical physics is a bounded territory",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "Conversely, quantum mechanics makes possible the treatment of atomic processes by partially foregoing their space-time description and objectification.",
+        "Metaphorical Phrase": "quantum mechanics makes possible the treatment of atomic processes",
+        "Type": "Structural",
+        "Conceptual Mapping": "Quantum mechanics is a facilitator of process treatment",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "Full sentence": "Classical physics represents that striving to learn about Nature in which essentially we seek to draw conclusions about objective processes from observations and so ignore the consideration of the influences which every observation has on the object to be observed; classical physics, therefore, has its limits at the point from which the influence of the observation on the event can no longer be ignored.",
+        "Terms/concepts in conflict": [
+          "Classical physics",
+          "Observation",
+          "Influence of observation"
+        ],
+        "Short explanation of the paradox": "The paradox lies in the fact that classical physics aims to understand nature objectively through observation, but at the same time, it ignores the influence that observation itself has on the object being observed. This creates a contradiction because the act of observation inherently alters the state of the object, thus limiting the objectivity of classical physics."
+      },
+      {
+        "Full sentence": "Conversely, quantum mechanics makes possible the treatment of atomic processes by partially foregoing their space-time description and objectification.",
+        "Terms/concepts in conflict": [
+          "Quantum mechanics",
+          "Space-time description",
+          "Objectification"
+        ],
+        "Short explanation of the paradox": "The paradox here is that quantum mechanics, while aiming to describe atomic processes, partially abandons the space-time description and objectification of these processes. This is contradictory because the description and objectification of processes are fundamental to understanding them, yet quantum mechanics foregoes these aspects to some extent."
+      }
+    ]
+  },
+  {
+    "paragraph": "So as not to dwell on assertions in excessively abstract terms about the\ninterpretation of quantum mechanics, I would like briefly to explain with",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 11 ---\n300 1932 W.HEISENBERG",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a well-known example how far it is possible through the atomic theory to\nachieve an understanding of the visual processes with which we are con-\ncerned in daily life. The interest of research workers has frequently been\nfocused on the phenomenon of regularly shaped crystals suddenly forming\nfrom a liquid, e.g. a supersaturated salt solution. According to the atomic\ntheory the forming force in this process is to a certain extent the symmetry\ncharacteristic of the solution to Schrédinger’s wave equation, and to that\nextent crystallization is explained by the atomic theory. Nevertheless this\nprocess retains a statistical and - one might almost say - historical element\nwhich cannot be further reduced: even when the state of the liquid is com-\npletely known before crystallization, the shape of the crystal is not deter-\nmined by the laws of quantum mechanics. The formation of regular shapes\nis just far more probable than that of a shapeless lump. But the ultimate shape\nowes its genesis partly to an element of chance which in principle cannot\nbe analysed further.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The interest of research workers has frequently been focused on the phenomenon of regularly shaped crystals suddenly forming from a liquid, e.g. a supersaturated salt solution.",
+        "Metaphorical Phrase": "regularly shaped crystals suddenly forming",
+        "Type": "Structural",
+        "Conceptual Mapping": "Formation of crystals is a spontaneous occurrence",
+        "creativity": "uncertain"
+      },
+      {
+        "Full Sentence": "The formation of regular shapes is just far more probable than that of a shapeless lump.",
+        "Metaphorical Phrase": "far more probable than that of a shapeless lump",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Regular and orderly outcomes are more likely than disordered ones",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "But the ultimate shape owes its genesis partly to an element of chance which in principle cannot be analysed further.",
+        "Metaphorical Phrase": "owes its genesis partly to an element of chance",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Creation or formation is influenced by randomness or unpredictability",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "Full sentence": "According to the atomic theory the forming force in this process is to a certain extent the symmetry characteristic of the solution to Schrédinger’s wave equation, and to that extent crystallization is explained by the atomic theory.",
+        "Terms/concepts in conflict": [
+          "Atomic theory",
+          "Schrédinger’s wave equation"
+        ],
+        "Short explanation of the paradox": "The atomic theory suggests that the formation of crystals is a deterministic process, governed by the symmetry characteristic of the solution to Schrédinger’s wave equation."
+      },
+      {
+        "Full sentence": "Nevertheless this process retains a statistical and - one might almost say - historical element which cannot be further reduced: even when the state of the liquid is completely known before crystallization, the shape of the crystal is not determined by the laws of quantum mechanics.",
+        "Terms/concepts in conflict": [
+          "Statistical element",
+          "Laws of quantum mechanics"
+        ],
+        "Short explanation of the paradox": "Despite the deterministic explanation provided by atomic theory, the process of crystallization also has a statistical element, suggesting that the outcome is not entirely predictable, even when the initial state of the liquid is known. This introduces a paradox between the deterministic laws of quantum mechanics and the inherent unpredictability of the process."
+      }
+    ]
+  },
+  {
+    "paragraph": "Before closing this report on quantum mechanics, I may perhaps be al-\nlowed to discuss very briefly the hopes that may be attached to the further\ndevelopment of this branch of research. It would be superfluous to mention\nthat the development must be continued, based equally on the studies of\nde Broglie, Schrédinger, Born, Jordan, and Dirac. Here the attention of the\nresearch workers is primarily directed to the problem of reconciling the\nclaims of the special relativity theory with those of the quantum theory. The\nextraordinary advances made in this field by Dirac about which Mr. Dirac\nwill speak here, meanwhile leave open the question whether it will be pos-\nsible to satisfy the claims of the two theories without at the same time deter-\nmining the Sommerfeld fine-structure constant. The attempts made hitherto\nto achieve a relativistic formulation of the quantum theory are all based on\nvisual concepts so close to those of classical physics that it seems impossible\nto determine the fine-structure constant within this system of concepts. The\nexpansion of the conceptual system under discussion here should, further-\nmore, be closely associated with the further development of the quantum\ntheory of wave fields, and it appears to me as if this formalism, notwith-\nstanding its thorough study by a number of workers (Dirac, Pauli, Jordan,\nKlein, Wigner, Fermi) has still not been completely exhausted. Important\npointers for the further development of quantum mechanics also emerge\nfrom the experiments involving the structure of the atomic nuclei. From\ntheir analysis by means of the Gamow theory, it would appear that between\nthe elementary particles of the atomic nucleus forces are at work which dif-",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "From their analysis by means of the Gamow theory, it would appear that between the elementary particles of the atomic nucleus forces are at work which dif-",
+        "Metaphorical phrase": "forces are at work",
+        "Type": "Structural",
+        "Conceptual Mapping": "Forces are workers"
+      },
+      {
+        "Full sentence": "Important pointers for the further development of quantum mechanics also emerge from the experiments involving the structure of the atomic nuclei.",
+        "Metaphorical phrase": "pointers ... emerge",
+        "Type": "Structural",
+        "Conceptual Mapping": "Ideas are physical entities that can appear or emerge"
+      },
+      {
+        "Full sentence": "The expansion of the conceptual system under discussion here should, furthermore, be closely associated with the further development of the quantum theory of wave fields, and it appears to me as if this formalism, notwithstanding its thorough study by a number of workers (Dirac, Pauli, Jordan, Klein, Wigner, Fermi) has still not been completely exhausted.",
+        "Metaphorical phrase": "formalism ... has still not been completely exhausted",
+        "Type": "Structural",
+        "Conceptual Mapping": "Ideas are resources that can be exhausted"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The extraordinary advances made in this field by Dirac about which Mr. Dirac will speak here, meanwhile leave open the question whether it will be possible to satisfy the claims of the two theories without at the same time determining the Sommerfeld fine-structure constant.",
+        "terms_in_conflict": [
+          "satisfy the claims of the two theories",
+          "determining the Sommerfeld fine-structure constant"
+        ],
+        "explanation": "The paradox lies in the tension between the need to reconcile the claims of special relativity theory and quantum theory, and the simultaneous need to determine the Sommerfeld fine-structure constant. The author suggests that these two goals may be mutually exclusive.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "The attempts made hitherto to achieve a relativistic formulation of the quantum theory are all based on visual concepts so close to those of classical physics that it seems impossible to determine the fine-structure constant within this system of concepts.",
+        "terms_in_conflict": [
+          "relativistic formulation of the quantum theory",
+          "determine the fine-structure constant"
+        ],
+        "explanation": "The paradox here is that the attempts to reconcile quantum theory with relativity theory are based on concepts from classical physics. However, these classical concepts seem to make it impossible to determine the fine-structure constant, which is a key aspect of quantum mechanics.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "--- Page 12 ---\nDEVELOPMENT OF QUANTUM MECHANICS 301",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "fer somewhat in type from the forces determining the structure of the atomic\nshell; Stem’s experiments seem, furthermore, to indicate that the behaviour\nof the heavy elementary particles cannot be represented by the formalism\nof Dirac’s theory of the electron. Future research will thus have to be pre-\npared for surprises which may otherwise come both from the field of expe-\nrience of nuclear physics as well as from that of cosmic radiation. But how-\never the development proceeds in detail, the path so far traced by the quan-\ntum theory indicates that an understanding of those still unclarified features\nof atomic physics can only be acquired by foregoing visualization and ob-\njectification to an extent greater than that customary hitherto. We have\nprobably no reason to regret this, because the thought of the great epis-\ntemological difficulties with which the visual atom concept of earlier physics\nhad to contend gives us the hope that the abstracter atomic physics developing",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Future research will thus have to be prepared for surprises which may otherwise come both from the field of experience of nuclear physics as well as from that of cosmic radiation.",
+        "Metaphorical phrase": "prepared for surprises",
+        "Type": "Structural",
+        "Conceptual Mapping": "Research is a journey"
+      },
+      {
+        "Full sentence": "But however the development proceeds in detail, the path so far traced by the quantum theory indicates that an understanding of those still unclarified features of atomic physics can only be acquired by foregoing visualization and objectification to an extent greater than that customary hitherto.",
+        "Metaphorical phrase": "the path so far traced by the quantum theory",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific development is a path"
+      },
+      {
+        "Full sentence": "We have probably no reason to regret this, because the thought of the great epistemological difficulties with which the visual atom concept of earlier physics had to contend gives us the hope that the abstracter atomic physics developing",
+        "Metaphorical phrase": "the great epistemological difficulties with which the visual atom concept of earlier physics had to contend",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Conceptual difficulties are obstacles"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "at present will one day fit more harmoniously into the great edifice of\nScience.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "at present will one day fit more harmoniously into the great edifice of Science.",
+        "Metaphorical phrase": "fit more harmoniously into the great edifice of Science",
+        "Type": "Structural",
+        "Conceptual Mapping": "Scientific knowledge is a building"
+      }
+    ],
+    "paradoxes": []
+  }
+]

@@ -1,0 +1,1617 @@
+[
+  {
+    "paragraph": "1. Quantisierung als Eigenwertiproblem;\nvon E. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$1. Die Hamiltonsche Analogie zwischen Mechanik und Optik,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Bevor wir daran gehen, das Eigenwertproblem der Quanten-\ntheorie für weitere spezielle Systeme zu behandeln, wollen wir\nden allgemeinen Zusammenhang näher beleuchten, welcher\nzwischen der Hamiltonschen partiellen Differentialgleichung\n(H.P.) eines mechanischen Problems und der „zugehörigen“\nWellengleichung, d. i. im Falle des Keplerproblems der Glei-\nchung (5) der ersten Mitteilung, besteht, Wir hatten diesen\nZusammenhang vorläufig nur kurz seiner äußeren analytischen\nStruktur nach beschrieben durch die an sich unverständliche\nTransformation (2) und den ebenso unverständlichen Übergang\nvon der Nullsetzung eines Ausdrucks zu der Forderung, daß\ndas Raumintegral des nämlichen Äusdruckes stationär sein. soll.?)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Der innere Zusammenhang der Hamiltonschen Theorie\nmit dem Vorgang der Wellenausbreitung ist nichts weniger\nals neu. Er war Hamilton selbst nicht nur wohlbekannt,\nsondern bildete für ihn den Ausgangspunkt seiner Theorie der\nMechanik, die aus seiner Optik inhomogener Medien hervor-\ngewachsen ist.) Das Hamiltonsche Variationsprinzip kann",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Siehe diese Annalen 79. 8.361. 1926. Es ist zum Verständnis\nnicht unbedingt nötig, die erste Mitteilung vor der zweiten zu lesen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2) Dieser Rechenvorgang wird in der vorliegenden Mitteilung nicht\nweiter verfolgt. Er sollte nur zur vorläufigen raschen Orientierung über\nden äußerliehen Zusammenhang zwischen der Wellengleichung und der\nH.P. dienen. steht nicht wirklich zur Wirkungsfunktion einer be-\nstimmten Bewegung in der von der Gleichung (2) der ersten Mitteilung\nbehaupteten Beziehung. — Hingegen ist der Zusammenhang der Wellen-\ngleichung und der Variationsaufgabe selbstverständlich höchst real: der\nIntegrand des stationären Integrals ist die Lagrange-Funktion für den\nWellenvorgang. -",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8) Vgl. z.B. E. T. Whittaker, Analytische Dynamik (Deutsche\nAusgabe bei Springer 1924). Kap. 11. $. 306.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Annalen der Physik. IV. Folge. 79. 32",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 2 ---\n490 B. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "als Fermatsches Prinzip für eine Wellenausbreitung im Kon-\nfigurationenraum (g-Raum) aufgefaßt werden, die H.P. spricht\ndas Huygenssche Prinzip für diese Wellenausbreitung aus\nLeider ist dieser kraftvolle und folgenschwere Ideenkreis Ha-\nmiltons in den meisten modernen Wiedergaben seines schönen\nanschaulichen Gewandes als eines überflüssigen Beiwerks be-\nraubt worden zugunsten einer mehr farblosen Darstellung der\nanalytischen Zusammenhänge.!)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Betrachten wir das allgemeine Problem der klassischen\nMechanik konservativer Systeme. Die H.P, lautet vollständig",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "W ist die Wirkungsfunktion, d. h, das Zeitintegral der La-\ngrangefunktion 7—7 entlang einer Systembahn als Funktion\nder Endlage und der Zeit. g, steht als Repräsentant der\nLagekoordinaten, 7 ist die kinetische Energie als Funktion\nder Lage- und Impulskoordinaten, eine quadratische Form\nder letzteren, für welche nach Vorschrift die partiellen Diffe-\nrentialquotienten von 7’ nach den g, eingetragen sind. 7 ist\ndie potentielle Energie. Zur Lösung der Gleichung macht man\nden Ansatz",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(2) W=— Et+8(q),\nwodurch dieselbe übergeht in\n(6b) 27(M, Zr) -2(E- vr).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "E ist eine erste willkürliche Integrationskonstante und be-\ndeutet bekanntlich die Systemenergie. Entgegen der üblichen",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Felix Klein hat seit dem Sommer 1891 in seinen Vorlesungen\nüber Mechanik wiederholt die Jacobische Theorie aus quasi-optischen\nBetrachtungen in niechteuklidischen höheren Räumen entwickelt, Vgl.\nF. Klein, Jahresber. d. Deutsch. Math, Ver. 1. 1891 und Zischr. f.\nMath. u. Phys. 46. 1901. (Ges.-Abh. If, $. 601 u. 608}. In der zweiten\nNote stellt Klein mit leiehtem Vorwurf fest, daß sein Vortrag vor der\nNaturforscherversammlung in Halle, worin er zehn Jahre vorher diese\nZusammenhänge dargelegt und die große Bedeutung der Hamilton-\nschen optischen Abhandlungen betont hatte, „nicht die allgemeine Beach-\ntung gefunden hat, die ich für ihn in Aussicht nahm“. — Ich verdanke\nden Hinweis auf F. Klein einer freundlichen brieflichen Mitteilung Hrn,\nProf, Sommerfelds. $. a. „Atombau‘ 4, Aufl, 8. 808.",
+    "paragraph_type": "Hybrid",
+    "metaphors": [
+      {
+        "Satz": "Felix Klein hat seit dem Sommer 1891 in seinen Vorlesungen über Mechanik wiederholt die Jacobische Theorie aus quasi-optischen Betrachtungen in niechteuklidischen höheren Räumen entwickelt",
+        "Bildhafter Ausdruck": "quasi-optischen Betrachtungen in niechteuklidischen höheren Räumen",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die komplexe mathematische Theorie wird als eine Art optische Betrachtung in einem nicht-euklidischen Raum dargestellt, um zu verdeutlichen, dass es sich um eine andere Art von Raum und Perspektive handelt."
+      },
+      {
+        "Satz": "In der zweiten Note stellt Klein mit leiehtem Vorwurf fest, daß sein Vortrag vor der Naturforscherversammlung in Halle, worin er zehn Jahre vorher diese Zusammenhänge dargelegt und die große Bedeutung der Hamilton- schen optischen Abhandlungen betont hatte, „nicht die allgemeine Beach- tung gefunden hat, die ich für ihn in Aussicht nahm“.",
+        "Bildhafter Ausdruck": "nicht die allgemeine Beach- tung gefunden hat, die ich für ihn in Aussicht nahm",
+        "Typ": "Kontextuell",
+        "Konzeptuelle Zuordnung": "Die Anerkennung und Beachtung für Kleins Arbeit wird als etwas dargestellt, das in Aussicht genommen wurde, als ob es eine Landschaft oder ein bestimmtes Ziel auf einer Reise wäre."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 3 ---\nQuantisierung als Eigenwertproblem. 491",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Gepflogenheit haben wir in (1’) die Funktion W selbst stehen\nlassen, anstatt wie üblich, die zeitfreie Koordinatenfunktion $\nhineinzuschreiben. Das ist eine reine Äußerlichkeit.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Aussage der Gleichung (1’) 1äßt sich nun höchst ein-\nfach aussprechen, wenn man sich der Ausdrucksweise von\nHeinrich Hertz bedient. Sie wird, wie alle geometrischen\nAussagen im Konfigurationenraum (Raum der Variablen g,)\nbesonders einfach und anschaulich, wenn man in diesem Raum\nmittels der kinetischen Energie des Systems eine nichteuklidi-\nsche Maßbestimmung einführt. Sei 7 die kinetische Energie\nals Funktion der Geschwindigkeiten g,, nicht wie oben der Im-\nPulse, so setze man für das Linienelement",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die rechte Seite enthält dt nur äußerlich, sie meint (mittels\ng,dt= dq,) eine quadratische Form der qg,.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nach dieser Festsetzung darf man bekanntlich von Be-\ngriffen wie: Winkel zweier Linienelemente, Senkrechtstehen,\nDivergenz und Rotation eines Vektors, Gradient eines Skalars,\nLaplacesche Operation (= div grad) eines Skalars u, ä. ganz\ndenselben einfachen Gebrauch machen, wie im dreidimensio-\nnalen euklidischen Raum, man darf sich zum Denken un-\ngestraft der euklidischen dreidimensionalen Vorstellung be-\ndienen, nur die analytischen Ausdrücke für diese Begriffe\nwerden ein ganz klein wenig komplizierter, indem durchwegs\nan Stelle des euklidischen Linienelements das Linienelement (3)\nzu treten hat. Wir setzen fest, daß im folgenden alle geome-\ntrischen Aussagen im g-Raum in diesem nichteuklidischen Sinn zu\nverstehen sind.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Für die Rechnung ist eine der wichtigsten Abänderungen,\ndaß man sorgfältig zwischen kovarianten und kontravarianten\nKomponenten eines Vektors oder Tensors zu unterscheiden hat.\nAber diese Komplikation ist nicht größer als schon im Falle\neines schiefwinkeligen Kartesischen Axenkreuzes.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Für die Rechnung ist eine der wichtigsten Abänderungen, daß man sorgfältig zwischen kovarianten und kontravarianten Komponenten eines Vektors oder Tensors zu unterscheiden hat.",
+        "Bildhafter Ausdruck": "sorgfältig zwischen kovarianten und kontravarianten Komponenten eines Vektors oder Tensors zu unterscheiden",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Dieser Ausdruck veranschaulicht die Notwendigkeit, verschiedene Aspekte oder Komponenten eines komplexen mathematischen Konzepts (hier: Vektoren oder Tensoren) zu verstehen und zu unterscheiden. Die Metapher strukturiert das abstrakte mathematische Konzept in eine Form, die einfacher zu verstehen und zu handhaben ist."
+      },
+      {
+        "Satz": "Aber diese Komplikation ist nicht größer als schon im Falle eines schiefwinkeligen Kartesischen Axenkreuzes.",
+        "Bildhafter Ausdruck": "Komplikation ist nicht größer als schon im Falle eines schiefwinkeligen Kartesischen Axenkreuzes",
+        "Typ": "Ontologisch",
+        "Konzeptuelle Zuordnung": "Die Metapher vergleicht die Komplexität des Unterscheidens von kovarianten und kontravarianten Komponenten mit der eines 'schiefwinkeligen kartesischen Axenkreuzes'. Diese bildhafte Sprache ersetzt ein abstraktes Konzept (Komplikation oder Schwierigkeit) durch ein konkreteres, erfahrbares Phänomen."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die dg, sind das Prototyp eines kontravarianten Vektors.\nDie von den g, abhängigen Koeffizienten der Form 27 haben\ndaher kovarianten Charakter, sie bilden den kovarianten Fun-\ndamentaltensor. 27 ist die zu 27 gehörige kontravariante\nForm, denn die Impulskoordinaten bilden bekanntlich den zum",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 4 ---\n\"493 E, Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Geschwindigkeitsvektor g, gehörigen kovarianten Vektor, der\nImpuls ist der Geschwindigkeitsvektor in kovarianter Gestalt.\nDie linke Seite von (1) ist nun nichts weiter als die kontra-\nvariante Fundamentalform, in welche als Variable die 0 W/ög,\neingetragen sind. Letztere bilden die Komponenten des seiner\nNatur nach kovarianten Vektors",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(Diesen Sinn also hat die Umrechnung der kinetischen Energie .\nvon den Geschwindigkeiten auf die Impulse, daß man kovariante\nVektorkomponenten nur in eine kontravariante Form eintragen\ndarf, wenn etwas Sinnvolles, d. h. Invariantes resultieren soll.)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Gleichung (1’) deckt sich daher mit der einfachen Aussage",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Gleichung (1’) deckt sich daher mit der einfachen Aussage",
+        "Bildhafter Ausdruck": "deckt sich",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Übereinstimmung von Informationen"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "9) (grad W = EN)\noder\n1”) Igrad 7 | = YE—P).\nDiese Forderung ist leicht zu analysieren. Gesetzt, es sei eine\nFunktion W [von der Gestalt (2)] gefunden, die dieser Forderung\ngenügt. Dann kann man diese Funktion für ein: bestimmtes t\njedenfalls anschaulich darstellen, indem man im g-Raum die\nFlüchenschar 9 = const, einzeichnet und zu einer jeden ihren\nW-Wert hinzuschreibt. |",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Dann kann man diese Funktion für ein: bestimmtes t jedenfalls anschaulich darstellen, indem man im g-Raum die Flüchenschar 9 = const, einzeichnet und zu einer jeden ihren W-Wert hinzuschreibt.",
+        "Bildhafter Ausdruck": "anschaulich darstellen",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Darstellung von abstrakten mathematischen Konzepten"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nun gibt einerseits, wie wir sogleich zeigen werden, die\nGleichung (1”) eine genaue Konstruktionsvorschrift, um aus\nirgendeiner Fläche dieser Schar, wenn sie und ihr W-Wert be-\nkannt ist, sukzessive alle übrigen und ihre W-Werte zu kon-\nstruieren. Andererseits läßt sich das einzige zu dieser Kon-\nstruktion benötigte Datum, nämlich die eine Fläche und ihr\nW-Wert, völlig willkürlich vorgeben und alsdann nach der Kon-\nstruktionsvorschrift genau zweideutig zu einer der Forderung\ngenügenden Funktion W ergänzen. Bei alledem denken wir\nvorläufig. die Zeit konstant. — Die Konsiruktionsvorschrift\nerschöpft also den Inhalt der Differentialgleichung, man kann\njede ihrer Lösungen aus einer passend angenommenen Fläche\nplus X-Wert erhalten.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nun zur Konstruktionsvorschrift. Sei also, Fig. 1, auf\neiner willkürlichen Fläche der Wert 7, vorgeschrieben. Um\ndie Fläche zu finden, welcher der Wert W, +dJP, zugehört,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 5 ---\nQuantisierung als Eigenweriproblem. 493",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "bezeichne man ein Ufer der vorgegebenen Fläche willkürlich\nals das positive, errichte in jedem Flächenpunkt das Lot und\ntrage auf ihm (unter Rücksicht auf das Vorzeichen von dP,)\ndie Strecke\n _1M",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(4) ds= ar\nab. Die Endpunkte der Lote erfüllen die Fläche #, +d#W,.\nSo fortfahrend kann man sukzessive die Flächenschar nach\nbeiden Ufern hin konstruieren.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Konstruktion ist zweideutig, denn man hätte vor dem\nersten Schritt auch das andere Ufer als das positive bezeichnen",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "können. Für die späteren Schritte besteht diese Zweideutig-\nkeit aber nicht mehr, d. h. man kann nicht in irgendeinem\nspäteren Stadium des Prozesses die Uferbezeichnung der Fläche,\nzu der man just gelangt ist, willkürlich wechseln, denn das\nwürde im allgemeinen eine Unstetigkeit der ersten Differential-\nquotienten von 7 involvieren. Übrigens sind die zwei Flächen-\nscharen, zu denen man in den beiden Fällen gelangt, offenbar\nidentisch, nur die hinzugeschriebenen W-Werte laufen in um-\ngekehrter Richtung.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "man kann nicht in irgendeinem späteren Stadium des Prozesses die Uferbezeichnung der Fläche, zu der man just gelangt ist, willkürlich wechseln, denn das würde im allgemeinen eine Unstetigkeit der ersten Differentialquotienten von 7 involvieren.",
+        "Bildhafter Ausdruck": "die Uferbezeichnung der Fläche, zu der man just gelangt ist, willkürlich wechseln",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Metapher verwendet die Vorstellung eines Uferwechsels, um das Konzept der Unveränderlichkeit bestimmter Parameter in einem fortgeschrittenen Stadium eines wissenschaftlichen Prozesses zu veranschaulichen."
+      },
+      {
+        "Satz": "die hinzugeschriebenen W-Werte laufen in umgekehrter Richtung.",
+        "Bildhafter Ausdruck": "W-Werte laufen in umgekehrter Richtung",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Metapher verwendet die Vorstellung des 'Laufens in umgekehrter Richtung', um den Prozess der Veränderung von Werten in entgegengesetzter Richtung darzustellen."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Betrachten wir nun die höchst einfache Abhängigkeit von\nder Zeit, so zeigt Gleichung (2), daß auch zu irgendeinem\nspäteren (oder früheren) Zeitpunkt ? +? die nämliche Flächen-\nschar die F-Verteilung veranschaulicht, nur sind zu den ein-\nzelnen Flächen andere 77-Werte hinzuzuschreiben, u. zwar ist\nvon jedem der zur Zeit £ angeschriebenen W-Werte BE?’ zu\nsubtrahieren. Die W-Werte wandern sozusagen nach einem",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 6 ---\n494 E. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "bestimmten einfachen Gesetz von Fläche zu Fläche, und zwar\nbei positivem Z in Richtung der wachsenden 7-Werte. Statt\ndessen kann man sich vorstellen, daß die Flächen fortwandern,\nindem jede die Gestalt und Lage der nächstfolgenden annimmt,\nund dabei ihren W-Wert mit sich führt. Das Wanderungs-\ngesetz der Flächen ist dadurch gegeben, daß z. B. die Fläche\nW, zur Zeit t-+- dt die Lage erreicht haben muß, welche zur\nZeit die Fläche W, + Pdt innehatte. Das wird nach (4) er-\nzielt, indem man jeden Punkt der Fläche 7, in der Richtung\ndes positiven Lotes um",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "yaß-vj\nfortwandern läßt. D.h. die Flächen verschieben sich mit einer\nNormalengeschwindigkeit\n(&) ud\nde” Var-m’.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "die nach Vorgabe der Konstante Z eine reine Ortsfunktion ist.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Jetzt erkennt man, daß unser Flächensystem W = const.\naufgefaßt werden kann als das System der Wellenflächen einer\nfortschreitenden, aber stationären Wellenbewegung im g-Raum,\nfür welche der Betrag der Phasengeschwindigkeit in jedem\nPunkt des Raumes durch (6) gegeben ist. Denn die Lotkon-\nstruktion läßt sich offenbar ersetzen durch die Konstruktion\nder Huygensschen Elementarwellen [mit dem Radius (5)]\nund ihrer Enveloppe. Der „Brechungsindex“ ist dem Rezi-\nprokwert von (6) proportional, er ist abhängig vom Ort, aber\nnicht von der Richtung. Der g-Raum ist also optisch in-\nhomogen aber isotrop. Die Elementarwellen sind Kugeln, aller-\ndings — wie hier wieder einmal ausdrücklich gesagt sei —\nKugeln im Sinne des Linienelements (3).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Wirkungsfunktion 7 spielt für unser Wellensystem\ndie Rolle der Phase. Die H.P. ist der Ausdruck des Huy-\ngensschen Prinzips. Formuliert man das Fermatsche Prinzip",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "so wird man direkt auf das Hamiltonsche Prinzip in der\nMaupertuisschen Form geführt (wo die Zeitintegrale mit dem",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 7 ---\nQuantisierung als Bigenwertproblem. 495",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "üblichen grano salis zu verstehen sind, d.h. 7+ 7 = H=const,,\nauch bei der Variation.) Die „Strahlen“, d. h. die Orthogonal-\ntrajektorien der Wellenflächen sind also Bahnen des Systems\nfür den Energiewert 7, in Übereinstimmung mit dem wohl-\nbekannten Gleichungssystem",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ö\n& P,= Im’\nwelches aussagt, daß aus jeder speziellen Wirkungsfunktion\neine Schar von Systembahnen abgeleitet werden kann wie eine\nStrömung aus ihrem Geschwindigkeitspotential‘) (Die Im-\npulse p, bilden ja einfach den kovarianten Geschwindigkeits-\nvektor, die Gleichungen (8) sagen aus, daß er dem Gradienten\nder Wirkungsfunktion gleich ist)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Trotzdem in den vorstehenden Überlegungen von Wellen-\nflächen, Fortpflanzungsgeschwindigkeit, Huygensschem Prin-\nzip die Rede ist, hat man dieselben doch eigentlich nicht als\neine Analogie der Mechanik mit der Wellenoptik, sondern mit\n‘der geometrischen Optik anzusehen. Denn der Begriff der\nStrahlen, auf den es für die Mechanik dann hauptsächlich an-\nkommt, gehört der geometrischen Optik an, er ist nur ihr ein\nscharfer Begriff. Auch das Fermatsche Prinzip 1äBt sich rein\ngeometrisch-optisch fassen mit alleiniger Benützung des Be-\ngriffes Brechungsindex. Und das System der W.Flächen, als\nWellenflächen aufgefaßt, steht zur mechanischen Bewegung vor-\nerst in einer etwas loseren Beziehung insofern, als der Bild-\npunkt des mechanischen Systems auf dem Strahl keineswegs\netwa mit der Wellengeschwindigkeit = fortrückt, sondern im\nGegenteil, seine Geschwindigkeit ist (bei konstantem E) pro-\nportional I/x. Sie ergibt sich ja direkt aus (3) als",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Trotzdem in den vorstehenden Überlegungen von Wellenflächen, Fortpflanzungsgeschwindigkeit, Huygensschem Prinzip die Rede ist, hat man dieselben doch eigentlich nicht als eine Analogie der Mechanik mit der Wellenoptik, sondern mit der geometrischen Optik anzusehen.",
+        "Bildhafter Ausdruck": "Analogie der Mechanik mit der Wellenoptik",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Mechanik und die Wellenoptik werden als ähnlich dargestellt, um zu erklären, dass sie ähnliche Prinzipien und Eigenschaften haben."
+      },
+      {
+        "Satz": "Und das System der W.Flächen, als Wellenflächen aufgefaßt, steht zur mechanischen Bewegung vorerst in einer etwas loseren Beziehung insofern, als der Bildpunkt des mechanischen Systems auf dem Strahl keineswegs etwa mit der Wellengeschwindigkeit = fortrückt, sondern im Gegenteil, seine Geschwindigkeit ist (bei konstantem E) proportional I/x.",
+        "Bildhafter Ausdruck": "Bildpunkt des mechanischen Systems auf dem Strahl",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Bewegung eines Punktes in einem mechanischen System wird als Bewegung entlang eines Strahls dargestellt, um die Art der Bewegung zu erklären."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Diese Nichtübereinstimmung ist einleuchtend. Erstens nach (8);\ndie Systempunktgeschwindigkeit ist groß, wo grad 7 groß ist,\nd.h. wo die 7-Flächen sich dicht zusammendrängen, d.h. wo",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Vgl. besonders A. Einstein, Verh. d.D. Physik. Ges. 19. 8. 77,\n82. 1917. Die an dieser Stelle gegebene Fassung der Quantenbedingungen\nsteht unter allen älteren Fassungen der vorliegenden am nächsten.\nAuch de Broglie hat auf sie zurückgegriffen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 8 ---\n496 E. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "u klein ist. Zweitens aus der Bedeutung von 77 als Zeitintegral\nder Lagrangefunktion: dieses verändert natürlich während der\nBewegung [während dt um (7— di], daher kann der Bild-\npunkt nicht beständig mit derselben 7-Fläche in Kontakt\nbleiben. \" ö",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Und so treten denn auch wichtige Begriffe der Wellen-\nlehre, wie Amplitude, Wellenlänge, Frequenz — oder all-\ngemeiner gesprochen die Wellenform — in der Analogie gar’\nnicht auf, es fehlt zu ihnen eine mechanische Parallele; von\nder Wellenfunktion selbst wird gar nicht gesprochen, 77 hat\nfür die Wellen nur die — bei der Unbestimmtheit der Wellen-\nform eigentlich etwas verschwommene — Bedeutung der Phase.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Erblickt man in der ganzen Parallele nicht mehr als ein\nerfreuliches Anschauungsmittel, dann ist dieser Mangel in keiner\nWeise störend und man wird den Versuch, ihn zu beheben, als\nmüßige Spielerei empfinden: die Analogie besteht eben wit der\ngeometrischen, oder, wenn man durchaus will, mit einer sehr\nprimitiven Wellenoptik, und nicht mit der vollausgebauten\nWellenoptik. Daß die geometrische Optik für das Zicht nur\neine grobe Näherung ist, ändert daran nichts. Beim weiteren\nAusbau der g-Raumoptik in wellentheoretischem Sinn müßte\nman, um die Analogie zu erhalten, geradezu dafür sorgen, daß\nman sich nicht merklich vom geometrisch-optischen Grenzfall\nentfernt; etwa indem man die Fellenlänge hinreichend klein\nwählt!), klein gegen alle Bahndimensionen. Dann lehrt aber\ndie Zutat nichts neues, sie behängt das Bild nur mit Über-\nHüssigem.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "So könnte man zunächst meinen. Aber schon der erste\nVersuch einer wellentheoretischen Ausgestaltung führt auf so\nfrappante Dinge, daß. ein ganz anderer Verdacht aufsteigt:\nwir wissen doch heute, daß unsere klassische Mechanik bei sehr\nhleinen Bahndimensionen und sehr starken Bahnkrümmungen ver-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Vgl. für den optischen Fall A. Sommerfeld und Iris Runge,\nAnn. d. Phys, 85. $. 290. 1911. Dort wird (in Ausführung einer münd-\nlichen Bemerkung P. Debyes) gezeigt, wie sich die Gleichung erster\nOrdnung und aweiien Grades für die Phase („Hamiltonsche Gleichung‘)\naus der Gleichung zweiter Ordnung und ersten Grades für die Wellen-\nFunktion („Wellengleichung“) im Grenzfall verschwindender Wellenlänge\nexakt ableiten läßt. .",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 9 ---\nQuantisierung als Bigenwertproblem. 497",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "sagt. Vielleicht ist dieses Versagen eine volle Analogie zum\nVersagen der geometrischen Optik, d. h. der „Optik mit un-\nendlich kleiner Wellenlänge“, das bekanntlich eintritt, sobald\ndie „Hindernisse* oder „Öffnungen“ nicht mehr groß sind gegen\ndie wirkliche, endliche Wellenlänge. Vielleicht ist unsere\nklassische Mechanik das volle Analogon der geometrischen Optik\nund als solches falsch, nicht in Übereinstimmung mit der Wirk-\nlichkeit, sie versagt, sobald die Krümmungsradien und Dimen-\nsionen der Bahn nicht mehr groß sind gegen eine gewisse\nWellenlänge, der im g-Raum reale Bedeutung zukommt. Dann\ngilt es, eine „undulatorische Mechanik“ zu suchen!) — und der\nnächstliegende Weg dazu ist: wohl die wellentheoretische Aus-\ngestaltung des Hamiltonschen Bildes.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "82. „Geometrische“ und „undulatorische“ Mechanik.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir machen zunächst die Annahme, daß es ein zutreffen-\nder Ausbau der Analogie ist, die oben betrachteten Wellen-\nsysteme als Sinuswellen aufzufassen. Das ist das einfachste\nund naheliegendste, doch muß die Pilkür, die darin liegt,\nwegen der grundlegenden Bedeutung dieser Annahme unter-\nstrichen werden. Es soll also die Wellenfunktion die Zeit nur\nin Form eines Faktors sin(.....) enthalten, dessen Argument\neine lineare Funktion von /# ist. Der Koeffizient von W muß,\nda # eine Wirkung, die Phase eines Sinus aber eine un-\nbenannte Zahl ist, die Dimension einer reziproken Wirkung\nhaben. Wir nehmen an, daß er universell sei, d. h. nicht bloß\nvon Z, sondern auch von der Natur des mechanischen Systems\nunabhängig. Wir dürfen ihn wohl sogleich mit 2m/h be-\nzeichnen. Der Zeitfaktor lautet also",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(10) sin Fr + const) = sin (- em + Eur + const) .\nDamit ergibt sich die Frequenz » der Wellen zu",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es ergibt sich also die Frequenz der g-Raumwellen ohne merk-\nliche Künstelei der Systemenergie proportional?) Das hat",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Vgl. a. A. Einstein, Berl. Ber. 8. yff, 1925.\n2) In der ersten Mitteilung war diese Beziehung im Rahmen einer\nbloßen Spekulation lediglich als Näherungsgleichung aufgetreten.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 10 ---\n498 B. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "freilich erst Sinn, wenn Z absolut, nicht, wie in der klassischen\nMechanik, nur bis auf eine additive Konstante festgelegt ist,\nVon dieser additiven Konstante unabhängig ist die Wellenlänge\nnach (6) und (11)\n(12) Reli —&_,\n»  VaB-P)\ndenn der Radikand ist die doppelte kinetische Energie. Machen\nwir einen ganz vorläufigen rohen Vergleich dieser Wellenlänge\nmit den Bahndimensionen eines Wasserstoffelektrons, wie die\nklassische Mechanik sie ergibt, so ist zu beachten, daß zu-\nfolge (8) eine „Strecke“ in unserem g-Raum nicht die Dimension\neiner Länge, sondern Länge mal Masse hat. Dieselbe Dimen-\nsion hat 4. Wir haben also (wie man leicht überlegt) A zu\ndividieren durch die Bahndimension, sagen wir a (cm), mal\nQuadratwurzel aus der Elektronenmasse m. Der Quotient ist\ngrößenordnungsmäßig\nh\n\\ ma’",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wo v für den Augenblick die Elektronengeschwindigkeit (em/sec\"!).\nDer Nenner mva hat die Größenordnung des mechanischen\nImpulsmomentes. Daß dieses für Keplerbahnen von atomaren\nDimensionen mindestens die Größenordnung 10°?” erreicht,\nfolgt vor aller Quantentheorie aus den bekannten Werten der\nElektronenladung und -masse. Wir erhalten also für die\nGrenze des üngenäherten Geltungsbereiches der klassischen Me-\nchanik tatsächlich die richtige Größenordnung, wenn wir unsere\nKonstante 3 mit dem Planckschen Wirkungsquantum identi-\nfizieren. — Dies nur zur vorläufigen Orientierung.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Der Nenner mva hat die Größenordnung des mechanischen Impulsmomentes.",
+        "Bildhafter Ausdruck": "die Größenordnung des mechanischen Impulsmomentes",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Größenordnung des Nenners wird mit der Größenordnung des mechanischen Impulsmomentes verglichen"
+      },
+      {
+        "Satz": "Daß dieses für Keplerbahnen von atomaren Dimensionen mindestens die Größenordnung 10°?” erreicht, folgt vor aller Quantentheorie aus den bekannten Werten der Elektronenladung und -masse.",
+        "Bildhafter Ausdruck": "Keplerbahnen von atomaren Dimensionen",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Keplerbahnen von atomaren Dimensionen steht metaphorisch für den Pfad von Elektronen um den Atomkern"
+      },
+      {
+        "Satz": "Wir erhalten also für die Grenze des üngenäherten Geltungsbereiches der klassischen Mechanik tatsächlich die richtige Größenordnung, wenn wir unsere Konstante 3 mit dem Planckschen Wirkungsquantum identifizieren.",
+        "Bildhafter Ausdruck": "Grenze des üngenäherten Geltungsbereiches der klassischen Mechanik",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Grenze des Geltungsbereichs steht für die maximale Anwendungsmöglichkeit klassischer Mechanik"
+      },
+      {
+        "Satz": "Dies nur zur vorläufigen Orientierung.",
+        "Bildhafter Ausdruck": "vorläufigen Orientierung",
+        "Typ": "Kontextuell",
+        "Konzeptuelle Zuordnung": "Die 'vorläufige Orientierung' steht für eine vorläufige Erklärung oder Richtung im Kontext der wissenschaftlichen Diskussion"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Drückt man in (6) 3 nach (11) durch » aus, so erhält nian",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "% \"men\nDie Akhängigkeit der Wellengeschwindigkeit von der System-\nenergie wird also zu einer eigenartigen Abhängigkeit von der\nFrequenz, d. h. zu einem Dispersionsgesetz für die Wellen.\nDieses Dispersionsgesetz bietet großes Interesse. Wir haben\nim & 1 darauf hingewiesen, daß die wandernden Wellenflächen\nmit der Bewegung des Systempunktes insofern nur in einem\nloseren Zusammenhang stehen, als ihre Geschwindigkeiten nicht",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 11 ---\nQuantisierung als Bigenwertproblem. 499",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "gleich sind und nicht gleich sein können. Nach (9), (11) und (6')\nhat nun die Systemgeschwindigkeit v» doch auch für die Wellen\neine sehr konkrete Bedeutung. Man bestätigt sofort, daß",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "d. h. die Geschwindigkeit des Systempunktes ist die einer\nWellengruppe, die einen kleinen Frequenzbereich erfüllt (Signal-\ngeschwindigkeit). Man findet hier einen ‘Satz wieder, den Hr.\nde Broglie in den schönen Untersuchungen‘), welchen ich\ndie Anregung zu dieser Arbeit verdanke, abgeleitet hatte für\ndie „Phasenwellen“ des Elektrons, und zwar unter wesentlicher\nBezugnahme auf die Relativitätstheorie. Man sieht, daß es\nsich um ein Theorem von großer Allgemeinheit handelt, das\nnicht aus der Relativitätstheorie entspringt, sondern auch für\njedes konservative System der gewöhnlichen Mechanik Gel-\ntung hat.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Diese Tatsache läßt sich nun dazu benützen, um eine viel\ninnigere Verbindung zwischen Wellenausbreitung und Bild-\npunktbewegung herzustellen als bisher geschehen. Man kann\nversuchen, eine Wellengruppe aufzubauen, welche in allen\nRichtungen relativ kleine Abmessungen hat. Eine solche\nWellengruppe wird dann voraussichtlich dieselben Bewegungs-\ngesetze befolgen wie ein einzelner Bildpunkt des mechanischen\nSystems. Sie wird sozusagen einen Zrsatz des Bildpunkts ab-\ngeben können, solange man sie als angenähert punktförmig\nansehen kann, d. h. solange man ihre Ausdehnung vernach-\nlässigen darf gegenüber den Dimensionen der Systembahn.\nDas wird allerdings nur dann der Fall sein, wenn die Bahn-\ndimensionen, insbesondere die Krümmungsradien der Bahn,\nsehr groß sind gegen die Wellenlänge. Denn nach Analogie\nmit der gewöhnlichen Optik leuchtet es von vornherein ein,\ndaß sich die Dimensionen der Wellengruppe nicht nur nicht\nunter die Größenordnung der Wellenlänge herabdrücken lassen,\nsondern daß im Gegenteil die Gruppe sich nach allen Rich-\ntungen über eine große Anzahl von Wellenlängen erstrecken",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) L. de Broglie, Annales de Physique (10) 8. 8.22. 1925. (Thöses,\nParis 1924.)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 12 ---\n500 B. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "muß, wenn sie annähernd monochromatisch sein soll. Das aber\nmüssen wir fordern, da .die Wellengruppe ja als Ganzes mit\neiner bestimmten Gruppengeschwindigkeit fortwandern und einem\nmechanischen System von. bestimmter Energie entsprechen soll\n(siehe Gleichung 11).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Soweit ich sehe, lassen sich solche Wellengruppen auf-\nbauen und zwar ganz nach demselben Konstruktionsprinzip, nach\nwelchem Debye!) und von Laue?) in der gewöhnlichen Optik\ndie Aufgabe gelöst haben, die exakte analytische Darstellung\neines Strahlenkegels oder eines Strahlenbündels anzugeben.\nDabei ergibt sich eine sehr interessante Beziehung zu dem in\n81 noch nicht besprochenen Teil der Jacobi-Hamilton-\nschen Theorie, nämlich der wohlbekannten Herleitung der Be-\nwegungsgleichungen in integrierter Form durch Differentiation\neines vollständigen Integrals der H.P. nach den Integrations-\nkonstanten. Wie wir sogleich sehen werden, deckt sich das\neben genannnte Jacobische Gleichungssystem mit der Aus-\nsage: der Bildpunkt des mechanischen Systems fällt dauernd\nzusammen mit demjenigen Punkt, wo ein gewisses Kontinuum\nvon Wellenzügen in gleicher Phase zusammentrifft.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In der Optik erhält man die strenge wellentheoretische\nDarstellung eines „Strahlenbündels“ von „scharf“begrenztem\nendlichem Querschnitt, das gegen einen Brennpunkt und dann\nwieder auseinander läuft, nach Debye auf folgendem Wege:\nman superponiert ebene Wellen, deren jede einzelne für sich\nden ganzen Raum erfüllen würde, und zwar superponiert man\nein Kontinuum solcher Wellenzüge, indem die Wellennormale\ninnerhalb des vorgegebenen Raumwinkels variiert wird. Die\nWellen zerstören sich dann außerhalb eines gewissen Doppel-\nkegels fast vollständig durch Interferenz, sie stellen wellen-\ntheoretisch exakt das gewünschte begrenzte Strahlenbündel dar\nmit allen durch die Begrenzung notwendig bedingten Beugungs-\nerscheinungen. — Ebensogut wie einen endlichen kann man\nauf diese Weise auch einen infinitesimalen Strahlenkegel dar-\nstellen, indem man die Wellennormale der Schar nur inner-\nhalb eines infinitesimalen Raumwinkels variieren läßt. Dies\nhat v. Laue in seiner berühmten Abhandlung über die Frei-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) P. Debye, Ann. d. Phys. 30. 8. 755. 1909.\n2) M. v. Laue, ebendort 44. 8. 1197 (8 2). 1914.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 13 ---\nQuantisierung als Bigenwertproblem. > 501",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "heitsgrade von Strahlenbündeln‘) benützt. Endlich kann man\nanstatt, wie bisher stillschweigend angenommen, mit rein mono-\nchromatischen Wellen zu arbeiten, auch die Frequenz inner-\nhalb eines infinitesimalen Bereiches variieren lassen und durch\npassende Verteilung der Amplituden und Phasen die Erregung\nauf einen Bereich beschränken, der auch in lorgidutinaler\nRichtung verhältnismäßig klein ist, So gewinnt man die ana-\nlytische Darstellung eines „Energiepakets“ von verhältnismäßig\nkleinen Abmessungen, das mit Lichtgeschwindigkeit oder, wenn\nDispersion vorhanden ist, mit der Gruppengeschwindigkeit fort-\nwandert. Dabei ist der jeweilige Ort des Energiepakets —\nwenn es einem auf dessen Detailstruktur nicht ankommt —\nin sehr plausibler Weise gegeben als derjenige Raumpunkt,\nwo alle die superponierten ebenen Wellen in genau überein-\nstimmender Phase zusammentreffen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir wollen diese Überlegung nun auf die g-Raumwellen\nübertragen. Wir wählen zu einer bestimmten Zeit £ einen be-\nstimmten Punkt P des g-Raums aus, den das Wellenpaket zur\nZeit z in vorgegebener Richtung 2 passieren soll. Ferner sei\nvorgeschrieben die mittlere Frequenz v oder der mittlere D-\nWert für das Wellenpaket. Diese Vorgaben entsprechen für\ndas mechanische System genau dem, daß es zu gegebener Zeit\naus einer gegebenen Konfiguration mit gegebenen Geschwindig-\nkeitskomponenten starten soll (Energie plus Richtung gleich\nGeschwindigkeitskomponenten).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Um nun die optische Konstruktion zu übertragen, benötigen\nwir zunächst eine Schar von Wellenflächen zu der verlangten\nFrequenz, d.h. eine Lösung der H.P. (1) für den vorgegebenen\nB-Wert, nennen wir sie W, welche folgende Eigenschaft hat:\ndie zur Zeit £ durch den Punkt P gehende Scharfläche, sagen\nwir\n(14) K=W,\nsoll im Punkte P ihr Lot in der vorgeschriebenen Richtung\nhaben. Damit ist es aber noch nicht genug. Sondern wir\nmüssen nun die Wellenschar W noch in n-facher Weise (r =\nZahl der Freiheitsgrade) unendlich wenig variieren können der-\nart, daß die Wellennormale im Punkte ? ein (n — 1)-dimensio-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 14 ---\n502 “ E. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "nales unendlich kleines Raumwinkelgebiet bestreicht und die\nFrequenz E/h ein eindimensionales unendlich kleines Gebiet,\nwobei dafür Sorge zu tragen ist, daß alle Mitglieder dieses\nunendlich kleinen n-dimensionalen Wellenscharenkontinuums\nzur Zeit € im Punkte P in genau übereinstimmender Phase\nzusammentreffen. Alsdann wird nachzuweisen sein, wo zu\nirgendeiner anderen Zeit derjenige Punkt liegt, für den diese\nÜbereinstimmung aller Phasen statthat.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Um dies zu leisten, wird es genügen, wenn wir über eine\nLösung # der H.P. verfügen, die außer von der Konstante Z,\ndie wir vorübergehend mit «, bezeichnen wollen, noch von\nn—1 weiteren Konstanten «,, &, ...a, in solcher Weise ab-\nhängt, daß sie nicht als eine Funktion von weniger als\nnr Kombinationen dieser » Konstanten geschrieben werden kann.\nDenn dann können wir erstens dem «, den für 3 vorgeschriebenen\nWert erteilen; und wir können zweitens @,, @, ...e, so be-\nstimmen, daß die durch den Punkt ? gehende Scharfläche im\nPunkte P die vorgegebene Lotrichtung R hat. Wir verstehen\nunter &, &, ...w, fortan diese Werte und es sei (14) die zur\nZeit t durch den Punkt P gehende Fläche dieser Schar. Als-\ndann betrachten wir das Scharenkontinuum, welches zu den\n@,-Werten eines angrenzenden infinitesimalen @’Bereiches ge-\nhört. Ein Mitglied dieses Kontinuums, d.h. also eine Schar,\nwird van sein durch",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a) m +2 ne Fam +? ee T day +... +37 da, = Const.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "für einen festen Wertesatz da, de,...de, und varlierende\nConst. Dasjenige Mitglied dieser Schar, Fi h. also diejenige\neinzelne Fläche, die zur Zeit 2 durch den Punkt ? geht, wird\ndurch folgende Wahl der Const. bestimmt:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "re Yin +.. +52 de,\nas) \\..\n4) date. + (9) da",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wobei (9W/d «,), usw. diejenigen Konstanten sind, die man: er-\nhält, wenn man in die betreffenden Differentialguotienten die\nKooräinsten des Punktes P und den Zeitwert 2 einträgt (welch\nletzterer übrigens nur in 67/ö«, wirklich vorkommt).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 15 ---\nQuantisierung als Bigenwertproblem. 508",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Flächen (15’) für alle möglichen Wertesätze da, de,\n... de, bilden ihrerseits eine Schar. Sie gehen zur Zeit £ alle\ndurch den Punkt P, ihre Wellennormalen erfüllen stetig einen\nkleinen räumlichen (n — 1-dimensionalen) Winkel, außerdem\nvariiert ihr Z-Parameter in einem kleinen Bereich. Die Flächen-\nschar (15') ist so entstanden, daß jede der Flächenscharen (15)\nzu (15’) einen Vertreter stellt, nämlich dasjenige Mitglied, das\nzur Zeit ? durch den Punkt P geht.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir wollen nun annehmen, die Phasenwinkel der Wellen-\nfunktionen, die zu den Scharen (15) gehören, stimmen gerade\nauf diesen nach (15’) entsendeten Vertretern überein. Sie stimmen\nalso zur Zeit 2 im Punkte P überein.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir fragen nun: gibt es auch zu einer beliebigen Zeit einen\nPunkt, in welchem alle Flächen der Schar (15’) sich schneiden\nund in welchem daher alle Wellenfunktionen, die zu den Scharen\n(15) gehören, in der Phase übereinstimmen? Die Antwort lautet:\nden Punkt übereinstimmender Phase gibt es, aber es ist nicht\nder gemeinsame Schnittpunkt der Scharflächen (15/), denn einen\nsolchen gibt es zu einer beliebigen Zeit nicht mehr. Vielmehr\nkommt der Punkt übereinstimmender Phase so zustande, daß\ndie Scharen (15) ihre in (15) entsandten Vertreter kontinwier-\nlich auswechseln.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Man erkennt das so. Für den gemeinsamen Schnittpunkt\naller Mitglieder von (15’) zu irgendeiner Zeit müßte gleich-\nzeitig gelten",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8eW oW CH/4 or\na De a EZ\n(16)\n3w_(g7\nde de’",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "weil ja die de, innerhalb eines kleinen Bereiches beliebig sind.\nIn diesen » + 1 Gleichungen sind die rechten Seiten Konstante,\ndie linken Seiten Funktionen von denn -+1 Größen 9,,95-.- u\nDie Gleichungen werden befriedigt für das System der Aus-\ngangswerte, d.h. für die Koordinaten des Punktes P und den\nAusgangszeitpunkt &. Für einen willkürlichen anderen Wert\nvon 2 werden sie in q, ...q, keine Lösungen haben, sondern das\nSystem dieser n Größen überbestimmen.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "sentence": "Die Gleichungen werden befriedigt für das System der Ausgangswerte, d.h. für die Koordinaten des Punktes P und den Ausgangszeitpunkt &.",
+        "figurative_expression": "Die Gleichungen werden befriedigt",
+        "type": "Strukturell",
+        "conceptual_domain": "Gleichungen als etwas, das befriedigt werden kann, konnotiert eine menschliche Emotion oder ein Bedürfnis, das erfüllt wird. Dies verleiht den Gleichungen eine anthropomorphe Eigenschaft.",
+        "creativity": "common"
+      },
+      {
+        "sentence": "Für einen willkürlichen anderen Wert von 2 werden sie in q, ...q, keine Lösungen haben, sondern das System dieser n Größen überbestimmen.",
+        "figurative_expression": "das System dieser n Größen überbestimmen",
+        "type": "Strukturell",
+        "conceptual_domain": "Ein System, das überbestimmt wird, suggeriert eine Person oder Kraft, die Kontrolle über etwas ausübt. Es personalisiert das mathematische System und gibt ihm eine Qualität, die typisch für menschliche Interaktionen ist.",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Man kann aber folgendermaßen vorgehen. Man läßt die\nerste Gleichung, 7 = W,, zunächst beiseite und bestimmt die q,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 16 ---\n504 B. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "als Funktionen der Zeit und der Konstanten gemäß den\nn übrigen Gleichungen. Dieser Punkt heiße 9. Für ihn wird\ndie erste Gleichung nun natürlich nicht erfüllt sein, sondern\nihre linke Seite wird sich von der rechten um einen gewissen\nBetrag unterscheiden. Gehtman auf die Genesis des Gleichungs-\nsystems (16) aus (15) zurück, so bedeutet das eben Gesagte,\ndaß Q zwar nicht ein gemeinsamer Punkt für die Flächen-\nschar (15) ist, wohl aber für eine Flächenschar, die aus (15)\ndadurch hervorgeht, daß man die rechte Seite der Gleichung (15°)\num einen für alle Scharflächen konstanten Betrag ändert. Die\nso erhaltene Schar heiße (15”, Für sie also ist Q gemein-\nsamer Punkt. ‚Sie geht, wie oben vorausgreifend behauptet,\naus der Schar (15) dadurch hervor, daß jede der Scharen (15)\nihren nach (15) entsandten Vertreter auswechselt. Dieses Aus-\nwechseln geschieht durch Abändern der Const. in (15) um\nden gleichen Betrag für alle Vertreter. Dadurch wird aber\nder Phasenwinkel für alle Vertreter um den gleichen Betrag\nabgeändert. Wie die alten, so stimmen also auch die neuen\nVertreter, d. h. die Mitglieder der Schar, die wir (15°) nannten,\nund die sich im Punkt Q schneiden, im Phasenwinkel überein.\nDas heißt also:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "u) d, (), Er 2),\nals Funktion der Zeit bestimmte Punkt 9 ist dauernd ein\nPunkt übereinstimmender Phase für die ganze Schar von\n‚Wellenscharen (15).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Von den » Flächen, als deren Schnittpunkt Q nach (17)\nerscheint, ist nur die erste beweglich, die übrigen stehen fest\n[nur die erste der Gleichungen (17) enthält die Zeit], Dien — 1\nfeststehenden Flächen bestimmen die Bahn des Punktes Q als\nihre Schnittlinie. Es läßt sich leicht zeigen, daß diese Schnitt-\nlinie Orthogonaltrajektorie der Schar 9 = Const. ist. W ge-\nnügt nämlich nach Voraussetzung der HP. (1’) identisch in «,,\n&y... 0%, Differentiert man nun die HP. nach «, (k=2,\n8,...n), so erhält man die Aussage, daß das Flächenlot\neiner Fläche OW/d«, = Const. in jedem Punkt dieser Fläche\nauf dem Flächenlot der durch denselben Punkt gehenden\nFläche W = Const. senkrecht steht, d. h. daß jede der beiden",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 17 ---\nQuantisierung als Bigenwertproblem. 505",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Flächen das Lot der anderen entkält. Ist die Schnittlinie der\nn— 1 feststehenden Flächen (17) unverzweigt, was sicherlich\nim allgemeinen der Fall ist, so muß also jedes Linienelement\nder Schnittlinie, als einziges gemeinsames Linienelement der\nn— 1 Flächen, mit dem Lot der durch denselben Punkt\ngehenden F-Fläche zusammenfallen, d.h. die Schnittlinie ist\nOrthogonaltrajektorie der W-Flächen, w. z. b. w.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sehr viel kürzer, sozusagen stenographisch, kann man die\netwas umständlichen Überlegungen, dieuns zuden Gleichungen (17)\ngeführt haben, auch folgendermaßen zusammenfassen: W be-\ndeutet, von einer universellen Konstante (1/%) abgesehen, den\nPhasenwinkel der Wellenfunktion. Liegt nun nicht bloß ein,\nsondern eine stetige Mannigfaltigkeit von Wellensystemen vor\nund sei dieselbe durch irgendwelche stetige Parameter «, stetig\ngeordnet, so bringen die Gleichungen 9W/d«, = Const. zum\nAusdruck, daß alle unendlich benachbarten Individuen (Wellen-\nsysteme) dieser Mannigfaltigkeit übereinstimmende Phase haben.\nDiese Gleichungen bestimmen also den geometrischen Ort der\nPunkte übereinstimmender Phase. Sind der Gleichungen genug,\nso schrumpft dieser Ort auf einen Punkt zusammen, die\nGleichungen bestimmen dann den Punkt übereinstimmender Phase\nals Funktion der Zeit.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Da das Gleichungssystem (17) mit dem bekannten zweiten\nGleichungssystem von Jacobi übereinstimmt, so haben wir\nalso gezeigt:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Der Punkt übereinstimmender Phase für gewisse n-para-\nmetrige infinitesimale Mannigfaltigkeiten von Wellensystemen be-\nwegt sich nach denselben Gesetzen wie der Bildpunkt des mecha-\nnischen Systems.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Daß nun die Superposition dieser Wellensysteme wirklich\nnur in einer verhältnismäßig kleinen Umgebung des Punktes\nübereinstimmender Phase eine merkliche Erregung gibt, während\nsie sich überall sonst merklich durch Interferenz zerstören;\noder daß das eben Gesagte mindestens bei passender Wahl der\nAmplituden und eventuell bei spezieller Wahl der Form der\nWellenflächen zutrifft; dies exakt zu beweisen, halte ich für\neins sehr schwierige Aufgabe. Ich werde die physikalische\nHypothese, die ich an das zu Beweisende knüpfen will, auf-\nstellen, ohne an diese Aufgabe heranzutreten. Das wird erst",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Annalen der Physik. IV. Folge, 79. 33",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 18 ---\n506 E. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "der Mühe lohnen, wenn die Hypothese sich bewährt und wenn\nihre Anwendung jene Analyse erfordern würde,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hingegen darf man sicher sein, daß der Bereich, auf den\nsich die Erregung beschränken läßt, noch mindestens eine\ngrößere ‚Anzahl von Wellenlängen in jeder Richtung mißt,\nDas ist erstens unmittelbar evident, denn solange man sich .\nvom Punkt übereinstimmender Phase nur um wenige Wellen-\nlängen entfernt, wird die Phasenübereinstimmung kaum tangiert,\ndie Interferenz ist noch fast ebenso günstig, wie in jenem\nPunkte selbst. Zweitens genügt der Hinweis auf den drei-\ndimensionalen euklidischen Fall der gewöhnlichen Optik, um\nsicher zu sein, daß es sich wenigstens im allgemeinen so\nverhält. -",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Was ich nun mit großer Bestimmtheit ‘vermute, ist\nfolgendes:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Das wirkliche mechanische Geschehen wird in zutreffender\nWeise erfaßt oder abgebildet durch die Wellenvorgänge im\ng-Raum und nicht durch die Bewegung von Bildpunkten in\ndiesem Raum. Das Studium der Bildpunktbewegung, welches\nden Gegenstand der klassischen Mechanik bildet, ist nur ein\nNäherungsverfahren und hat als solches genau dieselbe Be-\nrechtigung wie die geometrische oder Strahlenoptik den wirk-\nlichen optischen Vorgängen gegenüber. Ein makroskopischer\nmechanischer Vorgang wird abzubilden sein als Wellensignal\nvon der oben beschriebenen Art, das mit hinreichender\nNäherung als punktförmig angesehen werden kann im Vergleich\nmit der geometrischen Struktur der Bahnkurve. Wir haben\ngesehen, daß dann für ein solches Signal oder Wellengruppe\nwirklich genau dieselben Bewegungsgesetze gelten, die die\nklassische Mechanik für den Bildpunkt aufstellt. Diese Be-\nhandlungsweise verliert aber jeden Sinn, wenn die Bahnstruktur\nnicht mehr sehr grob gegen die Wellenlänge oder gar mit ihr\nvergleichbar ist. Alsdann muß die strenge wellentheoretische\nBehandlung eintreten, d.h. man muß, um sich von der Mannig-\nfaltigkeit der möglichen Vorgänge ein Bild zu machen, von\nder Wellengleichung ausgehen und nicht von den Grundgleichungen\nder Mechanik, Letztere sind zur Erklärung der_Mikrostruktur\ndes mechanischen Geschehens ebenso unbrauchbar, wie die\ngeometrische Optik zur Erklärung der Beugungserscheinungen.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 19 ---\nQuantisierung als Eigenwertproblem. 507",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wenn eine gewisse Deutung dieser Mikrostruktur im An-\nschluß an die klassische Mechanik, freilich unter sehr künst-\nlichen Zusatzannahmen, überhaupt gelungen ist und praktische\nErfolge von höchster Bedeutung aufzuweisen hat, so scheint\nes mir sehr bezeichnend, daß diese Theorie — ich meine die\nQuantentheorie in der von Sommerfeld, Schwarzschild,\nEpstein u. a. bevorzugten Form — gerade mit der H.P. und\nmit der Hamilton-Jacobischen Lösungstheorie im intimsten\nZusammenhang steht, d. h. mit derjenigen Form der klassischen\nMechanik, welche schon den deutlichsten Hinweis auf den\nwahren undulatorischen Charakter des mechanischen Ge-\nschehens enthält. Die H.P, entspricht ja dem Huygens-\nschen Prinzip (in seiner alten naiven, nicht in der strengen\nKirchhoffschen Form), Und wie dieses, ergänzt durch einige\ndem geometrischen Optiker ganz unverständliche Vorschriften\n(Fresnelsche Zonenkonstruktion), schon in weitgehendem Maß\nden Beugungserscheinungen gerecht wird, so konnte von der\nTheorie der Wirkungsfunktion aus Licht auf die Vorgänge im\nAtom fallen. Dagegen mußte man sich in unauflösliche Wider-\nsprüche verwickeln, als man — was freilich sehr natürlich\nwar — auch für diese Atomvorgänge den Begriff der System-\nbahnen aufrecht zu erhalten versuchte; ebenso wie man sich\nin Unverständlichkeiten verliert, wenn man im Bereich einer\nBeugungserscheinung dem Verlauf der Lichtstrahlen nachzugehen\nversucht.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Man denke sich einmal folgendes. Ich will damit noch\nkein zutreffendes Bild des wirklichen Geschehens geben, das\nvon dieser Seite her schlechterdings nicht zu gewinnen ist,\nsondern nur zu gewinnen ist durch Untersuchung der Wellen-\ngleichung; ich will bloß die Sachlage rein qualitativ illustrieren.\nAlso man denke sich, eine Wellengruppe von der oben be-\nschriebenen Beschaffenheit gerate irgendwie auf eine kleine,\netwa geschlossene „Bahn“, deren Dimensionen nur von der\nGrößenordnung der Wellenlänge sind, also Alein gegen die Ab-\nmessungen der Wellengruppe selbst. Es ist klar, daß dann\ndie „Systembahn“ im Sinne der klassischen Mechanik, das ist\ndie Bahn des Punktes genau übereinstimmender Phase, ihre\nausgezeichnete Rolle vollkommen einbüßen wird, weil vor,\nhinter und neben diesem Punkt ein ganzes Kontinuum von",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 20 ---\n508 B. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Punkten ausgebreitet ist, in denen noch fast ebenso voll-\nkommene Phasenübereinstimmung besteht und die. gänzlich\nandere „Bahnen“ beschreiben. Anders gesprochen: die Wellen-\ngruppe erfüllt nicht nur den ganzen Bahnbereich auf einmal,\nsondern reicht nach allen Richtungen noch weit über ihn\nhinaus, .",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In diesem Sinne deute ich mir die nach Hın. de Broglie\ndie Bahn des Elektrons begleitenden „Phasenwellen“, in dem\nSinne also, daß, jedenfalls im Atomverband, der Elektronen-\nbahn selbst keinerlei ausgezeichnete Bedeutung zukommt und\nnoch weniger dem Ort des Elektrons auf seiner Bahn, Und\nin diesem Sinne deute ich die heute mehr und mehr zum\nDurchbruch kommende Überzeugung erstens: daß der Phase\nder Elektronenbewegungen im Atom die reale Bedeutung ab-\nzusprechen sei; zweitens: daß man nicht einmal behaupten\nkönne, das Elektron befinde sich in einem bestimmten Zeit- _\nmoment auf’ einer bestimmten von den durch die Quanten-\nbedingungen ausgesonderten Quantenbahnen; drütens: die\nwahren Gesetze der Quantenmechanik bestünden nicht in be-\nstimmten Vorschriften für die einzelne Bahn, sondern in diesen\nwahren Gesetzen seien die Elemente der ganzen Bahnen-\nmannigfaltigkeit eines Systems durch Gleichungen verbunden,\nso daß scheinbar eine gewisse Wechselwirkung zwischen den\nverschiedenen Bahnen bestehe.)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Es ist nicht unverständlich, daß eine sorgfältige Analyse\ndes experimentell Gegebenen zu Behauptungen dieser Art\nführen muß, wenn das experimentell Gegebene der Ausfluß\neiner solehen Struktur des wirklichen Geschehens ist, wie wir\nsie hier vertreten. Alle diese Behauptungen steuern ja syste-\nmatisch der Auflösung des Begriffes „Elektronenort“ und\n„Elektronenbahn“ zu, entschließt man sich zu dieser Auf-\nlösung nicht, so bleiben sie widerspruchsvoll. Dieser Wider-\nspruch ist so stark empfunden worden, daß man daran ge-\nzweifelt hat, ob das Geschehen im Atom sich überhaupt\nder räumlich-zeitlichen Form des Denkens werde eingliedern\nlassen. Vom philosophischen Standpunkt aus würde ich eine",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Vgl. besonders die an späterer Stelle zitierten Arbeiten von\n.Heisenberg, Born, Jordan, Dirae, ferner N. Bohr, Die Natur-\nwissenschaften, Januar 1926.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 21 ---\nQuantisierung als Eigenwertproblem. 509",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "endgültige Entscheidung in diesem Sinne einer vollständigen\nWaffenstreckung gleich erachten. Denn wir können die Denk-\nformen nicht wirklich ändern und was wir innerhalb derselben\nnicht verstehen können, das können wir überhaupt nicht ver-\nstehen. Es gibt solche Dinge — aber ich glaube nicht, daß\ndie Atomstruktur zu ihnen gehört. — Von unserem Stand-\npunkte aus besteht aber zu solchem Zweifel gar kein Grund,\nobwohl oder besser gesagt, weil sein Auftauchen außerordent-\nlich verständlich ist. So könnte ja auch ein geometrischer\nOptiker, der bei seinen fortgesetzten Versuchen, den Beugungs-\nerscheinungen mittels des in der makroskopischen Optik be-\nwährten Strahlbegriffes beizukommen, beständig scheitert, ein\nsolcher könnte, sage ich, zu guterletzt vielleicht auf den Ge-\ndanken kommen, daß die Gesetze der Geometrie auf die Beugungs-\nerscheinungen nicht anwendbar sind, da er beständig darauf\ngeführt wird, daß die ihm als geradlinig und voneinander\nunabhängig bekannten Lichtstrablen nun auf einmal auch im\nhomogenen Medium die merkwürdigsten Krümmungen auf-\nweisen und sich sichtlich gegenseitig beeinflussen. Ich halte\ndiese Analogie für sehr eng. Sogar zu den unmotivierten\nKrümmungen fehlt das Analogon im Atom nicht — man denke\nan den zur Deutung der anomalen Zeemaneffekte ersonnenen\n„unmechanischen Zwang“.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In welcher Weise wird man nun bei der undulatorischen\nAusgestaltung der Mechanik in den Fällen, wo sie sich als\nnotwendig erweist, vorzugehen haben? Man muß statt von den\nGrundgleichungen der Mechanik von einer Wellengleichung\nfür den g-Raum ausgehen und die Mannigfaltigkeit der nach",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ihr möglichen Vorgänge betrachten. Die Wellengleichung\nwurde in dieser Mitteilung noch nicht explizite benützt und",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "“überhaupt noch nicht: aufgestellt. Das einzige Datum zu ihrer\nAufstellung ist die durch (6) oder (6') als Funktion des mecha-\nnischen Energieparameters bzw. der Frequenz gegebene Wellen-\ngeschwindigkeit und durch dieses Datum ist die Wellengleichung\nselbstverständlich nicht eindeutig festgelegt. Eis ist gar nicht\nausgemacht, daß sie gerade von der zweiten Ordnung sein\nmuß, nur das Bestreben nach Einfachheit veranlaßt dazu, es\nzunächst einmal damit zu versuchen, Man wird dann für die\nWellenfunktion y ansetzen",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 22 ---\n510 . BE. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "gültig für Vorgänge, welche von der Zeit nur durch einen\nFaktor e?='r! abhängen. Das heißt also, mit Beachtung von\n(6), (6°) und (11)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(18‘) div grad y + = v-Nu=0,\nbzw.\n(18”) div grad y+ FB Ny=0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Differentialoperationen sind selbstverständlich mit Be-\nziehung auf das Linienelement (8) zu verstehen. — Aber selbst\nunter den Ansätzen zweiter Ordnung ist dieser nicht der\neinzige mit (6) verträgliche, es wäre die Verallgemeinerung\nmöglich, daß man div grad y durch",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ersetzt, wo f eine beliebige Funktion der g, sein kann, die\nfreilich plausibler Weise irgendwie von EZ, 7(g,) und den\nKoeffizienten des Linienelements (8) abhängen müßte (man\nkönnte z.B. an = « denken). Unser Ansatz ist wieder von\ndem Bestreben nach Einfachheit diktiert, doch halte ich dies-\nfalls eine Irreleitung nicht für ausgeschlossen. !)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Unterschiebung einer parziellen Differentialgleichung\nals Ersatz der Grundgleichungen der Dynamik für die Atom-\nprobleme erscheint nun im ersten Augenblick äußerst mißlich\nwegen der ungeheuren Mannigfaltigkeit von Lösungen, die\neiner solchen Gleichung eignet. Schon die klassische Dynamik\nhatte nicht etwa auf eine zu beschränkte, sondern auf eine\nviel zu umfangreiche Mannigfaltigkeit von Lösungen geführt,\nnämlich auf eine kontinuierliche Schar, während nach aller\nErfahrung nur eine diskontinuierliche Menge dieser Lösungen\nverwirklicht zu sein scheint. Die Aufgabe der Quantentheorie\nist nach der herrschenden Auffassung gerade die, aus der\nkontinuierlichen Schar der nach der klassischen Mechanik\nmöglichen Bahnen, die diskrete Schar der wirklich auftretenden",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Die Einführung von f(q,) bedeutet, daß nicht bloß die „Dichte“\nsondern auch die „Elastizität“ mit dem Orte variiert.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 23 ---\nQuantisierung als Bigenwertproblem. 5il",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "auszusondern durch die „Quantenbedingungen“. Es scheint\nein übler Anfang für einen neuen Versuch in dieser Richtung,\nwenn er damit beginnt, die Zahl der Lösungen, ihrer trans-\nzendenten Größenordnung nach, zu steigern, statt zu ver-\nmindern.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Zwar läßt sich auch das Problem der klassischen Dynamik\nin das Gewand einer partiellen Gleichung kleiden, nämlich\neben in die H.P. Aber die Mannigfaltigkeit der Problem-\nlösungen entspricht nicht der Mannigfaltigkeit der Lösungen\nder H.P. Eine beliebige „vollständige“ Lösung der H.P. löst\ndas mechanische Problem restlos, irgendeine andere vollständige\nLösung liefert dieselben Bahnen, nur in anderer Zusammen--\nfassung zu Bahnmannigfaltigkeiten.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Was nun die gegenüber der Gleichung (18), als Grund-\nlage der Atomdynamik, geäußerte Befürchtung anlangt, so will\nich zwar durchaus nicht behaupten, daß nicht weitere Zusatz-\nbestimmungen zu dieser Gleichung werden hinzutreten müssen.\nSie werden aber vermutlich nicht mehr einen so gänzlich\nfremdartigen und unverstandenen Charakter haben wie die bis-\nherigen „Quantenbedingungen“, sondern von demjenigen Typus\nsein, den wir in der Physik bei einer partiellen Differential-\ngleichung gewohnt sind: als Anfangs- oder Randbedingungen,\nSie werden auch in keiner Weise den Quantenbedingungen\nanalog sein. Denn es zeigt sich in allen Fällen der klassischen\nDynamik, die ich bisher untersucht habe, daß die Gleichung (18)\ndie Quantenbedingungen in sich trägt, Sie sondert in gewissen\nFällen, und zwar in denjenigen, in denen die Erfahrung dafür\nspricht, selbsttätig gewisse Frequenzen oder Energieniveaus als\ndie für stationäre Vorgänge allein möglichen aus, ohne irgend-\neine weitere Zusatzannahme als die für eine physikalische\nGröße beinahe selbstverständliche Anforderung an die\nFunktion w: dieselbe soll im ganzen Konfigurationenraum\neindeutig endlich und stetig sein.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Sie werden aber vermutlich nicht mehr einen so gänzlich fremdartigen und unverstandenen Charakter haben wie die bisherigen „Quantenbedingungen“, sondern von demjenigen Typus sein, den wir in der Physik bei einer partiellen Differentialgleichung gewohnt sind: als Anfangs- oder Randbedingungen.",
+        "Bildhafter Ausdruck": "einen so gänzlich fremdartigen und unverstandenen Charakter haben",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Metapher vergleicht die Quantenbedingungen mit fremdartigen und unverstandenen Charakteren, um ihre Komplexität und Unbekanntheit zu verdeutlichen."
+      },
+      {
+        "Satz": "Sie sondert in gewissen Fällen, und zwar in denjenigen, in denen die Erfahrung dafür spricht, selbsttätig gewisse Frequenzen oder Energieniveaus als die für stationäre Vorgänge allein möglichen aus, ohne irgendeine weitere Zusatzannahme als die für eine physikalische Größe beinahe selbstverständliche Anforderung an die Funktion w: dieselbe soll im ganzen Konfigurationenraum eindeutig endlich und stetig sein.",
+        "Bildhafter Ausdruck": "selbsttätig gewisse Frequenzen oder Energieniveaus als die für stationäre Vorgänge allein möglichen aus",
+        "Typ": "Ontologisch",
+        "Konzeptuelle Zuordnung": "Die Metapher stellt die Frequenzen oder Energieniveaus als selbsttätige Entitäten dar, die selbstständig handeln, um die Komplexität des physikalischen Prozesses zu verdeutlichen."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die geäußerte Befürchtung verwandelt sich also in ihr\nGegenteil, jedenfalls was die Energieniveaus oder sagen wir\nvorsichtiger, die Frequenzen betrifft. (Denn was es mit der\n„Einergie der Schwingungen“ auf sich hat, ist eine Frage für\nsich, man darf nicht vergessen, daß es sich ja nur gerade\nbeim Einkörperproblem um etwas handelt, das die Deutung",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 24 ---\n512 B. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "als Schwingungen im wirklichen dreidimensionalen Raum un-\nmittelbar gestattet‘) Die Bestimmung der Quantenniveaus\nerfolgt nicht mehr in zwei innerlich getrennten Etappen: 1. Be-\nstimmung aller dynamisch möglichen Bahnen. 2. Perwerfung\ndes übergroßen Teiles der sub 1. gewonnenen Lösungen und\nAussonderung einiger weniger durch spezielle Forderungen;\nvielmehr sind die Quantenniveaus auf einmal als die Bigenwerte\nder Gleichung (18) bestimmt, welche ihre natürlichen Rand-\nbedingungen in sich. trägt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Inwieweit dadurch in komplizierteren Fällen auch eine\nanalytische Erleichterung erzielt werden wird, entzieht sich\nderzeit noch meiner Beurteilung. _Ich möchte das aber ver-\nmuten. Es haben wohl die meisten Analytiker das Gefühl,\ndaß bei dem oben beschriebenen etappenweisen Vorgehen sub I)\ndie Lösung eines komplizierteren Problems geleistet werden\nmuß, als für das Endergebnis: Energie als, meist sehr einfache\nrationale, Funktion der Quantenzahlen — eigentlich erfordert\nwürde. Schon die Verwendung der Hamilton-Jacobischen\nMethode bringt bekanntlich eine große Vereinfachung, indem\ndie wirkliche Durchrechnung der mechanischen Lösung um-\ngangen wird. Es ‚genügt, die Integrale, welche die Impulse\ndarstellen, anstatt für variable obere Grenze bloß für einen im\nKomplexen geschlossenen Integrationsweg auszuwerten, was\nviel weniger Mühe macht, Immerhin muß die vollständige\nLösung der H.P, wirklich bekannt, d.h. durch Quadraturen\ndargestellt, es muß also die Integration des mechanischen\nProblems prinzipiell für beliebige Anfangswerte geleistet sein.\n— Bei der Aufsuchung der Eigenwerte einer ' Differential-\ngleichung geht man nun allerdings in praxi auch meistens so\nvor, daß man zuerst die Lösung ohne Rücksicht auf die Rand-\noder Stetigkeitsbedingungen aufsucht und aus der.Gestalt der\nLösung diejenigen Parameterwerte abliest, für welche die\nLösung den genannten Bedingungen genügt. Ein Bei-\nspiel dafür gibt unsere erste Mitteilung. Man erkennt an\ndiesem Beispiel aber auch — was für Eigenwertprobleme\ntypisch ist —, daß die Lösung, die allgemein nur in recht\nschwer zugänglicher analytischer Form gegeben war [&lei-\nchung (12) a.a.0.], sich für die zu der „natürlichen Rand-\nbedingung“ gehörigen Eigenwerte ganz außerordentlich ver-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 25 ---\nQuantisierung als Eigenwertproblem. 513",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "einfacht. Ich bin nicht genügend orientiert darüber, ob schon\njetzt direkte Methoden zur Berechnung der Eigenwerte aus-\ngearbeitet sind. Für die Verteilung der Eigenwerte hoher\nOrdnumgszahl ist das bekanntlich der Fall. Aber dieser Grenz-\nfall interessiert hier gerade nicht, er entspricht der klassischen,\nmakroskopischen Mechanik. Für die Spektroskopie und Atom-\nphysik überhaupt werden gerade die ersten 5 oder 10 Eigen-\nwerte von Interesse sein, schon der erste allein wäre ein großer\nErfolg, er bestimmt die Ionsierungsspannung. Bei der scharf-\numrissenen Fassung, die sich jeder Eigenwertaufgabe als\nMaximum-Minimumaufgabe ohne jede direkte Beziehung auf\ndie Differentialgleichung geben läßt, erscheint es mir sehr\nwahrscheinlich, daß direkte Methoden zur wenigstens an-\ngenäherten Berechnung der Eigenwerte sich werden auffinden\nlassen, sobald das dringende Bedürfnis dazu besteht. Zum\nmindesten sollte es möglich sein, in einzelnen Fällen zu unter-\nsuchen, ob die numerisch durch die Spektroskopie mit aller\nwünschenswerten Genauigkeit bekannten Eigenwerte der Auf-\ngabe genügen oder nicht. —",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Für die Verteilung der Eigenwerte hoher Ordnumgszahl ist das bekanntlich der Fall.",
+        "Bildhafter Ausdruck": "Für die Verteilung der Eigenwerte hoher Ordnumgszahl",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Metapher stellt die Ordnumgszahl als eine Art Höhe dar, was impliziert, dass sie in einer hierarchischen Struktur angeordnet und gemessen werden können."
+      },
+      {
+        "Satz": "Aber dieser Grenzfall interessiert hier gerade nicht, er entspricht der klassischen, makroskopischen Mechanik.",
+        "Bildhafter Ausdruck": "Grenzfall",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Metapher stellt den Fall als eine Art 'Grenze' dar, was impliziert, dass es einen Bereich oder Kontext gibt, der durch diese 'Grenze' definiert oder begrenzt wird."
+      },
+      {
+        "Satz": "Bei der scharfumrissenen Fassung, die sich jeder Eigenwertaufgabe als Maximum-Minimumaufgabe ohne jede direkte Beziehung auf die Differentialgleichung geben läßt, erscheint es mir sehr wahrscheinlich, daß direkte Methoden zur wenigstens angenäherten Berechnung der Eigenwerte sich werden auffinden lassen, sobald das dringende Bedürfnis dazu besteht.",
+        "Bildhafter Ausdruck": "scharfumrissenen Fassung",
+        "Typ": "Ontologisch",
+        "Konzeptuelle Zuordnung": "Die Metapher stellt die 'Fassung' eines wissenschaftlichen Konzepts als etwas 'Scharfumrissenem' dar, was impliziert, dass es klar definiert und verständlich ist."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ich möchte an dieser Stelle die Tatsache nicht mit Still-\nschweigen übergehen, daß gegenwärtig von seiten Heisenbergs,\nBorns, Jordans und einiger anderer hervorragender Forscher\")\nein Versuch zur Beseitigung der Quantenschwierigkeit im Gange\nist, der schon auf s0 beachtenswerte Erfolge hinzuweisen hat, daß\nes schwer wird, daran zu zweifeln, er enthalte jedenfalls einen\nTeil der Wahrheit. In der Tendenz steht der Heisenbergsche\nVersuch dem vorliegenden außerordentlich nahe, davon haben wir\nschon oben gesprochen. In der Methode ist er so toto genere ver-\nschieden, daß es mir bisher nicht gelungen ist, das Verbindungs-\nglied zu finden. Ich hege die ganz bestimmte Hoffnung, daß diese\nbeiden Vorstöße einander nicht bekämpfen, vielmehr, gerade\nwegen der außerordentlichen Verschiedenheit des Ausgangs-\npunktes und der Methode, einander ergänzen werden, indem\nder eine weiterhilft, wo der andere versagt. Die Stärke des",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Ich möchte an dieser Stelle die Tatsache nicht mit Stillschweigen übergehen, daß gegenwärtig von seiten Heisenbergs, Borns, Jordans und einiger anderer hervorragender Forscher ein Versuch zur Beseitigung der Quantenschwierigkeit im Gange ist, der schon auf so beachtenswerte Erfolge hinzuweisen hat, daß es schwer wird, daran zu zweifeln, er enthalte jedenfalls einen Teil der Wahrheit.",
+        "Bildhafter Ausdruck": "Versuch zur Beseitigung der Quantenschwierigkeit im Gange ist",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Forschung als Reise"
+      },
+      {
+        "Satz": "Ich hege die ganz bestimmte Hoffnung, daß diese beiden Vorstöße einander nicht bekämpfen, vielmehr, gerade wegen der außerordentlichen Verschiedenheit des Ausgangspunktes und der Methode, einander ergänzen werden, indem der eine weiterhilft, wo der andere versagt.",
+        "Bildhafter Ausdruck": "diese beiden Vorstöße einander nicht bekämpfen, vielmehr, gerade wegen der außerordentlichen Verschiedenheit des Ausgangspunktes und der Methode, einander ergänzen werden, indem der eine weiterhilft, wo der andere versagt",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Forschung als Kampf und Zusammenarbeit"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) W. Heisenberg, Zischr. f. Phys. 33. 8.879. 1925; M.Born\nu. P. Jordan, ibid. 84. 8.858. 1925: M.Born, W.Heisenberg u.\nPB. Jordan, ebendoxt 85. 8. 557. 1926; P, Dirae, Proe, Roy. Soe. London\n109. 642. 1925.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 26 ---\n514 B. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Heisenbergschen Programms liegt darin, daß es die Zinien-\nintensitüten zu geben verspricht, eine Frage, von der wir uns hier\nbisher ganz ferngehalten haben. Die Stärke des vorliegenden\nVersuches — wenn es mir erlaubt ist, darüber ein Urteil zu\nsagen — liegt in dem leitenden physikalischen Gesichtspunkt,\nwelcher die Brücke schlägt zwischen dem makroskopischen und\ndem mikroskopischen mechanischen Geschehen, und welcher\ndie äußerlich verschiedene Behandlungsweise, die sie erfordern,\nverständlich macht. Für mich persönlich liegt ein besonderer\nReiz in der am Ende der vorigen Mitteilung erwähnten Auf-\nfassung der emittierten Frequenzen als „Schwebungen“, von\nder ich auch glaube, daß sie ein anschauliches Verständnis\nder Intensitätsformeln vermitteln wird.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir wollen nun dem in der ersten Mitteilung behandelten\nKeplerproblem noch einige weitere Beispiele hinzufügen. Es\nsind nur die allereinfachsten, da wir vorläufig auf die Klassische\nMechanik ohne Magnetfeld beschränkt sind.!)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1. Der Planeksche Oszillator. Die Entartungsfrage.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wir behandeln zunächst den eindimensionalen Oszillator.\nDie Koordinate g sei die Elongation multipliziert mit der\nQuadratwurzel aus der Masse. Die beiden Formen der kine-\ntischen Energie sind dann",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(20) T='1,09, Tethıp.\nDie potentielle Energie sei\nei) Pa=2mn?g,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wo », die Eigenfrequenz im Sinne der Mechanik, Dan lautet\nGleichung (18) a diesen Fall:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) In der Relativitätsmechanik und mit Berücksichtigung eines\nMagnetfeldes wird die Aussage der H.P. komplizierter. Im Falle eines\neinzigen Elektrons sagt sie aus, daB der vierdimensionale Gradient der\nWirkungsfunktion, vermindert um einen vorgegebenen Vektor (das Vierer-\npotential), konstanten Betrag hat. Die wellentheoretische: Übersetzung\ndieser Aussage bietet ziemliche Schwierigkeiten,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 27 ---\nQuantisierung als Bigenwertproblem. 515",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8m? E 16nt2,2\n” u Z\no\na\n22) a ta-v=0.\nWir führen als unabhängige Variable ein\nes) 2= 4/6\nund erhalten\n\" Sy. _ Ay\ner) a ui",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Eigenwerte und Eigenfunktionen dieser Gleichung sind\nbekannt.!) Die Eigenwerte sind in den hier benützten Zeichen",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(25) yet 5 nal...\nDie Eigenfunktionen sind die. Hermiteschen Orthogonalfunktionen\n(26) e TH, .",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "H,(«) bedeutet das nte Hermitesche Polynom, welches definiert\nwerden kann als",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "en Hl) (ter FE\noder explizite\nA, = (22 POT @ap-2\n@7) .\nudn RI onen...",
+    "paragraph_type": "Unknown",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die ersten dieser Polynome lauten",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ha-1 H,@= 2:\ne7”) | H,(«) = 42? — 2 H, (a) = 82° — 12\nB,@=162—-482?+12 ...... ..",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Betrachten wir zunächst die Eigenwerte, so ergibt sich nach\n(25) und (23)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Vgl. Courant-Hilbert, Methoden der mathematischen Physik I\n(Berlin, bei Springer 1924) V, $ 9, S. 261, Gl. 48, ferner II, $ 10, 4, 8, 76.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 28 ---\n516 EB. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Als Quantenniveaus erscheinen also sogenannte „halbzahlige“\nMultipla des dem Oszillator eigentümlichen „Energieguants“,\nd.h. die ungeraden Vielfachen von h»,/2. Die Abstände der\nNiveaus, die allein für die Strahlung maßgebend sind, sind\ndieselben wie in der bisherigen Theorie. Merkwürdigerweise\nsind unsere Quantenniveaus genaz dieselben wie in der Heisen-\nbergschen Theorie! — Für die Theorie der spezifischen Wärme\nist diese Abweichung von der bisherigen Theorie nicht ohne\nBedeutung, sie. kommt allerdings erst dann ins Spiel, wenn,\nals Folge der Wärmeausdehnung, die Eigenfrequenz », varüert.\nFormal handelt es sich um die alte Frage der „Nullpunkt-\nenergie“, die schon im Zusammenhang mit dem Dilemma:\nerste oder zweite Fassung der Planckschen Theorie auf-\ngetreten war. — Auch auf das Gesetz der Bandenkanten hat\ndas Zusatzglied A»,/2 Einfluß.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Bigenfunktionen (26) lauten, wenn man nach (24) und\n(23) wieder die ursprüngliche Größe q, einführt:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "e%) = Bene).\n‘Die Betrachtung von (27”) lehrt, daß die erste Eigenfunktion\neine „Gausssche Fehlerkurve“ ist, die zweite verschwindet im\nNullpunkt und entspricht für positive x einer „Maxwellschen\nGeschwindigkeitsverteilung“ in zwei Dimensionen, die nach\nnegativen x ungerade fortgesetzt ist. Die dritte Eigenfunktion\nist wieder gerade, im.Nullpunkt negativ, und hat zwei sym-\nmetrische Nullstellen + 1//2; usw. Man kann den qualitativen\nVerlauf leicht überblicken und skizzieren, wobei darauf zu\nachten ist, daß die Wurzeln aufeinanderfolgender Polynome\neinander zZrennen. .Aus (26’) erkennt man, daß die charak-\nteristischen Punkte der Eigenfanktionen, wie Halbwertsbreite\n(für n = 0), Nullstellen, Maxima, größenordnungsmäßig im Be-\nreich der klassischen Oszillatorschwingung liegen. Denn für\ndie klassische Amplitude der nten Schwingung findet man leicht",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Die dritte Eigenfunktion ist wieder gerade, im Nullpunkt negativ, und hat zwei symmetrische Nullstellen + 1//2; usw.",
+        "Bildhafter Ausdruck": "zwei symmetrische Nullstellen",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Verwendung des Begriffs 'symmetrisch' stellt eine bildhafte Darstellung dar, um das abstrakte Konzept der gleichen Werte auf beiden Seiten des Graphen einer Funktion zu beschreiben."
+      },
+      {
+        "Satz": "Man kann den qualitativen Verlauf leicht überblicken und skizzieren, wobei darauf zu achten ist, dass die Wurzeln aufeinanderfolgender Polynome einander zZrennen.",
+        "Bildhafter Ausdruck": "Wurzeln aufeinanderfolgender Polynome einander zZrennen",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Vorstellung von 'Wurzeln', die 'einander zZrennen', ist eine bildhafte Darstellung eines abstrakten mathematischen Prozesses, bei dem die Nullstellen aufeinanderfolgender Polynome nahe beieinander liegen."
+      },
+      {
+        "Satz": "Aus (26’) erkennt man, dass die charakteristischen Punkte der Eigenfanktionen, wie Halbwertsbreite (für n = 0), Nullstellen, Maxima, größenordnungsmäßig im Bereich der klassischen Oszillatorschwingung liegen.",
+        "Bildhafter Ausdruck": "im Bereich der klassischen Oszillatorschwingung liegen",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Verwendung des Begriffs 'im Bereich liegen' stellt eine bildhafte Darstellung dar, um das abstrakte Konzept der Positionierung von Datenpunkten in einem bestimmten Bereich zu beschreiben."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "_VE_1 y: Ya\n28) In 277, FL2 7 2 “",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Doch kommt, soviel ich sehe, im allgemeinen dem genazen\nAbszissenwert der klassischen Umkehrpunkte keine bestimmte\nBedeutung im Verlauf der Eigenfanktion zu, Man könnte der-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 29 ---\nQuantisierung als Higenwertproblem. 517",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "gleichen vermuten, denn die Umkehrpunkte haben für die\nPhasenraumwelle die Bedeutung, daß dort das Quadrat der\nFortpflanzungsgeschwindigkeit unendlich und in größerer Ent-\nfernung negativ wird. In der Differentialgleichung (22) bedeutet\ndas aber nur das Verschwinden des Koeffizienten von und\ngibt zu gar keiner Singularität Anlaß.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ich möchte hier die Bemerkung nicht unterdrücken, die\nganz allgemein, nicht bloß für den Oszillator, gilt: daß gleich-\nwohl dieses Verschwinden und Imaginärwerden der Fort-\npflanzungsgeschwindigkeit etwas sehr Charakteristisches ist, Es\nist der analytische Grund für die Aussonderung scharfer Eigen-\nwerte durch die bloße Bedingung des Endlichbleibens der\nFunktion. Ich möchte das näher erläutern. Eine Wellen-\ngleichung mit reeller Fortpflanzungsgeschwindigkeit bedeutet\nbekanntlich dies: der Funktionswert nimmt zeitlich beschleunigt\nzu in dem Maße, als er unter dem Durchschnittswert der\nFunktion in der räumlichen Umgebung der betrachteten Stelle\nliegt; und vice-versä. Eine solche Gleichung hat daher, wenn\nauch nicht augenblicklich und andauernd, wie die Wärmeleitungs-\ngleichung, so doch im Laufe der Zeit einen Wiederausgleich der\nextremen Ausschläge zur Folge und gestattet in keinem Punkte\nein übermäßiges Anwachsen der Funktion. — Eine Wellen-\ngleichung mit imaginärer Fortpflanzungsgeschwindigkeit bedeutet\nnun das genaue Gegenteil: Funktionswerte, die über dem Durch-\nschnitt der Umgebung liegen, nehmen beschleunigt zu (oder doch\nverzögert ab) und viee-versä. Man begreifi daher, daß eine\nFunktion, die einer solchen Gleichung ausgesetzt ist, in die\nallergrößte Gefahr gerät, über alle Grenzen anzuwachsen. Man\nmuß es schon sehr geschickt einrichten, um sie vor dieser\nGefahr zu bewahren, und die Institution, welche das ermöglicht,\nsind eben die scharfbestimmten Eigenwerte. In der Tat kann\nman auch an dem in der ersten Mitteilung behandelten Bei-\nspiel sehen, daß die Forderung nach scharfen Eigenwerten mit\ndem Augenblick erlischt, wo man die dortige Größe B positiv\nwählt, wodurch die Wellengeschwindigkeit im ganzen Raum\nxeell wird,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nach dieser Abschweifung kehren wir zum Oszillator zurück\nund fragen uns, ob sich etwas ändert, wenn wir dem Oszillator\nzwei oder mehrere Freiheitsgrade geben (räumlicher Oszillator,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 30 ---\n518 B. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "fester Körper), Gehören zu den einzelnen Koordinaten” ver-\nschiedene mechanische Eigenfrequenzen (v,-Werte), so ändert\nsich nichts. Man setzt „u als Produkt von Funktionen je einer\nKoordinate an und das Problem zerfällt in soviel Einzel-\nprobleme vom oben behandelten Typus als Koordinaten vor-\nhanden sind, Die Eigenfunktionen sind Produkte Hermite-\nscher Orthogonalfunktionen, die Eigenwerte des Gesamtproblems\nstellen sich dar je als Summe der Eigenwerte der Einzel-\nprobleme, in allen möglichen Kombinationen. Kein Eigenwert\n(des Gesamtsystems) wird mehrfach, wenn man voraussetzt, daß\nzwischen den »,-Werten keine rationale Beziehung besteht.\nIst hingegen letzteres der Fall, dann ist zwar auch die-\nselbe Behandlungsweise noch möglich, aber sie ist sicher nicht\ndie einzige. Es treten mehrfache Eigenwerte auf, und die\n„Separation“ läßt sich sicher noch in anderen Koordinaten\nausführen, z.B. beim isotropen räumlichen Oszillator in räum-\nlichen Polarkoordinaten.!) Die Eigenwerte, die man erhält,\nsind aber sicher in jedem Falle genau dieselben, wenigstens\nsofern man im Besitze des „Vollständigkeitsbeweises“ für das\nauf eine Art gewonnene System von Eigenfunktionen ist. Man\nerkennt in alledem die vollkommene Parallele zu den wohl-\nbekannten Verhältnissen, denen die bisherige Quantisierungs-\nmethode im Falle der Zntartung begegnet ist. Nür in einem\nPunkt besteht ein nicht unerfreulicher formaler Unter-\nschied. Wenn man die Sommerfeld-Epsteinschen Quanten-\nbedingungen ohne Rücksicht auf eine eventuelle Entartung\nanwandte, so erhielt man zwar bekanntlich stets die nämlichen\nEnergieniveaus, kam aber zu verschiedenen Aussagen hinsicht-\nlich der zugelassenen Bahnen je nach der Koordinatenwahl.\nDas ist hier nun nicht der Fall, Allerdings kommt man zu",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "3) Man wird dabei in r auf eine Gleichung geführt, die ganz nach\nderselben Methode zu behandeln ist, welche in der ersten Mitteilung auf\ndas Keplerproblem angewendet wurde, Auch der eöndimensionaleOszillator\nführt übrigens auf dieselbe Gleichung, wenn man g? als Variable einführt.\nIch hatte die Aufgabe ursprünglich in dieser Weise direkt gelöst. Den\nHinweis, daß es sich um die Differentialgleichung der Hermiteschen\nPolynome handelt, verdanke ich Herm E. Fues. — Das beim Kepler-\nproblem auftretende Polynom (Gl. 18 der ersten Mitteilung) ist der\n2n + 1te Differentialquotient des » + Iten Laguerreschen Polynoms,\nwie ich nachträglich erkannte.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 31 ---\nQuantisierung als Bigenwertproblem. 519",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "einem ganz abweichenden System von Zigenfunktionen, wenn\nman beispielsweise das der ungestörten Keplerbewegung ent-\nsprechende Schwingungsproblem in parabolischen Koordinaten\nbehandelt anstatt in Polarkoordinaten, wie wir es in der\nI. Mitteilung taten. Aber als möglicher Schwingungszustand hat\nja nicht gerade die einzelne Figenschwingung zu gelten, sondern\nein beliebiges, endliches oder unendliches Zineares Aggregat von\nsolchen. Und als solche lassen sich die auf einem zweiten\nWeg gefundenen Eigenfunktionen stets darstellen, nämlich als\nlineare Aggregate der auf einem beliebigen Weg gefundenen\nEigenfunktionen, wenn diese nur ein vollständiges System bilden.\nMan wird freilich um die bisher hier noch gar nicht in\nAngriff genommene Frage, wie sich denn in einem bestimmten\nFall die Energie in Wirklichkeit auf die Eigenschwingungen\nverteilt, nicht dauernd herumkommen. In Anlehnung an die\nbisherige Quantentheorie wird man geneigt sein, anzunehmen,\ndaß im entarteten Fall nur die Energie der Gesamtheit von\nEigenschwingungen, die zu einem bestimmten Eigenwert gehört,\neinen gewissen vorgeschriebenen Betrag haben muß, der im\nnichtentarteten Fall schon einer einzigen Eigenschwingung\nzugehört, Ich möchte diese Frage vorläufig noch gänzlich\noffen lassen — auch in dem Punkt, ob überhaupt die gefun-\ndenen „Energieniveaus“ wirklich Energiestufen des Schwingungs-\nworganges sind oder für ihn nur die Bedeutung der Frequenz\nhaben. Für das Zustandekommen der scharfen Emissions-\nfrequenzen ist, wenn man die Schwebungstheorie annimmt, die\nDeutung als Energieniveaus ja nicht mehr erforderlich.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2. Der Rotator mit raumfester Achse.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Wegen des Fehlens der potentiellen Energie bei gleich-\nzeitig euklidischem Linienelement bildet dieser das einfachste\nüberhaupt denkbare Beispiel für die Schwingungstheorie. Sei\nA das Trägheitsmoment, @ der Drehwinkel, so erhält man als\nSchwingungsgleichung offenbar:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 32 ---\n520 E. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Hier muß nun das Argument ein ganzzahliges Vielfaches von\n$ sein einfach aus dem Grund, weil 4, sonst im Bereich der\nKoordinate 9 entweder nicht eindeutig oder nicht stetig sein\nwürde, denn p +2 bedeutet ja dasselbe wie p. Diese Be-\ndingung ergibt das wohlbekannte Resultat",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a8\ne1) B,= 51\nin vollkommener Übereinstimmung mit der bisherigen Quanti-\nsierung.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Dem Ergebnis kommt jedoch für die Anwendung auf die\nBandenspektren Aeine Bedeutung zu. Denn wir werden so-\ngleich mit der eigenartigen Tatsache bekannt werden, daß\nunsere Theori® für den Rotator mit freier Achse ein anderes\nResultat ergibt. Und das gilt allgemein. Es ist bei der An-\nwendung der Undulationsmechanik nicht ‚gestattet, zur Verein-\nfachung der Rechnung die Bewegungsfreiheit des Systems\nstärker beschränkt zu denken, als sie wirklich beschränkt ist,\nselbst wenn man auf Grund der Integrale der mechanischen\nGleichungen weiß, daß das System bei der einzelnen Bewegung\nvon bestimmten Freiheiten nicht Gebrauch macht. Für die\nMikromechanik ist eben das System der mechanischen Grund-\ngleichungen ganz und gar nicht mehr zuständig, die einzelnen\nBahnkurven, von denen es spricht, haben dort keine Sonder-\nezistenz mehr. Ein Wellenvorgang erfüllt den ganzen Phasen-\nraum. Daß für einen Wellenvorgang sogar schon die Anzahl\nder Dimensionen, in denen or sich abspielt, etwas sehr wesent-\nliches ist, ist wohlbekannt.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "3. Der starre Rotator mit freier Achse.\nFührt man als Koordinaten ein die Polarwinkel der Kern-\nverbindungslinie, 3, 9, so lautet die kinetische Energie als\nFunktion der Impulse",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2 1 2\n(82) 7\nDer Form nach ist das die kinetische Energie eines Massen-\npunktes, der auf eine Kugelfläche gezwungen ist. Die La-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "placesche Operation ist daher einfach der von den Polar-\nwinkeln abhängige Teil des räumlichen Laplaceschen Ope-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 33 ---\nQuantisierung als Bigenwertproblem. 521\nrators und die Schwingungsgleichung (18”) erhält folgende",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Forderung, das auf der Kugelfläche eindeutig und stetig",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "sein soll, führt bekanntlich auf die Bigenwertbedingung",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(84) Te H=enatl; n=0,12 8...\nEigenfunktionen sind bekanntlich die Kugelflächenfunktionen.\n— Die Energieniveaus sind also",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Diese Bestimmung weicht von allen bisherigen (außer\nvielleicht von der Heisenbergschen?) ab. Doch war man\nvom Experiment her dazu geführt worden, in der Formel (81)\nfür n „halbzahlige® Werte zu setzen, unter verschiedenen Be-\ngründungen. Man erkennt, daß Formel (84°) praktisch dasselbe\nleistet, wie (81) mit halbzahligem n. Denn es ist ja",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2» 1\naa+l)= (R+5) 4.\nDer Unterschied liegt also bloß in einer kleinen additiven Kon-\nstante, die Niveaudifferenzen in (84) sind dieselben wie bei\n„halbzahliger Quantelung“. Das gilt auch noch für die An-\nwendung auf die kurzwelligen Banden, bei denen das Träg-\nheitsmoment infolge des „Elektronensprunges“ im Anfangs- und\nEndzustand verschieden ist. Denn es tritt ja höchstens zu\nallen Linien einer Bande ein kleines konstantes Zusatzglied\nhinzu, das im großen „Elektronenterm““ oder auch im „Kern-\nschwingungsterm“ untergeht. Übrigens erlaubt unsere bis-\nherige Analyse durchaus nicht, von diesem kleinen Zusatzglied",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "4 8m \\A 4\nin wohldefinierter Weise zu sprechen. Die Vorstellung des\ndurch „Quantenbedingungen“ für die HElektronenbewegungen\nund Kernschwingungen festgelegten Trägheitsmomentes fällt\naus dem ganzen hier verfolgten Ideenkreis heraus. Wir werden\nin der nächsten Ziffer zeigen, wie man näherungsweise wenig-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Annalen der Physik. IV. Folge. 79. 34",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 34 ---\n522 EB. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "‚stens die Kernschwingungen und die Rotationen des zwei-\n‚atomigen Moleküls gleichzeitig behandeln kann durch Synthese\nder unter 1. und 3. behandelten Fälle‘) — Erwähnen möchte\nich noch, daß der Wert 2a=0 nicht dem Perschwinden der\nWellenfunktion , sondern einem konstanten Wert derselben\nentspricht, mithin einer Schwingung mit konstanter Amplitude\nauf der ganzen Kugelfläche.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "4. Der unstarre Rotator (zweiatomiges Molekül).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nach der am Ende von Ziff. 2. gemachten Bemerkung\nmüssen wir das Problem von Haus aus mit allen seinen sechs\nFreiheitsgraden ansetzen, die es wirklich besitzt. Wir wählen\nzunächst die kartesischen Koordinaten z,, Yy 2 Zy Yg 2, der\nbeiden Moleküle, deren Massen m,, m, seien. r sei ihr Abstand.\nDie potentielle Energie sei",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "= Ya - tn ra.\nHier möge on\nes) am",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "mM, my\ndie „resultierende Masse“ sein. Dann ist », die mechanische\nEigenfrequenz der Kernschwingung bei festgehaltener Kern-\nverbindungslinie. r, ist der Abstand, in dem die potentielle\nEnergie ein Minimum ist. AIl dies ist im Sinne der gewöhn-\nlichen Mechanik gemeint.\nFür die Schwingungsgleichung (18”) erhält man folgendes",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ö2 2 2 Li 2 2\n| GEN EEE\n+21 2er —r)]y=0.\nWir führen als neue unabhängige Variable ein z, 9,2, &, 1, £&:\n=, m+m)iö-met+m,z,\n(88) |",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "yaeyn-n m tm)n=mytmy\n:=241-3 mMtm)i=mztmz,\n1) Vgl. A. Sommerfeld, Atombau und Spektrallinien, 4. Aufl.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "8.833. Die aubarmonischen Zusatzglieder in der potentiellen Energie\nziehen wir hier noch nicht in Betracht.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 35 ---\nQuantisierung als Bigenwertproblem. 523\nDie Umrechnung ergibt\nı/&y \" y öy 1 y u y\n(87) ji + öy® + =) t m +; (5 + on + =)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "wobei zur Abkürzung\n(89) a3 y_iunin",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "RT OR\nNun können wir für » ansetzen das Produkt einer Funktion\nder relativen Koordinaten 2, y, z und einer Funktion der",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Schwerpunktskoordinaten &, 7, &:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(40) v=-f@y JE mL)\nFür g erhält man die Bestimmungsgleichung",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1 eg, ög , dg -\n(al) . hm (5 } it 2) + Const.g=0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Sie ist von derselben Gestalt wie diejenige, die sich für die\nkräftefreie Bewegung eines Massenpunktes von der Masse\nm, -- m, ergeben würde. Der Konstante würde in diesem Fall\ndie Bedeutung",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "zukommen, wo Z, die Translationsenergie des genannten Massen-\npunktes. Wir denken diesen Wert in (41) eingetragen. Welche\nWerte für B, als Eigenwerte zulässig sind, hängt nun davon\nab, ob den ursprünglichen Koordinaten und damit auch den\nSchwerpunktskoordinaten der ganze unendliche Raum zur Ver-\nfügung steht, ohne daß neue potentielle Energien auftreten\noder nicht. Im ersten Fall ist jeder nichtnegative Wert zu-\nlässig, jeder negative unzulässig. Denn wenn .#, nicht negativ\nist, und wur dann, besitzt (41) Lösungen, die nicht identisch\nverschwinden und doch im ganzen Raum endlich bleiben. Be-\nfindet sich aber das Molekül in einem „Kasten“, so ist dieser\nals Randbedingung für die Funktion g aufzufassen, oder konse-\nquenter gesprochen: die Gleichung (41) wird an der Kasten-\nwand infolge des Auftretens weiterer potentieller Energien sehr\nabrupt ihre Gestalt ändern. Dadurch wird eine diskrete Menge\nvon #,-Werten als Eigenwerte ausgesondert. Es handelt sich\num die „Quantelung der Translationsbewegung‘‘, von der ich\n34*",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "sentence": "Befindet sich aber das Molekül in einem „Kasten“, so ist dieser als Randbedingung für die Funktion g aufzufassen, oder konsequenter gesprochen: die Gleichung (41) wird an der Kastenwand infolge des Auftretens weiterer potentieller Energien sehr abrupt ihre Gestalt ändern.",
+        "figurative_expression": "das Molekül in einem „Kasten“",
+        "type": "ontological",
+        "conceptual_mapping": "Die Einschränkung eines Moleküls in einem begrenzten Raum wird als 'Kasten' bezeichnet, um die Idee zu vermitteln, dass es bestimmte Grenzen und Bedingungen gibt, die die Bewegung und das Verhalten des Moleküls beeinflussen.",
+        "creativity": "common"
+      },
+      {
+        "sentence": "Dadurch wird eine diskrete Menge von #,-Werten als Eigenwerte ausgesondert. Es handelt sich um die „Quantelung der Translationsbewegung‘‘, von der ich",
+        "figurative_expression": "Quantelung der Translationsbewegung",
+        "type": "ontological",
+        "conceptual_mapping": "Die diskrete Natur der quantenmechanischen Bewegung wird als 'Quantelung' bezeichnet, um die Idee zu vermitteln, dass Bewegung auf mikroskopischer Ebene in diskreten 'Paketen' oder 'Quanten' stattfindet, im Gegensatz zur kontinuierlichen Bewegung in der klassischen Physik.",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 36 ---\n524 B. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "schon neulich die Hauptzüge besprochen und gezeigt habe, daß\n‚sie zur Einsteinschen Gastheorie führt!)\nFür den von den relativen Koordinaten x, y, = abhängigen\nFaktor f der Schwingungsfunktion y ergibt sich nun die Be-\nstimmungsgleichung:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "0? 6° 6° 1 ,\nu) rer tere n/=0,\nwobei zur Abkürzung .\n(8%) «um,\nWir führen nun für x, y, z Polarkoordinaten r, $, yp ein (was",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "mit der bisherigen Verwendung des Zeichens r im Einklang\nist, Nach Multiplikation mit ü erhält man:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1 8/[,0f 151 a f(. 0öf ı ef\nen! 7 EG a) + = mr 35 (n05%) + ans Tel\n+a uf 0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Neuerliche Aufspaltung von f. Der von den Polarwinkeln ab-\nhängige Faktor ist eine Kugelflächenfunktion. Ordnung n. Die\ngeschweifte Klammer ist — (nr + 1)f. Wir denken dies ein-\ngetragen, lassen einfachheitshalber das Zeichen f stehen für\nden von r abhängigen‘ Faktor. Sodann wird als neue ab-\nhängige Variable eingeführt\n«as z=1f\nund sodann als neue unabhängige Variable\n(45) e=-r_n.\nDie Umrechnung ergibt:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Rx \"uber Rd], —\nus) öe® [r« ube rer |t =.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Bis hierher ließ sich die Rechnung streng führen. Jetzt\nmachen wir eine Annäherung, die, ich weiß es wohl, einer\nstrengeren Begründung bedürfte, als ich hier dafür geben werde.\nWir vergleichen (46) mit der früher behandelten Gleichung (22'),\nmit welcher sie im Bau übereinstimmt, sich nur im Koeffi-\nzienten der unbekannten Funktion um Glieder von der rela-\ntiven Größenordnung o/r, unterscheidet. Man sieht das, wenn.\nman entwickelt:",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Wir vergleichen (46) mit der früher behandelten Gleichung (22'), mit welcher sie im Bau übereinstimmt, sich nur im Koeffizienten der unbekannten Funktion um Glieder von der relativen Größenordnung o/r, unterscheidet.",
+        "Bildhafter Ausdruck": "im Bau übereinstimmt",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Die Metapher stellt eine mathematische Gleichung als eine strukturelle Einheit (wie ein Gebäude) dar. Die Gleichungen werden verglichen, als ob sie Gebäude wären, die in ihrem 'Bau' (i.e., ihrer Struktur) übereinstimmen."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1) Physik. Ztschr. 27, 8. 95. 1926.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 37 ---\nQuantisierung als Eigenwertproblem. 525\nnn +1) _ ra +1) _ 20 3 _\nen ED ee),\nin (46) einsetzt, nach Potenzen von g/r, ordnet und für g die\nnur um eine kleine Konstante verschiedene Variable einführt:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "r (n +1)\na8) ee\nle )\nGleichung (46) erhält dann die Gestalt:\nx 502 E _\nu\nmit den Abkürzungen\n_ R nm +11 z.. na +1) \\\n(48) | .—_ua— Tg (1 an)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Das Zeichen [g’/»,] in (46) meint Glieder, welche gegen das\nkleinste noch berücksichtigte Glied von der Ordnung g’/r,\nklein sind.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Nun wissen wir von der Gleichung (22'), mit der wir (46)\njetzt vergleichen, daß deren erste Eigenfunktionen nur in einem\nkleinen Bereich beiderseits des Nullpunktes merklich von Null\nverschieden sind. Erst für höhere Ordnungszahl dehnen sie\nsich allmählich weiter aus. Bei mäßiger Ordnungszahl ist der\nBereich für die Gleichung (46), wenn man darin das Glied\n[o’/r,] fortläßt und die Größenordnung der Molekülkonstanten\neinsetzt, tatsächlich klein gegen r,. Wir ziehen daraus den,\nich wiederhole es, unstrengen Schluß, daß man auf diese \"Weise\nfür die ersten Eigenfunktionen innerhalb des Bereichs, wo sie\nüberhaupt merklich von Null verschieden sind, und auch für\ndie ersten igenwerte eine brauchbare Näherung erhält. Aus\nder damaligen Eigenwertbedingung (25) leitet man nun in\nleichter Rechnung, indem man die Abkürzungen (49), (89) und\n(39) wieder auflöst und die kleine Größe\n= nn + 1)h? nn + 1)ht\n(50) e- non Tg: - er\nals neue Abkürzung einführt, folgende Energiestufen ab:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a\nB= m 4 MBEDE (1) + VIre\nn=0,1,2...; T=0,1, 2...)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 38 ---\n526 B. Schrödinger.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "worin noch\n(52) 4= ur\nfür das Zrägheitsmoment geschrieben ist.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "s ist, in der Sprache der klassischen Mechanik, das Qua-\ndrat des Verhältnisses der Rotationsfrequenz zur Schwingungs-\nfrequenz »,; es ist demnach, bei der Anwendung auf das Mole-\nkül, wirklich eine kleine Größe und die Formel (51) hat, von\ndieser kleinen Korrektion und von den schon früher besprochenen\nAbweichungen abgesehen, den gewohnten Bau. Sie ist die",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "“ Synthese von (257) und (84), wobei noch Z, als Repräsentant\nder Translationsenergie hinzukommt. Hervorzuheben ist, daß\ndie Güte der Näherung nicht allein nach der Kleinheit von\n& zu beurteilen ist, es darf auch / nicht zu groß sein. Doch\nkommen für 7 ja prahtisch nur kleine Zahlen in Betracht.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die s-Korrektionen in (51) berücksichtigen noch nicht die\nAbweichung der Kernschwingungen vom reinharmonischen\nTypus. Daher ist ein Vergleich mit der Kratzerschen Formel\n(«. Sommerfeld, 1. c.) und mit der Erfahrung noch untunlich.\nIch wollte den Fall vorläufig nur als Beispiel dafür bringen,\ndaß und in welcher Weise der anschauliche Begriff der @leich- -\ngewichtskonfiguration des Kernsystems auch in der Undulations-\nmechanik seine Bedeutung beibehält, indem die Wellenampli-\ntude u praktisch nur in einer kleinen Umgebung der Gleich-\ngewichtskonfiguration von Null verschieden ist. Die unmittel-\nbare Interpretation dieser von sechs Variablen abhängigen\nWellenfunktion im dreidimensionalen Raum stößt allerdings\nzunächst auf Schwierigkeiten begrifflicher Natur.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Satz": "Ich wollte den Fall vorläufig nur als Beispiel dafür bringen, daß und in welcher Weise der anschauliche Begriff der @leich- -\ngewichtskonfiguration des Kernsystems auch in der Undulations-\nmechanik seine Bedeutung beibehält, indem die Wellenampli-\ntude u praktisch nur in einer kleinen Umgebung der Gleich-\ngewichtskonfiguration von Null verschieden ist.",
+        "Bildhafter Ausdruck": "kleinen Umgebung der Gleichgewichtskonfiguration von Null verschieden",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Dieses bildhafte Bild stellt das Konzept der geringen Abweichung der Wellenamplitude vom Gleichgewichtszustand dar."
+      },
+      {
+        "Satz": "Die unmittelbare Interpretation dieser von sechs Variablen abhängigen Wellenfunktion im dreidimensionalen Raum stößt allerdings zunächst auf Schwierigkeiten begrifflicher Natur.",
+        "Bildhafter Ausdruck": "stößt allerdings zunächst auf Schwierigkeiten begrifflicher Natur",
+        "Typ": "Strukturell",
+        "Konzeptuelle Zuordnung": "Diese Metapher repräsentiert die Herausforderung, die bei der Interpretation komplexer wissenschaftlicher Konzepte entsteht."
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Auf das Rotationsschwingungsproblem der zweiatomigen\nMolekel unter Berücksichtigung der anharmonischen Glieder\nin der Bindungsenergie wird demnächst zurückzukommen sein.\nDer von Kratzer mit großem Geschick für die klassisch-\nmechanische Behandlung ausgewählte Ansatz ist auch für die\nUndulationsmechanik der geeignete. Man muß aber, um die\nRechnung so weit zu treiben, als es für die Feinheiten der\nBandenstruktur nötig ist, von der Theorie der Störung der\nEigenwerte und Bigenfunktionen Gebrauch machen, d. i. der\nÄnderung, die ein. bestimmter Eigenwert und die zugehörigen\nEigenfunktionen einer Differentialgleichung erfahren, wenn man\ndem Koeffizienten der unbekannten Funktion in der Differen-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 39 ---\nQuantisierung als Eigenwertproblem. 527",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "tialgleichung ein kleines „Störungsglied“ hinzufügt. Diese „Stö-\nrungstheorie“ ist das vollkommene Gegenstück zu derjenigen\nder klassischen Mechanik, nur ist sie einfacher aus dem Grunde,\nweil wir uns in der Undulationsmechanik durchweg im Gebiet\nlinearer Relationen bewegen. In erster Näherung ergibt sich\ndie Aussage, daß die Eigenwertstörung gleich ist dem „über\ndie ungestörte Bewegung“ gemittelten Störungsglied.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Die Störungstheorie erweitert die analytische Greifweite\nder neuen Theorie außerordentlich. Als praktisch wichtiges\nErgebnis möchte ich schon hier anführen, daß der Starkeffekt\nerster Ordnung mit der durch die Erfahrungsbestätigung un-\nantastbar gewordenen Epsteinschen Formel wirklich voll-\nkommen übereinstimmend gefunden wird.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Zürich, Physikslisches Institut der Universität.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(Eivgegangen 23. Februar 1926.)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]

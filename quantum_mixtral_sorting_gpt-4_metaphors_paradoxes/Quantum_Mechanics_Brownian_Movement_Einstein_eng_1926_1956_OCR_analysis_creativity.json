@@ -1,0 +1,751 @@
+[
+  {
+    "paragraph": "published in 1956, is an unabridged",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "and unaltered republication of the\ntranslation first: published in 1926,\nIt is published through special\narrangément with Methuen and Co,\nLtd,, and the estate of",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Manufactured in the United'States\nof America.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "THE THEORY OF ,THE\nBROWNIAN MOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 2 ---\nINVESTIGATIONS ON THE THEORY\nOF THE BROWNIAN MOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ON THE MOVEMENT OF SMALL PARTICLES\nSUSPENDED IN A STATIONARY LIQUID\nDEMANDED BY THE MOLECULAR-\nKINETIC THEORY OF HEAT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "N this paper it will be shown that according\nI: the molecular-kinetic theory of heat, bodies\nof microscopically-visible size suspended in a\nliquid will perform movements of such magnitude\nthat they can be easily observed in a microscope,\non account of the molecular motions of heat.\nIt is possible that the movements to be discussed\nhere are identical with the so-called ‘‘ Brownian\nmolecular motion’? ; however, the information\navailable to me regarding the latter is so lacking\nin precision, that I can form no judgment in the\nmatter (z).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If the movement discussed here can actually\nbe observed (together with the laws relating to",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 3 ---\n2 THEORY OF BROWNIAN MOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "it that one would expect to find), then classical\nthermodynamics can no longer be looked upon\nas applicable with precision to bodies even of\ndimensions distinguishable in a microscope: an\nexact determination of actual atomic dimensions\nis #en possible. On the other hand, had the\nprediction of this movement proved to be in-\ncorrect, a weighty argument would be provided\nagainst the molecular-kinetic conception of heat.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "classical thermodynamics can no longer be looked upon as applicable with precision to bodies even of dimensions distinguishable in a microscope",
+        "Metaphorical Phrase": "looked upon as applicable with precision",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding and applying scientific laws is like physically observing objects",
+        "creativity": "uncertain"
+      },
+      {
+        "Full Sentence": "a weighty argument would be provided against the molecular-kinetic conception of heat.",
+        "Metaphorical Phrase": "a weighty argument",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Arguments are physical objects that can have weight",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "it that one would expect to find), then classical thermodynamics can no longer be looked upon as applicable with precision to bodies even of dimensions distinguishable in a microscope: an exact determination of actual atomic dimensions is then possible.",
+        "terms_in_conflict": [
+          "classical thermodynamics",
+          "exact determination of actual atomic dimensions"
+        ],
+        "explanation": "The paradox lies in the fact that if classical thermodynamics is not applicable to bodies of certain dimensions, then it should not be possible to determine the exact atomic dimensions of these bodies. However, the author suggests that the inapplicability of classical thermodynamics actually enables the exact determination of atomic dimensions.",
+        "creativity": "uncertain"
+      },
+      {
+        "full_sentence": "On the other hand, had the prediction of this movement proved to be incorrect, a weighty argument would be provided against the molecular-kinetic conception of heat.",
+        "terms_in_conflict": [
+          "prediction of movement",
+          "molecular-kinetic conception of heat"
+        ],
+        "explanation": "The paradox here is that the failure of a prediction about movement, which is a physical concept, would provide an argument against the molecular-kinetic conception of heat, which is a thermodynamic concept. The two concepts are not directly related, so it is paradoxical that the failure of one would impact the validity of the other.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "§ 1. ON THE OsMOTIC PRESSURE TO BE ASCRIBED\nTO THE SUSPENDED PARTICLES",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Let z gram-molecules of a non-electrolyte be\ndissolved in a volume V* forming part of a\nquantity of liquid of total volume VY. If the\nvolume V* is separated from the pure solvent\nby a partition permeable for the solvent but\nimpermeable for the solute, a so-called ‘* osmotic\npressure,”’ ~, is exerted on this partition, which\nsatisfies the equation",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "pV*=RTz . - @)\nwhen V*/z is sufficiently great.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "On the: other hand, if small suspended particles\nare present in the fractional volume V* in place\nof the dissolved substance, which particles are also\nunable to pass through the partition permeable to\nthe solvent: according to the classical theory of",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "thermodynamics —atleast when the force of gravity\n(which does not interest us here) is ignored—we\nwould not expect to find any force acting on the\npartition ; for according to ordinary conceptions\nthe ‘‘ free energy” of the system appears to be\nindependent of the position of the partition and\nof the suspended particles, but dependent only\non the total mass and qualities of the suspended\nmaterial, the liquid and the partition, and on the\npressure and temperature. Actually, for the cal-\nculation of the free energy the energy and entropy\nof the boundary-surface (surface-tension forces)\nshould also be considered ; these can be excluded\nif the size and condition of the surfaces of contact\ndo not alter with the changes in position of the\npartition and of the suspended particles under\nconsideration.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "the ‘‘ free energy” of the system appears to be independent of the position of the partition and of the suspended particles",
+        "Metaphorical phrase": "free energy",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Energy is a free entity"
+      },
+      {
+        "Full sentence": "Actually, for the calculation of the free energy the energy and entropy of the boundary-surface (surface-tension forces) should also be considered",
+        "Metaphorical phrase": "boundary-surface",
+        "Type": "Structural",
+        "Conceptual Mapping": "The interface between different states of matter is a boundary"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Actually, for the calculation of the free energy the energy and entropy of the boundary-surface (surface-tension forces) should also be considered ; these can be excluded if the size and condition of the surfaces of contact do not alter with the changes in position of the partition and of the suspended particles under consideration.",
+        "terms_in_conflict": [
+          "Free energy calculation",
+          "Exclusion of boundary-surface energy and entropy"
+        ],
+        "explanation": "The paradox lies in the assertion that the calculation of free energy should consider the energy and entropy of the boundary-surface, but then stating that these can be excluded if the size and condition of the surfaces of contact do not change. This implies a contradiction in the conditions for calculating free energy.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "But a different conception is reached from\nthe standpoint of the molecular-kinetic theory of\nheat. According to this theory a dissolved mole-\ncule is differentiated from a suspended body\nsolely by its dimensions, and it is not apparent\nwhy a number of suspended particles should not\nproduce the same osmotic pressure as the same\nnumber of molecules. We must assume that the\nsuspended particles perform an irregular move-\nment—even if a very slow one—in the liquid, on",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "We must assume that the suspended particles perform an irregular movement—even if a very slow one—in the liquid",
+        "Metaphorical Phrase": "suspended particles perform an irregular movement",
+        "Type": "Structural",
+        "Conceptual Mapping": "Particles are performers",
+        "creativity": "genuine"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "According to this theory a dissolved molecule is differentiated from a suspended body solely by its dimensions, and it is not apparent why a number of suspended particles should not produce the same osmotic pressure as the same number of molecules.",
+        "terms_in_conflict": [
+          "dissolved molecule",
+          "suspended body",
+          "osmotic pressure"
+        ],
+        "explanation": "The paradox lies in the conflict between the theory's assertion that the only difference between a dissolved molecule and a suspended body is their size, and the unexplained phenomenon that the same number of each does not produce the same osmotic pressure.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "--- Page 4 ---\n4 THEORY OF BROWNIAN MOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "account of the molecular movement of the liquid ;\nif they are prevented from leaving the volume V*\nby the partition, they will exert a pressure on the\npartition just like molecules in solution. Then,\nif there are suspended particles present in the\nvolume V*, and therefore »/V* = » in a unit of\nvolume, and if neighbouring particles are suffi-\nciently far separated, there will be a corresponding\nosmotic pressure of magnitude given by\nRT 2 _ RT\nP= aN”",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where N signifies the actual number of molecules\ncontained in a gram-molecule. It will be shown\nin the next paragraph that the molecular-kinetic\ntheory of heat actually leads to this wider con-\nception of osmotic pressure.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "It will be shown in the next paragraph that the molecular-kinetic theory of heat actually leads to this wider con-ception of osmotic pressure.",
+        "Metaphorical phrase": "the molecular-kinetic theory of heat actually leads to",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theory is a path"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "§2. OSMOTIC PRESSURE FROM THE STANDPOINT\nOF THE MOLECULAR-KINETIC THEORY OF\nHEAT (*)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If 21, po, ... fi are the variables of state of",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "{*) In this paragraph the papers of the author on the\n“Foundations of Thermodynamics’’ are assumed to be\nfamiliar to the reader (Ann. d. Phys., 9, p. 417, 1902;\n11, p. 170, 1903), An understanding of the conclusions\nreached in the present paper is not dependent on a\nknowledge of the former papers or of this paragraph of\nthe present paper.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "a physical system which completely define the\ninstantaneous condition of the system (for ex-\nample, the Co-ordinates and velocity components\nof all atoms of the system), and if the complete\nsystem of the equationsof change of these variables\nof state is given in the form",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "doy _\nary ie\nthen the entropy of the system is given by the\nexpression",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "; oe E\nSaRten igle-=tdp, dp. (3)",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where T is the absolute temperature, E the energy",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "of the system, £ the energy as a function of 4,.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The integral is extended over all possible values -\nof , consistent with the conditions of the prob-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "lem. ¥% is connected with the constant N referred",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "to before by the relation 2xN = R. We obtain",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "R _EN RT\nF=— xT iele Rp, ... dpi= — a lg B.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 5 ---\n6 THEORY OF BROWNIAN MOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Now let us consider a quantity of liquid enclosed\nin a volume V; let there be ” solute molecules\n(or suspended particles respectively) in the por-\ntion V* of this volume V, which are retained in\nthe volurne ¥* by a semi-permeable partition ;\nthe integration limits of the integral B obtained\nin the expressions for S and F will be affected\naccordingly. The combined. volume of the solute\nmolecules (or suspended particles) is taken as\nsmall compared with V*, This system will be\ncompletely defined according to the theory under\ndiscussion by the variables of conditiong, . . . £1.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ii the molecular picture were extended to deal\nwith every single unit, the calculation of the\nintegral B would offer such difficulties that an\nexact: calculation of F could be scarcely contem-\nplated. Accordingly, we need here only to know\nhow F depends on the magnitude of the volume\nV*, in which all the solute molecules, or suspended\nbodies (hereinafter termed briefly “ particles”)\nare contained.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We will call «3, y,, 2, the rectangular Co-ordinates\nof the centre of gravity of the first particle,\nX, Vs» 2, those of the second, etc., +n, Yn, %» those\nof the last particle, and allocate for the centres\nof gravity of the particles the indefinitely small\ndomains of parallelopiped form dx,, dy,, dz; dx,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dy, dz, .. . Am, dyn, dz, lying wholly within\nv*. The value of the integral appearing in the\nexpression for F will be sought, with the limita-\ntion that the centres of gravity of the particles\nlie within a domain defined in this manner. The\nintegral can then be brought into the form",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where J is independent of dx,, dy,, etc., as well as\nof V*, ie. of the position of the semi-permeable\npartition. But J is also independent of any\nspecial choice of the position of the domains of\nthe centres of gravity and of the magnitude of\nv¥*, as will be shown immediately. For if a\nsecond system were given, of indefinitely small\ndomains of the centres of gravity of the particles,\nand the latter designated dx,'dy,'dzy' ; dx,'dyo'dzq'\n. « « Un! dyn'dz,', which domains differ from those\noriginally given in their position but not in their\nmagnitude, and are similarly all contained in V*,\nan analogous expression holds :—\ndB! = dx,'dyy' ... dzn' . J’.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "dxdy,... d&y = dx,dyy'... dz,'.\nTherefore",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 6 ---\n8 THEORY OF BROWNIAN MOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "But from the moleculartheory of Heat given in the\npaper quoted,(*) it is easily deduced that dB/B (4)\n(ordB’/B respectively) is equal to the probability\nthat at any arbitrary moment of time the centres\nof gravity of the particles are included in the\ndomains (d%,... dz,) or (dx,'... d%,\") respec-\ntively. Now, if the movements of single particles\nare independent of one another to a sufficient\ndegree of approximation, if the liquid is homo-\ngeneous and exerts no force on the particles, then\nfor equal size of domains the probability of each\nof the two systems will be equal, so that the follow-\ning holds :\n4B aB'",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "B B'\nBut from this and the last equation obtained it\nfollows that",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "J=J.\nWe have thus proved that J is independent both\nof ¥* and of #, ¥4,...%. By integration we\nobtain",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(*,A, Einstein, Ann. d. Phys., 11, p. 170, 1903.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "It has been shown by this analysis that the exist-\nence of an osmotic pressure can be deduced from\nthe molecular-kinetic theory of Heat; and that\nas far as osmotic pressure is concerned, solute\nmolecules and suspended particles are, according\nto this theory, identical in their behaviour at\ngreat dilution.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "§ 3. THEORY OF THE DIFFUSION OF SMALL\nSPHERES IN SUSPENSION",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Suppose there be suspended particles irregularly\ndispersed in a liquid. We will consider their\nstate of dynamic equilibrium, on the assumption\nthat a force K acts on the single particles, which\nforce depends on the position, but not on the time.\nIt will be assumed for the sake of simplicity that\nthe force is exerted everywhere in the direction of\nthe x axis.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Let » be the number of suspended particles per\nunit volume; then in the condition of dynamic\nequilibrium v is such a function of « that the varia-\ntion of the free energy vanishes for an arbitrary\nvirtual displacement 8% of the suspended sub-\nstance. We have, therefore,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 7 ---\n10 THEORY OF BROWNIAN MOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "It will be assumed that the liquid has unit area\nof cross-section perpendicular .to the * axis and\nis bounded by the planes ¥ = 0 and x =/, We\nhave, then,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "and\n_fiov de, Rio\n8S = fizz a =—y), Yiaiead\nThe required condition of equilibrium is there-\nfore",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "RT dv\n(x) —ky+ a = 0\nor\nKyv—#ao , 5",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The last equation states that equilibrium with the\nforce K is brought about by osmotic pressure\nforces.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The last equation states that equilibrium with the force K is brought about by osmotic pressure forces.",
+        "Metaphorical Phrase": "equilibrium with the force K is brought about by osmotic pressure forces",
+        "Type": "Structural",
+        "Conceptual Mapping": "Balancing forces is like balancing scales",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Equation (1) can be used to find the coefficient\nof diffusion of the suspended substance. We can\nlook upon the dynamic equilibrium condition con-\nsidered here as a superposition of two processes\nproceeding in opposite directions, namely :—",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "We can look upon the dynamic equilibrium condition considered here as a superposition of two processes proceeding in opposite directions, namely :—",
+        "Metaphorical Phrase": "look upon the dynamic equilibrium condition considered here as a superposition of two processes proceeding in opposite directions",
+        "Type": "Structural",
+        "Conceptual Mapping": "Dynamic equilibrium is a superposition of two processes",
+        "creativity": "genuine"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1. A movement of the suspended substance\nunder the influence of the force K acting on each\nsingle suspended particle.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "A movement of the suspended substance under the influence of the force K acting on each single suspended particle.",
+        "Metaphorical phrase": "under the influence of the force K",
+        "Type": "Structural",
+        "Conceptual Mapping": "Force is an influencer"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2. A process of diffusion, which is to be looked\nupon as a result of the irregular movement of the\nparticles produced by the thermal molecular\nmovement.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "A process of diffusion, which is to be looked upon as a result of the irregular movement of the particles produced by the thermal molecular movement.",
+        "Metaphorical Phrase": "is to be looked upon",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding the process of diffusion is like viewing or observing something",
+        "creativity": "uncertain"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If the suspended particles have spherical form\n(radius of the sphere = P), and if the liquid has\na coefficient of viscosity k, then the force K im-\nparts to the single particles a velocity (*)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "K\nSakP : : . (6)\nand there will pass a unit area per unit of time\nvK\n6nkP",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If, further, D signifies the coefficient of diffusion\nof the suspended substance, and » the mass of a\nparticle, as the result of diffusion there will pass\nacross unit area in a unit of time,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(*) Cf. eg. G. Kirchhoff, ‘ Lectures on Mechanics,\"\nLect. 26, § 4.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 8 ---\n12 THEORY OF BROWNIAN MOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Since there must be dynamic equilibrium, we",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We can calculate the coefficient of diffusion\nfrom the two conditions (1) and (2) found for the\ndynamic equilibrium. We get\nAY RP ”)\nN 6rkP 7\nThe coefficient of diffusion of the suspended sub-\nstance therefore depends (except for universal\nconstants and the absolute temperature) only on\nthe coefficient of viscosity of the liquid and on the\nsize of the suspended particles.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "§ 4. ON THE IRREGULAR MOVEMENT OF ParTICLES\nSUSPENDED IN A LIQUID AND THE RELATION\nOF THIS TO DIFFUSION",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We will turn now to a closer consideration of\nthe irregular movements which arise from thermal\nmolecular movement, and give rise to the diffusion\ninvestigated in the last paragraph.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "We will turn now to a closer consideration of the irregular movements which arise from thermal molecular movement, and give rise to the diffusion investigated in the last paragraph.",
+        "Metaphorical phrase": "irregular movements which arise from thermal molecular movement, and give rise to the diffusion",
+        "Type": "Structural",
+        "Conceptual Mapping": "Thermal molecular movement is irregular movement"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Evidently it must be assumed that each single\nparticle executes a movement which is indepen-\ndent of the movement of all other particles; the\nmovements of one and the same particle after",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "different intervals of time must be considered as\nmutually independent processes, so long as we\nthink of these intervals of time as being chosen\nnot too small.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We will introduce a time-interval 7 in our dis-\ncussion, which is to be very small compared with\nthe observed interval of time, but, nevertheless,\nof such a magnitude that the movements executed\nby a particle in two consecutive intervals of time\n7 are to be considered as mutually independent\nphenomena (8).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Suppose there are altogether 1 suspended par-\nticles in a liquid. In an interval of time 7 the\nx-Co-ordinates of the single particles will increase\nby A, where 4 has a different value (positive or\nnegative) for each particle. For the value of 4\na certain probability-law will hold ; the'number\ndn of the particles which experience in the time-\ninterval + a displacement which lies between 4\nand 4 + aA, will be expressed by an equation of",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "+o\nj +2 6(A)ad = x\nand ¢ only differs from zero for very small values\nof A and fulfils the condition\n$(4) = ¢(— 4).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 9 ---\n14 THEORY OF BROWNIAN MOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We will investigate now how the coefficient of\ndiffusion depends on ¢, confining ourselves again\nto the case when the number v of the particles per\nunit volume is dependent only on # and ¢.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Putting for the number of particles per unit\nvolume v = f(x, 4), we will calculate the distri-\nbution of the particles at a time ¢-+ 7 from the\ndistribution at the time 4. From the definition\nof the function +(A), there is easily obtained the",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "number of the particles which are located at the.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "time 4 + 7 between two planes perpendicular to\nthe x-axis, with absciss « and « + dx. We get",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "fe, t+ ode = dx, j- fe + aypayad.\nNow, since 7 is very small, we can put\nKeé t+ =f, + wv\nFurther, we can expand f(x + 4, 4) in powers",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "of A\nfe+4,0=f(a, 6+ Aue: ) res med i)",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We can bring this expansion under the integral\nsign, since only very small values of 4 contribute\nanyone to the latter. We ‘obtain",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "fr Ye=fl” Cones sKA)id\n+f Sues.",
+    "paragraph_type": "Unknown",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "On the right-hand side the second, fourth, etc.,\nterms vanish since $(x) = ¢(— x) ; whilst of the\nfirst, third, fifth, etc., terms, every succeeding\nterm is very small compared with the preceding.\nBearing in mind that",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "and taking into consideration only the first and\nthird terms on the right-hand side, we get from\nthis equation",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This is the well-known differential equation for\ndiffusion, and we recognise that D is the coefficient\nof diffusion.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Another important consideration can be related\nto this method of development. We have assumed\nthat the single particles are all referred to the\nsame Co-ordinate system. But this is unneces-\nsary, since the movements of the single particles\nare mutually independent. We will now refer\nthe motion of each particle to a co-ordinate",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "We have assumed that the single particles are all referred to the same Co-ordinate system. But this is unnecessary, since the movements of the single particles are mutually independent.",
+        "terms_in_conflict": [
+          "single particles referred to the same Co-ordinate system",
+          "movements of the single particles are mutually independent"
+        ],
+        "explanation": "The paradox arises from the assumption that all particles are referred to the same coordinate system, while also stating that their movements are mutually independent. If the movements are truly independent, then they may not necessarily adhere to the same coordinate system.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "--- Page 10 ---\n16 THEORY OF BROWNIAN MOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "system whose origin coincides at the time ¢ = o\nwith the position of the centre of gravity of the\nparticles in question; with this difference, that\nS(%, #)dx now gives the number of the particles\nwhose x Co-ordinate has increased between the\ntime # =o and the time ¢=#, by a quantity\nwhich lies between x and * + dx. In this case\nalso the function f must satisfy, in its changes,\nthe equation (1). Further, we must evidently",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The problem, which accords with the problem of\nthe diffusion outwards from a point (ignoring pos-\nsibilities of exchange between the diffusing par-\nticles) is now mathematically completely defined\n(g) ; the solution is",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The probable distribution of the resulting dis-\nplacements in a given time ¢ is therefore the same\nas that of fortuitous error, which was to be ex-\npected. But it is significant how the constants in\nthe exponential term are related to the coefficient\nof diffusion. We will now calculate with the help",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "of this equation the displacement A, in the direc-\ntion of the X-axis which a particle experiences on\nan average, or—more accurately expressed—the\nsquare root of the arithmetic mean of the squares\nof displacements in the direction of the X-axis;\nit is\nwaVai= Jai. - (tt)\nThe mean displacement is therefore propor-\ntional to the square root of the time. It can\neasily be shown that the square root of the mean\nof the squares of the total displacements of the\nparticles has the value Aw/3 . « (12)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "§ 5. FORMULA FOR THE MEAN DISPLACEMENT OF\nSUSPENDED PARTICLES. A NEW METHOD OF\nDETERMINING THE REAL SIZE OF THE ATOM",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In § 3 we found for the coefficient of diffusion D\nof a material suspended in a liquid in the form of",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Further, we found in § 4 for the mean value of the",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "displacement of the particles in the direction of",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "the X-axis in time #—\nde = »/2Di.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 11 ---\n18 THEORY OF BROWNIAN' MOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "By eliminating D we obtain\n— sy, ,/RT 1\nde = Jt NF Sopp\nThis equation showshow A, depends on T, &, and P.\nWe will calculate how great A, is for one second,\nif N is taken equal to 6-408 in accordance with the\nkinetic theory of gases, water at 17° C. is chosen\nas the liquid (& == 1-35 . 107), and the diameter of\nthe particles-oor mm. We get\nA, = 8I0-§ cm. = o-8u,\nThe mean displacement in one minute would be,\ntherefore, about 6p.\nOn the other hand, the relation found can be\nused for the determination of N. We obtain",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "OME gmk”\nIt is to be hoped that some enquirer may succeed\nshortly in solving the problem suggested here,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "which is so important in connection with the\ntheory of Heat. (13)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Berne, May, 1905.\n(Received, 11 May, 1905.)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ON THE THEORY OF THE BROWNIAN\nMOVEMENT",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(From the Annalen der Physik (4), 19, 1906, pp.\n371-381)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "OON after the appearance of my paper (*)\nS:: the movements of particles suspended\nin liquids demanded by the molecular theory of\nheat, Siedentopf (of Jena) informed me that he\nand other physicists—in the first instance, Prof.\nGouy (of Lyons)—had been convinced by direct\nobservation that the so-called Brownian motion\nis caused by the irregular thermal movements of\nthe molecules of the liquid.(t)",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Not only the qualitative properties of the\nBrownian motion, but also the order of magnitude\nof the paths described by the particles correspond\ncompletely with the results of the theory. I will\nnot attempt here a comparison of the slender\nexperimental material at my disposal with the",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(*) A. Einstein, Ann. d. Phys., 17, p. 549, 1905.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(t) M. Gouy, Journ. de Phys. (2), 7, 561, 1888.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]

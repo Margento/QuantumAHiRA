@@ -1,0 +1,459 @@
+[
+  {
+    "paragraph": "--- Page 1 ---\nQuantum Theory of a Monoatomic Ideal Gas\nA translation of Quantentheorie des einatomigen idealen Gases (Einstein, 1924)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "A. Einstein\nTranslation by L. Amendola, ITP, University of Heidelberg\n(Dated: January 9, 2015)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This is a translation of the paper appeared in Sitzungsber. phys.-math. Kl. 1924, Gesamtsitzung\nvom 10. Juli 1924, p.261-267. It seems this paper has never been translated in English so far.\nIn this paper Einstein develops for the first time the Bose-Einstein statistics, applying the ideas\nfirst discussed in a paper by D. Bose and extending them to massive particles (here called atoms or\nmolecules). In 1925 Einstein publishes a second part of this paper (Sitzungsberichte der Preussischen\nAkademie der Wissenschaften, Berlin, Physikalisch-mathematische Klasse, 1925, p. 3-14; we refer\nto this as the second paper) in which he investigates, among other, the existence of what is now known\nas the Bose-Einstein condensates. Except for abstract, footnotes in italic and final acknowledgments,\nall the test is from the original paper (o.p. in the following). The equation numbering does not\nconform to the original one.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "A quantum theory of ideal gases free from arbitrary Ansa&tzen does not yet exist today. This gap will be filled in\nthe following on the basis of a new approach proposed by Mr. D. Bose, from which that author has obtained a most\nremarkable derivation of Planck’s radiation formula [1].",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "This gap will be filled in the following on the basis of a new approach proposed by Mr. D. Bose, from which that author has obtained a most remarkable derivation of Planck’s radiation formula [1].",
+        "Metaphorical phrase": "This gap will be filled",
+        "Type": "Structural",
+        "Conceptual Mapping": "Non-existent scientific theory is a gap"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The method following Bose can be characterized as follows. The phase space of an elementary object (in this case\nmonoatomic molecules) with respect to a given (three dimensional) volume is divided into \"cells\" of extension h°.\nConsidering many elementary objects, their thermodynamic can be characterized by how the objects are distributed\namong these cells. The \"probability\" of a macroscopically defined state (in Planck’s sense) is equal to the number of\ndifferent microscopic states through which the macroscopic state can be thought realized. The entropy of the macro-\nscopic state and thus the statistical and thermodynamic behavior of the system is then determined by Boltzmann’s\ntheorem.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The phase space of an elementary object (in this case monoatomic molecules) with respect to a given (three dimensional) volume is divided into \"cells\" of extension h°.",
+        "Metaphorical Phrase": "divided into \"cells\" of extension h°",
+        "Type": "Structural",
+        "Conceptual Mapping": "The phase space is a physical space that can be divided into smaller units called 'cells', similar to how a volume of space can be divided into smaller units.",
+        "creativity": "uncertain"
+      },
+      {
+        "Full Sentence": "Considering many elementary objects, their thermodynamic can be characterized by how the objects are distributed among these cells.",
+        "Metaphorical Phrase": "distributed among these cells",
+        "Type": "Structural",
+        "Conceptual Mapping": "The distribution of objects in a phase space is like the distribution of objects in a physical space.",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "The \"probability\" of a macroscopically defined state (in Planck’s sense) is equal to the number of different microscopic states through which the macroscopic state can be thought realized.",
+        "Metaphorical Phrase": "probability\" of a macroscopically defined state",
+        "Type": "Ontological",
+        "Conceptual Mapping": "The possibility of a state's existence is like probability in statistics.",
+        "creativity": "uncertain"
+      },
+      {
+        "Full Sentence": "The entropy of the macroscopic state and thus the statistical and thermodynamic behavior of the system is then determined by Boltzmann’s theorem.",
+        "Metaphorical Phrase": "entropy of the macroscopic state",
+        "Type": "Ontological",
+        "Conceptual Mapping": "The disorderliness of a state is like the concept of entropy in thermodynamics.",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The phase-space volume to which a certain range of coordinates x,y,z and corresponding momenta pz, py, pz of a\nmonoatomic molecule belongs, can be estimated through the integral",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If V is the volume available to the molecule, then the phase volume of all states whose energy E = a (Pp? + Py +p?)\nis smaller than a certain value E, is given by",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "@=V- ; - t(2mE)>/? (2)\nThe number As of the cells belonging to a given elementary range AF of energy is as follows\n4\nAs= 2g (2m) PEPAE (3)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "No matter how small a AE/E is given, one can always choose V so large that As is a very large number.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "II. STATE PROBABILITY AND ENTROPY",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We define now the macroscopic state of the gases.\nLet be present in the volume V a number n [2]of molecules with mass m. A number An of these will have energies\nbetween E and E + AE. These will distribute themselves among the As cells. Of these As cells, a number",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "poAs, contain no molecules\npids, contain 1 molecule",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 2 ---\nand so on. The probability p, associated to the s-th cell is then clearly function of the cell number s and of the integer\nr and will be therefore denoted in the following wth p%. It is evident that for any s",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "For a given p* and a given An the number of possible distributions of the An molecules over the considered energy\nrange is",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "As!\nTT-=o (pts)!\nwhich can be replaced by[3]\n1\nby employing Stirling’s formula[4] and Eq. (4), which can also be written as a productory over all values of r and s\n1\nIL, 7)?\"",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "By extending the product to all values of s from 1 to oo, the expression (7) represents clearly the total number of\ncomplexions[5], i.e. the probability in the Planckian sense of the macroscopic state of a gas defined though the p%.\nThe Boltzmann theorem gives for the entropy S' of these states the expression|6]",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In thermodynamic equilibrium S$ is a maximum, for which additional conditions to be satisfied, beside Eq. (4), are\nthat the total number n of atoms and their total energy E are fixed. These conditions can be clearly expressed as[7|",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where E£* denotes the energy of a molecule that belongs to the s-th phase-space cell. From Eq. (3) it follows that",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Performing the variation [8] with the ps as variables, one finds with an appropriate choice of the constants 6°, A and",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Because of Eq. (4) one has therefore\nBe =1-e\" (14)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This results in the average number of molecules per cell",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "; Sp d 3 d\nDrv = a rere = wee) = 8 ee ee (15)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 3 ---\nThe equations (9) and (10) become then",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "which, together with\na® = A+ Bs3 (18)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "determine the constants A and B. In this way the distribution law in thermodynamic equilibrium is completely\ndetemined.\nInserting the results of this paragraph in Eq. (8) gives the following expression for the equilibrium entropy",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "S=-k {r [log(t — e*)| — An— 0 (19)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We should now estimate the temperature of the system. To this scope we employ the definition of entropy in a\ninfinitesimally small isopycnal heating [11] and obtain",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "= daé E E\ndE =Td, —kT —ndA——dB-— Bd 20\nscarf Hts Bana 2)} “\"\nwhich in consideration of Eqs. (12,9 and 10) gives\ndE =kTBd (=) = wreak (21)\nc c\nor\n1 B\nat 22\nKT oc (22)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In this way the temperature is also expressed indirectly through the energy and the other quantities given above.\nFrom Eq. (21) and (22) it follows also that the free energy F' of the system is given by",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "p= p-1s= 10 {og 0 —e\")— anh (23)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The pressure p of the gas is given by",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "OF EOB ~Jloge 2E\n- —kT E =\nPav ca av BV\nThis yields the remarkable result that the relation between the kinetic energy and the pressure is the same as in the\nclassical theory, where it is obtained by the virial theorem.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "IV. THE CLASSICAL THEORY AS LIMITING CASE",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "IV. THE CLASSICAL THEORY AS LIMITING CASE",
+        "Metaphorical Phrase": "THE CLASSICAL THEORY AS LIMITING CASE",
+        "Type": "Structural",
+        "Conceptual Mapping": "The classical theory is a limiting case",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "By discarding the unity next to e®” one recovers the result of the classical theory; in the following it will be shown\nunder which conditions this is legitimate. In view of (15), (12) and (22), the average number n* of molecules per cell\nis given by",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Because of (11) the number of molecules with energy within the small range dE* is also given by",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 4 ---\nin agreement with the classical theory. Eq. (9) gives then, under the same condition of neglecting the unity term,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "For hydrogen at atmospheric pressure this quantity is roughly 6 - 10+, that is much larger then unity. This shows\nthat the classical theory is a rather good approximation. The error however grows with larger densities and smaller\ntemperatures and for helium at the critical state is quite considerable; in this case however one can not any longer\nspeak of an ideal gas.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "This shows that the classical theory is a rather good approximation.",
+        "Metaphorical Phrase": "the classical theory is a rather good approximation",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theory is an approximation",
+        "creativity": "uncertain"
+      },
+      {
+        "Full Sentence": "The error however grows with larger densities and smaller temperatures",
+        "Metaphorical Phrase": "The error however grows with larger densities and smaller temperatures",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Errors are growing entities",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "in this case however one can not any longer speak of an ideal gas.",
+        "Metaphorical Phrase": "speak of an ideal gas",
+        "Type": "Structural",
+        "Conceptual Mapping": "Describing a state of matter is a form of speech",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We now estimate from (21) the entropy for our limiting case. Replacing log(1 — e~°’) with —e®” and this with\n—1/(e* — 1), one obtains, also in view of (16),",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where v is the number of moles of gas and R is the ideal gas constant. This result for the absolute value of entropy\nis in agreement with well-known results of quantum statistics.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "According to the theory presented here, Nernst theorem[12] is satisfied for ideal gases. In reality, our formulas can\nnot be applied directly to extremely low temperatures, as we have assumed in their derivation that the p* change only\nrelatively infinitely little when s changes by 1. However, one can see immediately that the entropy must vanish at\nabsolute zero. In fact, in that case all the molecules lie in the first cell; for this state there is only a single distribution\nof molecules according to our counting. From this it immediately follows the correctness of the assertion.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "According to the theory presented here, Nernst theorem[12] is satisfied for ideal gases. In reality, our formulas can not be applied directly to extremely low temperatures, as we have assumed in their derivation that the p* change only relatively infinitely little when s changes by 1.",
+        "terms_in_conflict": [
+          "Nernst theorem",
+          "extremely low temperatures"
+        ],
+        "explanation": "The paradox arises from the claim that the Nernst theorem is satisfied for ideal gases, while also stating that the formulas cannot be applied to extremely low temperatures. The Nernst theorem is about behavior at absolute zero, a very low temperature, so this creates a contradiction.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "However, one can see immediately that the entropy must vanish at absolute zero. In fact, in that case all the molecules lie in the first cell; for this state there is only a single distribution of molecules according to our counting.",
+        "terms_in_conflict": [
+          "entropy must vanish at absolute zero",
+          "single distribution of molecules"
+        ],
+        "explanation": "The paradox here is that the authors claim entropy must vanish at absolute zero, implying a state of perfect order, but also state that there is a single distribution of molecules, which implies some level of disorder or randomness.",
+        "creativity": "uncertain"
+      }
+    ]
+  },
+  {
+    "paragraph": "V. THE DEPARTURE OF THE GAS EQUATION FROM THE CLASSICAL THEORY",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Our results for as concerns the equation of state are contained into the following equations[13]:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "B= Sev = cy) = i (30)\n: 8\na’ = At a (31)\nES h2 (4 —3\nc= SF om (Fv) (32)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We wish now to transform and discuss these results. From the argument in Sect. 4 it follows that the quantity e~4,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "which we will denote with \\ [14], is smaller than unity. This is a measure of the “degeneration” of the gas. We can\nnow put Eqs. (29) and (30) in form of a double sum",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ex?/3,\nn= Soave “er= (33)\n= 2 es2/3_",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where 7 is to be summed for all s from 1 to oo.\nThe sum over s can be performed by replacing it with an integration from 0 to oo. This is allowed since the\nexponential function is slowly changing with s[15]. We obtain then",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 5 ---\nEq. (35) determines the degeneracy parameter A as a function of V,T and n, while Eq. (36) gives the energy and\ntherefore also the pressure of the gas. A general discussion of these equations consists in finding the function that\nexpresses the sum in (36) through the sum in (35). One obtains through division",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The average energy of the gas molecules for a given temperature (and also the pressure) is then always smaller than the\nclassical value and in fact the factor that expresses this reduction is the smaller the larger the degeneracy parameter\nX. In turn this parameter, in view of Eqs (35) and (32), is a function of (V/n)3mT.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If \\ is so small that \\? is negligible with respect to unity then one obtains[16]",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "BE: :\n—= Ser [1 - 0.0318h°F (2nmkT)~2| (38)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We consider now in which way the Maxwellian distribution is influenced by the quantum effects. Expanding Eq.\n(15) in powers of \\ and taking into account Eq. (31) one obtains",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "n> = const x e~*F (1 + New #F +...) (39)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The parenthesis expresses the quantum effects on the Maxwellian distribution. One sees that there are more slow\nmolecules with respect to fast ones than would be the case with Maxwell law.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The parenthesis expresses the quantum effects on the Maxwellian distribution.",
+        "Metaphorical phrase": "The parenthesis expresses",
+        "Type": "Structural",
+        "Conceptual Mapping": "Parenthesis is a messenger"
+      },
+      {
+        "Full sentence": "One sees that there are more slow molecules with respect to fast ones than would be the case with Maxwell law.",
+        "Metaphorical phrase": "One sees",
+        "Type": "Structural",
+        "Conceptual Mapping": "Understanding is seeing"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Finally, I would like to draw attention to a paradox whose resolution I have not succeeded to obtain [17]. There is\nno difficulty to handle by the method given here also the case of the mixture of two different gases. In this case, each\ntype of molecule has its special “cell”. This yields the additivity of the entropy of the components of the mixture. Each\ncomponent behaves, with respect to molecular energy, pressure and statistical distribution, as if it alone were present.\nA mixture of molecule numbers n1,n2, with molecules of the first and second kind no matter how little different\nfrom each other (in particular with respect to the molecular mass m), yields a different pressure and a different state\ndistribution when compared to a single gas of nj + nz molecules at the same temperature having practically the same\nmolecular mass and the same volume. But this seems really impossible.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "A mixture of molecule numbers n1,n2, with molecules of the first and second kind no matter how little different from each other (in particular with respect to the molecular mass m), yields a different pressure and a different state distribution when compared to a single gas of nj + nz molecules at the same temperature having practically the same molecular mass and the same volume.",
+        "Metaphorical phrase": "A mixture of molecule numbers n1,n2, with molecules of the first and second kind no matter how little different from each other (in particular with respect to the molecular mass m), yields a different pressure and a different state distribution when compared to a single gas of nj + nz molecules at the same temperature having practically the same molecular mass and the same volume.",
+        "Type": "Structural",
+        "Conceptual Mapping": "Different molecular combinations are compared to different recipes producing unique results."
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "Each component behaves, with respect to molecular energy, pressure and statistical distribution, as if it alone were present. A mixture of molecule numbers n1,n2, with molecules of the first and second kind no matter how little different from each other (in particular with respect to the molecular mass m), yields a different pressure and a different state distribution when compared to a single gas of nj + nz molecules at the same temperature having practically the same molecular mass and the same volume. But this seems really impossible.",
+        "terms_in_conflict": [
+          "Individual behavior of gas components",
+          "Collective behavior of gas mixture"
+        ],
+        "short_explanation": "The paradox arises from the contradiction between the behavior of individual components of a gas mixture and the collective behavior of the mixture itself. Each component behaves as if it were alone, yet a mixture of two gases behaves differently than a single gas with the same total number of molecules, temperature, molecular mass, and volume. This seems impossible because the individual and collective behaviors should theoretically align.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "I thank Davide Amendola for help with the German translation. The original paper can be found at\nhttp://nausikaa2.mpiwg-berlin.mpg.de/cgi-bin/toc/toc.x.cgi?dir=PG8B073X. An English translation of the second pa-\nper by Einstein and of Bose’s paper can be found at wavewatching.net/lost-papers/",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "‘0 appear in “Zeitschr. fuer sik”.\n1| To appear in “Zeitschr. fuer Physik”\n[2] (in the o.p. the symbols V,n appeared as if multiplied together)\n[3] (in the o.p. the symbol p>. at exponent appeared without subscript and superscript)\n[4] (ie. nla n\"e\")\n[5] (i.e. microstates)\n[6] (Boltzmann’s constant k was denoted as x in the o.p.)\n[7] n° = Y. rp; is the corresponding number of molecules in the s-th cell.\n[8] (of the entropy)\n[9] (in the symbols p;., 0°, 8°, E* the symbol s is a superscript index, not an exponent)\n[10] (The constant A turns out to be related to what in modern notation is called the chemical potential 4, A = —p/kT )\n[11] (i.e. a@ constant density transformation; since the number of particle is here also assumed constant, constant density implies\nconstant volume)\n[12] (that the entropy vanishes at zero absolute temperature)\nin the o.p. the sum index is denoted by o\n13] (in th A index is denoted b\n[14] (this quantity if often called fugacity in modern literature)\no| (“with o” in the o.p.\n15| (“with o” in thi\n[16] (The numerical factor was corrected to 0.1768 in the second paper by Einstein)\nis is sometimes called Gibbs’ paradox; Einstein solves it in the second paper.\n17| (This 7. i lled Gibbs’ dox; Einstet IL it in th d",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]

@@ -1,0 +1,1349 @@
+[
+  {
+    "paragraph": "--- Page 1 ---\n\"s- Royal Society Publishing",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The Quantum Theory of the Electron",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Source: Proceedings of the Royal Society of London. Series A, Containing Papers of a\nMathematical and Physical Character, Vol. 117, No. 778 (Feb. 1, 1928), pp. 610-624\nPublished by: The Royal Society",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Stable URL: http://www jstor.org/stable/9498 1",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at\nhttp://www jstor.org/page/info/about/policies/terms jsp",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of\ncontent in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms\nof scholarship. For more information about JSTOR, please contact support @jstor.org.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The Royal Society is collaborating with JSTOR to digitize, preserve and extend access to Proceedings of the\nRoyal Society of London. Series A, Containing Papers of a Mathematical and Physical Character.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The Quantum Theory of the Electron.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "By P. A. M. Dirac, St. John’s College, Cambridge.\n(Communicated by R. H. Fowler, F.R.S.—Received January 2, 1928.)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The new quantum mechanics, when applied to the problem of the structure\nof the atom with point-charge electrons, does not give results in agreement\nwith experiment. The discrepancies consist of “ duplexity ” phenomena, the\nobserved number of stationary states for an electron in an atom being twice\nthe number given by the theory. To meet the difficulty, Goudsmit and Uhlen-\nbeck have introduced the idea of an electron with a spin angular momentum\nof half a quantum and a magnetic moment of one Bohr magneton. This model\nfor the electron has been fitted into the new mechanics by Pauli,* and Darwin,\nworking with an equivalent theory, has shown that it gives results in agreement\nwith experiment for hydrogen-like spectra to the first order of accuracy.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The new quantum mechanics, when applied to the problem of the structure of the atom with point-charge electrons, does not give results in agreement with experiment.",
+        "Metaphorical Phrase": "does not give results in agreement",
+        "Type": "Structural",
+        "Conceptual Mapping": "Experiment results are seen as partners in dialogue",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "The discrepancies consist of “ duplexity ” phenomena, the observed number of stationary states for an electron in an atom being twice the number given by the theory.",
+        "Metaphorical Phrase": "observed number of stationary states",
+        "Type": "Structural",
+        "Conceptual Mapping": "Electron states are seen as static locations",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "This model for the electron has been fitted into the new mechanics by Pauli, and Darwin, working with an equivalent theory, has shown that it gives results in agreement with experiment for hydrogen-like spectra to the first order of accuracy.",
+        "Metaphorical Phrase": "This model for the electron has been fitted into the new mechanics",
+        "Type": "Structural",
+        "Conceptual Mapping": "Models are pieces that can be fitted into a structure",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The new quantum mechanics, when applied to the problem of the structure of the atom with point-charge electrons, does not give results in agreement with experiment.",
+        "terms_in_conflict": [
+          "new quantum mechanics",
+          "results in agreement with experiment"
+        ],
+        "explanation": "The paradox lies in the fact that the new quantum mechanics, which is supposed to be a more accurate model, does not align with experimental results when applied to the structure of the atom with point-charge electrons.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "The observed number of stationary states for an electron in an atom being twice the number given by the theory.",
+        "terms_in_conflict": [
+          "observed number of stationary states",
+          "number given by the theory"
+        ],
+        "explanation": "The paradox here is that the observed number of stationary states for an electron in an atom is twice the number predicted by the theory, indicating a discrepancy between theoretical predictions and experimental observations.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "This model for the electron has been fitted into the new mechanics by Pauli,* and Darwin, working with an equivalent theory, has shown that it gives results in agreement with experiment for hydrogen-like spectra to the first order of accuracy.",
+        "terms_in_conflict": [
+          "model for the electron",
+          "results in agreement with experiment"
+        ],
+        "explanation": "The paradox is that while the new quantum mechanics initially did not agree with experimental results, a model for the electron has been developed that fits into the new mechanics and does agree with experimental results for hydrogen-like spectra to the first order of accuracy.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "The question remains as to why Nature should have chosen this particular",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "model for the electron instead of being satisfied with the point-charge. One\nwould like to find some incompleteness in the previous methods of applying\nquantum mechanics to the point-charge electron such that, when removed,\nthe whole of the duplexity phenomena follow without arbitrary assumptions.\nIn the present paper it is shown that this is the case, the incompleteness of",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "the previous theories lying in their disagreement with relativity, or, alternate-\ntively, with the general transformation theory of quantum mechanics. It\nappears that the simplest Hamiltonian for a point-charge electron satistying\nthe requirements of both relativity and the general transformation theory\nleads to an explanation of all duplexity phenomena without further assumption.\nAll the same there is a great deal of truth in the spinning electron model, at\nleast as a first approximation. The most important failure of the model seems\nto be that the magnitude of the resultant orbital angular momentum of an\nelectron moving in an orbit in a central field of force is not a constant, as the\nmodel leads one to expect.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "All the same there is a great deal of truth in the spinning electron model, at least as a first approximation.",
+        "Metaphorical phrase": "there is a great deal of truth in the spinning electron model",
+        "Type": "Ontological",
+        "Conceptual Mapping": "Ideas or theories are physical entities that can contain truth"
+      },
+      {
+        "Full sentence": "The most important failure of the model seems to be that the magnitude of the resultant orbital angular momentum of an electron moving in an orbit in a central field of force is not a constant, as the model leads one to expect.",
+        "Metaphorical phrase": "the model leads one to expect",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theories or models are guides"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "It appears that the simplest Hamiltonian for a point-charge electron satisfying the requirements of both relativity and the general transformation theory leads to an explanation of all duplexity phenomena without further assumption.",
+        "terms_in_conflict": [
+          "simplest Hamiltonian",
+          "relativity",
+          "general transformation theory",
+          "duplexity phenomena"
+        ],
+        "explanation": "The paradox lies in the claim that a simple Hamiltonian, which satisfies both relativity and quantum mechanics, can explain all duplexity phenomena. This is paradoxical because relativity and quantum mechanics are fundamentally incompatible theories.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "All the same there is a great deal of truth in the spinning electron model, at least as a first approximation.",
+        "terms_in_conflict": [
+          "spinning electron model",
+          "first approximation"
+        ],
+        "explanation": "The paradox here is that the spinning electron model is acknowledged as having a great deal of truth, yet it is only considered as a first approximation. This implies that while the model is somewhat accurate, it is not entirely correct, which is a paradoxical statement.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "The most important failure of the model seems to be that the magnitude of the resultant orbital angular momentum of an electron moving in an orbit in a central field of force is not a constant, as the model leads one to expect.",
+        "terms_in_conflict": [
+          "magnitude of the resultant orbital angular momentum",
+          "constant",
+          "model"
+        ],
+        "explanation": "The paradox lies in the expectation that the model would predict a constant orbital angular momentum for an electron in a central field of force, when in fact, the magnitude is not constant. This contradicts the model's prediction, creating a paradox.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "* Pauli, ‘ Z. £. Physik,’ vol. 43, p. 601 (1927).\n+ Darwin, ‘ Roy. Soc. Proc.,’ A, vol. 116, p. 227 (1927).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 3 ---\nQuantum Theory of Electron. 611",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "$1. Previous Relativity Treatments.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The relativity Hamiltonian according to the classical theory for a point\nelectron moving in an arbitrary electro-magnetic field with scalar potential Ay\nand vector potential A is",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "F= (@ + £ay) + (p + < Ay + mec,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where p is the momentum vector. It has been suggested by Gordon* that the\noperator of the wave equation of the quantum theory should be obtained from\nthis F by the same procedure as in non-relativity theory, namely, by putting",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "in it. This gives the wave equation",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "the wave function ~) being a function of 21, 2, 23, t. This gives rise to two\ndifficulties. :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The first is in connection with the physical interpretation of J. Gordon,\nand also independently Klein,} from considerations of the conservation theorems,\nmake the assumption that if },,, |, are two solutions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "— “fa ( 1 (duds 7, 288) | 2ebobada}",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "@ 7 - = A --\nIn = = {— ih (dy grad Go—G, grad Yq) +2 £ Anda da}\nare to be interpreted as the charge and current associated with the transition\nm->%n. This appears to be satisfactory so far as emission and absorption of\nradiation are concerned, but is not so general as the interpretation of the non-\nrelativity quantum mechanics, which has been developed{ sufficiently to enable\none to answer the question : What is the probability of any dynamical variable",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "* Gordon, ‘ Z. f. Physik,’ vol. 40, p. 117 (1926).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "+ Klein, ‘ Z. £. Physik,’ vol. 41, p. 407 (1927).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "+ Jordan, ‘ Z. f. Physik,’ vol. 40, p. 809 (1927); Dirac, ‘ Roy. Soc. Proc.,’ A, vol. 113,\np. 621 (1927).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 4 ---\n612 P. A. M. Dirac.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "at any specified time having a value lying between any specified limits, when the\nsystem is represented by a given wave function |)? The Gordon-Klein inter-\npretation can answer such questions if they refer to the position of the electron\n(by the use of o,.), but not if they refer to its momentum, or angular momentum\nor any other dynamical variable. We should expect the interpretation of the\nrelativity theory to be just as general as that of the non-relativity theory.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "The Gordon-Klein interpretation can answer such questions if they refer to the position of the electron (by the use of o,.), but not if they refer to its momentum, or angular momentum or any other dynamical variable.",
+        "terms_in_conflict": [
+          "Gordon-Klein interpretation",
+          "position of the electron",
+          "momentum",
+          "angular momentum",
+          "other dynamical variable"
+        ],
+        "explanation": "The paradox lies in the fact that the Gordon-Klein interpretation, while capable of addressing questions about the electron's position, is unable to do the same for other dynamical variables such as momentum or angular momentum. This creates a conceptual tension between the interpretation's capabilities and limitations.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "We should expect the interpretation of the relativity theory to be just as general as that of the non-relativity theory.",
+        "terms_in_conflict": [
+          "interpretation of the relativity theory",
+          "non-relativity theory"
+        ],
+        "explanation": "The paradox here is the expectation that the interpretation of the relativity theory should be as general as that of the non-relativity theory, despite the fundamental differences between the two theories.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "The general interpretation of non-relativity quantum mechanics is based on\nthe transformation theory, and is made possible by the wave equation being of\nthe form , .",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(H — W) } = 0, (2)\nie., being linear in W or 0/0, so that the wave function at any time determines\nthe wave function at any later time. The wave equation of the relativity\ntheory must also be linear in W if the general interpretation is to be possible.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The second difficulty in Gordon’s interpretation arises from the fact that if\none takes the conjugate imaginary of equation (1), one gets",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "which is the same as one would get if one put —e fore. The wave equation",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(1) thus refers equally well to an electron with charge e as to one with charge\n—e. If one considers for definiteness the limiting case of large quantum numbers\none would find that some of the solutions of the wave equation are wave packets\nmoving in the way a particle of charge — e would move on the classical theory,\nwhile others are wave packets moving in the way a particle of charge e would\nmove classically. For this second class of solutions W has a negative value.\nOne gets over the difficulty on the classical theory by arbitrarily excluding\nthose solutions that have a negative W. One cannot do this on the quantum\ntheory, since in general a perturbation will cause transitions from states with\nW positive to states with W negative. Such a transition would appear experi-\nmentally as the electron suddenly changing its charge from —e to e, a\nphenomenon which has not been observed. The true relativity wave equation\nshould thus be such that its solutions split up into two non-combining sets,\nreferring respectively to the charge — e and the charge e.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "One gets over the difficulty on the classical theory by arbitrarily excluding those solutions that have a negative W.",
+        "Metaphorical Phrase": "gets over the difficulty",
+        "Type": "Structural",
+        "Conceptual Mapping": "Overcoming a problem is traversing an obstacle",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "The true relativity wave equation should thus be such that its solutions split up into two non-combining sets, referring respectively to the charge — e and the charge e.",
+        "Metaphorical Phrase": "solutions split up into two non-combining sets",
+        "Type": "Structural",
+        "Conceptual Mapping": "Distinct solutions are separate entities",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "One gets over the difficulty on the classical theory by arbitrarily excluding those solutions that have a negative W. One cannot do this on the quantum theory, since in general a perturbation will cause transitions from states with W positive to states with W negative.",
+        "terms_in_conflict": [
+          "Classical theory",
+          "Quantum theory"
+        ],
+        "explanation": "The paradox arises from the conflict between classical and quantum theories. In classical theory, solutions with negative W can be excluded arbitrarily, but in quantum theory, this is not possible due to the potential for transitions from positive to negative W states.",
+        "creativity": "genuine"
+      },
+      {
+        "full_sentence": "Such a transition would appear experimentally as the electron suddenly changing its charge from —e to e, a phenomenon which has not been observed.",
+        "terms_in_conflict": [
+          "Quantum theory prediction",
+          "Experimental observation"
+        ],
+        "explanation": "The paradox here is between the prediction of quantum theory, which suggests that an electron could suddenly change its charge, and the lack of experimental evidence for such a phenomenon.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "In the present paper we shall be concerned only with the removal of the first\nof these two difficulties. The resulting theory is therefore still only an approxi-\nmation, but it appears to be good enough to account for all the duplexity\nphenomena without arbitrary assumptions.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "The resulting theory is therefore still only an approximation, but it appears to be good enough to account for all the duplexity phenomena without arbitrary assumptions.",
+        "Metaphorical phrase": "The resulting theory is therefore still only an approximation",
+        "Type": "Structural",
+        "Conceptual Mapping": "Theory is an approximation"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 5 ---\nQuantum Theory of Electron. 6138",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "§2. The Hamilionian for No Field.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Our problem is to obtain a wave equation of the form (2) which shall be\ninvariant under a Lorentz transformation and shall be equivalent to (1) in the\nlimit of large quantum numbers. We shall consider first the case of no field,\nwhen equation (1) reduces to",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(— p+ p? + mick) | = 0 (3)\nif one puts\n=Wig2\nras",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The symmetry between py and p,, Po, Ps required by relativity shows that,\nsince the Hamiltonian we want is linear in yo, it must also be linear in 9,, po\nand pz. Our wave equation is therefore of the form",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(Po +P: + %2P2 + taps + B) b = 0, (4)\nwhere for the present all that is known about the dynamical variables or\noperators 0%, %, %3, 8 is that they are independent of Mo, );, Po, Pz, 2.€., that they\ncommute with ¢, 2, %», %. Since we are considering the case of a particle\nmoving in empty space, so that all points in space are equivalent, we should\nexpect the Hamiltonian not to involve t, 7, %, 23. This means that «4, a,\n&%g, & are independent of ¢, x, %g, %g, 4.¢., that they commute with pp, 71, Po,\npz We are therefore obliged to have other dynamical variables besides the\nco-ordinates and momenta of the electron, in order that «,, %2, «3, @ may be\nfunctions of them. The wave function ) must then involve more variables\nthan merely 1, %, Ws, t.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "Since we are considering the case of a particle moving in empty space, so that all points in space are equivalent, we should expect the Hamiltonian not to involve t, 7, %, 23.",
+        "terms_in_conflict": [
+          "Particle moving in empty space",
+          "Hamiltonian not involving t, 7, %, 23"
+        ],
+        "explanation": "The paradox arises from the assumption that a particle moving in empty space should not involve certain variables in its Hamiltonian. However, the Hamiltonian, which describes the total energy of a system, should inherently involve variables related to the particle's position and momentum, even in empty space.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "We are therefore obliged to have other dynamical variables besides the co-ordinates and momenta of the electron, in order that «,, %2, «3, @ may be functions of them.",
+        "terms_in_conflict": [
+          "Dynamical variables besides the co-ordinates and momenta of the electron",
+          "«,, %2, «3, @ being functions of them"
+        ],
+        "explanation": "The paradox arises from the need to introduce additional dynamical variables beyond the electron's coordinates and momenta, so that certain functions can be expressed in terms of these variables. However, the introduction of these additional variables could potentially complicate the system, contradicting the initial assumption of a particle moving in empty space.",
+        "creativity": "common"
+      }
+    ]
+  },
+  {
+    "paragraph": "0 = (— po t+ py + &ePo + MPs + B) (Po + Py + %eP2 + &3P3 + B)\n= [pe + Lah? +E (4429 + 2%) MPs + B+ B (B+ Boy) pl, (5)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where the & refers to cyclic permutation of the suffixes 1, 2,3. This agrees with\n(3) if\na? = 1, OtyOts + Oty = O (4 #8) °\nr,s = 1, 2,3.\nG2 = mPc?, ay + Boy = 0\nIf we put 8 = ame, these conditions become\n2 = 1 Oyty + Hep, = O (ux v) vu, v= 1, 2, 3, 4. (6)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We can suppose the «,’s to be expressed as matrices in some matrix scheme.\npp a Pp y\nthe matrix elements of «, being, say, %, (¢’ ¢”). The wave function ) must",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 6 ---\n614 P. A. M. Dirac.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "now be a function of ¢ as well as x,, 72, #3, t. The result of «, multiplied into )\nwill be a function (x, )) of 2, #, ag, t, ¢ defined by",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(a) (a, t, 9) = Ly on 4 ¢) v (a, t, ¢’).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We must now find four matrices «, to satisfy the conditions (6). We make\nuse of the matrices",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "01 0-i 1 0\noy = o,=(— O35\n1 0, i 0 0-1",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "which Pauli introduced* to describe the three components of spin angular\nmomentum. These matrices have just the properties",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "oP = 1 G55 + G50, = 0, (7 # 8), (7)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "that we require for our «’s. We cannot, however, just take the o’s to be three\nof our «’s, because then it would not be possible to find the fourth. We must\nextend the o’s in a diagonal manner to bring in two more rows and columns,\nso that we can introduce three more matrices 9,, 95, e3 of the same form as\nOj, Og, G3, but referring to different rows and columns, thus :—",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "o=f(0 1 0 0) o=f0 -i 0 °| o3=(1 0 0 0)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1 0 0 0 i 0 0 0 0-1 0 O|\nr 4 . p>\n0 0 0 1 0 0 0 —t 0 0 1 0\nlo 0. 1 OJ lo 0 «@ OJ 0 0 0-1)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "ax=f0 0 1 0} p=f0 0 -« 0) p=fl 0 0 07",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "0 0 01 0 0 0% 0 1 0 0\n4 ‘a 4. r",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "1 0 0 0 i 0 0 0 0 0-1 0\nlo 1 0 0J lo «0 oJ} 0 60 0-1",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The ’s are obtained from the o’s by interchanging the second and third rows,\nand the second and third columns. We now have, in addition to equations (7)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "oP = Pr0s + PsP = 9 (#8), )\n| 5 (7)",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 7 ---\nQuantum Theory of Electron. 615\nIf we now take\n= 0191 2 = P1S2, OX = 0193, Oy = Pgs\nall the conditions (6) are satisfied, ¢.g.,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2 — 26.2 —\nOy” = 9404910, = po,\" = 1",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "2 2\nHyg == 0191P1F_ = 91°94Og Py O20, Hoy.",
+    "paragraph_type": "Unknown",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The following equations are to be noted for later reference",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "0459 = og = — 0,0,\ntogether with the equations obtained by cyclic permutation of the suffixes.\nThe wave equation (4) now takes the form\n[pot 01 (F, P) + pgme] p =0, (9)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where o denotes the vector (61, 62, 63).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "§ 3. Proof of Invariance under a Lorentz Transformation.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Multiply equation (9) by e3 on the left-hand side. It becomes, with the help\nof (8),\n[esPo + tes (1p, + 622+ ogps) + me] p = 0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Putting\nPo= Py\nP3=Ya Pr =Yn =r =I, 2, 3, (10)\nwe have .\n[DyePat me] b=0, w=, 2,3,4. (11)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The p, transform under a Lorentz transformation according to the law\nPu! = ZL dwyPr,\nwhere the coefficients a,, are c-numbers satisfying\nLG Our = Sir5 Lyle = Spy.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The wave equation therefore transforms into",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "[t2yy'pul + me] b =0, (12)\nwhere\nYul = DiGyur\\r-\nNow the y,, like the «,, satisfy",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 8 ---\n616 P, A. M. Dirac.\nThese relations can be summed up in the single equation\nWe + Yen = uw\nWe have . . .\nalte” Bye! = Zan Gur Or (Vx -F Yar)\n= 2D pa Our bya Sra",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Thus the y,’ satisfy the same relations as the y,. Thus we can put, analogously\nto (10)\nva = Ps\" Yr = P27",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where the o’’s and o’’s are easily verified to satisfy the relations corresponding\nto (7), (7’) and (8), if g9’ and ;’ are defined by ge’ = — ty1'y2\"7s', 91. = — tpe’ps’:",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We shall now show that, by a canonical transformation, the p”’s and o”s\nmay be brought into the form of the p’s and o’s. From the equation pe,” = I,\nit follows that the only possible characteristic values for p,’ are-++1. If one\napplies to gp,’ a canonical transformation with the transformation function 9’,\nthe result is",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "01/03 (er) + = — p2’py’ (ey) t = — 0",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Since characteristic values are not changed by a canonical transformation,\ng3/ must have the same characteristic values as — p,’. Hence the characteristic\nvalues of p,/ are + 1 twice and — 1 twice. The same argument applies to each\nof the other 9”’s, and to each of the o’’s.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Since pe,’ and,’ commute, they can be brought simultaneously to the diagonal\nform by a canonical transformation. They will then have for their diagonal\nelements each + 1 twice and —1 twice. Thus, by suitably rearranging the\ntows and columns, they can be brought into the form e, and og respectively.\n(The possibility 9,’ = -+ o3' is excluded by the existence of matrices that\ncommute with one but not with the other.)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Any matrix containing four rows and columns can be expressed as",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "© A Lylpoy + Lily’ Py + VyslrsPrFs (13)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where the sixteen coefficients c, ¢,, ¢,’, C,, are cnumbers. By expressing o,'\nin this way, we see, from the fact that it commutes with 9,’ = 3 and anti-\ncommutes* with os’ = 3, that it must be of the form",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": ",\nGy = 6,6, + CQ6q ++ 6310301 + Cg203Fe,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "* We say that a anticommutes with b when ab == — ba.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 9 ---\nQuantum Theory of Electron. 617",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "0 0 0 digg\nlO 0 a, 0 |\nThe condition o)? = 1 shows that ayo4, = 1, @gyayg3== 1. If we now apply\nthe canonical transformation : first row to be multiplied by (@2,/4,2)* and third\nrow to be multiplied by (a43/¢3,)?, and first and third columns to be divided\nby the same expressions, o,’ will be brought into the form of o,, and the diagonal\nmatrices o,’ and 9,’ will not be changed.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If we now express ,’ in the form (13) and use the conditions that it commutes\nwith o,/ =o, and o,’ =, and anticommutes with 9,’ = p3, we see that it\nmust be of the form",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The condition oe, = 1 shows that c, + c= 1, or ¢,/ = cos 0, ¢’ = sin 0.\nHence p,’ is of the form",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If we now apply the canonical transformation : first and second rows to be\nmultiplied by e® and first and second columns to be divided by the same\nexpression, 9,’ will be brought into the form ,, and oj, o3, es will not be altered.\n2, and oy’ must now be of the form pe, and og, on account of the relations\ntps’ = 03/01’, tog’ = 0,'0y’.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Thus by a succession of canonical transformations, which can be combined\nto form a single canonical transformation, the e”s and o’’s can be brought into\nthe form of the 9’s and o’s. The new wave equation (12) can in this way be\nbrought back into the form of the original wave equation (11) or (9), so that\nthe results that follow from this original wave equation must be independent\nof the frame of reference used.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "Thus by a succession of canonical transformations, which can be combined to form a single canonical transformation, the e”s and o’’s can be brought into the form of the 9’s and o’s.",
+        "Metaphorical phrase": "brought into the form",
+        "Type": "Structural",
+        "Conceptual Mapping": "Transformation is a change in form"
+      },
+      {
+        "Full sentence": "The new wave equation (12) can in this way be brought back into the form of the original wave equation (11) or (9), so that the results that follow from this original wave equation must be independent of the frame of reference used.",
+        "Metaphorical phrase": "brought back into the form",
+        "Type": "Structural",
+        "Conceptual Mapping": "Returning to an original state is a backward movement"
+      },
+      {
+        "Full sentence": "The new wave equation (12) can in this way be brought back into the form of the original wave equation (11) or (9), so that the results that follow from this original wave equation must be independent of the frame of reference used.",
+        "Metaphorical phrase": "frame of reference",
+        "Type": "Structural",
+        "Conceptual Mapping": "Reference system is a frame"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 10 ---\n618 P. A. M. Dirac.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "§4. The Hamiltoman for an Arbitrary Field,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "To obtain the Hamiltonian for an electron in an electromagnetic field with\nscalar potential Ay and vector potential A, we adopt the usual procedure of\nsubstituting py + e/c. Ay for py and p+ e/e.A.for p in the Hamiltonian\nfor no field. From equation (9) we thus obtain",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "[p+ £A0+ a(e,p+2a)+ pyme | = 0. (14)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This wave equation appears to be sufficient to account for all the duplexity\nphenomena. On account of the matrices p and o containing four rows and\ncolumns, it will have four times as many solutions as the non-relativity wave\nequation, and twice as many as the previous relativity wave equation (1).\nSince half the solutions must be rejected as referring to the charge + ¢ on the\nelectron, the correct number will be left to account for duplexity phenomena.\nThe proof given in the preceding section of invariance under a Lorentz trans-\nformation applies equally well to the more general wave equation (14).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We can obtain a rough idea of how (14) differs from the previous relativity\nwave equation (1) by multiplying it up analogously to (5). This gives, if we\nwrite e’ for e/c",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "0 = [— (po + Ag) + 01(o, P+ eA) + page]\nX [(Po + eo) + e1(F, P+e'A) + pgmel Y\n= [— (pp + e'Ap)? +(e, p+ eA)? + mic?\nFerl(o, P+ eA) (Po + ee) — (Pot eA) (S, P+eAIY. (15)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We now use the general formula, that if B and C are any two vectors that com-\nmute with o\n(o, B)(o, C) = 2 of BC, +E (6,92 B,C, + 026, BLCy)\n= (B, C)+7 Xo, (B,C, — B,C,)\n= (B, C)+i(c,BxC). (16)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(o,p+eA = (p+eAP+idos\n(pit e'Ay) (Po + e’Ay) — (Po + e’Ag)(py + eA,)]\n= (p+ e’A)®-+ he’ (co, curl A).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 11 ---\nQuantum Theory of Electron. 619",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Thus (15) becomes\n0=[—(, 4 eAy)? + (pt eA + mck -+ eho, curl A)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "[— (po +e'Ao)?® + (p+ eA)? + mic? + eh (oe, H) + te’he,(, E)] $,\nwhere E and H are the electric and magnetic vectors of the field.\nThis differs from (1) by the two extra terms",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "in F. These two terms, when divided by the factor 2m, can be regarded as the\nadditional potential energy of the electron due to its new degree of freedom.\nThe electron will therefore behave as though it has a magnetic moment ¢h/2me. o\nand an electric moment ieh/2mc.e,o. This magnetic moment is just that\nassumed in the Spinning electron model. The electric moment, being a pure\nimaginary, we should not expect to appear in the model. It is doubtful whether\nthe electric moment has any physical meaning, since the Hamiltonian in (14)\nthat we started from is real, and the imaginary part only appeared when we\nmultiplied it up in an artificial way in order to make it resemble the Hamiltonian.\nof previous theories.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "The electron will therefore behave as though it has a magnetic moment ¢h/2me. o and an electric moment ieh/2mc.e,o.",
+        "Metaphorical Phrase": "The electron will therefore behave as though it has a magnetic moment ¢h/2me. o and an electric moment ieh/2mc.e,o.",
+        "Type": "Structural",
+        "Conceptual Mapping": "Electron behavior is similar to having a magnetic and electric moment",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "This magnetic moment is just that assumed in the Spinning electron model.",
+        "Metaphorical Phrase": "Spinning electron model",
+        "Type": "Structural",
+        "Conceptual Mapping": "Electron behavior is like a spinning object",
+        "creativity": "common"
+      },
+      {
+        "Full Sentence": "It is doubtful whether the electric moment has any physical meaning, since the Hamiltonian in (14) that we started from is real, and the imaginary part only appeared when we multiplied it up in an artificial way in order to make it resemble the Hamiltonian. of previous theories.",
+        "Metaphorical Phrase": "multiplied it up in an artificial way in order to make it resemble the Hamiltonian. of previous theories",
+        "Type": "Contextual",
+        "Conceptual Mapping": "Adjusting a mathematical model is like creating artificial resemblance",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": [
+      {
+        "full_sentence": "The electric moment, being a pure imaginary, we should not expect to appear in the model.",
+        "terms_in_conflict": [
+          "electric moment",
+          "model"
+        ],
+        "explanation": "The paradox arises from the fact that the electric moment, being a pure imaginary, is not expected to appear in the model, yet it is being discussed in the context of the model.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "It is doubtful whether the electric moment has any physical meaning, since the Hamiltonian in (14) that we started from is real, and the imaginary part only appeared when we multiplied it up in an artificial way in order to make it resemble the Hamiltonian of previous theories.",
+        "terms_in_conflict": [
+          "electric moment",
+          "Hamiltonian"
+        ],
+        "explanation": "The paradox here is that the electric moment, which is considered to be imaginary, is being compared to the Hamiltonian, which is real. The authors acknowledge that the imaginary part only appeared when they manipulated the Hamiltonian in an artificial way, which raises questions about the validity of the comparison.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "§5. The Angular Momentum Integrals for Motion in a Central Field.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We shall consider in greater detail the motion .of an electron in a central\nfield of force. We put A =0 and e’Ap = V(r), an arbitrary function of the\nradius 7, so that the Hamiltonian in (14) becomes",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "FE pot V+ e(o, p) + eye.\nWe shall determine the periodic solutions of the wave equation F ) = 0, which\nmeans that py is to be counted as a parameter instead of an operator ; it is, in\nfact, just 1/c times the energy level.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "We shall determine the periodic solutions of the wave equation F ) = 0, which means that py is to be counted as a parameter instead of an operator ; it is, in fact, just 1/c times the energy level.",
+        "Metaphorical Phrase": "py is to be counted as a parameter instead of an operator",
+        "Type": "Structural",
+        "Conceptual Mapping": "The py variable in the equation is likened to a parameter that can be counted or measured, rather than an operator that performs an action.",
+        "creativity": "uncertain"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We shall first find the angular momentum integrals of the motion. The\norbital angular momentum m is defined by",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "m=x X p,\nand satisfies the following ‘“‘ Vertauschungs ”’ relations",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "M0, — 2m, = 0; My — Lym, = tha:\n‘1/1 ohhhe 12 2m 3",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "MP, — Pym = 0, MP, — Pm, = thps ¢>» (17)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 12 ---\n620 P, A. M. Dirac.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "together with similar relations obtained by permuting the suffixes. Also m\ncommutes with 7, and with p,, the momentum canonically conjugate to 7.\nWe have\nmE — Fm, = ey (1m (F, B) —(F, p) m,}\n=, (S, mP — pm)\n= tho, (6293 — 532),\nand so ;\nmF — I'm = the,  X Pp. (18)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Thus m is nof a constant of the motion. We have further\noF — Fo, = 9, {o,(9,p) —(, p) a}",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "= 2ipy (G32 — O2Ps)s\nwith the help of (8), and so",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "oF —Fo = — 2%, ox p.\nHence\n(m+ 4ho)F—F(m+ fhe) =0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Thus m -+ 44 (= M say) is a constant of the motion. We can interpret this\nresult by saying that the electron has a spin angular momentum of $4, which,\nadded to the orbital angular momentum m, gives the total angular momentum\nM, which is a constant of the motion.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The Vertauschungs relations (17) all hold when M’s are written for the m’s.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In particular\nMxM=thM and M?M, = M,M?.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ms; will be an action variable of the system. Since the characteristic values of\nmg must be integral multiples of in order that the wave function may be\nsingle-valued, the characteristic values of M, must be half odd integral multiples\nof h. If we put :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "MP = (7? — a) R?, (19)\nj will be another quantum number, and the characteristic values of M, will\nextend from (j — 4)h to (—j + 4)4.* Thus j takes integral values.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "One easily verifies from (18) that m? does not commute with F, and is thus\nnot a constant of the motion. This makes a difference between the present\ntheory and the previous spinning electron theory, in which m? is constant,\nand defines the azimuthal quantum number & by a relation similar to (19).\nWe shall find that our j plays the same part as the & of the previous theory.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "* See ‘ Roy. Soc. Proc.,’ A, vol. 111, p. 281 (1926).",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 13 ---\nQuantum Theory of Electron. 621",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "§6. The Energy Levels for Motion in a Central Field.",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full Sentence": "§6. The Energy Levels for Motion in a Central Field.",
+        "Metaphorical Phrase": "Energy Levels",
+        "Type": "Structural",
+        "Conceptual Mapping": "Energy is a physical quantity that can be measured in levels",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "We shall now obtain the wave equation as a differential equation in r, with\nthe variables that specify the orientation of the whole system removed. We\ncan do this by the use only of elementary non-commutative algebra in the\nfollowing way.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "In formula (16) take B= C=m. This gives",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(¢, m)?=m%+7(c,m x m) (20)\n=(m-+thkoY—h(o, m)— o2—h(o, m)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Up to the present we have defined j only through 7”, so that we could now, if\nwe liked, take jh equal to (@, m) -++-h. This would not be convenient since we\nwant j to be a constant of the motion while (o, m) +f is not, although its\nsquare is. We have, in fact, by another application of (16),",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(e, m)(o, p)=71(o, mx p)\nsince (m, p) = 0, and similarly",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(o, p)(o, m)=7(e, p x m),\nso that",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(o,m)(o,p)+(o, p) (o, m) = 2d, (maps — Msp. + Pog — Paglia)\n= 1X0, . 2thp, = —2h(e, p),\nor\n{(o, m) +2} (¢, p)-+(¢, p) {(e, m) + A} =0.\nThus (¢, m) -+ A anticommutes with one of the terms in F, namely, e, (¢, p),\nand commutes with the other three. Hence pe, {(o, m) + 4} commutes with all\nfour, and is therefore a constant of the motion. But the square of p,{( o, m)--A}\nmust also equal j?h?. We therefore take\ngh = eg{(F, m) +h}. (21)\nWe have, by a further application of (16)\n(o, x) (o, p) = (x, Pp) +74 (oe, m).\nNow a permissible definition of p, is\n(x, Pp) == rp, + th,\nand from (21)\n(o, m) = psjh — h.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(o, X)(o, D) = 1p + tpgjh. (22)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 14 ---\n622 P. A. M. Dirac.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Introduce the quantity < defined by\nre = py (a, X). (23)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Since 7 commutes with p, and with (o, x), it must commute with c. We thus\nhave\nPe =[p)(c,x)P=(o,xP= x= 7?\nor\n== 1.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Since there is symmetry between x and p so far as angular momentum is con-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "cerned, o, (&, x), like 9, (@, p), must commute with M andj. Hence ¢ com-",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "mutes with M andj. Further, ¢ must commute with p,, since we have\n(, x) (x, P) — (&, Pp) (o, x) = th(, x),",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "re (rp, + th) — (rp, + th) re = thre,\nwhich reduces to :",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Py — Pre = 0.\nFrom (22) and (23) we now have",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "769, (O, P) = My + tpggh\nor\n01 (, P) = ep, + tepsjh/r.\nThus\nF = po + V + ep, + tepggh/r -+ egme. (24)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Equation (23) shows that ¢ anticommutes with o3. We can therefore by a\ncanonical transformation (involving perbaps the 2’s and p’s as well as the o’s\nand ¢’s) bring ¢ into the form of the op, of § 2 without changing p3, and without\nchanging any of the other variables occurring on the right-hand side of (24),\nsince these other variables all commute with ¢. dep, will now be of the form\n503 = — (4, 80 that the wave equation takes the form",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Fu = [po + V + cape — ersh/r + pgme] p = 0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If we write this equation out in full, calling the components of referring to\nthe first and third rows (or columns) of the matrices |, and tg respectively,\nwe get",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "FYe= Pot V) deh de Mbp + mca = 0,",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "PVs = (Po V) Wet OZ da — Ly, — mop = 0.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 15 ---\nQuantum Theory of Electron. 623",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The second and fourth components give just a repetition of these two equations.\nWe shall now eliminate |. If we write AB for py + V ++ me, the first equation\nbecomes",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "0 j CG) 0B\naa eae i Ue= Byte Or",
+    "paragraph_type": "Narrative",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "o TotVPa me FGt)],  10V/9 4 fj), _\nanv + iP ? ] Ye ~ Bh or (5; + ) Ye = 0. (2)\nThe values of the parameter py for which this equation has a solution finite\nat r = 0 andr = © are 1/c times the energy levels of the system. To compare\nthis _ with those of ee theories, we put ts = ry, so that",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If one neglects the last term, which is small on account of B being large, this\nequation becomes the same as the ordinary Schroedinger equation for the system,\nwith relativity correction included. Since j has, from its definition, both\npositive and negative integral characteristic values, our equation will give\ntwice as many energy levels when the last term is not neglected.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": [
+      {
+        "full_sentence": "If one neglects the last term, which is small on account of B being large, this equation becomes the same as the ordinary Schroedinger equation for the system, with relativity correction included.",
+        "terms_in_conflict": [
+          "neglects the last term",
+          "B being large"
+        ],
+        "explanation": "The paradox arises from the fact that the last term is considered small and thus neglected due to B being large, but this neglecting changes the equation to the ordinary Schroedinger equation with relativity correction. This implies that the 'small' term has a significant impact on the equation.",
+        "creativity": "common"
+      },
+      {
+        "full_sentence": "Since j has, from its definition, both positive and negative integral characteristic values, our equation will give twice as many energy levels when the last term is not neglected.",
+        "terms_in_conflict": [
+          "j has both positive and negative integral characteristic values",
+          "equation will give twice as many energy levels when the last term is not neglected"
+        ],
+        "explanation": "The paradox here is that j, which can have both positive and negative values, leads to the equation giving twice as many energy levels when the last term is not neglected. This suggests that the 'neglected' term has a significant impact on the energy levels, contradicting the earlier assertion that it is small and can be neglected.",
+        "creativity": "genuine"
+      }
+    ]
+  },
+  {
+    "paragraph": "We shall now compare the last term of (26), which is of the same order of\nmagnitude as the relativity correction, with the spin correction given by Darwin\nand Pauli. To do this we must eliminate the dy/dr term by a further trans-\nformation of the wave function. We put",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "X= By,\nwhich gives\n02 + VP — me? ytleg|\nFam ts 2 By + [Pot eam 5 mee eh i+),\n1 jaV_,138V,, 1 av\n+t 3, tay oe tte (Gy) fn 0. (27)\n2u2",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "--- Page 16 ---\n624 Quantum Theory of Electron.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "The correction is now, to the first order of accuracy",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "where Bh == 2me (provided py is positive). For the hydrogen atom we must put\nV=e/er. The first order correction now becomes",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "If we write — j for j + 1 in (27), we do not alter the terms representing the",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "28\nIme j (28)\nwill give a second possible correction for the same unperturbed term.\nIn the theory of Pauli and Darwin, the corresponding correcting term is\nee",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "when the Thomas factor $ is included. We must remember that in the Pauli-\nDarwin theory, the resultant orbital angular momentum & plays the part of\nour j. We must define & by",
+    "paragraph_type": "Expository",
+    "metaphors": [
+      {
+        "Full sentence": "in the Pauli-Darwin theory, the resultant orbital angular momentum & plays the part of our j.",
+        "Metaphorical Phrase": "the resultant orbital angular momentum & plays the part of our j",
+        "Type": "Structural",
+        "Conceptual Mapping": "Orbital angular momentum is a stand-in actor",
+        "creativity": "common"
+      }
+    ],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "instead of by the exact analogue of (19), in order that it may have integral\ncharacteristic values, like 7. We have from (20)\n(o, m)? =k (k -+- 1) 4 — h( oe, m)",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "{(@, m) + Shy = (kh + $Ph2,\nhence",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "(o, m) = khor —(k+ 1h\nThe correction thus becomes",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "Ima OF Sond Snakes (F\nwhich agrees with (28) and (28’). The present theory will thus, in the first\napproximation, lead to the same energy levels as those obtained by Darwin,\nwhich are in agreement with experiment.",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  },
+  {
+    "paragraph": "This content downloaded on Mon, 24 Dec 2012 10:29:21 AM\nAll use subject to JSTOR Terms and Conditions",
+    "paragraph_type": "Expository",
+    "metaphors": [],
+    "paradoxes": []
+  }
+]
