@@ -20,7 +20,7 @@ The intermedia process began with sound and evolved toward moving image. The dis
 
 The resulting acoustic space—-an instance of mathematical machinic metasonification (my coinnage)—-set the foundation for the video component. The sonic contigousness was thus complemented by a specific kind of discreteness: a topological and diagrammatic unfolding of the poem as both analytical instrument and exploratory nomadism.
 
-In orbiting_recursions, this took the form of dynamic visualizations of network graphs that trace the evolving recombination of word fragments from the Latin American corpus. In pulse_flash_spectral, the visualization shifted outward—diagramming the tension between translingual sonic similarity and widening semantic divergence between each Spanish line and its Creolized English counterpart.
+In orbiting_recursions, this took the form of dynamic visualizations of network graphs that trace the evolving recombination of word fragments from the Latin American corpus. In pulse_flash_spectral, the visualization shifted outward—diagramming the tension between translingual sonic similarity and widening semantic divergence between each Spanish line and its Creolized English counterpart. [For the Aromanian phrases involved in said "Creolization," a big thank you to https://github.com/arotranslate/AroTranslate.]
 
 The intermedia poem "World Poem I. Quantum AHiRA" has been submitted to a literary journal that features computational poetry (stay tuned!). In the meantime, the code available in this repo ('Margento_World_Poem_I_Rich_Sonification_n_Video_Automation.ipynb) can be run to generate your own piece.
 
